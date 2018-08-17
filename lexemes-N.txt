@@ -31,6 +31,14 @@
  trans_de: eine Münze
  trans_en: coin
 -lexeme
+ lex: ʕabd
+ stem: ʕabd./ʕabdin.
+ root: ʕbd
+ gramm: N,m
+ paradigm: N2
+ trans_de: Riese, Ungeheuer
+ trans_en: giant, monster
+-lexeme
  lex: ʕabda
  stem: ʕabda.|ʕabdat.
  root: ʕbʔ
@@ -166,8 +174,8 @@
  trans_de: Qual
  trans_en: torture, pain, suffering
 -lexeme
- lex: ʕaḏim
- stem: ʕaḏim.
+ lex: ʕaḏ̣im
+ stem: ʕaḏ̣im
  root: ʕḏm
  gramm: ADJ
  paradigm: unchangeable
@@ -183,11 +191,11 @@
  trans_en: bravo
 -lexeme
  lex: ʕafino
- stem: ʕafino.
+ stem: ʕafino.|ʕafine.
  root: ʕfn
- gramm: INTERJ
- trans_de: sagt eine Frau zu einem zudrignlichen Mann
- trans_en: <???>
+ gramm: ADJ
+ trans_de: stinkig
+ trans_en: stinky
 -lexeme
  lex: ʕafye
  stem: ʕafye.
@@ -209,7 +217,7 @@
  stem: ʕafoye.|ʕafoyat.
  root: ʕfw
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N2
  trans_de: Verzeihung
  trans_en: pardon
 -lexeme
@@ -230,12 +238,12 @@
  trans_en: push during fight
 -lexeme
  lex: ʕafrit
- stem: ʕafrit.|ʕafritin.//ʕafrit.
+ stem: ʕafrit.//ḥafrit.|ʕafritin.//ʕafrit.//ḥafritin.//ḥafritat.//ḥafritawat.//ḥafrite
  root: ʕfrt
  gramm: N,m
  paradigm: N2
  trans_de: Unhold 
- trans_en: <TBC>
+ trans_en: giant, monster
 -lexeme
  lex: ʕafṣo
  stem: ʕafṣo.|ʕafṣe.
@@ -243,7 +251,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: gallapfelähnlicher Auswuchs an der Eiche
- trans_en: <?>
+ trans_en: oak apple
 -lexeme
  lex: ʕafṭare
  stem: ʕafṭare.|ʕafṭarat.
@@ -267,14 +275,14 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ring des Kopftuches
- trans_en: <?>
+ trans_en: cord for headdress
 -lexeme
  lex: ʕagər
  stem: ʕagər.
  root: ʕqr
  gramm: ADJ
  paradigm: unchangeable
- trans_de: unfruchtabr (Frau)
+ trans_de: unfruchtbar (Frau)
  trans_en: barren woman
 -lexeme
  lex: ʕagid
@@ -315,7 +323,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Eile
- trans_en: hurry
+ trans_en: hurry; quickly; quick (?)
 -lexeme
  lex: ʕaǧam
  stem: ʕaǧam.
@@ -342,12 +350,12 @@
  trans_en: dirt
 -lexeme:
  lex: ʕaǧeb//ʕaǧayəb//ʕaǧib
- stem: ʕaǧeb.//ʕaǧayəb.
+ stem: ʕaǧeb.//ʕaǧayəb.//ʕaǧib.
  root: ʕǧb
  gramm: <?>
  paradigm: unchangeable
  trans_de: Wunder, sonderbar
- trans_en: wonder
+ trans_en: astonishing, amazing
 -lexeme
  lex: ʕaǧebmayi
  stem: ʕaǧebmayi.
@@ -379,7 +387,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: mit Holschlägel klein geschlagenes, dann mit feiner Weizengrütze gemischtes Fleisch, roh gegessen
- trans_en: <?>
+ trans_en: meatball (?)
 -lexeme
  lex: ʕaǧəz
  stem: ʕaǧəz.
@@ -411,7 +419,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Bodensatz (auch der Bevölkerung)
- trans_en: <?>
+ trans_en: residue
 -lexeme
  lex: ʕakfiye
  stem: ʕakfiye.|ʕakfiyat.
@@ -765,6 +773,14 @@
  trans_de: verstorben
  trans_en: deceased
 -lexeme
+ lex: ʕAnqara
+ stem: ʕAnqara.
+ root: ʕnqr
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Ankara
+ trans_en: Ankara
+-lexeme
  lex: ʕanta
  stem: ʕanta.
  root: ʕnt
@@ -790,10 +806,10 @@
  trans_en: land, area, city boundary
 -lexeme
  lex: ʕaqbiye
- stem: ʕaqbiye.
+ stem: ʕaqbiye.|ʕaqbiyat.
  root: ʕqb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stiefelabsatz
  trans_en: heel
 -lexeme
@@ -805,53 +821,69 @@
  trans_de: eingedickter Traubensirup
  trans_en: resinous grape syrup
 -lexeme
+ lex: ʕaqəl
+ stem: ʕaqəl./ʕaqlin.
+ root: ʕql
+ gramm: ADJ
+ paradigm: N1
+ trans_de: klug
+ trans_en: smart, clever
+-lexeme
  lex: ʕaql/ʕaqəl
  stem: ʕaqəl.//ʕaql.
  root: ʕql
  gramm: N,m
  paradigm: N1
  trans_de: Verstand
- trans_en: 
+ trans_en: mind; intellect
+-lexeme
+ lex: ʕaqəldar
+ stem: ʕaqəldar.|ʕaqəldar.
+ root: ʕqldr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verständig, weise
+ trans_en: clever, wise
 -lexeme
  lex: ʕaqraba
  stem: ʕaqraba.
  root: ʕqrb
  gramm: N,f
  paradigm: N1
- trans_de: Steinhacke, um feine Rillen in Stein zu schlagen, kleiner als
- trans_en: 
+ trans_de: Steinhacke, um feine Rillen in Stein zu schlagen, kleiner als šawko, 30 cm lang
+ trans_en: a pick to gouge out small riffles in a rock, less than šawko, 30 cm long
 -lexeme
  lex: ʕaqšune
- stem: ʕaqšune.|ʕaqšunee.
+ stem: ʕaqšune.|ʕaqšune.
  root: ʕqšn
  gramm: N,f
  paradigm: N2
  trans_de: Feldmannstreu, Eryngium campestre L. (wird gegessen)
- trans_en: 
+ trans_en: <?>
 -lexeme
- lex: ʕaqud
- stem: ʕaqud.
+ lex: ʕaqud/ʕaqut/aqut
+ stem: ʕaqud.//ʕaqut.//aqut.
  root: ʕqd
  gramm: N,m
  paradigm: N1
  trans_de: Rubin
- trans_en: 
--lexeme
- lex: ʕaqut
- stem: ʕaqut.
- root: ʕqt
- gramm: N,m
- paradigm: N1
- trans_de: Rubin
- trans_en: 
+ trans_en: ruby
 -lexeme
  lex: ʕaqwo
- stem: ʕaqwo.
+ stem: ʕaqwo.|ʕaqwe.
  root: ʕqw
  gramm: N,m
  paradigm: N1
  trans_de: stumpfes Ende des Eies, leere Eierschale
- trans_en: 
+ trans_en: blunt point of an egg; empty eggshell
+-lexeme
+ lex: ʕar
+ stem: ʕar.|ʕarat.
+ root: ʕwr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Schande
+ trans_en: shame
 -lexeme
  lex: ʕarʕuro
  stem: ʕarʕuro.|ʕarʕure.
@@ -859,15 +891,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Art Manna, das man von den Blättern der Gebüsche sammelt, in Krüge tut und dann isst
- trans_en: 
+ trans_en: a type of manna which is gathered from leaves of bushes, put in jars and then eaten
 -lexeme
  lex: ʕarab
- stem: ʕarab.
+ stem: ʕarab.|ʕarab.
  root: ʕrb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Araber
- trans_en: 
+ trans_en: Arab
 -lexeme
  lex: ʕaraba
  stem: ʕaraba.|ʕarabat.
@@ -875,31 +907,46 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wagen
+ trans_en: car
+-lexeme
+ lex: ʕarabana
+ stem: ʕarabana.|ʕarabanat.
+ root: ʕrbn
+ gramm: N,f
+ trans_de: von Tieren gezogener Wagen; Tamburin
  trans_en: 
 -lexeme
  lex: ʕarabi
  stem: ʕarabi.
  root: ʕrb
  gramm: N,m
- paradigm: N1
- trans_de: iye Araber
- trans_en: 
+ paradigm: <unchangeable>
+ trans_de: Araber; arabisch
+ trans_en: Arab; arabic
 -lexeme
+-lexeme
+ lex: ʕarabiye
+ stem: ʕarabiye.
+ root: ʕrb
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Arabien
+ trans_en: Arabia, Arabian Peninsula
  lex: ʕaradude
- stem: ʕaradude.
+ stem: ʕaradude.|ʕaradudat.
  root: ʕrd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Geschwulst am Bein, die durch Überanstrengung (etwa Gehen auf Steinen) entsteht
- trans_en: 
+ trans_en: a swelling on a leg which appears from strain (from walking on stones)
 -lexeme
- lex: ʕaraq
- stem: ʕaraq.
+ lex: ʕaraq//ʕəraq
+ stem: ʕaraq.//ʕəraq.
  root: ʕrq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schnaps
- trans_en: 
+ trans_en: vodka, schnapps
 -lexeme
  lex: ʕarašiye
  stem: ʕarašiye.|ʕarašiyat.
@@ -907,15 +954,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: langes Kopftuch der Frauen
- trans_en: 
+ trans_en: silk kerchief of women
 -lexeme
- lex: ʕarnana
- stem: ʕarnana.
- root: ʕrn
+ lex: ʕarbana
+ stem: ʕarbana.//ʕarnana.|ʕarbanat.//ʕarnanat.
+ root: ʕrb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tamburin (auch zum Wecken im Ramazan gebraucht)
- trans_en: 
+ trans_en: tambourine
 -lexeme
  lex: ʕarbo
  stem: ʕarbo.|ʕarbe.
@@ -923,7 +970,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: männliches Lamm
- trans_en: 
+ trans_en: he-lamb
 -lexeme
  lex: ʕarbolo
  stem: ʕarbolo.|ʕarbole.
@@ -931,15 +978,30 @@
  gramm: N,m
  paradigm: N2
  trans_de: mittelgroßes Sieb
- trans_en: 
+ trans_en: sieve of average size
 -lexeme
+ lex: ʕard
+ stem: ʕard.
+ root: ʕrḍ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: ebene Erde, Grund und Boden
+ trans_en: flat plane, ground
+-lexeme
+ lex: ʕarḏali
+ stem: ʕarḏali.
+ root: ʕrḏl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: anfällig
+ trans_en: 
  lex: ʕariqo
  stem: ʕariqo.
  root: ʕrq
  gramm: N,m
  paradigm: N1
- trans_de: Mi
- trans_en: 
+ trans_de: flüchtig
+ trans_en: fugitive (?)
 -lexeme
  lex: ʕarkuwo
  stem: ʕarkuwo.|ʕarkuwe.
@@ -947,15 +1009,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Distel (die stachligen Blätter werden entfernt, die Rippen werden gekocht und gegessen, mit Eiern und Butter)
- trans_en: 
+ trans_en: thistle (?)
 -lexeme
  lex: ʕarnoṣo
- stem: ʕarnoṣo.
+ stem: ʕarnoṣo.|ʕarnoṣe.
  root: ʕrnṣ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Art Maulkorb für Ochsen, damit er nicht beim Dreschen frisst. Besteht aus einer Rute, die klammerartig über dem Maul zusammengebogen und an den Hörnern befestigt wird. Man braucht ihn auch zum Festbinden des Tieres. Dann wird die Klammer über die Schnauze gezogen. nicht
- trans_en: 
+ trans_en: muzzle for ox, so that he does not it while thrashing
 -lexeme
  lex: ʕarquwo
  stem: ʕarquwo.|ʕarquwe.
@@ -963,15 +1025,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Achillesferse, Ferse
- trans_en: 
+ trans_en: heel, Achilles' heel
+-lexeme
+ lex: ʕaršo
+ stem: ʕaršo.|ʕarše.//ʕaršone.
+ root: ʕrš
+ gramm: N,m
+ paradigm: N2
+ trans_de: Zahn
+ trans_en: tooth
+-lexeme
+ lex: ʕartəmono
+ stem: ʕartəmono.|ʕartəmone.
+ root: ʕrtm
+ gramm: N,m
+ paradigm: N2
+ trans_de: Dunkelheit des Himmels bei Tage
+ trans_en: darkness of sky at day
 -lexeme
  lex: ʕariye
  stem: ʕariye.
  root: ʕry
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schande
- trans_en: 
+ trans_en: shame, disgrace
 -lexeme
  lex: ʕarṯo
  stem: ʕarṯo.|ʕaroṯo.
@@ -979,15 +1057,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Nebenfrau
- trans_en: 
+ trans_en: concubine
 -lexeme
  lex: ʕarz
- stem: ʕarz.
+ stem: ʕarz./ʕarḏ̣
  root: ʕrḍ
  gramm: N,m
- paradigm: N1
- trans_de: Ehre d-
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Ehre
+ trans_en: honour
 -lexeme
  lex: ʕarzelo
  stem: ʕarzelo.|ʕarzele.
@@ -995,15 +1073,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bettgestell für mehrere Personen
- trans_en: 
+ trans_en: bed for many persons (?)
+-lexeme
+ lex: ʕas
+ stem: ʕas.
+ root: ʕs
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: vielleicht, etwa
+ trans_en: perhaps, really (?)
 -lexeme
  lex: ʕaskar
- stem: ʕaskar.|ʕasekir.//id..
+ stem: ʕaskar.|ʕasekir.//ʕaskar.
  root: ʕskr
  gramm: N,f
  paradigm: N2
  trans_de: Soldaten, Heer
- trans_en: 
+ trans_en: soldiers, army
 -lexeme
  lex: ʕaskariye
  stem: ʕaskariye.|ʕaskariye.
@@ -1011,23 +1097,38 @@
  gramm: N,f
  paradigm: N2
  trans_de: a) Militär, militär- b) Militärdienst
- trans_en: 
+ trans_en: a) military; b) military (adj.); c) military service
 -lexeme
+ lex: ʕasqiye
+ stem: ʕasqiye.|ʕasqiyat.
+ root: ʕsq
+ gramm: N,f
+ paradigm: N2
+ trans_de: Haken, Kleiderbügel, Garderobenständer
+ trans_en: clothes hook, rack
  lex: ʕaṣaba
- stem: ʕaṣaba.
+ stem: ʕaṣaba.//ʕaṣabe.|ʕaṣabat.
  root: ʕṣb
  gramm: N,f
  paradigm: N1
  trans_de: Schar
- trans_en: 
+ trans_en: crowd
+-lexeme
+ lex: ʕaṣabi
+ stem: ʕaṣabi.
+ root: ʕṣb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nervös, in der Ehre empfindlich
+ trans_en: nervous, sensitive with regard to honour
 -lexeme
  lex: ʕaṣəl
  stem: ʕaṣəl.
  root: ʔṣl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ursprung, Herkunft
- trans_en: 
+ trans_en: origin, provenance
 -lexeme
  lex: ʕaṣriye
  stem: ʕaṣriye.|ʕaṣriyawoṯo.//ʕaṣriyawat.
@@ -1035,31 +1136,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Nachmittag, Abend
- trans_en: 
+ trans_en: afternoon, evening; in the evening
 -lexeme
  lex: ʕaṣro
  stem: ʕaṣro.|ʕaṣrowat.
  root: ʕsr
  gramm: N,m
  paradigm: N2
- trans_de: AS; tre
- trans_en: 
+ trans_de: zehn
+ trans_en: ten
 -lexeme
  lex: ʕaṣyo
  stem: ʕaṣyo.|ʕaṣye.
  root: ʕṣy
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: zugänglich, steil; festsitzend, nicht nachgebend, schwer zu ertragen
- trans_en: 
+ trans_de: unzugänglich, steil; festsitzend, nicht nachgebend, schwer zu ertragen
+ trans_en: inaccessible, steep; difficult to bear; firm, strong (?)
 -lexeme
  lex: ʕaṣuṣo
- stem: ʕaṣuṣo.
+ stem: ʕaṣuṣo.|ʕaṣuṣe.
  root: ʕṣṣ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: unreife Frucht (z. B. Zwetschge, Walnuss); (fig.) geizig
- trans_en: 
+ trans_en: unripe fruit; stingy
 -lexeme
  lex: ʕaš(ə)q
  stem: ʕaš(ə)q.|maʕ=ʕašqat.
