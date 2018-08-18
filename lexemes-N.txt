@@ -118,8 +118,8 @@
  trans_de: Sitte, Gewohnheit
  trans_en: custom, tradition
 -lexeme
- lex: ʕadəl
- stem: ʕadəl.
+ lex: ʕadəl/ʕedəl
+ stem: ʕadəl.//ʕedəl.
  root: ʕdl
  gramm: ADJ
  paradigm: unchangeable
@@ -1162,21 +1162,28 @@
  trans_de: unreife Frucht (z. B. Zwetschge, Walnuss); (fig.) geizig
  trans_en: unripe fruit; stingy
 -lexeme
- lex: ʕaš(ə)q
- stem: ʕaš(ə)q.|maʕ=ʕašqat.
- root: ʕš()q
+ lex: ʕašəq//ʕašq
+ stem: ʕašq.//ʕašəq.|ʕašqat.
+ root: ʕšq
  gramm: N,m
  paradigm: N2
  trans_de: Begeisterung
- trans_en: 
+ trans_en: enthusiasm
 -lexeme
+ lex: ʕašəq
+ stem: ʕašəq.
+ root: ʕšq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: liebend
+ trans_en: loving
  lex: ʕašire
- stem: ʕašire.|ʕašayir.
+ stem: ʕašire.|ʕašayər.
  root: ʕšr
  gramm: N,f
  paradigm: N2
  trans_de: Stamm
- trans_en: 
+ trans_en: tribe, clan
 -lexeme
  lex: ʕašərto
  stem: ʕašərto.|ʕašəryoṯe.
@@ -1184,71 +1191,79 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stamm
- trans_en: 
+ trans_en: tribe, clan
 -lexeme
  lex: ʕašiye
- stem: ʕašiye.
+ stem: ʕašiye.|ʕašiyat.
  root: ʕšy
  gramm: N,f
  paradigm: N1
- trans_de: abends Ed
- trans_en: 
+ trans_de: abends
+ trans_en: in the evening
 -lexeme
  lex: ʕatimo
- stem: ʕatimo.
+ stem: ʕatimo.|ʕatime.
  root: ʕtm
- gramm: N,m
- paradigm: N1
- trans_de: X
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: dunkel
+ trans_en: dark
 -lexeme
  lex: ʕatiqo
  stem: ʕatiqo.|ʕatiqe.
  root: ʕtq
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: alt
+ trans_en: old, ancient; earlier
 -lexeme
  lex: ʕatiro
- stem: ʕatiro.
+ stem: ʕatiro.|ʕatire.
  root: ʕtr
  gramm: N,m
- paradigm: N1
- trans_de: reich Sl
- trans_en: 
+ paradigm: N2
+ trans_de: reich
+ trans_en: rich
 -lexeme
  lex: ʕatumo
  stem: ʕatumo.|ʕatume.
  root: ʕtm
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: An
- trans_en: 
+ trans_de: dunkel
+ trans_en: dark
 -lexeme
  lex: ʕaṭfe
- stem: ʕaṭfe.
+ stem: ʕaṭfe.|ʕaṭfat
  root: ʕṭf
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleine Traube
- trans_en: 
+ trans_en: small grapes
 -lexeme
  lex: ʕaṭəl
  stem: ʕaṭəl.
  root: ʕṭl
- gramm: N,m
- paradigm: N1
- trans_de: mit schlechter Absicht“
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nichtig; schlecht
+ trans_en: insignificant; bad
+-lexeme
+ lex: ʕaṭiye
+ stem: ʕaṭiye.|ʕaṭiyat.
+ root: ʕṭy
+ gramm: N,f
+ paradigm: N2
+ trans_de: Gabe
+ trans_en: gift
 -lexeme
  lex: ʕaṭmo
- stem: ʕaṭmo.|ʕaṭmooṯe.
+ stem: ʕaṭmo.|ʕaṭmoṯe.
  root: ʕṭm
  gramm: N,f
  paradigm: N2
  trans_de: Oberschenkel, Hinterbacke, Keule
- trans_en: 
+ trans_en: hip, buttock, leg of beef
 -lexeme
  lex: ʕaṭoro
  stem: ʕaṭoro.|ʕaṭore.
@@ -1256,47 +1271,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krämer
- trans_en: 
+ trans_en: small trader
 -lexeme
  lex: ʕaṭṭariye
  stem: ʕaṭṭariye.
  root: ʕṭr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kramhandel
- trans_en: 
+ trans_en: small trade
 -lexeme
  lex: ʕavd
- stem: ʕavd.//ʕabd./ʕafd/ʕaft.|ʕavdat.//ʕavdin.//ʕabdin.//ʕaftin.//ʕavd.//ʕafd.//ʕaft.
+ stem: ʕavd.//ʕabd./ʕafd/ʕaft.|ʕavdat.//ʕavdin.//ʕabdin.//ʕaftin.//ʕafd.//ʕaft.
  root: ʕbd
  gramm: N,m
  paradigm: N2
  trans_de: Riese, Unhold, schwarzer Unhold
- trans_en: 
+ trans_en: giant, monster
 -lexeme
  lex: ʕawara
  stem: ʕawara.
  root: ʕwr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bummler, ohne Beschäftigung
- trans_en: 
+ trans_en: idler
 -lexeme
- lex: ʕawḏiye
- stem: ʕawḏiye.
+ lex: ʕawḏ̣iye
+ stem: ʕawḏ̣iye.|ʕawḏ̣iyat.
  root: ʕwḍ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gegenleistung, Entgelt, Ersatz
- trans_en: 
+ trans_en: reward, compensation, replacement
+-lexeme
+ lex: ʕawəz
+ stem: ʕawəz.
+ root: ʕwz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bedürfend
+ trans_en: the one in need
 -lexeme
  lex: ʕawido
- stem: ʕawido.
+ stem: ʕawido.|ʕawide.
  root: ʕwd
- gramm: N,m
- paradigm: N1
- trans_de: Messer u. ä.) f
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: scharf
+ trans_en: sharp
 -lexeme
  lex: ʕawodo
  stem: ʕawodo.|ʕawode.
@@ -1304,39 +1327,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Arbeiter
- trans_en: 
+ trans_en: worker
 -lexeme
  lex: ʕawudo
  stem: ʕawudo.|ʕawude.
  root: ʕwd
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Messer, Bleistift)
- trans_en: 
+ trans_de: scharf, spitz
+ trans_en: sharp
+-lexeme
+ lex: ʕawwəl
+ stem: ʕawwəl.
+ root: ʕwl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: zuerst, zunächst
+ trans_en: at first
+-lexeme
+ lex: ʕayal
+ stem: ʕayal.
+ root: ʕwl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Familie
+ trans_en: family
+-lexeme
+ lex: ʕayan
+ stem: ʕayan.
+ root: ʕyy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: krank
+ trans_en: ill
 -lexeme
  lex: ʕayb
  stem: ʕayb.
  root: ʕyb
  gramm: N,m
- paradigm: N1
- trans_de: Schande, Fehler
- trans_en: 
+ paradigm: unchangeable
+ trans_de: ungehörig, Schande, Fehler
+ trans_en: inappropriate, shame, mistake
 -lexeme
  lex: ʕaybo
  stem: ʕaybo.
  root: ʕyb
  gramm: N,m
- paradigm: N1
- trans_de: Schande, Fehler
- trans_en: 
+ paradigm: unchangeable
+ trans_de: ungehörig, Schande, Fehler
+ trans_en: inappropriate, shame, mistake
+-lexeme
+ lex: ʕayəd d-
+ stem: ʕayəd d.
+ root: ʕwd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: zugehörend
+ trans_en: belonging
 -lexeme
  lex: ʕayil
  stem: ʕayil.
  root: ʕwl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: das Richtige leugnend, falscher Zeuge, Angeber
- trans_en: 
+ trans_en: one who denies the truth, false witness, informer
 -lexeme
  lex: ʕayle
  stem: ʕayle.|ʕaylat.
@@ -1344,23 +1399,56 @@
  gramm: N,f
  paradigm: N2
  trans_de: Familie
- trans_en: 
+ trans_en: family
 -lexeme
- lex: ʕaymo
- stem: ʕaymo.
+ lex: ʕayliye
+ stem: ʕayliye.
+ root: ʕwl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Familien-
+ trans_en: family (adj.)
+-lexeme
+ lex: ʕaymo/ʕaywo
+ stem: ʕaymo.//ʕaywo.|ʕayme.//ʕaywe.
  root: ʕym
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wolke
- trans_en: 
+ trans_en: cloud
+-lexeme
+ lex: ʕayn
+ stem: ʕayn.
+ root: ʕyn
+ gramm: ADV
+ paradigm: unchangeable
+ root: ʕyn
+ trans_de: genauso
+ trans_en: the same; the same way as
 -lexeme
  lex: ʕayna
- stem: ʕayna.
+ stem: ʕayna.|ʕaynat.
  root: ʕyn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Spiegel
- trans_en: 
+ trans_en: mirror
+-lexeme
+ lex: ʕaynan
+ stem: ʕaynan.
+ root: ʕyn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ebenso, genauso
+ trans_en: the same way
+-lexeme
+ lex: ʕayni
+ stem: ʕayni.
+ root: ʕyn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: derselbe
+ trans_en: same
 -lexeme
  lex: ʕaynənto
  stem: ʕaynənto.
@@ -1375,88 +1463,80 @@
  root: ʕyn
  gramm: N,f
  paradigm: N2
- trans_de: Brille; pl
- trans_en: 
+ trans_de: Brille
+ trans_en: glasses
 -lexeme
  lex: ʕayno
- stem: ʕayno.|ʕaynoe.//-oṯo.
+ stem: ʕayno.|ʕayne.//ʕaynoṯe.//ʕaynoṯo.//ʕaynawoṯe.
  root: ʕyn
  gramm: N,f
  paradigm: N2
- trans_de: a) Auge b) Knospenansatz c) Quelle, Brunnen, Wasserhahn pl
- trans_en: 
--lexeme
- lex: ʕaywo
- stem: ʕaywo.|ʕaywe.
- root: ʕyw
- gramm: N,m
- paradigm: N2
- trans_de: Wolke
- trans_en: 
+ trans_de: Auge; Knospenansatz; Quelle, Brunnen, Wasserhahn
+ trans_en: eye; spring, well
 -lexeme
  lex: ʕaza
- stem: ʕaza.|ʕazawat.
+ stem: ʕaza.
  root: ʕz
  gramm: N,m
- paradigm: N2
+ paradigm: N1
  trans_de: Trauerfeier
- trans_en: 
+ trans_en: funeral service
 -lexeme
  lex: ʕazbo
  stem: ʕazbo.|ʕazbe.
  root: ʕzb
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: S
- trans_en: 
+ trans_de: ledig, unverheiratet
+ trans_en: single, unmarried
 -lexeme
  lex: ʕazime
- stem: ʕazime.|ʕazayəm.//ʕazimeat.
+ stem: ʕazime.|ʕazayəm.//ʕazimat.
  root: ʕzm
  gramm: N,f
  paradigm: N2
  trans_de: Einladung, Gastmahl
- trans_en: 
+ trans_en: invitation, banquet
 -lexeme
  lex: ʕazizo
  stem: ʕazizo.|ʕazize.
  root: ʕzz
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Gast), lieb, teuer
- trans_en: 
+ trans_de: geehrt (Gast), lieb, teuer
+ trans_en: honored (guest), dear, beloved
 -lexeme
  lex: ʕazlo
- stem: ʕazlo.
+ stem: ʕazlo.|ʕazle.
  root: ʕzl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Garn
- trans_en: 
+ trans_en: yarn
 -lexeme
  lex: ʕazman
  stem: ʕazman.
  root: ʕzmn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Himmel
- trans_en: 
+ trans_en: sky
+-lexeme
+ lex: ʕden
+ stem: ʕden.
+ root: ʕdn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Eden
+ trans_en: Edem
 -lexeme
  lex: ʕebo
  stem: ʕebo.
  root: ʕb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Busen-, Brusttasche
- trans_en: 
--lexeme
- lex: ʕedəl
- stem: ʕedəl.
- root: ʕdl
- gramm: N,m
- paradigm: N1
- trans_de: S
- trans_en: 
+ trans_en: bosom or breast pocket
 -lexeme
  lex: ʕeḏo
  stem: ʕeḏo.|ʕeḏe.
@@ -1464,15 +1544,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Fest
- trans_en: 
+ trans_en: feast
 -lexeme
- lex: ʕegeliye
- stem: ʕegeliye.|ʕegeliyat.
+ lex: ʕegeliye/ʕəgeliye
+ stem: ʕegeliye.//ʕəgeliye|ʕegeliyat.//ʕəgeliyat.
  root: ʕql
  gramm: N,f
  paradigm: N2
  trans_de: Ring des Kopftuches
- trans_en: 
+ trans_en: cord for headdress
 -lexeme
  lex: ʕeliṯo
  stem: ʕeliṯo.
