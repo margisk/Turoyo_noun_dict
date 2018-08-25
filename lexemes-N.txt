@@ -270,7 +270,7 @@
  trans_en: pardon, mercy
 -lexeme
  lex: ʕagale//ʕəgele
- stem: ʕagale.//ʕəgele.|ʕagalat.//ʕəgelat.
+ stem: ʕagale.//ʕəgele.//ʕəgeliye.//ʕegeliye.|ʕagalat.//ʕəgelat.//ʕəgeliyat.//ʕegeliyat.
  root: ʕql
  gramm: N,f
  paradigm: N2
