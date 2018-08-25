@@ -24,7 +24,7 @@
  trans_en: wool jacket, wool coat
 -lexeme
  lex: ʕabbasiye
- stem: ʕabbasiye.|ʕabbasiyat.
+ stem: ʕabbasiye.//ʕəbbasiye|ʕabbasiyat.//ʕəbbasiyat
  root: ʕbsy
  gramm: N,f
  paradigm: N2
@@ -309,8 +309,8 @@
  trans_de: Fragepartikel
  trans_en: <?>
 -lexeme
- lex: ʕaǧaǧ
- stem: ʕaǧaǧ.|ʕaǧaǧat.
+ lex: ʕaǧaǧ/ʕəǧaǧ
+ stem: ʕaǧaǧ.//ʕəǧaǧ.|ʕaǧaǧat.//ʕəǧaǧat.
  root: ʕǧǧ
  gramm: N,m
  paradigm: N2
@@ -485,21 +485,13 @@
  trans_de: eiligst
  trans_en: in a hurry
 -lexeme
- lex: ʕalame
- stem: ʕalame.|ʕalamat.
+ lex: ʕalame/ʕəlame
+ stem: ʕalame.//ʕəlame.//ʕlama|ʕalamat.//ʕəlamat.//ʕlamat
  root: ʕlm
  gramm: N,f
  paradigm: N2
  trans_de: Zeichen, Kennzeichen
  trans_en: sign
--lexeme
- lex: ʕalbe
- stem: ʕalbe.|ʕelab.
- root: ʕlb
- gramm: N,f
- paradigm: N2
- trans_de: Hohlmaß
- trans_en: measure of capacity
 -lexeme
  lex: ʕaliye
  stem: ʕaliye.|ʕaliyat.
@@ -518,7 +510,7 @@
  trans_en: turkey cock
 -lexeme
  lex: ʕalofo
- stem: ʕalofo.|ʕalofe
+ stem: ʕalofo.//ʕəlofo.//ʕlofo.|ʕalofe.//ʕəlofe.//ʕlofe
  root: ʕlf
  gramm: N,m
  paradigm: N2
@@ -597,14 +589,6 @@
  trans_de: Amerikaner, amerikanisch
  trans_en: an American, american
 -lexeme
- lex: ʕamara
- stem: ʕamara.
- root: ʕmr
- gramm: N,f
- paradigm: N1
- trans_de: Erbauung
- trans_en: construction, building
--lexeme
  lex: ʕambiqe
  stem: ʕambiqe.|ʕambiqat.
  root: ʕmbq
@@ -614,7 +598,7 @@
  trans_en: a ditch
 -lexeme
  lex: ʕambur
- stem: ʕambur.//ʕənbur|ʕambure.//ʕənbure.
+ stem: ʕambur.//ʕənbur.//ʕənbure.|ʕambure.//ʕənbure.//ʕənburat.
  root: ʕmbr
  gramm: N,m
  paradigm: N2
@@ -1060,7 +1044,7 @@
  trans_en: concubine
 -lexeme
  lex: ʕarz
- stem: ʕarz./ʕarḏ̣
+ stem: ʕarz.//ʕarḏ̣.//ʕərḏ̣
  root: ʕrḍ
  gramm: N,m
  paradigm: unchangeable
@@ -1163,11 +1147,11 @@
  trans_en: unripe fruit; stingy
 -lexeme
  lex: ʕašəq//ʕašq
- stem: ʕašq.//ʕašəq.|ʕašqat.
+ stem: ʕašq.//ʕašəq.//ʕəšq|ʕašqat.//ʕəšqat
  root: ʕšq
  gramm: N,m
  paradigm: N2
- trans_de: Begeisterung
+ trans_de: Begeisterung; Liebe
  trans_en: enthusiasm
 -lexeme
  lex: ʕašəq
@@ -1555,28 +1539,36 @@
  trans_en: cord for headdress
 -lexeme
  lex: ʕeliṯo
- stem: ʕeliṯo.
+ stem: ʕeliṯo.//ʕəliṯo.
  root: ʕlw
  gramm: N,f
  paradigm: N1
- trans_de: a) Dachboden. b) Zimmer auf dem Dache c) Minarett
- trans_en: 
+ trans_de: Dachboden; Zimmer auf dem Dache; Minarett
+ trans_en: attic; room on a roof; minaret
 -lexeme
  lex: ʕeloyo
  stem: ʕeloyo.|ʕeloye.
  root: ʕlw
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: a) hoch; laut b) Dachboden
- trans_en: 
+ trans_de: hoch; laut; Dachboden
+ trans_en: high; loud; attic
 -lexeme
  lex: ʕeqarwo
- stem: ʕeqarwo.|ʕeqarwe.
+ stem: ʕeqarwo.//ʕiqarwo.//ʕəqarwo.|ʕeqarwe.//ʕiqarwe.//ʕəqarwe.
  root: ʕqrw
  gramm: N,f
  paradigm: N2
  trans_de: Skorpion
- trans_en: 
+ trans_en: scorpion
+-lexeme
+ lex: ʕerati
+ stem: ʕerati.
+ root: ʕrt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unordentlich, nachlässig
+ trans_en: disorderly, negligent
 -lexeme
  lex: ʕerbo
  stem: ʕerbo.
@@ -1586,13 +1578,21 @@
  trans_de: männliches Lamm
  trans_en: 
 -lexeme
+ lex: ʕeṣəl ʕam
+ stem: ʕeṣəl ʕam.
+ root: ʕṣl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gedränge, Volksmenge, Gewimmel
+ trans_en: crowd, crush
+-lexeme
  lex: ʕezaran
  stem: ʕezaran.
  root: ʕzrn
  gramm: N,m
- paradigm: N1
- trans_de: Rohrstück, Rohrstock nicht
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Rohrstück, Rohrstock
+ trans_en: pipe socket (?); reed cane
 -lexeme
  lex: ʕezo
  stem: ʕezo.|ʕeze.
@@ -1600,47 +1600,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ziege
- trans_en: 
+ trans_en: goat
 -lexeme
- lex: ʕezo
- stem: ʕezo.|ʕeze.
+ lex: ʕezo ṭuro
+ stem: ʕezo ṭuro.|ʕeze ṭure.
  root: ʕz
  gramm: N,f
  paradigm: N2
  trans_de: Steinbock
- trans_en: 
+ trans_en: ibex
+-lexeme
+ lex: ʕəbara
+ stem: ʕəbara.
+ root: ʕbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bestehend aus
+ trans_en: consisting of
 -lexeme
  lex: ʕəbre
  stem: ʕəbre.
  root: ʕbr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: greulicher Zustand
- trans_en: 
+ trans_en: terrible state, situation
 -lexeme
  lex: ʕədam
  stem: ʕədam.
  root: ʕdm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hinrichtung
- trans_en: 
+ trans_en: capital punishment
 -lexeme
  lex: ʕədde/ʕudde
- stem: ʕədde/ʕudde.
+ stem: ʕədde.//ʕudde.|ʕəddat.//ʕuddat.
  root: ʕdd
  gramm: N,f
- paradigm: N1
- trans_de: Handwerkszeug
- trans_en: 
--lexeme
- lex: ʕəǧaǧ
- stem: ʕəǧaǧ.|ʕəǧaǧat.
- root: ʕǧǧ
- gramm: N,m
  paradigm: N2
- trans_de: Staubwolke
- trans_en: 
+ trans_de: Handwerkszeug
+ trans_en: kit
 -lexeme
  lex: ʕəǧubate
  stem: ʕəǧubate.|ʕəǧubatat.
@@ -1648,7 +1648,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wunder
- trans_en: 
+ trans_en: miracle
 -lexeme
  lex: ʕəkkase
  stem: ʕəkkase.|ʕəkkasat.
@@ -1656,23 +1656,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bischofsstab
- trans_en: 
--lexeme
- lex: ʕəlʕolo
- stem: ʕəlʕolo.
- root: ʕlʕl
- gramm: N,m
- paradigm: N1
- trans_de: Wirbelwind
- trans_en: 
--lexeme
- lex: ʕəlame
- stem: ʕəlame.|ʕəlamat.
- root: ʕlm
- gramm: N,f
- paradigm: N2
- trans_de: Zeichen; pl
- trans_en: 
+ trans_en: bishop's staff
 -lexeme
  lex: ʕəlbe
  stem: ʕəlbe.
@@ -1682,13 +1666,13 @@
  trans_de: a) Kasten b) Getreidemaß, Scheffel
  trans_en: 
 -lexeme
- lex: ʕəlbəke
- stem: ʕəlbəke.
+ lex: ʕəlbəke/ʕəlpəke
+ stem: ʕəlbəke.//ʕəlpəke.|ʕəlbkat.//ʕəlpkat.
  root: ʕlb
  gramm: N,f
  paradigm: N1
  trans_de: kleiner Kasten
- trans_en: 
+ trans_en: small box; matchbox
 -lexeme
  lex: ʕəlčke
  stem: ʕəlčke.
@@ -1699,12 +1683,12 @@
  trans_en: 
 -lexeme
  lex: ʕələm
- stem: ʕələm.|ʕəlum.
+ stem: ʕələm.//ʕəlm.|ʕəlum.
  root: ʕlm
  gramm: N,m
  paradigm: N2
  trans_de: Wissen, Wissenschaft, Lehre
- trans_en: 
+ trans_en: knowledge, science; studies
 -lexeme
  lex: ʕələmdar
  stem: ʕələmdar.|ʕələmdar.
@@ -1712,55 +1696,79 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gelehrter
- trans_en: 
--lexeme
- lex: ʕəliṯo
- stem: ʕəliṯo.
- root: ʕly
- gramm: N,f
- paradigm: N1
- trans_de: kleines Oberzimmer, wird als Vorratsraum gebraucht
- trans_en: 
+ trans_en: educated
 -lexeme
  lex: ʕəllaqa
- stem: ʕəllaqa.
+ stem: ʕəllaqa.|ʕəllaqat.
  root: ʕlq
  gramm: N,f
- paradigm: N1
- trans_de: a) Aufhänger, Kleiderbügel, Kleiderhaken.b) Wäscheklammer
- trans_en: 
+ paradigm: N2
+ trans_de: Aufhänger, Kleiderbügel, Kleiderhaken; Wäscheklammer
+ trans_en: rack, clothes hook; clothes-peg
 -lexeme
  lex: ʕəlle
- stem: ʕəlle.
+ stem: ʕəlle.//ʕəllat.
  root: ʕll
  gramm: N,f
- paradigm: N1
- trans_de: a) Anlass, Grund b) Krankheit c) Auswuchs
- trans_en: 
--lexeme
- lex: ʕəlofo
- stem: ʕəlofo.
- root: ʕlf
- gramm: N,m
- paradigm: N1
- trans_de: Futter
- trans_en: 
+ paradigm: N2
+ trans_de: Anlass, Grund; Krankheit; Auswuchs
+ trans_en: cause, reason; illness; hunch
 -lexeme
  lex: ʕəloyo
  stem: ʕəloyo.|ʕəloye.
  root: ʕly
  gramm: N,m
  paradigm: N2
- trans_de: Ör
- trans_en: 
+ trans_de: hoch
+ trans_en: high
 -lexeme
- lex: ʕəlpəke
- stem: ʕəlpəke.
- root: ʕlb
+ lex: ʕəlo w ʕulto
+ stem: ʕəlo w ʕulto.
+ root: ʕly
+ gram:: N,f
+ paradigm: unchangeable
+ trans_de: geruchlose Kamille, Matricaris inodora L. oder Hundskamille, Anthemis chia L.
+ trans_en: odorless camomile, Matricaris inodora L. or Anthemis chia L.
+-lexeme
+ lex: ʕəmlaf
+ stem: ʕəmlaf.
+ root: ʕml
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Währung
+ trans_en: currency
+-lexeme
+ lex: ʕəmmen
+ stem: ʕəmmen.
+ root: ʕmn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geräusch von fernher kommender Stimme
+ trans_en: sound of voice comming from far away
+-lexeme
+ lex: ʕəndakko
+ stem: ʕəndakko.//ʕəndakke.
+ root: ʕnd
+ gramm: N,m
+ paradigm: N2
+ trans_de: wohlriechender Klee
+ trans_en: fragrant clover
+-lexeme
+ lex: ʕənǧəzkat
+ stem: ʕənǧəzkat.
+ root: ʕnǧz
  gramm: N,f
- paradigm: N1
- trans_de: kleine Schachtel, Streichholzschachtel
- trans_en: 
+ paradigm: unchangeable
+ trans_de: schlecht machen eines andern, Beschimpfungen;
+ trans_en: ?
+-lexeme
+ lex: ʕənǧaz
+ stem: ʕənǧas.
+ root: ʕnǧs
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Pflaume
+ trans_en: plum
 -lexeme
  lex: ʕənne
  stem: ʕənne.|ʕənnat.
@@ -1768,39 +1776,46 @@
  gramm: N,f
  paradigm: N2
  trans_de: aufgestellte Piasterstücke beim Murmelspiel
- trans_en: 
--lexeme
- lex: ʕəqarwo
- stem: ʕəqarwo.|ʕəqarwe.
- root: ʕqrw
- gramm: N,f
- paradigm: N2
- trans_de: Skorpion
- trans_en: 
+ trans_en: <piastre pieces> put up for jackstones (game)
 -lexeme
  lex: ʕəqulto
- stem: ʕəqulto.|ʕəqulyoṯo.
+ stem: ʕəqulto.//ʕoqulto.//ʕqulto.|ʕəqulyoṯo.//ʕoqulyoṯo.//ʕqulyoṯo.//ʕəqulyoṯe.//ʕoqulyoṯe.//ʕqulyoṯe.
  root: ʕql
  gramm: N,f
  paradigm: N2
- trans_de: a)Traggabel für den Esel b)
- trans_en: 
+ trans_de: Traggabel für den Esel 
+ trans_en: <?>
 -lexeme
- lex: ʕəraqi
- stem: ʕəraqi.
- root: ʕrq
+ lex: ʕərʕər
+ stem: ʕərʕər.
+ root: ʕr
  gramm: N,m
- paradigm: N1
- trans_de: Iraker, irakisch
- trans_en: 
+ paradigm: unchangeable
+ trans_de: krächzender, schlect klingender Gesang; Eselgeschrei
+ trans_en: hoarse, bad-sounding singing; donkey's cry
 -lexeme
  lex: ʕəraq
  stem: ʕəraq.
  root: ʕrq
  gramm: N,m
- paradigm: N1
- trans_de: Raki, Schnaps
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Irak
+ trans_en: Iraq
+-lexeme
+ lex: ʕəraqi
+ stem: ʕəraqi.
+ root: ʕrq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Iraker, irakisch
+ trans_en: Iraqi
+-lexeme
+ lex: ʕəraqvaxwari
+ stem: ʕəraqvaxwari.
+ root: ʕrq
+ gramm: ADJ
+ trans_de: von Schnaps betrunken
+ trans_en: drunk from schnapps, vodka
 -lexeme
  lex: ʕərbo
  stem: ʕərbo.
@@ -1813,10 +1828,10 @@
  lex: ʕərkedo
  stem: ʕərkedo.
  root: ʕrk
- gramm: N,f
- paradigm: N1
- trans_de: Tieren gefressene Pflanze
- trans_en: 
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: von Tieren gefressene Pflanze
+ trans_en: plant eaten by animals
 -lexeme
  lex: ʕərtomo/ʕərtmono
  stem: ʕərtomo/ʕərtmono.
@@ -1827,20 +1842,12 @@
  trans_en: 
 -lexeme
  lex: ʕəšara
- stem: ʕəšara.
+ stem: ʕəšara.|ʕəšarat.
  root: ʔšr
  gramm: N,f
- paradigm: N1
- trans_de: Zeichen, Anzeichen
- trans_en: 
--lexeme
- lex: ʕəšq
- stem: ʕəšq.|ʕəšqat.
- root: ʕšq
- gramm: N,m
  paradigm: N2
- trans_de: a) Liebe b) Begeisterung pl
- trans_en: 
+ trans_de: Zeichen, Anzeichen
+ trans_en: sign, indication
 -lexeme
  lex: ʕətab
  stem: ʕətab.
@@ -1848,63 +1855,63 @@
  gramm: N,m
  paradigm: N1
  trans_de: Vorwurf
- trans_en: 
+ trans_en: reproach, blame
 -lexeme
  lex: ʕətma
  stem: ʕətma.
  root: ʕtm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Dunkelheit
- trans_en: 
+ trans_en: darkness
 -lexeme
  lex: ʕətmo
  stem: ʕətmo.
  root: ʕtm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Dunkelheit
- trans_en: 
+ trans_en: darkness
 -lexeme
  lex: ʕətra
- stem: ʕətra.
+ stem: ʕətra.|ʕətrat.
  root: ʕtr
  gramm: N,f
  paradigm: N1
  trans_de: Ware
- trans_en: 
+ trans_en: article of trade
 -lexeme
  lex: ʕəzralto
  stem: ʕəzralto.|ʕəzralte.
  root: ʕzrlt
  gramm: N,f
  paradigm: N2
- trans_de: Azarolenbaum, Ziziphus, Crataegus Azarolus ?; pl
- trans_en: 
+ trans_de: Azarolenbaum, Ziziphus, Crataegus Azarolus 
+ trans_en: Azerole tree, Ziziphus, Crataegus Azarolus
+-lexeme
+ lex: ʕəzz illazem
+ stem: ʕəzz illazem.
+ root: ʕz
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: dauernde Ehre, hochgeachtet
+ trans_en: highly-regarded
 -lexeme
  lex: ʕəzze
  stem: ʕəzze.
  root: ʕzz
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrung
- trans_en: 
+ trans_en: honouring
 -lexeme
  lex: ʕǧino
  stem: ʕǧino.|ʕǧine.
  root: ʕǧn
  gramm: N,m
  paradigm: N2
- trans_de: gepresste Datteln (nur in dieser Zusammensetzung gebräuchlich)
- trans_en: 
--lexeme
- lex: ʕǧiqo
- stem: ʕǧiqo.|ʕǧiqe.
- root: ʕǧq
- gramm: N,m
- paradigm: N2
- trans_de: schmutzige Wäsche
- trans_en: 
+ trans_de: gepresst
+ trans_en: pressed
 -lexeme
  lex: ʕǧube
  stem: ʕǧube.|ʕǧubat.
@@ -1912,31 +1919,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wunder, merkwürdig
- trans_en: 
+ trans_en: wonder; bizarre, unusual
+-lexeme
+ lex: ʕiǧ
+ stem: ʕiǧ.
+ root: ʕyǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: senkrecht
+ trans: vertical
 -lexeme
  lex: ʕilo
- stem: ʕilo.|m.
+ stem: ʕilo.//ʕəlto.|ʕile.//ʕəltoṯo.
  root: ʕl
  gramm: N,m
  paradigm: N2
  trans_de: kleiner Esel
- trans_en: 
+ trans_en: small donkey
+-lexeme
+ lex: ʕintab
+ stem: ʕintab.
+ root: ʕntb
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Aintab, Gaziyantepe
+ trans_en: Aintab, Gaziantep
 -lexeme
  lex: ʕiqo
  stem: ʕiqo.|ʕiqe.
  root: ʕq
  gramm: N,m
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: eng
+ trans_en: narrow
 -lexeme
  lex: ʕiquṯo
  stem: ʕiquṯo.
- root: ʕqṯ
+ root: ʕyq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: bedrängte Lage, Bedrängnis
- trans_en: 
+ trans_en: difficult situation; oppression 
 -lexeme
  lex: ʕisaqṯo
  stem: ʕisaqṯo.|ʕisaqyoṯe.
@@ -1944,15 +1967,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ring
- trans_en: 
+ trans_en: ring
 -lexeme
  lex: ʕiš
  stem: ʕiš.|ʕišat.
  root: ʕyš
  gramm: N,m
  paradigm: N2
- trans_de: zu tun ist; Ergehen
- trans_en: 
+ trans_de: tun, was zu tun ist; Ergehen
+ trans_en: thing, deed, work; well-being
 -lexeme
  lex: ʕiše
  stem: ʕiše.
@@ -1960,47 +1983,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: Leben, Lebensmöglichkeit
- trans_en: 
+ trans_en: life; possibility of life (?)
 -lexeme
  lex: ʕito
- stem: ʕito.|ʕitooṯo.//-awoṯo.//-awoṯe.
+ stem: ʕito.|ʕitoṯo.//ʕitoṯe.//ʕitawoṯo.//ʕitawoṯe.
  root: ʕt
  gramm: N,f
  paradigm: N2
  trans_de: Kirche
- trans_en: 
+ trans_en: church
 -lexeme
  lex: ʕiwarnoyo
- stem: ʕiwarnoyo.|ʕiwarnoye.
+ stem: ʕiwarnoyo.//ʕəwarnoyo.//ʕwarnoyo.|ʕiwarnoye.//ʕəwarnoye.//ʕwarnoye.
  root: ʕwrny
  gramm: N,m
  paradigm: N2
- trans_de: Mann aus ʿIwärdo pl
- trans_en: 
+ trans_de: Mann aus ʿIwärdo
+ trans_en: man from Iwardo
 -lexeme
  lex: ʕiyar
  stem: ʕiyar.
  root: ʕyr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: genau passendes Maß
- trans_en: 
+ trans_en: appropriate size (?)
 -lexeme
  lex: ʕkara
  stem: ʕkara.
  root: ʕkr
  gramm: N,f
  paradigm: N1
- trans_de: Bodensatz, (fig.) Dreckskerl
- trans_en: 
--lexeme
- lex: ʕlama
- stem: ʕlama.
- root: ʕlm
- gramm: N,f
- paradigm: N1
- trans_de: Zeichen
- trans_en: 
+ trans_de: Bodensatz; Dreckskerl
+ trans_en: residue; bastard
 -lexeme
  lex: ʕloyo
  stem: ʕloyo.|ʕloye.
@@ -2016,7 +2031,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gebäude, Bebauung
- trans_en: 
+ trans_en: building
 -lexeme
  lex: ʕmiro
  stem: ʕmiro.|ʕmire.//ʕmirone.
@@ -2024,31 +2039,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Emir, Fürst
- trans_en: 
+ trans_en: emir, prince
 -lexeme
  lex: ʕmoḏo
- stem: ʕmoḏo.
+ stem: ʕmoḏo.|ʕmoḏe.
  root: ʕmd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Taufe
- trans_en: 
+ trans_en: baptism
 -lexeme
  lex: ʕobugro
- stem: ʕobugro.
+ stem: ʕobugro.//ʕubbugro.//ʕəbbugro.//ʕubugro.|ʕobugre.//ʕubbugre.//ʕəbbugre.//ʕubugre.
  root: ʕbgr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Maus, Ratte
- trans_en: 
+ trans_en: mouse, rat
 -lexeme
  lex: ʕodilo
- stem: ʕodilo.
+ stem: ʕodilo.|ʕodile.
  root: ʕdl
  gramm: N,m
- paradigm: N1
- trans_de: Schwager eines Mannes. Zwei Männer heiraten Schwestern, dann werden sie
- trans_en: 
+ paradigm: N2
+ trans_de: Schwager eines Mannes. Zwei Männer heiraten Schwestern, dann werden sie ʕodilo
+ trans_en: relative by marriage of a man (?). When two men marry sisters, they become ʕodilo for each other
 -lexeme
  lex: ʕŏḏər
  stem: ʕŏḏər.
@@ -2062,105 +2077,64 @@
  stem: ʕolam.
  root: ʕlm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ewigkeit
- trans_en: 
+ trans_en: eternity
 -lexeme
  lex: ʕolike
- stem: ʕolike.
+ stem: ʕolike.|ʕolikat.
  root: ʕly
  gramm: N,f
- paradigm: N1
- trans_de: Dach eines Hauses aufgebautes Zimmer, höchster Stock
- trans_en: 
+ paradigm: N2
+ trans_de: auf dem Dach eines Hauses aufgebautes Zimmer, höchster Stock
+ trans_en: room built on a roof of a house; top floor
 -lexeme
  lex: ʕoliqo
- stem: ʕoliqo.
+ stem: ʕoliqo.|ʕoliqe.
  root: ʕlq
  gramm: N,m
- paradigm: N1
- trans_de: Süsswurst aus Feigen. Diese werden aufgereiht und ein paar Mal in
- trans_en: 
+ paradigm: N2
+ trans_de: Süsswurst aus Feigen. Diese werden aufgereiht und ein paar Mal in ḥawdal getaucht
+ trans_en: sweet wurst from fig
 -lexeme
  lex: ʕoqudo
- stem: ʕoqudo.|ʕoqude.
+ stem: ʕoqudo.//ʕqudo.|ʕoqude.
  root: ʕqd
  gramm: N,m
  paradigm: N2
- trans_de: Süsswurst; Walnüsse werden zerbrochen, aufgereiht und ein paar Mal in
- trans_en: 
--lexeme
- lex: ʕoqulto
- stem: ʕoqulto.|ʕoqulyoṯe.
- root: ʕql
- gramm: N,f
- paradigm: N2
- trans_de: Traggabel für den Esel zum Transport von Holz
- trans_en: 
--lexeme
- lex: ʕqulto
- stem: ʕqulto.
- root: ʕql
- gramm: N,f
- paradigm: N1
- trans_de: gabelförmiges Tragegestell für Esel
- trans_en: 
--lexeme
- lex: ʕqudo
- stem: ʕqudo.
- root: ʕqd
- gramm: N,f
- paradigm: N1
- trans_de: Süsswurst
- trans_en: 
--lexeme
+ trans_de: Süsswurst; Walnüsse werden zerbrochen, aufgereiht und ein paar Mal in ḥawdal getaucht
+ trans_en: sweet wurst; walnuts are crushed, strung and put in ḥawdal a couple of times
  lex: ʕrayto
  stem: ʕrayto.|ʕrayoṯe.
  root: ʕryt
  gramm: N,f
  paradigm: N2
  trans_de: Mittagessen
- trans_en: 
+ trans_en: lunch
 -lexeme
  lex: ʕriqo
- stem: ʕriqo.
+ stem: ʕriqo.|ʕriqe.
  root: ʕrq
  gramm: N,m
  paradigm: N1
  trans_de: Flüchtling
- trans_en: 
+ trans_en: runaway, refugee
 -lexeme
  lex: ʕrufto
- stem: ʕrufto.
+ stem: ʕrufto.//ʕruto.
  root: ʕrft
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freitag
- trans_en: 
--lexeme
- lex: ʕruto
- stem: ʕruto.
- root: ʕrt
- gramm: N,f
- paradigm: N1
- trans_de: Freitag
- trans_en: 
--lexeme
- lex: ʕub(b)ugro
- stem: ʕub(b)ugro.|ʕub(b)ugre.
- root: ʕb(b)gr
- gramm: N,m
- paradigm: N2
- trans_de: b)ugro m, pl –e Maus, Ratte
- trans_en: 
+ trans_en: friday
 -lexeme
  lex: ʕubudiye
  stem: ʕubudiye.
  root: ʕbd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Knechtschaft
- trans_en: 
+ trans_en: slavery
 -lexeme
  lex: ʕuglo
  stem: ʕuglo.|ʕugle.
@@ -2168,10 +2142,10 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fuß
- trans_en: 
+ trans_en: foot
 -lexeme
  lex: ʕuǧube
- stem: ʕuǧube.|ʕaǧayib.//ʕuǧubeat.//ʕuǧubeatat.
+ stem: ʕuǧube.|ʕaǧayib.//ʕuǧubat.//ʕuǧubatat.
  root: ʕǧb
  gramm: N,f
  paradigm: N2
@@ -2179,12 +2153,12 @@
  trans_en: 
 -lexeme
  lex: ʕulbe
- stem: ʕulbe.|ʕelab.//ʕulab.
+ stem: ʕulbe.//ʕəlbe.//ʕalbe.|ʕelab.//ʕulab.
  root: ʕlb
  gramm: N,f
  paradigm: N2
  trans_de: Kasten, Getreidemaß, Scheffel
- trans_en: 
+ trans_en: box; a measure for grain
 -lexeme
  lex: ʕulbəke
  stem: ʕulbəke.|ʕulbəkat.
@@ -2206,33 +2180,49 @@
  stem: ʕulmo.
  root: ʕlm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Leute, Welt
- trans_en: 
+ trans_en: people; world
 -lexeme
  lex: ʕulto
- stem: ʕulto.
+ stem: ʕulto.|ʕultoṯe.//ʕultoṯo.
  root: ʕlt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Dornstrauch
- trans_en: 
+ trans_en: thonry bush, bramble
 -lexeme
  lex: ʕulyo
  stem: ʕulyo.
  root: ʕly
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Höhe
- trans_en: 
+ trans_en: hight
 -lexeme
  lex: ʕumro
- stem: ʕumro.
+ stem: ʕumro.//ʕəmro.|ʕumrone.//ʕəmrone.
  root: ʕmr
  gramm: N,m
  paradigm: N1
  trans_de: Leben, Lebensalter
- trans_en: 
+ trans_en: life; age
+-lexeme
+ lex: ʕumum
+ stem: ʕumum.
+ root: ʕmm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sämtlich, allgemein
+ trans_en: all; general
+-lexeme
+ lex: ʕumuman
+ stem: ʕumuman.
+ root: ʕmm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sämtlich
+ trans_en: all
 -lexeme
  lex: ʕumumi
  stem: ʕumumi.
