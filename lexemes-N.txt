@@ -781,8 +781,8 @@
  trans_de: <?>
  trans_en: <?>
 -lexeme
- lex: ʕaqar
- stem: ʕaqar.|ʕaqarat.
+ lex: ʕaqar/aqar
+ stem: ʕaqar.//aqar.|ʕaqarat.//aqarat.
  root: ʕqr
  gramm: N,f
  paradigm: N2
@@ -1865,8 +1865,8 @@
  trans_de: Dunkelheit
  trans_en: darkness
 -lexeme
- lex: ʕətmo
- stem: ʕətmo.
+ lex: ʕətmo/ʕutmo
+ stem: ʕətmo.//ʕutmo.
  root: ʕtm
  gramm: N,f
  paradigm: unchangeable
@@ -2229,24 +2229,40 @@
  root: ʕmm
  gramm: N,m
  paradigm: N1
- trans_de: der Weltkrieg“
- trans_en: 
+ trans_de: <?>
+ trans_en: world, common, general (?)
 -lexeme
  lex: ʕunwo
  stem: ʕunwo.|ʕunwe.
  root: ʕnw
  gramm: N,f
  paradigm: N2
- trans_de: Weintraube, Weinbeere; pl
- trans_en: 
+ trans_de: Weintraube, Weinbeere
+ trans_en: grapes, bunch of grapes
 -lexeme
- lex: ʕurǧmo
- stem: ʕurǧmo.
+ lex: ʕurǧmo/gurǧmo
+ stem: ʕurǧmo.//gurǧmo.|ʕurǧme.//gurǧme.
  root: ʕrǧm
  gramm: N,m
  paradigm: N1
  trans_de: Kern
- trans_en: 
+ trans_en: kernel of cherries, peaches, plums, oranges and apples
+-lexeme
+ lex: ʕurm
+ stem: ʕurm.
+ root: ʕrm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Platsch!
+ trans_en: plop!
+-lexeme
+ lex: ʕurmen
+ stem: ʕurmen.
+ root: ʕrm
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geräusch dessen, der z. B. aus dem Fenster herausfällt oder gegen etwas gestoßen wird
+ trans_en: sound of something, for example, falling out of a window or collapsing with something
 -lexeme
  lex: ʕuro
  stem: ʕuro.|ʕure.
@@ -2254,7 +2270,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleines Strohstückchen, das beim Dreschen in die Luft fliegt, ganz feiner Häcksel, Staub
- trans_en: 
+ trans_en: small straw pieces which fly in the air by threshing, fine chaff, dust
 -lexeme
  lex: ʕurṭiṯo
  stem: ʕurṭiṯo.|ʕurṭoṯe.
@@ -2262,39 +2278,38 @@
  gramm: N,f
  paradigm: N2
  trans_de: Furz
- trans_en: 
+ trans_en: fart
 -lexeme
- lex: ʕutmo
- stem: ʕutmo.
- root: ʕtm
+ lex: ʕuwaṣat
+ stem: ʕuwaṣat.
+ root: ʕwṣ
  gramm: N,f
- paradigm: N1
- trans_de: Dunkelheit
- trans_en: 
+ paradigm: unchangeable
+ trans_de: absichtlich begangener Fehler; Diebstahl; verkehrt, kaputt machen
+ trans_en: deliberately made mistake; theft; <?>
+-lexeme
+ lex: ʕwayne
+ stem: ʕwayne.|ʕwaynat.
+ root: ʕyn
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: fried eggs
 -lexeme
  lex: ʕwiǧo
- stem: ʕwiǧo.
+ stem: ʕwiǧo.|ʕwiǧe.
  root: ʕwǧ
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ krumm, schief
- trans_en: 
--lexeme
- lex: ʕwarnoyo
- stem: ʕwarnoyo.|ʕwarnoye.
- root: ʕwrny
- gramm: N,m
  paradigm: N2
- trans_de: Mann aus ʿIwärdo
- trans_en: 
+ trans_de: krumm, schief
+ trans_en: curved, skew
 -lexeme
  lex: ʕwodo
- stem: ʕwodo.
+ stem: ʕwodo.|ʕwode.
  root: ʕwd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Arbeit, zu tun
- trans_en: 
+ trans_en: work; thing to do
 -lexeme
  lex: ʕwono
  stem: ʕwono.|ʕwone.
@@ -2302,23 +2317,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schaf
- trans_en: 
+ trans_en: sheep
+-lexeme
+ lex: ʕyeša
+ stem: ʕyeša.
+ root: ʕyš
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Lebensweise
+ trans_en: way of life
+-lexeme
+ lex: aʕka
+ stem: aʕka.
+ root: ʕk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Los! (Ruf zum Start)
+ trans_en: let's go! (a cry to begin smth.)
 -lexeme
  lex: aʕma
  stem: aʕma.
  root: ʕmy
- gramm: N,m
- paradigm: N1
- trans_de: blind PrS
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: blind
+ trans_en: blind
+-lexeme
+ lex: aʕmal
+ stem: aʕmal.
+ root: ʕml
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: gute Werke
+ trans_en: good deeds
+-lexeme
+ lex: aʕmalat
+ stem: aʕmalat.
+ root: ʕml
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Stuhlgang
+ trans_en: bowel movement
+-lexeme
+ lex: aʕṣab
+ stem: aʕṣab.
+ root: ʕṣb
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Nerven
+ trans_en: nerves
+-lexeme
+ lex: aba
+ stem: aba.
+ root: b
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Anrede an die Frau
+ trans_en: adress to a woman
+-lexeme
+ lex: abad
+ stem: abad.
+ root: bd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: unbedingt
+ trans_en: certainly
+-lexeme
+ lex: abadan
+ stem: abadan.
+ root: bd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: immer, ganz und gar, unbedingt; nie, gar nicht, nie und nimmer
+ trans_en: always, totally, certainly; never, not at all
 -lexeme
  lex: abəbto
- stem: abəbto.|abəbtooṯe.
+ stem: abəbto.|abəbtoṯe.
  root: bbt
  gramm: N,f
  paradigm: N2
  trans_de: Spule, Weife zum Aufspannen des Garns
- trans_en: 
+ trans_en: spool, reel for stretching the wool
 -lexeme
  lex: abəd
  stem: abəd.|abədin.
@@ -2326,23 +2405,62 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ewigkeit
- trans_en: 
+ trans_en: eternity
 -lexeme
  lex: abəšto
- stem: abəšto.|abišoṯe.
+ stem: abəšto.|abišoṯe.//afšoṯe.//apšoṯo.//abšoṯo.//abšoṯe.//afšoṯo.
  root: bšt
  gramm: N,f
  paradigm: N2
  trans_de: Rosine
- trans_en: 
+ trans_en: raisins
+-lexeme
+ lex: abo
+ stem: abo.
+ root: ʔb
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Vater, als Bezeichnung für Geistliche
+-lexeme
+ lex: abrisam/abrisəm
+ stem: abrisam.//abrisəm.
+ root: ʔbrsm
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Seide
+ trans_en: silk
 -lexeme
  lex: abro
  stem: abro.|abne.
  root: br
  gramm: N,m
  paradigm: N2
- trans_de: abne Sohn
- trans_en: 
+ trans_de: Sohn
+ trans_en: son
+-lexeme
+ lex: abu ġannuǧ
+ stem: abu ġannuǧ.
+ root: ġnǧ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: zerriebene Eierfrucht, Auberginenpaste
+ trans_en: chopped aubergine, aubergine paste
+-lexeme
+ lex: abun
+ stem: abun.
+ root: ʔb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Vater! Hochwürden! (Anrede an Geistliche)
+ trans_en: Father! Your reverence! (address to clergy)
+-lexeme
+ lex: abuna
+ stem: abuna.
+ root: ʔb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Hochwürden! (Anrede an Geistliche)
+ trans_en: Your reverence! (address to clergy)
 -lexeme
  lex: abuqat
  stem: abuqat.|abuqatin.
@@ -2350,15 +2468,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Advokat
- trans_en: 
+ trans_en: lawyer, solicitor
 -lexeme
  lex: abušarʕo
- stem: abušarʕo.
+ stem: abušarʕo.|abušarʕe.
  root: bšrʕ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Salbei, Salvia spec.
- trans_en: 
+ trans_en: sage, Salvia spec.
 -lexeme
  lex: abzoro
  stem: abzoro.|abzore.
@@ -2366,63 +2484,111 @@
  gramm: N,m
  paradigm: N2
  trans_de: Strick im Joch, mit dem die beiden Seitenhölzer rechts und links vom Halse des Zugochsen unten zugeschnürt werden
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: adšato/ačato
+ stem: adšato.//ačato.
+ root: št
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dieses Jahr, heuer
+ trans_en: this year
+-lexeme
+ lex: ačlaṣ/aṭlas
+ stem: ačlaṣ.//aṭlas.
+ root: ṭls
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Seide, Atlas
+ trans_en: silk, atlas
+-lexeme
+ lex: adaṣriye
+ stem: adaṣriye.
+ root: ʕṣr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: heute Abend
+ trans_en: tonight
 -lexeme
  lex: ada
- stem: ada.
+ stem: ada.|adat.
  root: d
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Insel
- trans_en: 
+ trans_en: island
 -lexeme
  lex: adab
  stem: adab.
  root: ʔdb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Anstand
- trans_en: 
+ trans_en: manners, decency
 -lexeme
  lex: adabxana
- stem: adabxana.
+ stem: adabxana.|adabxanat.
  root: dbxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Abort
- trans_en: 
+ trans_en: toilet
+-lexeme
+ lex: adam ʕaqələ
+ stem: adam ʕaqələ.
+ root: ʕql
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gehörig, tüchtig
+ trans_en: <?>
+-lexeme
+ lex: adlalyo
+ stem: adlalyo.
+ root: lly
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: heute Nacht
+ trans_en: tonight
 -lexeme
  lex: admo
  stem: admo.
  root: dm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Blut
- trans_en: 
+ trans_en: blood
 -lexeme
- lex: adras
- stem: adras.
+ lex: adras/adres
+ stem: adras.//adres.
  root: drs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Adresse
- trans_en: 
+ trans_en: address
 -lexeme
  lex: adro
- stem: adro.|adrooṯe.//-oṯo.
+ stem: adro.|adroṯe.//adroṯo.
  root: dr
  gramm: N,f
  paradigm: N2
  trans_de: Dreschtenne
- trans_en: 
+ trans_en: threshing-floor
+-lexeme
+ lex: adṣafro
+ stem: adṣafro.
+ root: ṣfr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: heute Morgen
+ trans_en: today in the morning
 -lexeme
  lex: aḏno
- stem: aḏno.|aḏnooṯe.//-oṯo.
+ stem: aḏno.|aḏnoṯe.//aḏnoṯo.
  root: ḏn
  gramm: N,f
  paradigm: N2
  trans_de: Ohr
- trans_en: 
+ trans_en: ear
 -lexeme
  lex: aḍḍarbo
  stem: aḍḍarbo.
@@ -10702,14 +10868,6 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gurce f, pl –at oder id. Georgierin
- trans_en: 
--lexeme
- lex: gurǧmo
- stem: gurǧmo.
- root: grǧm
- gramm: N,m
- paradigm: N1
- trans_de: Kern von Kirschen, Pfirsichen, Pflaumen, Apfelsinen, Äpfeln
  trans_en: 
 -lexeme
  lex: gurdaʕa
