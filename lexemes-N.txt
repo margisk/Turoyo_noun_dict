@@ -1186,7 +1186,7 @@
  trans_en: in the evening
 -lexeme
  lex: ʕatimo
- stem: ʕatimo.|ʕatime.
+ stem: ʕatimo.//ʕatumo.|ʕatime.//ʕatume.
  root: ʕtm
  gramm: ADJ
  paradigm: N2
@@ -1274,10 +1274,10 @@
  trans_en: giant, monster
 -lexeme
  lex: ʕawara
- stem: ʕawara.
+ stem: ʕawara.|ʕawarin.
  root: ʕwr
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N2
  trans_de: Bummler, ohne Beschäftigung
  trans_en: idler
 -lexeme
@@ -1345,16 +1345,8 @@
  trans_de: krank
  trans_en: ill
 -lexeme
- lex: ʕayb
- stem: ʕayb.
- root: ʕyb
- gramm: N,m
- paradigm: unchangeable
- trans_de: ungehörig, Schande, Fehler
- trans_en: inappropriate, shame, mistake
--lexeme
  lex: ʕaybo
- stem: ʕaybo.
+ stem: ʕaybo.//ʕayb.
  root: ʕyb
  gramm: N,m
  paradigm: unchangeable
