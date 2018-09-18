@@ -2585,50 +2585,106 @@
  lex: aḍḍarbo
  stem: aḍḍarbo.
  root: ḍrb
- gramm: N,f
- paradigm: N1
+ gramm: ADV
+ paradigm: unchangeable
  trans_de: dieses Mal
- trans_en: 
+ trans_en: this time
 -lexeme
+-lexeme
+ lex: aḏ̣rab
+ stem: aḏ̣rab.
+ root: ḏ̣rb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: tüchtiger, stärker, tüchtiger im Lernen
+ trans_en: more skillful, stronger, more able in learning
+-lexeme
+ lex: afʕal
+ stem: afʕal.
+ root: fʕl
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Leistungen, Taten
+ trans_en: accomplished work, deeds
  lex: afaṭiye
  stem: afaṭiye.
  root: fṭy
  gramm: N,f
  paradigm: N1
  trans_de: Auseinandertreiben, zu Grunde richten, vernichten
- trans_en: 
+ trans_en: dispersal, ruining
+-lexeme
+ lex: afədyaqno
+ stem: afədyaqno.|afədyaqne.
+ root: fdyq
+ gramm: N,m
+ paradigm: N2
+ trans_de: 3. Grad der Diakone
+ trans_en: third rank of deacon
+-lexeme
+ lex: afġanistan
+ stem: afġanistan.
+ root: fġnstn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Afghanistan
+ trans_en: Afghanistan
 -lexeme
  lex: afġanistani
  stem: afġanistani.
  root: fġnstn
  gramm: N,m
  paradigm: N1
- trans_de: iye Af
+ trans_de: Afghane, afghanisch
+ trans_en: Afghan, afghan
+-lexeme
+ lex: afḥaš
+ stem: afḥaš.
+ root: fḥš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unzüchtiger
+ trans_en: lewder
+-lexeme
+ lex: afraḏ̣
+ stem: afraḏ̣.
+ root: frḏ̣
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: dem Rechte nach näher stened
  trans_en: 
 -lexeme
  lex: afuqat
- stem: afuqat.|afuqatin.//afuqatat.
+ stem: afuqat.//abuqat.|afuqatin.//afuqatat.//abuqatin.//abuqatat.
  root: fqt
  gramm: N,m
  paradigm: N2
- trans_de: Advokat; nicht
- trans_en: 
+ trans_de: Advokat
+ trans_en: lawyer
+-lexeme
+ lex: agar
+ stem: agar.
+ root: gr
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: if, when
 -lexeme
  lex: agər
  stem: agər.
  root: gr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Feuer
- trans_en: 
+ trans_en: fire
 -lexeme
  lex: agono
  stem: agono.
  root: gn
  gramm: N,f
  paradigm: N1
- trans_de: Tonbecken, Art Schüssel mit Ständer
- trans_en: 
+ trans_de: Tonbecken, Art Schüssel mit Ständer; Waschkessel
+ trans_en: clay pot, a type of plate with legs (?); washing tank
 -lexeme
  lex: aġa
  stem: aġa.|aġawat.//aġawiye.
