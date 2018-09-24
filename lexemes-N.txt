@@ -581,8 +581,16 @@
  trans_de: Operation
  trans_en: operation; surgery
 -lexeme
+ lex: ʕamalikan
+ stem: ʕamalikan.
+ root: ʕmlkn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Amerika
+ trans_en: America
+-lexeme
  lex: ʕamalikani
- stem: ʕamalikani.|ʕamalikaniye.
+ stem: ʕamalikani.//amerikan.|ʕamalikaniye.//amerikaniye.
  root: ʕmlkn
  gramm: N,m
  paradigm: N2
@@ -2933,13 +2941,37 @@
  trans_de: tausend
  trans_en: thousand
 -lexeme
+ lex: alḥamdəlla
+ stem: alḥamdəlla.
+ root: ḥmdl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gott sei Dank!
+ trans_en: thank God!
+-lexeme
+ lex: aləh
+ stem: aləh.
+ root: ʔlh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wahrlich, bei Gott
+ trans_en: indeed, truly
+-lexeme
  lex: aləšweriš
  stem: aləšweriš.
  root: lšwrš
  gramm: N,m
  paradigm: N1
  trans_de: Handel
- trans_en: 
+ trans_en: trade, commerce
+-lexeme
+ lex: alman
+ stem: alman.
+ root: ʔlmn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Deutschland, das deutsche Volk
+ trans_en: Germany, German people
 -lexeme
  lex: almani
  stem: almani.|almaniye.
@@ -2947,15 +2979,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Deutscher, Deutsche
- trans_en: 
+ trans_en: german, a German
 -lexeme
  lex: almas
  stem: almas.
  root: lms
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Diamant
- trans_en: 
+ trans_en: diamond
 -lexeme
  lex: almasaye
  stem: almasaye.|almasayat.
@@ -2963,79 +2995,143 @@
  gramm: N,f
  paradigm: N2
  trans_de: Diamant
- trans_en: 
+ trans_en: diamond
+-lexeme
+ lex: aloho
+ stem: aloho.|alohe.
+ root: ʔlh
+ gramm: N,m
+ paradigm: N2
+ trans_de: Gott
+ trans_en: God
 -lexeme
  lex: alohuṯo
  stem: alohuṯo.
  root: ʔlh
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gottheit
- trans_en: 
+ trans_en: divinity
 -lexeme
  lex: alwo
  stem: alwo.
  root: lw
  gramm: N,m
- paradigm: N1
- trans_de: Milch der Kuh oder Ziege, die
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Milch der Kuh oder Ziege, die 1-2 Tage nach dem Werfen gemolken wird; Biestmilch; wird zum Käsemachen gebraucht
+ trans_en: cow- or goatmilk which is milked 1-2 days after the calving; beestings; used for making of cheese
+-lexeme
+ lex: am
+ stem: am.
+ root: ʔm
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder (in disjunktiver Frage)
+ trans_en: or (in disjunctive questions)
+-lexeme
+ lex: ama
+ stem: ama.
+ root: ʔm
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber
+ trans_en: but
 -lexeme
  lex: amal
  stem: amal.
  root: ʔml
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hoffnung
- trans_en: 
+ trans_en: hope
 -lexeme
  lex: aman
  stem: aman.
  root: ʔmn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sicherheit, Vertrauen
- trans_en: 
+ trans_en: security, trust
+-lexeme
+ lex: aman
+ stem: aman.|amanat.
+ root: ʔmn
+ gramm: N,m
+ paradigm: N2
+ trans_de: Erbarmen!
+ trans_en: have mercy!
 -lexeme
  lex: amane
- stem: amane.
+ stem: amane.|amanat.
  root: ʔmn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: anvertrautes Gut; Treue
- trans_en: 
+ trans_en: entrusted goods; loyalty
 -lexeme
- lex: amḍa
- stem: amḍa.
- root: mḍy
+ lex: amḏ̣a/imḏ̣a
+ stem: amḏ̣a.//imḏ̣a.|amḏ̣at.//imḏ̣at.
+ root: mḏ̣y
  gramm: N,f
  paradigm: N1
  trans_de: Unterschrift
- trans_en: 
+ trans_en: signature
+-lexeme
+ lex: amin
+ stem: amin.
+ root: ʔmn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: treu, zuverlässig, sicher, vertrauend
+ trans_en: loyal, trusty, certain, trusting
+-lexeme
+ lex: amin
+ stem: amin
+ root: ʔmn
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Amen
+ trans_en: amen
 -lexeme
  lex: amər
  stem: amər.|amər.
  root: ʔmr
  gramm: N,m
  paradigm: N2
- trans_de: Befehlshaber; pl
- trans_en: 
+ trans_de: Befehlshaber
+ trans_en: commander
+-lexeme
+ lex: ammarǧaʕ
+ stem: ammarǧaʕ.
+ root: mrǧʕ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: von neuem, wieder
+ trans_en: again
 -lexeme
  lex: amr
  stem: amr.
  root: ʔmr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Befehl
- trans_en: 
+ trans_en: order
 -lexeme
  lex: amro
- stem: amro.
+ stem: amro.|amre.
  root: ʔmr
  gramm: N,m
- paradigm: N1
- trans_de: a) Befehl b) Sache
- trans_en: 
+ paradigm: N2
+ trans_de: Befehl; Sache
+ trans_en: order; thing
+-lexeme
+ lex: an bərənǧi
+ stem: an bərənǧi.
+ root: brnǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: der allererste
+ trans_en: first-rate
 -lexeme
  lex: angus
  stem: angus.
