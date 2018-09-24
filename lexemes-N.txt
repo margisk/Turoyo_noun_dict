@@ -749,8 +749,8 @@
  trans_de: Depot, Lager
  trans_en: barn, storehouse
 -lexeme
- lex: ʕangus/ʕanguz
- stem: ʕangus.//ʕanguz.|ʕangusin.//ʕanguzin.
+ lex: ʕangus/ʕanguz/angus
+ stem: ʕangus.//ʕanguz.//angus.|ʕangusin.//ʕanguzin.//angusin.
  root: ʕngs
  gramm: N,m
  paradigm: N1
@@ -2408,7 +2408,7 @@
  trans_en: eternity
 -lexeme
  lex: abəšto
- stem: abəšto.|abišoṯe.//afšoṯe.//apšoṯo.//abšoṯo.//abšoṯe.//afšoṯo.
+ stem: abəšto.|abišoṯe.//afšoṯe.//apšoṯo.//abšoṯo.//abšoṯe.//afšoṯo.//apšoṯe.
  root: bšt
  gramm: N,f
  paradigm: N2
@@ -3133,29 +3133,45 @@
  trans_de: der allererste
  trans_en: first-rate
 -lexeme
- lex: angus
- stem: angus.
- root: ngs
- gramm: N,m
- paradigm: N1
- trans_de: Keule
- trans_en: 
--lexeme
  lex: angariye
- stem: angariye.
+ stem: angariye.|angariyat.
  root: ngr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: flache Schüssel
- trans_en: 
+ trans_en: flat plate
+-lexeme
+ lex: anǧax
+ stem: anǧax.//anǧaq.
+ root: ʔnǧx
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nur, höchstens, frühestens
+ trans_en: only, at most, at the earliest
+-lexeme
+ lex: ani
+ stem: ani.
+ root: ʔn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder
+ trans_en: or
+-lexeme
+ lex: anəġnəṣṭu
+ stem: anəġnəṣṭu.
+ root: nġnṣṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: dritter Rang der Diakonen
+ trans_en: third rank of deacons
 -lexeme
  lex: aniye
- stem: aniye.
+ stem: aniye.|aniyat.
  root: ny
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stirn
- trans_en: 
+ trans_en: forehead
 -lexeme
  lex: anəške
  stem: anəške.|anəškat.
@@ -3163,23 +3179,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ellbogen; Ecke, Straßenecke
- trans_en: 
+ trans_en: elbow; corner, street corner
+-lexeme
+ lex: annahaya
+ stem: annahaya.
+ root: nhy
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: schließlich
+ trans_en: finally, at last
+-lexeme
+ lex: annaqla/annaqqa
+ stem: annaqla.//annaqqa.
+ root: nql
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dieses Mal, jetzt, nun, damals; und dann, nun aber, doch
+ trans_en: this time, now, once; and now, but now
 -lexeme
  lex: antika
  stem: antika.|antikat.
  root: ntk
  gramm: N,f
  paradigm: N2
- trans_de: Antiqität, Kostbarkeit; pl
- trans_en: 
+ trans_de: Antiqiutät, Kostbarkeit
+ trans_en: antique, precious thing (?)
 -lexeme
  lex: apartəman
  stem: apartəman.|apartəmanat.
  root: prtmn
  gramm: N,m
  paradigm: N2
- trans_de: Mietwohnung; pl
- trans_en: 
+ trans_de: Mietwohnung
+ trans_en: rental apartment
 -lexeme
  lex: apraxo
  stem: apraxo.|apraxe.
@@ -3187,42 +3219,42 @@
  gramm: N,m
  paradigm: N2
  trans_de: gefüllte Weinblätter mit gemahlenem Weizen (garso) darin.
- trans_en: 
+ trans_en: grape leaves with milled wheat inside (garso)
 -lexeme
  lex: apriye
- stem: apriye.
+ stem: apriye.|apriyat.
  root: pry
  gramm: N,f
  paradigm: N1
  trans_de: dünnes Seidentuch aus Syrien (für Frauen)
- trans_en: 
--lexeme
- lex: aqar
- stem: aqar.
- root: ʕqr
- gramm: N,m
- paradigm: N1
- trans_de: Grundstück, Gebiet
- trans_en: 
+ trans_en: thin silk kerchief from Syria (for women)
 -lexeme
  lex: aqordyan
  stem: aqordyan.
  root: qrdyn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ziehharmonika
- trans_en: 
+ trans_en: accordion
 -lexeme
  lex: aqlim
  stem: aqlim.
  root: qlm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Klima, Gebiet
- trans_en: 
+ trans_en: climate, territory
+-lexeme
+ lex: aqran
+ stem: aqran.
+ root: qrn
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Altersgenossen
+ trans_en: age mate
 -lexeme
  lex: arʕo
- stem: arʕo.|böden.
+ stem: arʕo.
  root: rʕ
  gramm: N,m
  paradigm: N2
@@ -3230,36 +3262,61 @@
  trans_en: 
 -lexeme
  lex: arʕo
- stem: arʕo.|arʕooṯe.
+ stem: arʕo.|arʕoṯe.
  root: rʕ
  gramm: N,f
  paradigm: N2
  trans_de: a) Erde; b) Feld, Ackerfeld
  trans_en: 
 -lexeme
- lex: arbʕo
- stem: arbʕo.
+ lex: arbʕin
+ stem: arbʕin.
  root: rbʕ
- gramm: N,f
- paradigm: N1
- trans_de: Mittwoch und Freitag wird das ganze Jahr hindurch gefastet. Man isst kein Fleisch, keine Eier, kein tierisches Fett
- trans_en: 
+ gramm: N
+ paradigm: unchangeable
+ trans_de: 40 Tage nach der Geburt des Kindes darf die Mutter nicht aus dem Hause gehen, auch nicht mit anderen Frauen, die gerade geboren haben, sprechen
+ trans_en: for forty days after childbirth the mother may not leave the house and also may not talk to other women who have just given birth
 -lexeme
- lex: arḍiye
- stem: arḍiye.
+ lex: arbaʕiniyat
+ stem: arbaʕiniyat.
+ root: rbʕ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: 40 Tage von Dezember bis Januar
+ trans_en: 40 days from December until January
+-lexeme
+ lex: arbab
+ stem: arbab.
+ root: rbb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de tüchtig
+ trans_en: skillful, able
+-lexeme
+ lex: arḏ̣iye
+ stem: arḏ̣iye.
  root: rḍy
  gramm: N,f
- paradigm: N1
- trans_de: a) Fußboden b) Lagergeld (?)
+ paradigm: unchangeable
+ trans_de: Fußboden; Lagergeld
+ trans_en: floor; payment for storing goods (?)
  trans_en: 
 -lexeme
  lex: arguške
- stem: arguške.
+ stem: arguške.|arguškat.
  root: rgš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kinnladen
- trans_en: 
+ trans_en: lower jawbone
+-lexeme
+ lex: arǧaʕ
+ stem: arǧaʕ.
+ root: rǧʕ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wieder
+ trans_en: again
 -lexeme
  lex: arġalto
  stem: arġalto.
@@ -3267,39 +3324,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: Bachbett, das nur bei Regen fließt
- trans_en: 
+ trans_en: stream course which runs only when it is raining (?)
 -lexeme
  lex: armalto
- stem: armalto.|armalyoṯo.
+ stem: armalto.|armalyoṯo.//armalyoṯe.
  root: rmlt
  gramm: N,f
  paradigm: N2
  trans_de: Witwe, Witfrau
- trans_en: 
+ trans_en: widow
 -lexeme
  lex: armənoyo
  stem: armənoyo.|armənoye.
  root: rmny
  gramm: N,m
  paradigm: N2
- trans_de: Armınoyo n, pl –e Armenier
- trans_en: 
+ trans_de: Armenier
+ trans_en: an Armenian
 -lexeme
  lex: armlo
- stem: armlo.
+ stem: armlo.|armle.
  root: rml
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Witwer
- trans_en: 
+ trans_en: widower
 -lexeme
  lex: arnowo/arnuwo
- stem: arnowo/arnuwo.|arnowo.//arnuwe.
- root: rnw/rnw
+ stem: arnowo./arnuwo.|arnowe.//arnuwe.
+ root: rnw
  gramm: N,m
  paradigm: N2
- trans_de: Hase arnuwo
- trans_en: 
+ trans_de: Hase
+ trans_en: hare
 -lexeme
  lex: arqadaš
  stem: arqadaš.
@@ -3307,15 +3364,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Kamerad
- trans_en: 
+ trans_en: friend
 -lexeme
  lex: arvan
- stem: arvan.|arevin.//arvanat.
+ stem: arvan.|arevən.//arvanat.
  root: rvn
  gramm: N,m
  paradigm: N2
  trans_de: Getreidelast
- trans_en: 
+ trans_en: load of crops
 -lexeme
  lex: arwono
  stem: arwono.|arwone.
@@ -3323,7 +3380,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Jungstier, männliches Rind im ersten bis zweiten Jahr
- trans_en: 
+ trans_en: young animal, ox in his first year of life
 -lexeme
  lex: aryo
  stem: aryo.|arye.
@@ -3331,62 +3388,110 @@
  gramm: N,m
  paradigm: N2
  trans_de: Löwe
- trans_en: 
+ trans_en: lion
+-lexeme
+ lex: arzan
+ stem: arzan.
+ root: rzn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: billig
+ trans_en: cheap
 -lexeme
  lex: arzaq
  stem: arzaq.
  root: rzq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Lebensmittel, Eßvorräte
- trans_en: 
+ trans_en: provisions, food supplies
 -lexeme
  lex: aržantin
  stem: aržantin.
  root: ržntn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Argentinien
- trans_en: 
+ trans_en: Argentine
 -lexeme
  lex: aržantini
- stem: aržantini.|aržantiniiye.
+ stem: aržantini.|aržantiniye.
  root: ržntn
  gramm: N,m
  paradigm: N2
- trans_de: iye Argentinier, argentinisch
- trans_en: 
+ trans_de: Argentinier, argentinisch
+ trans_en: an Argentinian, argentinian
+-lexeme
+ lex: asʕar
+ stem: asʕar.
+ root: sʕr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Preise
+ trans_en: price
 -lexeme
  lex: asas
  stem: asas.|asasat.
  root: ʔss
  gramm: N,m
  paradigm: N2
- trans_de: Fundament, ursprünglich
- trans_en: 
+ trans_de: Fundament; ursprünglich
+ trans_en: foundation; originally
+-lexeme
+ lex: asasan
+ stem: asasan.
+ root: ʔss
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ohnehin, sowieso
+ trans_en: one way or another
 -lexeme
  lex: asiro
- stem: asiro.
+ stem: asiro.|asire.
  root: sr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gefangener
- trans_en: 
+ trans_en: captive, prisoner
+-lexeme
+ lex: assəḥ
+ stem: assəḥ.
+ root: ṣḥḥ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wirklich
+ trans_en: really
+-lexeme
+ lex: awruppa
+ stem: awruppa.
+ root: ʔwrp
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Europa
+ trans_en: Europe
+-lexeme
+ lex: asuri
+ stem: asuri.
+ root: ʔsr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: die Sprache der Nestorianer, Ostneusyrisch
+ trans_en: the language of the members of the Church of East, Eastern Neo-Aramaic
 -lexeme
  lex: aṣale
- stem: aṣale.
+ stem: aṣale.|aṣalat.
  root: ʔṣl
  gramm: N,f
- paradigm: N1
- trans_de: edles Tun; Adel
- trans_en: 
+ paradigm: N2
+ trans_de: adliges, edles Tun; Adel
+ trans_en: noble deed; dignity
 -lexeme
  lex: aṣl
  stem: aṣl.
  root: ʔṣl
  gramm: N,m
- paradigm: N1
- trans_de: a) Ursprung, Herkunft b) der, auf den es ankommt
+ paradigm: unchangeable
+ trans_de: Ursprung, Herkunft; der, auf den es ankommt
  trans_en: 
 -lexeme
  lex: aṣil
