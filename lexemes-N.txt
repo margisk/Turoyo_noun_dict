@@ -2692,7 +2692,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Herr, Grundherr, Agha
- trans_en: 
+ trans_en: lord, landlord, agha
 -lexeme
  lex: aġatiye
  stem: aġatiye.
@@ -2700,7 +2700,15 @@
  gramm: N,f
  paradigm: N1
  trans_de: Aghawürde
- trans_en: 
+ trans_en: agha title, agha status
+-lexeme
+ lex: aġlab
+ stem: aġlab.
+ root: ġlb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: die Meisten; meistens
+ trans_en: generally, in most cases
 -lexeme
  lex: aġro
  stem: aġro.
@@ -2708,47 +2716,87 @@
  gramm: N,m
  paradigm: N1
  trans_de: Lohn
- trans_en: 
+ trans_en: wages
+-lexeme
+ lex: aǧallak
+ stem: aǧallak.//ažallak.
+ root: ǧll
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: "mit Respekt zu vermelden!"
+ trans_en: "let me report" (?)
+-lexeme
+ lex: aǧanəb
+ stem: aǧanəb.
+ root: ǧnb
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Fremde
+ trans_en: foreigner
 -lexeme
  lex: aǧar
  stem: aǧar.
  root: ʔǧr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Miete
+ trans_en: rent
+-lexeme
+ lex: ah
+ stem: ah.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ach!
  trans_en: 
+-lexeme
+ lex: ahah
+ stem: ahah.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Aha!
+ trans_en: ah!
 -lexeme
  lex: ahammiye
  stem: ahammiye.
  root: hmm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wichtigkeit; das, worauf man Wert legt
- trans_en: 
+ trans_en: importance; something valuable
 -lexeme
  lex: ahd
  stem: ahd.
  root: hd
  gramm: N,m
  paradigm: N1
- trans_de: Versprechen, gegebenes Wort, Verpflichtung; d-obat ahd kamilo
- trans_en: 
+ trans_de: Versprechen, gegebenes Wort, Verpflichtung; 
+ trans_en: promise, given word, obligation
 -lexeme
  lex: ahl
  stem: ahl.|ahali.
  root: ʔhl
  gramm: N,m
  paradigm: N2
- trans_de: ahali a)Einwohner b) Angehörige, Familie c) Mitglieder der Ratsversammlung d) ahl namus ʾahl namus ehrbare Leute
- trans_en: 
+ trans_de: Einwohner; Angehörige, Familie; Mitglieder der Ratsversammlung;
+ trans_en: residents; relatives, family; members of the council
+-lexeme
+ lex: ahla
+ stem: ahla.
+ root: hl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Wilkommen!
+ trans_en: welcome!
 -lexeme
  lex: ahlitiye
  stem: ahlitiye.
  root: ʔhl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verwandtschaft
- trans_en: 
+ trans_en: kinship
 -lexeme
  lex: ahliye
  stem: ahliye.|ahliyat.
@@ -2756,55 +2804,78 @@
  gramm: N,f
  paradigm: N2
  trans_de: Führerschein für Auto
- trans_en: 
+ trans_en: driving license
 -lexeme
  lex: aḥmaqiye
  stem: aḥmaqiye.
  root: ḥmq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Torheit
- trans_en: 
+ trans_en: stupidity
 -lexeme
  lex: aḥo
- stem: aḥo.
+ stem: aḥo.|aḥe.
  root: ḥ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bruder
- trans_en: 
+ trans_en: brother
 -lexeme
  lex: aḥuno
  stem: aḥuno.|aḥnone.//aḥunone.
  root: ḥn
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: Bruder
+ trans_en: brother
 -lexeme
  lex: aḥunuṯo
  stem: aḥunuṯo.
  root: ḥnṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bruderschaft
- trans_en: 
+ trans_en: brotherhood
+-lexeme
+ lex: akabir
+ stem: akabir.
+ root: kbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: große
+ trans_en: big
 -lexeme
  lex: akṯariye
  stem: akṯariye.
  root: kṯr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mehrheit, Mehrzahl
- trans_en: 
+ trans_en: majority
 -lexeme
  lex: alʕo
- stem: alʕo.|oṯe.
+ stem: alʕo.|alʕoṯe.
  root: lʕ
  gramm: N,f
  paradigm: N2
  trans_de: Rippe (mit Fleisch)
+ trans_en: rib (with meat)
+-lexeme
+ lex: ala
+ stem: ala./hala.
+ root: lh
+ gramm: INTERJ
+ trans_de: Partikel zur Selbstverbesserung
  trans_en: 
+-lexeme
+ lex: ala/alo
+ stem: ala./alo./alah.
+ root: ʔlh
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gott
+ trans_en: God
 -lexeme
  lex: alayye
  stem: alayye.
@@ -2812,15 +2883,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: Regiment
- trans_en: 
+ trans_en: regiment
+-lexeme
+ lex: alaman
+ stem: alaman.
+ root: ʔlmn
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Deutschland
+ trans_en: Germany
+-lexeme
+ lex: alamoyi
+ stem: alamoyi.
+ root: ʔlm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: von Schmerz geplagt, tuberkulös
+ trans_en: worn-out by illnes, consumptive (?)
+-lexeme
+ lex: alavəz
+ stem: alavəz.
+ root: lvz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mittellos; ohne Geld, Essen usw.; keine Bewegung machend, nicht entgegnend (auf Beschimpfungen)
+ trans_en: poor; without money, food etc.; not moving, not replying (to offence, abuse)
 -lexeme
  lex: ale
  stem: ale.|alat.
  root: l
  gramm: N,f
  paradigm: N2
- trans_de: a) Werkzeug; pl b) Instrumente für Musik c) Hakenpflug (Abbildung bei Anis Frayha, Ḥaḍam fi
- trans_en: 
+ trans_de: Werkzeug; Instrumente für Musik; Hakenpflug
+ trans_en: tool; musical instruments; plough
 -lexeme
  lex: alfiye
  stem: alfiye.|alfiyat.
@@ -2828,7 +2923,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: große Weinflasche, Rakiflasche
- trans_en: 
+ trans_en: big wine- or rakiabottle
+-lexeme
+ lex: alfo
+ stem: alfo.|alfaye.//alfowat.
+ root: ʔlf
+ gramm: N,m
+ paradigm: N2
+ trans_de: tausend
+ trans_en: thousand
 -lexeme
  lex: aləšweriš
  stem: aləšweriš.
