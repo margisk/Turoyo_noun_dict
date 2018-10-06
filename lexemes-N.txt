@@ -1290,7 +1290,7 @@
  trans_en: idler
 -lexeme
  lex: ʕawḏ̣iye
- stem: ʕawḏ̣iye.|ʕawḏ̣iyat.
+ stem: ʕawḏ̣iye.//ʕawḏiye.|ʕawḏ̣iyat.//ʕawḏiyat.
  root: ʕwḍ
  gramm: N,f
  paradigm: N2
@@ -3446,8 +3446,8 @@
  trans_de: ohnehin, sowieso
  trans_en: one way or another
 -lexeme
- lex: asiro
- stem: asiro.|asire.
+ lex: asiro/yasiro
+ stem: asiro.//yasiro.//aṣiro.//yaṣiro.|asire.//yasire.//aṣire.//yaṣire
  root: sr
  gramm: N,m
  paradigm: N2
@@ -3492,15 +3492,23 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Ursprung, Herkunft; der, auf den es ankommt
- trans_en: 
+ trans_en: origin; someone on who something depends
 -lexeme
  lex: aṣil
- stem: aṣil.|aṣayil,.
+ stem: aṣil.|aṣayil.//aṣilin.
  root: ʔṣl
  gramm: N,m
  paradigm: N2
- trans_de: adelig Mi
- trans_en: 
+ trans_de: edel, adelig
+ trans_en: noble
+-lexeme
+ lex: aṣli
+ stem: aṣli.
+ root: ʔṣl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: von Rasse (Pferd)
+ trans_en: high-bred (horse)
 -lexeme
  lex: aṣliye
  stem: aṣliye.
@@ -3508,71 +3516,79 @@
  gramm: N,f
  paradigm: N1
  trans_de: Edelmut
- trans_en: 
+ trans_en: nobility, nobleness
 -lexeme
  lex: ašči
- stem: ašči.|aščiiye.
+ stem: ašči.|aščiye.
  root: šč
  gramm: N,m
  paradigm: N2
- trans_de: iye Koch, Restaurantbesitzer
- trans_en: 
+ trans_de: Koch, Restaurantbesitzer
+ trans_en: cook, restaraunt owner
 -lexeme
  lex: aške
  stem: aške.
  root: šk
  gramm: N,f
  paradigm: N1
- trans_de: Lackmuskraut, Heliotropium circinnatum Griseb, oder Chrosophora tinctoria Rad. nicht
- trans_en: 
+ trans_de: Lackmuskraut, Heliotropium circinnatum Griseb, oder Chrosophora tinctoria Rad
+ trans_en: Heliotropium circinnatum Griseb, oder Chrosophora tinctoria Rad
+-lexeme
+ lex: ašraf
+ stem: ašraf.
+ root: šrf
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Vornehme
+ trans_en: ?
 -lexeme
  lex: ašxane
  stem: ašxane.|ašxanat.
  root: šxn
  gramm: N,f
  paradigm: N2
- trans_de: Restaurant; pl
- trans_en: 
+ trans_de: Restaurant
+ trans_en: restaurant
+-lexeme
+ lex: ašyaʔ
+ stem: ašyaʔ.
+ root: šyʔ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Dinge
+ trans_en: things
 -lexeme
  lex: atax
- stem: atax.
+ stem: atax.|ataxat.
  root: tx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bett
- trans_en: 
+ trans_en: bed
 -lexeme
  lex: ataxiye
- stem: ataxiye.
+ stem: ataxiye.|ataxiyat.
  root: txy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Anzeige bei der Polizei; Spionage
- trans_en: 
+ trans_en: report to the police; espionage
 -lexeme
  lex: atuno
- stem: atuno.
+ stem: atuno.|atune.
  root: tn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kalkofen
- trans_en: 
+ trans_en: lime-burner
 -lexeme
  lex: aṭlayye
  stem: aṭlayye.
  root: ṭly
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sprung; Pause
- trans_en: 
--lexeme
- lex: aṭlas
- stem: aṭlas.
- root: ṭls
- gramm: N,m
- paradigm: N1
- trans_de: Atlas (Seide)
- trans_en: 
+ trans_en: jump; pause
 -lexeme
  lex: aṯar
  stem: aṯar.|aṯarat.
@@ -3580,7 +3596,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Rest
- trans_en: 
+ trans_en: rest, remains
+-lexeme
+ lex: aṯməl
+ stem: aṯməl.
+ root: ṯml
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: gestern
+ trans_en: yesterday
+-lexeme
+ lex: aṯna
+ stem: aṯna.//iṯna.
+ root: tn
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Gleichzeitigkeit
+ trans_en: simultaneity
 -lexeme
  lex: aṯro
  stem: aṯro.|aṯrawoṯe.//aṯrawoṯo.
@@ -3588,7 +3620,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Land, Heimat
- trans_en: 
+ trans_en: country, homeland
 -lexeme
  lex: aṯto
  stem: aṯto.|niše.
@@ -3596,47 +3628,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Frau, Ehefrau
- trans_en: 
+ trans_en: woman; wife
+-lexeme
+ lex: av
+ stem: av.
+ root: ʔv
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Wasser
+ trans_en: water
 -lexeme
  lex: avaniye
- stem: avaniye.
+ stem: avaniye.|avaniyat.
  root: vny
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gebäude
- trans_en: 
+ trans_en: building
 -lexeme
  lex: aviye
  stem: aviye.
  root: vy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wasserreich
+ trans_en: well-irrigated
+-lexeme
+ lex: avzalelkat
+ stem: avzalelkat.
+ root: ʔvzll
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Eiterbeulen, Geschwüre
+ trans_en: pus abscesses
+-lexeme
+ lex: avzene
+ stem: avzene.|avzenat.
+ root: ʔvzn
  gramm: N,f
- paradigm: N1
- trans_de: wohlbewässerter Garten“ nicht
- trans_en: 
+ paradigm: N2
+ trans_de: kleine Wasserquelle, aus dem Boden heraussprudelndes Wasser
+ trans_en: small spring, with water gushing out from the ground
 -lexeme
  lex: avzenke
  stem: avzenke.
  root: vzn
  gramm: N,f
  paradigm: N1
- trans_de: a) kleine Wasserquelle, aus dem Boden heraussprudelndes Wasser b) Schnalle
- trans_en: 
+ trans_de: kleine Wasserquelle, aus dem Boden heraussprudelndes Wasser; Schnalle
+ trans_en: small spring, with water gushing out from the ground; buckle (?)
+-lexeme
+ lex: aw
+ stem: aw.
+ root: ʔw
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder
+ trans_en: or
+-lexeme
+ lex: awadəm
+ stem: awadəm.
+ root: ʔwdm
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: wohlerzogene, feine, kultivierte Menschen
+ trans_en: well-mannered, educated people
 -lexeme
  lex: awake
- stem: awake.
+ stem: awake.|awakat.
  root: wk
  gramm: N,f
- paradigm: N1
- trans_de: awaye Art, Gewohnheit; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Art, Gewohnheit;
+ trans_en: kind; custom
 -lexeme
  lex: awaye
- stem: awaye.
+ stem: awaye.|awayat.
  root: wy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Art, Gewohnheit
- trans_en: 
+ trans_en: kind; custom
 -lexeme
  lex: away
  stem: away.
@@ -3644,31 +3716,143 @@
  gramm: N,m
  paradigm: N1
  trans_de: Gestalt, Gewohnheit
- trans_en: 
--lexeme
- lex: awda
- stem: awda.
- root: wd
- gramm: N,f
- paradigm: N1
- trans_de: Zimmer
- trans_en: 
+ trans_en: appearance; usual manner (?)
 -lexeme
  lex: awərre
- stem: awərre.
+ stem: awərre.|awərrat.
  root: wrr
  gramm: N,f
- paradigm: N1
- trans_de: verächtlicher Blick
- trans_en: 
+ paradigm: N2
+ trans_de: stolzer, verächtlicher Blick
+ trans_en: arrogant, contemptuous look
+-lexeme
+ lex: awla
+ stem: awla.
+ root: ʔwl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sicher, vertrauend
+ trans_en: sure, trusting
+-lexeme
+ lex: awqiyanos
+ stem: awqiyanos.
+ root: ʔwqyns
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ozean
+ trans_en: ocean
+-lexeme
+ lex: awṣtraliya
+ stem: awṣtraliya.
+ root: ʔwṣtr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Australien
+ trans_en: Australia
+-lexeme
+ lex: awwalan
+ stem: awwalan.
+ root: ʔwl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: erstens, zuerst
+ trans_en: at first, in the beginning
+-lexeme
+ lex: awwəl
+ stem: awwəl.
+ root: ʔwl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: erster; zuerst
+ trans_en: first; at first
+-lexeme
+ lex: ax
+ stem: ax.
+ root: x.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ach!
+ trans_en: ah!
 -lexeme
  lex: ax
  stem: ax.
  root: x
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Erde, Boden
- trans_en: 
+ trans_en: earth, ground
+-lexeme
+ lex: axər
+ stem: axər.
+ root: ʔxr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: schließlich, zuletzt; Ende
+ trans_en: finally, at last; end
+-lexeme
+ lex: axlaqat
+ stem: axlaqat.
+ root: ḥlq
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Charakter, Sitten
+ trans_en: character; customs
+-lexeme
+ lex: axur/axor
+ stem: axur.//axor.|axurat.//axorat.
+ root: ʔxr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Stall; Keller
+ trans_en: stable; basement
+-lexeme
+ lex: ay/aw
+ stem: ay.//aw.
+ root: w
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Schmerzes
+ trans_en: ouch (cry by pain)
+-lexeme
+ lex: aydan
+ stem: aydan.
+ root: ʔyd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: auch
+ trans_en: also
+-lexeme
+ lex: aydarbo
+ stem: aydarbo.
+ root: ʔydrb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wie?
+ trans_en: how?
+-lexeme
+ lex: ayko
+ stem: ayko.
+ root: ʔyk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wo?
+ trans_en: where?
+-lexeme
+ lex: ayna
+ stem: ayna.
+ root: ʔyn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: welcher, welche
+ trans_en: which
+-lexeme
+ lex: ayriyatan
+ stem: ayriyatan.
+ root: ʔyr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: besonders
+ trans_en: particularly
 -lexeme
  lex: aziye
  stem: aziye.
@@ -23375,7 +23559,7 @@
  trans_en: 
 -lexeme
  lex: oda
- stem: oda.|owad.
+ stem: oda.//awda.|owad.//odayat.
  root: d
  gramm: N,f
  paradigm: N2
