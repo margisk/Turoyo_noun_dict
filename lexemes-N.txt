@@ -2743,7 +2743,7 @@
  trans_en: foreigner
 -lexeme
  lex: aǧar
- stem: aǧar.
+ stem: aǧar.//ažar.
  root: ʔǧr
  gramm: N,m
  paradigm: unchangeable
@@ -3858,57 +3858,96 @@
  stem: aziye.
  root: ʔḏy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Quälerei
- trans_en: 
+ trans_en: torment, pain
 -lexeme
  lex: azzaxane
- stem: azzaxane.
+ stem: azzaxane.|azzaxanat.
  root: zxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Apotheke
- trans_en: 
--lexeme
- lex: ažar
- stem: ažar.
- root: ʔǧr
- gramm: N,m
- paradigm: N1
- trans_de: Miete
- trans_en: 
+ trans_en: drugstore
 -lexeme
  lex: ažir
  stem: ažir.
  root: ʔǧr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Angestellter
- trans_en: 
+ trans_en: employee
 -lexeme
  lex: bʕurto
  stem: bʕurto.|bʕure.
- root: bʕrt
+ root: bʕr
  gramm: N,f
  paradigm: N2
  trans_de: Kot von Ziegen, Schafen, Eseln in Form von kleinen Kügelchen
- trans_en: 
+ trans_en: feces of goats, sheep and donkeys in form of small pellets 
 -lexeme
  lex: ba
  stem: ba.
  root: b
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wind
- trans_en: 
+ trans_en: wind
+-lexeme
+ lex: ba
+ stem: ba.
+ root: b
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: meist Fragepartikel am Satzanfang, sonst ohne klare Bedeutung
+ trans_en: mostly questiona particle at the beginning of a sentence, without any clear meaning
+-lexeme
+ lex: baʕ
+ stem: baʕ.
+ root: bʕ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: einwendende, abweisende Partikel, stets am Satzanfang, auch bei Fragen
+ trans_en: objection participle, always at the beginning of a sentece, also in questions
+-lexeme
+ lex: baʕd
+ stem: baʕd.
+ root: bʕd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nachher
+ trans_en: afterwards
+-lexeme
+ lex: baʕdan
+ stem: baʕdan.
+ root: bʕd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dann, darauf
+ trans_en: then, afterwards
+-lexeme
+ lex: baʕǧa
+ stem: baʕǧa.
+ root: bʕǧ
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Traubenhyazinthe, Meerträubel, Muscari racemosus L. Mill.; Bittere Pflanze mit langer Wurzel. Wer sie isst verliert den Verstand. Daraus wird ein Mittel gegen Malaria gemacht
+ trans_en: ..., ..., Muscari racemosus L. Mill.; bitter plants with long root. Who eats it, loses his mind. A medicine from malaria is prerpared from it
+-lexeme
+ lex: baʕlo
+ stem: baʕlo.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber doch; nun dann
+ trans_en: but; only then (?)
 -lexeme
  lex: baʕo
  stem: baʕo.
  root: bʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Armspanne beider Arme
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: baba
  stem: baba.
@@ -3916,39 +3955,39 @@
  gramm: N,m
  paradigm: N1
  trans_de: Papa, Vater
- trans_en: 
+ trans_en: father
 -lexeme
  lex: babbor
  stem: babbor.|babborat.
  root: bbr
  gramm: N,m
  paradigm: N2
- trans_de: Spirituskocher; pl
- trans_en: 
+ trans_de: Spirituskocher
+ trans_en: spirit-lamp
 -lexeme
  lex: bablisoke
  stem: bablisoke.
  root: blsk
  gramm: N,f
- paradigm: N1
- trans_de: a) Staubsturm b) Frau, über die man sich lustig macht
- trans_en: 
+ paradigm: N2
+ trans_de: Staubsturm; Frau, über die man sich lustig macht
+ trans_en: sandstorm; a woman for whom a man longs
 -lexeme
  lex: babo
- stem: babo.|baboe.//-one.
+ stem: babo.|babe.//babone.
  root: bb
  gramm: N,m
  paradigm: N2
  trans_de: Vater
- trans_en: 
+ trans_en: father
 -lexeme
  lex: babor
- stem: babor.
+ stem: babor.|baborat.
  root: bbr
  gramm: N,m
  paradigm: N1
  trans_de: Dampfer
- trans_en: 
+ trans_en: steamer
 -lexeme
  lex: bačək
  stem: bačək.
@@ -3956,55 +3995,63 @@
  gramm: N,m
  paradigm: N1
  trans_de: gelbe Hirse
- trans_en: 
+ trans_en: yellow millet
 -lexeme
  lex: badal
- stem: badal.
+ stem: badal.|badalat.
  root: bdl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ersatz
- trans_en: 
+ trans_en: substitute
 -lexeme
  lex: badan
  stem: badan.|badane.
  root: bdn
  gramm: N,m
  paradigm: N2
- trans_de: badane Stadtmauer
- trans_en: 
+ trans_de: Stadtmauer
+ trans_en: city wall
 -lexeme
  lex: badaye
- stem: badaye.
+ stem: badaye.|badayat.
  root: bdʔ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Anfang
- trans_en: 
+ trans_en: beginning
 -lexeme
  lex: badle
- stem: badle.
+ stem: badle.|badlat.
  root: bdl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Anzug
- trans_en: 
+ trans_en: costume, clothes
 -lexeme
  lex: badoyo
  stem: badoyo.|badoye.
  root: bdy
  gramm: N,m
  paradigm: N2
- trans_de: Haar), mit wenig Bäumen
- trans_en: 
+ trans_de: schütter (Haar), mit wenig Bäumen
+ trans_en: scanty (hair), with few trees
+-lexeme
+ lex: baḏənǧan
+ stem: baḏənǧan.|baḏənǧane.
+ root: bḏnǧ
+ gramm: N,m
+ paradigm: N2
+ trans_de: Aubergine <?>
+ trans_en: aubergine <?>
 -lexeme
  lex: baḏilo
- stem: baḏilo.
+ stem: baḏilo.|baḏile.
  root: bḏl
- gramm: N,m
- paradigm: N1
- trans_de: Pflanze), schwächlich
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: verwelkt, verfault (Pflanze), schwächlich
+ trans_en: withered, rotten (plant); sickly, weak
 -lexeme
  lex: baḏiyo
  stem: baḏiyo.
@@ -4012,39 +4059,47 @@
  gramm: N,m
  paradigm: N1
  trans_de: anderthalb Meter lange Stange zum Schüren des Backofens
- trans_en: 
+ trans_en: one and a half meter long stick to stoke an oven
 -lexeme
  lex: bafun
  stem: bafun.
  root: bfn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aluminium
- trans_en: 
+ trans_en: aluminium
 -lexeme
  lex: bag
- stem: bag.|bagawiye.
+ stem: bag.//bage.|bagawiye.
  root: bg
  gramm: N,m
  paradigm: N2
- trans_de: bägäwiye Titel (Bey)
- trans_en: 
+ trans_de: Titel (Bey)
+ trans_en: title (Bey)
+-lexeme
+ lex: bagoke
+ stem: bagoke.
+ root: bg
+ gramm: N
+ paradigm: unchangeable
+ trans_de: ein Gebirge
+ trans_en: a mountain range (in Ṭur ʕAbdin)
 -lexeme
  lex: bagzade
- stem: bagzade.
+ stem: bagzade.|bagzadat.
  root: bgzd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Vagabund
- trans_en: 
+ trans_en: vagabond
 -lexeme
  lex: baġalṯo
- stem: baġalṯo.
+ stem: baġalṯo.|baġalyoṯe.//baġalyoṯo.
  root: bġlṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Mauleselin
- trans_en: 
+ trans_en: she-mule
 -lexeme
  lex: baġəlko
  stem: baġəlko.
@@ -4060,7 +4115,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Maultier, Maulesel
- trans_en: 
+ trans_en: mule
 -lexeme
  lex: baġol
  stem: baġol.|baġolat.
@@ -4068,15 +4123,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Koffer
- trans_en: 
+ trans_en: suitcase
 -lexeme
  lex: bahdala
  stem: bahdala.
  root: bhdl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schande, Blossstellung
- trans_en: 
+ trans_en: shame, discrediting
+-lexeme
+ lex: bahlulo
+ stem: bahlulo.
+ root: bhll
+ gramm: ADJ
+ paradigm: N2
+ trans_de: geistesgestört
+ trans_en: insane
 -lexeme
  lex: bahoz
  stem: bahoz.|bahozat.
@@ -4084,47 +4147,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: aufgewirbelter Staub
- trans_en: 
+ trans_en: whirling dust
 -lexeme
  lex: bahro
  stem: bahro.
  root: bhr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Licht, Lampe, Laterne, Leuchtfeuer
- trans_en: 
+ trans_en: light; lamp, lantern, lighthouse
 -lexeme
  lex: bahtmay
- stem: bahtmay.
+ stem: bahtmay.//behətmayi.//behtmayi
  root: bhtmy
- gramm: N,m
- paradigm: N1
- trans_de: äußerste erstaunt Sl
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verblüfft, aufs äußerste erstaunt
+ trans_en: austounded, perplexed
 -lexeme
  lex: bahuro
- stem: bahuro.
+ stem: bahuro.|bahure.
  root: bhr
- gramm: N,m
- paradigm: N1
- trans_de: a) hell b) glänzend poliert
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: hell; glänzend poliert
+ trans_en: light, bright; polished
 -lexeme
  lex: bahətme
  stem: bahətme.|bahətmat.
  root: bhtm
  gramm: N,f
  paradigm: N2
- trans_de: die Frauen zweier Brüder sind beide der anderen
- trans_en: 
+ trans_de: die Frauen zweier Brüder sind beide der anderen bahətme
+ trans_en: wives of two brothers are bahətme to each other
 -lexeme
  lex: bahra
- stem: bahra.
+ stem: bahra.|bahrat.
  root: bhr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: großes Wasserbecken
- trans_en: 
+ trans_en: a big water basin
 -lexeme
  lex: baḥar
  stem: baḥar.|baḥare.
@@ -4132,31 +4195,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Meer, See
- trans_en: 
+ trans_en: see, lake
 -lexeme
  lex: baḥri
  stem: baḥri.|baḥriye.
  root: bḥr
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: bahriye Meer-, Meermann
- trans_en: 
+ trans_de: Meer-, Meermann
+ trans_en: sea-, sailor
 -lexeme
  lex: baḥs
  stem: baḥs.
  root: bḥs
  gramm: N,m
- paradigm: N1
- trans_de: das, wovon die Rede ist
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Sprechen von; das, wovon die Rede ist
+ trans_en: speaking about; what is talked about
 -lexeme
  lex: bakči
- stem: bakči.|bakčiiye.
+ stem: bakči.|bakčiye.
  root: bkč
  gramm: N,m
  paradigm: N2
- trans_de: iye Wächter
- trans_en: 
+ trans_de: Wächter
+ trans_en: watchman, guard
 -lexeme
  lex: bakša
  stem: bakša.|bakšat.
@@ -4164,15 +4227,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Garten
- trans_en: 
+ trans_en: garden
+-lexeme
+ lex: bal
+ stem: bal.//bale.
+ root: bl
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber
+ trans_en: but
+-lexeme
+ lex: bal
+ stem: bal.
+ root: bl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mit Erhöhung in der Mitte und etwas herausstehend, auch von krummer Nase
+ trans_en: with raising in the middle and somewhat sticking out, also about a curved nose
 -lexeme
  lex: bala
- stem: bala.|bəlawat.
+ stem: bala.|bəlawat.//balawat.
  root: blʔ
  gramm: N,m
  paradigm: N2
  trans_de: Plage, Unglücksfall, Unheil
- trans_en: 
+ trans_en: torment, accident, misfortune
 -lexeme
  lex: balad
  stem: balad.|balade.//baladat.
@@ -4180,87 +4259,143 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stadt, Heimatstadt, Ort, Land
- trans_en: 
+ trans_en: city, hometown; country, land
 -lexeme
  lex: baladiye
- stem: baladiye.
+ stem: baladiye.|baladiyat.
  root: bld
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stadtverwaltung
- trans_en: 
+ trans_en: city administration
+-lexeme
+ lex: balahu
+ stem: balahu.
+ root: blh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ohne ihn, gar keine, weg!
+ trans_en: not at all, begone!
 -lexeme
  lex: balako
- stem: balako.|balakoin.//balakoat.
+ stem: balako.//balak.|balakin.//balakat.
  root: blq
  gramm: N,m
  paradigm: N2
- trans_de: scheckig PrS
- trans_en: 
+ trans_de: scheckig
+ trans_en: spotty
+-lexeme
+ lex: balangaz
+ stem: balangaz.
+ root: blngz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mittellos, abgebrannt
+ trans_en: poor, burnt down <?>
+-lexeme
+ lex: balaš
+ stem: balaš.
+ root: blš
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: umsonst
+ trans_en: free of charge
+-lexeme
+ lex: bal azyad
+ stem: bal azyad.
+ root: zyd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: viel mehr
+ trans_en: much more
 -lexeme
  lex: balga
- stem: balga.
+ stem: balga.//balgəh.|balgat.
  root: blg
  gramm: N,f
  paradigm: N1
  trans_de: Gebiet, Zone
- trans_en: 
--lexeme
- lex: balgəh
- stem: balgəh.
- root: blgh
- gramm: N,m
- paradigm: N1
- trans_de: Zone, Gebiet, Grundstück
- trans_en: 
+ trans_en: area, zone
 -lexeme
  lex: balǧiqa
- stem: balǧiqa.
+ stem: balǧiqa.//balčika.
  root: blǧq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Belgien
- trans_en: 
+ trans_en: Belgium
 -lexeme
  lex: balǧiqi
- stem: balǧiqi.|balǧiqiiye.
+ stem: balǧiqi.|balǧiqiye.
  root: blǧq
  gramm: N,m
  paradigm: N2
  trans_de: Belgier
- trans_en: 
+ trans_en: a Belgian
 -lexeme
  lex: baliye
- stem: baliye.
+ stem: baliye.|baliyat.
  root: bly
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Ballen
- trans_en: 
+ trans_en: roll
+-lexeme
+ lex: balki
+ stem: balki.
+ root: blk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: vielleicht
+ trans_en: perhaps, maybe
+-lexeme
+ lex: balli
+ stem: balli.//ballo.
+ root: bl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ersichtlich
+ trans_en: obvious, clear
+-lexeme
+ lex: balloq
+ stem: balloq.
+ root: blq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mit herausstehenden Glotzaugen
+ trans_en: <?>
 -lexeme
  lex: ballure
  stem: ballure.
  root: blr
  gramm: N,f
- paradigm: N1
- trans_de: a) Hirtenflöte b) ballure
- trans_en: 
+ paradigm: N2
+ trans_de: Hirtenflöte;
+ trans_en: shepherds' flute;
+-lexeme
+ lex: balqon
+ stem: balqon.
+ root: blq
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Balkon
+ trans_en: balcony
 -lexeme
  lex: balte
- stem: balte.
+ stem: balte.|baltat.
  root: blt
  gramm: N,f
- paradigm: N1
- trans_de: der Wand, aus dem Boden hervorsteht ع
- trans_en: 
+ paradigm: N2
+ trans_de: was aus der Wand, aus dem Boden hervorsteht
+ trans_en: what sticks out of a wall, from ground
 -lexeme
  lex: baltke
- stem: baltke.
+ stem: baltke.|baltkat.
  root: blt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Wandnische; kleiner Felsen, der aus dem Boden heraussteht
- trans_en: 
+ trans_en: niche in a wall; small rock which sticks out from the ground
 -lexeme
  lex: baluʕa
  stem: baluʕa.|baluʕat.
@@ -4268,23 +4403,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wasserwirbel, Wasserstrudel
- trans_en: 
+ trans_en: whirlpool
 -lexeme
  lex: baluṭo
  stem: baluṭo.|baluṭe.
  root: blṭ
  gramm: N,m
  paradigm: N2
- trans_de: a) Steineiche (Brants Eiche?) b) Eichenpflock mit dem der
- trans_en: 
+ trans_de: Steineiche (Brants Eiche?); Eichenpflock mit dem der pərrək des Hakenpflugs in der Birge befestigt ist
+ trans_en: durmast; oak stake with which a 'pərrək' of a plow in <...> is fastened
 -lexeme
  lex: balwa
  stem: balwa.
  root: blw
  gramm: N,f
  paradigm: N1
- trans_de: das schöne Mädchen
- trans_en: 
+ trans_de: das plage, das schöne Mädchen
+ trans_en: disaster; beautiful girl
 -lexeme
  lex: bamba
  stem: bamba.|bambayat.
@@ -4292,13 +4427,13 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bombe
- trans_en: 
+ trans_en: bomb
 -lexeme
  lex: bamya
- stem: bamya.
+ stem: bamya.|bamyat.
  root: bmy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bamia (Gemüseart), Hibiscus esculentes
  trans_en: 
 -lexeme
@@ -4307,56 +4442,80 @@
  root: bny
  gramm: N,f
  paradigm: N2
- trans_de: a) Teil der Familie, der sich vorübergehend nicht zu Hause aufhält, sondern woandershin umzieht b) Hausrat
- trans_en: 
+ trans_de: Teil der Familie, der sich vorübergehend nicht zu Hause aufhält, sondern woandershin umzieht; Hausrat
+ trans_en: part of family which mostly does not stay at home, but moves elsewhere; furniture
 -lexeme
  lex: band
- stem: band.|bande.
+ stem: band.|bande.//bandat.
  root: bnd
  gramm: N,m
  paradigm: N2
  trans_de: Partei
- trans_en: 
+ trans_en: party
+-lexeme
+ lex: bandak
+ stem: bandak.
+ root: bnd
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: gewebter Teppich aus Ziegenhaar oder Wolle, der gefaltet und an der Schmalseite zusammengehängt wird, so dass ein Sack mit offener Längsseite entsteht; dient zum Transport von Getreide auf Eselrücken
+ trans_en: weaved rug made of goathair or wool
 -lexeme
  lex: bando
- stem: bando.
+ stem: bando.|bande.
  root: bnd
  gramm: N,m
- paradigm: N1
- trans_de: breites Wollband, um das Kind in der Wiege festzuhalten
- trans_en: 
+ paradigm: N2
+ trans_de: etwa 5 cm breites Wollband, um das Kind in der Wiege festzuhalten
+ trans_en: woolband around 5 cm wide [used] to hold a child in a cradle
 -lexeme
  lex: bandoke
- stem: bandoke.
+ stem: bandoke.|bandokat.
  root: bnd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Teppich aus Ziegenhaar oder Wolle
- trans_en: 
+ trans_en: rug made of goathair or wool
 -lexeme
  lex: banduqe
- stem: banduqe.
+ stem: banduqe.//banduqa.|banduqat.
  root: bndq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: schlaues Luder, Vettel
- trans_en: 
+ trans_en: clever trickster; hag
 -lexeme
  lex: banger
- stem: banger.
+ stem: banger.//bangerin.
  root: bngr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Millionär, Bankbesitzer
- trans_en: 
+ trans_en: millionaire, banker
+-lexeme
+ lex: bani adam
+ stem: bani adam.
+ root: bnydm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Adamssöhne, Menschen
+ trans_en: humans
+-lexeme
+ lex: banəʕmoyo
+ stem: banəʕmoyo.//banəʕmoye.
+ root: bnʕm
+ gramm: N
+ paradigm: N2
+ trans_de: Mann aus dem Dorfe, das heute Bemanʕəm heisst
+ trans_en: a person from the village which is today called Bemanʕəm
 -lexeme
  lex: banne
  stem: banne.|bannat.
  root: bnn
  gramm: N,f
  paradigm: N2
- trans_de: Bergen liegende Terrasse zum Anbau von Getreide und dergl.
- trans_en: 
+ trans_de: große, zwieschen zwei Bergen liegende Terrasse zum Anbau von Getreide und dergl.
+ trans_en: big terrace for sowing crops and such things between two mountains
 -lexeme
  lex: bannəke
  stem: bannəke.|bannəkat.
@@ -4364,15 +4523,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleines Terrassenfeld
- trans_en: 
+ trans_en: small field between two mountains (?)
 -lexeme
- lex: ban(n)iye
- stem: ban(n)iye.|b·mḏ.
+ lex: banniye
+ stem: baniye.//banniye.|baniyat.//banniyat.
  root: bny
  gramm: N,f
  paradigm: N2
  trans_de: Gebäude, Bau
- trans_en: 
+ trans_en: building
 -lexeme
  lex: banoyo
  stem: banoyo.|banoye.
@@ -4380,7 +4539,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bauhandwerker
- trans_en: 
+ trans_en: builder
 -lexeme
  lex: banyono
  stem: banyono.|banyone.
@@ -4388,39 +4547,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stelle, wo die Zisterne unter der Öffnung breiter wird
- trans_en: 
+ trans_en: place where a cistern is wider (under its opening)
+-lexeme
+ lex: baqa
+ stem: baqa.
+ root: bq
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: endlich
+ trans_en: finally, at last
 -lexeme
  lex: baqča
- stem: baqča.
+ stem: baqča.|baqčat.
  root: bqč
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bündel
- trans_en: 
+ trans_en: bundle
 -lexeme
  lex: baqdunas
- stem: baqdunas.
+ stem: baqdunas.//baqdunəs.|baqdunasat.//baqdunəsat.
  root: bqdns
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Petersilie
- trans_en: 
+ trans_en: parsley
 -lexeme
  lex: baqəlle
- stem: baqəlle.
+ stem: baqəlle.|baqəllat.
  root: bql
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schwanz von Ziegen und Schafen
- trans_en: 
+ trans_en: tail of goats and sheep
 -lexeme
  lex: baqlawa
- stem: baqlawa.
+ stem: baqlawa.|baqlawat.
  root: bqlw
  gramm: N,f
  paradigm: N1
  trans_de: Bohne, Vicis faba
- trans_en: 
+ trans_en: sweets <?>, Vicis faba
 -lexeme
  lex: baqolo
  stem: baqolo.|baqole.
@@ -4428,7 +4595,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krämer
- trans_en: 
+ trans_en: shop-keeper
 -lexeme
  lex: baqoro
  stem: baqoro.|baqore.
@@ -4436,7 +4603,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Rinderhirt
- trans_en: 
+ trans_en: cattle herdsman
 -lexeme
  lex: baqoruṯo
  stem: baqoruṯo.
@@ -4444,15 +4611,15 @@
  gramm: N,f
  paradigm: N1
  trans_de: Geschäft des Rinderhirten
- trans_en: 
+ trans_en: herdsman profession
 -lexeme
  lex: baqqaltiye
  stem: baqqaltiye.
  root: bql
  gramm: N,f
  paradigm: N1
- trans_de: Geschäft eines Krämers S
- trans_en: 
+ trans_de: Geschäft eines Krämers
+ trans_en: trader profession
 -lexeme
  lex: baqqe
  stem: baqqe.|baqqat.
@@ -4460,31 +4627,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Frosch
- trans_en: 
+ trans_en: frog
+-lexeme
+ lex: baqro
+ stem: baqro.
+ root: bqr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Rindvieh
+ trans_en: cattle
 -lexeme
  lex: bar
  stem: bar.
  root: br
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Festland
- trans_en: 
+ trans_en: dry land
 -lexeme
  lex: bar
  stem: bar.|barat.
  root: br
  gramm: N,m
  paradigm: N2
- trans_de: Bar, Schankhaus; nicht
- trans_en: 
+ trans_de: Bar, Schankhaus
+ trans_en: bar
+-lexeme
+ lex: barr
+ stem: barr.//bar.|barrat.
+ root: br
+ gramm: N,m
+ paradigm: N2
+ trans_de: Jahresertrag von Früchten, Getreide, Tieren; Breite eines Stoffes; Teppich
+ trans_en: yearly yield of fruits, crops, animals; width of material; rug
+-lexeme
+ lex: barra
+ stem: barra.
+ root: br
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: neben, bei, vor;
+ trans_en: near, by, before
+-lexeme
+ lex: barabat
+ stem: barabat.
+ root: brbt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verdorben, kaputt
+ trans_en: destroyed, rotten (?)
 -lexeme
  lex: barrah
  stem: barrah.|barrahe.
  root: brh
  gramm: N,m
  paradigm: N2
- trans_de: ahe Felsengrotte, Höhle mit weitem Eingang; Felsüberhang
- trans_en: 
+ trans_de: Felsengrotte, Höhle mit weitem Eingang; Felsüberhang
+ trans_en: grotto in a rock, an opening with a wide entrance; rock ledge
 -lexeme
  lex: baran
  stem: baran.|baranat.//barane.//baranin.
