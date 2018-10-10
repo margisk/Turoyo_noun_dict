@@ -742,7 +742,7 @@
  trans_en: overgrown
 -lexeme
  lex: ʕanbar/ʕambar
- stem: ʕanbar/ʕambar.|ʕanbare.//ʕambare.//ʕanebər.
+ stem: ʕanbar.//ʕambar.|ʕanbare.//ʕambare.//ʕanebər.
  root: ʕnbr/ʕmbr
  gramm: N,m
  paradigm: N2
@@ -1076,7 +1076,7 @@
  trans_en: perhaps, really (?)
 -lexeme
  lex: ʕaskar
- stem: ʕaskar.|ʕasekir.//ʕaskar.
+ stem: ʕaskar.|ʕasekər.//ʕaskar.
  root: ʕskr
  gramm: N,f
  paradigm: N2
@@ -1529,14 +1529,6 @@
  paradigm: N2
  trans_de: Fest
  trans_en: feast
--lexeme
- lex: ʕegeliye/ʕəgeliye
- stem: ʕegeliye.//ʕəgeliye|ʕegeliyat.//ʕəgeliyat.
- root: ʕql
- gramm: N,f
- paradigm: N2
- trans_de: Ring des Kopftuches
- trans_en: cord for headdress
 -lexeme
  lex: ʕeliṯo
  stem: ʕeliṯo.//ʕəliṯo.
