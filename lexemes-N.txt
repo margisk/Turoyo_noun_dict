@@ -514,8 +514,8 @@
  root: ʕlf
  gramm: N,m
  paradigm: N2
- trans_de: a) Futter b) Futterhändler
- trans_en: a) fodder; b) a man who trades fodder
+ trans_de: Futter; Futterhändler
+ trans_en: fodder; a man who trades fodder
 -lexeme
  lex: ʕaloke
  stem: ʕaloke.|ʕalokat.
