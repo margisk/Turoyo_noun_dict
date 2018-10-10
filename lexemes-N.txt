@@ -227,7 +227,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: a) Staub, Erdreich b) Grund und Boden, Gebiet
- trans_en: a) soil, earth; b) land
+ trans_en: soil, earth; land
 -lexeme
  lex: ʕafre
  stem: ʕafre.|ʕafrat.
