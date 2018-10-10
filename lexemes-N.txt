@@ -1699,7 +1699,7 @@
  trans_en: rack, clothes hook; clothes-peg
 -lexeme
  lex: ʕəlle
- stem: ʕəlle.//ʕəllat.
+ stem: ʕəlle.|ʕəllat.
  root: ʕll
  gramm: N,f
  paradigm: N2
@@ -1739,7 +1739,7 @@
  trans_en: sound of voice comming from far away
 -lexeme
  lex: ʕəndakko
- stem: ʕəndakko.//ʕəndakke.
+ stem: ʕəndakko.|ʕəndakke.
  root: ʕnd
  gramm: N,m
  paradigm: N2
