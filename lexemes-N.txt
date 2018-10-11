@@ -4683,63 +4683,79 @@
  gramm: N,m
  paradigm: N2
  trans_de: Widder, Hammel
- trans_en: 
+ trans_en: ram
 -lexeme
  lex: baranko
  stem: baranko.
  root: brnk
  gramm: N,m
  paradigm: N1
- trans_de: Hölzchen gemachter kleiner Hammel, mit einer Schnur oben, den man in den heißen Traubensirup taucht; Spielzeug der Kinder
- trans_en: 
+ trans_de: aus Hölzchen gemachter kleiner Hammel, mit einer Schnur oben, den man in den heißen Traubensirup taucht; Spielzeug der Kinder
+ trans_en: small ram made from logs, with a rope on top, which is dipped in hot grape syrup; toy for children
 -lexeme
  lex: barat
  stem: barat.
  root: brʔ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freisprechung
- trans_en: 
+ trans_en: justification, acquittal
 -lexeme
  lex: baratiye
  stem: baratiye.
  root: brʔ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freisprechung
- trans_en: 
+ trans_en: justification, acquittal
+-lexeme
+ lex: barbar
+ stem: barbar.
+ root: brbr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geschrei, Lärm von Leuten und Tieren; Meckern; Muhen
+ trans_en: scream, noise of people and animals; bleating; lowing
 -lexeme
  lex: barbar
  stem: barbar.|barbare.
  root: brbr
  gramm: N,m
  paradigm: N2
- trans_de: bärbare Barbier
- trans_en: 
+ trans_de: Barbier
+ trans_en: barber
 -lexeme
  lex: barbariye
- stem: barbariye.
+ stem: barbariye.|barbariyat.
  root: brbry
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Parteibildung
- trans_en: 
+ trans_en: opposition, enmity, unfriendliness
 -lexeme
  lex: barbaṭane
- stem: barbaṭane.
+ stem: barbaṭane.|barbaṭanat.
  root: brbṭn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bauchfalte, Fleisch auf dem Bauch
- trans_en: 
+ trans_en: belly wrinkles, belly flesh
 -lexeme
  lex: barbažne
- stem: barbažne.
+ stem: barbažne.|barbažnat.
  root: brbžn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Amulett, das am Riemen unter den Kleidern getragen wird
- trans_en: 
+ trans_en: amulet which is worn on a belt under the clothes
+-lexeme
+ lex: barbərrax
+ stem: barbərrax.//barbərraxki.
+ root: brbrx
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: neben, nach der Seite; halbseitig gelähmt; mit Einbuchtung, angegessen (Brot)
+ trans_en: near, to the side; limping on one side; with a bend, biten at (bread)
 -lexeme
  lex: barbuṭo
  stem: barbuṭo.|barbuṭe.
@@ -4747,15 +4763,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Beule
- trans_en: 
+ trans_en: bump; lump
 -lexeme
  lex: barčit
  stem: barčit.|barčitat.
  root: brčt
  gramm: N,m
  paradigm: N2
- trans_de: a) Rohr, Röhricht, Rohrstock b) das, was übrig bleibt, wenn man die Hirsenstaude köpft
- trans_en: 
+ trans_de: Rohr, Röhricht, Rohrstock; das, was übrig bleibt, wenn man die Hirsenstaude köpft
+ trans_en: reed, reed cane, reedbed; what remains after someone hews tops of millet plants <?>
+-lexeme
+ lex: bardeliye
+ stem: bardeliye.|bardeliyat.
+ root: brdl
+ gramm: N,f
+ paradigm: N2
+ trans_de: jüngere Tochter, die nicht heiraten darf, bis ihr älterer Bruder geheiratet hat
+ trans_en: younger daughter who may not marry, until her elder brother is married
+-lexeme
+ lex: bardəm
+ stem: bardəm.
+ root: brdm
+ gramm: INTERJ
+ pardigm: unchangeable
+ trans_de: ich lasse los! (Zauberwort)
+ trans_en: I let you go (spell)
 -lexeme
  lex: bardəš
  stem: bardəš.|baredəš.//bardəšat.
@@ -4763,7 +4795,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kochtopf
- trans_en: 
+ trans_en: cooking pot
 -lexeme
  lex: barḏo
  stem: barḏo.|barḏe.
@@ -4771,71 +4803,79 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hagel
- trans_en: 
+ trans_en: hail
 -lexeme
  lex: bargəl
  stem: bargəl.|baregəl.//bəregəl.
  root: brgl
  gramm: N,m
  paradigm: N2
- trans_de: nicht rassereines Pferd
- trans_en: 
+ trans_de: schlechtes, nicht rassereines Pferd
+ trans_en: bad, not well-bred horse
 -lexeme
  lex: bargile
- stem: bargile.|baregəl.//bargileat.
+ stem: bargile.|baregəl.//bargilat.
  root: brgl
  gramm: N,f
  paradigm: N2
- trans_de: nicht rassereine Stute
- trans_en: 
+ trans_de: schlechte, nicht rassereine Stute
+ trans_en: bad, not well-bred mare
 -lexeme
  lex: barġal
- stem: barġal.
+ stem: barġal.//bərġəl.
  root: brġl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bulghur, Weizengrütze
- trans_en: 
+ trans_en: bulgur
 -lexeme
- lex: barḥ(ə)me
- stem: barḥ(ə)me.
- root: brḥ()m
+ lex: barḥəme
+ stem: barḥəme.//barḥme.
+ root: brḥm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schwager
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: bari
  stem: bari.
  root: brʔ
- gramm: N,m
- paradigm: N1
- trans_de: losgesagt ME
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unschuldig, frei, losgesagt
+ trans_en: not guilty, free, exonerated <?>
 -lexeme
  lex: barəd
- stem: barəd.
+ stem: barəd.//barud.//barut.
  root: brd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Pulver
- trans_en: 
+ trans_en: powder
 -lexeme
  lex: barike
- stem: barike.
+ stem: barike.|barikat.
  root: brk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tasche
- trans_en: 
+ trans_en: bag
+-lexeme
+ lex: barko
+ stem: barko.|barkoṯe.//barkoṯo.
+ root: brk
+ gramm: N,m
+ paradigm: N2
+ trans_de: Knie
+ trans_en: knee
 -lexeme
  lex: barmale
- stem: barmale.
+ stem: barmale.|barmalat.
  root: brml
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: dunkler Abstellraum
- trans_en: 
+ trans_en: dark store-room
 -lexeme
  lex: barme
  stem: barme.|barmat.
@@ -4843,7 +4883,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Drehung, Krümmung, Umweg
- trans_en: 
+ trans_en: rotation, curve, round way
 -lexeme
  lex: barmil
  stem: barmil.|baremil.
@@ -4851,7 +4891,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Fass, Tonne, großes Zementrohr
- trans_en: 
+ trans_en: barrel, concrete pipe
 -lexeme
  lex: barneṭa
  stem: barneṭa.|barneṭat.
@@ -4859,23 +4899,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hut
- trans_en: 
+ trans_en: hut, cabin
 -lexeme
  lex: barniṭ
- stem: barniṭ.
+ stem: barniṭ.//barniṭi.
  root: brnṭ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schnupftabak
- trans_en: 
+ trans_en: snuff tobacco
 -lexeme
  lex: barnošo
- stem: barnošo.
+ stem: barnošo.|barnoše.
  root: brnš
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mensch
- trans_en: 
+ trans_en: human
 -lexeme
  lex: baroše
  stem: baroše.|barošat.
@@ -4883,7 +4923,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kochtopf
- trans_en: 
+ trans_en: cooking pot
 -lexeme
  lex: baroške
  stem: baroške.
@@ -4898,40 +4938,56 @@
  root: bry
  gramm: N,m
  paradigm: N2
- trans_de: äußerer PrS
- trans_en: 
+ trans_de: äußerer
+ trans_en: outward
 -lexeme
- lex: barqa
- stem: barqa.
+ lex: barqabal
+ stem: barqabal.
+ root: brqbl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Opfer, hingegeben
+ trans_en: sacrifice
+-lexeme
+ lex: barqo/barqa
+ stem: barqa.//barqo.|barqat.//barqe.
  root: brq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Blitzstrahl
- trans_en: 
+ trans_en: lightning
 -lexeme
  lex: barqiye
- stem: barqiye.
+ stem: barqiye.|barqiyat.
  root: brq
  gramm: N,f
- paradigm: N1
- trans_de: Telegramm
- trans_en: 
--lexeme
- lex: barqo
- stem: barqo.|barqe.
- root: brq
- gramm: N,m
  paradigm: N2
- trans_de: Blitz
- trans_en: 
+ trans_de: Telegramm
+ trans_en: telegram
+-lexeme
+ lex: barri
+ stem: barri.
+ root: bry
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wild, scheu, nicht zahm
+ trans_en: wild, timid, untame
 -lexeme
  lex: barriye
- stem: barriye.
+ stem: barriye.|barriyat.
  root: brr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Steppe, Wüste
- trans_en: 
+ trans_en: steppe, desert
+-lexeme
+ lex: barsəb
+ stem: barsəb.//barsəv.
+ root: brsv
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Antwort auf Provokation, Ungezogenheit
+ trans_en: answer to a provocation, rudeness
 -lexeme
  lex: barṣawlo
  stem: barṣawlo.|barṣawle.
@@ -4939,7 +4995,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Brust
- trans_en: 
+ trans_en: chest
 -lexeme
  lex: baršaqaf
  stem: baršaqaf.
@@ -4947,15 +5003,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Höhlung unter einem Felsen
- trans_en: 
+ trans_en: opening under a rock
 -lexeme
  lex: barṭil
  stem: barṭil.|bəreṭəl.//breṭəl.//bareṭəl.
  root: brṭl
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: Bestechungsgeschenk
+ trans_en: bribe
 -lexeme
  lex: barṯo
  stem: barṯo.|abnoṯe.//abnoṯo.//bnoṯe.//bnoṯo.
@@ -4963,23 +5019,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Tochter
- trans_en: 
--lexeme
- lex: barud
- stem: barud.
- root: brd
- gramm: N,m
- paradigm: N1
- trans_de: Pulver
- trans_en: 
--lexeme
- lex: barut
- stem: barut.
- root: brt
- gramm: N,m
- paradigm: N1
- trans_de: Pulver
- trans_en: 
+ trans_en: daughter
 -lexeme
  lex: barx
  stem: barx.
