@@ -2136,8 +2136,16 @@
  trans_de: Fuß
  trans_en: foot
 -lexeme
+ lex: ʕuǧbo/ʕəǧbo
+ stem: ʕuǧbo.//ʕəǧbo.|ʕuǧbe.//ʕəǧbe.
+ root: ʕǧb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Wunder
+ trans_en: wonder
+-lexeme
  lex: ʕuǧube
- stem: ʕuǧube.|ʕaǧayib.//ʕuǧubat.//ʕuǧubatat.
+ stem: ʕuǧube.|ʕaǧayəb.//ʕuǧubat.//ʕuǧubatat.
  root: ʕǧb
  gramm: N,f
  paradigm: N2
@@ -5490,62 +5498,71 @@
  gramm: N
  paradigm: unchangeable
  trans_de: ähnliche Pflanze wie tayyil, aber mit breiteren Blättern
+ trans_en: plant similar to tayyil, but with wide leaves
 -lexeme
  lex: baylos
  stem: baylos.
  root: byls
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Konsul
- trans_en: 
+ trans_en: consul
 -lexeme
  lex: bayraq
- stem: bayraq.|bŭweriq.//bweriq.//bayraqe.
+ stem: bayraq.|buwerəq.//bwerəq.//bayraqe.
  root: byrq
  gramm: N,m
  paradigm: N2
- trans_de: bairaqe Fahne, Flagge, Standarte
- trans_en: 
+ trans_de: Fahne, Flagge, Standarte
+ trans_en: flag, banner, standard
 -lexeme
  lex: baytək
  stem: baytək.
  root: bytk
  gramm: N,m
- paradigm: N1
- trans_de: einer, schöner, bunter Vogel
- trans_en: 
+ paradigm: <?>
+ trans_de: kleiner, schöner, bunter Vogel
+ trans_en: small beautiful variegated bird
 -lexeme
  lex: baytəko
  stem: baytəko.
  root: byt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleines Haus
- trans_en: 
+ trans_en: small house
 -lexeme
  lex: bayto
  stem: bayto.|bote.
  root: byt
  gramm: N,m
  paradigm: N2
- trans_de: bote a) Haus, Familie b) Vers
- trans_en: 
+ trans_de: Haus, Familie; Vers
+ trans_en: house, family; verse
 -lexeme
  lex: baytono
  stem: baytono.|baytone.
  root: byt
  gramm: N,m
  paradigm: N2
- trans_de: a) kleine Familie b) pl Name eines Kinderspiels
- trans_en: 
+ trans_de: kleine Familie; pl. Name eines Kinderspiels
+ trans_en: small family; pl. name of children's game
 -lexeme
  lex: baytoyo
  stem: baytoyo.|baytoye.
  root: byt
  gramm: N,m
  paradigm: N2
- trans_de: Familienangehöriger, oder als solcher gerechnet pl
- trans_en: 
+ trans_de: Familienangehöriger, oder als solcher gerechnet
+ trans_en: family members or those reckoned in
+-lexeme
+ lex: baytunke
+ stem: baytunke.
+ root: byt
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Häuschen
+ trans_en: small house
 -lexeme
  lex: baz
  stem: baz.|bazin.
@@ -5553,15 +5570,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Falke
- trans_en: 
+ trans_en: falcon
 -lexeme
  lex: bazar
  stem: bazar.
  root: bzr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Handeln, Feilschen
- trans_en: 
+ trans_en: trade
+-lexeme
+ lex: bazarkat
+ stem: bazarke.|bazarkat.
+ root: bzr
+ gramm: N,f
+ paradigm: N2
+ trans_de: kleines Handelsgeschäft
+ trans_en: small shop
+-lexeme
+ lex: bazbande
+ stem: bazbande.|bazbandat.
+ root: bzbn
+ gramm: N,f
+ paradigm: N2
+ trans_de: Armbinde, Amulett
+ trans_en: armlet, amulet
+-lexeme
+ lex: baze
+ stem: baze.
+ root: bz
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: aschblond
+ trans_en: ash-blond
 -lexeme
  lex: bazine
  stem: bazine.
