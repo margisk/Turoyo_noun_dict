@@ -5610,39 +5610,47 @@
  gramm: N,f
  paradigm: N1
  trans_de: Ziege mit kleiner Blesse auf der Stirn
- trans_en: 
+ trans_en: goat with a small fleck on its forehead
+-lexeme
+ lex: bazənat
+ stem: bazənat.
+ root: bzn
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Armreifen
+ trans_en: bracelets
 -lexeme
  lex: bazərgan
  stem: bazərgan.|bazərgane.//bazərganat.
  root: bzrgn
  gramm: N,m
  paradigm: N2
- trans_de: a) Karawanenkaufmann b) Karawane, Karawanengut
- trans_en: 
+ trans_de: Karawanenkaufmann; Karawane, Karawanengut
+ trans_en: caravan trader; caravan, caravan goods
 -lexeme
  lex: baž
  stem: baž.
  root: bž
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Festland; Garten ohne Wasser
- trans_en: 
+ trans_en: dry land; garden without water
 -lexeme
  lex: bažar
- stem: bažar.
- root: bžr
- gramm: N,m
- paradigm: N1
- trans_de: Stadt
- trans_en: 
--lexeme
- lex: bažari
- stem: bažari.|bažariiye.
+ stem: bažar.|bažarat.
  root: bžr
  gramm: N,m
  paradigm: N2
- trans_de: iye Städter
- trans_en: 
+ trans_de: Stadt
+ trans_en: city
+-lexeme
+ lex: bažari
+ stem: bažari.|bažariye.
+ root: bžr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Städter
+ trans_en: city dweller
 -lexeme
  lex: bažgire
  stem: bažgire.|bažgirat.
@@ -5650,63 +5658,95 @@
  gramm: N,f
  paradigm: N2
  trans_de: Handtuch
- trans_en: 
+ trans_en: towel
 -lexeme
  lex: bažək
- stem: bažək.
+ stem: bažək.|bažəkat.
  root: bžk
  gramm: N,m
- paradigm: N1
- trans_de: kleiner minderwertiger Esel
- trans_en: 
+ paradigm: N2
+ trans_de: schwarzer, kleiner minderwertiger Esel; Huhn
+ trans_en: black small donkey of little value; chicken
 -lexeme
  lex: bažne
- stem: bažne.
+ stem: bažne.|bažnat.
  root: bžn
  gramm: N,f
- paradigm: N1
- trans_de: stattlicher Wuchs, gut aussehend
- trans_en: 
+ paradigm: N2
+ trans_de: guter, stattlicher Wuchs, gut aussehend
+ trans_en: height
 -lexeme
- lex: bḍaʕa
- stem: bḍaʕa.
- root: bḍʕ
+ lex: bḏ̣aʕa
+ stem: bḏ̣aʕa.
+ root: bḏ̣ʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ware
- trans_en: 
+ trans_en: goods
 -lexeme
- lex: be
- stem: be.|bein.
+ lex: be/bə
+ stem: be.//bə.|be.//bə.
  root: b
  gramm: N,f
  paradigm: N2
- trans_de: Torheit“
- trans_en: 
+ trans_de: Haus, Familie;
+ trans_en: house, family
+-lexeme
+ lex: be
+ stem: be.
+ root: b
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: leitet Fragesatz ein
+ trans_en: begins interrogative subordinate clause
 -lexeme
  lex: beʕ
  stem: beʕ.
  root: byʕ
  gramm: N,m
- paradigm: N1
- trans_de: a) Verkauf b) Angeld
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Verkauf; Angeld
+ trans_en: sale; deposit
 -lexeme
  lex: bedane
- stem: bedane.
+ stem: bedane.|bedanat.
  root: bdn
  gramm: N,f
- paradigm: N1
- trans_de: glatte Felsenplatte, auf der Trauben im Sack mit den Füssen gekeltert werden. Der Rand ist etwas erhöht, die Platte etwas schräg, damit der Most in die
- trans_en: 
+ paradigm: N2
+ trans_de: glatte Felsenplatte, auf der Trauben im Sack mit den Füssen gekeltert werden. Der Rand ist etwas erhöht, die Platte etwas schräg, damit der Most in die maḥsarto fließt
+ trans_en: smooth rock plate on which grapes in a bag are pressed with feet. Its edge is a bit elevated, and the plate is a bit skewed so that the juice flows into the maḥsarto
 -lexeme
  lex: beǧama
- stem: beǧama.
+ stem: beǧama.|beǧamat.
  root: bǧm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Pyjama, Schlafanzug
- trans_en: 
+ trans_en: pyjamas, night gown
+-lexeme
+ lex: behtmayi
+ stem: behtmayi.//bəhtmayi.//bahtmayi.
+ root: bhtmy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: erstaunt, verblüfft
+ trans_en: astounded, perplexed
+-lexeme
+ lex: behvan
+ stem: behvan.
+ root: bhv
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: so und so, und so weiter, und dergleichen
+ trans_en: such and such, and so on, and alike
+-lexeme
+ lex: belati
+ stem: belati.
+ root: blt
+ gramm: N
+ paradigm: unchangeable
+ trans_de: nicht süße Traubenart
+ trans_en: sort of grapes which is not sweet
 -lexeme
  lex: beluk
  stem: beluk.|belukat.
@@ -5714,23 +5754,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kompanie
- trans_en: 
+ trans_en: company
 -lexeme
  lex: beriye
  stem: beriye.
  root: bry
  gramm: N,f
  paradigm: N1
- trans_de: a) Sehnsucht
+ trans_de: Sehnsucht; kleines Viehgehege im Freien
  trans_en: 
+-lexeme
+ lex: berəzto
+ stem: berəzto.
+ root: brz
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Poleigamander, Teucrium plicum L.
+ trans_en: <?>, Teucrium plicum L.
 -lexeme
  lex: beš
  stem: beš.
  root: bš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Abgabe, Steuer
- trans_en: 
+ trans_en: tax, duty
 -lexeme
  lex: beṭo
  stem: beṭo.|beṭe.
@@ -5738,7 +5786,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Funken
- trans_en: 
+ trans_en: sparkle
 -lexeme
  lex: beṯ
  stem: beṯ.
