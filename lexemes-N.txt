@@ -957,7 +957,7 @@
  trans_en: tambourine
 -lexeme
  lex: ʕarbo
- stem: ʕarbo.|ʕarbe.
+ stem: ʕarbo.//ʕərbo.//ʕerbo.|ʕarbe.//ʕərbe.//ʕerbe.
  root: ʕrb
  gramm: N,m
  paradigm: N2
@@ -1456,7 +1456,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Auge; Knospenansatz; Quelle, Brunnen, Wasserhahn
- trans_en: eye; spring, well
+ trans_en: eye; shoot; spring, well
 -lexeme
  lex: ʕaza
  stem: ʕaza.
@@ -2618,7 +2618,7 @@
  stem: afaṭiye.
  root: fṭy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Auseinandertreiben, zu Grunde richten, vernichten
  trans_en: dispersal, ruining
 -lexeme
@@ -2639,7 +2639,7 @@
  trans_en: Afghanistan
 -lexeme
  lex: afġanistani
- stem: afġanistani.
+ stem: afġanistani.|afġanistaniye.
  root: fġnstn
  gramm: N,m
  paradigm: N1
@@ -4542,7 +4542,7 @@
  trans_en: builder
 -lexeme
  lex: banyono
- stem: banyono.|banyone.
+ stem: banyono.//bənyono.|banyone.//bənyone.
  root: bnyn
  gramm: N,m
  paradigm: N2
@@ -5788,61 +5788,69 @@
  trans_de: Funken
  trans_en: sparkle
 -lexeme
- lex: beṯ
- stem: beṯ.
- root: bṯ
- gramm: N,m
- paradigm: N1
- trans_de: Schatzhaus“, Titel eines kirchlichen Gesangbuches
- trans_en: 
--lexeme
  lex: bezo
- stem: bezo.|bizone.
+ stem: bezo.|bəzone.//bezone.
  root: bz
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ)/bezone (D) bezo m, pl
- trans_en: 
+ trans_de: Zitze, Brustwarze
+ trans_en: teat, nipple
 -lexeme
  lex: bəʕbʕoke
- stem: bəʕbʕoke.
+ stem: bəʕbʕoke.|bəʕbokat.
  root: bʕbʕk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Art Gallapfel am Eichbaum
- trans_en: 
+ trans_en: sort of oak apple
 -lexeme
  lex: bəʕuṭo
  stem: bəʕuṭo.|bəʕuṭe.
  root: bʕṭ
  gramm: N,m
  paradigm: N2
- trans_de: Kaulqappe
- trans_en: 
+ trans_de: Kaulquappe
+ trans_en: tadpole
+-lexeme
+ lex: bəčəmsəz
+ stem: bəčəmsəz.
+ root: bčmsz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: häßlich gestaltet
+ trans_en: ugly appearance
 -lexeme
  lex: bəčučke
- stem: bəčučke.
+ stem: bəčučke.|bəčučkat.
  root: bčč
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleines Junge
- trans_en: 
+ trans_en: small boy
 -lexeme
  lex: bəġḏa
  stem: bəġḏa.
  root: brḍ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hass
- trans_en: 
+ trans_en: hatred
 -lexeme
  lex: bəhn
  stem: bəhn.
  root: bhn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Atemluft
- trans_en: 
+ trans_en: breathing air
+-lexeme
+ lex: bəhnbərrayi
+ stem: bəhnbərrayi.
+ root: bhnbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: außer Atem
+ trans_en: out of breath
 -lexeme
  lex: bəḥto
  stem: bəḥto.|beʕe.
@@ -5850,39 +5858,95 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ei
- trans_en: 
+ trans_en: egg
+-lexeme
+ lex: bəkkər
+ stem: bəkkər.
+ root: bkr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Erstgeburt
+ trans_en: primogeniture
 -lexeme
  lex: bəlbəl
- stem: bəlbəl.
+ stem: bəlbəl.|bəlbəlin.
  root: blbl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Nachtigall
- trans_en: 
+ trans_en: nightingale
 -lexeme
- lex: bələbəlhazar
+ lex: bəlbəlhazar
  stem: bələbəlhazar.
  root: blblhzr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Nachtigall
- trans_en: 
+ trans_en: nightingale
+-lexeme
+ lex: bəlbəzeki
+ stem: bəlbəzeki
+ root: blbzk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Traubenart, lang und dickschalig
+ trans_en: sort of grapes, long and with thick peel
+-lexeme
+ lex: bəl-ḥaǧe
+ stem: bəl-ḥaǧe.
+ root: blḥǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bedürftig
+ trans_en: one who is in need
+-lexeme
+ lex: bəlḥuḏe
+ stem: bəlḥuḏe.
+ root: blḥḏ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: allein
+ trans_en: alone
+-lexeme
+ lex: bələnd-ǧəh
+ stem: bələnd-ǧəh.
+ root: blndǧh
+ gramm: N
+ paradigm: unchangeable
+ trans_de: hoher Ort
+ trans_en: high place
 -lexeme
  lex: bələndire
- stem: bələndire.
+ stem: bələndire.|bələndirat.
  root: blndr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: dreijähriges Ziegenlamm
- trans_en: 
+ trans_en: three-year old goat kid
 -lexeme
  lex: bəllur
  stem: bəllur.
  root: blr
  gramm: N,m
- paradigm: N1
- trans_de: a) Hirtenflöte b) Ofenrohr
- trans_en: 
+ paradigm: <?>
+ trans_de: Hirtenflöte; Ofenrohr
+ trans_en: pipe; stovepipe
+-lexeme
+ lex: bəlqalile.
+ stem: bəlqalile.
+ root: blqll
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wenigstens
+ trans_en: at least
+-lexeme
+ lex: bəlxaṣṣa
+ stem: bəlxaṣṣa.
+ root: blxṣṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: besonders
+ trans_en: especially
 -lexeme
  lex: bəlya
  stem: bəlya.|bəlyat.
@@ -5897,16 +5961,40 @@
  root: bmbšt
  gramm: N,m
  paradigm: N2
- trans_de: iye Major
- trans_en: 
+ trans_de: Major
+ trans_en: major
 -lexeme
  lex: bəmbaye
- stem: bəmbaye.
+ stem: bəmbaye.|bəmbayat.
  root: bmb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bombe
- trans_en: 
+ trans_en: bomb
+-lexeme
+ lex: bənbərrəhayi
+ stem: bənbərrəhayi.
+ root: bnbrh
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: eilig, aufgeregt
+ trans_en: in a hurry, agitated
+-lexeme
+ lex: bəndan
+ stem: bəndan.
+ root: bndn
+ gramm: N
+ paradigm: <?>
+ trans_de: Bodensatz des Fasses; Hausfraut
+ trans_en: <?>
+-lexeme
+ lex: bəndar
+ stem: bəndar.
+ root: bndr
+ gramm: N
+ paradigm: <?>
+ trans_de: Hausfrau
+ trans_en: housewife
 -lexeme
  lex: bəndəqo
  stem: bəndəqo.|bəndəqe.
@@ -5914,23 +6002,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Haselnuss
- trans_en: 
+ trans_en: hazelnut
 -lexeme
  lex: bəng
  stem: bəng.
  root: bng
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Jugendkraft; Reifezeit (auch für Tiere und Pflanzen)
- trans_en: 
--lexeme
- lex: bənyono
- stem: bənyono.
- root: bny
- gramm: N,m
- paradigm: N1
- trans_de: Erbauung
- trans_en: 
+ trans_en: youthful vigour; ripening time (also for animals and plants)
 -lexeme
  lex: bəpso
  stem: bəpso.
@@ -26621,7 +26701,7 @@
  trans_en: 
 -lexeme
  lex: qəlčke
- stem: qəlčke.
+ stem: qəlčke.//ʕəlčke.
  root: qlč
  gramm: N,f
  paradigm: N1
