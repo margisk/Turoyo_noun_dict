@@ -2145,7 +2145,7 @@
  trans_en: wonder
 -lexeme
  lex: ʕuǧube
- stem: ʕuǧube.|ʕaǧayəb.//ʕuǧubat.//ʕuǧubatat.
+ stem: ʕuǧube.//ʕəǧube.//ʕǧube.|ʕaǧayəb.//ʕuǧubat.//ʕuǧubatat.
  root: ʕǧb
  gramm: N,f
  paradigm: N2
@@ -3966,7 +3966,7 @@
  trans_en: spirit-lamp
 -lexeme
  lex: bablisoke
- stem: bablisoke.
+ stem: bablisoke.|bablisokat.
  root: blsk
  gramm: N,f
  paradigm: N2
@@ -4829,8 +4829,8 @@
  trans_de: schlechte, nicht rassereine Stute
  trans_en: bad, not well-bred mare
 -lexeme
- lex: barġal
- stem: barġal.//bərġəl.
+ lex: bərġəl/barġal
+ stem: barġal.//bərġəl.//barġəl.
  root: brġl
  gramm: N,m
  paradigm: unchangeable
@@ -6016,41 +6016,49 @@
  stem: bəpso.
  root: bps
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: das zusammengebogene und unten zusammengebundene Holz, das mit Stricken in der Mitte des Jochs festgemacht ist.
- trans_en: 
+ trans_en: pieces (?) of wood, bent and tied together, tied to the middle of a yoke with a rope
+-lexeme
+ lex: bərawo
+ stem: bərawo.
+ root: bry
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Bruder! (Beginn der kurdischen Totenklage)
+ trans_en: oh brother! (start of the Kurdish lamentation)
+-lexeme
+ lex: bərbəro
+ stem: bərbəro.
+ root: brbr
+ gramm: N
+ paradigm: <?>
+ trans_de: Klebkraut, Kleblaubkraut, Galium aparina L.
+ trans_en: catchweed, Galium aparina L.
 -lexeme
  lex: bərǧək
  stem: bərǧək.
  root: brǧk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Türmchen
- trans_en: 
+ trans_en: turret
 -lexeme
  lex: bərġal
  stem: bərġal.
  root: brġl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bulgarien
- trans_en: 
+ trans_en: Bulgaria
 -lexeme
  lex: bərġali
- stem: bərġali.
+ stem: bərġali.|bərġaliye.
  root: brġl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bulgare, bulgarisch
- trans_en: 
--lexeme
- lex: bərġəl
- stem: bərġəl.
- root: brġl
- gramm: N,m
- paradigm: N1
- trans_de: Weizengrütze, Bulgur
- trans_en: 
+ trans_en: a Bulgarian, bulgarian
 -lexeme
  lex: bərhan
  stem: bərhan.|bərhane.
@@ -6058,47 +6066,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Aas, Leiche (die den Vögeln zum Fraß dient)
- trans_en: 
+ trans_en: carrion, corpse (which serves as food for birds)
 -lexeme
- lex: bərine
- stem: bərine.|bərinat.
+ lex: bərhe
+ stem: bərhe.|bərhat.
+ root: brh
+ gramm: N,f
+ paradigm: N2
+ trans_de: Augenbrauen
+ trans_en: eyebrow
+-lexeme
+ lex: bərine/brine
+ stem: bərine.//brine.|bərinat.//brinat.
  root: brn
  gramm: N,f
  paradigm: N2
  trans_de: Wunde
- trans_en: 
+ trans_en: wound
 -lexeme
  lex: bərke
- stem: bərke.|birək.
+ stem: bərke.|birək.//bərkat.
  root: brk
  gramm: N,f
  paradigm: N2
- trans_de: biräk a) Bassin, Teich, Wasserbecken b) leicht knieartig gekrümmtes Holz, durch dessen dickeres Ende ein Loch des sayfo (Handhabe des Pfluges) geht. Zwischen der Krümmung und diesem Loch ist ein Pflock, der mit einem
- trans_en: 
+ trans_de: Bassin, Teich, Wasserbecken; leicht knieartig gekrümmtes Holz, durch dessen dickeres Ende ein Loch des sayfo (Handhabe des Pfluges) geht. Zwischen der Krümmung und diesem Loch ist ein Pflock, der mit einem pərk (Brücke) genannten Holz mit dem sayfo verbunden ist. Das dünnere Ende is an die Deichsel (mašono) angenietet
+ trans_en: pool, pond, water-reservoire; light <?> curved piece of wood, through its thick end goes a hold of sayfo (a handle of a plough). Between the place where it bends (?) and this hole there is a peg which is tied up to sayfo with a piece of wood called pərk (bridge). The thinner end is clinched to a shaft (mašono)
+-lexeme
+ lex: bərlə
+ stem: bərlə.
+ root: brl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: As im Kartenspiel
+ trans_en: ace in playing cards
+-lexeme
+ lex: bərlešək
+ stem: bərlešək.
+ root: brlšk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: gemeinsame Sache
+ trans_en: common thing (?)
 -lexeme
  lex: bərnaməž
  stem: bərnaməž.
  root: brnmž
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Programm
- trans_en: 
+ trans_en: programme
 -lexeme
  lex: bərrak
  stem: bərrak.
  root: brk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Säge, Fuchsschwanz
- trans_en: 
+ trans_en: saw; fox's tail
 -lexeme
  lex: bərre
- stem: bərre.
+ stem: bərre.|bərrat.
  root: brr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schar, Trupp
- trans_en: 
+ trans_en: crowd, troop
 -lexeme
  lex: bərzayno
  stem: bərzayno.
@@ -6114,7 +6146,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: rotfarbene Blume
- trans_en: 
+ trans_en: red flowers 
 -lexeme
  lex: bərzono
  stem: bərzono.
@@ -6122,23 +6154,23 @@
  gramm: N,m
  paradigm: N1
  trans_de: Rasen, Wiese
- trans_en: 
+ trans_en: grass canopy, meadow
 -lexeme
  lex: bəskwit
- stem: bəskwit.
+ stem: bəskwit.|bəskwitat.
  root: bskwt
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Biscuit
- trans_en: 
+ trans_en: biscuit
 -lexeme
  lex: bəst
  stem: bəst.
  root: bst
  gramm: N,m
- paradigm: N1
- trans_de: Eisenstange, ½ m -
- trans_en: 
+ paradigm: <?>
+ trans_de: Eisenstange, 1/2-1 m lang
+ trans_en: iron bar, 1/2-1 meters long
 -lexeme
  lex: bəstono
  stem: bəstono.|bəstone.
@@ -6146,15 +6178,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Obstgarten, Nutzgarten
- trans_en: 
+ trans_en: fruit garden, kitchen garden
 -lexeme
  lex: bəsyoġo
- stem: bəsyoġo.|bəsyoġoyoġone.
+ stem: bəsyoġo.|bəsyoġone.
  root: bsyġ
  gramm: N,m
  paradigm: N2
- trans_de: Gasse; pl
- trans_en: 
+ trans_de: Gasse;
+ trans_en: street
 -lexeme
  lex: bəške
  stem: bəške.|bəškat.
@@ -6162,15 +6194,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Haarbüschel
- trans_en: 
+ trans_en: clump of hair
 -lexeme
  lex: bəšra
- stem: bəšra.
+ stem: bəšra.|bəšrat.
  root: bšr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: frohe Kunde, frohe Botschaft
- trans_en: 
+ trans_en: good news, Gospel (?)
 -lexeme
  lex: bəššolo
  stem: bəššolo.
@@ -6181,68 +6213,108 @@
  trans_en: 
 -lexeme
  lex: bəšto
- stem: bəšto.
+ stem: bəšto.|bəštoṯo.//bəštoṯe.
  root: bšt
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: langes Frauengewand, rechts und links bis zur Hüfte geschlitzt, heute nur noch vom Pfarrer getragen
- trans_en: 
--lexeme
- lex: bəṣuṣo
- stem: bəṣuṣo.
- root: bṣṣ
- gramm: N,m
- paradigm: N1
- trans_de: kleines Licht, Stückchen glühender Kohle
- trans_en: 
+ trans_en: long women's clothes slitted until heaps both on the right and on the left side, today worn only by priests
 -lexeme
  lex: bəṭriye
- stem: bəṭriye.
+ stem: bəṭriye.|bəṭriyat.
  root: bṭr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: luxuriöses Leben
- trans_en: 
+ trans_en: luxurious life; indulgence; arrogance, impertinence
 -lexeme
  lex: bəṭṭər
  stem: bəṭṭər.
  root: bṭr
  gramm: N,m
- paradigm: N1
- trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf“
+ paradigm: <?>
+ trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf
  trans_en: 
+-lexeme
+ lex: bəzdəm
+ stem: bəzdəm.
+ root: bzdm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Zauberwort, das bewirkt, dass der andere sich nicht mehr bewegen kann
+ trans_en: spell which produces an effect that someone else cannot move anymore
+-lexeme
+ lex: bəzdihayi
+ stem: bəzdihayi.
+ root: bzdhy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: scheu, verängstigt
+ trans_en: shy, intimidated
 -lexeme
  lex: bəzmək
  stem: bəzmək.
  root: bzmk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sack, den man Menschen oder Tieren überstülpt; Maulkorb; Plage, einen nicht in Ruhe lassend
- trans_en: 
+ trans_en: a sack with which one covers people or animals; muzzle; torment, trouble which does not leave someone alone
+-lexeme
+ lex: bəzrək
+ stem: bəzrək.
+ root: bzr
+ gramm: N
+ paradigm: <?>
+ trans_de: Samen von Kräutern
+ trans_en: grass-seed
 -lexeme
  lex: bibar
  stem: bibar.
  root: bbr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Pfeffer
- trans_en: 
+ trans_en: pepper
 -lexeme
  lex: bibi
- stem: bibi.|bibiiye.
+ stem: bibi.|bibiye.
  root: bb
  gramm: N,m
  paradigm: N2
- trans_de: iye Pupille
- trans_en: 
+ trans_de: Pupille
+ trans_en: pupil (of the eye)
 -lexeme
  lex: bidon
  stem: bidon.
  root: bdn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mülleimer
- trans_en: 
+ trans_en: garbage can
+-lexeme
+ lex: biǧuz
+ stem: biǧuz.
+ root: bǧz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: es ist möglich, vielleicht
+ trans_en: it is possible, perhaps
+-lexeme
+ lex: bikun
+ stem: bikun.
+ root: bkn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: wird sein;
+ trans_en: <?>
+-lexeme
+ lex: bila
+ stem: bila.
+ root: bl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sogar
+ trans_en: even
 -lexeme
  lex: binaye
  stem: binaye.
@@ -6357,7 +6429,7 @@
  trans_en: 
 -lexeme
  lex: boṣuṣo
- stem: boṣuṣo.
+ stem: boṣuṣo.//bəṣuṣo.
  root: bṣṣ
  gramm: N,m
  paradigm: N1
@@ -33011,6 +33083,13 @@
  paradigm: N1
  trans_de: Zweifel
  trans_en: 
+-lexeme
+ lex: šəkəl
+ stem: šəkəl.|šəklat.//aškal.
+ gramm: N,m
+ paradigm: N2
+ trans_de:
+ trans_en: type, manner, shape
 -lexeme
  lex: šəkriye
  stem: šəkriye.
