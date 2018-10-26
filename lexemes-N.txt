@@ -1028,7 +1028,7 @@
  trans_en: tooth
 -lexeme
  lex: ʕartəmono
- stem: ʕartəmono.|ʕartəmone.
+ stem: ʕartəmono.//ʕərtomo.//ʕərtmono.//ʕarṭəmono.|ʕartəmone.
  root: ʕrtm
  gramm: N,m
  paradigm: N2
@@ -1635,7 +1635,7 @@
  trans_en: kit
 -lexeme
  lex: ʕəǧubate
- stem: ʕəǧubate.|ʕəǧubatat.
+ stem: ʕəǧubate.//ʕuǧubate.|ʕəǧubatat.//ʕuǧubatat.
  root: ʕǧb
  gramm: N,f
  paradigm: N2
@@ -2168,8 +2168,8 @@
  trans_de: a) Kästchen b) Streichholz
  trans_en: 
 -lexeme
- lex: ʕulbo
- stem: ʕulbo.|ʕelab.
+ lex: ʕulbo/ʕəlbo
+ stem: ʕulbo.//ʕəlbo.|ʕelab.//ʕəlbe.//ʕəlbat.
  root: ʕlb
  gramm: N,f
  paradigm: N2
@@ -4254,7 +4254,7 @@
  trans_en: torment, accident, misfortune
 -lexeme
  lex: balad
- stem: balad.|balade.//baladat.
+ stem: balad.|balade.//baladat.//blad.
  root: bld
  gramm: N,m
  paradigm: N2
@@ -6316,59 +6316,90 @@
  trans_de: sogar
  trans_en: even
 -lexeme
- lex: binaye
- stem: binaye.
+ lex: bəllaxaṣ
+ stem: bəllaxaṣ.
+ root: xṣṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: besonders
+ trans_en: especially
+-lexeme
+ lex: binaye/bənaye
+ stem: binaye.//bənaye.|bənayat.//binayat.
  root: bny
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gebäude, Mietshaus
- trans_en: 
+ trans_en: building, tenement building
 -lexeme
  lex: bir
  stem: bir.
  root: br
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gedenken, denken an, Gedächtnis, Verstehen, Merken
- trans_en: 
+ trans_en: thinking, remembering, memory, understanding, noticing
+-lexeme
+ lex: birawar
+ stem: birawar.
+ root: brwr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verständig (von heranwachsenden Knaben über 5 Jahren)
+ trans_en: clever, bright (about growing-up children over 5 years old)
+-lexeme
+ lex: brindar
+ stem: birindar.//brindar.
+ root: brn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verwundet
+ trans_en: injured
 -lexeme
  lex: biro
- stem: biro.
+ stem: biro.|bire.
  root: br
  gramm: N,f
- paradigm: N1
- trans_de: a) Brunnen mit Grundwasser b) Kleiderschrank
- trans_en: 
+ paradigm: N2
+ trans_de: Brunnen mit Grundwasser; Kleiderschrank
+ trans_en: well with ground water; wardrobe
+-lexeme
+ lex: biruzke
+ stem: biruzke.|biruzkat.
+ root: brz
+ gramm: N,f
+ paradigm: N2
+ trans_de: schwarzer Punkt, der auf der Haut entsteht
 -lexeme
  lex: bišo
  stem: bišo.|biše.
  root: byš
  gramm: N,m
  paradigm: N2
- trans_de: Taugenichts
- trans_en: 
+ trans_de: böse, schlecht, Taugenichts
+ trans_en: bad, angry; idler
+-lexeme
+ lex: bizansi
+ stem: bizansi.|bizansiye.
+ root: bzns
+ gramm: N,m
+ paradigm: N2
+ trans_de: Byzantiner
+ trans_en: Byzantine, a byzantine
 -lexeme
  lex: biži
- stem: biži.|id..//bižiat.//-žiyayat.
+ stem: biži.|bižat.//bižiyayat.
  root: bž
  gramm: N,m
  paradigm: N2
- trans_de: a) Mähne b) aus der Erde sprossender unbrauchbarer Trieb des Weinstocks c) Bastard, Schimpfwort, das die Kinder gebrauchen; pl
- trans_en: 
--lexeme
- lex: blad
- stem: blad.|land,.
- root: bld
- gramm: N,m
- paradigm: N2
- trans_de: Land, Gegend
- trans_en: 
+ trans_de: Mähne; aus der Erde sprossender unbrauchbarer Trieb des Weinstocks; Bastard, Schimpfwort, das die Kinder gebrauchen
+ trans_en: mane; unusable sprout of grapevine growing from earth; bastard, a swear word which children use
 -lexeme
  lex: bnoyo
- stem: bnoyo.
+ stem: bnoyo.|bnoye.
  root: bny
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Zahl
  trans_en: 
 -lexeme
@@ -6378,7 +6409,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Puder
- trans_en: 
+ trans_en: powder
 -lexeme
  lex: bodbod
  stem: bodbod.|bodbodin.
@@ -6386,55 +6417,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Wiedehopf (Upupa epopa)
- trans_en: 
+ trans_en: hoopoe (Upupa epopa)
+-lexeme
+ lex: Boġaz
+ stem: Boġaz.
+ root: bġz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Bosporus
+ trans_en: Bosporus
 -lexeme
  lex: bolo
- stem: bolo.
+ stem: bolo.|bole.
  root: bl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sinn, Aufmerksamkeit, Achthaben, Aufpassen, Bemerken
- trans_en: 
+ trans_en: mind, attentiveness, attention, perception
+-lexeme
+ lex: boqəlnafire
+ stem: boqəlnafire.
+ root: bqlnfr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Horn der Engel bei der Auferstehung
+ trans_en: angel's horn by resurrection
 -lexeme
  lex: boqo
  stem: boqo.
  root: bq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mücke
- trans_en: 
+ trans_en: mosquitoe, midge
 -lexeme
  lex: boquno
  stem: boquno.
  root: bqn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: innerster Kern der Zwiebel
- trans_en: 
+ trans_en: innermost part of an onion
 -lexeme
  lex: boquqo
  stem: boquqo.
  root: bqq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Augapfel
- trans_en: 
+ trans_en: eye-ball
 -lexeme
- lex: bŏsoriye
- stem: bŏsoriye.
- root: bŏsry
+ lex: bosoriye
+ stem: bosoriye.
+ root: bsry
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Prostatahypertrofie
- trans_en: 
+ trans_en: prostatic hypertrophy
 -lexeme
  lex: boṣuṣo
- stem: boṣuṣo.//bəṣuṣo.
+ stem: boṣuṣo.//bəṣuṣo.//baṣuṣo.|bəṣuṣe.//boṣuṣe.//baṣuṣe.
  root: bṣṣ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Lichtschein, Funke
- trans_en: 
+ trans_en: spark, glow
 -lexeme
  lex: bra
  stem: bra.
@@ -6448,25 +6495,33 @@
  stem: bratiye.
  root: brt
  gramm: N,f
- paradigm: N1
- trans_de: Bruderschaft; huwwe dast
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Bruderschaft
+ trans_en: brotherhood
+-lexeme
+ lex: brawo
+ stem: brawo.
+ root: brw
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Bravo!
+ trans_en: bravo!
 -lexeme
  lex: braxwatiye
  stem: braxwatiye.
  root: brxwty
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verschwägerung
- trans_en: 
+ trans_en: relationship by marriage
 -lexeme
  lex: brazi
- stem: brazi.|brazone.//braziin.
+ stem: brazi.|brazone.//brazin.
  root: brz
  gramm: N,m
  paradigm: N2
- trans_de: brazone Brudersohn, Neffe
- trans_en: 
+ trans_de: Brudersohn, Neffe
+ trans_en: brother's son, nephew
 -lexeme
  lex: brazək
  stem: brazək.
@@ -6629,7 +6684,7 @@
  trans_en: 
 -lexeme
  lex: buzarʕo
- stem: buzarʕo.|buzarʕe.
+ stem: buzarʕo.//bizarʕo.|buzarʕe.//bizarʕe.
  root: zrʕ
  gramm: N,m
  paradigm: N2
