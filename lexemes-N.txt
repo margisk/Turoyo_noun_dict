@@ -6755,21 +6755,29 @@
  trans_de: Ziege, die auch im
  trans_en: 
 -lexeme
+ lex: čaʕčoʕin
+ stem: čaʕčoʕin.
+ root: tšʕ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: 9 Uhr nach Sonnenaufgang, (Spätnachmittag)
+ trans_en: 9 hours after sunrise, late afternoon
+-lexeme
  lex: čaʕvke
- stem: čaʕvke.
+ stem: čaʕvke.|čaʕvkat.
  root: čʕv
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Rondellhammer
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: čadər
- stem: čadər.|čŭwedir.//čadəre.
+ stem: čadər.|čuwedər.//čadəre.
  root: čdr
  gramm: N,m
  paradigm: N2
  trans_de: Zelt
- trans_en: 
+ trans_en: tent
 -lexeme
  lex: čadəre
  stem: čadəre.|čadərat.
@@ -6777,23 +6785,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zelt
- trans_en: 
+ trans_en: tent
 -lexeme
  lex: čaffiye
- stem: čaffiye.
+ stem: čaffiye.|čaffiyat.
  root: čff
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kopftuch der Beduinen
- trans_en: 
+ trans_en: headress of bedouins
 -lexeme
  lex: čaġ/čax
- stem: čaġ/čax.
+ stem: čaġ.//čax.|čaġat.//čaxat.
  root: čġ/čx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: bestimmte Zeit, die Zeit für…
- trans_en: 
+ trans_en: specified (?) time, time for...
 -lexeme
  lex: čak
  stem: čak.|čakat.
@@ -6801,79 +6809,103 @@
  gramm: N,m
  paradigm: N2
  trans_de: Waffe
- trans_en: 
+ trans_en: weapon
 -lexeme
  lex: čaket
- stem: čaket.|čaketat.
+ stem: čaket.//ǧaket.|čaketat.//ǧaketat.
  root: čkt
  gramm: N,m
  paradigm: N2
  trans_de: Jacke
- trans_en: 
+ trans_en: jacket
 -lexeme
  lex: čaketa
- stem: čaketa.
+ stem: čaketa.|čaketat.
  root: čkt
  gramm: N,f
  paradigm: N1
  trans_de: Wollweste
- trans_en: 
+ trans_en: wool vest
+-lexeme
+ lex: čakilmiš
+ stem: čakilmiš.
+ root: čklmš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sich zurückziehend
+ trans_en: avoiding (?)
 -lexeme
  lex: čakuč
- stem: čakuč.|čakučat.//čwekič.
+ stem: čakuč.//čakuča.//čakuče.|čakučat.//čwekəč.
  root: čkč
  gramm: N,f
  paradigm: N2
  trans_de: Hammer
- trans_en: 
--lexeme
- lex: čakuča
- stem: čakuča.
- root: čkč
- gramm: N,f
- paradigm: N1
- trans_de: Hammer
- trans_en: 
--lexeme
- lex: čakuče
- stem: čakuče.|čakučat.
- root: čkč
- gramm: N,f
- paradigm: N2
- trans_de: Hammer
- trans_en: 
+ trans_en: hammer
 -lexeme
  lex: čakuwe
- stem: čakuwe.|čakuweat.//čakwat.
+ stem: čakuwe.|čakuwat.//čakwat.
  root: čkw
  gramm: N,f
  paradigm: N2
  trans_de: Hammer
- trans_en: 
+ trans_en: hammer
 -lexeme
  lex: čaye
  stem: čaye.
  root: čy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tee
- trans_en: 
+ trans_en: tea
+-lexeme
+ lex: čal
+ stem: čal.
+ root: čl
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch der zuschnappenden Falle
+ trans_en: sound of a trap snapping shut
 -lexeme
  lex: čal/čalo
- stem: čal/čalo.
- root: čl/čl
+ stem: čal./čalo.
+ root: čl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ziege mit weißer Stirn
- trans_en: 
+ trans_en: goat with white forehead
+-lexeme
+ lex: čalabi
+ stem: čalabi.
+ root: člb
+ gramm: ADJ
+ pardigm: unchangeable
+ trans_de: schön
+ trans_en: beautiful
 -lexeme
  lex: čaləšqan
- stem: čaləšqan.|čaləšqananin.
+ stem: čaləšqan.|čaləšqanin.
  root: člšqn
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: fleißig
+ trans_en: dilligent
+-lexeme
+ lex: čalp
+ stem: čalp.
+ root: člp
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Platsch! Geräusch eines fallenden Gegenstandes; Geräusch der zuschnappenden Falle
+ trans_en: Plop! Sound of a falling thing; sound of a trap snapping shut 
+-lexeme
+ lex: čalpačalp
+ stem: čalpačalp.
+ root: člp
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch, wenn man auf das Wasser schlägt, oder etw. darauf fällt; Geräusch, wenn jd. jdm ins Gesicht schlägt
+ trans_en: sound which appears when someone hits the water or something falls in it; sound when someone hit someone in the face
 -lexeme
  lex: čalkoyo
  stem: čalkoyo.|čalkoye.
@@ -6881,13 +6913,13 @@
  gramm: N,m
  paradigm: N2
  trans_de: Jezide
- trans_en: 
+ trans_en: Yazid
 -lexeme
  lex: čalṭa
- stem: čalṭa.
+ stem: čalṭa.|čalṭat.
  root: člṭ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Mappe, Handtasche
  trans_en: 
 -lexeme
@@ -6903,9 +6935,9 @@
  stem: čam.
  root: čm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fichte
- trans_en: 
+ trans_en: fir (?)
 -lexeme
  lex: čam
  stem: čam.
@@ -6913,15 +6945,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Bach
- trans_en: 
+ trans_en: stream
 -lexeme
  lex: čamčəke
- stem: čamčəke.
+ stem: čamčəke.//čančəke.|čamčəkat.//čančəkat.
  root: čmč
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleiner Schaumlöffel mit Stiel, flach mit erhöhten Rändern, aus Holz
- trans_en: 
+ trans_en: small skimmer with a handle, flat, with elevated edges, from wood
 -lexeme
  lex: čamək
  stem: čamək.
@@ -6937,15 +6969,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stock
- trans_en: 
+ trans_en: stick
 -lexeme
- lex: čam(mə)ke
- stem: čam(mə)ke.
- root: čm(m)k
+ lex: čamməke/čamke
+ stem: čamke.//čamməke.|čamkat.
+ root: čmk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stock, Schlagholz beim Spiel
- trans_en: 
+ trans_en: stick, club for a game
 -lexeme
  lex: čanaq
  stem: čanaq.|čanaqe.//čwenəq.
@@ -6953,15 +6985,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kelle mit langem senkrechtem Stiel, um Wasser zu schöpfen
- trans_en: 
--lexeme
- lex: čanč(ə)ke
- stem: čanč(ə)ke.
- root: čnč()k
- gramm: N,f
- paradigm: N1
- trans_de: kleiner Schaumlöffel
- trans_en: 
+ trans_en: scoop with a long vertical handle to, to draw water
 -lexeme
  lex: čange
  stem: čange.|čangat.
@@ -6969,23 +6993,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Flügel
- trans_en: 
+ trans_en: wing
 -lexeme
- lex: čanṭa
- stem: čanṭa.|čanṭat.
+ lex: čanṭa/čanṭaye
+ stem: čanṭa.//čanṭaye.|čanṭat.
  root: čnṭ
  gramm: N,f
  paradigm: N2
  trans_de: Mappe; Handtasche
- trans_en: 
+ trans_en: bag
 -lexeme
- lex: čanṭaye
- stem: čanṭaye.
- root: čnṭ
- gramm: N,f
- paradigm: N1
- trans_de: Handtasche
- trans_en: 
+ lex: čapal
+ stem: čapal.
+ root: čpl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schmutzig
+ trans_en: dirty
+-lexeme
+ lex: čapan
+ stem: čapan.
+ root: čpn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Japan
+ trans_en: Japan
+-lexeme
+ lex: čapani
+ stem: čapani.|čapaniye.
+ root: čpn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: Japaner
+ trans_en: Japanese
 -lexeme
  lex: čapan
  stem: čapan.
