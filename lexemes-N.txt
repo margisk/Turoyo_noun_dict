@@ -5828,8 +5828,8 @@
  trans_de: kleines Junge
  trans_en: small boy
 -lexeme
- lex: bəġḏa
- stem: bəġḏa.
+ lex: bəġḏa/buġḏa
+ stem: bəġḏa.//buġḏa.
  root: brḍ
  gramm: N,f
  paradigm: unchangeable
@@ -5964,8 +5964,8 @@
  trans_de: Major
  trans_en: major
 -lexeme
- lex: bəmbaye
- stem: bəmbaye.|bəmbayat.
+ lex: bəmbaye/bombaye/bumbaye
+ stem: bəmbaye.//bumbaye.//bombaye.|bəmbayat.//bumbayat.//bombayat.
  root: bmb
  gramm: N,f
  paradigm: N2
@@ -6609,7 +6609,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Funke, die beim Zusammenschlagen von Steinen entstehen; plötzlich verschwindenes Licht; Wetterleuchten; plötzlich aufflammendes mit Regen; plötzlicher Schmerz
- trans_en: 
+ trans_en: spark which appears from hitting two stones together; suddenly disappearing light; heat lightning; light of a canon suddenly flaring up; thunder with rain; sudden pain
 -lexeme
  lex: b-sarhatke
  stem: b-sarhatke.
@@ -6623,16 +6623,16 @@
  stem: bṣito.
  root: bṣt
  gramm: N,m
- paradigm: N1
- trans_de: eingerichtet (Haus)
- trans_en: 
+ paradigm: <?>
+ trans_de: gut eingerichtet (Haus)
+ trans_en: well-furnished (house)
 -lexeme
  lex: bšolo
- stem: bšolo.|bšoloone.
+ stem: bšolo.|bšolone.
  root: bšl
  gramm: N,m
  paradigm: N2
- trans_de: one warmes Essen, Speise
+ trans_de: warmes Essen, Speise
  trans_en: 
 -lexeme
  lex: bṯulto
@@ -6641,39 +6641,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Jungfrau
- trans_en: 
--lexeme
- lex: buġḏa
- stem: buġḏa.
- root: bġḏ
- gramm: N,f
- paradigm: N1
- trans_de: Hass
- trans_en: 
+ trans_en: virgin
 -lexeme
  lex: buġro
  stem: buġro.|buġre.
  root: bgr
  gramm: N,m
  paradigm: N2
- trans_de: a) Steinchen, Kieselstein b) Gewehr-, Kanonenkugel
- trans_en: 
+ trans_de: Steinchen; Kieselstein; Steine zum Mankalaspiel; Gewehr-, Kanonenkugel
+ trans_en: stone; pebble; stones for the mancala game; shell, missile
 -lexeme
- lex: bŭġurko
- stem: bŭġurko.|bŭġurkoat.
+ lex: buġurko
+ stem: bŭġurko.|buġurkat.
  root: bgr
  gramm: N,m
  paradigm: N2
  trans_de: kleines Steinchen
- trans_en: 
--lexeme
- lex: bumbaye
- stem: bumbaye.|bumbayat.
- root: bmb
- gramm: N,f
- paradigm: N2
- trans_de: Bombe
- trans_en: 
+ trans_en: small stone
 -lexeme
  lex: bumo
  stem: bumo.|bume.
@@ -6681,31 +6665,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Eule
- trans_en: 
+ trans_en: owl
+-lexeme
+ lex: buməḥreno
+ stem: buməḥreno.
+ root: ywmḥrn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: vorgestern
+ trans_en: the day before yesterday
 -lexeme
  lex: bune
  stem: bune.
  root: bn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sein, Werden
- trans_en: 
+ trans_en: existence, being; becoming
+-lexeme
+ lex: buqbuq
+ stem: buqbuq.
+ root: bqbq
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Geräusch, das entsteht, wenn man einen Krug ins Wasser hält und vollaufen läßt: gluck gluck
+ trans_en: a sound which appears when someone puts a jug in water and lets it fill itself: glug-glug
 -lexeme
  lex: buqto
- stem: buqto.|boquṯe.
+ stem: buqto.|boquṯe.//boquṯo.
  root: bwq
  gramm: N,f
  paradigm: N2
  trans_de: Strauß von Blumen, von Getreide. Die Garbe wird nicht gegürtet, sondern die Getreidesträuße werden schräg übereinandergelegt
- trans_en: 
+ trans_en: bunch of flowers or herbs; it is not tied together (?), but those bunches are put askew on each other
 -lexeme
  lex: buro
- stem: buro.|buroone.
+ stem: buro.|burone.//bure.
  root: bwr
  gramm: N,m
  paradigm: N2
- trans_de: Brachfeld (Garten)
- trans_en: 
+ trans_de: unbestellt, unbeackert, ungepflegt, Brachfeld (Garten)
+ trans_en: uncultivated, not tilled, not taken care of; fallow land
 -lexeme
  lex: bŭrukṯo
  stem: bŭrukṯo.|bŭrukyoṯo.
