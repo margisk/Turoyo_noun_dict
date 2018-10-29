@@ -6707,45 +6707,45 @@
  trans_de: unbestellt, unbeackert, ungepflegt, Brachfeld (Garten)
  trans_en: uncultivated, not tilled, not taken care of; fallow land
 -lexeme
- lex: bŭrukṯo
- stem: bŭrukṯo.|bŭrukyoṯo.
- root: brk
- gramm: N,f
- paradigm: N2
- trans_de: Stück der vom Priester zerbrochenen Hostie
- trans_en: 
--lexeme
  lex: buxro
  stem: buxro.
  root: brk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hostie mit einem besonderen Stempel. In jedes Haus werden zwei Stück gegeben; außerdem wird einmal im Jahr bei Mariae Verkündigung damit das Meßopfer gefeiert
- trans_en: 
+ trans_en: host with a special stamp. Two hosties are given to each house; besides, once in a year it is used for the mess celebrating Annunciation
+-lexeme
+ lex: buxa/bxa/buxwa/bəxwa
+ stem: buxa.//bxa.//buxwa.//bəxwa.
+ root: bxw
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: selber, persönlich
+ trans_en: personally, self
 -lexeme
  lex: buzarʕo
- stem: buzarʕo.//bizarʕo.|buzarʕe.//bizarʕe.
+ stem: buzarʕo.//bizarʕo.//bzarʕo|buzarʕe.//bizarʕe.//bzarʕe.
  root: zrʕ
  gramm: N,m
  paradigm: N2
  trans_de: Korn, Samenkorn
- trans_en: 
+ trans_en: seed, grain
 -lexeme
  lex: bxeriye
- stem: bxeriye.
+ stem: bxeriye.|bxeriyat.
  root: bxr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zwischenboden, zwischen Decke und Dach; Dachboden
- trans_en: 
+ trans_en: space between two stories (?), between roof and ceiling; attic; entrance
 -lexeme
  lex: byaḏa
  stem: byaḏa.
  root: byḏ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verzinnung, Handwerk des Verzinners
- trans_en: 
+ trans_en: tinning, work of a tinsmith
 -lexeme
  lex: bzad
  stem: bzad.
