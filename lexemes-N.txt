@@ -6529,46 +6529,86 @@
  gramm: N,f
  paradigm: N1
  trans_de: Bruders Tochter, Nichte
- trans_en: 
+ trans_en: brother's daughter, niece
+-lexeme
+ lex: Brazil/Brazilya
+ stem: Brazil/Brazilya.
+ root: brzl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Brasilien
+ trans_en: Brasil
 -lexeme
  lex: brimo
- stem: brimo.
+ stem: brimo.|brime.
  root: brm
  gramm: N,m
- paradigm: N1
- trans_de: a) zusammengedreht, rund b) Zwischenträger, Verräter von Geheimnissen
- trans_en: 
+ paradigm: N2
+ trans_de: zusammengedreht, rund; Zwischenträger, Verräter von Geheimnissen
+ trans_en: folded, rolled up, round; intermediary, betrayer of secrets
 -lexeme
  lex: briq
  stem: briq.
  root: brq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wasserkanne
- trans_en: 
+ trans_en: cup for water
+-lexeme
+ lex: briṯo
+ stem: briṯo.
+ root: bry
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Welt; Wetter;
+ trans_en: world; weather
 -lexeme
  lex: brixo
  stem: brixo.|brixe.
  root: brk
  gramm: N,m
  paradigm: N2
- trans_de: gesegnetes Fest!“
- trans_en: 
+ trans_de: gesegnet
+ trans_en: blessed
+-lexeme
+ lex: browa
+ stem: browa.
+ root: brw
+ gramm: N
+ paradigm: <?>
+ trans_de: Streich, List
+ trans_en: trick, cunning
 -lexeme
  lex: brozo
- stem: brozo.
+ stem: brozo.|broze.
  root: brz
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schwein
- trans_en: 
+ trans_en: hog
 -lexeme
- lex: brukṯo
- stem: brukṯo.|burkoṯe.
+ lex: brrr
+ stem: brrr.
+ root: br
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: herausfordernder Ausruf
+ trans_en:
+-lexeme
+ lex: brukṯo/brəkṯo
+ stem: brukṯo.//brəkṯo.//burukṯo.|burkoṯe.//brəkwoṯo.//burukyoṯo.//burukyoṯe.
  root: brk
  gramm: N,f
  paradigm: N2
- trans_de: a) Segen b) Stück der Hostie
+ trans_de: Segen; Stück der Hostie
+ trans_en: blessing; a piece of host
+-lexeme
+ lex: bruzke
+ stem: bruzke.|bruzkat.
+ root: brz
+ gramm: N,f
+ paradigm: N2
+ trans_de: Funke, die beim Zusammenschlagen von Steinen entstehen; plötzlich verschwindenes Licht; Wetterleuchten; plötzlich aufflammendes mit Regen; plötzlicher Schmerz
  trans_en: 
 -lexeme
  lex: b-sarhatke
