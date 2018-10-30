@@ -413,8 +413,8 @@
  trans_de: kleine Hacke
  trans_en: small axe
 -lexeme
- lex: ʕakar
- stem: ʕakar.
+ lex: ʕakar/ʕkara
+ stem: ʕakar.//ʕkara.
  root: ʕkr
  gramm: N,m
  paradigm: N1
@@ -2000,14 +2000,6 @@
  paradigm: unchangeable
  trans_de: genau passendes Maß
  trans_en: appropriate size (?)
--lexeme
- lex: ʕkara
- stem: ʕkara.
- root: ʕkr
- gramm: N,f
- paradigm: N1
- trans_de: Bodensatz; Dreckskerl
- trans_en: residue; bastard
 -lexeme
  lex: ʕloyo
  stem: ʕloyo.|ʕloye.
