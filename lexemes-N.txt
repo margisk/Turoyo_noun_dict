@@ -7033,47 +7033,71 @@
  gramm: N,m
  paradigm: N1
  trans_de: amerikanisches Leinen
- trans_en: 
+ trans_en: American canvas (?)
 -lexeme
  lex: čapke
- stem: čapke.
+ stem: čapke.|čapkat.
  root: čpk
  gramm: N,f
  paradigm: N1
  trans_de: Klatschen mit der Hand
- trans_en: 
+ trans_en: handclap, handslap
 -lexeme
- lex: čap(ə)ke
- stem: čap(ə)ke.|čap(ə)kat.
- root: čp()k
+ lex: čapəke/čapke
+ stem: čapəke.//čapke.|čapkat.//čapəkat.
+ root: čpk
  gramm: N,f
  paradigm: N2
- trans_de: Hohlmaß; Hälfte einer
- trans_en: 
+ trans_de: Hohlmaß; Hälfte einer ʕulbe
+ trans_en: measure of volume; a half of ʕulbe
 -lexeme
- lex: čap(p)e
- stem: čap(p)e.
- root: čp(p)
+ lex: čappe/čape
+ stem: čappe.//čape.
+ root: čp
  gramm: N,f
  paradigm: N1
  trans_de: Linke
- trans_en: 
+ trans_en: left hand; left
 -lexeme
- lex: čap(p)iye
- stem: čap(p)iye.
- root: čp(p)y
- gramm: N,f
- paradigm: N1
+ lex: čappi
+ stem: čappi.|čappin
+ root: čp
+ gramm: N,m
+ paradigm: N2
+ trans_de: Linker
+ trans_en:
+-lexeme
+ lex: čappiye
+ stem: čappiye.
+ root: čp
+ gramm: ADJ
+ paradigm: unchangeable
  trans_de: Linke, linker Fuß
- trans_en: 
+ trans_en: left
 -lexeme
  lex: čaq
- stem: čaq.|čaqat.
+ stem: čaq.//čaqe.|čaqat.
  root: čq
  gramm: N,f
  paradigm: N2
  trans_de: Unterschenkel
- trans_en: 
+ trans_en: shank
+-lexeme
+ lex: čaqačaq
+ stem: čaqačaq.
+ root: čq
+ gramm: N
+ paradigm: <?>
+ trans_de: zischendes Geräusch von kochendem Fett, besonders wenn ein Ei hineingeworfen wird
+ trans_en: sizzling noise of fried fat, especially when an egg is thrown into it
+-lexeme
+ lex: čaqačor
+ stem: čaqačor.
+ root: čqčr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Gedränge, Durcheinander
+ trans_en: mess, crowd
 -lexeme
  lex: čaqane
  stem: čaqane.|čaqanat.
@@ -7081,55 +7105,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schale
- trans_en: 
+ trans_en: bowl
 -lexeme
  lex: čaqčaqonke
  stem: čaqčaqonke.
  root: čqčqnk
  gramm: N,f
- paradigm: N1
- trans_de: a) Pippau (Pflanze) Crepis spec. oder Wirzelferkelkraut, Hypochoeris radicata b) aus dem etwa c) (fig.) zappelig, überlebhaft
- trans_en: 
+ paradigm: <?>
+ trans_de: Pippau (Pflanze) Crepis spec. oder Wirzelferkelkraut, Hypochoeris radicata; aus dem etwa 3 1/2 cm dicken Stengel der Hirsestaude wird ein längeres Stück geschnitten und dann so gespalten, dass ein Handbreit ungespalten bleibt. Das gibt eine Art Pritsche oder Klapper für die Kinder; (fig.) zappelig, überlebfhaft
+ trans_en: hawksbeard, Crepis spec. or cat's-ear, Hypochoeris radicata; a long piece is cut out of approximately 3.5 cm long <Hirsestaude> stem and then <split> in such a way that a hand's width remains. This is a type of <rattle> for kids; fig. <?>
 -lexeme
- lex: čaqe
- stem: čaqe.|čaqat.
- root: čq
- gramm: N,f
+ lex: čaqəlmaste
+ stem: čaqəlmaste.
+ root: čqlmst
+ gramm: N
+ paradigm: unchangeable
+ trans_de: etwas steifer Ayran
+ trans_en: somewhat thick ayran
+-lexeme
+ lex: čaqmaq/čəqmaq/čuqmaq
+ stem: čaqmaq.//čəqmaq.//čuqmaq.|čəqeməq.
+ root: čqmq
+ gramm: N,m
  paradigm: N2
- trans_de: Unterschenkel, Bein
- trans_en: 
+ trans_de: Feuerzeug
+ trans_en: lighter
+-lexeme
+ lex: čaqqəl
+ stem: čaqqəl.
+ root: čql
+ gramm: N
+ paradigm: <?>
+ trans_de: Kies
+ trans_en: gravel
 -lexeme
  lex: čara
- stem: čara.
+ stem: čara.|čarat.
  root: čr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Mittel, Auskunfts-, Hilfsmittel, Mittel jdn. zu beseitigen; Abhilfe
- trans_en: 
+ trans_en: means, means for a way out; means to dispose of someone; removing of obstacles
 -lexeme
  lex: čarčaf
- stem: čarčaf.|čirečif.
+ stem: čarčaf.//čaršaf.|čərečif.//čarčafe.
  root: črčf
  gramm: N,m
  paradigm: N2
- trans_de: a) Umhang der Frauen, wenn sie auf die Straße gehen b) Betttuch c) Vorhang, Zwischenvorhang
- trans_en: 
+ trans_de: Umhang der Frauen, wenn sie auf die Straße gehen; Betttuch; Vorhang, Zwischenvorhang
+ trans_en: women's cloak for the cases when they go outside; sheets; bedsheet; curtain
 -lexeme
  lex: čarčiwa
  stem: čarčiwa.
  root: črčw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Rahmen
- trans_en: 
+ trans_en: <frame>
 -lexeme
  lex: čarčək
  stem: čarčək.
  root: črčk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Viereck
- trans_en: 
+ trans_en: rectangle
 -lexeme
  lex: čarčiye
  stem: čarčiye.|čarčiyat.
@@ -7137,71 +7177,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Markt
- trans_en: 
+ trans_en: market
 -lexeme
  lex: čarik
  stem: čarik.
  root: črk
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Viertel(stunde)
- trans_en: 
+ trans_en: quarter (of an hour)
 -lexeme
- lex: čar(ə)ke
- stem: čar(ə)ke.
- root: čr()k
+ lex: čarəke/čarke
+ stem: čarəke.//čarke.|čarəkat.//čarkat.
+ root: črk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: weißes Kopftuch der Frauen
- trans_en: 
+ trans_en: white women's headdress
 -lexeme
- lex: čarəx
- stem: čarəx.|čwerəx.//čarəxat.
+ lex: čarox
+ stem: čarox.//čarəx.|čaroxat.//čwerəx.//čarəxat.
  root: črx
  gramm: N,m
  paradigm: N2
  trans_de: Schnürsohle, Sandale
- trans_en: 
+ trans_en: sandal
 -lexeme
- lex: čarox
- stem: čarox.|čaroxat.
+ lex: čaroxo
+ stem: čaroxo.|čaroxe.
  root: črx
  gramm: N,m
  paradigm: N2
- trans_de: Schnürsohle, Sandale; nicht
- trans_en: 
--lexeme
- lex: čaroxo
- stem: čaroxo.
- root: črx
- gramm: N,m
- paradigm: N1
  trans_de: Schleifer
- trans_en: 
+ trans_en: <grinder>
 -lexeme
  lex: čarpallək
  stem: čarpallək.
  root: črplk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: vierblättriger Klee
- trans_en: 
+ trans_en: four-leaved clover
 -lexeme
  lex: čarrax
  stem: čarrax.
  root: črx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: geschickter Meister in seinem Fach; gut gelernt, auswendig könnend
- trans_en: 
+ trans_en: skilled master in a certain area; well-taught, knowing something from memory
 -lexeme
  lex: čarx
- stem: čarx.
+ stem: čarx.|čarxat.
  root: črx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Rad an einem Brunnen, einer Maschine; Spinnrad
- trans_en: 
+ trans_en: water wheel, wheel of a car; spinning wheel
 -lexeme
  lex: čarxi
  stem: čarxi.|čarxiiye.
