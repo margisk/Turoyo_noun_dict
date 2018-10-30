@@ -6851,8 +6851,8 @@
  trans_de: Hammer
  trans_en: hammer
 -lexeme
- lex: čaye
- stem: čaye.
+ lex: čaye/čay
+ stem: čaye.//čay.
  root: čy
  gramm: N,f
  paradigm: <?>
@@ -7236,36 +7236,44 @@
  trans_en: water wheel, wheel of a car; spinning wheel
 -lexeme
  lex: čarxi
- stem: čarxi.|čarxiiye.
+ stem: čarxi.|čarxiye.
  root: črx
  gramm: N,m
  paradigm: N2
- trans_de: iye Fünfpiasterstück
- trans_en: 
+ trans_de: Fünfpiasterstück
+ trans_en: five pennies
 -lexeme
  lex: čarxo
  stem: čarxo.
  root: črx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück
- trans_en: 
+ trans_en: piece
 -lexeme
  lex: čata
- stem: čata.|čataawat.
+ stem: čata.|čatawat.//čatawin.
  root: čt
  gramm: N,m
  paradigm: N2
  trans_de: Bande
- trans_en: 
+ trans_en: band (of marauders?)
+-lexeme
+ lex: čatən
+ stem: čatən.
+ root: čtn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schlimm
+ trans_en: bad
 -lexeme
  lex: čaṭal
- stem: čaṭal.|čaṭale.
+ stem: čaṭṭal.|čaṭṭale.
  root: čṭl
  gramm: N,m
  paradigm: N2
  trans_de: Gabel
- trans_en: 
+ trans_en: fork
 -lexeme
  lex: čawre
  stem: čawre.|čawrat.
@@ -7273,39 +7281,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Taschentuch für Frauen
- trans_en: 
+ trans_en: handkerchief for women
 -lexeme
- lex: čawal
- stem: čawal.
+ lex: čawal/čawale
+ stem: čawal.//čawale.|čawalat.
  root: čwl
  gramm: N,m
- paradigm: N1
- trans_de: Sack; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Sack
+ trans_en: sack
 -lexeme
  lex: čawiš
- stem: čawiš.|čwewiš.//čawišat.
+ stem: čawiš.|čwewiš.//čawišat.//čawišin.
  root: čwš
  gramm: N,m
  paradigm: N2
  trans_de: Unteroffizier
- trans_en: 
--lexeme
- lex: čax/čaġ
- stem: čax/čaġ.
- root: čx/čġ
- gramm: N,m
- paradigm: N1
- trans_de: bestimmte Zeit
- trans_en: 
--lexeme
- lex: čay
- stem: čay.
- root: čy
- gramm: N,m
- paradigm: N1
- trans_de: Tee
- trans_en: 
+ trans_en: non-commissioned officer
 -lexeme
  lex: čaydan
  stem: čaydan.|čaydanat.
@@ -7313,31 +7305,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Teekanne
- trans_en: 
+ trans_en: teapot
 -lexeme
  lex: čayke
- stem: čayke.
+ stem: čayke.|čaykat.
  root: čyk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: dünner Schenkel
- trans_en: 
+ trans_en: thin thigh
+-lexeme
+ lex: čazčaz
+ stem: čazčaz.
+ root: čzčz
+ gramm: N
+ paradigm: <?>
+ trans_de: Geschrei des Neugeborenen
+ trans_en: cry of a newly-born
+-lexeme
+ lex: čelat
+ stem: čelat.
+ root: čl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: 40 Tage lang nach dem Gebären darf die Frau nicht ausgehen und besonders nicht mit Frauen gleiches Zustandes sprechen. Sie können aber, ohne sich zu sprechen kleine Geschenke austauschen
+ trans_en: forty days after giving birth a woman may not go out and especially may not talk to other women who are in the same situation. But they can exchange small presents with each other, without talking to each other
 -lexeme
  lex: čeli
  stem: čeli.
  root: čl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: junges Vöglein
- trans_en: 
+ trans_en: small bird
 -lexeme
  lex: čeliko
- stem: čeliko.|čelikoin.//čelikoat.//čelikoawat.
+ stem: čeliko.|čelikin.//čelikat.//čelikawat.
  root: člk
  gramm: N,m
  paradigm: N2
- trans_de: kleines Kind; pl –at (junge Vögel)
- trans_en: 
+ trans_de: kleines Kind; junge Vögel
+ trans_en: small child; small birds
+-lexeme
+ lex: čelkaw
+ stem: čelkaw.
+ root: člkw
+ gramm: N
+ paradigm: <?>
+ trans_de: Küken eines Steinhuhnes
+ trans_en: chicken of a partridge
+-lexeme
+ lex: čeni
+ stem: čeni.|čuweni.
+ root: čny
+ gramm: ADJ
+ paradigm: N2
+ trans_de: blau
+ trans_en: blue
 -lexeme
  lex: čəčəlaṣko
  stem: čəčəlaṣko.|čəčəlaṣkoat.
