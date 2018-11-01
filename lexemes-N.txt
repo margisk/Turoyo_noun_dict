@@ -7355,21 +7355,37 @@
  trans_de: blau
  trans_en: blue
 -lexeme
+ lex: čeniko
+ stem: čeniko.|čenike
+ root: čny
+ gramm: ADJ
+ paradigm: N2
+ trans_de: bläulich, gelblich
+ trans_en: bluish, yellowish
+-lexeme
+ lex: čeyye
+ stem: čeyye.
+ root: čy
+ gramm: N
+ paradigm: <?>
+ trans_de: Wohltat
+ trans_en: good deed
+-lexeme
  lex: čəčəlaṣko
- stem: čəčəlaṣko.|čəčəlaṣkoat.
+ stem: čəčəlaṣko.|čəčəlaṣkat.
  root: člṣk
  gramm: N,m
  paradigm: N2
- trans_de: eines, schwächliches Kind (auch von Tieren)
- trans_en: 
+ trans_de: sehr kleines, schwächliches Kind (auch von Tieren)
+ trans_en: very small and weak child (also of animals)
 -lexeme
  lex: čəft
  stem: čəft.
  root: čft
  gramm: N,m
- paradigm: N1
- trans_de: a) Spiel mit einem Knöchelpaar b) eine hohle Schmalseite plus eine hohle Breitseite des Spielknöchels
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Spiel mit einem Knöchelpaar; eine hohle Schmalseite plus eine hohle Breitseite des Spielknöchels
+ trans_en: game with a pair of knuckles; one concave narrow side plus one concave broad side of a knuckle 
 -lexeme
  lex: čəfta
  stem: čəfta.|čəftat.
@@ -7377,71 +7393,146 @@
  gramm: N,f
  paradigm: N2
  trans_de: Jagdgewehr
- trans_en: 
+ trans_en: hunting rifle
 -lexeme
- lex: č(ə)kito
- stem: č(ə)kito.|čikinyoṯe.
- root: č()kt
+ lex: čəhčəh
+ stem: čəhčəh.
+ root: čhčh
+ gramm: N
+ paradigm: <?>
+ trans_de: Kampfgeschrei der Steinhühner
+ trans_en: batlle cry of partridges
+-lexeme
+ lex: čək
+ stem: čək.
+ root: čk
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: hohle Seite des Spielknöchels und zwar sowohl auf der schmalen als der der breiten Seite; senkrecht
+ trans_en: concave side of a knuckle used for games, both of the narrow and broad part of a knuckle; vertical
+-lexeme
+ lex: čikənto
+ stem: čikənto./čikənyoṯe.//čikənyoṯo.
+ root: čk
  gramm: N,f
  paradigm: N2
  trans_de: ein bißchen
- trans_en: 
+ trans_en: a little
 -lexeme
  lex: čekkəkke
  stem: čekkəkke.
  root: čkk
  gramm: N,f
- paradigm: N1
- trans_de: Penis vom
- trans_en: 
+ paradigm: <?>
+ trans_de: Penis vom 1-7 Jahre
+ trans_en: penis of 1-7 year old
 -lexeme
  lex: čəlṭuk
  stem: čəlṭuk.
  root: člṭk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: ungeschälter Reis
- trans_en: 
+ trans_en: unshelled rice
 -lexeme
  lex: čəlge
  stem: čəlge.
  root: člg
  gramm: N,f
- paradigm: N1
- trans_de: a) Büschel Haare b) schneller Lauf ohne Anhalten
- trans_en: 
+ paradigm: <?>
+ trans_de: Büschel Haare; schneller Lauf ohne Anhalten
+ trans_en: bun of hair; quick running without stopping
 -lexeme
  lex: čəlkaziye
  stem: čəlkaziye.
  root: člkzy
  gramm: N,f
- paradigm: N1
- trans_de: die mit
- trans_en: 
+ paradigm: unchangeable
+ trans_de: die mit 40 Locken (Name eines Mädchen)
+ trans_en: of forty locks (name of a girl)
 -lexeme
- lex: čəlla
- stem: čəlla.
+ lex: čəlla/čəlle
+ stem: čəlla.//čəlle.|čəllat.
  root: čll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fledermaus
- trans_en: 
+ trans_en: bat
+-lexeme
+ lex: čəllaq
+ stem: čəllaq.|čəllaqin.
+ root: člq
+ gramm: ADJ
+ paradigm: N2
+ trans_de: unzuverlässig
+ trans_en: unreliable
+-lexeme
+ lex: čəlle
+ stem: čəlle.
+ root: čl
+ gramm: N
+ paradigm: <?>
+ trans_de: Dreierkarte im Kartenspiel
+ trans_en: <?>
+-lexeme
+ lex: čəlləke/čəlke
+ stem: čəlləke.//čəlke.|čəlləkat.//čəlkat.
+ root: čl
+ gramm: N,f
+ paradigm: N2
+ trans_de: 3 ʕulbo, 65 kg
+ trans_en: 3 ʕulbo, 65 kg
+-lexeme
+ lex: čəlmera
+ stem: čəlmera.|čəlmerat.
+ root: člmr
+ gramm: N,f
+ paradigm: N2
+ trans_de: Verschlussstange aus dickem Holz
+ trans_en: <?>
+-lexeme
+ lex: čəm
+ stem: čəm.
+ root: čm
+ gramm: N
+ paradigm: <?>
+ trans_de: Haut, Haube um den Fötus
+ trans_en: <?>
 -lexeme
  lex: čəmbəl
- stem: čəmbəl.|čəmbəlat.
+ stem: čəmbəl.//čambəl.//čəmbəle.|čəmbəlat.//čambəlat.
  root: čmbl
  gramm: N,m
  paradigm: N2
  trans_de: Henkel
- trans_en: 
+ trans_en: handle
+-lexeme
+ lex: čəmčəm
+ stem: čəmčəm.
+ root: čmčm
+ gramm: N
+ paradigm: <?>
+ trans_de: Schelten
+ trans_en: cursing
 -lexeme
  lex: čəmənto
- stem: čəmənto.
+ stem: čəmənto.//čmənto.
  root: čmnt
  gramm: N,f
  paradigm: N1
  trans_de: Zement
- trans_en: 
+ trans_en: concrete
+-lexeme
+ lex: čən
+ stem: čən.
+ root: čn
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Geräusch des Absteigens vom Pferd; auch des Klopfens auf Metall
+ trans_en: sound when getting off a horse; also rattling of metal
+-lexeme
+ lex: čəngačəng
+ stem: čəngačəng.
 -lexeme
  lex: čənnar
  stem: čənnar.
