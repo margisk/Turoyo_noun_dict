@@ -7664,8 +7664,16 @@
  root: čk
  gramm: N,f
  paradigm: N2
- trans_de: a) kleiner Brunnen b) ein wenig, ein bißchen
- trans_en: 
+ trans_de: kleiner Brunnen
+ trans_en: small well
+-lexeme
+ lex: čike
+ stem: čike.
+ root: čk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ein wenig, ein bißchen
+ trans_en: a bit, a little
 -lexeme
  lex: čin
  stem: čin.
