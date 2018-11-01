@@ -7484,7 +7484,7 @@
  trans_en: 3 ʕulbo, 65 kg
 -lexeme
  lex: čəlmera
- stem: čəlmera.|čəlmerat.
+ stem: čəlmera.//čərmel.|čəlmerat.//čərmelat.
  root: člmr
  gramm: N,f
  paradigm: N2
@@ -7533,62 +7533,131 @@
 -lexeme
  lex: čəngačəng
  stem: čəngačəng.
+ root: čngčng
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch des schleifenden Schwertes
+ trans_en: sound of <?> sword
 -lexeme
  lex: čənnar
  stem: čənnar.
  root: čnr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Platane
- trans_en: 
+ trans_en: planetree
 -lexeme
- lex: čənqal
- stem: čənqal.|čəneqəl.
+ lex: čənqal/čənqale
+ stem: čənqal.//čənqale.|čəneqəl.//čənqalat.
  root: čnql
  gramm: N,m
  paradigm: N2
  trans_de: Haken, Angelhaken
- trans_en: 
+ trans_en: hook, fishing hook
 -lexeme
- lex: čənqale
- stem: čənqale.|čənqalat.
- root: čnql
- gramm: N,f
+ lex: čəq
+ stem: čəq.
+ root: čq
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Besiegen
+ trans_en: victory
+-lexeme
+ lex: čəqqen
+ stem: čəqqen.
+ root: čqn
+ gramm: N
+ paradigm: <?>
+ trans_de: Laut (z.B. auf Drohungen, Beschimpfungen)
+ trans_en: sound (for example, in reply to abuse, scolding)
+-lexeme
+ lex: čərawizkat
+ stem: čərawizkat.
+ root: črwzk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Licht in der Ferne, das bald leuchtet, bald erlischt
+ trans_en: light far away which barely shines, will soon be out
+-lexeme
+ lex: čərčər
+ stem: čərčər.
+ root: črčr
+ gramm: N
+ paradigm: <?>
+ trans_de: drohendes Geschrei, ohne ernstliche Absicht (eigentl. Fürze lassen)
+ trans_en: threatening cry, without any serious intention (actually, to break wind)
+-lexeme
+ lex: čərčir
+ stem: čərčir.
+ root: črčr
+ gramm: N
+ paradigm: <?>
+ trans_de: Knarren der Türe
+ trans_en: creaking of a door
+-lexeme
+ lex: čərg
+ stem: čərg.
+ root: črg
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verdorben, unbrauchbar
+ trans_en: deteriorated, unusable
+-lexeme
+ lex: čərməllaq
+ stem: čərməllaq.//čərməllaqin.
+ root: črmlq
+ gramm: ADJ
  paradigm: N2
- trans_de: Haken, Angelhaken
- trans_en: 
+ trans_de: sehr geizig; schön redend, aber gelogen
+ trans_en: very stingy; <?>; small, pitiful, scant, lean, barren
 -lexeme
  lex: čərre
  stem: čərre.
  root: črr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Haschespiel
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: čərre
  stem: čərre.
  root: črr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: erste Milch, die beim Melken aus dem Euter fließt und besonders weiß ist
- trans_en: 
+ trans_en: first milk, which pours down from an udder and is especially white
 -lexeme
  lex: čərrək
  stem: čərrək.
  root: črk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gerät zum Entkernen der Baumwolle
- trans_en: 
+ trans_en: instrument to remove cotton seeds
+-lexeme
+ lex: čətəlxayr
+ stem: čətəlxayr.
+ root: čtlxyr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: reichlich, in Menge
+ trans_en: abundant, plentiful, in large quantities
 -lexeme
  lex: čəzgi
  stem: čəzgi.
  root: čzg
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Linie
- trans_en: 
+ trans_en: line
+-lexeme
+ lex: čičəko/čičko
+ stem: čičəko.//čičko.|čičəkat.//čičkat.
+ root: ččk
+ gramm: N
+ paradigm: N2
+ trans_de: Kücklein, das eben ausgeschlüpft ist
+ trans_en: chicken which has just hatched
 -lexeme
  lex: čike
  stem: čike.|čikat.
