@@ -973,7 +973,7 @@
  trans_en: flat plane, ground
 -lexeme
  lex: ʕarḏali
- stem: ʕarḏali.
+ stem: ʕarḏali.//ʕarḏ̣ali.
  root: ʕrḏl
  gramm: ADJ
  paradigm: unchangeable
@@ -1090,7 +1090,7 @@
  paradigm: N2
  trans_de: Haken, Kleiderbügel, Garderobenständer
  trans_en: clothes hook, rack
- lex: ʕaṣaba
+ lex: ʕaṣaba/ʕaṣabe.
  stem: ʕaṣaba.//ʕaṣabe.|ʕaṣabat.
  root: ʕṣb
  gramm: N,f
@@ -1272,6 +1272,14 @@
  paradigm: N2
  trans_de: Riese, Unhold, schwarzer Unhold
  trans_en: giant, monster
+-lexeme
+ lex: ʕawafi
+ stem: ʕawafi.
+ root: ʕwf
+ gramm: N
+ paradigm: unchangeable
+ trans_de: wohl bekomm's (haniye w ʕawafi)
+ trans_en: here is to you! (haniye w ʕawafi)
 -lexeme
  lex: ʕawara
  stem: ʕawara.|ʕawarin.
@@ -1706,6 +1714,14 @@
  trans_de: Anlass, Grund; Krankheit; Auswuchs
  trans_en: cause, reason; illness; hunch
 -lexeme
+ lex: ʕəlo
+ stem: ʕəlo.
+ root: ʕl
+ gramm: N
+ paradigm: <?>
+ trans_de: geruchlose Kamille, Matricaris inodora L. oder Hundskamille, Anthemis chia L. (ʕəlo w ʕulto)
+ trans_en: odorless camomile, Matricaris inodora L. or Anthemis chia L. (ʕəlo w ʕulto)
+-lexeme
  lex: ʕəloyo
  stem: ʕəloyo.|ʕəloye.
  root: ʕly
@@ -1713,14 +1729,6 @@
  paradigm: N2
  trans_de: hoch
  trans_en: high
--lexeme
- lex: ʕəlo w ʕulto
- stem: ʕəlo w ʕulto.
- root: ʕly
- gram:: N,f
- paradigm: unchangeable
- trans_de: geruchlose Kamille, Matricaris inodora L. oder Hundskamille, Anthemis chia L.
- trans_en: odorless camomile, Matricaris inodora L. or Anthemis chia L.
 -lexeme
  lex: ʕəmlaf
  stem: ʕəmlaf.
@@ -2181,8 +2189,8 @@
  root: ʕlt
  gramm: N,f
  paradigm: N2
- trans_de: Dornstrauch
- trans_en: thonry bush, bramble
+ trans_de: Dornstrauch; geruchlose Kamille, Matricaris inodora L. oder Hundskamille, Anthemis chia L. (ʕəlo w ʕulto)
+ trans_en: thonry bush, bramble; odorless camomile, Matricaris inodora L. or Anthemis chia L. (ʕəlo w ʕulto)
 -lexeme
  lex: ʕulyo
  stem: ʕulyo.
@@ -13946,6 +13954,14 @@
  paradigm: N1
  trans_de: Art Schürze mit Kreuzen am Rande und Verzierungen, die der Pfarrer trägt, wenn er das Evangelium liest
  trans_en: 
+-lexeme
+ lex: haniye
+ stem: haniye.
+ root: hny
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Guten appetit!; wohl bekomm's (haniye w ʕawafi)
+ trans_en: bon appetit! here is to you
 -lexeme
  lex: haskale
  stem: haskale.|haskalat.
