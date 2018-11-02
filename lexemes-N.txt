@@ -7275,8 +7275,8 @@
  trans_de: Taschentuch für Frauen
  trans_en: handkerchief for women
 -lexeme
- lex: čawal/čawale
- stem: čawal.//čawale.|čawalat.
+ lex: čawal/čawale/čawwale/čuwal/čuwale
+ stem: čawal.//čawale.//čawwale.//čuwal.//čuwale.|čawalat.//čawwalat.//čuwalat.
  root: čwl
  gramm: N,m
  paradigm: N2
@@ -7675,45 +7675,85 @@
  trans_de: ein wenig, ein bißchen
  trans_en: a bit, a little
 -lexeme
+ lex: čikčik
+ stem: čikčik.
+ root: čkčk
+ gramm: N
+ paradigm: <?>
+ trans_de:
+ trans_en:
+-lexeme
  lex: čin
  stem: čin.
  root: čn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: China
- trans_en: 
+ trans_en: China
 -lexeme
  lex: čini
- stem: čini.|ҫiniye.
+ stem: čini.|činiye.
  root: čn
  gramm: N,m
  paradigm: N2
  trans_de: Chinese, chinesisch
- trans_en: 
+ trans_en: Chinese, a Chinese
 -lexeme
- lex: čirroke
- stem: čirroke.|čirrokat.
+ lex: čirren
+ stem: čirren.
+ root: črn
+ gramm: N,m
+ paradigm: <?>
+ trans_de: kreischendes Geräusch beim Drücken und Schieben
+ trans_en: screeching sound produced by pressing and moving (something)
+-lexeme
+ lex: čiriwiri
+ stem: čiriwiri.
+ root: črwr
+ gramm: N
+ paradigm: <?>
+ trans_de: Geschrei kleiner Vögel, Gezwitscher
+ trans_en: scream of small birds, chirping
+-lexeme
+ lex: čiroke/čirroke
+ stem: čirroke.//čiroke.|čirrokat.//čirokat.
  root: črr
  gramm: N,f
  paradigm: N2
  trans_de: Märchen
- trans_en: 
+ trans_en: story, fairy-tale
+-lexeme
+ lex: čit
+ stem: čit.|čitat.
+ root: čt
+ gramm: N,m
+ paradigm: N2
+ trans_de: Stengel der Hirstestaude (daraus werden Spielzeuge gemacht); Schreibrohr; Vorhang im Zelt; Art bedruckter Kattun
+ trans_en: stem of <?> (toys are made from it); seamed tube <?>; curtain in a tent; type of calico (?)
 -lexeme
  lex: čmizoyo
- stem: čmizoyo.
+ stem: čmizoyo.|čmizoye.
  root: čmzy
- gramm: N,m
- paradigm: N1
+ gramm: ADJ
+ paradigm: N2
  trans_de: schlechter Laune
- trans_en: 
+ trans_en: in a bad mood
+-lexeme
+ lex: čo
+ stem: čo.
+ root: č
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Antreibruf für Esel
+ trans_en: a shout when driving a donkey
 -lexeme
  lex: čoke
- stem: čoke.
+ stem: čoke.|čokat.
  root: čk
  gramm: N,f
- paradigm: N1
- trans_de: Arschfurche; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Arschfurche;
+ trans_en: wrinkle on ass
 -lexeme
  lex: čol
  stem: čol.|čolat.//čolone.
@@ -7721,23 +7761,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Steppe, Wüste
- trans_en: 
+ trans_en: steppe, desert
 -lexeme
  lex: čučəko
- stem: čučəko.|čučəkoe.//čučəkoin.
+ stem: čučəko.//čučko.|čučəke.//čučəkin.//čučke.//čučkin.
  root: ččk
  gramm: N,m
  paradigm: N2
- trans_de: ein, jung
- trans_en: 
+ trans_de: klein, jung
+ trans_en: small, young
 -lexeme
  lex: čugan
- stem: čugan.|čugane.//čŭwegin.
+ stem: čugan.|čugane.//čuwegən.//čuganin.
  root: čgn
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ Stock mit rundem Griff
- trans_en: 
+ trans_de: Stock mit rundem Griff
+ trans_en: stick with a round handle
 -lexeme
  lex: čuko
  stem: čuko.|čuke.
@@ -7745,39 +7785,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: ein Vogel
- trans_en: 
+ trans_en: bird
+-lexeme
+ lex: čunki
+ stem: čunki.
+ root: čnk
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: denn, weil
+ trans_en: because
 -lexeme
  lex: čuqlike
- stem: čuqlike.|čuqlikat.
+ stem: čuklike.|čuklikat.
  root: čql
  gramm: N,f
  paradigm: N2
  trans_de: Zweig
- trans_en: 
+ trans_en: branch
 -lexeme
  lex: čuqliye
- stem: čuqliye.
+ stem: čuqliye.|čuqliyat.
  root: čql
  gramm: N,f
- paradigm: N1
- trans_de: Zweig
- trans_en: 
--lexeme
- lex: čuqmaq
- stem: čuqmaq.
- root: čqmq
- gramm: N,m
- paradigm: N1
- trans_de: Feuerzeug
- trans_en: 
--lexeme
- lex: čŭwal
- stem: čŭwal.|čŭwalat.
- root: čŭwl
- gramm: N,m
  paradigm: N2
- trans_de: Sack
- trans_en: 
+ trans_de: Zweig
+ trans_en: branch
+-lexeme
+ lex: čure
+ stem: čure.
+ root: čr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: sagt man, wenn man etwas hinwirft, das man zum Auflesen zur Verfügung stellt (etwa kleine Münzen bei Hochzeiten, oder als Spiel)
+ trans_en: a person says this when he throws something for others to pick up (small coins at weddings, or as a game)
 -lexeme
  lex: dʕoyo
  stem: dʕoyo.
