@@ -7829,51 +7829,51 @@
 -lexeme
  lex: dʕoyo
  stem: dʕoyo.
- root: dʕw
+ root: dʕy
  gramm: N,m
- paradigm: N1
- trans_de: Inf. I) Gebet
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Gebet
+ trans_en: prayer
 -lexeme
  lex: daʕa
- stem: daʕa.|daʕawat.//daʕwoṯe.
+ stem: daʕa.//duʕa.//dəʕa.//daʕe.|daʕawat.//daʕwoṯe.//dəʕawat.//duʕawat.
  root: dʕw
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
--lexeme
- lex: daʕe
- stem: daʕe.
- root: dʕw
- gramm: N,f
- paradigm: N1
  trans_de: Gebet
- trans_en: 
+ trans_en: prayer
 -lexeme
  lex: daʕoyo
- stem: daʕoyo.
+ stem: daʕoyo.|daʕoye.
  root: dʕw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Beter
- trans_en: 
+ trans_en: one who prays
+-lexeme
+ lex: daʕw
+ stem: daʕw.
+ root: dʕw
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Anliegen; das, was man sich herausnimmt;
+ trans_en: wish, request; what someone allows to himself
 -lexeme
  lex: daʕwa
- stem: daʕwa.
+ stem: daʕwa.//daʕwat.
  root: dʕw
  gramm: N,f
- paradigm: N1
- trans_de: a) Rechtsklage b) Gebet
- trans_en: 
+ paradigm: N2
+ trans_de: Rechtsklage; Gebet
+ trans_en: complaint (to the court); prayer
 -lexeme
  lex: daʕwatiye
- stem: daʕwatiye.
+ stem: daʕwatiye.|daʕwatiyat.
  root: dʕw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Einladung(skarte)
- trans_en: 
+ trans_en: invitation card
 -lexeme
  lex: daʕwe
  stem: daʕwe.|daʕwe.
@@ -7883,69 +7883,69 @@
  trans_de: Hochzeit
  trans_en: 
 -lexeme
- lex: daʕwiṯo
- stem: daʕwiṯo.|daʕwoṯe.
+ lex: daʕwiṯo/dəʕwiṯo/duʕwiṯo/dəwiṯo
+ stem: daʕwiṯo.//dəʕwiṯo.//duʕwiṯo.//dəwiṯo.|daʕwoṯe.//dəʕwoṯe.//dəʕwitoṯe.//daʕwoṯo.//dəʕwoṯo.//dəʕwitoṯo.//duʕwoṯe.//duʕwoṯo.
  root: dʕw
  gramm: N,f
  paradigm: N2
  trans_de: Gebet, Segenswunsch
- trans_en: 
+ trans_en: prayer, good wish
 -lexeme
  lex: daʕwo
- stem: daʕwo.
+ stem: daʕwo.//daʕwe.
  root: dʕy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hochzeit
- trans_en: 
+ trans_en: wedding
 -lexeme
  lex: daʕyo
- stem: daʕyo.
+ stem: daʕyo.//daʕye.
  root: dʕy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: eingeladener Gast
- trans_en: 
+ trans_en: invited guest
 -lexeme
  lex: dabara
- stem: dabara.
+ stem: dabara.//dabarat.
  root: dbr
  gramm: N,f
  paradigm: N1
- trans_de: fertig werden mit; haw
- trans_en: 
+ trans_de: fertig werden mit
+ trans_en: dealing with someone; management, administration, board, regime
 -lexeme
  lex: dabaš
  stem: dabaš.
  root: dbš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Plan, ein Verbrechen, etwas Schlechtes zu tun
- trans_en: 
+ trans_en: plan to commit a crime or to do something bad
 -lexeme
- lex: dabašto
- stem: dabašto.|daboše.
+ lex: dabəšto/dabašto
+ stem: dabəšto.//dabašto.|daboše.
  root: dbš
  gramm: N,f
  paradigm: N2
  trans_de: Biene
- trans_en: 
+ trans_en: bee
 -lexeme
- lex: dabbus
- stem: dabbus.
- root: dbs
+ lex: dabbus/dalbuz
+ stem: dabbus.//dalbuz.
+ root: dbs/dlbz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Keule
- trans_en: 
+ trans_en: club
 -lexeme
- lex: dabib
- stem: dabib.|dabibe.
+ lex: dabib/dabibo
+ stem: dabib.//dabibo.|dabibe.
  root: dbb
  gramm: N,m
  paradigm: N2
  trans_de: wildes Tier
- trans_en: 
+ trans_en: wild animal
 -lexeme
  lex: dabibe
  stem: dabibe.|dabibat.
@@ -7953,39 +7953,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: dumme Frauensperson
- trans_en: 
+ trans_en: stupid female
 -lexeme
- lex: dabibo
- stem: dabibo.|dabibe.
- root: dbb
- gramm: N,m
- paradigm: N2
- trans_de: wildes Tier
- trans_en: 
--lexeme
- lex: dabišto
- stem: dabišto.|daboše.
- root: dbš
- gramm: N,f
- paradigm: N2
- trans_de: Biene
- trans_en: 
+ lex: dade
+ stem: dade.
+ root: dd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Anrede and die Schwiegermutter; auch für die Frau des Onkels (Tante) und für ältere Frauen
+ trans_en: address to mother-in-law; also for uncle's wife (aunt) and for elderly women
 -lexeme
  lex: dado
- stem: dado.
+ stem: dado.//dadoṯo.
  root: dd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Frau des Bruders des Vaters, Tante
- trans_en: 
+ trans_en: wife of brother of father, aunt
 -lexeme
- lex: dafʕe
- stem: dafʕe.
+ lex: dafʕe/daḥfe
+ stem: dafʕe.//daḥfe.|dafʕat.//daḥfat.
  root: dfʕ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stoß
- trans_en: 
+ trans_en: push
 -lexeme
  lex: dafno
  stem: dafno.
