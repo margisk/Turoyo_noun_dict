@@ -322,8 +322,8 @@
  root: ʕǧl
  gramm: N,f
  paradigm: N2
- trans_de: Eile
- trans_en: hurry; quickly; quick (?)
+ trans_de: Eile; eiligst (ʕalal ʕaǧala)
+ trans_en: hurry; quickly; quick (?); 
 -lexeme
  lex: ʕaǧam
  stem: ʕaǧam.
@@ -477,12 +477,12 @@
  trans_de: elektrische Taschenlampe
  trans_en: lamp
 -lexeme
- lex: ʕalal ʕaǧala
- stem: <?>
- root: ʕǧl
- gramm: ADV
+ lex: ʕalal
+ stem: ʕalal.
+ root: ʕl
+ gramm: PREP
  paradigm: unchangeable
- trans_de: eiligst
+ trans_de: eiligst (ʕalal ʕaǧala)
  trans_en: in a hurry
 -lexeme
  lex: ʕalame/ʕəlame
@@ -621,14 +621,6 @@
  trans_de: belebt, gebaut, bebaut, wohlbestellt
  trans_en: inhabitated, populated; built
 -lexeme
- lex: ʕamke
- stem: ʕamke.
- root: ʕmm
- gramm: N,f
- paradigm: N1
- trans_de: liebe Tante!
- trans_en: 
--lexeme
  lex: ʕamko
  stem: ʕamko.
  root: ʕmm
@@ -667,23 +659,23 @@
  gramm: N,f
  paradigm: N1
  trans_de: Tante!
- trans_en: 
+ trans_en: aunt!
 -lexeme
- lex: ʕamməke
- stem: ʕamməke.
+ lex: ʕamməke/ʕamke
+ stem: ʕamməke.//ʕamke.|ʕamməkat.//ʕamkat.
  root: ʕmm
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: liebe Tante!
- trans_en: 
+ trans_en: aunt
 -lexeme
  lex: ʕamməko
- stem: ʕamməko.
+ stem: ʕamməko.//ʕamko.|ʕamməke.//ʕamke.
  root: ʕmm
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: N2
  trans_de: lieber Oheim! lieber Onkel!
- trans_en: 
+ trans_en: uncle
 -lexeme
  lex: ʕammo
  stem: ʕammo.|ʕammone.
@@ -874,7 +866,7 @@
  root: ʕwr
  gramm: N,m
  paradigm: N2
- trans_de: Schande
+ trans_de: Schande; Schimpf und Schande (ʕay w ʕar)
  trans_en: shame
 -lexeme
  lex: ʕarʕuro
@@ -905,8 +897,8 @@
  stem: ʕarabana.|ʕarabanat.
  root: ʕrbn
  gramm: N,f
- trans_de: von Tieren gezogener Wagen; Tamburin
- trans_en: 
+ trans_de: von Tieren gezogener Wagen
+ trans_en: cart pulled by animals
 -lexeme
  lex: ʕarabi
  stem: ʕarabi.
@@ -1336,6 +1328,14 @@
  paradigm: unchangeable
  trans_de: zuerst, zunächst
  trans_en: at first
+-lexeme
+ lex: ʕay
+ stem: ʕay.
+ root: ʕy
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Schimpf und Schande (ʕay w ʕar)
+ trans_en: shame and disgrace (ʕay w ʕar)
 -lexeme
  lex: ʕayal
  stem: ʕayal.
