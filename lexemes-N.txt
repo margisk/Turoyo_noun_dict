@@ -8139,6 +8139,14 @@
  trans_de: wasserreicher Baumgarten (mit Pappeln);
  trans_en: well-irrigated tree garden (with poplar trees)
 -lexeme
+ lex: daḥle
+ stem: daḥle.|daḥlat.
+ root: dḥl
+ gramm: N,f
+ paradigm: N2
+ trans_de: kleines totes Tierchen im Brunnen
+ trans_en: small dead animal in a well
+-lexeme
  lex: daḥno
  stem: daḥno.|daḥnone.
  root: dḥn
