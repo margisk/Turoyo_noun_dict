@@ -7983,9 +7983,9 @@
  stem: dafno.
  root: dfn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Steinbehälter an der Wand für Getreide
- trans_en: 
+ trans_en: container at the wall, made of stone (?), for corn
 -lexeme
  lex: dafo
  stem: dafo.|dafe.
@@ -7993,23 +7993,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tamburin
- trans_en: 
+ trans_en: tambourine
 -lexeme
- lex: dafra
- stem: dafra.|dafrat.
+ lex: dafra/dəfra
+ stem: dafra.//dəfra.|dafrat.//dəfrat.
  root: dfr
  gramm: N,f
  paradigm: N2
- trans_de: Stoß mit Hörnern; pl
- trans_en: 
+ trans_de: Stoß mit Hörnern
+ trans_en: poking at with horns
 -lexeme
  lex: daftar
- stem: daftar.|difetir.//dafetir.
+ stem: daftar.|dəfetər.//dafetir.//daftare.
  root: dftr
  gramm: N,m
  paradigm: N2
- trans_de: däfetir Heft; pl dafetir – Akten
- trans_en: 
+ trans_de: Heft; pl. Akten
+ trans_en: notebook; pl. documents
 -lexeme
  lex: dafṯo
  stem: dafṯo.|dafoṯo.//dafe.
@@ -8019,13 +8019,21 @@
  trans_de: dafe Brett
  trans_en: 
 -lexeme
- lex: dagolo
- stem: dagolo.
+ lex: dagal
+ stem: dagal.
  root: dgl
- gramm: N,m
- paradigm: N1
- trans_de: falsch Mi
- trans_en: 
+ gramm: N
+ paradigm: <?>
+ trans_de: freie, furchtlose Rede, auch vor dem Richter
+ trans_en: free, fearless speech, also before a judge
+-lexeme
+ lex: dagolo
+ stem: dagolo.|dagole.
+ root: dgl
+ gramm: ADJ
+ paradigm: N2
+ trans_de: lügnerisch, falsch
+ trans_en: lying, false
 -lexeme
  lex: daġe
  stem: daġe.|daġat.
@@ -8033,31 +8041,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: Brandmal
- trans_en: 
+ trans_en: brand
 -lexeme
  lex: daġliye
  stem: daġliye.
  root: dġl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gericht aus Kichererbsen, die durch Hitze vorbereitet werden
- trans_en: 
+ trans_en: dish from chickpea which is prepared with the help of the heat (?)
+-lexeme
+ lex: dah
+ stem: dah.
+ root: dh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Antreiberuf für Pferde und Esel
+ trans_en: a shout when driving a horse or a donkey
 -lexeme
  lex: dahba
- stem: dahba.|dahbawat.//-t.
+ stem: dahba.|dahbawat.//dahbat.
  root: dhb
  gramm: N,m
  paradigm: N2
  trans_de: wildes Tier
- trans_en: 
+ trans_en: wild animal
 -lexeme
- lex: dahino
- stem: dahino.
- root: dhn
+ lex: dahdah
+ stem: dahdah.
+ root: dhdh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Halteruf für Pferde
+ trans_en: stop-shout for horses
+-lexeme
+ lex: dahino/dahuno
+ stem: dahino.//dahuno.|dahine.//dahune.
+ root: dhn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: fettig
+ trans_en: fat, greasy
+-lexeme
+ lex: dahno
+ stem: dahno.
+ root: dhn
  gramm: N,m
- paradigm: N1
- trans_de: Fett (Essen)
- trans_en: 
+ paradigm: <?>
+ trans_de: Verstand
+ trans_en: mind, intellect, understanding
 -lexeme
  lex: dahole
  stem: dahole.|daholat.
@@ -8065,23 +8097,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Trommel
- trans_en: 
+ trans_en: drum
 -lexeme
  lex: dahwo
- stem: dahwo.
+ stem: dahwo.|dahwone.
  root: dhb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gold
- trans_en: 
+ trans_en: gold
 -lexeme
  lex: dahyake
- stem: dahyake.
+ stem: dahyake.|dahyakat.
  root: dhy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zehnter, Steuer
- trans_en: 
+ trans_en: tithe, tax
 -lexeme
  lex: daḥfe
  stem: daḥfe.
@@ -8092,20 +8124,20 @@
  trans_en: 
 -lexeme
  lex: Daḥḥo
- stem: daḥḥo.
- root: Dḥḥ
+ stem: Daḥḥo.
+ root: dḥḥ
  gramm: N,m
- paradigm: N1
- trans_de: Männername, von
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Männername, von dinḥe — die Taufe Christi
+ trans_en: masculine name, from dinḥe — the Baptism of Christ
 -lexeme
  lex: daḥle
- stem: daḥle.
+ stem: daḥle.|daḥlat.
  root: dḥl
  gramm: N,f
- paradigm: N1
- trans_de: a) wasserreicher Baumgarten (mit Pappeln) b) kleines totes Tierchen im Brunnen
- trans_en: 
+ paradigm: N2
+ trans_de: wasserreicher Baumgarten (mit Pappeln);
+ trans_en: well-irrigated tree garden (with poplar trees)
 -lexeme
  lex: daḥno
  stem: daḥno.|daḥnone.
