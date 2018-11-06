@@ -8153,71 +8153,95 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hirse, Negerhirse
- trans_en: 
+ trans_en: millet, African millet
 -lexeme
- lex: daḥš(ə)ke
- stem: daḥš(ə)ke.|daḥš(ə)kat.
- root: dḥš()k
+ lex: daḥšəke/daḥške
+ stem: daḥšəke.//daḥške.|daḥšəkat.//daḥškat.
+ root: dḥš
  gramm: N,f
  paradigm: N2
  trans_de: junger Esel
- trans_en: 
+ trans_en: young donkey 
 -lexeme
  lex: daḥṯo
  stem: daḥṯo.
  root: dḥṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schweiß
- trans_en: 
+ trans_en: sweat
+-lexeme
+ lex: daʔima/daʔiman/dayəma/daʔəm
+ stem: daʔima.//daʔiman.//dayəma.//daʔəm.
+ root: dym
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: beständig, immer
+ trans_en: constantly, always
+-lexeme
+ lex: dalal
+ stem: dalal.
+ root: dll
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schön; arm, bedauernswert
+ trans_en: beautiful, poor, miserable
 -lexeme
  lex: dalav
  stem: dalav.
  root: dlv
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: hölzerner Trog zum Trinken und Fressen (von Tieren)
- trans_en: 
+ trans_en: wodden trough for eating and drinking (for animals)
+-lexeme
+ lex: dalayəl
+ stem: dalayəl.
+ root: dll
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Anzeichen, Symptome
+ trans_en: signs, symptoms
 -lexeme
  lex: dalel
  stem: dalel.
  root: dll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hinweis
- trans_en: 
+ trans_en: indication
 -lexeme
  lex: dalela
  stem: dalela.|dalelat.
  root: dll
  gramm: N,f
  paradigm: N2
- trans_de: eint, wie sich aus Anzeichen und Aussagen anderer erschließen lässt“
- trans_en: 
+ trans_de: wie es scheint, wie sich aus Anzeichen und Aussagen anderer erschließen lässt
+ trans_en: as it appears, how can be inferred from signs and words of the other
 -lexeme
  lex: dalġa
- stem: dalġa.
+ stem: dalġa.|dalġat.
  root: dlġ
  gramm: N,f
  paradigm: N1
  trans_de: Radiowelle
- trans_en: 
+ trans_en: radiowave
 -lexeme
  lex: dalənge
  stem: dalənge.|daləngat.
  root: dlng
  gramm: N,f
  paradigm: N2
- trans_de: Hosenbein; pl
- trans_en: 
+ trans_de: Hosenbein
+ trans_en: trouser-leg
 -lexeme
  lex: dallal
  stem: dallal.
  root: dll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ausrufer
- trans_en: 
+ trans_en: herald
 -lexeme
  lex: dalolo
  stem: dalolo.|dalole.
@@ -8225,23 +8249,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ausrufer, Makler
- trans_en: 
+ trans_en: herald, broker
 -lexeme
  lex: daloqo
- stem: daloqo.
+ stem: daloqo.|daloqe.
  root: dlq
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Feuerbrand, Brandfackel
- trans_en: 
+ trans_en: fire-brand, torch
 -lexeme
  lex: dalpke
- stem: dalpke.
+ stem: dalpke.|dalpkat.
  root: dlp
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fensterbrett; Absatz, wenn mehrere Bretter übereinander stehen
- trans_en: 
+ trans_en: window-sill; space (?) where a few planks lie upon each other
 -lexeme
  lex: dalq
  stem: dalq.
@@ -8249,7 +8273,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Zauberhaut, mit der sich etwa Menschen in Tiere verwandeln können
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: dalqo
  stem: dalqo.|dalqe.
@@ -8259,21 +8283,29 @@
  trans_de: Zauberhaut, mit der sich etwa Menschen in Tiere verwandeln können
  trans_en: 
 -lexeme
+ lex: dalular
+ stem: dalular.
+ root: dllr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: freundlich, Spaßmacher
+ trans_en: kind; joker
+-lexeme
  lex: dalule
- stem: dalule.
+ stem: dalule.|dalulat.
  root: dll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Reitkamel
- trans_en: 
+ trans_en: camel
 -lexeme
  lex: dam
  stem: dam.
  root: dm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zeit
- trans_en: 
+ trans_en: time
 -lexeme
  lex: damʕo
  stem: damʕo.|damʕe.
@@ -8281,23 +8313,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Träne
- trans_en: 
+ trans_en: tear
 -lexeme
  lex: damake
- stem: damake.
+ stem: damake.|damakat.
  root: dmk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Streifen aus Trauben und Mehl, der durch schräg übereinandergelegte Falten zum Dreieck wird
- trans_en: 
+ trans_en: strip made of grapes and flour, it becomes triangular after being folded askew
 -lexeme
  lex: daman
  stem: daman.
  root: dmn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Steuer für Äcker
- trans_en: 
+ trans_en: tax for farmers
 -lexeme
  lex: damanča/damančaye
  stem: damanča/damančaye.|damanča.//damančayeat.//-ayat.//damanča.//damančayeawat.
