@@ -13603,21 +13603,21 @@
  trans_de: Augenschmalz
  trans_en: 
 -lexeme
- lex: ǧiran
- stem: ǧiran.|nachbar,.
+ lex: ǧiran/žiran
+ stem: ǧiran.|žiran.
  root: ǧwr
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: Nachbar
+ trans_en: Neighbour
 -lexeme
- lex: ǧivan
- stem: ǧivan.
+ lex: ǧivan/živan
+ stem: ǧivan.|živan.
  root: ǧvn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: verabredete Zusammenkunft, Stelldichein
- trans_en: 
+ trans_en: arranged meeting, tryst
 -lexeme
  lex: ǧivate
  stem: ǧivate.
@@ -13723,13 +13723,13 @@
  trans_de: Schlusssprung, bei dem beide Füße nebeneinander stehen
  trans_en: 
 -lexeme
- lex: ǧulo
- stem: ǧulo.|ǧule.
+ lex: ǧule
+ stem: ǧule.
  root: ǧl
- gramm: N,m
- paradigm: N2
- trans_de: wertloses Tuch, Lappen
- trans_en: 
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Kleid
+ trans_en: clothes
 -lexeme
  lex: ǧumla
  stem: ǧumla.|ǧumlat.
@@ -39826,33 +39826,82 @@
  trans_de: Geist, weiblicher Ǧinn
  trans_en: 
 -lexeme
+ lex: žġayni/žġeni
+ stem: žġayni./žġeni.
+ root: žġn
+ gramm: prep
+ paradigm: unchangeable
+ trans_de: außer
+ trans_en: except
+-lexeme
+ lex: žġer
+ stem: žġer.
+ root: žġr
+ gramm: prep
+ paradigm: unchangeable
+ trans_de: außer
+ trans_en: except
+-lexeme
  lex: žigo
- stem: žigo.|žigoowat.
+ stem: žigo.|žigowat.
  root: žg
  gramm: N,m
  paradigm: N2
  trans_de: Igel
+ trans_en: hedghehog
+-lexeme
+ lex: žinu
+ stem: žinu.
+ root: žn
+ gramm: adv
+ paradigm: unchangeable
+ trans_de: nunmehr, da
  trans_en: 
 -lexeme
- lex: žiran
- stem: žiran.
- root: žrn
- gramm: N,f
- paradigm: N1
- trans_de: jiran Nachbar
+ lex: žmərra saġ
+ stem: ?
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: bleib mir am Leben, gesund (gewöhnlicher Märchenschluß)
  trans_en: 
+-lexeme
+ lex: žledane
+ stem: žledane.
+ root: žld
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Ausdruck aus dem Holespiel
+ trans_en: ?
 -lexeme
  lex: žnayne/ǧnayne
- stem: žnayne/ǧnayne.
+ stem: žnayne.|ǧnayne.
  root: ǧnn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Garten
- trans_en: 
+ trans_en: Garden
+-lexeme
+ lex: žnuka/žnukane
+ stem: žnuka.|žnukane.
+ root: žnk
+ gramm: adv
+ paradigm: unchangeable
+ trans_de: von neuem, endlich
+ trans_en: again, finally
+-lexeme
+ lex: žnuva
+ stem: žnuva.
+ root: žnv
+ gramm: adv
+ paradigm: unchangeable
+ trans_de: von neuem, wieder
+ trans_en: again
 -lexeme
  lex: žulo/ǧulo
- stem: žulo/ǧulo.
+ stem: žulo.|ǧulo.
  root: žl/ǧl
  gramm: N,m
  paradigm: N1
  trans_de: minderwertiger Teppich
+ trans_en: poor quality carpet
