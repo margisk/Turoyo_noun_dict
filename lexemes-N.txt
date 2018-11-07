@@ -8340,83 +8340,91 @@
  trans_en: tax for farmers
 -lexeme
  lex: damanča/damančaye
- stem: damanča/damančaye.|damanča.//damančayeat.//-ayat.//damanča.//damančayeawat.
+ stem: damanča.//damančaye.|damančayat.//damančat.//damančawat.
  root: dmnč/dmnčy
  gramm: N,f
  paradigm: N2
  trans_de: Pistole
- trans_en: 
--lexeme
- lex: damanča
- stem: damanča.
- root: dmnč
- gramm: N,f
- paradigm: N1
- trans_de: Spielpistole
- trans_en: 
+ trans_en: pistol
 -lexeme
  lex: damar
  stem: damar.|damare.
  root: dmr
  gramm: N,m
  paradigm: N2
- trans_de: damare Ader (fig.)
- trans_en: 
+ trans_de: Ader (fig.)
+ trans_en: vein
 -lexeme
  lex: dambəz
- stem: dambəz.|danebəz.//dambəze.//dambəzat.
+ stem: dambəz.//danbəz.//danbuz.//dabbuz.//dambuze.|danebəz.//dambəze.//dambəzat.//danbəze.//danbəzat.//danbuze.//danbuzat.//dabbuze.//dabbuzat.//dambuzat.
  root: dmbz
  gramm: N,m
  paradigm: N2
  trans_de: Stecknadel
- trans_en: 
+ trans_en: pin
 -lexeme
  lex: damġa
- stem: damġa.
+ stem: damġa.|damġat.
  root: dmġ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Brandmal
- trans_en: 
+ trans_en: brand
 -lexeme
  lex: damir
  stem: damir.
  root: dmr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gewissen
- trans_en: 
--lexeme
- lex: damixo
- stem: damixo.|damixe.
- root: dmx
- gramm: N,m
- paradigm: N2
- trans_de: damixo a) schlafend. b) waagrecht
- trans_en: 
+ trans_en: conscience
 -lexeme
  lex: damṯo
  stem: damṯo.|damoṯe.
  root: dmṯ
  gramm: N,f
  paradigm: N2
- trans_de: Brüder heiraten, werden die Frauen gegenseitig
- trans_en: 
+ trans_de: wenn zwei Brüder heiraten, werden die Frauen gegenseitig damoṯe; Schwägerin
+ trans_en: wenn two brothers marry, the wives become damoṯe to each other; sister-in-law
+-lexeme 
+ lex: damuš
+ stem: damuš.
+ root: dmš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: klebrig
+ trans_en: sticky
+-lexeme
+ lex: dan
+ stem: dan.
+ root: dn
+ gramm: N
+ paradigm: <?>
+ trans_de: Geben, Gabe
+ trans_en: giving, gift
+-lexeme
+ lex: dana
+ stem: dana.
+ root: dn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: natürlich; nunmehr, also
+ trans_en: of course; hencefoward, so
 -lexeme
  lex: dane
- stem: dane.|a=tlaṯ.
+ stem: dane.|danat.
  root: dn
  gramm: N,f
  paradigm: N2
  trans_de: Tageszeit
- trans_en: 
+ trans_en: time of day
 -lexeme
  lex: dang
  stem: dang.|dangat.
  root: dng
  gramm: N,m
  paradigm: N2
- trans_de: a) Ton b) pl –at pl –a großer, rollender Stein der Burgulpresse
+ trans_de: 
  trans_en: 
 -lexeme
  lex: danoke
