@@ -13676,7 +13676,7 @@
  trans_en: 
 -lexeme
  lex: ǧiran/žiran
- stem: ǧiran.|žiran.
+ stem: ǧiran.//žiran.|ǧirane.//žirane.
  root: ǧwr
  gramm: N,f
  paradigm: N2
@@ -39955,7 +39955,7 @@
  trans_en: Garden
 -lexeme
  lex: žnuka/žnukane
- stem: žnuka.|žnukane.
+ stem: žnuka.//žnukane.
  root: žnk
  gramm: adv
  paradigm: unchangeable
