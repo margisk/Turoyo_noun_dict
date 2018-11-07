@@ -8435,13 +8435,29 @@
  trans_de: großer, rollender Stein der Burgulpresse
  trans_en: big, rolling stone of a bulgur press
 -lexeme
+ lex: dannəke
+ stem: dannəke.|dannəkat.
+ root: dnk
+ gramm: N,f
+ paradigm: N2
+ trans_de: Krug
+ trans_en: jug
+-lexeme
+ lex: dano
+ stem: dano.|dane.
+ root: dn
+ gramm: N,m
+ paradigm: N2
+ trans_de: irdenes Fass
+ trans_en: clay pitcher
+-lexeme
  lex: danoke
- stem: danoke.
+ stem: danoke.|danokat.
  root: dnk
  gramm: N,f
  paradigm: N1
- trans_de: dabei geqollener Weizen
- trans_en: 
+ trans_de: gekochter dabei geqollener Weizen
+ trans_en: cooked wheat whose size has increased (as the result of cooking)
 -lexeme
  lex: dans
  stem: dans.|dansat.
@@ -8449,7 +8465,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tanz
- trans_en: 
+ trans_en: dance
 -lexeme
  lex: danwo
  stem: danwo.|danwe.
@@ -8457,63 +8473,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schwanz
- trans_en: 
+ trans_en: tail
 -lexeme
- lex: dap(p)ke
- stem: dap(p)ke.
- root: dp(p)k
+ lex: dappke/dapke
+ stem: dappke.//dapke.|dapkat.//dappkat.
+ root: dppk
  gramm: N,f
- paradigm: N1
- trans_de: a) Stab mit Querholz mit dem man die Dicke der Steine mißt
- trans_en: 
+ paradigm: N2
+ trans_de: Stab mit Querholz mit dem man die Dicke der Steine mißt; Brett
+ trans_en: stick with a cross-bar with which one measures thickness of stones; plank
 -lexeme
  lex: dappo
- stem: dappo.
+ stem: dappo.|dappe.
  root: dpp
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Depot
- trans_en: 
+ trans_en: depot
 -lexeme
- lex: dapṯo
- stem: dapṯo.|daboṯe.//daboṯo.
+ lex: dapṯo/dafṯo
+ stem: dapṯo.//dafṯo.//dabṯo.|daboṯe.//daboṯo.//dafoṯo.//dafoṯe.//dafe.
  root: dpṯ
  gramm: N,f
  paradigm: N2
  trans_de: Brett
- trans_en: 
+ trans_en: board, plank
 -lexeme
  lex: daqiqa
- stem: daqiqa.|daqaʔəq.//daq(i)qat.
+ stem: daqiqa.|daqaʔəq.//daqiqat.//daqqat.//daqayəq.
  root: dqq
  gramm: N,f
  paradigm: N2
- trans_de: daqiqat Minute; pl
- trans_en: 
+ trans_de: Minute
+ trans_en: minute
 -lexeme
  lex: daqno
  stem: daqno.|daqne.
  root: dqn
  gramm: N,f
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: Bart
+ trans_en: beard
 -lexeme
  lex: daqnono
- stem: daqnono.
+ stem: daqnono.|daqnone.
  root: dqn
  gramm: N,m
- paradigm: N1
- trans_de: bärtig PrS
- trans_en: 
+ paradigm: N2
+ trans_de: bärtig
+ trans_en: bearded
 -lexeme
  lex: daqqe
- stem: daqqe.
+ stem: daqqe.|daqqat.
  root: dqq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Flecken (auf der Haut); m Impfstelle
- trans_en: 
+ trans_en: spot (on skin); spot of injection
 -lexeme
  lex: daqrino
  stem: daqrino.|daqrine.
@@ -8521,7 +8537,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Holzstange; Stange des Dreifußes, an dem der Schlauch zum Buttern aufgehängt wird
- trans_en: 
+ trans_en: wooden stick; a stick on (?) a tripod on which a butter-skin is hung
 -lexeme
  lex: dar
  stem: dar.
