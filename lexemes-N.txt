@@ -8543,9 +8543,17 @@
  stem: dar.
  root: dr
  gramm: N,m
- paradigm: N1
- trans_de: a) Holz, Baum b)
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Holz, Baum
+ trans_en: wood, tree
+-lexeme
+ lex: dar
+ stem: dar.
+ root: dr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: (Leibes)-Umfang
+ trans_en: type of bodyshape
 -lexeme
  lex: daraġ
  stem: daraġ.
