@@ -8424,8 +8424,16 @@
  root: dng
  gramm: N,m
  paradigm: N2
- trans_de: 
- trans_en: 
+ trans_de: Ton
+ trans_en: sound
+-lexeme
+ lex: dang
+ stem: dang.|dangat.
+ root: dng
+ gramm: N,m
+ paradigm: N2
+ trans_de: großer, rollender Stein der Burgulpresse
+ trans_en: big, rolling stone of a bulgur press
 -lexeme
  lex: danoke
  stem: danoke.
