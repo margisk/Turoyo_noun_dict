@@ -13667,6 +13667,14 @@
  trans_de: Gärtner
  trans_en: 
 -lexeme
+ lex: ǧip/ǧib/ǧibe/žip
+ stem: ǧip.//ǧib.//ǧibe.//žip.|ǧip.//ǧib.//ǧibe.//žip.
+ root: ǧp
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Jeep
+ trans_en: Jeep
+-lexeme
  lex: ǧiqe
  stem: ǧiqe.
  root: ǧq
@@ -39851,52 +39859,84 @@
  trans_en: 
 -lexeme
  lex: žaḥriye
- stem: žaḥriye.
+ stem: žaḥriye.|žaḥriye.
  root: žḥr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Magenüberfüllung, Magenverstimmung
- trans_en: 
+ trans_en: stommach upset, indigestion
+-lexeme
+ lex: žan
+ stem: žan.
+ root: žn
+ gramm: N,?
+ paradigm: unchangeable
+ trans_de: Gift
+ trans_en: poison
+-lexeme
+ lex: Žapon/Žaponya
+ stem: Žapon.//Žaponya.
+ root: žpn
+ gramm: N,?
+ paradigm: unchangeable
+ trans_de: Japaner, japanisch
+ trans_en: Japanese
 -lexeme
  lex: žaponi
- stem: žaponi.|žaponiiye.
+ stem: žaponi.|žaponiye.
  root: žpn
  gramm: N,m
  paradigm: N2
- trans_de: iye Japoni m, pl –iye Japaner, japanisch
- trans_en: 
+ trans_de: Japaner, japanisch
+ trans_en: Japanese
+-lexeme
+ lex: žbona/žboni
+ stem: žbona//žboni.
+ root: žbn
+ gramm: prep
+ paradigm: unchangeable
+ trans_de: um ... willen, für
+ trans_en: for the sake of, for
 -lexeme
  lex: žeb/ǧeb
- stem: žeb/ǧeb.
+ stem: žeb.//ǧeb.|žeb.//ǧeb.
  root: žb/ǧb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tasche
- trans_en: 
+ trans_en: bag
+-lexeme
+ lex: žehati
+ stem: žehati.
+ root: žht
+ gramm: adj
+ paradigm: unchangeable
+ trans_de: tüchtig
+ trans_en: efficient
 -lexeme
  lex: žənbave
  stem: žənbave.
  root: žnbv
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Stiefmutter
- trans_en: 
+ trans_en: stepmother
 -lexeme
  lex: žənəke
  stem: žənəke.
  root: žnk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Frau
- trans_en: 
+ trans_en: woman
 -lexeme
  lex: žəniye/ǧəniye
- stem: žəniye/ǧəniye.
+ stem: žəniye.//ǧəniye.|žəniye.//ǧəniye.
  root: žny/ǧny
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geist, weiblicher Ǧinn
- trans_en: 
+ trans_en: Spirit, female genie
 -lexeme
  lex: žġayni/žġeni
  stem: žġayni./žġeni.
