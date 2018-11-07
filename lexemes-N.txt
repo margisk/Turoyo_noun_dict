@@ -1418,6 +1418,14 @@
  trans_de: genauso
  trans_en: the same; the same way as
 -lexeme
+ lex: ʕayn
+ stem: ʕayn.
+ root: ʕyn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Auge, Augapfel
+ trans_en: eye, eyeball
+-lexeme
  lex: ʕayna
  stem: ʕayna.|ʕaynat.
  root: ʕyn
@@ -1670,7 +1678,7 @@
  stem: ʕəlbəke.//ʕəlpəke.|ʕəlbkat.//ʕəlpkat.
  root: ʕlb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleiner Kasten
  trans_en: small box; matchbox
 -lexeme
