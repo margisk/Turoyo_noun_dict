@@ -8555,21 +8555,29 @@
  trans_de: (Leibes)-Umfang
  trans_en: type of bodyshape
 -lexeme
+ lex: daraǧa/daranǧe
+ stem: daraǧa.//daranǧe.|daraǧat.//daranǧat.
+ root: drǧ
+ gramm: N,f
+ paradigm: N2
+ trans_de: Grad, Stufe, Rang; Thermometer
+ trans_en: degree, stage; thermometer
+-lexeme
  lex: daraġ
  stem: daraġ.
  root: drġ
  gramm: N,m
  paradigm: N1
  trans_de: Steinhacke mit Zähnen an der einen Seite, zum Zurechtschlagen eines Steines
- trans_en: 
+ trans_en: pick with spikes on one side, to trim stones
 -lexeme
  lex: daram
  stem: daram.|darame.
  root: drm
  gramm: N,m
  paradigm: N2
- trans_de: kleines Gewicht
- trans_en: 
+ trans_de: sehr kleines Gewicht
+ trans_en: small weight, value
 -lexeme
  lex: daramke
  stem: daramke.
@@ -8579,85 +8587,92 @@
  trans_de: kleines Gewicht; lu-
  trans_en: 
 -lexeme
- lex: daranǧe
- stem: daranǧe.
- root: drǧ
- gramm: N,f
- paradigm: N1
- trans_de: a) Grad
- trans_en: 
+ lex: darang
+ stem: darang.
+ root: drng
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: spät
+ trans_en: late
 -lexeme
- lex: darbo
- stem: darbo.
+ lex: darbo/ḏ̣arbo
+ stem: darbo.//ḏ̣arbo.|darbat.//ḏ̣arbat.
  root: ḍrb
  gramm: N,f
  paradigm: N1
  trans_de: Schlag, Streich
- trans_en: 
+ trans_en: hit, strike
 -lexeme
  lex: darbo
  stem: darbo.|darbe.//darbone.
  root: drb
  gramm: N,m
  paradigm: N2
- trans_de: därbone Weg
- trans_en: 
+ trans_de: Weg
+ trans_en: road, way
 -lexeme
  lex: darbke
- stem: darbke.
+ stem: darbke.|darbkat.
  root: drb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Streichholz
- trans_en: 
+ trans_en: match
 -lexeme
  lex: dard
- stem: dard.
+ stem: dard.|dardat.
  root: drd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schmerz, Kummer, Anliegen
- trans_en: 
+ trans_en: pain, concern, striving for
 -lexeme
  lex: darga
- stem: darga.|dargaat.//dargahat.
+ stem: darga.|dargat.//dargahat.
  root: drg
  gramm: N,f
  paradigm: N2
- trans_de: därgahat Tor
- trans_en: 
+ trans_de: Tor
+ trans_en: gate
 -lexeme
- lex: darga(h)van
- stem: darga(h)van.|darga(h)vaniye.
- root: drg(h)vn
+ lex: dargahvan
+ stem: dargahvan.|dargahvaniye.
+ root: drghvn
  gramm: N,m
  paradigm: N2
- trans_de: iye Torhüter
- trans_en: 
+ trans_de: Torhüter
+ trans_en: door-keeper
 -lexeme
  lex: dargahvanči
- stem: dargahvanči.|dargahvančiiye.
+ stem: dargahvanči.|dargahvančiye.
  root: drghvnč
  gramm: N,m
  paradigm: N2
- trans_de: iye Torhüter
- trans_en: 
+ trans_de: Torhüter
+ trans_en: door-keeper
 -lexeme
  lex: dargilke
- stem: dargilke.
+ stem: dargilke.|dargilkat.
  root: drglk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Torverschluß aus Zweigen und Ruten
  trans_en: 
 -lexeme
  lex: dargəšto
- stem: dargəšto.|dargəšyoṯe.
+ stem: dargəšto.//dargušto.|dargəšyoṯe.//dargəšyoṯo.
  root: drgšt
  gramm: N,f
  paradigm: N2
- trans_de: a) Wiege b) Wickelkind c) Wiegenspiel
- trans_en: 
+ trans_de: Wiege; Wickelkind; Wiegenspiel
+ trans_en: craddle; infant; <?>
+-lexeme
+ lex: darġale
+ stem: darġale.
+ root: drġl
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Absätze, Treppen beim Haareschneiden
 -lexeme
  lex: darġo
  stem: darġo.|darġe.
