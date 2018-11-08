@@ -13734,7 +13734,7 @@
  stem: ǧip.//ǧib.//ǧibe.//žip.|ǧip.//ǧib.//ǧibe.//žip.
  root: ǧp
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N2
  trans_de: Jeep
  trans_en: Jeep
 -lexeme
@@ -39922,12 +39922,12 @@
  trans_en: 
 -lexeme
  lex: žaḥriye
- stem: žaḥriye.|žaḥriye.
+ stem: žaḥriye.
  root: žḥr
  gramm: N,f
  paradigm: unchangeable
  trans_de: Magenüberfüllung, Magenverstimmung
- trans_en: stommach upset, indigestion
+ trans_en: stomach upset, indigestion
 -lexeme
  lex: žan
  stem: žan.
