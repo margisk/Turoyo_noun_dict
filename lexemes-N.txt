@@ -13475,12 +13475,12 @@
  trans_en: 
 -lexeme
  lex: ǧən
- stem: ǧən.|id..//ǧənat.
+ stem: ǧən.|ǧən.//ǧənat.
  root: ǧnn
  gramm: N,m
  paradigm: N2
  trans_de: Geist
- trans_en: 
+ trans_en: spirit
 -lexeme
  lex: ǧənnawi
  stem: ǧənnawi.
@@ -39874,28 +39874,36 @@
  trans_en: 
 -lexeme
  lex: zuwade/zuwwade
- stem: zuwade/zuwwade.
+ stem: zuwade.//zuwwade.
  root: zwd/zwd
  gramm: N,f
- paradigm: N1
- trans_de: a) Wegzehrung b) Gerät zum Sticken
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Wegzehrung; Gerät zum Sticken
+ trans_en: provisions for the jorney; embroidery machine
 -lexeme
  lex: zuxto
  stem: zuxto.|zoġoṯe.
  root: zxt
  gramm: N,f
  paradigm: N2
- trans_de: zuxto f, pl
- trans_en: 
+ trans_de: einjähriges, weibliches Küken
+ trans_en: year old, female chicken
+-lexeme
+ lex: zvənge
+ stem: zvənge.
+ root: zvng
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: verlassenes Dorf; Höhlengebiet
+ trans_en: abandoned village; cave area
 -lexeme
  lex: zwayye
  stem: zwayye.
  root: zwy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Winkelmaß
- trans_en: 
+ trans_en: angle
 -lexeme
  lex: zyara
  stem: zyara.|zyarat.
@@ -39903,23 +39911,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wallfahrtsstätte, Heiligengrab, Friedhof
- trans_en: 
+ trans_en: pilgrimage site, shrine, cemetery
 -lexeme
  lex: zyono
  stem: zyono.
  root: zyn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schaden
- trans_en: 
+ trans_en: shame
+-lexeme
+ lex: žabaš
+ stem: žabaš.|žabaš.
+ root: žbš
+ gramm: N,f
+ paradigm: N2
+ trans_de: Wassermelone
+ trans_en: Watermelons
 -lexeme
  lex: žaḥr
  stem: žaḥr.
  root: žḥr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gift
- trans_en: 
+ trans_en: poison
+-lexeme
+ lex: žaḥr w zuqqūm
+ stem: ?
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: Siebensachen, Krimskrams
+ trans_en: things, knickknack
 -lexeme
  lex: žaḥriye
  stem: žaḥriye.
@@ -40023,7 +40047,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Geist, weiblicher Ǧinn
- trans_en: Spirit, female genie
+ trans_en: spirit, female genie
 -lexeme
  lex: žġayni/žġeni
  stem: žġayni./žġeni.
