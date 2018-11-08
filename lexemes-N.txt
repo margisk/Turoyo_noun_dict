@@ -8680,15 +8680,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Treppenstufe
- trans_en: 
+ trans_en: footstep
+-lexeme
+ lex: darḥal
+ stem: darḥal.
+ root: drḥl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sogleich
+ trans_en: immediately
 -lexeme
  lex: darizan
  stem: darizan.
  root: drzn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Empfangshalle, Inneres des Hauses
- trans_en: 
+ trans_en: hall, inner parts of a house
 -lexeme
  lex: darizane
  stem: darizane.
@@ -8703,72 +8711,80 @@
  root: drk
  gramm: N,m
  paradigm: N2
- trans_de: a) Scholle beim Pflügen. 	b) Stück trockener Erde c) Stück Mist
- trans_en: 
+ trans_de: Scholle beim Pflügen; Stück trockener Erde; Stück Mist
+ trans_en: piece of dry soil; piece of dung
 -lexeme
  lex: darkutkut
  stem: darkutkut.
  root: drktkt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Specht
- trans_en: 
+ trans_en: woodpecker
 -lexeme
  lex: darmala
- stem: darmala.|id..//darmalawat.
+ stem: darmala.|darmalawat.
  root: drml
  gramm: N,m
  paradigm: N2
- trans_de: därmalawat Mastvieh
- trans_en: 
+ trans_de: Mastvieh
+ trans_en: mast-fed cattle
 -lexeme
  lex: darmono
  stem: darmono.|darmone.
  root: drmn
  gramm: N,m
  paradigm: N2
- trans_de: a) Heilmittel b) Schießpulver
- trans_en: 
+ trans_de: Heilmittel; Schießpulver
+ trans_en: medicine; powder, gunpowder
 -lexeme
  lex: darno
  stem: darno.
  root: drn
  gramm: N,m
- paradigm: N1
- trans_de: Insekten hervorgebrachtes, kleines Loch in der Haut der Tiere
- trans_en: 
+ paradigm: <?>
+ trans_de: von Insekten hervorgebrachtes, kleines Loch in der Haut der Tiere
+ trans_en: small hole in animals' skin, produces by insects
 -lexeme
  lex: dars
- stem: dars.|darsat.
+ stem: dars.//darz.|darsat.//darzat.
  root: drs
  gramm: N,m
  paradigm: N2
  trans_de: Unterricht(sstunde), Schulaufgabe
- trans_en: 
+ trans_en: lesson, homework
+-lexeme
+ lex: darwande
+ stem: darwande.|darwandat.
+ root: drwnd
+ gramm: N,f
+ paradigm: N2
+ trans_de: Oberbrett des Türrahmens bei den Türen früherer Zeit. Die Türe hatte keine seitlich angebrachten Angeln, sonder an der Drehstelle drehte sich je ein Bolzen in ein Loch in dem Rahmen oben und unten
+ trans_en: upper board in a door frame of the doors in earlier times. A door had no side hinges, but instead a bolt was spinning into a hole in the door frame, at the bottom and at the top
 -lexeme
  lex: darweš
- stem: darweš.|darwešin.//-iye.//id..//darawiš.//darwešat.
+ stem: darweš.//darwiš.|darwešin.//darwešiye.//darawiš.//darwešat.//darwiš.
  root: drwš
  gramm: N,m
  paradigm: N2
  trans_de: Derwisch
- trans_en: 
--lexeme
- lex: darwiš
- stem: darwiš.|darwiš.
- root: drwš
- gramm: N,m
- paradigm: N2
- trans_de: Derwisch
- trans_en: 
+ trans_en: dervish
 -lexeme
  lex: darze
- stem: darze.
+ stem: darze.|darzat.
  root: drz
  gramm: N,f
  paradigm: N1
  trans_de: Naht
- trans_en: 
+ trans_en: seam
+-lexeme
+ lex: darziyapira
+ stem: darziyapira.|darziyapirat.
+ root: drzpr
+ gramm: N
+ paradigm: N2
+ trans_de: Moschus-Reiherschnabel, Erodium moschatum L.
+ trans_en: musk stork's-bill, Erodium moschatum
 -lexeme
  lex: daskara
  stem: daskara.|daskarat.
@@ -8776,71 +8792,95 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ausweis, Entlassungsschein vom Militärdienst
- trans_en: 
+ trans_en: identity card, military leave certificate
 -lexeme
  lex: dastare
- stem: dastare.
+ stem: dastare.|dastarat.
  root: dstr
  gramm: N,f
- paradigm: N1
- trans_de: Handmühle; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Handmühle
+ trans_en: hand-mill
 -lexeme
- lex: dast(ə)ke
- stem: dast(ə)ke.
+ lex: dastəke/dastke
+ stem: dastəke.//dastke.|dastəkat.//dastkat.
  root: dst()k
  gramm: N,f
- paradigm: N1
- trans_de: a) Griff der Handtasche b) Griff der Handmühle
- trans_en: 
+ paradigm: N2
+ trans_de: Griff der Handtasche; Griff der Handmühle
+ trans_en: handle of a bag; handle of a hand-mill
 -lexeme
  lex: dastiǧaġ
  stem: dastiǧaġ.
  root: dstǧġ
  gramm: N,m
- paradigm: N1
- trans_de: das
+ paradigm: <?>
+ trans_de:
  trans_en: 
 -lexeme
+ lex: dastkaš
+ stem: dastkaš
+ root: dstkš
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: mit der Hand am Zügel führen
+ trans_en: to lead by reins
+-lexeme
  lex: dastlapke
- stem: dastlapke.
+ stem: dastlapke.|dastlapkat.
  root: dstlpk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: mit den Händen im Streit fuchteln, bei Katern mit den Pfoten
  trans_en: 
 -lexeme
+ lex: dastnimež
+ stem: dastnimež.
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Gebetswaschung
+ trans_en: ablution
+ stem: 
+-lexeme
  lex: dasto
- stem: dasto.
+ stem: dasto.|daste.
  root: dst
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: großes Kupferbecken (größer als lägän), Kessel
- trans_en: 
+ trans_en: big copper basin (bigger than lagan), cauldron
 -lexeme
- lex: daṣṭər
- stem: daṣṭər.
+ lex: daṣṭər/daṣṭur/dastur/dastər
+ stem: daṣṭər.//daṣṭur.//dastur.//dastər.|daṣṭərat.//daṣṭurat.//dastərat.//dasturat.
  root: dṣṭr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Erlaubnis
- trans_en: 
+ trans_en: permission
+-lexeme
+ lex: daṣi
+ stem: daṣi.
+ root: dṣy
+ gramm: N
+ paradigm: <?>
+ trans_de: zweizeilige Gerste, Hordeum distichon
+ trans_en: two-row barley, Hordeum distichon
 -lexeme
  lex: dašəšto
- stem: dašəšto.
+ stem: dašəšto.|dašəšyoṯo.//dašəšyoṯe.
  root: dšt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Art kalter Milchsuppe
- trans_en: 
+ trans_en: a type of cold milk-soup
 -lexeme
  lex: dašto
  stem: dašto.
  root: dšt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ebene
- trans_en: 
+ trans_en: plain
 -lexeme
  lex: davdavko
  stem: davdavko.
