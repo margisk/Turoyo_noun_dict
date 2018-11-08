@@ -39953,6 +39953,14 @@
  trans_de: Japaner, japanisch
  trans_en: Japanese
 -lexeme
+ lex: žare way kido!
+ stem: ?
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: ?
+ trans_en: ?
+-lexeme
  lex: žbona/žboni
  stem: žbona//žboni.
  root: žbn
@@ -39960,6 +39968,22 @@
  paradigm: unchangeable
  trans_de: um ... willen, für
  trans_en: for the sake of, for
+-lexeme
+ lex: žboyi d-
+ stem: žboyi d-.
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: ?
+ trans_en: ?
+-lexeme
+ lex: ždamda
+ stem: ždamda.
+ root: ždmd
+ gramm: ?
+ paradigm: ?
+ trans_de: ?
+ trans_en: ?
 -lexeme
  lex: žeb/ǧeb
  stem: žeb.//ǧeb.|žeb.//ǧeb.
