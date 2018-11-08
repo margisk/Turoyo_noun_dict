@@ -1674,10 +1674,10 @@
  trans_de: a) Kasten b) Getreidemaß, Scheffel
  trans_en: 
 -lexeme
- lex: ʕəlbəke/ʕəlpəke
- stem: ʕəlbəke.//ʕəlpəke.|ʕəlbkat.//ʕəlpkat.
+ lex: ʕəlbəke/ʕəlpəke/ʕulbəke
+ stem: ʕəlbəke.//ʕəlpəke.//ʕulbəke.|ʕəlbkat.//ʕəlpkat.//ʕulbəkat.
  root: ʕlb
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kleiner Kasten
  trans_en: small box; matchbox
@@ -2167,14 +2167,6 @@
  paradigm: N2
  trans_de: Kasten, Getreidemaß, Scheffel
  trans_en: box; a measure for grain
--lexeme
- lex: ʕulbəke
- stem: ʕulbəke.|ʕulbəkat.
- root: ʕlb
- gramm: N,f
- paradigm: N2
- trans_de: a) Kästchen b) Streichholz
- trans_en: 
 -lexeme
  lex: ʕulbo/ʕəlbo
  stem: ʕulbo.//ʕəlbo.|ʕelab.//ʕəlbe.//ʕəlbat.
