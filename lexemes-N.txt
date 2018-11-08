@@ -2715,8 +2715,16 @@
  root: ġlb
  gramm: ADV
  paradigm: unchangeable
- trans_de: die Meisten; meistens
+ trans_de: meistens
  trans_en: generally, in most cases
+-lexeme
+ lex: aġlab
+ stem: aġlab.
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: die Meisten
+ trans_en: most (of)
+ lex: a
 -lexeme
  lex: aġro
  stem: aġro.
@@ -2732,7 +2740,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: "mit Respekt zu vermelden!"
- trans_en: "let me report" (?)
+ trans_en: "let me report"
 -lexeme
  lex: aǧanəb
  stem: aǧanəb.
@@ -18555,7 +18563,7 @@
  trans_en: 
 -lexeme
  lex: kurd
- stem: kurd.|kurdiye,.
+ stem: kurd.|kurdiye.//krad.
  root: krd
  gramm: N,m
  paradigm: N2
