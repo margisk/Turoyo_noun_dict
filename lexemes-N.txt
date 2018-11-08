@@ -8886,9 +8886,9 @@
  stem: davdavko.
  root: dvdvk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Maulkorb für Kühe und Ochsen, Maulschlinge
- trans_en: 
+ trans_en: muzzle for cows, oxen; mouth rope (?)
 -lexeme
  lex: dave
  stem: dave.|davat.
@@ -8896,63 +8896,95 @@
  gramm: N,f
  paradigm: N2
  trans_de: Vogelschlinge aus Schwanzhaar der Esel oder Pferde
- trans_en: 
+ trans_en: clap-net from tail hair of donkeys or horses
 -lexeme
  lex: davare
- stem: davare.
+ stem: davare.|davarat.
  root: dvr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Lücke, Spalt in der Mauer (durch das man z. B. ein Pferd stehlen kann)
- trans_en: 
+ trans_en: an opening, crack in a wall (through which one can for example steal a horse)
+-lexeme
+ lex: davgahkat
+ stem: davgahkat.
+ root: dvghk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Gerät mit dem man dem Dreschochsen das Maul verbindet, Art Maulkorb
+ trans_en: instrument with which one shuts the mouth of oxen who thresh, a type of muzzle
 -lexeme
  lex: dawa
- stem: dawa.
+ stem: dawa.|dawat.
  root: dwʔ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Heilmittel
- trans_en: 
+ trans_en: medicine
+-lexeme
+ lex: dawam
+ stem: dawam.
+ root: dwm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Fortsetzung
+ trans_en: continuation
+-lexeme
+ lex: dawamli
+ stem: dawamli.
+ root: dwm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: längere Zeit hintereinander
+ trans_en: long time without breaks
+-lexeme
+ lex: dawġe
+ stem: dawġe.
+ root: dwġ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: flüssiger Joghurt, Ayran
+ trans_en: watery jogurt, ayran
 -lexeme
  lex: dawke
- stem: dawke.
+ stem: dawke.|dawkat.
  root: dwk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gewandsaum
- trans_en: 
+ trans_en: hem on clothes
+-lexeme
+ lex: dawla/dawle
+ stem: dawla.//dawle.|dawlat.//dawlawat.
+ root: dwl
+ gramm: N,f
+ paradigm: N2
+ trans_de: Herrschaft, Regierung, Staat, Obhut
+ trans_en: power, government, state, supervision
 -lexeme
  lex: dawla
  stem: dawla.|dawlat.
  root: dwl
  gramm: N,f
  paradigm: N2
- trans_de: dawlawat Mi
- trans_en: 
+ trans_de: Glück
+ trans_en: happiness
 -lexeme
- lex: dawlat
- stem: dawlat.
- root: dwlt
- gramm: N,m
- paradigm: N1
- trans_de: Staatschef
- trans_en: 
--lexeme
- lex: dawle
- stem: dawle.|dawlat.
+ lex: dawlatli
+ stem: dawlatli.
  root: dwl
- gramm: N,f
- paradigm: N2
- trans_de: a) Regierung, Staat b) Reichtum
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: vom Glücke gesegnet, reich
+ trans_en: blessed with fortune, rich
 -lexeme
  lex: dawləko
- stem: dawləko.
+ stem: dawləko.|dawləke.
  root: dwlk
- gramm: N,m
+ gramm: N,m,dim
  paradigm: N1
  trans_de: kleiner Ledereimer
- trans_en: 
+ trans_en: small leather bucket
 -lexeme
  lex: dawlo
  stem: dawlo.|dawle.
@@ -8960,7 +8992,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ledereimer
- trans_en: 
+ trans_en: leather bucket
 -lexeme
  lex: dawmo
  stem: dawmo.|dawme.
@@ -8968,7 +9000,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Baum
- trans_en: 
+ trans_en: tree
 -lexeme
  lex: daworo
  stem: daworo.|dawore.
@@ -8976,39 +9008,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Pflüger, Landmann, Ackermann
- trans_en: 
+ trans_en: farmer, plowman
 -lexeme
  lex: dawqo
  stem: dawqo.|dawqe.
  root: dwq
  gramm: N,m
  paradigm: N2
- trans_de: a) rundes, etwas gewölbtes Blech zum Brotbacken b) das darauf gebackene Fladenbrot
- trans_en: 
+ trans_de: rundes, etwas gewölbtes Blech zum Brotbacken; das darauf gebackene Fladenbrot
+ trans_en: round, a bid budging tray for baking bread; flat bread
 -lexeme
  lex: dawra
  stem: dawra.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Runde, Rundgang (auch in der Kirche)
- trans_en: 
+ trans_en: circle, round (also in church)
 -lexeme
  lex: dawrənto
- stem: dawrənto.|dawrənyoṯo.
+ stem: dawrənto.|dawrənyoṯo.//dawrənyoṯe.
  root: dwr
  gramm: N,f
  paradigm: N2
- trans_de: Wirbel (des Staubes in der Luft); pl
- trans_en: 
+ trans_de: Wirbel (des Staubes in der Luft)
+ trans_en: whirlwind (of dust in the air)
 -lexeme
  lex: dawriye
- stem: dawriye.
+ stem: dawriye.|dawriyat.
  root: dwr
  gramm: N,f
  paradigm: N1
  trans_de: Kontrollgang
- trans_en: 
+ trans_en: inspection round
 -lexeme
  lex: dawro
  stem: dawro.|dawre.
