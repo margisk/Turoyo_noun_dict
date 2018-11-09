@@ -9039,8 +9039,8 @@
  root: dwr
  gramm: N,m
  paradigm: N2
- trans_de: a) Reihe, an die man kommt b) Runde, die ein Glücksvogel fliegt
- trans_en: 
+ trans_de: Reihe, an die man kommt; Runde, die ein Glücksvogel fliegt
+ trans_en: queue; round which a bird makes
 -lexeme
  lex: dawse
  stem: dawse.|dawsat.
@@ -9048,55 +9048,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fußabdruck, Fußspur
- trans_en: 
+ trans_en: footstep, trace
 -lexeme
  lex: dawsgarren
  stem: dawsgarren.
  root: dws
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fußspuren erkennnend, aufspürend
- trans_en: 
+ trans_en: one who recognizes footprints, tracking down
 -lexeme
  lex: dawšak
- stem: dawšak.|dwešək.//dawešək.
+ stem: dawšak.//došak.|dwešək.//dawešək.//dawšakat.//došake.
  root: dwšk
  gramm: N,m
  paradigm: N2
  trans_de: Polster, Pfühl
- trans_en: 
+ trans_en: matras, stuffing, feather-bed
 -lexeme
  lex: dawšo
- stem: dawšo.
+ stem: dawšo.|dawšone.
  root: dbš
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Honig
- trans_en: 
+ trans_en: honey
 -lexeme
  lex: dawšono
- stem: dawšono.
+ stem: dawšono.|dawšone.
  root: dbš
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: ADJ
+ trans_de: honigfarben, braun
+ trans_en: honey-coloured, brown
+-lexeme
+ lex: daxil
+ stem: daxil.
+ root: dxl
+ gramm: N,m
+ paradimg: unchangeable
+ trans_de: Um Gottes Willen! Erbarmen! Schutz!
+ trans_en: for God's sake! have mercy! protect (me)!
 -lexeme
  lex: daxl
  stem: daxl.
  root: dxl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Getreide
- trans_en: 
+ trans_en: corn
 -lexeme
  lex: daxro
- stem: daxro.
+ stem: daxro.|daxre.
  root: dxr
  gramm: N,m
- paradigm: N1
- trans_de: Penis vom
- trans_en: 
+ paradigm: N2
+ trans_de: Penis vom 18. bis zum 40. Jahre
+ trans_en: penis
 -lexeme
  lex: daydiye
  stem: daydiye.|daydiyat.
@@ -9104,31 +9112,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schaukel, Hängematte
- trans_en: 
+ trans_en: swing, hammock
 -lexeme
  lex: dayine
- stem: dayine.
+ stem: dayine.|dayinat.
  root: dyn
  gramm: N,f
  paradigm: N1
  trans_de: Amme
- trans_en: 
+ trans_en: wet nurse
 -lexeme
  lex: dayira
- stem: dayira.|dawayir.//dayiraat.
+ stem: dayira.//dayra.|dawayər.//dayirat.//dayrat.
  root: dwr
  gramm: N,f
  paradigm: N2
- trans_de: a) Kreis, Ring b) Amtsgebäude c) Gemach
- trans_en: 
+ trans_de: Kreis, Ring; Amtsgebäude; Gemach
+ trans_en: circle, ring; department building; show room
 -lexeme
  lex: dayoqo
- stem: dayoqo.
+ stem: dayoqo.|dayoqe.
  root: dyq
  gramm: N,m
- paradigm: N1
- trans_de: Spieler; dayoqo d-kamana
- trans_en: 
+ paradigm: N2
+ trans_de: Spieler
+ trans_en: player of an insrument, musician
+-lexeme
+ lex: dayndar
+ stem: dayndar.
+ root: dyndr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verschuldet
+ trans_en: having debts
 -lexeme
  lex: dayno
  stem: dayno.|dayne.
@@ -9136,7 +9152,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schuld, geborgtes Geld
- trans_en: 
+ trans_en: debt, hidden gold
 -lexeme
  lex: dayro
  stem: dayro.|dayre.
@@ -9144,55 +9160,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kloster
- trans_en: 
+ trans_en: monastery
 -lexeme
  lex: dayroyo
- stem: dayroyo.|m.
+ stem: dayroyo.|dayroye.
  root: dwr
  gramm: N,m
  paradigm: N2
- trans_de: Mönch, Nonne
- trans_en: 
+ trans_de: Mönch
+ trans_en: monk
 -lexeme
  lex: dayroyuṯo
  stem: dayroyuṯo.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mönchtum
- trans_en: 
+ trans_en: monasticism
 -lexeme
- lex: daywəz
- stem: daywəz.
+ lex: daywəz/dayuz/dayyuz
+ stem: daywəz.//dayuz.//dayyuz.
  root: dywz
  gramm: N,m
  paradigm: N1
  trans_de: Hahnrei
- trans_en: 
+ trans_en: capon
 -lexeme
  lex: daywo
  stem: daywo.
  root: dyw
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wahnsinn
- trans_en: 
+ trans_en: madness
 -lexeme
  lex: daywono
  stem: daywono.|daywone.
  root: dywn
  gramm: N,m
  paradigm: N2
- trans_de: PrS
- trans_en: 
--lexeme
- lex: dayyuz
- stem: dayyuz.
- root: dyz
- gramm: N,m
- paradigm: N1
- trans_de: Hahnrei, Taugenichts
- trans_en: 
+ trans_de: geistesgestört, verrückt, tollwütig, toll
+ trans_en: crazy, insane, mad
 -lexeme
  lex: dazkara
  stem: dazkara.
@@ -9203,36 +9211,60 @@
  trans_en: 
 -lexeme
  lex: dazga
- stem: dazga.
+ stem: dazga.|dazgat.
  root: dzg
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Werkstatt, Handwerkszeug
- trans_en: 
+ trans_en: workshop, set of tools
 -lexeme
- lex: deburo
- stem: deburo.|debure.
+ lex: deburo/dəburo
+ stem: deburo.//dəburo.|debure.//dəbure.
  root: dbr
  gramm: N,m
  paradigm: N2
  trans_de: Wespe, Hornisse, rot und schwarze Hornisse, Vespa orientalis
- trans_en: 
+ trans_en: wasp, hornet, red and black hornets, Vespa orientalis
+-lexeme
+ lex: deǧido
+ stem: deǧido.
+ root: dǧd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Hin- und Hergehen, Reiten
+ trans_en: coming and going, riding
 -lexeme
  lex: dele
- stem: dele.
+ stem: dele.|delat.
  root: dl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hündin
- trans_en: 
+ trans_en: she-dog
+-lexeme
+ lex: demak
+ stem: demak.
+ root: dmk
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: das heißt, also
+ trans_en: that means, so
 -lexeme
  lex: deragule
- stem: deragule.
+ stem: deragule.|deragulat.
  root: drgl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Wölfin
- trans_en: 
+ trans_en: she-wolf
+-lexeme
+ lex: deri
+ stem: deri.
+ root: dr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: 
+ trans_en: next
 -lexeme
  lex: dewo
  stem: dewo.|dewe.
@@ -9240,63 +9272,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Wolf
- trans_en: 
+ trans_en: wolf
 -lexeme
  lex: dexono
- stem: dexono.|dexone.
+ stem: dexono.//dəxono.//duxono.|dexone.//dəxone.//duxone.
  root: dxn
  gramm: N,m
  paradigm: N2
  trans_de: Rauch
- trans_en: 
+ trans_en: smoke
 -lexeme
  lex: dəbbe
  stem: dəbbe.|dibab.
  root: dbb
  gramm: N,f
  paradigm: N2
- trans_de: dibab Bärin
- trans_en: 
+ trans_de: Bärin
+ trans_en: she-bear
 -lexeme
  lex: dəbḥo
  stem: dəbḥo.
  root: ḏbḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Opfer
- trans_en: 
+ trans_en: sacrifice
 -lexeme
  lex: dəbolo
- stem: dəbolo.
+ stem: dəbolo.|dəbole.
  root: dbl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ringkampf
- trans_en: 
+ trans_en: fighting, wrestling
 -lexeme
- lex: dəburo
- stem: dəburo.
+ lex: dəbrak
+ stem: dəbrak.
  root: dbr
  gramm: N,m
- paradigm: N1
- trans_de: Wespe
- trans_en: 
+ paradigm: <?>
+ trans_de: zwei Brüderchen, weil immer zwei zusammenleben, Steppenhuhn, Pterocles
+ trans_en: <?>, Pallas sand grouse, Pterocles
+-lexeme
+ lex: dədrayso
+ stem: dədrayso.
+ root: ddrys
+ gramm: N
+ paradigm: <?>
+ trans_de: sehr große, schöne Trauben (gibt es nur in der Rayite)
+ trans_en: big and beautiful grapes (exist only in Rayite)
 -lexeme
  lex: dədwono
  stem: dədwono.|dədwone.
  root: dwn
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Fliege
+ trans_en: fly
 -lexeme
  lex: dəfra
  stem: dəfra.
  root: dfr
  gramm: N,f
  paradigm: N1
- trans_de: a) Eitelkeit, sich herausputzen, modisch kleiden b) Stoß
- trans_en: 
+ trans_de: Eitelkeit, sich herausputzen, modisch kleiden
+ trans_en: showing off, dressing oneself, dressing fashionably
 -lexeme
  lex: dəgdəgan
  stem: dəgdəgan.|dəgdəganat.
@@ -9304,15 +9344,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dreifuß, unter dem man Feuer macht und auf den man Töpfe setzt zum Kochen
- trans_en: 
+ trans_en: tripod under which a fire is made and on which pots are placed while cooking
 -lexeme
- lex: dəgušto
- stem: dəgušto.|dəgušyoṯo.
+ lex: dəgušto/dgušto
+ stem: dəgušto.//dgušto.|dəgušyoṯo.//dəgušyoṯe.//dgušyoṯo.//dgušyoṯe.
  root: dgšt
  gramm: N,f
  paradigm: N2
  trans_de: irdener Topf, Krug
- trans_en: 
+ trans_en: clay pot, pitcher
+-lexeme
+ lex: dəhn
+ stem: dəhn.
+ root: dhn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Aufmerksamkeit, Beobachtung, Scharfsinn
+ trans_en: attention, observation, astuteness
 -lexeme
  lex: dəḥdəḥake
  stem: dəḥdəḥake.|dəḥdəḥakat.
@@ -9320,7 +9368,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Glasscherbe
- trans_en: 
+ trans_en: shard of glass
+-lexeme
+ lex: dəkke
+ stem: dəkke.|dəkkat.
+ root: dkk
+ gramm: N,f
+ paradigm: N2
+ trans_de: Gemäuer
+ trans_en: stonework
 -lexeme
  lex: dəkomo
  stem: dəkomo.|dəkome.
@@ -9330,13 +9386,13 @@
  trans_de: Faust
  trans_en: 
 -lexeme
- lex: dəlabo
- stem: dəlabo.
- root: dlb
- gramm: N,m
- paradigm: N1
- trans_de: Haspel
- trans_en: 
+ lex: dəkronoyo/dukronoyo
+ stem: dəkronoyo.//dukronoyo.|dukronoye.//dəkronoye.
+ root: dkr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: masculinum
+ trans_en: masculine
 -lexeme
  lex: dənnage
  stem: dənnage.|dənnagat.
