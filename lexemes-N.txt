@@ -39897,14 +39897,6 @@
  trans_de: Knopf
  trans_en: 
 -lexeme
- lex: zvinge
- stem: zvinge.
- root: zvng
- gramm: N,f
- paradigm: N1
- trans_de: verlassenes Dorf; Höhlengebiet
- trans_en: 
--lexeme
  lex: zŭgurd
  stem: zŭgurd.
  root: zŭgrd
@@ -39961,11 +39953,11 @@
  trans_de: einjähriges, weibliches Küken
  trans_en: year old, female chicken
 -lexeme
- lex: zvənge
- stem: zvənge.
+ lex: zvənge/zvinge
+ stem: zvənge.//zvinge.
  root: zvng
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: verlassenes Dorf; Höhlengebiet
  trans_en: abandoned village; cave area
 -lexeme
@@ -39973,7 +39965,7 @@
  stem: zwayye.
  root: zwy
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Winkelmaß
  trans_en: angle
 -lexeme
@@ -39986,12 +39978,12 @@
  trans_en: pilgrimage site, shrine, cemetery
 -lexeme
  lex: zyono
- stem: zyono.
+ stem: zyono.|zyone.
  root: zyn
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N2
  trans_de: Schaden
- trans_en: shame
+ trans_en: damage
 -lexeme
  lex: žabaš
  stem: žabaš.|žabaš.
