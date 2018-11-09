@@ -2854,14 +2854,6 @@
  trans_de: Bruderschaft
  trans_en: brotherhood
 -lexeme
- lex: akabər
- stem: akabər.
- root: kbr
- gramm: ADJ
- paradigm: unchangeable
- trans_de: große
- trans_en: big
--lexeme
  lex: akṯariye
  stem: akṯariye.
  root: kṯr
@@ -3327,7 +3319,7 @@
  trans_en: again
 -lexeme
  lex: arġalto
- stem: arġalto.
+ stem: arġalto.|arġalyoṯe.//arġalyoṯo.
  root: rġlt
  gramm: N,f
  paradigm: N1
