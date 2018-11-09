@@ -2854,8 +2854,8 @@
  trans_de: Bruderschaft
  trans_en: brotherhood
 -lexeme
- lex: akabir
- stem: akabir.
+ lex: akabər
+ stem: akabər.
  root: kbr
  gramm: ADJ
  paradigm: unchangeable
