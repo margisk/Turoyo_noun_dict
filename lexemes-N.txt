@@ -39513,6 +39513,14 @@
  trans_de: Goldschmied, Silberschmied
  trans_en: 
 -lexeme
+ lex: zəġuno/zoġuno
+ stem: zəġuno.//zoġuno.|zəġune.//zoġune.
+ root: zġn
+ gramm: N,m
+ paradigm: N2
+ trans_de: Küken, Küchel
+ trans_en: chicken, chick
+-lexeme
  lex: zəha
  stem: zəha.
  root: zh
@@ -39765,65 +39773,81 @@
  stem: ziqa.
  root: ḍyq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bedrängnis
- trans_en: 
+ trans_en: distress
+-lexeme
+ lex: ziqen
+ stem: ziqen.
+ root: zqn
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Ton der Mundharmonika
+ trans_en: sound of the harmonica
+-lexeme
+ lex: ziqziq
+ stem: ziqziq.
+ root: zqzq
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Geräusch
+ trans_en: noise
 -lexeme
  lex: ziraʕa
  stem: ziraʕa.
  root: zrʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Landwirtschaft
- trans_en: 
+ trans_en: agriculture
 -lexeme
  lex: zirav
  stem: zirav.
  root: zrv
  gramm: N,m
- paradigm: N1
- trans_de: Gallenblase; fig: Mut
- trans_en: 
+ paradigm: <?>
+ trans_de: Gallenblase; Mut
+ trans_en: gallbladder; courage
 -lexeme
  lex: ziyara
- stem: ziyara.
+ stem: ziyara.|ziyarat.
  root: zwr
  gramm: N,f
- paradigm: N1
- trans_de: Besuch
- trans_en: 
--lexeme
- lex: ziyudo
- stem: ziyudo.|ziyude.
- root: zyd
- gramm: N,m
  paradigm: N2
- trans_de: Zugabe, obendrein
- trans_en: 
+ trans_de: Besuch; Wallfahrtstätte, bei der man schwört
+ trans_en: visit; piligrimage site that people swear by
 -lexeme
  lex: zizono
  stem: zizono.
  root: zzn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schuppenkopf, Cephalaria spec., Unkraut
- trans_en: 
+ trans_en: Cephalaria, weed
 -lexeme
- lex: zmarto
- stem: zmarto.|zmaryoṯe.
+ lex: zlam
+ stem: zlam.|zlame//zlamat
+ root: zzn
+ gramm: N,m
+ paradigm: N2
+ trans_de: Mann
+ trans_en: man
+-lexeme
+ lex: zluġliġo du gliḏo
+ stem: zluġliġo du gliḏo.
+ root: zlġlġ dglḏ
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Eisbrocken
+ trans_en: chunks of ice
+-lexeme
+ lex: zmərto/zmarto
+ stem: zmərto.//zmarto.|zmiryoṯo.//zmaryoṯe
  root: zmr
  gramm: N,f
  paradigm: N2
  trans_de: Lied, Gesang
- trans_en: 
--lexeme
- lex: zmərto
- stem: zmərto.|zmiryoṯo.
- root: zmr
- gramm: N,f
- paradigm: N2
- trans_de: Lied, Gesang pl
- trans_en: 
+ trans_en: song, chant
 -lexeme
  lex: zoġo
  stem: zoġo.|zoġe.
@@ -39831,55 +39855,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hahn
- trans_en: 
+ trans_en: rooster
 -lexeme
- lex: zoġuno
- stem: zoġuno.|zoġune.
- root: zġn
- gramm: N,m
- paradigm: N2
- trans_de: Küken, Küchel pl
- trans_en: 
--lexeme
- lex: zolumo
- stem: zolumo.
+ lex: zolumo/ḏ̣olumo
+ stem: zolumo.//ḏ̣olumo
  root: ẓlm
  gramm: N,m
- paradigm: N1
- trans_de: zolumto Tyrann, tyrannisch, gewalttätig
- trans_en: 
+ paradigm: <?>
+ trans_de: Tyrann, tyrannisch, gewalttätig
+ trans_en: tyrant, tyranic, violent
 -lexeme
  lex: zor
  stem: zor.
  root: zr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gewalt
- trans_en: 
+ trans_en: violence
 -lexeme
  lex: zoriye
  stem: zoriye.
  root: zry
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gewalt, Gewaltherrschaft
- trans_en: 
+ trans_en: violence, tyranny
 -lexeme
  lex: zowudo
  stem: zowudo.|zowude.
  root: zyd
  gramm: N,m
  paradigm: N2
- trans_de: die Restlichen, Überbleibenden“
- trans_en: 
+ trans_de: die Restlichen, Überbleibenden
+ trans_en: the rest, leftovers
 -lexeme
- lex: zoyudo
- stem: zoyudo.|zoyude.
+ lex: zowəd/zoyəd
+ stem: zowəd.//zoyəd
+ root: zyd
+ gramm: adv
+ paradigm: unchangeable
+ trans_de: mehr (als), überschüssig
+ trans_en: more (than), to excess 
+-lexeme
+ lex: zoyudo/ziyudo
+ stem: zoyudo.//ziyudo|zoyude.//ziyude
  root: zyd
  gramm: N,m
  paradigm: N2
- trans_de: Yu
- trans_en: 
+ trans_de: mehr, Zugabe, obendrein
+ trans_en: more, addition, on top of that
 -lexeme
  lex: zozan
  stem: zozan.|zozanat.
@@ -39887,31 +39911,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hochland, wo man den Sommer verbringt
- trans_en: 
+ trans_en: Highlands where one spends the summer
 -lexeme
  lex: zraʕlo
  stem: zraʕlo.
  root: zrʕl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Knopf
- trans_en: 
+ trans_en: button
 -lexeme
- lex: zŭgurd
- stem: zŭgurd.
- root: zŭgrd
- gramm: N,m
- paradigm: N1
+ lex: zu b-zu
+ stem: zu b-zu.
+ root: zbz
+ gramm: adv
+ paradigm: unchangeable
+ trans_de: schnell, leicht
+ trans_en: fast, easy
+-lexeme
+ lex: zugurd
+ stem: zugurd.
+ root: zgrd
+ gramm: ?
+ paradigm: <?>
  trans_de: Habenichts, Tagedieb
- trans_en: 
+ trans_en: have-not, idler
 -lexeme
  lex: zugurda
  stem: zugurda.
  root: zgrd
- gramm: N,m
- paradigm: N1
+ gramm: ?
+ paradigm: <?>
  trans_de: Müßiggänger
- trans_en: 
+ trans_en: idler
 -lexeme
  lex: zuḥṯo
  stem: zuḥṯo.|zuḥṯe.
@@ -39919,29 +39951,45 @@
  gramm: N,f
  paradigm: N2
  trans_de: Furcht, Angst
- trans_en: 
+ trans_en: fear, dread
+-lexeme
+ lex: zurəḥ
+ stem: zurəḥ.
+ root: zrḥ
+ gramm: ?
+ paradigm: <?>
+ trans_de: Gras
+ trans_en: grass
 -lexeme
  lex: zurək
  stem: zurək.|zurəkat.
  root: zrk
  gramm: N,m
  paradigm: N2
- trans_de: zurik m, pl –at Gras
- trans_en: 
+ trans_de: Gras
+ trans_en: grass
 -lexeme
  lex: zurnaye
  stem: zurnaye.
  root: zrn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Oboe
- trans_en: 
+ trans_en: oboe
+-lexeme
+ lex: zurzur/zərrzərr
+ stem: zurzur.//zərrzərr.
+ root: zrzr
+ gramm: ?
+ paradigm: ?
+ trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere
+ trans_en: crowd noise; voice of the wolf and small animals
 -lexeme
  lex: zuwade/zuwwade
  stem: zuwade.//zuwwade.
  root: zwd/zwd
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Wegzehrung; Gerät zum Sticken
  trans_en: provisions for the jorney; embroidery machine
 -lexeme
@@ -39953,8 +40001,8 @@
  trans_de: einjähriges, weibliches Küken
  trans_en: year old, female chicken
 -lexeme
- lex: zvənge/zvinge
- stem: zvənge.//zvinge.
+ lex: zvənge
+ stem: zvənge.
  root: zvng
  gramm: N,f
  paradigm: <?>
