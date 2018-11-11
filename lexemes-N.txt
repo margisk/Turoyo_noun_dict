@@ -39513,8 +39513,8 @@
  trans_de: Goldschmied, Silberschmied
  trans_en: 
 -lexeme
- lex: zəġuno/zoġuno
- stem: zəġuno.//zoġuno.|zəġune.//zoġune.
+ lex: zəġuno/zoġuno/ziġuno
+ stem: zəġuno.//zoġuno.//ziġuno|zəġune.//zoġune.//ziġune
  root: zġn
  gramm: N,m
  paradigm: N2
@@ -39673,101 +39673,125 @@
  trans_de: a) Geschrei des Esels b) Mensch, Schar, die in feindlicher Absicht kommt
  trans_en: 
 -lexeme
+ lex: zərṭ
+ stem: zərṭ.
+ root: zrṭ
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Furz
+ trans_en: fart
+-lexeme
  lex: zərṭa
- stem: zərṭa.|zərṭat.
+ stem: zərṭa.|zərṭat.//zarṭat
  root: zrṭ
  gramm: N,f
  paradigm: N2
  trans_de: prahlerische Rede, Drohung
- trans_en: 
+ trans_en: boastful speech, threat
 -lexeme
  lex: zərṭak
  stem: zərṭak.
  root: zrṭk
- gramm: N,m
- paradigm: N1
+ gramm: N,?
+ paradigm: <?>
  trans_de: Spielmann
- trans_en: 
+ trans_en: minstrel
 -lexeme
- lex: zəṭoyo
- stem: zəṭoyo.|zəṭoye.
+ lex: zərzər
+ stem: zərzər.
+ root: zrzr
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Ton der Glocke, Kingel
+ trans_en: sound of the bell, bell
+-lexeme
+ lex: zəṭoyo/zuṭoyo
+ stem: zəṭoyo.|zəṭoye.//zuṭoyo.|zuṭoye.
  root: zṭy
  gramm: N,m
  paradigm: N2
  trans_de: Zigeuner, Musiker, Spielmann
- trans_en: 
+ trans_en: Gypsy, musician, minstrel
 -lexeme
- lex: ziġuno
- stem: ziġuno.|ziġune.
- root: zġn
- gramm: N,m
- paradigm: N2
- trans_de: Küken, Küchel
- trans_en: 
+ lex: zəvra
+ stem: zəvra.
+ root: zvr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: hart (von Steinen, Reis und Bulghur, auch von Haar, das keinen Kamm durchlässt)
+ trans_en: hard (of stones, rice and bulghur, even of hair ?)
 -lexeme
  lex: zihe
  stem: zihe.
  root: zh
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Vulva (auch von Tieren)
- trans_en: 
+ trans_en: vulva (also of animals)
 -lexeme
  lex: zike
  stem: zike.
  root: zk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Strang aus Fäden oder Haaren
- trans_en: 
+ trans_en: strand of thread or hair
+-lexeme
+ lex: ziken
+ stem: ziken.
+ root: zkn
+ gramm: N,?
+ paradigm: <?>
+ trans_de: schmerzliches Geschrei
+ trans_en: scream of pain
 -lexeme
  lex: zil
  stem: zil.
  root: zl
  gramm: N,m
- paradigm: N1
- trans_de: Klingelknopf nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Klingelknopf
+ trans_en: bell push
 -lexeme
  lex: zine
  stem: zine.
  root: zn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ehebruch
- trans_en: 
+ trans_en: adultery
 -lexeme
  lex: zinekar
  stem: zinekar.
  root: znkr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ehebrecher
- trans_en: 
+ trans_en: adulterer
 -lexeme
  lex: zine
  stem: zine.
  root: zyn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Illuminierung einer Stadt, festlicher Schmuck
- trans_en: 
+ trans_en: city illumination, festive jewellery
 -lexeme
  lex: zinoro
  stem: zinoro.
  root: znr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Tuchgürtel
- trans_en: 
+ trans_en: cloth belt
 -lexeme
  lex: ziq
  stem: ziq.
  root: zq
  gramm: N,m
- paradigm: N1
- trans_de: a) Eselsgeschrei b) Debatte, Wortstreit, Diskussion
- trans_en: 
+ paradigm: <?>
+ trans_de: Eselsgeschrei; Debatte, Wortstreit, Diskussion
+ trans_en: bray; debate, argument, discussion
 -lexeme
  lex: ziqa
  stem: ziqa.
@@ -39892,7 +39916,7 @@
  lex: zowəd/zoyəd
  stem: zowəd.//zoyəd
  root: zyd
- gramm: adv
+ gramm: ADV
  paradigm: unchangeable
  trans_de: mehr (als), überschüssig
  trans_en: more (than), to excess 
@@ -39924,7 +39948,7 @@
  lex: zu b-zu
  stem: zu b-zu.
  root: zbz
- gramm: adv
+ gramm: ADV
  paradigm: unchangeable
  trans_de: schnell, leicht
  trans_en: fast, easy
@@ -39944,6 +39968,14 @@
  paradigm: <?>
  trans_de: Müßiggänger
  trans_en: idler
+-lexeme
+ lex: zuhurat
+ stem: zuhurat.
+ root: zḥr
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Tee aus Baumblättern
+ trans_en: tea from tree leaves
 -lexeme
  lex: zuḥṯo
  stem: zuḥṯo.|zuḥṯe.
@@ -39980,7 +40012,7 @@
  lex: zurzur/zərrzərr
  stem: zurzur.//zərrzərr.
  root: zrzr
- gramm: ?
+ gramm: N, ?
  paradigm: ?
  trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere
  trans_en: crowd noise; voice of the wolf and small animals
@@ -40132,7 +40164,7 @@
  lex: žehati
  stem: žehati.
  root: žht
- gramm: adj
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: tüchtig
  trans_en: efficient
@@ -40188,7 +40220,7 @@
  lex: žinu
  stem: žinu.
  root: žn
- gramm: adv
+ gramm: ADV
  paradigm: unchangeable
  trans_de: nunmehr, da
  trans_en: 
@@ -40220,7 +40252,7 @@
  lex: žnuka/žnukane
  stem: žnuka.//žnukane.
  root: žnk
- gramm: adv
+ gramm: ADV
  paradigm: unchangeable
  trans_de: von neuem, endlich
  trans_en: again, finally
@@ -40228,7 +40260,7 @@
  lex: žnuva
  stem: žnuva.
  root: žnv
- gramm: adv
+ gramm: ADV
  paradigm: unchangeable
  trans_de: von neuem, wieder
  trans_en: again
