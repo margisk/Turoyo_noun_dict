@@ -3646,6 +3646,14 @@
  trans_de: Gebäude
  trans_en: building
 -lexeme
+ lex: avay
+ stem: avay.
+ root: vy
+ gramm: N
+ paradigm: <?>
+ trans_de: Gebäude
+ trans_en: building
+-lexeme
  lex: aviye
  stem: aviye.
  root: vy
