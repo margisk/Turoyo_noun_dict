@@ -10058,14 +10058,6 @@
  trans_de: Tyrann, gewalttätig
  trans_en: 
 -lexeme
- lex: ḍulmiye
- stem: ḍulmiye.
- root: ẓlm
- gramm: N,f
- paradigm: N1
- trans_de: Tyrannei
- trans_en: 
--lexeme
  lex: ḍulumo
  stem: ḍulumo.
  root: ẓlm
@@ -39193,13 +39185,13 @@
  trans_de: Ärmel
  trans_en: 
 -lexeme
- lex: zang
- stem: zang.
+ lex: zang/zəng/zangoro/zengoro/zəngoro
+ stem: zang.//zəng.//zangoro.//zengoro.//zəngoro.
  root: zng
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rost
- trans_en: 
+ trans_en: grill
 -lexeme
  lex: zangin
  stem: zangin.|zanegin.//zanginat.
@@ -39225,21 +39217,13 @@
  trans_de: Reichtum
  trans_en: 
 -lexeme
- lex: zango
- stem: zango.|zangowat.
+ lex: zango/zəngo
+ stem: zango.//zəngo.|zangowat.//zingowat.
  root: zng
  gramm: N,m
  paradigm: N2
  trans_de: Steigbügel
- trans_en: 
--lexeme
- lex: zangoro
- stem: zangoro.
- root: zngr
- gramm: N,m
- paradigm: N1
- trans_de: Rost
- trans_en: 
+ trans_en: stirrup
 -lexeme
  lex: zanoyo
  stem: zanoyo.
@@ -39553,93 +39537,93 @@
  trans_de: Briefumschlag
  trans_en: 
 -lexeme
- lex: zəlḥo/zulḥo
- stem: zəlḥo/zulḥo.|zəlḥe.
+ lex: zəlḥo karro/zulḥo karro
+ stem: zəlḥo karro//zulḥo karro.|zəlḥe karin.
  root: zlḥ/zlḥ
  gramm: N,m
  paradigm: N2
  trans_de: zul
  trans_en: 
 -lexeme
- lex: zəlmiye
- stem: zəlmiye.
+ lex: zəlmiye/ḏ̣əlmiye/ḏ̣ulmiye
+ stem: zəlmiye.//ḏ̣əlmiye.//ḏ̣ulmiye.
  root: ẓlm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Unrecht, Tyrannei
- trans_en: 
+ trans_en: injustice, tyranny
 -lexeme
  lex: zəlzaqoye
  stem: zəlzaqoye.|zəlzaqoyat.
  root: zlzqy
  gramm: N,f
  paradigm: N2
- trans_de: Schaukel, Himmelfahrtsfest pl
+ trans_de: Schaukel, Himmelfahrtsfest
+ trans_en: swing, Ascension Day
+-lexeme
+ lex: zəm w saləq
+ stem: zəm w saləq.
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: „sie schaukeln (nur mit einem Strick)
  trans_en: 
 -lexeme
- lex: zəndan
- stem: zəndan.
+ lex: zəmzəm
+ stem: zəmzəm.
+ root: zmzm
+ gramm: ?
+ paradigm: <?>
+ trans_de: Geräusch des Schlagens auf ein metallenes Schlagzeug 
+ trans_en: sound of hittig a metal drum
+-lexeme
+ lex: zəndan/zəndaniye
+ stem: zəndan.//zəndaniye.
  root: zndn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gefängnis
- trans_en: 
+ trans_en: prison
 -lexeme
- lex: zəndaniye
- stem: zəndaniye.
- root: zndny
- gramm: N,f
- paradigm: N1
- trans_de: Gefängnis
- trans_en: 
--lexeme
- lex: zəngo
- stem: zəngo.|zingowat.
- root: zng
- gramm: N,m
- paradigm: N2
- trans_de: zingowat Steigbügel
- trans_en: 
--lexeme
- lex: zəngoro
- stem: zəngoro.
- root: zngr
- gramm: N,m
- paradigm: N1
- trans_de: Rost
- trans_en: 
--lexeme
- lex: zənǧər
- stem: zənǧər.|zineǧər.//zənǧərat.
+ lex: zənǧər/zənǧir
+ stem: zənǧər.//zənǧir|zənǧərat.//zineǧər.
  root: znǧr
  gramm: N,m
  paradigm: N2
  trans_de: Kette
- trans_en: 
+ trans_en: chain
 -lexeme
  lex: zənǧərvan
  stem: zənǧərvan.
  root: znǧrvn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gefängniswärter
- trans_en: 
+ trans_en: jailer
+-lexeme
+ lex: zəpkat
+ stem: zəpkat.
+ root: zpk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Tage von Ende Februar bis drei Tage vom März
+ trans_en: days from late February until 3rd of March
 -lexeme
  lex: zəppa
- stem: zəppa.|zəppaawat.
+ stem: zəppa.|zəppawat.
  root: zpp
  gramm: N,m
  paradigm: N2
- trans_de: Geck nicht
- trans_en: 
+ trans_de: Geck
+ trans_en: toff
 -lexeme
  lex: zərbav
  stem: zərbav.
  root: zrbv
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwiegervater
- trans_en: 
+ trans_en: father-in-law
 -lexeme
  lex: zərh
  stem: zərh.|zərhat.
@@ -39647,31 +39631,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Panzer
- trans_en: 
+ trans_en: armor
 -lexeme
- lex: zərnaye
- stem: zərnaye.|zərnayat.
+ lex: zərnaye/zurnaye
+ stem: zərnaye.|zərnayat.//zurnaye|zurnayat.
  root: zrn
  gramm: N,f
  paradigm: N2
  trans_de: Oboe, Pfeife, Flöte
- trans_en: 
+ trans_en: oboe, whistle, flute
 -lexeme
  lex: zərraqa
  stem: zərraqa.
  root: zrq
  gramm: N,f
- paradigm: N1
- trans_de: Schießscharte nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Schießscharte
+ trans_en: embrasure
 -lexeme
  lex: zərre
  stem: zərre.
  root: zrr
  gramm: N,f
- paradigm: N1
- trans_de: a) Geschrei des Esels b) Mensch, Schar, die in feindlicher Absicht kommt
- trans_en: 
+ paradigm: <?>
+ trans_de: Geschrei des Esels; Mensch, Schar, die in feindlicher Absicht kommt
+ trans_en: bray; man, crowd, that comes with hostile intent
 -lexeme
  lex: zərṭ
  stem: zərṭ.
@@ -39711,7 +39695,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: hart (von Steinen, Reis und Bulghur, auch von Haar, das keinen Kamm durchlässt)
- trans_en: hard (of stones, rice and bulghur, even of hair ?)
+ trans_en: hard (of stones, rice and bulghur, even of hair that no comb can go through)
 -lexeme
  lex: zihe
  stem: zihe.
