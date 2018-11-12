@@ -39697,14 +39697,6 @@
  trans_de: Spielmann
  trans_en: minstrel
 -lexeme
- lex: zərzər
- stem: zərzər.
- root: zrzr
- gramm: N,?
- paradigm: <?>
- trans_de: Ton der Glocke, Kingel
- trans_en: sound of the bell, bell
--lexeme
  lex: zəṭoyo/zuṭoyo
  stem: zəṭoyo.|zəṭoye.//zuṭoyo.|zuṭoye.
  root: zṭy
@@ -39737,8 +39729,8 @@
  trans_de: Strang aus Fäden oder Haaren
  trans_en: strand of thread or hair
 -lexeme
- lex: ziken
- stem: ziken.
+ lex: ziken/ziqen
+ stem: ziken./ziqen.
  root: zkn
  gramm: N,?
  paradigm: <?>
@@ -39972,8 +39964,8 @@
  lex: zuhurat
  stem: zuhurat.
  root: zḥr
- gramm: N,?
- paradigm: <?>
+ gramm: N,pl
+ paradigm: unchangeable
  trans_de: Tee aus Baumblättern
  trans_en: tea from tree leaves
 -lexeme
@@ -40009,13 +40001,13 @@
  trans_de: Oboe
  trans_en: oboe
 -lexeme
- lex: zurzur/zərrzərr
- stem: zurzur.//zərrzərr.
+ lex: zurzur/zərrzərr/zərzər
+ stem: zurzur.//zərrzərr.//zərzər
  root: zrzr
  gramm: N, ?
  paradigm: ?
- trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere
- trans_en: crowd noise; voice of the wolf and small animals
+ trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere; Ton der Glocke, Kingel
+ trans_en: crowd noise; voice of the wolf and small animals; sound of the bell, bell
 -lexeme
  lex: zuwade/zuwwade
  stem: zuwade.//zuwwade.
