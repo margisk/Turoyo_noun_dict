@@ -3681,7 +3681,7 @@
  lex: avzenke
  stem: avzenke.
  root: vzn
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N1
  trans_de: kleine Wasserquelle, aus dem Boden heraussprudelndes Wasser; Schnalle
  trans_en: small spring, with water gushing out from the ground; buckle (?)
