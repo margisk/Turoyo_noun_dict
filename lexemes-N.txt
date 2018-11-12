@@ -3758,6 +3758,14 @@
  trans_de: Ozean
  trans_en: ocean
 -lexeme
+ lex: awraqat
+ stem: awraqat.
+ root: wrq
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Akten
+ trans_en: documents
+-lexeme
  lex: awṣtraliya
  stem: awṣtraliya.
  root: ʔwṣtr
