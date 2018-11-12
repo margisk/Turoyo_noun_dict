@@ -3435,8 +3435,16 @@
  root: ʔss
  gramm: N,m
  paradigm: N2
- trans_de: Fundament; ursprünglich
- trans_en: foundation; originally
+ trans_de: Fundament
+ trans_en: foundation
+-lexeme
+ lex: asas
+ stem: asas.
+ root: ʔss
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ursprünglich
+ trans_en: originally
 -lexeme
  lex: asasan
  stem: asasan.
