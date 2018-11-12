@@ -8834,8 +8834,8 @@
  trans_en: ablution
  stem: 
 -lexeme
- lex: dasto
- stem: dasto.|daste.
+ lex: dasto/dəsto
+ stem: dasto.//dəsto.|daste.//dəste.
  root: dst
  gramm: N,m
  paradigm: N2
@@ -9394,21 +9394,53 @@
  trans_de: masculinum
  trans_en: masculine
 -lexeme
+ lex: dəlmaniye
+ stem: dəlmaniye.
+ root: dlmn
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Nachtragen, Übelnehmen
+ trans_en: having a grievance
+-lexeme
+ lex: dəmadəm/dəmdəm
+ stem: dəmadəm.//dəmdəm.
+ root: dmdm
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch der Trommeln usw.; Geräusch des Aufschlagens auf Unterlage; Geräusch des brennenden Feuers; Murmeln des Gebetes
+ trans_en: sound of drums and so on; sound of striking on <...>; sound of burning fire; murmuring of a prayer
+-lexeme
+ lex: dəngadəng
+ stem: dəngadəng.
+ root: dng
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch von Trommeln und Oboen
+ trans_en: sound of drums and oboe
+-lexeme
  lex: dənnage
  stem: dənnage.|dənnagat.
  root: dng
  gramm: N,f
  paradigm: N2
  trans_de: Trommel
- trans_en: 
+ trans_en: drum
 -lexeme
- lex: dəquqo
- stem: dəquqo.|dəquqe.
+ lex: dəquqo/doquqo/dequqo
+ stem: dəquqo.//doquqo.//dequqo.|dəquqe.//dequqe.//doquqe.
  root: dqq
  gramm: N,m
  paradigm: N2
  trans_de: Holzschlägel, Holzhammer
- trans_en: 
+ trans_en: wooden hammer
+-lexeme
+ lex: dərdmono
+ stem: dərdmono.
+ root: drdm
+ gramm: <?>
+ paradigm: <?>
+ trans_de: Geknärwele, dauernd jammern, kritisieren
+ trans_en: <?>, lament over something for a long time, to criticize
 -lexeme
  lex: dərraye
  stem: dərraye.|dərrayat.
@@ -9416,15 +9448,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Perle, Perlengehänge
- trans_en: 
+ trans_en: pearl, pearl pendant
+-lexeme
+ lex: dərrəh/dərrəhe
+ stem: dərrəh.//dərrəhe.|dərrəhe.//dərrəhat.
+ root: drh
+ gramm: N
+ paradigm: N2
+ trans_de: Dorn(strauch)
+ trans_en: thorn <?>
 -lexeme
  lex: dərto
- stem: dərto.|dərtoṯe.//diroṯo.//dirtawoṯe.//doroṯe.
+ stem: dərto.//durto.|dərtoṯe.//dəroṯo.//dərtawoṯe.//doroṯe.//dərtoṯo.//dəroṯe.//dərtawoṯo.//durtoṯe.//durtoṯo.//durtawoṯe.//durtawoṯo.
  root: drt
  gramm: N,f
  paradigm: N2
  trans_de: Hof
- trans_en: 
+ trans_en: yard
 -lexeme
  lex: dəsmal
  stem: dəsmal.
@@ -9440,39 +9480,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kopf, Hals, Taschentuch
- trans_en: 
+ trans_en: handkerchief, kerchief
 -lexeme
  lex: dəsmalke
- stem: dəsmalke.
+ stem: dəsmalke.|dəsmalkat.
  root: dsmlk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: kleines Kopf-, Hals-, Taschentuch
- trans_en: 
--lexeme
- lex: dəsto
- stem: dəsto.
- root: dst
- gramm: N,f
- paradigm: N1
- trans_de: großer Kupferkessel
- trans_en: 
+ trans_en: small kerchief, small handkerchief
 -lexeme
  lex: dəšǧi
- stem: dəšǧi.|dəšǧiiye.
+ stem: dəšǧi.|dəšǧiye.
  root: dšǧ
  gramm: N,m
  paradigm: N2
- trans_de: iye Dentist, Zahnarzt عع; pl
- trans_en: 
--lexeme
- lex: dəxono
- stem: dəxono.|dəxone.
- root: dxn
- gramm: N,m
- paradigm: N2
- trans_de: Rauch
- trans_en: 
+ trans_de: Dentist, Zahnarzt
+ trans_en: dentist
 -lexeme
  lex: dəžmən
  stem: dəžmən.|dəžmən.
@@ -9480,15 +9504,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Feind
- trans_en: 
+ trans_en: enemy
 -lexeme
  lex: dəžwar
  stem: dəžwar.
  root: džwr
  gramm: N,m
- paradigm: N1
- trans_de: Getränk)
- trans_en: 
+ paradigm: <?>
+ trans_de: sehr stark (Getränk); starke Augen; bösartig (Schlange)
+ trans_en: very strong (drink); strong eyes; angry (snake)
 -lexeme
  lex: dibəs
  stem: dibəs.|dibsat.
@@ -9496,7 +9520,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Traubenhonig, Traubensirup
- trans_en: 
+ trans_en: grape syrup
 -lexeme
  lex: diko
  stem: diko.|dike.
@@ -9504,23 +9528,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hahn
- trans_en: 
+ trans_en: cock
 -lexeme
  lex: dileš
  stem: dileš.
  root: dlš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Herzkrankheit, Herzanfall
- trans_en: 
+ trans_en: heart pain, heart attack
 -lexeme
  lex: dinar
  stem: dinar.
  root: dnr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Karo im Kartenspiel
- trans_en: 
+ trans_en: diamonds
 -lexeme
  lex: dino
  stem: dino.|dine.
@@ -9528,15 +9552,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Religion
- trans_en: 
+ trans_en: religion
 -lexeme
  lex: dinoro
  stem: dinoro.|dinore.
  root: dnr
  gramm: N,m
  paradigm: N2
- trans_de: Goldstück; pl
- trans_en: 
+ trans_de: Goldstück
+ trans_en: gold coin
+-lexeme
+ lex: dis/disa/disane
+ stem: dis.//disa.//disane.
+ root: ds
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wieder; noch immer
+ trans_en: again; still
 -lexeme
  lex: diwan
  stem: diwan.|diwane.
@@ -9544,7 +9576,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Diwan, Empfangs- und Versammlungsraum eines Fürsten, Audienzhalle, und die Leute darin
- trans_en: 
+ trans_en: divan, council- and gathering-place of a ruler, reception hall and people there
 -lexeme
  lex: diwanxane
  stem: diwanxane.|diwanxanat.
@@ -9552,15 +9584,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Versammlungsraum bei der Kirche
- trans_en: 
+ trans_en: gathering-place at a church
 -lexeme
  lex: diyar
- stem: diyar.|diyarat.
+ stem: diyar.//dyar.|diyarat.//dyarat.
  root: dyr
  gramm: N,m
  paradigm: N2
  trans_de: Berg, Hügel
- trans_en: 
+ trans_en: mountain, hill
 -lexeme
  lex: diyar
  stem: diyar.
@@ -9570,109 +9602,131 @@
  trans_de: Land, Wohnstätte
  trans_en: 
 -lexeme
+ lex: dlela
+ stem: dlela.
+ root: dll
+ gramm: N
+ paradigm: <?>
+ trans_de: Trödel (?)
+ trans_en: rags
+-lexeme
+ lex: dmoxoṯe
+ stem: dmoxoṯe.
+ root: dmx
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Schlafenzeit
+ trans_en: bedtime
+-lexeme
  lex: doġdoġa
  stem: doġdoġa.
  root: dġdġ
- gramm: N,m
- paradigm: N1
+ gramm: N
+ paradigm: <?>
  trans_de: dicker Kerl
- trans_en: 
+ trans_en: fat guy
+-lexeme
+ lex: doġri
+ stem: doġri.
+ root: dġr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: richtig
+ trans_en: right
 -lexeme
  lex: doġum
  stem: doġum.
  root: dġm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geburt(sjahr)
- trans_en: 
+ trans_en: (year of) birth
 -lexeme
  lex: doġuzbaš
  stem: doġuzbaš.
  root: dġzbš
  gramm: N,m
- paradigm: N1
  trans_de: Geschwulst im Halse, an der ein Tier erstickt
- trans_en: 
+ trans_en: swelling on a neck, from which an animal suffocates
 -lexeme
- lex: dokumo
- stem: dokumo.|dokume.
- root: dkm
- gramm: N,m
- paradigm: N2
- trans_de: Faust, Faustschlag
- trans_en: 
+ lex: dolamand
+ stem: dolamand.
+ root: dlmnd
+ gramm: ADJ
+ trans_de: reich
+ trans_en: rich
 -lexeme
  lex: dolar
  stem: dolar.|dolarat.
  root: dlr
  gramm: N,m
  paradigm: N2
- trans_de: Dollar pl
- trans_en: 
+ trans_de: Dollar
+ trans_en: dollar
 -lexeme
  lex: dolməke
- stem: dolməke.
+ stem: dolməke.|dolməkat.
  root: dlm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleine Form aus Eierfrucht, gefüllt mit gehacktem oder Reis
- trans_en: 
+ trans_en: small form from an aubergine, filled with minced meat or rice
 -lexeme
  lex: dolufo
  stem: dolufo.
  root: dlf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: leckende Stelle
- trans_en: 
+ trans_en: place which leaks
 -lexeme
- lex: doquqo
- stem: doquqo.|doquqe.
- root: dqq
+ lex: dondan
+ stem: dondan.
+ root: dndn
  gramm: N,m
- paradigm: N2
- trans_de: Holzschlägel, Stampfer
- trans_en: 
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 -lexeme
  lex: doquqto
  stem: doquqto.
  root: dqt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stößel
- trans_en: 
+ trans_en: flat spot (?)
 -lexeme
  lex: doro
- stem: doro.
+ stem: doro.|dore.
  root: dr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Jahrhundert
- trans_en: 
+ trans_en: century
 -lexeme
  lex: doruno
  stem: doruno.
  root: drn
  gramm: N,m
- paradigm: N1
- trans_de: einer, meist schwarzer Stein zum glätten und polieren
- trans_en: 
+ paradigm: <?>
+ trans_de: kleiner, meist schwarzer Stein zum glätten und polieren
+ trans_en: small, usually black stone for polishing smoothing out
 -lexeme
  lex: dost
- stem: dost.|doste.//dostin.//id..
+ stem: dost.|doste.//dostin.//dost.
  root: dst
  gramm: N,m
  paradigm: N2
  trans_de: Freund, Liebhaber, Kavalier
- trans_en: 
+ trans_en: friend, lover, gentleman
 -lexeme
  lex: doste
- stem: doste.
+ stem: doste.|dostat.
  root: dst
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Freundin, Verhältnis
- trans_en: 
+ trans_en: female friend, relation
 -lexeme
  lex: došak
  stem: došak.
