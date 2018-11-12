@@ -38919,6 +38919,14 @@
  trans_de: wie Zylinder)
  trans_en: 
 -lexeme
+ lex: yasaq/asaq
+ stem: yasaq.//asaq.
+ root: ysq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verboten
+ trans_en: forbidden
+-lexeme
  lex: yaṣiro
  stem: yaṣiro.|yaṣire.
  root: yṣr
