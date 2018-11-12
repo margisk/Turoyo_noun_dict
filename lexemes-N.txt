@@ -3713,7 +3713,7 @@
  lex: awake
  stem: awake.|awakat.
  root: wk
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: Art, Gewohnheit;
  trans_en: kind; custom
