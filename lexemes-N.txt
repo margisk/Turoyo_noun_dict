@@ -9314,8 +9314,8 @@
  trans_de: Bärin
  trans_en: she-bear
 -lexeme
- lex: dəbḥo
- stem: dəbḥo.
+ lex: dəbḥo/dubḥo
+ stem: dəbḥo.//dubḥo.
  root: ḏbḥ
  gramm: N,m
  paradigm: <?>
@@ -9650,8 +9650,8 @@
  trans_de: dicker Kerl
  trans_en: fat guy
 -lexeme
- lex: doġri
- stem: doġri.
+ lex: doġri/duġri
+ stem: doġri.//duġri.
  root: dġr
  gramm: ADJ
  paradigm: unchangeable
@@ -9752,37 +9752,21 @@
  trans_de: Freundin, Verhältnis
  trans_en: female friend, relation
 -lexeme
- lex: došak
- stem: došak.
- root: dšk
- gramm: N,m
- paradigm: N1
- trans_de: Kissen
- trans_en: 
--lexeme
- lex: došake
- stem: došake.
- root: dšk
- gramm: N,f
- paradigm: N1
- trans_de: Kissen
- trans_en: 
--lexeme
  lex: došama
  stem: došama.|došamat.
  root: dšm
  gramm: N,f
  paradigm: N2
  trans_de: Fußbodenbelag
- trans_en: 
+ trans_en: flooring
 -lexeme
  lex: došman
- stem: došman.
+ stem: došman.|došman.
  root: dšmn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Feind
- trans_en: 
+ trans_en: enemy
 -lexeme
  lex: dotmam
  stem: dotmam.
@@ -9790,39 +9774,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: Base, Kusine
- trans_en: 
+ trans_en: cousine
 -lexeme
  lex: doxine
- stem: doxine.
+ stem: doxine.|doxinat.
  root: dxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gürtel
- trans_en: 
+ trans_en: belt
 -lexeme
  lex: dozdan
- stem: dozdan.
+ stem: dozdan.|dozdanat.
  root: dzdn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Brieftasche, Geldtasche
- trans_en: 
+ trans_en: purse, wallet
 -lexeme
- lex: droʕo
- stem: droʕo.|droʕone.
+ lex: dozdoġri
+ stem: dozdoġri.
+ root: dzdġr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: geradewegs
+ trans_en: directly
+-lexeme
+ lex: droʕo/druʕo
+ stem: droʕo.//druʕo.|droʕone.//drəʕone.//druʕone.//droʕe.//druʕe.
  root: drʕ
  gramm: N,m
  paradigm: N2
  trans_de: Arm, Elle
- trans_en: 
--lexeme
- lex: druʕo
- stem: druʕo.|druʕe.
- root: drʕ
- gramm: N,m
- paradigm: N2
- trans_de: Arm, Elle
- trans_en: 
+ trans_en: arm, cubit
 -lexeme
  lex: druben
  stem: druben.
@@ -9830,23 +9814,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Fernrohr
- trans_en: 
+ trans_en: telescope
 -lexeme
- lex: duʕa
- stem: duʕa.|dəʕwoṯe.
- root: dʕw
+ lex: druxto/draxto
+ stem: druxto.//draxto.
+ root: drx
  gramm: N,f
- paradigm: N2
- trans_de: Gebet
- trans_en: 
--lexeme
- lex: duʕwiṯo
- stem: duʕwiṯo.
- root: dʕw
- gramm: N,f
- paradigm: N1
- trans_de: Gebet; Fluch
- trans_en: 
+ paradigm: <?>
+ trans_de: Getreidemenge, die man bei einer Ernte erntet und drischt (etwa 10 — 20 Transportsäcke voll)
+ trans_en: amount of crops that one gets in one harvest and threshes (around 10 — 20 transport bags)
 -lexeme
  lex: dubḥo
  stem: dubḥo.
@@ -9857,20 +9833,20 @@
  trans_en: 
 -lexeme
  lex: dubla
- stem: dubla.
+ stem: dubla.|dublat.
  root: dbl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hosenaufschlag
- trans_en: 
+ trans_en: cuff
 -lexeme
  lex: duboqo
  stem: duboqo.
  root: dbq
  gramm: N,m
- paradigm: N1
- trans_de: Band (Buch); nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Band (Buch)
+ trans_en: binding (of a book)
 -lexeme
  lex: duboro/duburo
  stem: duboro/duburo.|duboro.//dubure.
@@ -9880,45 +9856,68 @@
  trans_de: Wespe
  trans_en: 
 -lexeme
- lex: dudŭke
- stem: dudŭke.
- root: ddŭ
+ lex: duduke
+ stem: duduke.|dudukat.
+ root: dd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Pfeife zum Pfeifen
- trans_en: 
+ trans_en: pipe for playing
 -lexeme
  lex: duglo
  stem: duglo.|dugle.
  root: dgl
  gramm: N,f
  paradigm: N2
- trans_de: a) Lüge b) Versprechen, gegebenes Wort
- trans_en: 
+ trans_de: Lüge; Versprechen, gegebenes Wort
+ trans_en: lies; promise, given word
 -lexeme
- lex: duhniṯo
- stem: duhniṯo.
+ lex: duġmoniṯo
+ stem: duġmoniṯo.
+ root: dġm
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: heimlicher <?>
+-lexeme
+ lex: duġma
+ stem: duġma
+ root: dġm
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: duġriye/doġriye
+ stem: duġriye.//doġriye.
+ root: dġr
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Wahrheit
+ trans_en: truth
+-lexeme
+ lex: duhniṯo/dəhniṯo
+ stem: duhniṯo./dəhniṯo.
  root: dhn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Öl, Fett
- trans_en: 
+ trans_en: oil, fat
 -lexeme
- lex: dŭk(k)ano
- stem: dŭk(k)ano.|dŭk(k)ane.
+ lex: dukkano
+ stem: dukkano.|dukkane.
  root: dkk
  gramm: N,m
  paradigm: N2
- trans_de: a) Laden b) Vorratskammer
- trans_en: 
+ trans_de: Laden; Vorratskammer
+ trans_en: shop, store-room
 -lexeme
  lex: dukmoniṯo
  stem: dukmoniṯo.
  root: dkmnṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Faustschlag
- trans_en: 
+ trans_en: strike with a fist
 -lexeme
  lex: dukṯo
  stem: dukṯo.|dukoṯo.//dəkoṯo.//dkoṯe.
