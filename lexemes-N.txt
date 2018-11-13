@@ -39126,13 +39126,13 @@
  trans_de: Getreidearten), Getreide
  trans_en: 
 -lexeme
- lex: zafto
- stem: zafto.
+ lex: zafto/zəfto
+ stem: zafto.//zəfto.
  root: zft
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pech, Asfalt
- trans_en: 
+ trans_en: pitch, asfalt
 -lexeme
  lex: zago
  stem: zago.|ع·x.
@@ -39578,9 +39578,9 @@
  stem: zayzafun.
  root: zyzfn
  gramm: N,m
- paradigm: N1
- trans_de: Linde nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Linde
+ trans_en: linden
 -lexeme
  lex: zazike
  stem: zazike.|zazikat.
@@ -39588,50 +39588,74 @@
  gramm: N,f
  paradigm: N2
  trans_de: Glasmurmel
- trans_en: 
+ trans_en: glass marble
 -lexeme
  lex: zbaṭ
  stem: zbaṭ.
  root: zbṭ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Februar
- trans_en: 
+ trans_en: february
 -lexeme
  lex: zedabune
  stem: zedabune.
  root: zdbn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Familienzuwachs
- trans_en: 
+ trans_en: addition to family
+-lexeme
+ lex: zedakar/zedakari
+ stem: zedakar.//zedakari.
+ root: zdkr
+ gramm: N,?
+ paradigm: unchangeable
+ trans_de: zu weit gehen, sicht etwas herausnehmen
+ trans_en: going too far, taking something out
+-lexeme
+ lex: zede
+ stem: zede.
+ root: zd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: weiter, andere
+ trans_en: further, others
+-lexeme 
+ lex: zəʕǧ/b-zəʕǧ
+ stem: zəʕǧ.//b-zəʕǧ.
+ root: zʕǧ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: heftig, schnell
+ trans_en: hard, fast
 -lexeme
  lex: zəbbalči
  stem: zəbbalči.
  root: zbl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Müllkehrer
- trans_en: 
+ trans_en: street sweeper
 -lexeme
  lex: zəbdo
  stem: zəbdo.
  root: zbd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Butter
- trans_en: 
+ trans_en: butter
 -lexeme
  lex: zəfkar
  stem: zəfkar.
  root: zfkr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Goldschmied, Silberschmied
- trans_en: 
+ trans_en: goldsmith, silversmith
 -lexeme
  lex: zəġuno/zoġuno/ziġuno
- stem: zəġuno.//zoġuno.//ziġuno|zəġune.//zoġune.//ziġune
+ stem: zəġuno.//zoġuno.//ziġuno.|zəġune.//zoġune.//ziġune.
  root: zġn
  gramm: N,m
  paradigm: N2
@@ -39642,25 +39666,17 @@
  stem: zəha.
  root: zh
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: große Schlange
- trans_en: 
+ trans_en: big snake
 -lexeme
- lex: zəḥṯo
- stem: zəḥṯo.
- root: zḥṯ
- gramm: N,f
- paradigm: N1
- trans_de: Furcht, Angst
- trans_en: 
--lexeme
- lex: zəl
- stem: zəl.
- root: zl
- gramm: N,m
- paradigm: N1
- trans_de: Klingelknopf nicht
- trans_en: 
+ lex: zəke
+ stem: zəke.
+ root: zk
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Bauch
+ trans_en: belly
 -lexeme
  lex: zəlf
  stem: zəlf.|zəlfat.
@@ -39668,15 +39684,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Briefumschlag
- trans_en: 
+ trans_en: envelope
 -lexeme
  lex: zəlḥo karro/zulḥo karro
- stem: zəlḥo karro//zulḥo karro.|zəlḥe karin.
- root: zlḥ/zlḥ
+ stem: zəlḥo karro.//zulḥo karro.|zəlḥe karin.
+ root: zlḥ
  gramm: N,m
  paradigm: N2
- trans_de: zul
- trans_en: 
+ trans_de: das taube Erdehuhn
+ trans_en: the deaf earth chicken ?
+-lexeme
+ lex: zələmdar
+ stem: zələmdar.
+ root: zlmdr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sehr bitter 
+ trans_en: very bitter
 -lexeme
  lex: zəlmiye/ḏ̣əlmiye/ḏ̣ulmiye
  stem: zəlmiye.//ḏ̣əlmiye.//ḏ̣ulmiye.
@@ -39767,7 +39791,7 @@
  trans_en: armor
 -lexeme
  lex: zərnaye/zurnaye
- stem: zərnaye.|zərnayat.//zurnaye|zurnayat.
+ stem: zərnaye.//zurnaye.|zərnayat.//zurnayat.
  root: zrn
  gramm: N,f
  paradigm: N2
@@ -39815,7 +39839,7 @@
  trans_en: minstrel
 -lexeme
  lex: zəṭoyo/zuṭoyo
- stem: zəṭoyo.|zəṭoye.//zuṭoyo.|zuṭoye.
+ stem: zəṭoyo.//zuṭoyo.|zəṭoye.|zuṭoye.
  root: zṭy
  gramm: N,m
  paradigm: N2
@@ -39847,15 +39871,15 @@
  trans_en: strand of thread or hair
 -lexeme
  lex: ziken/ziqen
- stem: ziken./ziqen.
+ stem: ziken.//ziqen.
  root: zkn
  gramm: N,?
  paradigm: <?>
  trans_de: schmerzliches Geschrei
  trans_en: scream of pain
 -lexeme
- lex: zil
- stem: zil.
+ lex: zil/zəl
+ stem: zil.//zəl.
  root: zl
  gramm: N,m
  paradigm: <?>
@@ -40086,8 +40110,8 @@
  trans_de: Tee aus Baumblättern
  trans_en: tea from tree leaves
 -lexeme
- lex: zuḥṯo
- stem: zuḥṯo.|zuḥṯe.
+ lex: zuḥṯo/zəḥṯo
+ stem: zuḥṯo.//zəḥṯo.|zuḥṯe.//zəḥṯe.
  root: zḥṯ
  gramm: N,f
  paradigm: N2
