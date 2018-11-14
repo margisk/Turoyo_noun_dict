@@ -39454,117 +39454,141 @@
  trans_de: Star
  trans_en: 
 -lexeme
- lex: zawbaʕa
- stem: zawbaʕa.|zawbaʕat.
- root: zwbʕ
- gramm: N,f
- paradigm: N2
- trans_de: Gewitter
- trans_en: 
+ lex: zat
+ stem: zat.
+ root: zt
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: selbst
+ trans_en: self
 -lexeme
- lex: zawgo
- stem: zawgo.
- root: zwg
- gramm: N,m
- paradigm: N1
- trans_de: Paar (Pistolen)
- trans_en: 
+ lex: zatan
+ stem: zatan.
+ root: ztn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sowieso
+ trans_en: anyway
 -lexeme
- lex: zawlo
- stem: zawlo.
- root: zbl
- gramm: N,m
- paradigm: N1
- trans_de: Dung, Kehricht
- trans_en: 
--lexeme
- lex: zawqo
- stem: zawqo.
- root: zwq
- gramm: N,m
- paradigm: N1
- trans_de: Eiter
- trans_en: 
--lexeme
- lex: zawaǧ
- stem: zawaǧ.
- root: zwǧ
- gramm: N,m
- paradigm: N1
- trans_de: Eheschließung
- trans_en: 
--lexeme
- lex: zawaǧa
- stem: zawaǧa.
+ lex: zawaǧ/zawaǧa
+ stem: zawaǧ.//zawaǧa.
  root: zwǧ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Eheschließung
- trans_en: 
+ trans_en: wedding
 -lexeme
  lex: zawaǧiye
  stem: zawaǧiye.
  root: zwǧ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ehe
- trans_en: 
+ trans_en: marriage
 -lexeme
  lex: zawal
  stem: zawal.
  root: zwl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Plage, Heimsuchung, Mißgeschick
- trans_en: 
+ trans_en: plague, infestation, misfortune
+-lexeme
+ lex: zawbaʕa
+ stem: zawbaʕa.|zawbaʕat.
+ root: zwb
+ gramm: N,f
+ paradigm: N2
+ trans_de: Gewitter
+ trans_en: storm
+-lexeme
+ lex: zawgo
+ stem: zawgo.
+ root: zwg
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Paar (Pistolen)
+ trans_en: pair (of pistols)
+-lexeme
+ lex: zawlo
+ stem: zawlo.
+ root: zbl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Dung, Kehricht
+ trans_en: dung, garbage 
+-lexeme
+ lex: zawqo
+ stem: zawqo.
+ root: zwq
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Eiter
+ trans_en: pus
 -lexeme
  lex: zaxəm
  stem: zaxəm.|zaxmin.
  root: zxm
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: tüchtig PrS
- trans_en: 
+ trans_de: stark, tüchtig
+ trans_en: strong, efficient
 -lexeme
- lex: zaxira
- stem: zaxira.
+ lex: zaxira/zaxire
+ stem: zaxira.//zaxire.
  root: ḏxr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Vorrat, Proviant
- trans_en: 
+ trans_en: supply, provision
 -lexeme
- lex: zaxire
- stem: zaxire.
- root: ḏxr
- gramm: N,f
- paradigm: N1
- trans_de: Vorrat, Proviant
- trans_en: 
+ lex: zaydo
+ stem: zaydo.
+ root: zyd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: mehr (Preis)
+ trans_en: more (price)
 -lexeme
  lex: zayilo
  stem: zayilo.|zayile.
  root: zyl
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: zulâl
- trans_en: 
+ trans_de: klar, durchsichtig
+ trans_en: clear, transparent
+-lexeme
+ lex: zaynabi
+ stem: zaynabi.
+ root: zynb
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: sehr lange und dünne Traubenart (wird zur Herstellung von Rosinen gebraucht)
+ trans_en: very long and thin grape (used to make raisin)
 -lexeme
  lex: zayoro
  stem: zayoro.|zayore.
  root: zwr
  gramm: N,m
  paradigm: N2
- trans_de: Wallfahrtsbesucher pl
- trans_en: 
+ trans_de: Wallfahrtsbesucher
+ trans_en: piligrim
+-lexeme
+ lex: zayti
+ stem: zayti.
+ root: zyt
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: gelbe, schöne Traubenart (für Rosinen)
+ trans_en: yellow, fine grape (for raisin)
 -lexeme
  lex: zaytoniṯo
  stem: zaytoniṯo.
  root: zytnṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Flockenblume, Centaurea spec. (wird als weiche Unterlage auf die Bettstellen gelegt)
- trans_en: 
+ trans_en: knapweed, centaurea spec. (placed on the bedsteads as a soft surface)
 -lexeme
  lex: zaytun
  stem: zaytun.|zaytune.
@@ -39572,7 +39596,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Olive
- trans_en: 
+ trans_en: olive
 -lexeme
  lex: zayzafun
  stem: zayzafun.
@@ -39839,7 +39863,7 @@
  trans_en: minstrel
 -lexeme
  lex: zəṭoyo/zuṭoyo
- stem: zəṭoyo.//zuṭoyo.|zəṭoye.|zuṭoye.
+ stem: zəṭoyo.//zuṭoyo.|zəṭoye.//zuṭoye.
  root: zṭy
  gramm: N,m
  paradigm: N2
