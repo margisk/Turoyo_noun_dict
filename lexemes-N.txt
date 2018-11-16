@@ -10079,117 +10079,188 @@
  trans_de: elender, niedriger Zustand
  trans_en: miserable condition
 -lexeme
- lex: ḍabʕo
- stem: ḍabʕo.|ḍabʕe.
- root: ḍbʕ
+ lex: ḏ̣aʕif/ḏaʕif/zaʕif
+ stem: ḏ̣aʕif.//ḏaʕif.//zaʕif.
+ root: ḏʕf/ḏ̣ʕf/zʕf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: abgemagert, schwach
+ trans_en: thin, emaciated, weak
+-lexeme
+ lex: ḏ̣abʕo/ḏabʕo
+ stem: ḏ̣abʕo.//ḏabʕo.|ḏ̣abʕe.//ḏabʕe.
+ root: ḏ̣bʕ/ḏbʕ
  gramm: N,f
  paradigm: N2
- trans_de: Hyäne; nicht
- trans_en: 
+ trans_de: Hyäne
+ trans_en: hyena
 -lexeme
- lex: ḍabəṭ
- stem: ḍabəṭ.|ḍəbbaṭ.
+ lex: ḏ̣abəṭ/ḏabəṭ/ḏabət/zabəṭ
+ stem: ḏ̣abəṭ.//ḏabəṭ.//ḏabət.//zabəṭ.|ḏ̣əbbat.//ḏəbbaṭ.//ḏəbbat.//zəbbaṭ//ḏ̣abəṭe.//ḏabəṭe.//ḏabəte.//zabəṭe.
  root: ḍbṭ
  gramm: N,m
  paradigm: N2
  trans_de: Offizier
- trans_en: 
+ trans_en: officer
 -lexeme
- lex: ḍayfuṯo
- stem: ḍayfuṯo.
- root: ḍyf
+ lex: ḏ̣abṭi/ḏabṭi/zabṭi
+ stem: ḏ̣abṭi.//ḏabṭi.//zabṭi.|ḏ̣abṭiye.//ḏabṭiye.//zabṭiye.
+ root: ḏ̣bṭ/ḏbṭ/zbṭ
+ gramm: N,m
+ paradigm: N2
+ trans_de: Gendarm
+ trans_en: gendarme
+-lexeme
+ lex: ḏ̣ayfuṯo/ḏayfuṯo
+ stem: ḏ̣ayfuṯo.//ḏayfuṯo.
+ root: ḏ̣yf/ḏyf
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: zu Gast sein
- trans_en: 
+ trans_en: be on a visit
 -lexeme
- lex: ḍayfo
- stem: ḍayfo.|ḍayfe.
- root: ḍyf
+ lex: ḏayfo/ḏ̣ayfo
+ stem: ḏayfo.//ḏ̣ayfo.|ḏayfe.//ḏ̣ayfe.
+ root: ḏ̣yf/ḏyf
  gramm: N,m
  paradigm: N2
  trans_de: Gast
- trans_en: 
+ trans_en: guest
 -lexeme
- lex: ḍaman
- stem: ḍaman.
+ lex: ḏ̣aman/ḏaman
+ stem: ḏ̣aman.//ḏaman.
  root: ḍmn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Garantie
- trans_en: 
+ trans_en: guaranty
 -lexeme
- lex: ḍamir
- stem: ḍamir.
- root: ḍmr
+ lex: ḏ̣amir/ḏamir
+ stem: ḏ̣amir.//ḏamir.
+ root: ḏ̣mr/ḏmr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gewissen, Gemüt
- trans_en: 
+ trans_en: conscience; temper
 -lexeme
- lex: ḍarbo
- stem: ḍarbo.|ḍarboat.//ḍarboe.
- root: ḍrb
+ lex: ḏ̣arbo/ḏ̣arbo
+ stem: ḏ̣arbo.//ḏarbo.|ḏ̣arbe.//ḏarbe.//ḏ̣arbat.//ḏarbat.
+ root: ḏrb/ḏ̣rb
  gramm: N,f
  paradigm: N2
  trans_de: Schlag, Streich
- trans_en: 
+ trans_en: strike, hit
 -lexeme
- lex: ḍiqa
- stem: ḍiqa.
+ lex: ḏ̣arar/ḏarar
+ stem: ḏ̣arar.//ḏarar.
+ root: ḏ̣rr/ḏrr
+ paradigm: unchangeable
+ trans_de: Schaden
+ trans_en: damage
+-lexeme
+ lex: ḏ̣aruri/ḏ̣ruri/ḏaruri/ḏruri
+ stem: ḏ̣aruri.//ḏ̣ruri.//ḏaruri.//ḏruri.
+ root: ḍrr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: notwendig
+ trans_en: necessary
+-lexeme
+ lex: ḏ̣iʕan/ḏiʕan
+ stem: ḏ̣iʕan.//ḏiʕan.
+ root: ḏ̣ʕn/ḏʕn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: schade um
+ trans_en: <?>
+-lexeme
+ lex: ḏ̣əlmiye/ḏəlmiye/ḏ̣ulmiye/ḏulmiye
+ stem: ḏ̣əlmiye.//ḏəlmiye.//ḏulmiye.//ḏ̣ulmiye.
+ root: ḏ̣lm/ḏlm
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Tyrannei, Unterdrückung
+ trans_en: tyranny, oppression
+-lexeme
+ lex: ḏ̣iqa/ḏiqa
+ stem: ḏ̣iqa.//ḏiqa.
  root: ḍyq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bedrängnis, Not
- trans_en: 
+ trans_en: distress, need
 -lexeme
- lex: ḍlimo
- stem: ḍlimo.|ḍlime.
+ lex: ḏ̣limo/ḏlimo
+ stem: ḏ̣limo.//ḏlimo.|ḏ̣lime.//ḏlime.
  root: ẓlm
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Unrecht geschehen ist
- trans_en: 
+ trans_de: dem Unrecht geschehen ist
+ trans_en: to whom an injustice happened
 -lexeme
- lex: ḍlomo
- stem: ḍlomo.
+ lex: ḏ̣lomo/ḏlomo
+ stem: ḏ̣lomo.//ḏlomo.
  root: ẓlm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Grausamkeit
- trans_en: 
+ trans_en: cruelty
 -lexeme
- lex: ḍolumo
- stem: ḍolumo.|ḍolume.
+ lex: ḏ̣olumo/ḏ̣əlumo/ḏ̣lumo/ḏ̣ulumo/ḏolumo/ḏəlumo/ḏlumo/ḏulumo
+ stem: ḏ̣olumo.//ḏ̣əlumo.//ḏ̣lumo.//ḏ̣ulumo.//ḏolumo.//ḏəlumo.//ḏlumo.//ḏulumo.|ḏ̣olume.//ḏ̣əlume.//ḏ̣lume.//ḏ̣ulume.//ḏolume.//ḏəlume.//ḏlume.//ḏulume.
  root: ẓlm
  gramm: N,m
  paradigm: N2
  trans_de: Tyrann, gewalttätig
- trans_en: 
+ trans_en: tyran; violent
 -lexeme
- lex: ḍulumo
- stem: ḍulumo.
- root: ẓlm
- gramm: N,m
- paradigm: N1
- trans_de: Tyrann, gewalttätig
- trans_en: 
+ lex: eba
+ stem: eba.
+ root: b
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber, doch, also
+ trans_en: but; on the contrary; so
+-lexeme
+ lex: edi
+ stem: edi.
+ root: dy
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dann, daraufhin
+ trans_en: then, afterwards
 -lexeme
  lex: efendi
- stem: efendi.|efendiiye.
+ stem: efendi.|efendiye.
  root: fnd
  gramm: N,m
  paradigm: N2
- trans_de: iye feiner Herr
- trans_en: 
+ trans_de: feiner Herr
+ trans_en: respected gentleman
 -lexeme
- lex: efəsqufo
- stem: efəsqufo.
+ lex: efendim/afandim/afandəm
+ stem: efendim.//afandim.//afandəm.
+ root: fndm
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
+-lexeme
+ lex: efəsqufo/efisqufo
+ stem: efəsqufo.//efisqufo.|efəsqufe.//efisqufe.
  root: fsqf
  gramm: N,m
  paradigm: N1
  trans_de: Bischof, war verheiratet, ist aber nicht mehr verheiratet
- trans_en: 
+ trans_en: bishop, was married, but not married anymore
+-lexeme
+ lex: ehe
+ stem: ehe.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja, ja!
+ trans_en: yes, yes!
 -lexeme
  lex: ekspres
  stem: ekspres.|ekspresat.
@@ -10197,7 +10268,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schnellzug
- trans_en: 
+ trans_en: express train
 -lexeme
  lex: el
  stem: el.|elat.
@@ -10205,7 +10276,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sippe, Stamm, Gemeinschaft
- trans_en: 
+ trans_en: kin, tribe
 -lexeme
  lex: elektrik
  stem: elektrik.|elektrikat.
@@ -10213,23 +10284,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Elektrizität, elektrisches Licht
- trans_en: 
+ trans_en: electricity, electric light
+-lexeme
+ lex: elo
+ stem: elo.
+ root: l
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: denn; aber, nur dass
+ trans_en: because; but
 -lexeme
  lex: em
  stem: em.
  root: m
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Futter
- trans_en: 
+ trans_en: fodder
+-lexeme
+ lex: ema
+ stem: ema
+ root: m
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: wann?
+ trans_en: when?
 -lexeme
  lex: emo
- stem: emo.|emooṯe.
+ stem: emo.|emoṯe.//emoṯo.//ammoṯo.//ammoṯe.//ummoṯe.//ummoṯo.
  root: m
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Mutter
+ trans_en: mother
+-lexeme
+ lex: eq
+ stem: eq.
+ root: q
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Ekels, des Abscheues, wenn man z.B. eine Schlange sieht
+ trans_en: exclamation expressing disgust, loathing, when for example someone sees a snake
 -lexeme
  lex: ero
  stem: ero.|ere.
@@ -10237,7 +10332,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Penis
- trans_en: 
+ trans_en: penis
+-lexeme
+ lex: esir
+ stem: esir.
+ root: ʔsr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gefangen
+ trans_en: caught, imprisoned
+-lexeme
+ lex: eš
+ stem: eš.
+ root: yš
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Schmerz, Krankheit
+ trans_en: pain, illness
+-lexeme
+ lex: eš
+ stem: eš.
+ root: š
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: selbstverständlich; Ausdruck der Überraschung
+ trans_de: needless to say; expressions of astonishment
 -lexeme
  lex: ənsan
  stem: ənsan.|ənsane.//ənsanat.
