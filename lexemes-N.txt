@@ -39258,17 +39258,25 @@
  stem: zambarak.
  root: zmbrk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Spiralfeder (wie in der Taschenuhr)
- trans_en: 
+ trans_en: spiral spring (as in pocket watch)
 -lexeme
  lex: zambariše
  stem: zambariše.|zambarišat.
  root: zmbrš
  gramm: N,f
  paradigm: N2
- trans_de: Kissen, das auf ein anderes gelegt wird, in der Mitte weiß überzogen, mit Wolle oder Baumwolle gefüllt, etwa
- trans_en: 
+ trans_de: Kissen, das auf ein anderes gelegt wird, in der Mitte weiß überzogen, mit Wolle oder Baumwolle gefüllt, etwa 10 cm dick
+ trans_en: pillow placed on top of another, cowered in white in the middle, filled with wool or cotton, about 10 cm thick
+-lexeme
+ lex: zamhalel
+ stem: zamhalel.
+ root: zmhll
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: groß und sonderbar (alte Mauer, Baumstumpf, Schloß)
+ trans_en: big and strange (old walls, tree stumps, locks)
 -lexeme
  lex: zamoro
  stem: zamoro.|zamore.
@@ -39276,31 +39284,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sänger, Musiker
- trans_en: 
+ trans_en: singer, musician
 -lexeme
  lex: zamq
  stem: zamq.
  root: zmq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Klebstoff
- trans_en: 
+ trans_en: glue
 -lexeme
  lex: zamrud
  stem: zamrud.
  root: zmrd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Smaragd
- trans_en: 
+ trans_en: emerald
 -lexeme
  lex: zan
  stem: zan.
  root: ẓnn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vermutung
- trans_en: 
+ trans_en: assumption
 -lexeme
  lex: zanbərto
  stem: zanbərto.|zanbəryoṯe.
@@ -39308,7 +39316,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stachel der Hornisse, des Skorpions
- trans_en: 
+ trans_en: scorpion or hornet sting
 -lexeme
  lex: zanduband
  stem: zanduband.|zandubandat.
@@ -39316,7 +39324,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ärmel
- trans_en: 
+ trans_en: sleeve
 -lexeme
  lex: zang/zəng/zangoro/zengoro/zəngoro
  stem: zang.//zəng.//zangoro.//zengoro.//zəngoro.
@@ -39326,13 +39334,29 @@
  trans_de: Rost
  trans_en: grill
 -lexeme
+ lex: zanga mirine
+ stem: zanga mirine.
+ root: zng mrn
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Todesfarbe
+ trans_en: color of death
+-lexeme
+ lex: zanganaye/zanginiye
+ stem: zanginiye.//zanginiye.
+ root: zngny
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Reichtum
+ trans_en: riches
+-lexeme
  lex: zangin
  stem: zangin.|zanegin.//zanginat.
  root: zngn
  gramm: N,m
  paradigm: N2
- trans_de: zänegin Mḏ, -at D reich
- trans_en: 
+ trans_de: reich
+ trans_en: rich
 -lexeme
  lex: zangalore
  stem: zangalore.|zangalorat.
@@ -39340,15 +39364,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Luftröhre
- trans_en: 
--lexeme
- lex: zanginiye
- stem: zanginiye.
- root: zngny
- gramm: N,f
- paradigm: N1
- trans_de: Reichtum
- trans_en: 
+ trans_en: trachea
 -lexeme
  lex: zango/zəngo
  stem: zango.//zəngo.|zangowat.//zingowat.
@@ -39362,9 +39378,9 @@
  stem: zanoyo.
  root: zny
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hurer, Ehebrecher
- trans_en: 
+ trans_en: whoremonger, adulterer
 -lexeme
  lex: zantke
  stem: zantke.|zantkat.
@@ -39372,15 +39388,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ärmel
- trans_en: 
+ trans_en: sleeve
 -lexeme
  lex: zaqaṭune
  stem: zaqaṭune.
  root: zqṭn
  gramm: ?
  paradigm: <?>
- trans_de: Spinnweb
- trans_en: 
+ trans_de: Hockestellung
+ trans_en: squatting position
 -lexeme
  lex: zaqoriṯo
  stem: zaqoriṯo.
@@ -39388,7 +39404,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Spinnweb
- trans_en: 
+ trans_en: cobweb
 -lexeme
  lex: zaqoro
  stem: zaqoro.|zaqore.
@@ -39396,7 +39412,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Weber
- trans_en: 
+ trans_en: weaver
 -lexeme
  lex: zaqtike
  stem: zaqtike.
@@ -39404,7 +39420,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Spitze des Ochsenstachels
- trans_en: 
+ trans_en: top of the ox`s spine
 -lexeme
  lex: zaqto
  stem: zaqto.|zaqte.
@@ -39430,11 +39446,11 @@
  trans_de: Schaden
  trans_en: damage
 -lexeme
- lex: zarf
- stem: zarf.
+ lex: zarf/zəlf
+ stem: zarf.//zəlf.|zəlfat.
  root: ẓrf
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Briefumschlag
  trans_en: envelope
 -lexeme
@@ -39460,7 +39476,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: unterirdisches Gelass, Höhle
- trans_en: 
+ trans_en: ungerground chamber, cave
 -lexeme
  lex: zarzar
  stem: zarzar.
@@ -39725,14 +39741,6 @@
  paradigm: <?>
  trans_de: Bauch
  trans_en: belly
--lexeme
- lex: zəlf
- stem: zəlf.|zəlfat.
- root: zlf
- gramm: N,m
- paradigm: N2
- trans_de: Briefumschlag
- trans_en: envelope
 -lexeme
  lex: zəlḥo karro/zulḥo karro
  stem: zəlḥo karro.//zulḥo karro.|zəlḥe karin.
