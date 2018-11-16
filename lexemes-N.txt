@@ -9917,143 +9917,127 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Faustschlag
- trans_en: strike with a fist
+ trans_en: punch
 -lexeme
  lex: dukṯo
- stem: dukṯo.|dukoṯo.//dəkoṯo.//dkoṯe.
+ stem: dukṯo.|dukoṯo.//dəkoṯo.//dkoṯe.//dukoṯe.//dəkoṯe.//dkoṯo.
  root: dkṯ
  gramm: N,f
  paradigm: N2
  trans_de: Ort, Stelle
- trans_en: 
+ trans_en: place
 -lexeme
- lex: dulabo
- stem: dulabo.|dulabe.
+ lex: dulabo/dəlabo
+ stem: dulabo.//dəlabo.|dulabe.//dəlabe.
  root: dlb
  gramm: N,m
  paradigm: N2
- trans_de: a) Spinnrad, Haspel b) Welle zum Heraufziehen von Wasser aus dem Brunnen
- trans_en: 
+ trans_de: Spinnrad, Haspel; Welle zum Heraufziehen von Wasser aus dem Brunnen
+ trans_en: spinning wheel, reel; <?>
 -lexeme
- lex: dumoro
- stem: dumoro.
+ lex: dulalat
+ stem: dulalat.
+ root: dll
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Reitkamele
+ trans_en: camel
+-lexeme
+ lex: dumoro/dəmoro
+ stem: dumoro.//dəmoro.|dumore.//dəmore.
  root: dmr
  gramm: N,m
- paradigm: N1
- trans_de: derbare, seltsame Sache
- trans_en: 
--lexeme
- lex: duraben
- stem: duraben.
- root: drbn
- gramm: N,m
- paradigm: N1
- trans_de: Fernrohr
- trans_en: 
--lexeme
- lex: durben
- stem: durben.
- root: drbn
- gramm: N,m
- paradigm: N1
- trans_de: Fernrohr
- trans_en: 
--lexeme
- lex: durto
- stem: durto.|durtoṯo.//doroṯe.
- root: drt
- gramm: N,f
  paradigm: N2
- trans_de: Hof
- trans_en: 
+ trans_de: wunderbare, seltsame Sache
+ trans_en: wonderful, remarkable, rare thing
 -lexeme
- lex: durŭben
- stem: durŭben.
- root: drŭbn
+ lex: duqayto
+ stem: duqayto.
+ root: dqy
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: vom Feuer schwarz und unbrauchbar gemacht
+ trans_en: made charry and unusable my fire
+-lexeme
+ lex: duraben/duruben/durben/durubin
+ stem: duraben.//duruben.//durben.//durubin.
+ root: drbn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fernrohr
- trans_en: 
+ trans_en: telescope
 -lexeme
- lex: dŭrum
- stem: dŭrum.
- root: dŭrm
+ lex: durum
+ stem: durum.
+ root: drm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Lage
- trans_en: 
+ trans_en: situation
 -lexeme
  lex: duš
  stem: duš.
  root: dš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brause
- trans_en: 
+ trans_en: shower
 -lexeme
  lex: dušmən
  stem: dušmən.|dušmən.
  root: dšmn
  gramm: N,m
  paradigm: N2
- trans_de: Feind pl
- trans_en: 
+ trans_de: Feind
+ trans_en: enemy
 -lexeme
  lex: duv
  stem: duv.
  root: dv
  gramm: N,m
- paradigm: N1
- trans_de: Fett)Schwanz
- trans_en: 
+ paradigm: <?>
+ trans_de: (Fett)Schwanz
+ trans_en: tail, fat tail
 -lexeme
  lex: duve
  stem: duve.|duvat.
  root: dv
  gramm: N,f
  paradigm: N2
- trans_de: Fett)Schwanz
- trans_en: 
+ trans_de: (Fett)Schwanz
+ trans_en: tail, fat tail
 -lexeme
  lex: duvke
- stem: duvke.
+ stem: duvke.|duvkat.
  root: dvk
- gramm: N,f
- paradigm: N1
- trans_de: Fett)schwanz
- trans_en: 
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: (Fett)schwanz
+ trans_en: tail, fat tail
 -lexeme
- lex: duwayye
- stem: duwayye.
- root: dwy
- gramm: N,f
- paradigm: N1
- trans_de: alttürkisches Tintenfass
- trans_en: 
+ lex: duwal
+ stem: duwal.
+ root: dwl
+ gram: N,pl
+ paradigm: <?>
+ trans_de: Nationen
+ trans_en: nations
 -lexeme
- lex: duxono
- stem: duxono.
- root: dxn
- gramm: N,m
- paradigm: N1
- trans_de: Rauch
- trans_en: 
--lexeme
- lex: dwayye
- stem: dwayye.|dwayyat.
+ lex: duwayye/dwayye
+ stem: duwayye.//dwayye.|duwayyat.//dwayyat.
  root: dwy
  gramm: N,f
  paradigm: N2
- trans_de: Tintenfass
- trans_en: 
+ trans_de: alttürkisches Tintenfass
+ trans_en: inkstand
 -lexeme
  lex: dwele
  stem: dwele.
  root: dwl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: dünner Lederriemen
- trans_en: 
+ trans_en: thin leather belt
 -lexeme
  lex: ḏabiḥa
  stem: ḏabiḥa.|ḏabayəḥ.
