@@ -39721,7 +39721,7 @@
  lex: zəġuno/zoġuno/ziġuno
  stem: zəġuno.//zoġuno.//ziġuno.|zəġune.//zoġune.//ziġune.
  root: zġn
- gramm: N,m
+ gramm: N,m DIM
  paradigm: N2
  trans_de: Küken, Küchel
  trans_en: chicken, chick
