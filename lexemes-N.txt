@@ -10045,39 +10045,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schlachtopfer
- trans_en: 
+ trans_en: sacrifice
+-lexeme 
+ lex: ḏalil
+ stem: ḏalil.//ḏalilin.
+ root: ḏll
+ gramm: ADJ
+ paradigm: N2
+ trans_de: gedemütigt, anderen unterworfen, unterwürfig
+ trans_en: humbled, obedient
 -lexeme
  lex: ḏanbo
  stem: ḏanbo.
  root: ḏnb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schuld, Vergehen
- trans_en: 
+ trans_en: guilt, misdeed
 -lexeme
- lex: ḏarriye
- stem: ḏarriye.
+ lex: ḏarriye/ḏərriye
+ stem: ḏarriye.//ḏərriye.
  root: ḏrr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Geschlecht, Sippe
- trans_en: 
+ trans_en: kin, relatives
 -lexeme
  lex: ḏəlliye
  stem: ḏəlliye.
  root: ḏll
  gramm: N,f
- paradigm: N1
- trans_de: der, niedriger Zustand
- trans_en: 
--lexeme
- lex: ḏərriye
- stem: ḏərriye.
- root: ḏrr
- gramm: N,f
- paradigm: N1
- trans_de: Geschlecht, Sippe
- trans_en: 
+ paradigm: <?>
+ trans_de: elender, niedriger Zustand
+ trans_en: miserable condition
 -lexeme
  lex: ḍabʕo
  stem: ḍabʕo.|ḍabʕe.
