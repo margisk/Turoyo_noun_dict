@@ -39126,8 +39126,8 @@
  trans_de: Getreidearten), Getreide
  trans_en: 
 -lexeme
- lex: zafto/zəfto
- stem: zafto.//zəfto.
+ lex: zafto/zəfto/zəft
+ stem: zafto.//zəfto.//zəft.
  root: zft
  gramm: N,m
  paradigm: <?>
@@ -39374,11 +39374,19 @@
  trans_de: Ärmel
  trans_en: 
 -lexeme
+ lex: zaqaṭune
+ stem: zaqaṭune.
+ root: zqṭn
+ gramm: ?
+ paradigm: <?>
+ trans_de: Spinnweb
+ trans_en: 
+-lexeme
  lex: zaqoriṯo
  stem: zaqoriṯo.
  root: zqr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Spinnweb
  trans_en: 
 -lexeme
@@ -39394,7 +39402,7 @@
  stem: zaqtike.
  root: zqt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Spitze des Ochsenstachels
  trans_en: 
 -lexeme
@@ -39403,56 +39411,72 @@
  root: zqt
  gramm: N,m
  paradigm: N2
- trans_de: a) Ochsenstachel. b) Geschwür
- trans_en: 
+ trans_de: Ochsenstachel; Geschwür
+ trans_en: ox goad; ulcer
 -lexeme
  lex: zaqzaq
  stem: zaqzaq.
  root: zqzq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Löwenzahn, Taraxacum officinalis oder Lentodon taraxacum
- trans_en: 
+ trans_en: dandelion, Taraxacum officinalis or Lentodon taraxacum
 -lexeme
  lex: zarar
  stem: zarar.
  root: ḍrr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schaden
- trans_en: 
+ trans_en: damage
 -lexeme
  lex: zarf
  stem: zarf.
  root: ẓrf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Briefumschlag
- trans_en: 
+ trans_en: envelope
+-lexeme
+ lex: zarif
+ stem: zarif.
+ root: ẓrf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: elegant
+ trans_en: elegant
 -lexeme
  lex: zarriye
  stem: zarriye.
  root: zrr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Geschlecht
- trans_en: 
+ trans_en: gender
 -lexeme
- lex: zarzamine
- stem: zarzamine.|zarzaminat.
+ lex: zarzamine/zarzamiye
+ stem: zarzamine.//zarzamyie.|zarzaminat.
  root: zrzmn
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ unterirdisches Gelass, Höhle
+ trans_de: unterirdisches Gelass, Höhle
  trans_en: 
+-lexeme
+ lex: zarzar
+ stem: zarzar.
+ root: zrzr
+ gramm: N,?
+ paradigm: <?>
+ trans_de: ängstliches Geschrei eines Kindes; Geschrei, Tumult
+ trans_en: anxious scream of a child; shouting, turmoil
 -lexeme
  lex: zarzur
  stem: zarzur.
  root: zrzr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Star
- trans_en: 
+ trans_en: starling
 -lexeme
  lex: zat
  stem: zat.
@@ -39716,7 +39740,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: das taube Erdehuhn
- trans_en: the deaf earth chicken ?
+ trans_en: the deaf earth chicken
 -lexeme
  lex: zələmdar
  stem: zələmdar.
