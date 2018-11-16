@@ -10358,69 +10358,109 @@
  trans_de: selbstverständlich; Ausdruck der Überraschung
  trans_de: needless to say; expressions of astonishment
 -lexeme
+ lex: əḥre
+ stem: əḥre.
+ root: ḥry
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Kot, Scheiße
+ trans_en: excrements
+-lexeme
+ lex: ənfəḥəl
+ stem: ənfəḥəl.
+ root: fḥl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Verzeihung
+ trans_en: pardon
+-lexeme
+ lex: ənkan
+ stem: ənkan.
+ root: kwn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: ob, wenn
+ trans_en: if, whether
+-lexeme
  lex: ənsan
  stem: ənsan.|ənsane.//ənsanat.
  root: ʔns
  gramm: N,m
  paradigm: N2
  trans_de: Mensch
- trans_en: 
+ trans_en: human
 -lexeme
- lex: ənzibaṭ
- stem: ənzibaṭ.
+ lex: ənzəbaṭ
+ stem: ənzəbaṭ.
  root: nzbṭ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Feldpolizist, Gendarm
- trans_en: 
+ trans_en: gendarme
+-lexeme
+ lex: əqrar
+ stem: əqrar.
+ root: qrr
+ gramm: N
+ paradigm: <?>
+ trans_de: Zugeben, Einverständnis
+ trans_en: confessing, agreement
 -lexeme
  lex: əqtidar
  stem: əqtidar.
  root: qdr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fähigkeit, Möglichkeit, Können
- trans_en: 
+ trans_en: skill; possibility, ability
+-lexeme
+ lex: əsḥa
+ stem: əsḥa.
+ root: sḥ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Pass auf! Hüte dich!
+ trans_en: attention! be careful!
 -lexeme
  lex: əstaz
  stem: əstaz.
  root: stz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Meister (als Anrede)
- trans_en: 
+ trans_en: master (as an address)
 -lexeme
  lex: əšbin
  stem: əšbin.
  root: šb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gevatter; Pate, der das Kind bei der Taufe hält
- trans_en: 
+ trans_en: godfather; person who holds a child during the baptism
 -lexeme
  lex: əxlamur
  stem: əxlamur.
  root: xlmr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Linde
- trans_en: 
+ trans_en: lime-tree
 -lexeme
  lex: əxlaṣ
  stem: əxlaṣ.
  root: xlṣ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufrichtigkeit
- trans_en: 
+ trans_en: sincerity, frankness
 -lexeme
- lex: əxtiyar
- stem: əxtiyar.|m.
+ lex: əxtiyar/xtiyar
+ stem: əxtiyar.//xtiyar.|əxtiyarin.//xtiyarin.
  root: xtyr
  gramm: N,m
  paradigm: N2
- trans_de: Sa
- trans_en: 
+ trans_de: alt
+ trans_en: old
 -lexeme
  lex: faʕaliye
  stem: faʕaliye.
