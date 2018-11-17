@@ -39266,8 +39266,16 @@
  root: zd
  gramm: N,m
  paradigm: N2
- trans_de: Getreidearten), Getreide
- trans_en: 
+ trans_de: Getreidearten, Getreide
+ trans_en: cereals
+-lexeme
+ lex: zadiqo
+ stem: zadiqo.|zadiqe.
+ root: zdq
+ gramm: N,m
+ paradigm: N2
+ trans_de: fromm
+ trans_en: pious
 -lexeme
  lex: zafto/zəfto/zəft
  stem: zafto.//zəfto.//zəft.
@@ -39278,60 +39286,76 @@
  trans_en: pitch, asfalt
 -lexeme
  lex: zago
- stem: zago.|ع·x.
+ stem: zago.|zage.
  root: zg
  gramm: N,m
  paradigm: N2
  trans_de: Glocke, Glöckchen
- trans_en: 
+ trans_en: bell, little bell
 -lexeme
  lex: zaǧre
  stem: zaǧre.
  root: zǧr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schmerz, Plage
- trans_en: 
+ trans_en: pain, plague
+-lexeme
+ lex: zaġal
+ stem: zaġal.
+ root: zġl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: heimtückisch, hinterhältig; der trotz Versöhnung den alten Groll nicht vergißt
+ trans_en: treacherous, sneaky; one that won`t forget the old grudge despite the reconciliation
 -lexeme
  lex: zaġaliye
  stem: zaġaliye.
  root: zġl
  gramm: N,f
- paradigm: N1
- trans_de: die Eigenschaft des
- trans_en: 
+ paradigm: <?>
+ trans_de: die Eigenschaft des zaġal
+ trans_en: the property of the zaġal
 -lexeme
  lex: zaġluġo
  stem: zaġluġo.
  root: zġlġ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: großer Brocken Eis
- trans_en: 
+ trans_en: big chunk of ice
 -lexeme
  lex: zahro
  stem: zahro.
  root: zhr
  gramm: N,m
- paradigm: N1
- trans_de: Blüte der Trauben nafili
- trans_en: 
+ paradigm: <?>
+ trans_de: Blüte der Trauben
+ trans_en: grape blossoms
 -lexeme
  lex: zahuro
  stem: zahuro.|zahure.
- root: zhr
+ root: zhr1
  gramm: N,m
  paradigm: N2
- trans_de: Sl
- trans_en: 
+ trans_de: blau(äugig)
+ trans_en: blue-(eyed)
+-lexeme
+ lex: zaḥf
+ stem: zaḥf.
+ root: zḥf
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: reichlich
+ trans_en: plentiful
 -lexeme
  lex: zaḥfaran
  stem: zaḥfaran.
  root: zḥfrn
  gramm: N,m
  paradigm: N1
- trans_de: a) Safran b) das, was der Vergiftete erbricht
- trans_en: 
+ trans_de: Safran; das, was der Vergiftete erbricht
+ trans_en: saffron; that which the poisoned person vomits
 -lexeme
  lex: zaḥme
  stem: zaḥme.
