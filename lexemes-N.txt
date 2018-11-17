@@ -39337,57 +39337,65 @@
  stem: zaḥme.
  root: zḥm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Mühe, Schwierigkeit
- trans_en: 
+ trans_en: trouble, difficulty
 -lexeme
- lex: zaḥqa
- stem: zaḥqa.|zaḥqat.
+ lex: zaḥqa/zaʕqa
+ stem: zaḥqa.//ʕzaqa.|zaḥqat.
  root: zʕq
  gramm: N,f
  paradigm: N2
  trans_de: Schrei
- trans_en: 
+ trans_en: shout
 -lexeme
  lex: zakme
  stem: zakme.
  root: zkm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schnupfen
- trans_en: 
+ trans_en: runny nose
 -lexeme
  lex: zalḥafe
  stem: zalḥafe.
  root: zlḥf
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schildkröte
- trans_en: 
+ trans_en: tortoise
 -lexeme
- lex: zaliqo
- stem: zaliqo.
+ lex: zaliqo/zuloqo
+ stem: zaliqo.//zuloqo.
  root: zlq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sonnenstrahl
- trans_en: 
+ trans_en: sunbeam
 -lexeme
  lex: zalṭono
  stem: zalṭono.|zalṭone.
  root: zlṭ
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: nackt PrS
- trans_en: 
+ trans_de: nackt
+ trans_en: naked
+-lexeme
+ lex: zalqoyi
+ stem: zalqoyi.
+ root: zlqy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verschlafen, schläfrig, nicht gutarbeitend
+ trans_en: sleepy, not working well
 -lexeme
  lex: zaluṭo
  stem: zaluṭo.
  root: zlṭ
- gramm: N,m
- paradigm: N1
- trans_de: Knochen)
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: blank, bloß (Knochen)
+ trans_en: bare (bones)
 -lexeme
  lex: zambalilke
  stem: zambalilke.|zambalilkat.
@@ -39395,7 +39403,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Eiszapfen
- trans_en: 
+ trans_en: icicle
 -lexeme
  lex: zambarak
  stem: zambarak.
