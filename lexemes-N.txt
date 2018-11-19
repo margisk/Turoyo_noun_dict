@@ -10750,85 +10750,117 @@
  trans_de: Gesangbuch, Pinakidion
  trans_en: vesper book, Pinakidion
 -lexeme
+ lex: fanṭiquṣṭi
+ stem: fanṭiquṣṭi.
+ root: fnṭqṣṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Pfingsten
+ trans_en: Whitsunday
+-lexeme
+ lex: faqaṭ
+ stem: faqaṭ.
+ root: fqṭ
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber
+ trans_en: but
+-lexeme
  lex: faqfuqo
  stem: faqfuqo.
  root: fqfq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleines Stück Brot
- trans_en: 
+ trans_en: small piece of bread
 -lexeme
  lex: faqir
  stem: faqir.
  root: fqr
- gramm: N,m
- paradigm: N1
- trans_de: X
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: arm
+ trans_en: poor
 -lexeme
  lex: faqiro
  stem: faqiro.|faqire.
  root: fqr
  gramm: N,m
  paradigm: N2
- trans_de: bedauernswert PrS
- trans_en: 
+ trans_de: arm, armselig, bedauernswert
+ trans_en: poor, scanty, miserable
 -lexeme
  lex: faqoro
  stem: faqoro.
  root: fqr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück (Brot, Erde, Gebirge, Stein)
- trans_en: 
+ trans_en: piece (bread, earth, mountains, stone)
 -lexeme
  lex: faqqa
- stem: faqqa.|faqqawiye.//faqqaawat.
+ stem: faqqa.|faqqawiye.//faqqawat.
  root: fqq
  gramm: N,m
  paradigm: N2
  trans_de: Schulmeister
- trans_en: 
+ trans_en: teacher
 -lexeme
  lex: faqša
  stem: faqša.|faqšat.
  root: fqš
  gramm: N,f
  paradigm: N2
- trans_de: Klatschen S
+ trans_de: Klatschen
+ trans_en: clap
+-lexeme
+ lex: faraǧ
+ stem: faraǧ.
+ root: frǧ
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Befreiung aus Not
  trans_en: 
 -lexeme
  lex: faraǧiye
  stem: faraǧiye.
  root: frǧ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Befreiung aus bedrängter Lage
  trans_en: 
 -lexeme
- lex: faranse
- stem: faranse.
+ lex: faranqa/fəranka
+ stem: faranqa.//fəranka.|faranqa.//fərankat.
+ root: frnq
+ gramm: N
+ paradigm: <?>
+ trans_de: Kugel am Bein von Gefangenen (obsolet)
+ trans_en: a small ball on a leg of a prisoner
+-lexeme
+ lex: faranse/faransa
+ stem: faranse.//faransa.
  root: frns
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Frankreich
- trans_en: 
+ trans_en: France
 -lexeme
  lex: faransawi
- stem: faransawi.|faransawiiye.
+ stem: faransawi.|faransawiye.
  root: frnsw
  gramm: N,m
  paradigm: N2
- trans_de: iye Franzose, französisch
- trans_en: 
+ trans_de: Franzose, französisch
+ trans_en: French, a French
 -lexeme
- lex: fardayso
- stem: fardayso.
+ lex: fardayso/fərdayso
+ stem: fardayso.//fərdayso.|fardayse.//fərdayse.
  root: frdys
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Paradies
- trans_en: 
+ trans_en: paradise
 -lexeme
  lex: fardiye
  stem: fardiye.|fardiyat.
@@ -10836,7 +10868,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hälfte der Doppeltragtasche
- trans_en: 
+ trans_en: half of a bag
 -lexeme
  lex: fardo
  stem: fardo.|farde.
@@ -10844,15 +10876,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: einzelnes Stück eines Paares
- trans_en: 
+ trans_en: separate member of a pair
 -lexeme
  lex: farḏo
  stem: farḏo.
  root: frḏ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Kern
- trans_en: 
+ trans_en: kernel, nucleus
 -lexeme
  lex: farəs
  stem: farəs.|fursan.
@@ -10860,15 +10892,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ritter
- trans_en: 
+ trans_en: horseman, rider
 -lexeme
- lex: farǧe
- stem: farǧe.
+ lex: farfuro
+ stem: farfuro.
+ root: frfr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: weißes Stück Schnee
+ trans_en: white piece of snow
+-lexeme
+ lex: farǧe/fərǧe/furǧe
+ stem: farǧe.//fərǧe.//furǧe.
  root: frǧ
  gramm: N,f
- paradigm: N1
- trans_de: anschauen PrS
- trans_en: 
+ paradigm: <?>
+ trans_de: Anschauen
+ trans_en: looking
 -lexeme
  lex: farḥo
  stem: farḥo.|farḥe.
@@ -10876,7 +10916,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gurke (mit etwas rauher Haut)
- trans_en: 
+ trans_en: cucumber (with a bit rough peel)
 -lexeme
  lex: farmači
  stem: farmači.
@@ -11348,14 +11388,6 @@
  gramm: N,f
  paradigm: N1
  trans_de: Armut
- trans_en: 
--lexeme
- lex: fəranka
- stem: fəranka.
- root: frnk
- gramm: N,f
- paradigm: N1
- trans_de: Kugel am Bein von Gefangenen (obsolet)
  trans_en: 
 -lexeme
  lex: fərča
