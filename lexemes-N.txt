@@ -10918,6 +10918,16 @@
  trans_de: Gurke (mit etwas rauher Haut)
  trans_en: cucumber (with a bit rough peel)
 -lexeme
+ lex: farisi
+ stem: farisi.|farisiye.
+ root: frs
+ gramm: ADJ
+ paradigm: N2
+ trans_de: persisch
+ trans_en: Persian
+-lexeme
+ lex: farma
+-lexeme
  lex: farmači
  stem: farmači.
  root: frmč
