@@ -3811,8 +3811,16 @@
  root: ʔxr
  gramm: ADV
  paradigm: unchangeable
- trans_de: schließlich, zuletzt; Ende
- trans_en: finally, at last; end
+ trans_de: schließlich, zuletzt
+ trans_en: finally, at last
+-lexeme
+ lex: axər
+ stem: axər.
+ root: ́́ʔxr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ende
+ trans_en: end
 -lexeme
  lex: axlaqat
  stem: axlaqat.
@@ -10925,8 +10933,6 @@
  paradigm: N2
  trans_de: persisch
  trans_en: Persian
--lexeme
- lex: farma
 -lexeme
  lex: farmači
  stem: farmači.
