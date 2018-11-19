@@ -10462,69 +10462,109 @@
  trans_de: alt
  trans_en: old
 -lexeme
+ lex: faʔiḏan
+ stem: faʔiḏan.
+ root: fʔḏ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dann, also
+ trans_en: then, so
+-lexeme
+ lex: fa
+ stem: fa.
+ root: f
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: und dann
+ trans_en: and then
+-lexeme
  lex: faʕaliye
- stem: faʕaliye.
+ stem: faʕaliye.|faʕaliyat.
  root: fʕl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tätigkeit
- trans_en: 
+ trans_en: activity
 -lexeme
  lex: fabriqa
- stem: fabriqa.|fabarəq.
+ stem: fabriqa.|fabarəq.//fabriqat.
  root: fbrq
  gramm: N,f
  paradigm: N2
  trans_de: Fabrik
- trans_en: 
+ trans_en: factory
 -lexeme
  lex: fačxo
  stem: fačxo.
  root: fšx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schritt
- trans_en: 
+ trans_en: step
+-lexeme
+ lex: fadʕo
+ stem: fadʕo.
+ root: fdʕ
+ gramm: N,m
+ paradigm: <?>
+ trans_de: ein wildes Tier
+ trans_en: a wild animal
 -lexeme
  lex: fadawiye
- stem: fadawiye.
+ stem: fadawiye.|fadawiyat.
  root: fdʔ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Opfer
- trans_en: 
+ trans_en: sacrifice
 -lexeme
  lex: fada
  stem: fada.
  root: fyd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aussage vor Gericht
- trans_en: 
+ trans_en: a saying before eating
 -lexeme
  lex: fadono
- stem: fadono.
+ stem: fadono.|fadone.
  root: pdn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Ochsengespann; die Fläche, die ein Ochsengespann auf einmal, an einem Tage durchackert, Tagwerk
- trans_en: 
+ trans_en: team of oxen; space which one team of oxen plows at one go, during a single day; one day's work
 -lexeme
- lex: faḍiḥa
- stem: faḍiḥa.|faḍaʔiḥ.
+ lex: faḏ̣a/faḏa
+ stem: faḏ̣a.//faḏa.
+ root: fḍw
+ gramm: N
+ paradigm: <?>
+ trans_de: Weltraum
+ trans_en: space
+-lexeme
+ lex: faḏ̣iḥa
+ stem: faḏ̣iḥa.//faḏiḥa.|faḏ̣aʔəḥ.//faḏ̣ayəḥ.//faḏaʔəḥ.//faḏayəḥ.
  root: fḍḥ
  gramm: N,f
  paradigm: N2
- trans_de: Schande; nicht
- trans_en: 
+ trans_de: Schande
+ trans_en: shame
 -lexeme
- lex: faḍəl
- stem: faḍəl.
+ lex: faḏ̣əl/faḏəl
+ stem: faḏ̣əl.//faḏəl.|faḏ̣ayəl.//faḏayəl.
+ root: fḏl
+ gramm: ADJ
+ paradigm: N2
+ trans_de: wundertätig (Heiligengrab)
+ trans_en: virtuous, decent, miracle-working (grave of a saint)
+-lexeme
+ lex: faḏ̣əl/faḏəl
+ stem: faḏ̣əl.//faḏəl.//faḏ̣l.//faḏl.|faḏayəl.//faḏ̣ayəl.
  root: fḍl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Güte, Vortrefflichkeit
- trans_en: 
+ trans_en: kindness, good personal trait
 -lexeme
  lex: fago
  stem: fago.|fage.
@@ -10532,31 +10572,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ast, Zweig
- trans_en: 
+ trans_en: branch, twig
 -lexeme
  lex: faġro
- stem: faġro.
+ stem: faġro.|faġre.
  root: pgr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: der Leib des Herrn
- trans_en: 
+ trans_en: Body of Christ
 -lexeme
  lex: fahomo
- stem: fahomo.
- root: fhm
- gramm: N,m
- paradigm: N1
- trans_de: Kf
- trans_en: 
+ stem: fahomo.|fahome.
+ root: fhm
+ gramm: ADJ
+ paradigm: N2
+ trans_de: klug, intelligent
+ trans_en: smart, intelligent
 -lexeme
  lex: fahumo
- stem: fahumo.
+ stem: fahumo.|fahumo.
  root: fhm
- gramm: N,m
- paradigm: N1
- trans_de: intelligent Ör
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: klug, intelligent
+ trans_en: smart, clever
 -lexeme
  lex: faḥl
  stem: faḥl.|männlich.
