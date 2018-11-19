@@ -10599,12 +10599,20 @@
  trans_en: smart, clever
 -lexeme
  lex: faḥl
- stem: faḥl.|männlich.
+ stem: faḥl.
+ root: fḥl
+ gramm: ADJ
+ paradigm: N2
+ trans_de: männlich (von Tieren)
+ trans_en: male (for animals)
+-lexeme
+ lex: faḥl
+ stem: faḥl.
  root: fḥl
  gramm: N,m
  paradigm: N2
- trans_de: ein pl männlich (von Tieren); عiw: sisyo
- trans_en: 
+ trans_de:
+ trans_en: maleness
 -lexeme
  lex: faḥliye
  stem: faḥliye.
