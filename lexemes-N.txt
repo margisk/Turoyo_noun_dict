@@ -10612,15 +10612,15 @@
  gramm: N,m
  paradigm: N2
  trans_de:
- trans_en: maleness
+ trans_en: maleness (of animals)
 -lexeme
  lex: faḥliye
  stem: faḥliye.
  root: fḥl
  gramm: N,f
- paradigm: N1
- trans_de: brünstig werden Mi
- trans_en: 
+ paradigm: <?>
+ trans_de: rossig, brünstig werden
+ trans_en: be in mating mood
 -lexeme
  lex: faḥmo
  stem: faḥmo.|faḥme.
@@ -10628,71 +10628,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kohle
- trans_en: 
+ trans_en: coal
 -lexeme
  lex: faḥo
  stem: faḥo.|faḥe.
- root: pḥʔ
+ root: pḥw/pḥy
  gramm: N,m
  paradigm: N2
  trans_de: Falle
- trans_en: 
+ trans_en: trap
 -lexeme
- lex: fayda
- stem: fayda.
+ lex: fayda/fayde
+ stem: fayda.//fayde.|faydat.
  root: fyd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Nutzen, Gewinn
- trans_en: 
--lexeme
- lex: fayde
- stem: fayde.
- root: fyd
- gramm: N,f
- paradigm: N1
- trans_de: Nutzen, Gewinn
- trans_en: 
+ trans_en: benefit, gain
 -lexeme
  lex: fayiṭo
  stem: fayiṭo.|fayiṭe.
  root: fyṭ
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Stroh)
- trans_en: 
+ trans_de: morsch, faul Stroh
+ trans_en: rotten, decayed (straw)
+-lexeme
+ lex: fakfuke
+ stem: fakfuke.
+ root: pḥ
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Brotkrumen
+ trans_en: breadcrumbs
 -lexeme
  lex: fako
  stem: fako.|fake.
- root: pḥ
+ root: pḥ
  gramm: N,m
  paradigm: N2
  trans_de: Bissen, Happen
- trans_en: 
+ trans_en: piece, part
 -lexeme
  lex: falḥono
- stem: falḥono.
+ stem: falḥono.|falḥone.
  root: flḥ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gemüsefeld
- trans_en: 
+ trans_en: vegetable field
 -lexeme
  lex: falito
- stem: falito.
+ stem: falito.|falite.
  root: flt
  gramm: N,m
- paradigm: N1
- trans_de: die Ehre der Leute war unbeschützt“
+ paradigm: N2
+ trans_de: schutzlog
  trans_en: 
 -lexeme
- lex: faloho
- stem: faloho.|falohe.
+ lex: faloḥo
+ stem: faloḥo.|faloḥe.
  root: flḥ
  gramm: N,m
  paradigm: N2
  trans_de: Bauer
- trans_en: 
+ trans_en: peasant, worker
 -lexeme
  lex: falqo
  stem: falqo.|falqe.
@@ -10700,23 +10700,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stück
- trans_en: 
+ trans_en: piece
 -lexeme
  lex: falsafa
  stem: falsafa.
  root: flsf
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Philosophie, Weisheit
- trans_en: 
--lexeme
- lex: fan
- stem: fan.
- root: fnn
- gramm: N,m
- paradigm: N1
- trans_de: Trick
- trans_en: 
+ trans_en: philosophy, wisdom
 -lexeme
  lex: fanar
  stem: fanar.|fanare.
@@ -10724,31 +10716,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Laterne
- trans_en: 
+ trans_en: lamp, lantern
 -lexeme
  lex: fanera
- stem: fanera.
+ stem: fanera.|fanerat.
  root: fnr
  gramm: N,f
  paradigm: N1
  trans_de: Flanell-, Wollweste, Pullover
- trans_en: 
+ trans_en: flannel- or wool vest, pull-over
 -lexeme
- lex: fanne
- stem: fanne.|fannat.
+ lex: fanne/fan
+ stem: fanne.//fan.|fannat.
  root: fnn
  gramm: N,f
  paradigm: N2
  trans_de: List, Schlich
- trans_en: 
+ trans_en: cunning, trick
 -lexeme
  lex: fanos
- stem: fanos.|fanosat?.
+ stem: fanos.|fanosat.
  root: fns
  gramm: N,m
  paradigm: N2
  trans_de: Laterne mit Petroleum
- trans_en: 
+ trans_en: lamp with kerosene
 -lexeme
  lex: fanqiṯo
  stem: fanqiṯo.|fanqiyoṯe.
@@ -10756,7 +10748,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gesangbuch, Pinakidion
- trans_en: 
+ trans_en: vesper book, Pinakidion
 -lexeme
  lex: faqfuqo
  stem: faqfuqo.
