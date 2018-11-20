@@ -39266,24 +39266,24 @@
  root: zʕp
  gramm: N,m
  paradigm: N2
- trans_de: heftige Vorwürfe
+ trans_de: 
  trans_en: 
 -lexeme
  lex: zʕurko
  stem: zʕurko.
  root: zʕrk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleiner Junge
- trans_en: 
+ trans_en: little boy
 -lexeme
  lex: zʕuro
- stem: zʕuro.|m.
+ stem: zʕuro.|zʕure.
  root: zʕr
  gramm: N,m
  paradigm: N2
  trans_de: Junge, Jüngling; f kleine Mädchen
- trans_en: 
+ trans_en: boy, youth; f little girl
 -lexeme
  lex: zaʕbara
  stem: zaʕbara.|zaʕbarat.
@@ -39291,47 +39291,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: leere Drohung
- trans_en: 
+ trans_en: empty threat
 -lexeme
  lex: zaʕif
  stem: zaʕif.
  root: ḍʕf
- gramm: N,m
- paradigm: N1
- trans_de: An
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: abgemagert, schwach
+ trans_en: thin, weak
 -lexeme
  lex: zaʕim
  stem: zaʕim.
  root: zʕm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vorsteher, Chef (der Kurden)
- trans_en: 
+ trans_en: head, chief (of the Kurds)
 -lexeme
- lex: zaʕqa
- stem: zaʕqa.
+ lex: zaʕqa/zaʕqen
+ stem: zaʕqa.//zaʕqen.
  root: zʕq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schrei
- trans_en: 
+ trans_en: scream
 -lexeme
  lex: zabilo
  stem: zabilo.
  root: zbl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: großer Korb aus Zweigen
- trans_en: 
+ trans_en: big branch basket 
 -lexeme
  lex: zabno
- stem: zabno.|zabnoin.
+ stem: zabno.|zabnin.
  root: zbn
  gramm: N,m
  paradigm: N2
  trans_de: Zeit
- trans_en: 
+ trans_en: time
 -lexeme
  lex: zabolo
  stem: zabolo.|zabole.
@@ -39339,15 +39339,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Müllkehrer
- trans_en: 
+ trans_en: street sweeper
 -lexeme
  lex: zabuqo
  stem: zabuqo.|zabəqone.
  root: zbq
  gramm: N,m
  paradigm: N2
- trans_de: Gasse pl
- trans_en: 
+ trans_de: Gasse
+ trans_en: alley
 -lexeme
  lex: zad
  stem: zad.|zadone.
