@@ -10894,8 +10894,8 @@
  trans_de: Kern
  trans_en: kernel, nucleus
 -lexeme
- lex: farəs
- stem: farəs.|fursan.
+ lex: farəs/ferəs
+ stem: farəs.//ferəs.|fursan.//ferəsin.//ferəs.//ferəsat.
  root: frs
  gramm: N,m
  paradigm: N2
@@ -10934,125 +10934,133 @@
  trans_de: persisch
  trans_en: Persian
 -lexeme
- lex: farmači
- stem: farmači.
- root: frmč
+ lex: farmači/fərənči/fərnači/funači
+ stem: farmači.//fərənči.//fərnači.//funači.|farmačiye.//fərənčiye.//fərnačiye.//funačiye.
+ root: frm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bäcker
- trans_en: 
+ trans_en: baker
 -lexeme
  lex: farmal
  stem: farmal.
  root: frml
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Reißverschluß
- trans_en: 
+ trans_en: zipper
 -lexeme
- lex: farman
- stem: farman.
+ lex: farman/fərman
+ stem: farman.//fərman.|farmana.//fərmanat.
  root: frmn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Befehl des Sultans
- trans_en: 
+ trans_en: order of the sultan; slaughter, genocide
 -lexeme
  lex: farše
  stem: farše.|faršat.
  root: frš
  gramm: N,f
  paradigm: N2
- trans_de: große Steinplatte (bis zur Dicke von
- trans_en: 
+ trans_de: große Steinplatte (bis zur Dicke von 5-7 cm)
+ trans_en: big stone slabs (with thickness up to 5-7 cm)
 -lexeme
- lex: farmo
- stem: farmo.|farme.
+ lex: farmo/farma
+ stem: farmo.//farma.//fərna.|farme.//farmat.//fərnat.
  root: frm
  gramm: N,m
  paradigm: N2
- trans_de: a) Backofen b) Rauchfass
- trans_en: 
+ trans_de: Backofen; Rauchfass
+ trans_en: oven; cense
 -lexeme
  lex: faro
  stem: faro.|fare.
  root: fr
  gramm: N,m
  paradigm: N2
- trans_de: Schaflamm; pl
- trans_en: 
+ trans_de: Schaflamm
+ trans_en: lamb
 -lexeme
  lex: faromo
  stem: faromo.
  root: frm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bäcker
- trans_en: 
+ trans_en: baker
 -lexeme
  lex: farošo
  stem: farošo.|faroše.
  root: prš
  gramm: N,m
  paradigm: N2
- trans_de: Reiter, Ritter; nicht
- trans_en: 
+ trans_de: Reiter, Ritter
+ trans_en: horseman, rider
 -lexeme
  lex: farq
- stem: farq.
+ stem: farq.|farqat.
  root: frq
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Unterschied
- trans_en: 
+ trans_en: difference
 -lexeme
  lex: farqiye
- stem: farqiye.
+ stem: farqiye.|farqiyat.
  root: frq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Unterschied
- trans_en: 
+ trans_en: difference
 -lexeme
  lex: farrat
  stem: farrat.
  root: frt
  gramm: N,m
- paradigm: N1
- trans_de: Edelmann
- trans_en: 
+ paradigm: unchangeable
+ trans_de: freigebig, Edelmann
+ trans_en: generous, noble
 -lexeme
  lex: farsana
  stem: farsana.
  root: frs
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ritterlichkeit, Rittertugend
- trans_en: 
+ trans_en: knighthood, chivalry
 -lexeme
  lex: farške
- stem: farške.
+ stem: farške.|farškat.
  root: frš
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: kleine Platte
- trans_en: 
+ trans_en: small slab
 -lexeme
  lex: farṭana
  stem: farṭana.
  root: frṭn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sturm
- trans_en: 
+ trans_en: storm
+-lexeme
+ lex: faruḏe/paruḏe
+ stem: faruḏe.//paruḏe.
+ root: frḏ/prḏ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Kleingeld
+ trans_en: (small) change
 -lexeme
  lex: faruxo
  stem: faruxo.|faruxe.
  root: frx
  gramm: N,m
  paradigm: N2
- trans_de: junges Tier/
- trans_en: 
+ trans_de: junges Tier, Mensch, Pflanze
+ trans_en: young animal or man or plant
 -lexeme
  lex: farxo
  stem: farxo.|farxe.
@@ -11060,54 +11068,61 @@
  gramm: N,m
  paradigm: N2
  trans_de: Junges von jeder Art von Tieren
- trans_en: 
+ trans_en: cub of all animal types
 -lexeme
  lex: farzlo
  stem: farzlo.
  root: frzl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Eisen
- trans_en: 
+ trans_en: iron
 -lexeme
  lex: fasadiye
  stem: fasadiye.
  root: fsd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verdorbenheit, Heimtücke
- trans_en: 
+ trans_en: taint; treachery
 -lexeme
- lex: faso
- stem: faso.
- root: fs
- gramm: N,m
- paradigm: N1
- trans_de: Lappen
- trans_en: 
--lexeme
- lex: fasto
- stem: fasto.|faste.
+ lex: fasto/faso/pasto
+ stem: fasto.//pasto.//faso.|faste.//paste.//fase.
  root: fst
  gramm: N,f
  paradigm: N2
  trans_de: Lappen
- trans_en: 
+ trans_en: rag
+-lexeme
+ lex: fasx
+ stem: fasx.
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Aufhebung, Ungültigkeitserklärung eines Gerichtsbeschlusses
+ trans_en: revocation of a court order
 -lexeme
  lex: faṣal
- stem: faṣal.
+ stem: faṣal.|faṣalat.
  root: fṣl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Körperschnitt, Schnitt der Kleider; Art und Weise
- trans_en: 
+ trans_en: <?>, cut on clothes; manner, way
+-lexeme
+ lex: faṣiḥ
+ stem: faṣiḥ.
+ root: fṣḥ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sprachrichtig, deutlich
+ trans_en: clear, grammatically correct
 -lexeme
  lex: faṣəl
  stem: faṣəl.
  root: fṣl
  gramm: N,m
  paradigm: N1
- trans_de: a) Abschnitt. 	b) Waffenstillstand
+ trans_de: Abschnitt; Waffenstillstand
  trans_en: 
 -lexeme
  lex: faṣṣo
@@ -11116,111 +11131,135 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ringstein
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: faṣuliye
- stem: faṣuliye.
+ stem: faṣuliye.|faṣuliyat.
  root: fṣl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bohne
- trans_en: 
+ trans_en: bean
 -lexeme
- lex: fašxa
- stem: fašxa.|fašxat.
+ lex: faš
+ stem: faš.
+ root: fš
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Fez
+ trans_en: fez
+-lexeme
+ lex: fašxa/fačxa/fačxo
+ stem: fašxa.//fačxa.//fačxo.|fašxat.//fačxat.
  root: fšx
  gramm: N,f
  paradigm: N2
  trans_de: Schritt, Schrittweite, Sprungweite
- trans_en: 
+ trans_en: step, step length (?), jump jength (?)
 -lexeme
- lex: fatiro
- stem: fatiro.|fatire.
+ lex: fatiro/faturo
+ stem: fatiro.//faturo.|fatire.//fature.
  root: ftr
  gramm: N,m
  paradigm: N2
- trans_de: a) lauwarm b) Stück einer Frucht
- trans_en: 
+ trans_de: lauwarm
+ trans_en: lukewarm
 -lexeme
  lex: fatqoyi
  stem: fatqoyi.
- root: ftq	b)
+ root: ftq
  gramm: N,m
  paradigm: N1
- trans_de: a) an einem Bruch, einer Hernia leidend b) Stück einer Frucht
- trans_en: 
+ trans_de: an einem Bruch, einer Hernia leidend;
+ trans_en: suffering from hernia
 -lexeme
  lex: faṭərto
  stem: faṭərto.|faṭəryoṯe.
  root: fṭr
  gramm: N,f
  paradigm: N2
- trans_de: a) Pilz b) Gebäck, bei dem der Teig, ähnlich wie bei unseren Krapfen in siedendem Öl gebacken wird. Hauptnahrungsmittel der Mönche; nicht
- trans_en: 
+ trans_de: Pilz; Gebäck, bei dem der Teig, ähnlich wie bei unseren Krapfen in siedendem Öl gebacken wird. Hauptnahrungsmittel der Mönche
+ trans_en: mushroom; pastry for which dough is cooked in boiling oil, like for pancakes; main dish of monks
 -lexeme
  lex: faṭəryarxo
- stem: faṭəryarxo.
+ stem: faṭəryarxo.|faṭəryarxe.
  root: fṭryrx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Patriarch
- trans_en: 
+ trans_en: patriarch
 -lexeme
  lex: faṭəryarxuṯo
  stem: faṭəryarxuṯo.
  root: fṭryrxṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Patriarchat
- trans_en: 
+ trans_en: patriarchy
 -lexeme
  lex: faṭiro
  stem: faṭiro.
  root: pṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: ungesäuertes Brot
- trans_en: 
+ trans_en: unleavened bread
 -lexeme
  lex: faṯyo
  stem: faṯyo.|faṯye.
- root: ptʔ
+ root: ptw/pty
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ; nicht
- trans_en: 
+ trans_de: breit
+ trans_en: wide
 -lexeme
  lex: fawḥo
  stem: fawḥo.
  root: fwḥ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kühle
- trans_en: 
+ trans_en: cool
 -lexeme
- lex: fayiḥo
- stem: fayiḥo.|fayiḥe.
+ lex: fawqalʕadat
+ stem: fawqalʕadat.
+ root: fwqlʕd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: außerordentlich, ungewöhnlich
+ trans_en: extraordinary, unusual
+-lexeme
+ lex: fawqəlʕade
+ stem: fawqəlʕade.
+ root: fwqlʕd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: großartig, außerordentlich
+ trans_en: remarkable, extraordinary
+-lexeme
+ lex: fayiḥo/fayuḥo
+ stem: fayiḥo.//fayuḥo.|fayiḥe.//fayuḥe.
  root: fwḥ
  gramm: N,m
  paradigm: N2
- trans_de: Mi
- trans_en: 
+ trans_de: frisch, leicht, kühl
+ trans_en: fresh, light, cool
 -lexeme
- lex: fayuḥo
- stem: fayuḥo.
- root: fwḥ
- gramm: N,m
- paradigm: N1
- trans_de: AS
- trans_en: 
+ lex: fazaʕa
+ stem: fazaʕa.
+ root: fzʕ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gewaltig
+ trans_en: large
 -lexeme
  lex: feḥəl
  stem: feḥəl.|fḥelat.//fḥele.
  root: fḥl
  gramm: N,m
  paradigm: N2
- trans_de: Opfer; l-
- trans_en: 
+ trans_de: Opfer
+ trans_en: sacrifice
 -lexeme
  lex: fekiye
  stem: fekiye.|fekiyat.
@@ -11228,15 +11267,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Obst, Frucht
- trans_en: 
+ trans_en: fruit
 -lexeme
- lex: femo
- stem: femo.
+ lex: femo/pemo
+ stem: femo.//pemo.|feme.//peme.
  root: fm
  gramm: N,m
- paradigm: N1
- trans_de: a) Mund, Maul; marfi femo mene! marféi femo mene! „rede nicht mehr von ihm, lass ihn!“ b) Rand, Ufer, Eingang, Luke Mündung; l-feme
- trans_en: 
+ paradigm: N2
+ trans_de: Mund, Maul; Rand, Ufer, Eingang, Luke Mündung
+ trans_en: mouth; edge, shore, entrance, hatch opening
 -lexeme
  lex: ferəxto
  stem: ferəxto.
