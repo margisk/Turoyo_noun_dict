@@ -11458,6 +11458,14 @@
  trans_de: gesunder, sauberer, gepflegter Mensch
  trans_en: healthy, clean, well-groomed person
 -lexeme
+ lex: fərfər
+ stem: fərfər.
+ root: frfr
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch des Aufziehens der Nase
+ trans_en:
+-lexeme
  lex: fərǧa
  stem: fərǧa.
  root: frǧ
