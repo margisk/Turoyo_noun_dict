@@ -10542,8 +10542,8 @@
  trans_de: Ochsengespann; die Fläche, die ein Ochsengespann auf einmal, an einem Tage durchackert, Tagwerk
  trans_en: team of oxen; space which one team of oxen plows at one go, during a single day; one day's work
 -lexeme
- lex: faḏ̣a/faḏa
- stem: faḏ̣a.//faḏa.
+ lex: faḏ̣a/faḏa/feza
+ stem: faḏ̣a.//faḏa.//feza.
  root: fḍw
  gramm: N
  paradigm: <?>
@@ -11277,37 +11277,29 @@
  trans_de: Mund, Maul; Rand, Ufer, Eingang, Luke Mündung
  trans_en: mouth; edge, shore, entrance, hatch opening
 -lexeme
- lex: ferəxto
- stem: ferəxto.
+ lex: ferəxto/feruxto
+ stem: ferəxto.//feruxto.
  root: frx
  gramm: N,f
- paradigm: N1
- trans_de: Kichererbsen, Weizen)
- trans_en: 
+ paradigm: <?>
+ trans_de: frisch (Kichererbsen, Weizen); man zerreibt frische Getreide und isst es, wie Jesu Jünger am Sabbat; frisches Gemüse jeder Art
+ trans_en: fresh (chickpea, wheat); one grinds fresh corn and eats it, like the disciples of Jesus did on Sabbath; fresh vegetables of every kind
 -lexeme
  lex: ferisiye
  stem: ferisiye.
  root: frs
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ritterlichkeit
- trans_en: 
--lexeme
- lex: feruxto
- stem: feruxto.
- root: frx
- gramm: N,f
- paradigm: N1
- trans_de: zerriebener Weizen
- trans_en: 
+ trans_en: knighthood, chivalry
 -lexeme
  lex: fewalto
  stem: fewalto.
  root: pwl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mehl, das man in flüssigen Teig streut, um ihn steifer zu machen
- trans_en: 
+ trans_en: flour which one pours into watery dough to make it more firm
 -lexeme
  lex: feyəḥto
  stem: feyəḥto.|feyəḥyoṯe.
@@ -11315,15 +11307,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Spülwasser, das von der Weizengrütze abtrauft
- trans_en: 
--lexeme
- lex: feza
- stem: feza.
- root: fḍw
- gramm: N,f
- paradigm: N1
- trans_de: Weltraum
- trans_en: 
+ trans_en: water which drips from wheat corn
 -lexeme
  lex: fəʕl
  stem: fəʕl.|afʕal.
@@ -11331,15 +11315,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tat
- trans_en: 
+ trans_en: deed
+-lexeme
+ lex: fəʕlan
+ stem: fəʕlan.
+ root: fʕl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: tatsächlich
+ trans_en: in fact
 -lexeme
  lex: fəʕliye
- stem: fəʕliye.
+ stem: fəʕliye.|fəʕliyat.
  root: fʕl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tun, Handeln
- trans_en: 
+ trans_en: behaviour, deeds
 -lexeme
  lex: fədʕan
  stem: fədʕan.
@@ -11347,23 +11339,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Ungeheuer mit Ochsenaugen, einer Nase wie ein Schweinsrüssel, einem Maul breit wie das eines Kamels, Füssen wie Bärenfüsse. Es ist nackt und trägt nur einen wollenen Lappen um den Leib. Es ist so groß wie ein Esel und läuft auf zwei Füssen, die Arme nach hinten gestreckt.
- trans_en: 
+ trans_en:
 -lexeme
  lex: fəgʕo
  stem: fəgʕo.
  root: pgʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Begegnung
- trans_en: 
--lexeme
- lex: fəhumo
- stem: fəhumo.
- root: fhm
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ; nicht
- trans_en: 
+ trans_en: encounter
 -lexeme
  lex: fəkar
  stem: fəkar.|fəkarat.
@@ -11371,167 +11355,140 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gedanken, die man sich macht
- trans_en: 
+ trans_en: thought which one thinks to oneself
 -lexeme
  lex: fəkər
- stem: fəkər.|fəkərat.
+ stem: fəkər.//fəkr.|fəkərat.//fəkrat.
  root: fkr
  gramm: N,m
  paradigm: N2
  trans_de: Nachdenken, Denkfähigkeit, Verstand; Sinnen, Grübeln
- trans_en: 
+ trans_en: thought, ability to think; mind; reflection, pondering
 -lexeme
  lex: fəkke
- stem: fəkke.
+ stem: fəkke.|fəkkat.
  root: fkk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Lösung
- trans_en: 
+ trans_en: solution
 -lexeme
- lex: fələm
- stem: fələm.|fələmat.
+ lex: fəlan/flan/falan/filan
+ stem: fəlan.//flan.//falan.//filan.
+ root: fln
+ gramm: 
+ paradigm: unchangeable
+ trans_de: so und so, der un der
+ trans_en: so and so, such and such
+-lexeme
+ lex: fələm/fəlim
+ stem: fələm.//fəlim.|fələmat.//fəlimat.
  root: flm
  gramm: N,m
  paradigm: N2
  trans_de: Film
- trans_en: 
+ trans_en: film
 -lexeme
- lex: fəlgo
- stem: fəlgo.
+ lex: fəlgo/falgo
+ stem: fəlgo.//falgo.|fəlgone.//falgone.
  root: plg
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mitte, Hälfte
- trans_en: 
+ trans_en: middle, half
 -lexeme
- lex: fənǧan
- stem: fənǧan.|fineǧin.
+ lex: fənǧan/fənǧane
+ stem: fənǧan.//fənǧane.|fəneǧən.//fənǧanat.
  root: fnǧn
  gramm: N,m
  paradigm: N2
- trans_de: finecin Tasse
- trans_en: 
--lexeme
- lex: fənǧane
- stem: fənǧane.
- root: fnǧn
- gramm: N,f
- paradigm: N1
  trans_de: Tasse
- trans_en: 
+ trans_en: cup
 -lexeme
- lex: fəndiqo
- stem: fəndiqo.|fəndiqe.
+ lex: fəndaq/fundaq/fəndiqo/bəndəqo/bəndaqaye
+ stem: fəndaq.//fundaq.//fəndiqo.//bəndəqo.//bəndaqaye.|fəndiqe.//bəndaqayat.//bəndaq.
  root: fndq
- gramm: N,m
- paradigm: N2
- trans_de: Haselnuss
- trans_en: 
+ gramm: N
 -lexeme
  lex: fəqər
  stem: fəqər.
  root: fqr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Armut
- trans_en: 
+ trans_en: poverty
 -lexeme
  lex: fəqriye
  stem: fəqriye.
  root: fqr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Armut
- trans_en: 
+ trans_en: poverty
+-lexeme
+ lex: fərafir
+ stem: fərafir.
+ root: frfr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Wiehern; Lärmen des Windes
+ trans_en: neighing; noise from wind
 -lexeme
  lex: fərča
  stem: fərča.
  root: frč
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bürste
- trans_en: 
+ trans_en: brush
 -lexeme
- lex: fərdayso
- stem: fərdayso.
- root: frdys
- gramm: N,m
- paradigm: N1
- trans_de: Paradies
- trans_en: 
--lexeme
- lex: fərḏino
- stem: fərḏino.|fərḏine.
- root: frḏn
+ lex: fərḏino/fərḏuno
+ stem: fərḏino.//fərḏuno.|fərḏine.//fərḏune.
+ root: frḏ
  gramm: N,m
  paradigm: N2
  trans_de: Krume
- trans_en: 
+ trans_en: crumbs
 -lexeme
- lex: fərḏuno
- stem: fərḏuno.|fərḏune.
- root: frḏn
- gramm: N,m
+ lex: fərənǧi
+ stem: fərənǧi.|fərənǧiye.
+ root: frnǧ
+ gramm: N
  paradigm: N2
- trans_de: Krume; pl
- trans_en: 
--lexeme
- lex: fərənči
- stem: fərənči.
- root: frnč
- gramm: N,m
- paradigm: N1
- trans_de: Bäcker
- trans_en: 
+ trans_de: gesunder, sauberer, gepflegter Mensch
+ trans_en: healthy, clean, well-groomed person
 -lexeme
  lex: fərǧa
  stem: fərǧa.
  root: frǧ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zuschauen, Betrachten, Anblick, Schauspiel
- trans_en: 
+ trans_en: watching, observing, look at, spectacle
 -lexeme
  lex: fərḥa
  stem: fərḥa.
  root: frḥ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freude
- trans_en: 
+ trans_en: gladness
+-lexeme
+ lex: fərḥan
+ stem: fərḥan.
+ root: frḥ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: fröhlich
+ trans_en: glad
 -lexeme
  lex: fərḥuṯo
  stem: fərḥuṯo.
  root: frḥṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freude
- trans_en: 
--lexeme
- lex: fərman/firman
- stem: fərman/firman.
- root: frmn/frmn
- gramm: N,m
- paradigm: N1
- trans_de: Metzelei (eigentlich Befehl des Sultans)
- trans_en: 
--lexeme
- lex: fərna
- stem: fərna.|fərnaawat.
- root: frn
- gramm: N,f
- paradigm: N2
- trans_de: Backofen
- trans_en: 
--lexeme
- lex: fərnači
- stem: fərnači.
- root: frnč
- gramm: N,m
- paradigm: N1
- trans_de: Bäcker
- trans_en: 
+ trans_en: gladness
 -lexeme
  lex: fərnəke
  stem: fərnəke.|fərnəkat.
