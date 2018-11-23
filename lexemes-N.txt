@@ -11038,8 +11038,8 @@
  trans_de: kleine Platte
  trans_en: small slab
 -lexeme
- lex: farṭana
- stem: farṭana.
+ lex: farṭana/fərṭana
+ stem: farṭana.//fərṭana.
  root: frṭn
  gramm: N,f
  paradigm: <?>
@@ -11458,8 +11458,8 @@
  trans_de: gesunder, sauberer, gepflegter Mensch
  trans_en: healthy, clean, well-groomed person
 -lexeme
- lex: fərfər
- stem: fərfər.
+ lex: fərfər/firfir
+ stem: fərfər.//firfir.
  root: frfr
  gramm: N
  paradigm: <?>
@@ -11504,7 +11504,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Nasenloch
- trans_en: 
+ trans_en: nostril
 -lexeme
  lex: fərqa
  stem: fərqa.|fəraq.
@@ -11512,39 +11512,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Abteilung
- trans_en: 
+ trans_en: division, branch
 -lexeme
- lex: fərsa
- stem: fərsa.|fəras.
+ lex: fərsa/fərṣa
+ stem: fərsa.//fərṣa|fəras.//fəraṣ.//fərṣat.
  root: frṣ
  gramm: N,f
  paradigm: N2
  trans_de: Gelegenheit; beim Fechten: Blöße
- trans_en: 
+ trans_en: opportunity 
 -lexeme
- lex: fəršə́k
- stem: fəršə́k.
+ lex: fəršək
+ stem: fəršək.|fəršəkin.
  root: frš́k
  gramm: N,m
- paradigm: N1
- trans_de: a) Milch, die aus dem Magen des toten Jungtieres geholt wird. 	b) die erste gesaugte Milch c) zum ersten Male Milch saugend
- trans_en: 
+ paradigm: N2
+ trans_de: Milch, die aus dem Magen des toten Jungtieres geholt wird; die erste gesaugte Milch; zum ersten Male Milch saugend
+ trans_en: chymase; first milk sucked; sucking the milk for the first time
 -lexeme
  lex: fəršono
- stem: fəršono.
+ stem: fəršono.|fəršone.
  root: fršn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Totenmahlzeit
- trans_en: 
+ trans_en: funeral banquet
 -lexeme
  lex: fərto
- stem: fərto.
+ stem: fərto.|fərtoṯo.//fərtoṯe.
  root: frt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kleie
- trans_en: 
+ trans_en: bran
 -lexeme
  lex: fərṭaʕno
  stem: fərṭaʕno.|fərṭaʕne.
@@ -11552,23 +11552,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Floh
- trans_en: 
+ trans_en: flea
 -lexeme
- lex: fərṭəna
- stem: fərṭəna.
- root: frṭn
- gramm: N,f
- paradigm: N1
- trans_de: Sturm
- trans_en: 
+ lex: fəš
+ stem: fəš.
+ root: fš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: dick, böse, aufgeblasen, aber ohne Kraft
+ trans_en: fat, angry, arrogant, but without power
 -lexeme
- lex: fəšak
- stem: fəšak.|fəšakat.//fšakkat.
+ lex: fəšak/fišakke
+ stem: fəšak.//fišakke.//fəšakke.|fəšakat.//fšakkat.//fišakkat.
  root: fšk
  gramm: N,m
  paradigm: N2
- trans_de: Patrone; pl
- trans_en: 
+ trans_de: Patrone
+ trans_en: cartridge, shell
+-lexeme
+ lex: fəšfəš
+ stem: fəšfəš.
+ root: fšfš
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch des Schnaufens
+ trans_en: sound of puffing
+-lexeme
+ lex: fəšša
+ stem: fəšša
+ root: fš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verstopf (Nase)
+ trans_en: blocked (nose)
 -lexeme
  lex: fəššəkke
  stem: fəššəkke.|fəššəkkat.
@@ -11576,55 +11592,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Lunge
- trans_en: 
+ trans_en: lung
 -lexeme
- lex: fəšwiṯo
- stem: fəšwiṯo.|fəšwoṯe.
- root: fšwṯ
+ lex: fəšwiṯo/pəšwiṯo
+ stem: fəšwiṯo.//pəšwiṯo.|fəšwoṯe.//fəšwoṯo.//pəšwoṯe.//pəšwoṯo.
+ root: fšw
  gramm: N,f
  paradigm: N2
- trans_de: leiser Furz; nicht
- trans_en: 
+ trans_de: leiser Furz
+ trans_en: silent fart
+-lexeme
+ lex: fəṣḥa
+ stem: fəṣḥa.
+ root: fṣḥ
+ gramm: N,m,f
+ paradigm: unchangeable
+ trans_de: Freude
+ trans_en: gladness, happiness
+-lexeme
+ lex: fəṣḥuṯo
+ stem: fəṣḥuṯo.
+ root: fṣḥ
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Freude
+ trans_en: gladness, happiness
 -lexeme
  lex: fəṣṭan
- stem: fəṣṭan.|fṣeṭin.
+ stem: fəṣṭan.|fṣeṭən.
  root: fṣṭn
  gramm: N,m
  paradigm: N2
  trans_de: Frauenrock
- trans_en: 
+ trans_en: dress, skirt
 -lexeme
- lex: fəṭna
- stem: fəṭna.
+ lex: fətuḥo/fotuḥo/futuḥo
+ stem: fətuḥo.//fotuḥo.//futuḥo.|fətuḥe.//fotuḥe.//futuḥe.
+ root: ftḥ
+ gramm: N,m
+ paradigm: N2
+ trans_de: frischer Kuhmist
+ trans_en: fresh manure
+-lexeme
+ lex: fəṭna/fəṭne
+ stem: fəṭna.//fəṭne.
  root: ftn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zwist, Verleumdung
- trans_en: 
+ trans_en: discord, slander
 -lexeme
- lex: fəṭṭuro
- stem: fəṭṭuro.
- root: fṭr
- gramm: N,m
- paradigm: N1
- trans_de: leichtes Frühstück nach dem Aufstehen
- trans_en: 
--lexeme
- lex: fida
- stem: fida.
+ lex: fida/fide
+ stem: fida.//fide.
  root: fdy
  gramm: N,m
- paradigm: N1
- trans_de: Lösegeld; huli
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Lösegeld
+ trans_en: ransom
 -lexeme
- lex: fide
- stem: fide.
- root: fdy
- gramm: N,m
- paradigm: N1
- trans_de: Lösegeld; fide howe laǧanayxu fide howe lacanäixu! „er sei für euch hingegeben“
- trans_en: 
+ lex: fikfik
+ stem: fikfik.
+ root: fkfk
+ gramm: N
+ paradigm: <?>
+ trans_de: Zischen der Schlange
+ trans_en: hissing of snakes
 -lexeme
  lex: fil
  stem: fil.|filat.
@@ -11632,55 +11664,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Elefant
- trans_en: 
+ trans_en: elephant
 -lexeme
- lex: filifus
- stem: filifus.|filifusin.
+ lex: filifus/filisufo
+ stem: filifus.|filifusin.//filisufe.
  root: flsf
  gramm: N,m
  paradigm: N2
  trans_de: Philosoph
- trans_en: 
--lexeme
- lex: filisufo
- stem: filisufo.
- root: flsf
- gramm: N,m
- paradigm: N1
- trans_de: Philosoph
- trans_en: 
+ trans_en: philosopher
 -lexeme
  lex: finaske
  stem: finaske.|finaskat.
  root: fns
  gramm: N,f
  paradigm: N2
- trans_de: a) schmutziges Tun b) Angeber
- trans_en: 
+ trans_de: schmutziges Tun; Angeber
+ trans_en: dirty deed; informer
+-lexeme
+ lex: fineš
+ stem: fineš.
+ root: fnš
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ende
+ trans_en: end, finish
 -lexeme
  lex: finok
  stem: finok.
  root: fnk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schosshündchen
- trans_en: 
+ trans_en: pet dog
 -lexeme
  lex: firar
  stem: firar.|firarin.
  root: frr
  gramm: N,m
  paradigm: N2
- trans_de: fahnenflüchtig PrS
- trans_en: 
+ trans_de: fahnenflüchtig
+ trans_en: deserter
 -lexeme
  lex: firo
  stem: firo.|fire.
  root: fr
  gramm: N,m
  paradigm: N2
- trans_de: a) Frucht b) schwarzes Käppchen, das die Geistlichen unter der Tiara oder dem schwarzen Zylinder tragen und nie absetzen
- trans_en: 
+ trans_de: Frucht (eines Baumes, eines Geschlechtes); schwarze Käppchen, das die Geistlichen unter der Tiara oder dem schwarzen Zylinder tragen und nie absetzen
+ trans_en: fruit (of a tree; <?>); black hat which clergy wears under a tiara or a black tophat and which is never taken off
 -lexeme
  lex: fiš
  stem: fiš.|fišat.
@@ -11688,23 +11720,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Karte, Zettel
- trans_en: 
+ trans_en: card, slip of paper
 -lexeme
  lex: fiya
  stem: fiya.
  root: fy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Preis
- trans_en: 
+ trans_en: price
 -lexeme
  lex: flaḥa
  stem: flaḥa.
  root: flḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Landwirtschaft
- trans_en: 
+ trans_en: agriculture
 -lexeme
  lex: fnase
  stem: fnase.|fnasat.
@@ -11712,15 +11744,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: schlechtes Tun (was der Arzt verboten hat)
- trans_en: 
+ trans_en: bad thing to do (what a doctor forbade to do)
 -lexeme
- lex: fohumo
- stem: fohumo.|fohume.
+ lex: fohumo/fəhumo
+ stem: fohumo.//fəhumo.|fohume.//fəhume.
  root: fhm
  gramm: N,m
  paradigm: N2
- trans_de: Sl
- trans_en: 
+ trans_de: verständig, klug
+ trans_en: understanding, smart
+-lexeme
+ lex: foqəlḥad
+ stem: foqəlḥad.
+ root: fqlḥd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: außergewöhnlich
+ trans_en: unusual, extraordinary
 -lexeme
  lex: foqo
  stem: foqo.|foqe.
@@ -11728,55 +11768,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Nasenloch
- trans_en: 
+ trans_en: nostril
 -lexeme
  lex: foquʕo
- stem: foquʕo.|foquʕe.
+ stem: foquʕo.//fəquʕo.|foquʕe.//fəquʕe.
  root: pqʕ
  gramm: N,m
  paradigm: N2
  trans_de: unreife Feige
- trans_en: 
+ trans_en: unripe fig
 -lexeme
- lex: forahto
- stem: forahto.|fərhoṯe.
- root: frht
+ lex: foraḥto
+ stem: foraḥto.|fərḥoṯe.//fərḥoṯo.
+ root: frḥt
  gramm: N,f
  paradigm: N2
  trans_de: Tiere, die fliegen
- trans_en: 
+ trans_en: flying creatures
 -lexeme
- lex: fotuḥo
- stem: fotuḥo.|fotuḥe.
- root: ptḥ
- gramm: N,m
- paradigm: N2
- trans_de: frischer Kuhfladen
- trans_en: 
+ lex: fors
+ stem: fors.
+ root: frs
+ gramm: N
+ paradigm: unchangeable
+ trans_de: sich ein Ansehen geben, sich brüsten, angeben
+ trans_en: <?>
 -lexeme
  lex: foṯo
- stem: foṯo.|fətoṯo.
+ stem: foṯo.|fətoṯo.//fəṯoṯo.
  root: pwt
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Gesicht, Oberfläche; Überzug, Tischdecke; Marschrichtung; Deckel; Seite (eines Buches)
+ trans_en: face, surface; table cloth, cover; marching direction; lid; page of a book
 -lexeme
  lex: foṯuro
  stem: foṯuro.
  root: fṯr
  gramm: N,m
- paradigm: N1
- trans_de: Ess)tisch
- trans_en: 
+ paradigm: <?>
+ trans_de: (Ess)tisch
+ trans_en: dining table
 -lexeme
  lex: frang
  stem: frang.
  root: frng
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Frank (Geldstück)
- trans_en: 
+ trans_en: franc (currency)
 -lexeme
  lex: franga
  stem: franga.
