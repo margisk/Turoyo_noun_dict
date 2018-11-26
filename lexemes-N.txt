@@ -39281,29 +39281,109 @@
  trans_de: Büro
  trans_en: 
 -lexeme
- lex: yolufo
- stem: yolufo.
- root: ylf
- gramm: N,m
- paradigm: N1
- trans_de: Schüler
- trans_en: 
+ lex: yetarki
+ stem: yetarki.
+ root: ytrk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: es ist doch genug, auch das noch
+ trans_en: it`s enough, not that as well
 -lexeme
- lex: yoruṯo
- stem: yoruṯo.|yoruṯe.
+ lex: yəmkən
+ stem: yəmkən.
+ root: mkn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: es ist möglich, vielleicht
+ trans_en: it is possible, maybe
+-lexeme
+ lex: yəruṯo/yiruṯo/yoruṯo/yuruṯo
+ stem: yəruṯo.//yiruṯo.//yoruṯo.//yuruṯo.|yəruṯe.//yiruṯe.//yoruṯe.//yuruṯe.
  root: yrt
  gramm: N,m
  paradigm: N2
- trans_de: Erbe pl
- trans_en: 
+ trans_de: Erbe
+ trans_en: heritage
+-lexeme
+ lex: yo ... yo
+ stem: yo ... yo.
+ root: y
+ gramm: 
+ paradigm: unchangeable
+ trans_de: entweder ... oder
+ trans_en: either ... or
+-lexeme
+ lex: yoldaṯ aloho/yuldaṯ aloho/yəldaṯ aloho/yildaṯ aloho
+ stem: yoldaṯ aloho.//yuldaṯ aloho.//yəldaṯ aloho.//yildaṯ aloho.
+ root: yldṯ lh
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Gottesmutter
+ trans_en: mother of God
+-lexeme
+ lex: yolufo
+ stem: yolufo.|yolufe.
+ root: ylf
+ gramm: N,m
+ paradigm: N2
+ trans_de: Schüler
+ trans_en: student
 -lexeme
  lex: yuḏoyo
- stem: yuḏoyo.
+ stem: yuḏoyo.|yuḏoye.
  root: yḏy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Jude
- trans_en: 
+ trans_en: Jew
+-lexeme
+ lex: yulfono/yəlfono
+ stem: yulfono.//yəlfono.|yulfone.//yəlfone.
+ root: ylf
+ gramm: N,m
+ paradigm: N2
+ trans_de: Lehre, Lehrzeit
+ trans_en: teaching, apprenticeship
+-lexeme
+ lex: yuqḏono
+ stem: yuqḏono.
+ root: yqḏn
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Feuersbrunst
+ trans_en: conflagration
+-lexeme
+ lex: yuqro
+ stem: yuqro.
+ root: yqr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Schwere, Gewicht
+ trans_en: gravity, weight
+-lexeme
+ lex: yurxo/yərxo
+ stem: yurxo.//yərxo.
+ root: yrx
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Länge 
+ trans_en: length
+-lexeme
+ lex: yuxsa
+ stem: yuxsa.
+ root: yxs
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: andernfalls, sonst 
+ trans_en: otherwise, else
+-lexeme
+ lex: yuzbaši
+ stem: yuzbaši.
+ root: yzbš
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Hauptmann
+ trans_en: captain
 -lexeme
  lex: zʕifo
  stem: zʕifo.|zʕife.
