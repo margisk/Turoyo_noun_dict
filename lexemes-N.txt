@@ -39310,8 +39310,8 @@
  root: zʕp
  gramm: N,m
  paradigm: N2
- trans_de: 
- trans_en: 
+ trans_de: heftig
+ trans_en: violent 
 -lexeme
  lex: zʕurko
  stem: zʕurko.
