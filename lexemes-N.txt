@@ -39222,8 +39222,16 @@
  root: yṣr
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: gefangen
+ trans_en: captured
+-lexeme
+ lex: yatumko
+ stem: yatumko.
+ root: ytm
+ gramm: N,? DIM
+ paradigm: <?>
+ trans_de: Diminutiv von yatumo
+ trans_en: diminutive of yatumo
 -lexeme
  lex: yatumo
  stem: yatumo.|yatume.
@@ -39231,23 +39239,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Waise; Balg, Schlingel, Bengel
- trans_en: 
+ trans_en: orphan; brat, rascal, villian
+-lexeme
+ lex: yawma
+ stem: yawma.
+ root: ywm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: heute
+ trans_en: today
 -lexeme
  lex: yawmo
- stem: yawmo.|yawmoe.//yawmoṯe.
+ stem: yawmo.|yawme.//yawmoṯe.
  root: ywm
  gramm: N,m
  paradigm: N2
- trans_de: a) Tag, passim b) Sonne
- trans_en: 
+ trans_de: Tag; Sonne
+ trans_en: day; sun
+-lexeme
+ lex: yawnan
+ stem: yawnan.
+ root: ywn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Greichenland
+ trans_en: Greece
 -lexeme
  lex: yawnani
- stem: yawnani.|iye.
+ stem: yawnani.|yawnaniye.
  root: ywn
  gramm: N,m
  paradigm: N2
- trans_de: iye Grieche, griechisch
- trans_en: 
+ trans_de: Grieche, griechisch
+ trans_en: Greek
 -lexeme
  lex: yawno
  stem: yawno.|yawne.
@@ -39255,31 +39279,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Taube
- trans_en: 
+ trans_en: pigeon
+-lexeme
+ lex: yawal
+ stem: yawal.
+ root: ywl
+ gramm: ?
+ paradigm: <?>
+ trans_de: Wehgeschrei
+ trans_en: wail
 -lexeme
  lex: yawar
  stem: yawar.
  root: ywr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Adjutant
- trans_en: 
+ trans_en: adjutant
 -lexeme
- lex: yaxa
- stem: yaxa.|yaxat.
+ lex: yaxa/yaqa
+ stem: yaxa.//yaqa.|yaxat.//yaqat.
  root: yx
  gramm: N,f
  paradigm: N2
  trans_de: Kragen
- trans_en: 
+ trans_en: collar
 -lexeme
- lex: yazəxana
- stem: yazəxana.
+ lex: yazixana/yazəxana
+ stem: yazixana.//yazəxana.
  root: yzxn
  gramm: N,f
  paradigm: N1
  trans_de: Büro
- trans_en: 
+ trans_en: office
+-lexeme
+ lex: yaxud/wayaxud
+ stem: yaxud.//wayaxud.
+ root: yxd
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder
+ trans_en: or
+-lexeme
+ lex: yay
+ stem: yay.
+ root: yy.
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Sprungfeder
+ trans_en: spring
+-lexeme
+ lex: yazox/yazək
+ stem: yazox.//yazək.
+ root: yzx
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: schade!
+ trans_en: what a shame!
 -lexeme
  lex: yetarki
  stem: yetarki.
@@ -39307,8 +39363,8 @@
 -lexeme
  lex: yo ... yo
  stem: yo ... yo.
- root: y
- gramm: 
+ root: ?
+ gramm: ?
  paradigm: unchangeable
  trans_de: entweder ... oder
  trans_en: either ... or
