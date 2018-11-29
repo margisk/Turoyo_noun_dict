@@ -11810,21 +11810,21 @@
  trans_de: (Ess)tisch
  trans_en: dining table
 -lexeme
- lex: frang
- stem: frang.
+ lex: frang/frəng
+ stem: frang.//frəng.
  root: frng
  gramm: N,m
  paradigm: <?>
  trans_de: Frank (Geldstück)
- trans_en: franc (currency)
+ trans_en: franc (currency); small coin
 -lexeme
  lex: franga
- stem: franga.
+ stem: franga.|frangat.
  root: frng
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: oberes Zimmer
- trans_en: 
+ trans_en: upper room
 -lexeme
  lex: frangiye
  stem: frangiye.|frangiyat.
@@ -11832,7 +11832,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schloß zum Schließen
- trans_en: 
+ trans_en: lock
+-lexeme
+ lex: fransawo
+ stem: fransawo.
+ root: frns
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: französisch
+ trans_en: French
 -lexeme
  lex: freḏo
  stem: freḏo.|freḏe.
@@ -11840,7 +11848,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: ein kleines Stück; einzelne Perle am Rosenkranz; Korn
- trans_en: 
+ trans_en: small thing; one pearl on a rosary; seed
 -lexeme
  lex: frezo
  stem: frezo.|freze.
@@ -11848,23 +11856,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stoppelfeld
- trans_en: 
--lexeme
- lex: frəng
- stem: frəng.
- root: frng
- gramm: N,m
- paradigm: N1
- trans_de: kleine Münze, Frank
- trans_en: 
+ trans_en: stubble field
 -lexeme
  lex: frimo
  stem: frimo.
  root: prm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: gehacktes Fleisch
- trans_en: 
+ trans_en: minced meat
 -lexeme
  lex: friš
  stem: friš.
