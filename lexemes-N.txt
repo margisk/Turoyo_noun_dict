@@ -10910,8 +10910,8 @@
  trans_de: weißes Stück Schnee
  trans_en: white piece of snow
 -lexeme
- lex: farǧe/fərǧe/furǧe
- stem: farǧe.//fərǧe.//furǧe.
+ lex: farǧe/fərǧe/furǧe/fərǧa
+ stem: farǧe.//fərǧe.//furǧe.//fərǧa.
  root: frǧ
  gramm: N,f
  paradigm: <?>
@@ -11466,14 +11466,6 @@
  trans_de: Geräusch des Aufziehens der Nase
  trans_en:
 -lexeme
- lex: fərǧa
- stem: fərǧa.
- root: frǧ
- gramm: N,f
- paradigm: <?>
- trans_de: Zuschauen, Betrachten, Anblick, Schauspiel
- trans_en: watching, observing, look at, spectacle
--lexeme
  lex: fərḥa
  stem: fərḥa.
  root: frḥ
@@ -11866,37 +11858,28 @@
  trans_de: gehacktes Fleisch
  trans_en: minced meat
 -lexeme
- lex: friš
- stem: friš.
- root: frš
- gramm: N,m
- paradigm: N1
- trans_de: Weggabelung
- trans_en: 
--lexeme
  lex: frišuṯo
  stem: frišuṯo.
  root: prš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Trennung, Unterschied
- trans_en: 
+ trans_en: separation, difference
 -lexeme
- lex: fṣəḥuṯo
- stem: fṣəḥuṯo.
- root: pṣḥ
- gramm: N,f
- paradigm: N1
- trans_de: Freude
- trans_en: 
--lexeme
- lex: fṣiḥuṯo
- stem: fṣiḥuṯo.
+ lex: friz
+ stem: friz.
+ root: frz
+ gramm: N
+ paradigm: <?>
+ trans_de: Hundszahn, Cynodon dacrylon L., Ausläufer treibendes Gras, das im Mittelmeergebiet unsere Quecke ersetzt, mit sehr tiefgehenden starken Wurzeln
+-lexeme: Bermuda grass, Cynodon dacrylon L.
+ lex: fṣiḥuṯo/fṣəḥuṯo
+ stem: fṣiḥuṯo.//fṣəḥuṯo.//pṣiḥuṯo.//pṣəḥuṯo.
  root: pṣḥ
  gramm: N,f
  paradigm: N1
  trans_de: Freude, Freudenfest
- trans_en: 
+ trans_en: gladness, happiness; celebration
 -lexeme
  lex: fšoṯo
  stem: fšoṯo.|fšoṯe.
@@ -11904,26 +11887,26 @@
  gramm: N,f
  paradigm: N2
  trans_de: stiller Furz
- trans_en: 
+ trans_en: silent fart
 -lexeme
  lex: ftakar
- stem: ftakar.
+ stem: ftakar.|ftakarat.
  root: fkr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Nachdenken, Gedanke
- trans_en: 
+ trans_en: reflection, thought
 -lexeme
  lex: ftəxar
  stem: ftəxar.
  root: fxr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Stolz
- trans_en: 
+ trans_en: pride
 -lexeme
- lex: ftilo
- stem: ftilo.|ftile.
+ lex: ftilo/tfilo/pṯilo
+ stem: ftilo.//tfilo.//pṯilo.|ftile.//tfile.//pṯile.
  root: ftl
  gramm: N,m
  paradigm: N2
@@ -11931,36 +11914,36 @@
  trans_en: 
 -lexeme
  lex: ftiloke
- stem: ftiloke.
+ stem: ftiloke.|ftilokat.
  root: ftl
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: dünnes Röllchen (aus Teig oder Kot)
  trans_en: 
 -lexeme
  lex: fṭoro
- stem: fṭoro.
+ stem: fṭoro.//fṭuro.//fəṭṭuro.
  root: fṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Frühstück
- trans_en: 
+ trans_en: breakfast
 -lexeme
  lex: fṭur
- stem: fṭur.
- root: fṭr
+ stem: fṭur.|fṭurat.
+ root: fṭr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Frühstück
- trans_en: 
+ trans_en: breakfast
 -lexeme
  lex: fuʕlayiye
- stem: fuʕlayiye.
+ stem: fuʕlayiye.|fuʕlayiyat.
  root: fʕl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tagelohn
- trans_en: 
+ trans_en: daily wages
 -lexeme
  lex: fuʕlo
  stem: fuʕlo.|fuʕle.
@@ -11968,7 +11951,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Arbeiter
- trans_en: 
+ trans_en: worker
 -lexeme
  lex: fuǧo
  stem: fuǧo.|fuǧe.
@@ -11976,63 +11959,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zuckermelone, Honigmelone
- trans_en: 
+ trans_en: melon
 -lexeme
- lex: fuḥo
- stem: fuḥo.
+ lex: fuḏ̣uli/fuḏuli/fəḏ̣uli/fəḏuli
+ stem: fuḏ̣ulo.//fuḏuli.//fəḏ̣uli.//fəḏuli.
+ root: fḏ̣l/fḏl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: überflüssiges Tun
+ trans_en: superflous action
+-lexeme
+ lex: fuḥo/fawḥo
+ stem: fuḥo.//fawḥo.
  root: pwḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kühle
- trans_en: 
+ trans_en: coolness, cool
 -lexeme
  lex: ful
  stem: ful.
  root: fl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bohne
- trans_en: 
+ trans_en: bean
 -lexeme
- lex: fundaq
- stem: fundaq.
- root: fndq
+ lex: fulaḏ/pulaḏ
+ stem: fulaḏ.//pulaḏ.|fulaḏat.//pulaḏat.
+ root: flḏ/plḏ
  gramm: N,m
- paradigm: N1
- trans_de: Haselnuss; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Stahl
+ trans_en: steel
 -lexeme
  lex: fuqdono
- stem: fuqdono.
+ stem: fuqdono.|fuqdone.
  root: pqd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Oberaufsicht
- trans_en: 
--lexeme
- lex: furǧe
- stem: furǧe.
- root: frǧ
- gramm: N,f
- paradigm: N1
- trans_de: Anschauen; Theater
- trans_en: 
+ trans_en: superintendence
 -lexeme
  lex: fuṭa
- stem: fuṭa.
+ stem: fuṭa.|fuṭat.
  root: fṭ
  gramm: N,f
- paradigm: N1
- trans_de: a) Serviette, Rasiertuch b) rot und gelb kariertes Brautkleid
- trans_en: 
+ paradigm: N2
+ trans_de: Serviette, Rasiertuch; rot und gelb kariertes Brautkleid
+ trans_en: napkin, kerchief for shaving;
 -lexeme
- lex: fuṯwo
- stem: fuṯwo.
+ lex: fuṯwo/fəṯwo/pəṯwo
+ stem: fuṯwo.//fəṯwo.//pəṯwo.|fuṯwo.//fuṯwe.//pəṯwe.
  root: ptw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Breite
- trans_en: 
+ trans_en: width
 -lexeme
  lex: gabo
  stem: gabo.
