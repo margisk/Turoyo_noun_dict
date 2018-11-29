@@ -12017,27 +12017,50 @@
  trans_de: Breite
  trans_en: width
 -lexeme
+ lex: ga
+ stem: ga
+ root: g
+ gramm:
+ paradigm: unchangeable
+ trans_de: deiktische Partikel, die besagt, dass man das Geschehen unmittelbar vor Augen hat
+ trans_en: deictic particle which means that a person has before his eyes somethings that happens
+-lexeme
+ lex: gab
+ stem: gab.
+ root: gb
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: bei, zu
+ trans_en: towards, near to
+-lexeme
  lex: gabo
- stem: gabo.
+ stem: gabo.|gabe.
  root: gb
  gramm: N,m
- paradigm: N1
- trans_de: a) Knäuel, gabo d- b) Seite
- trans_en: 
+ paradigm: N2
+ trans_de: Seite
+ trans_en: side
+-lexeme
+ lex: gabəzden
+ stem: gabəzden
+ root: gbzd
+ gramm: N
+ paradigm: <?>
+ trans_de: Stachys, Stachyc cretica L. (light-gree, gray, eaten by cows)
 -lexeme
  lex: gaboro
  stem: gaboro.|gabore.
  root: gbr
  gramm: N,m
  paradigm: N2
- trans_de: Wasserriese
- trans_en: 
+ trans_de: Wasserriese; gewaltiger Mann; Held
+ trans_en: mighty man; hero
 -lexeme
  lex: gaboruṯo
  stem: gaboruṯo.
  root: gbr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Heldenhaftigkeit
  trans_en: 
 -lexeme
@@ -12045,41 +12068,57 @@
  stem: gabula.
  root: gbl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Garso wird gekocht, in der Mitte wird ein Loch gelassen, das mit Ayran ausgefüllt wird
- trans_en: 
+ trans_en: Garso is cooked, there is a hole left in the middle, and this hole is filled with ayran
 -lexeme
  lex: gadde
- stem: gadde.
+ stem: gadde.|gaddat.
  root: gdd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bissen
- trans_en: 
+ trans_en: piece
+-lexeme
+ lex: gaft
+ stem: gaft.
+ root: gft
+ gramm: N
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: galʕo
  stem: galʕo.
  root: glʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vieh, Menge, Schar
- trans_en: 
+ trans_en: cattle; big quantity; crowd
 -lexeme
  lex: galaḏ
  stem: galaḏ.
  root: gld
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: eisiges Wetter
- trans_en: 
+ trans_en: icy water
+-lexeme
+ lex: gali
+ stem: gali.
+ root: gl
+ gramm:
+ paradigm: unchangeable
+ trans_de: Anredepartikel für eine Mehrheit
+ trans_en: particle for addressing a lot (of people)
 -lexeme
  lex: galdko
- stem: galdko.
+ stem: galdko.|galdke.
  root: gldk
- gramm: N,m
- paradigm: N1
- trans_de: a) Häutchen des Eies b) Tarnhaut
- trans_en: 
+ gramm: N,m,dim
+ paradigm: N2
+ trans_de: Häutschen des Eies; Tarnhaut
+ trans_en: egg cuticle; laid on, artificial skin
 -lexeme
  lex: galdo
  stem: galdo.|galde.
@@ -12087,47 +12126,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Haut, Fell, Leder
- trans_en: 
+ trans_en: skin, leather
 -lexeme
  lex: galiye
- stem: galiye.
+ stem: galiye.|galiyat.
  root: gly
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: tiefe Schlucht mit steil abfallenden Wänden; Burggraben
- trans_en: 
+ trans_en: deep canyon with steep going down rocks; protective dyke
 -lexeme
  lex: gallaǧ
- stem: gallaǧ.
+ stem: gallaǧ.|gallaǧin.
  root: glǧ
  gramm: N,m
- paradigm: N1
- trans_de: a) Betrüger, der die Ware nimmt aber nicht bezahlt, im trüben fischt.	b) Mann mit politischen Machenschaften
- trans_en: 
+ paradigm: N2
+ trans_de: Betrüger, der die Ware nimmt aber nicht bezahlt, im trüben fischt; Mann mit politischen Machenschaften
+ trans_en: liar, cheater who takes good, but does not pay; a person who fishes in troubled waters
 -lexeme
  lex: gallaǧiye
  stem: gallaǧiye.
  root: glǧy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Betrügerei
- trans_en: 
+ trans_en: cheating, scam
 -lexeme
  lex: galloke
- stem: galloke.
+ stem: galloke.|gallokat.
  root: gll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kugel, Klumpen
- trans_en: 
+ trans_en: ball, lump
+-lexeme
+ lex: galo
+ stem: galo.
+ root: gl
+ gramm: 
+ paradigm: unchangeable
+ trans_de: Fragepartikel
+ trans_en: question partikel
+-lexeme
+ lex: Galo
+ stem: Galo.
+ root: gl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Gabriel
+ trans_en: Gabriel
 -lexeme
  lex: galta
- stem: galta.
+ stem: galta.|galtat.
  root: glt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schäkern, harmloses Gebalge
- trans_en: 
+ trans_en: joking around, harmless fight
 -lexeme
  lex: gamaz
  stem: gamaz.|gamaze.
@@ -12135,7 +12190,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Haifisch
- trans_en: 
+ trans_en: shark
 -lexeme
  lex: gamlo
  stem: gamlo.|gamle.
@@ -12143,23 +12198,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kamel
- trans_en: 
+ trans_en: camel
 -lexeme
- lex: gam(m)iye
- stem: gam(m)iye.|gam(m)iyat.
- root: gm(m)y
+ lex: gammiye/gamiye
+ stem: gammiye.//gamiye.|gammiyat.//gamiyat.
+ root: gmy
  gramm: N,f
  paradigm: N2
  trans_de: Schiff
- trans_en: 
+ trans_en: boat, ship
 -lexeme
- lex: gamṡiči
- stem: gamṡiči.|gamṡičiiye.
+ lex: gamṡiči/gamiči
+ stem: gamṡiči.//gamiči.|gamṡičiye.//gamičiye.
  root: gmṡč
  gramm: N,m
  paradigm: N2
- trans_de: iye Schiffer
- trans_en: 
+ trans_de: Schiffer
+ trans_en: sailor
 -lexeme
  lex: gana
  stem: gana.
@@ -12167,7 +12222,7 @@
  gramm: N,f
  paradigm: N1
  trans_de: Rizinus
- trans_en: 
+ trans_en: castor oil plant
 -lexeme
  lex: gandarčiye
  stem: gandarčiye.|gandarčiyat.
@@ -12175,7 +12230,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zauberin, Hexe
- trans_en: 
+ trans_en: witch, sorceress
 -lexeme
  lex: ganǧ
  stem: ganǧ.|ganǧin.
@@ -12183,23 +12238,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: junger Mann
- trans_en: 
+ trans_en: young man
 -lexeme
  lex: ganowo
  stem: ganowo.|ganowe.
  root: gnb
  gramm: N,m
  paradigm: N2
- trans_de: ganuto R; pl –e ganowo m, f ganauto
- trans_en: 
+ trans_de: Dieb
+ trans_en: thief
 -lexeme
  lex: ganṯo
  stem: ganṯo.
  root: gnṯ
  gramm: N,f
- paradigm: N1
- trans_de: Garten; nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Garten
+ trans_en: garden
 -lexeme
  lex: ganyo
  stem: ganyo.
