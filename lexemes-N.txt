@@ -12257,52 +12257,68 @@
  trans_en: garden
 -lexeme
  lex: ganyo
- stem: ganyo.
+ stem: ganyo.|ganye.
  root: gny
- gramm: N,m
- paradigm: N1
+ gramm: ADJ
+ paradigm: N2
  trans_de: mit dem Ellbogen aufgestützt
- trans_en: 
+ trans_en: leaning on one's elbows
 -lexeme
- lex: garaž
- stem: garaž.
- root: grž
+ lex: garaž/garaǧ/garraǧ
+ stem: garaž.//garaǧ.//garraǧ.//garražat.|garaǧat.//garažat.//garraǧat.//garražat.
+ root: grž/grǧ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Garage
- trans_en: 
+ trans_en: garage
+-lexeme
+ lex: garak
+ stem: garak.
+ root: grk
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Muss
+ trans_en: must
 -lexeme
  lex: gardan
  stem: gardan.
  root: grdn
  gramm: N,m
- paradigm: N1
- trans_de: Hals; nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Hals
+ trans_en: neck
 -lexeme
  lex: gardalləġ
  stem: gardalləġ.
  root: grdlġ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Halskette
- trans_en: 
+ trans_en: neck chain
 -lexeme
  lex: gargəmme
- stem: gargəmme.
+ stem: gargəmme.|gargəmmat.
  root: grgm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: großes Stück Fleisch mit Knochen
- trans_en: 
+ trans_en: big piece of meat with bones
+-lexeme
+ lex: gargnoso
+ stem: gargnoso.
+ root: grgns
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Zürgelbaum, Celtis australis
+ trans_en: celtis (Celtis australis)
 -lexeme
  lex: gargunne
- stem: gargunne.
+ stem: gargunne.|gargunnat.
  root: grgn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Band, das man um den Hals kleiner Kälber, Hunde und Katzen tut; scherzhaft: Krawatte
- trans_en: 
+ trans_en: strap which one puts on the neck of small calves, dogs and cats; jokingly: tie
 -lexeme
  lex: garmiyan
  stem: garmiyan.|garmiyanat.
@@ -12310,7 +12326,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: warmes Land
- trans_en: 
+ trans_en: warm land
 -lexeme
  lex: garmo
  stem: garmo.|garme.
@@ -12318,55 +12334,95 @@
  gramm: N,m
  paradigm: N2
  trans_de: Knochen
- trans_en: 
+ trans_en: bone
 -lexeme
  lex: garošo
  stem: garošo.|garoše.
  root: grš
  gramm: N,m
  paradigm: N2
- trans_de: Träger (einer Sänfte); pl
- trans_en: 
--lexeme
- lex: garraǧ
- stem: garraǧ.
- root: grǧ
- gramm: N,m
- paradigm: N1
- trans_de: Garage so
- trans_en: 
+ trans_de: Träger (einer Sänfte)
+ trans_en: carrier of palanquin
 -lexeme
  lex: garso
- stem: garso.
+ stem: garso.|garsone.
  root: grs
  gramm: N,m
- paradigm: N1
- trans_de: angefeuchteter Weizen wird durch Schlagen entschält, geworfelt und getrocknet, gesiebt und entsteint, dann in der Handmühle gemahlen
- trans_en: 
+ paradigm: N2
+ trans_de: kalt angefeuchteter Weizen wird durch Schlagen entschält, geworfelt und getrocknet, gesiebt und entsteint, dann in der Handmühle gemahlen
+ trans_en: wheat is dampened in cold water and its rind peeled off, threshed and dried up, then sifted and cleaned, then pounded in a hand-mill
+-lexeme
+ lex: garuta
+ stem: garuta.
+ root: grt
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: schmutzig gekleidet sich auf den Straßen herumtreibend
+ trans_en: wandering around the streets in dirty clothes
+-lexeme
+ lex: garvino
+ stem: garvino.
+ root: grv
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: rund
+ trans_en: round
+-lexeme
+ lex: garvoni
+ stem: garvoni.
+ root: grv
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: rund
+ trans_en: round
+-lexeme
+ lex: garvoniyo
+ stem: garvoniyo.|garvoniye.//garvoniyat.
+ root: grv
+ gramm: ADJ
+ paradigm: N2
+ trans_de: rund
+ trans_en: round
+-lexeme
+ lex: garvono
+ stem: garvono.|garvone.
+ root: grv
+ gramm: ADJ
+ paradigm: N2
+ trans_de: rund
+ trans_en: round
 -lexeme
  lex: garwo
- stem: garwo.
+ stem: garwo.|garwone.
  root: grw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Krätze, Grind
- trans_en: 
+ trans_en: rash, scab
 -lexeme
  lex: garwono
- stem: garwono.
+ stem: garwono.|garwone.
  root: grwn
  gramm: N,m
- paradigm: N1
- trans_de: kahlköpfig Sl
- trans_en: 
+ paradigm: N2
+ trans_de: grindköpfig, kahlköpfig
+ trans_en: bald, having scabby head
+-lexeme
+ lex: garwuṯo
+ stem: garwuṯo.
+ root: grw
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Krätze, Grindköpfigkeit
+ trans_en: rash, baldness
 -lexeme
  lex: gasko
- stem: gasko.|gaskoe.//gaskoin.
+ stem: gasko.|gaske.//gaskin.
  root: gsk
  gramm: N,m
  paradigm: N2
  trans_de: ein- bis anderthalbjähriges Böckchen
- trans_en: 
+ trans_en: goat kid of one — one and a half years of age
 -lexeme
  lex: gawde
  stem: gawde.|gawdat.
@@ -12374,23 +12430,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Rumpf; Stamm, Baum
- trans_en: 
+ trans_en: corpus; trunk, tree
 -lexeme
  lex: gawdək
  stem: gawdək.
  root: gwdk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: kleiner Schlauch
- trans_en: 
+ trans_en: small skin for liquids
 -lexeme
  lex: gawdo
  stem: gawdo.|gawde.
  root: gwd
  gramm: N,m
  paradigm: N2
- trans_de: Schlauch (zum Aufbewahren von Flüssigkeiten)
- trans_en: 
+ trans_de: skin (to keep liquids)
+ trans_en: hose
 -lexeme
  lex: gawno
  stem: gawno.|gawne.
@@ -12398,7 +12454,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Farbe, Pferdefarbe
- trans_en: 
+ trans_en: colour
+-lexeme
+ lex: gawra
+ stem: gawra.
+ root: gwr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: helle Traubenart, wird frisch gegessen, entspricht der türkischen Sorte çavuş
+ trans_en: bright sort of grapes, it is eaten fresh, it corresponds to the Turkish sort çavuş
 -lexeme
  lex: gawro
  stem: gawro.|gawre.
@@ -12406,23 +12470,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Mann, Ehemann
- trans_en: 
+ trans_en: male, husband
 -lexeme
  lex: gawruṯo
  stem: gawruṯo.
  root: gwrṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Männlichkeit; Mannestat
- trans_en: 
+ trans_en: manliness, manhood
 -lexeme
  lex: goke
- stem: goke.
+ stem: goke.|gokat.
  root: gk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Ball
- trans_en: 
+ trans_en: ball
+-lexeme
+ lex: gawwi
+ stem: gawwi.
+ root: gw
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: übermütig, stolz (etwa wegen Reichtum)
+ trans_en: arrogant, proud (because of the richness)
 -lexeme
  lex: gawzo
  stem: gawzo.|gawze.
@@ -12430,39 +12502,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Walnuss(baum)
- trans_en: 
+ trans_en: walnut(tree)
+-lexeme
+ lex: gave
+ stem: gave.
+ root: gv
+ gramm:
+ paradigm: unchangeable
+ trans_de: deiktische Partikel nach Verben des Sehens
+ trans_en: deictic particle after verbs of seeing
 -lexeme
  lex: gave
  stem: gave.|gavat.
  root: gv
  gramm: N,f
  paradigm: N2
- trans_de: a) Schritt b) Augenblick
- trans_en: 
+ trans_de: Schritt; Augenblick
+ trans_en: step; moment
 -lexeme
  lex: gavəke
- stem: gavəke.
+ stem: gavəke.//gavke.|gavəkat.//gavkat.
  root: gvk
- gramm: N,f
- paradigm: N1
- trans_de: Schrittchen; gavike
- trans_en: 
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Schrittchen
+ trans_en: small step
 -lexeme
  lex: gawo
  stem: gawo.|gawe.
  root: gw
  gramm: N,m
  paradigm: N2
- trans_de: a) Bauch, Mutterleib b) Inneres
- trans_en: 
+ trans_de: Bauch, Mutterleib; Inneres
+ trans_en: belly, stomach, womb; insides
+-lexeme
+ lex: gawər
+ stem: gawər.
+ root: gwr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ungläubiger, Gjaur; Russe; Schimpfwort für die Christen in der Türkei
+ trans_en: infidel, giaour; Russian; swearword for Christians in Turkey
 -lexeme
  lex: gayižo
- stem: gayižo.
+ stem: gayižo.|gayiže.
  root: gyž
  gramm: N,m
- paradigm: N1
- trans_de: XM
- trans_en: 
+ paradigm: N2
+ trans_de: schwindlig, bewußtlos, verrückt
+ trans_en: dizzily, dizzy, unconscious, crazy
 -lexeme
  lex: gayro
  stem: gayro.
