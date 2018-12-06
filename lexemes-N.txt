@@ -2244,7 +2244,7 @@
  stem: ʕurǧmo.//gurǧmo.|ʕurǧme.//gurǧme.
  root: ʕrǧm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kern
  trans_en: kernel of cherries, peaches, plums, oranges and apples
 -lexeme
@@ -12556,17 +12556,33 @@
  stem: gayro.
  root: gyr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: eichenartiger Baum, aus dessen Früchten man Seife macht
- trans_en: 
+ trans_en: a tree similar to oak, from its fruits soap is made
 -lexeme
  lex: gaz
  stem: gaz.
  root: gz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
+ trans_de: Elle = 80 cm
+ trans_en: elbow = 80 cm
+-lexeme
+ lex: gaz
+ stem: gaz.|gazat.
+ root: gz
+ gramm: N,m
+ paradigm: N2
  trans_de: Petroleum
- trans_en: 
+ trans_en: petroleum
+-lexeme
+ lex: gazgazke
+ stem: gazgazke.|gazgazkat.
+ root: gzgz
+ gramm: N,f
+ paradigm: N2
+ trans_de: kleine Brennessel, Urtica urens L.
+ trans_en: nettle, Urtica urens L.
 -lexeme
  lex: gazguzo
  stem: gazguzo.|gazguze.
@@ -12574,7 +12590,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bissen
- trans_en: 
+ trans_en: bite, piece
 -lexeme
  lex: gazəke
  stem: gazəke.|gazəkat.
@@ -12582,23 +12598,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: offene Petroleumlampe
- trans_en: 
+ trans_en: open petroleum lamp
 -lexeme
- lex: gazən
- stem: gazən.
+ lex: gazən/gazəne
+ stem: gazən.//gazəne.|gazənat.
  root: gzn
  gramm: N,m
  paradigm: N1
  trans_de: Klage, Beschwerde
- trans_en: 
+ trans_en: complaint
 -lexeme
- lex: gazluzo
- stem: gazluzo.
- root: gzlz
+ lex: gazluzo/glazluzo
+ stem: gazluzo.//glazluzo.|gazluze.//glazluze.
+ root: glz
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kinn
- trans_en: 
+ trans_en: chin
 -lexeme
  lex: gazma
  stem: gazma.
@@ -12606,39 +12622,47 @@
  gramm: N,f
  paradigm: N1
  trans_de: Spaziergang
- trans_en: 
+ trans_en: walk
 -lexeme
  lex: gazmuzo
  stem: gazmuzo.
  root: gzmz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brotrinde
- trans_en: 
+ trans_en: bread crust
 -lexeme
- lex: gaz(z)e
- stem: gaz(z)e.|gaz(z)at.
- root: gz(z)
+ lex: gazze
+ stem: gazze.|gazzat.
+ root: gzz
  gramm: N,f
  paradigm: N2
- trans_de: Biss; pl
- trans_en: 
+ trans_de: Biss
+ trans_en: bite
 -lexeme
  lex: gdišo
- stem: gdišo.
+ stem: gdišo.|gdiše.
  root: gdš
  gramm: N,m
  paradigm: N1
- trans_de: Menge von Getreide, etwa
- trans_en: 
+ trans_de: Menge von Getreide, etwa 30 qufle
+ trans_en: quantity of corn, around 30 qufle
+-lexeme
+ lex: gḏaydko
+ stem: gḏaydko.
+ root: gḏy
+ gramm: N,dim
+ paradigm: <?>
+ trans_de: Hühnchen
+ trans_en: baby chicken
 -lexeme
  lex: gḏayto
- stem: gḏayto.|kəṯoṯo.
+ stem: gḏayto.|kəṯoṯo.//gyoṯe.
  root: gḏyt
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Huhn
+ trans_en: chicken
 -lexeme
  lex: gḏono
  stem: gḏono.|gḏone.
@@ -12646,7 +12670,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tonkrug
- trans_en: 
+ trans_en: clay pitcher
 -lexeme
  lex: gefo
  stem: gefo.|gefe.
@@ -12654,31 +12678,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Flügel
- trans_en: 
+ trans_en: wing
 -lexeme
  lex: gelo
- stem: gelo.|mḏ.
+ stem: gelo.|gəlone.//gelone.
  root: gl
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: Gras, Kraut, Unkraut; pl. Rasen, Wiese
+ trans_en: grass, weed; lawns, pastures
 -lexeme
  lex: gera
  stem: gera.
  root: gr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Dreschen mit den Füßen (von Rindern)
- trans_en: 
+ trans_en: threshing with feet (of oxen)
 -lexeme
  lex: gerke
  stem: gerke.
  root: grk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Art kleiner Ameisen
- trans_en: 
+ trans_en: type of small ants
 -lexeme
  lex: gero
  stem: gero.|gere.
@@ -12686,39 +12710,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gewehrgeschoss
- trans_en: 
+ trans_en: bullet
+-lexeme
+ lex: gesən
+ stem: gesən.
+ root: gsn
+ gramm: N,m,f
+ paradigm: unchangeable
+ trans_de: Ackern
+ trans_en: tillage
 -lexeme
  lex: gezare
- stem: gezare.
+ stem: gezare.|gezarat.
  root: gzr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Rübe, Karotte
- trans_en: 
+ trans_en: beet; carrot
 -lexeme
- lex: geži
- stem: geži.|gežiat.
+ lex: gežəkki
+ stem: gežəkki.
+ root: gž
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: blöd
+ trans_en: stupid, dumb
+-lexeme
+ lex: geži/gežiye
+ stem: geži.//gežiye.|gežiyat.
  root: gž
  gramm: N,f
  paradigm: N2
  trans_de: Kopfdrehung, Schwindel, Verwirrung; nicht
- trans_en: 
+ trans_en: vertigo, dizziness, confusion
 -lexeme
- lex: gežiye
- stem: gežiye.|gežiyat.
- root: gžy
- gramm: N,f
- paradigm: N2
- trans_de: Schwindel, Kopfverwirrung
- trans_en: 
--lexeme
- lex: gəʕukke
- stem: gəʕukke.
+ lex: gəʕukke/guʕukke/guʕitke
+ stem: gəʕukke.//guʕukke.//guʕitke.|gəʕukkat.//guʕukkat.//guʕitkat.
  root: gʕk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleines Tier, besonders Kamel
- trans_en: 
+ trans_en: small animal, especially camel
 -lexeme
  lex: gəḏḏale
  stem: gəḏḏale.|gəḏḏalat.
@@ -12726,15 +12758,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zopf
- trans_en: 
+ trans_en: plait, braid
 -lexeme
  lex: gəglo
  stem: gəglo.
  root: ggl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Strang (Garn)
- trans_en: 
+ trans_en: wool rope
 -lexeme
  lex: gəlh
  stem: gəlh.|gəlhat.
@@ -12742,135 +12774,175 @@
  gramm: N,m
  paradigm: N2
  trans_de: Klage
- trans_en: 
+ trans_en: complaint
 -lexeme
- lex: gəlloke
- stem: gəlloke.|gəllokat.
+ lex: gəlloke/gulloke/guloke
+ stem: gəlloke.//gulloke.//guloke.|gəllokat.//gullokat.//gulokat.
  root: gll
  gramm: N,f
  paradigm: N2
  trans_de: Kugel, Ball
- trans_en: 
+ trans_en: ball
 -lexeme
- lex: gəmgəm
- stem: gəmgəm.
+ lex: gəmgəm/gumgum
+ stem: gəmgəm.//gumgum.
  root: gmgm
  gramm: N,m
- paradigm: N1
- trans_de: a) Kaffeekocher mit Stiel b) Geräusch des kochenden Wassers
- trans_en: 
+ paradigm: <?>
+ trans_de: Kaffekocher mit Stiel; Geräusch des kochenden Wassers
+ trans_en: coffee-machine with a handle; sound of boiling water
+-lexeme
+ lex: gəmrəke
+ stem: gəmrəke.|gəmrəkat.
+ root: gmr
+ gramm: N,f
+ paradigm: N2
+ trans_de: kleines Stück glühender Kohle
+ trans_en: small piece of red-hot coal
+-lexeme
+ lex: gəms/gums
+ stem: gəms.//gums.
+ root: gms
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unfreundlich, ungesellig, mürrisch
+ trans_en: unfriendly, associal, gloomy
 -lexeme
  lex: gəmṯo
- stem: gəmṯo.|gəmṯooṯo.
+ stem: gəmṯo.|gəmṯoṯo.//gəmṯoṯe.
  root: gmṯ
  gramm: N,f
  paradigm: N2
  trans_de: Webstuhl
- trans_en: 
+ trans_en: weaver's loom
 -lexeme
- lex: gəmušo/gumušo
- stem: gəmušo/gumušo.|gəmušo.//gumuše.
+ lex: gəmušo/gumušo/gomušo
+ stem: gəmušo//.gumušo.//gomušo.|gəmušo.//gumuše.//gomuše.
  root: gmš/gmš
  gramm: N,m
  paradigm: N2
  trans_de: Büffel
- trans_en: 
+ trans_en: buffalo
 -lexeme
- lex: gər(r
- stem: gər(r.|gər(rat.
- root: gr(r
+ lex: gərr/gər
+ stem: gərr.//gər.|gərrat.
+ root: grr
  gramm: N,m
  paradigm: N2
- trans_de: a) Hügel b) Charakter, Gewohnheit, Widerspenstigkeit, Eigensinn c) Geräusch des Laufens, eines heranfahrenden Autos
- trans_en: 
+ trans_de: Hügel; Charakter, Gewonheit, Widerspenstigkeit, Eigensinn; Geräusch des Laufens, eines heranfahrenden Autos
+ trans_en: hill; character, habit; stubborness
+-lexeme
+ lex: gəraw
+ stem: gəraw.|gərawat.
+ root: grw
+ gramm: N,m
+ paradigm: N2
+ trans_de: Pfand
+ trans_en: deposit
 -lexeme
  lex: gəraxwar
  stem: gəraxwar.
  root: grxwr
  gramm: N,m
- paradigm: N1
- trans_de: der Wolf fressen sollte
- trans_en: 
+ paradigm: <?>
+ trans_de: den der Wolf fressen sollte
+ trans_en: a person whom a wolf should eat
 -lexeme
- lex: gər(ə)k(e
- stem: gər(ə)k(e.|gər(ə)k(eat.//id..
- root: gr()k(
+ lex: gərraf
+ stem: gərraf.
+ root: grf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verwest, stinkend; (fig.) vor Eifersucht giftig
+ trans_en: rotten, stinking; (fig.) poisoned by jealousy
+-lexeme
+ lex: gərren
+ stem: gərren.
+ root: gr
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch des Pferdegetrampels, des Autos
+ trans_en: sound of horse stamping, of a car; stubborn, capricious
+-lexeme
+ lex: gərgər
+ stem: gərgər.|gərgər.
+ root: grgr
+ gramm: N
+ paradigm: N2
+ trans_de: Notabler, Vornehmer
+ trans_en: noble, aristocrate
+-lexeme
+ lex: gərgərkat
+ stem: gərgərkat.
+ root: grgr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Notabeln
+ trans_en: nobles, aristocrats
+-lexeme
+ lex: gərəke/gərke/gərk
+ stem: gərəke.//gərke.//gərk.|gərəkat.//gərkat.
+ root: grk
  gramm: N,f
  paradigm: N2
  trans_de: kleiner Hügel
- trans_en: 
+ trans_en: small hill 
 -lexeme
- lex: gərufto
- stem: gərufto.|gərufyoṯo.
- root: grft
- gramm: N,f
- paradigm: N2
- trans_de: Schneeschieber, Schneebrett
- trans_en: 
--lexeme
- lex: gəšmo
- stem: gəšmo.
- root: gšm
- gramm: N,m
- paradigm: N1
- trans_de: Leib
- trans_en: 
+ lex: gəšt/gušt
+ stem: gəšt./gušt.
+ root: gšt
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: beinahe, ums Haar, nahe daran
+ trans_en: almost
 -lexeme
  lex: gəzlayle
- stem: gəzlayle.
+ stem: gəzlayle.|gəzlaylat.
  root: gzlyl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Festakt am Weihnachtsabend, bei dem ein Holzhaufen in Brand gesteckt wird
- trans_en: 
+ trans_en: ceremonial event on Christmas Eve when firewood is set on fire
 -lexeme
  lex: gəžole
  stem: gəžole.|gəžolat.
  root: gžl
  gramm: N,f
  paradigm: N2
- trans_de: Wuschelhaar; pl
- trans_en: 
+ trans_de: Wuschelhaar
+ trans_en: curly hair
 -lexeme
  lex: gidi
  stem: gidi.
  root: gd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zuhälter, Schimpfwort und Ausruf in unangenehmer Situation
- trans_en: 
+ trans_en: swear-word and exclamation in an unpleasant situation
 -lexeme
  lex: gihano
  stem: gihano.
  root: ghn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Hölle
- trans_en: 
+ trans_en: hell
 -lexeme
- lex: giša
- stem: giša.
- root: gš
- gramm: N,f
- paradigm: N1
- trans_de: Schalter, Kasse (beim Kino)
- trans_en: 
--lexeme
- lex: giše
- stem: giše.|gišat.
+ lex: giša/giše
+ stem: giša.//giše.|gišat.
  root: gš
  gramm: N,f
  paradigm: N2
  trans_de: Schalter, Kasse (beim Kino)
- trans_en: 
+ trans_en: cashier (also in cinema)
 -lexeme
  lex: giško
  stem: giško.
  root: gšk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: zweijähriges Ziegenlamm
- trans_en: 
+ trans_en: two years old goat kid
 -lexeme
  lex: gizir
  stem: gizir.|gizirin.
@@ -12878,23 +12950,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dorfhüter
- trans_en: 
--lexeme
- lex: glazluzo
- stem: glazluzo.
- root: glzlz
- gramm: N,m
- paradigm: N1
- trans_de: Kinn
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: goman
- stem: goman.|gomanat.
+ stem: goman.//guman.|gomanat.//gumanat.
  root: gmn
  gramm: N,m
  paradigm: N2
  trans_de: Gedanke, Vorstellung, Verdacht
- trans_en: 
+ trans_en: thought, belief, opinion, suspicion
 -lexeme
  lex: guʕguʕ
  stem: guʕguʕ.|guʕguʕe.
@@ -12902,7 +12966,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: lauter Ton, den ein Kamel, Rind, ein großes Tier von sich gibt
- trans_en: 
+ trans_en: loud sound which a camel, a cow, a big animal produces
 -lexeme
  lex: guʕitke
  stem: guʕitke.
@@ -12921,20 +12985,28 @@
  trans_en: 
 -lexeme
  lex: gubo
- stem: gubo.
+ stem: gubo.|gubone.//gəbone.
  root: gwb
  gramm: N,m
  paradigm: N1
  trans_de: Zisterne
- trans_en: 
+ trans_en: cistern, reservoir
+-lexeme
+ lex: gud
+ stem: gud.
+ root: gd
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn (Midən)
+ trans_en: if, when (Midən)
 -lexeme
  lex: gudo
- stem: gudo.
+ stem: gudo.|gude.
  root: gd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Lespult in der Kirche, Altar in der Apsis, auf dem der Priester das Messopfer darbrachte, ehe das Tabernakel (qduş qudşîn) eingeführt wurde
- trans_en: 
+ trans_en: <?> in a church, altar in an apse on which a priest <?> Eucharist, before it is brought (?) to the tabernacle (qduş qudşîn)
 -lexeme
  lex: guhare
  stem: guhare.|guharat.
@@ -12942,79 +13014,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ohrring
- trans_en: 
+ trans_en: earring
 -lexeme
  lex: guharre
- stem: guharre.|sl·mi.
+ stem: guharre.|guharrat.
  root: ghr
  gramm: N,f
  paradigm: N2
  trans_de: Zwischenraum zwischen zwei Hügeln, Abhang
- trans_en: 
+ trans_en: space between two hills, slope
 -lexeme
- lex: gŭhiž
- stem: gŭhiž.|gŭhižat.
- root: gŭhž
+ lex: guhiž
+ stem: guhiž.|guhižat.
+ root: ghž
  gramm: N,f
  paradigm: N2
- trans_de: Baum (Azrolobaum); nicht
- trans_en: 
+ trans_de: Baum (Azrolobaum)
+ trans_en: tree 
 -lexeme
  lex: gulʕe
  stem: gulʕe.|gulʕat.
  root: glʕ
  gramm: N,f
  paradigm: N2
- trans_de: a) Stück Land von mehreren fadone b) große Menge von Tieren
- trans_en: 
+ trans_de: Stück Land von mehreren fadone; große menge von Tieren
+ trans_en: piece of land comprised of several fadone; large amount of animals
 -lexeme
- lex: gŭle
- stem: gŭle.
- root: gŭl
+ lex: gulčičakat
+ stem: gulčičakat.
+ root: glččk
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Rosen
+ trans_en: roses
+-lexeme
+ lex: gule
+ stem: gule.|gulat.
+ root: gl
  gramm: N,f
  paradigm: N1
  trans_de: Rose, Blume
- trans_en: 
+ trans_en: rose, flower
 -lexeme
  lex: guleš
  stem: guleš.
  root: glš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ringkampf
- trans_en: 
+ trans_en: wrestling, fighting
 -lexeme
  lex: gulike
- stem: gulike.
+ stem: gulike.|gulikat.
  root: glk
- gramm: N,f
- paradigm: N1
- trans_de: Zweig; gŭlike d-
- trans_en: 
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Zweig
+ trans_en: branch
 -lexeme
  lex: guliye
- stem: guliye.
+ stem: guliye.|guliyat.
  root: gly
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zweig, Ast
- trans_en: 
+ trans_en: branch
 -lexeme
  lex: gulke
- stem: gulke.
+ stem: gulke.|gulkat.
  root: glk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Troddel
  trans_en: 
 -lexeme
  lex: gullaye
- stem: gullaye.
+ stem: gullaye.|gullayat.
  root: gll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Murmel
- trans_en: 
+ trans_en: small ball for playing
 -lexeme
  lex: gullok
  stem: gullok.
@@ -13022,22 +13102,6 @@
  gramm: N,m
  paradigm: N1
  trans_de: runder Klumpen
- trans_en: 
--lexeme
- lex: gul(l)oke
- stem: gul(l)oke.|gul(l)okat.
- root: gl(l)k
- gramm: N,f
- paradigm: N2
- trans_de: kleine Kugel
- trans_en: 
--lexeme
- lex: gŭman
- stem: gŭman.|gŭmanat.
- root: gŭmn
- gramm: N,m
- paradigm: N2
- trans_de: Gedanke, Vorstellung, Verdacht
  trans_en: 
 -lexeme
  lex: gumgum
@@ -13048,70 +13112,82 @@
  trans_de: a) Stielkännchen für Kaffee b) Kanonendonner oder Donner eines heftigen Schlages c) Gesumme
  trans_en: 
 -lexeme
- lex: gumlak
- stem: gumlak.|gumlak.
+ lex: gumlak/gomlak
+ stem: gumlak.//gomlak.|gumlak.//gomlak.//gumlake.//gomlake.
  root: gmlk
  gramm: N,m
  paradigm: N2
  trans_de: Hemd
- trans_en: 
+ trans_en: shirt
 -lexeme
- lex: gumrəke
- stem: gumrəke.
+ lex: gumra
+ stem: gumra.
+ root: gmr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: stolz
+ trans_en: proud
+-lexeme
+ lex: gumrəke/gumroko/gumruk/gəmrək
+ stem: gumrəke.//gumroko.//gumruk.//gəmrək.|gumrəkat.//gumrukat.//gəmrəkat.
  root: gmr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zoll
- trans_en: 
+ trans_en: customs
 -lexeme
- lex: gumroko
- stem: gumroko.
- root: gmrk
- gramm: N,m
- paradigm: N1
- trans_de: Zoll
- trans_en: 
--lexeme
- lex: gumruk
- stem: gumruk.
- root: gmrk
- gramm: N,m
- paradigm: N1
- trans_de: Zoll
- trans_en: 
--lexeme
- lex: gumušo
- stem: gumušo.|gumuše.
- root: gmš
+ lex: gumrukči
+ stem: gumrukči.|gumrukčiye.
+ root: gmr
  gramm: N,m
  paradigm: N2
- trans_de: Büffel
- trans_en: 
+ trans_de: Zöllner
+ trans_en: customs officer
 -lexeme
- lex: gŭnah
- stem: gŭnah.
- root: gŭnh
+ lex: gunah
+ stem: gunah.
+ root: gnh
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sünde, Schade!
- trans_en: 
+ trans_en: shame, disgrace!
+-lexeme
+ lex: gundi
+ stem: gundi.|gundi.
+ root: gnd
+ gramm: N,m
+ paradigm: N2
+ trans_de: Dorfbewohner
+ trans_en: villager
 -lexeme
  lex: gurčke
- stem: gurčke.
+ stem: gurčke.|gurčkat.
  root: grč
  gramm: N,f
- paradigm: N1
- trans_de: a) Niere b) Wade
- trans_en: 
+ paradigm: N2
+ trans_de: Niere; Wade
+ trans_en: kidney; calf (leg)
+-lexeme
+ lex: gurǧ
+ stem: gurǧ.
+ root: grǧ
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Georgier
+ trans_en: Georgians
 -lexeme
  lex: gurǧe
- stem: gurǧe.|gurǧeat.//id..
+ stem: gurǧe.|gurǧat.//gurǧe.
  root: grǧ
  gramm: N,f
  paradigm: N2
- trans_de: Gurce f, pl –at oder id. Georgierin
- trans_en: 
+ trans_de: Georgierin
+ trans_en: Georgian female
 -lexeme
+ lex: gurr
+ stem: gurr.
+ root: gr
+ gramm: N
  lex: gurdaʕa
  stem: gurdaʕa.|guredəʕ.
  root: grdʕ
