@@ -12696,8 +12696,8 @@
  trans_de: Dreschen mit den Füßen (von Rindern)
  trans_en: threshing with feet (of oxen)
 -lexeme
- lex: gerke
- stem: gerke.
+ lex: gerke/gurke
+ stem: gerke.//gurke.
  root: grk
  gramm: N,f
  paradigm: <?>
@@ -13024,8 +13024,8 @@
  trans_de: Zwischenraum zwischen zwei Hügeln, Abhang
  trans_en: space between two hills, slope
 -lexeme
- lex: guhiž
- stem: guhiž.|guhižat.
+ lex: guhiž/guwiž.
+ stem: guhiž.//guwiž.|guhižat.//guwižat.
  root: ghž
  gramm: N,f
  paradigm: N2
@@ -13056,8 +13056,8 @@
  trans_de: Rose, Blume
  trans_en: rose, flower
 -lexeme
- lex: guleš
- stem: guleš.
+ lex: guleš/gurəš
+ stem: guleš.//gurəš.
  root: glš
  gramm: N,m
  paradigm: unchangeable
@@ -13194,7 +13194,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Frosch
- trans_en: 
+ trans_en: frog
 -lexeme
  lex: gurḥo
  stem: gurḥo.
@@ -13204,13 +13204,21 @@
  trans_de: Wunde
  trans_en: 
 -lexeme
- lex: gurke
- stem: gurke.
- root: grk
- gramm: N,f
- paradigm: N1
- trans_de: kleine Ameise
- trans_en: 
+ lex: gurək
+ stem: gurək.
+ root: gr
+ gramm: N,m,dim
+ paradigm: <?>
+ trans_de: Wolf
+ trans_en: wolf
+-lexeme
+ lex: gurmagurm
+ stem: gurmagurm.
+ root: grm
+ gramm: N
+ paradigm: <?>
+ trans_de: Getrommel
+ trans_en: drum roll
 -lexeme
  lex: gurnabaš
  stem: gurnabaš.
@@ -13218,55 +13226,63 @@
  gramm: N,m
  paradigm: N1
  trans_de: Mungo (?); Herpestes ichneumon.
- trans_en: 
+ trans_en: ichneumon (?); Herpestes ichneumon
 -lexeme
  lex: gurno
- stem: gurno.
+ stem: gurno.|gurne.
  root: grn
  gramm: N,m
- paradigm: N1
- trans_de: Stein gehauene oder natürliche Höhlung, sowohl fest im Felsen oder in beweglichem Stein
- trans_en: 
+ paradigm: N2
+ trans_de: in den Stein gehauene oder natürliche Höhlung, sowohl fest im Felsen oder in beweglichem Stein
+ trans_en: hewed opening in stone, also in a rock or in a moving stone
 -lexeme
  lex: gurre
  stem: gurre.|gurrat.
  root: grr
  gramm: N,f
  paradigm: N2
- trans_de: a) Bruch, Hernia; nicht b) Trupp von Menschen, Touristen, Vögeln, Tieren
- trans_en: 
+ trans_de: Bruch, Hernia; Trupp von Menschen, Touristen, Vögeln, Tieren
+ trans_en: hernia; team of people, tourists, birds, animals
+-lexeme
+ lex: gurrovar/gurovar/grovar/gərovar
+ stem: gurrovar.//gurovar.//grovar.//gərovar.
+ root: grv
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: rund
+ trans_en: round
 -lexeme
  lex: gurrtale
- stem: gurrtale.
+ stem: gurrtale.|gurrtalat.
  root: grtl
  gramm: N,f
  paradigm: N1
  trans_de: flache Grube
- trans_en: 
+ trans_en: flat pit
 -lexeme
- lex: gurufto
- stem: gurufto.|gurufyoṯo.
+ lex: gurufto/gərufto
+ stem: gurufto.//gərufto.|gurufyoṯo.//gərufyoṯo.//gurufyoṯe.//gərufyoṯe.
  root: grp
  gramm: N,f
  paradigm: N2
  trans_de: Schneeschieber, Schneebrett
- trans_en: 
+ trans_en: shovel for snow
 -lexeme
- lex: gurusto
- stem: gurusto.|gŭrusyoṯo.
+ lex: gurusto/gorusto/gərusto
+ stem: gurusto.//gorusto.//gərusto.|gurusyoṯo.//gorusyoṯo.//gərusyoṯo.//gurusyoṯe.//gorusyoṯe.//gərusyoṯe.
  root: grst
  gramm: N,f
  paradigm: N2
  trans_de: Handmühle
- trans_en: 
+ trans_en: hand-mill
 -lexeme
  lex: gurutliye
  stem: gurutliye.
  root: grtly
  gramm: N,f
- paradigm: N1
- trans_de: zu viele bei der Arbeit eingemischt, sie können sich nicht einigen
- trans_en: 
+ paradigm: <?>
+ trans_de: kompliziert: es haben zu viele bei der Arbeit eingemischt, sie können sich nicht einigen
+ trans_en: complicated: too many people have got involved with the work, and they cannot agree with each other
 -lexeme
  lex: gurwo
  stem: gurwo.|gurwe.
@@ -13274,39 +13290,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Strumpf
- trans_en: 
+ trans_en: stocking
 -lexeme
- lex: gurz
- stem: gurz.
+ lex: gurz/gurze/gurza
+ stem: gurz.//gurze.//gurza.|gurzat.
  root: grz
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Keule
- trans_en: 
+ trans_en: club
 -lexeme
- lex: gurza
- stem: gurza.|gurzat.
+ lex: gurzəke
+ stem: gurzəke.|gurzəkat.
  root: grz
  gramm: N,f
  paradigm: N2
- trans_de: Keule
- trans_en: 
--lexeme
- lex: gurze
- stem: gurze.
- root: grz
- gramm: N,f
- paradigm: N1
- trans_de: gurza Keule
- trans_en: 
--lexeme
- lex: gurzəke
- stem: gurzəke.
- root: grz
- gramm: N,f
- paradigm: N1
  trans_de: Bündel, Sträußchen
- trans_en: 
+ trans_en: sheaf; small bunch of flowers
 -lexeme
  lex: gustəlke
  stem: gustəlke.|gustəlkat.
@@ -13314,55 +13314,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fingerring
- trans_en: 
+ trans_en: finger ring
 -lexeme
- lex: gušmo
- stem: gušmo.|gušme.
+ lex: gušmo/gəšmo
+ stem: gušmo.//gəšmo.|gušme.//gəšme.
  root: gšm
  gramm: N,m
  paradigm: N2
  trans_de: Körper
- trans_en: 
+ trans_en: body
 -lexeme
  lex: gušro
  stem: gušro.|gušre.
  root: gšr
  gramm: N,m
  paradigm: N2
- trans_de: Balken an der Decke
- trans_en: 
+ trans_de: Balken an der Decke; früher auch Knabenspiel; Bockspringen (eigentl. Brücke)
+ trans_en: logs of wood on the roof (which make up a part of the roof); earlier boys' game: leapfrog (?)
 -lexeme
  lex: guvgava
  stem: guvgava.
  root: gvgv
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Brummspielzeug, das man an Faden oder Draht in der Luft herumwirbelt
- trans_en: 
+ trans_en: <?> which someone spins on threads or on wire in the air
+-lexeme
+ lex: guvguv
+ stem: guvguv.
+ root: gv
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Summen der Fliegen, des Windes u. ä.
+ trans_en: humming of flies,of wind and other
 -lexeme
  lex: guzzizo
- stem: guzzizo.
+ stem: guzzizo.//gzizo.
  root: gzz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brotrinde
- trans_en: 
+ trans_en: bread crumb
 -lexeme
  lex: gweto
  stem: gweto.
  root: gbn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Käse
- trans_en: 
+ trans_en: cheese
 -lexeme
  lex: gwizakke
- stem: gwizakke.
+ stem: gwizakke.|gwizakkat.
  root: gwzk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fußknöchel
- trans_en: 
+ trans_en: ankle
 -lexeme
  lex: gzir
  stem: gzir.
@@ -13370,7 +13378,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Dorfhüter, Marktaufseher
- trans_en: 
+ trans_en: village gatekeeper, watchman
+-lexeme
+ lex: Gziro
+ stem: Gziro.
+ root: gzr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: die Stadt am Dschezire (Cizre)
+ trans_en: the city in Jezire (Cizre)
 -lexeme
  lex: ġalṭa
  stem: ġalṭa.|ġalṭat.
