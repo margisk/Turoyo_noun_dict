@@ -13388,52 +13388,139 @@
  trans_de: die Stadt am Dschezire (Cizre)
  trans_en: the city in Jezire (Cizre)
 -lexeme
+ lex: ġaddar
+ stem: ġaddar
+ root: ġdr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: erbarmungslos, heimtückisch
+ trans_en: merciless, full of guile
+-lexeme
+ lex: ġadər
+ stem: ġadər.
+ root: ġdr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: tödlich
+ trans_en: deadly
+-lexeme
+ lex: ġaḏ̣ab/ġaḏab
+ stem: ġaḏ̣ab.//ġaḏab.|ġaḏ̣abat.//ġaḏabat.
+ root: ġḏ̣b/ġḏb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Zorn, Grimm
+ trans_en: anger, fury
+-lexeme
+ lex: ġafəl
+ stem: ġafəl.
+ root: ġfl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: unversehens
+ trans_en: suddenly
+-lexeme
+ lex: ġalabe
+ stem: ġalabe.
+ root: ġlb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sehr, viel
+ trans_en: very, much, a lot, many
+-lexeme
+ lex: ġalaṭ
+ stem: ġalaṭ.
+ root: ġlṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Fehler
+ trans_en: mistake
+-lexeme
+ lex: ġalaṭ
+ stem: ġalaṭ.
+ root: ġlṭ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: falsch
+ trans_en: wrong, erroneous
+-lexeme
+ lex: ġalbġalb/ġəlbġəlb
+ stem: ġalbġalb.//ġəlbġəlb.
+ root: ġlb
+ gramm: N
+ paradigm: <?>
+ trans_de: Geschrei, Lärm einer großen Menschenmenge
+ trans_en: scream, noise of a large quantity of people
+-lexeme
  lex: ġalṭa
  stem: ġalṭa.|ġalṭat.
  root: ġlṭ
  gramm: N,f
  paradigm: N2
  trans_de: Fehler
- trans_en: 
+ trans_en: mistake
 -lexeme
  lex: ġalṭo
- stem: ġalṭo.|ġalṭoat.
+ stem: ġalṭo.|ġalṭat.
  root: ġlṭ
  gramm: N,m
  paradigm: N2
- trans_de: Versehen, Irrtum; b-
- trans_en: 
+ trans_de: Versehen, Irrtum
+ trans_en: oversight, error
 -lexeme
  lex: ġamo
- stem: ġamo.
+ stem: ġamo.|ġame.
  root: ġm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kummer
- trans_en: 
+ trans_en: concern, worry; grief
+-lexeme
+ lex: ġamxwar/ġaməxwar
+ stem: ġamxwar.//ġaməxwar.
+ root: ġmxwr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: besorgt, bekümmert
+ trans_en: worried, concerned
+-lexeme
+ lex: ġanim
+ stem: ġanim.
+ root: ġnm
+ gramm: ADJ
+ trans_de: besorgt
+ trans_en: occupied, worried
 -lexeme
  lex: ġar
  stem: ġar.
  root: ġwr
  gramm: N,m
- paradigm: N1
- trans_de: a) bunter Stein mit Aderungen, aus dem man Murmeln macht b) Lauf, Flug ohne Aufenthalt; einmaliger Lauf bis man nicht mehr kann; Galopp
- trans_en: 
+ paradigm: <?>
+ trans_de: bunter Stein mit Aderungen, aus dem man Murmeln macht; Lauf, Flug ohne Aufenthalt; einmaliger Lauf bis man nicht mehr kann; Galopp
+ trans_en: coloured stones with <?> from which people make <?>; running, flying without stopping; quick run, until a person cannot run anymore; galop
 -lexeme
  lex: ġarb
  stem: ġarb.
  root: ġrb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Westen
- trans_en: 
+ trans_en: west
+-lexeme
+ lex: ġarbiye
+ stem: ġarbiye.
+ root: ġrb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ġare
  stem: ġare.|ġarat.
  root: ġr
  gramm: N,f
  paradigm: N2
- trans_de: runde Steinkugel, Art größerer Murmel. Man legt Münzen auf die Erde, so viele Spieler es sind. Dann schnellt jeder Spieler seine
+ trans_de: runde Steinkugel, Art größerer Murmel. Man legt Münzen auf die Erde, so viele Spieler es sind. Dann schnellt jeder Spieler seine ġare mit den Fingern und sucht eine der Münzen zu treffen. Trifft er sie, so gehört sie ihm. Die daneben gegangenen bleiben an ihren Plätzen, da, wo sie hingerollt sind. Wird eine von diesen getroffen, so scheidet der betreffende Spieler aus. Murmel
  trans_en: 
 -lexeme
  lex: ġaribiye
