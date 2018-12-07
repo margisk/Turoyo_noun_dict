@@ -2065,13 +2065,13 @@
  trans_de: Schwager eines Mannes. Zwei Männer heiraten Schwestern, dann werden sie ʕodilo
  trans_en: relative by marriage of a man (?). When two men marry sisters, they become ʕodilo for each other
 -lexeme
- lex: ʕŏḏər
- stem: ʕŏḏər.
+ lex: ʕoḏər/ʕəḏər
+ stem: ʕoḏər.//ʕəḏər.|ʕoḏərat.//ʕəḏərat.
  root: ʕḏr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Epilepsie
- trans_en: 
+ trans_en: epilepsy
 -lexeme
  lex: ʕolam
  stem: ʕolam.
@@ -2326,6 +2326,14 @@
  paradigm: unchangeable
  trans_de: Lebensweise
  trans_en: way of life
+-lexeme
+ lex: aaa
+ stem: aaa.
+ root: a
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: aha!
+ trans_en: aha!
 -lexeme
  lex: aʕka
  stem: aʕka.
@@ -2764,7 +2772,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: Ach!
- trans_en: 
+ trans_en: ah!
 -lexeme
  lex: ahah
  stem: ahah.
@@ -14914,6 +14922,14 @@
  trans_de: Verderben
  trans_en: 
 -lexeme
+ lex: halbat
+ stem: halbat.//albat.
+ root: hlb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sicher, natürlich
+ trans_en: certainly, of course
+-lexeme
  lex: hamnixo
  stem: hamnixo.
  root: hmnx
@@ -14922,8 +14938,8 @@
  trans_de: Art Schürze mit Kreuzen am Rande und Verzierungen, die der Pfarrer trägt, wenn er das Evangelium liest
  trans_en: 
 -lexeme
- lex: haniye
- stem: haniye.
+ lex: haniye/hanniye
+ stem: haniye.//hanniye.
  root: hny
  gramm: INTERJ
  paradigm: unchangeable
