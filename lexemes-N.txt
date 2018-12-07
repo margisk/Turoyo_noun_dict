@@ -1873,8 +1873,8 @@
  trans_de: Dunkelheit
  trans_en: darkness
 -lexeme
- lex: ʕətmo/ʕutmo
- stem: ʕətmo.//ʕutmo.
+ lex: ʕətmo/ʕutmo/ʕətma/ʕutma
+ stem: ʕətmo.//ʕutmo.//ʕətma.//ʕutma.
  root: ʕtm
  gramm: N,f
  paradigm: unchangeable
@@ -13523,21 +13523,53 @@
  trans_de: runde Steinkugel, Art größerer Murmel. Man legt Münzen auf die Erde, so viele Spieler es sind. Dann schnellt jeder Spieler seine ġare mit den Fingern und sucht eine der Münzen zu treffen. Trifft er sie, so gehört sie ihm. Die daneben gegangenen bleiben an ihren Plätzen, da, wo sie hingerollt sind. Wird eine von diesen getroffen, so scheidet der betreffende Spieler aus. Murmel
  trans_en: 
 -lexeme
+ lex: ġarəq
+ stem: ġarəq.
+ root: ġrq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: reichlich
+ trans_en: abundant
+-lexeme
+ lex: ġarib
+ stem: ġarib
+ root: ġrb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: fremd
+ trans_en: foreign
+-lexeme
  lex: ġaribiye
  stem: ġaribiye.
  root: ġrb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fremde
  trans_en: 
 -lexeme
- lex: ġaṣta
- stem: ġaṣta.|ġaṣtat.
- root: ġṣt
+ lex: ġarrəhay
+ stem: ġarrəhay.
+ root: ġrh
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wortlos, verwirrt anstarrend
+ trans_en: speechless, looking at something confused
+-lexeme
+ lex: ġarzək
+ stem: ġarzək.|ġarzəkat.
+ root: ġrz
+ gramm: N
+ paradigm: N2
+ trans_de: neu angelegter Weinberg
+ trans_en: newly set vineyard
+-lexeme
+ lex: ġaṣta/ġazeta/ġazita
+ stem: ġaṣta.//ġazeta.//ġazita.|ġaṣtat.//ġazetat.//ġazitat.
+ root: ġṣt/ġzt
  gramm: N,f
  paradigm: N2
- trans_de: Zeitung; nicht
- trans_en: 
+ trans_de: Zeitung
+ trans_en: newspaper
 -lexeme
  lex: ġašimo
  stem: ġašimo.|ġašime.
@@ -13545,15 +13577,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: einfältig, dumm, nichts wissend
- trans_en: 
+ trans_en: naive, stupid, unknowledgeable
+-lexeme
+ lex: ġawr
+ stem: ġawr.
+ root: ġwr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: untergehend
+ trans_en: going down
 -lexeme
  lex: ġawra
- stem: ġawra.
+ stem: ġawra.|ġawrat.
  root: ġwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Abgrund, Krater
- trans_en: 
+ trans_en: abyss, crater
 -lexeme
  lex: ġawwaṣ
  stem: ġawwaṣ.|ġawwaṣ.
@@ -13561,95 +13601,126 @@
  gramm: N,m
  paradigm: N2
  trans_de: Taucher
- trans_en: 
+ trans_en: diver, aquanaut
 -lexeme
  lex: ġaye
- stem: ġaye.
+ stem: ġaye.|ġayat.
  root: ġyy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zweck, Ziel
- trans_en: 
+ trans_en: goal, purpose
+-lexeme
+ lex: ġayəb/ġayb
+ stem: ġayəb.//ġayb.
+ root: ġyb
+ gramm: ADJ
+ trans_de: verloren, verschwunden (Schiffe)
+ trans_en: lost, gone (ships)
+-lexeme
+ lex: ġazablebuyi
+ stem: ġazablebuyi.
+ root: ġzblby
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: über den man zornig werden soll
+ trans_en: person about whom people become angry
 -lexeme
  lex: ġazale
  stem: ġazale.|ġazalat.
- root: ġzl
+ root: ġzl
  gramm: N,f
  paradigm: N2
  trans_de: Gazelle
- trans_en: 
--lexeme
- lex: ġazeta
- stem: ġazeta.|ġazetat.
- root: ġzt
- gramm: N,f
- paradigm: N2
- trans_de: Zeitung
- trans_en: 
--lexeme
- lex: ġazita
- stem: ġazita.
- root: ġzt
- gramm: N,f
- paradigm: N1
- trans_de: Zeitung
- trans_en: 
+ trans_en: gazelle 
 -lexeme
  lex: ġazu
  stem: ġazu.
  root: ġzw
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Raubzug
- trans_en: 
+ trans_en: marauding raid
 -lexeme
  lex: ġazula
- stem: ġazula.
+ stem: ġazula.|ġazulat.
  root: ġzl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kreisel
- trans_en: 
+ trans_en: whipping top
 -lexeme
  lex: ġazwe
- stem: ġazwe.
+ stem: ġazwe.|ġazwat.
  root: ġzw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Raubzug
- trans_en: 
+ trans_en: marauding raid
+-lexeme
+ lex: ġəlba
+ stem: ġəlba.
+ root: ġlb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: an Zahl überlegen, zahlreich
+ trans_en: overcoming, abundant
+-lexeme
+ lex: ġərr
+ stem: ġərr.
+ root: ġr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Platsch! Geräusch eines Gegenstandes, der ins Wasser fällt, auch aufeinanderfallender Steine
+ trans_en: splash! sound of an object falling into water, also of two stones collapsing with each other
 -lexeme
  lex: ġira
  stem: ġira.|ġirat.
  root: ġyr
  gramm: N,f
  paradigm: N2
- trans_de: a) Eifersucht b) Eifer, Fleiß c) Weib
- trans_en: 
+ trans_de: Eifersucht; Eifer, Fleiß; Weib
+ trans_en: jealousness; zeal, diligence; woman
 -lexeme
- lex: ġərbe
- stem: ġərbe.
+ lex: ġirani
+ stem: ġirani.|ġiranin.
+ root: ġrn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: eifersüchtig; der etwas Schlechtes verabscheut, zu beseitigen sucht; jemand, der sofort das nötige tut
+ trans_en: jealous; someone who hates something bad and wishes to deal with it; someone who immediately makes what is necessary
+-lexeme
+ lex: ġərbe/ġurbe
+ stem: ġərbe.//ġurbe.|ġərbat.//ġurbat.
  root: ġrb
  gramm: N,f
- paradigm: N1
- trans_de: Fremde
- trans_en: 
+ paradigm: N2
+ trans_de: Fremde; Aufenthalt in der Fremde
+ trans_en: foreign land; staying in a foreign land
 -lexeme
  lex: ġəre
  stem: ġəre.
  root: ġrw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Klebstoff
- trans_en: 
+ trans_en: adhesive
 -lexeme
  lex: ġəraz
  stem: ġəraz.
  root: ġrz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brut; verächtlicher Ausdruck, wenn eine Familie zuviel Kinder bekommt
  trans_en: 
+-lexeme
+ lex: ġərəfti/ġurufti
+ stem: ġərəfti.//ġurufti.
+ root: ġrf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kindisch, töricht
+ trans_en: infantile, foolish
 -lexeme
  lex: ġərġara
  stem: ġərġara.
@@ -13697,14 +13768,6 @@
  gramm: N,m
  paradigm: N1
  trans_de: Wüstengespenst, Art Ungeheuer
- trans_en: 
--lexeme
- lex: ġurbe
- stem: ġurbe.
- root: ġrb
- gramm: N,f
- paradigm: N1
- trans_de: Fremde
  trans_en: 
 -lexeme
  lex: ġurfe
