@@ -39489,109 +39489,173 @@
  trans_de: a) Weihnachten b) Kind
  trans_en: 
 -lexeme
+ lex: yalənəz/yalanəz
+ stem: yalənəz.//yalanəz.
+ root: ylnz
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: nur
+ trans_en: only
+-lexeme
  lex: yalifo
- stem: yalifo.
+ stem: yalifo.|yalifat.
  root: ylp
- gramm: N,m
- paradigm: N1
- trans_de: a) gelehrt, gebildet b) gewohnt
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: gelehrt, gebildet; gewohnt
+ trans_en: taught, educated; usual
+-lexeme
+ lex: yalla
+ stem: yalla.
+ root: yll
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: los!
+ trans_en: come on!
 -lexeme
  lex: yalwo
  stem: yalwo.
  root: ylw
- gramm: N,m
- paradigm: N1
+ gramm: N,?
+ paradigm: <?>
  trans_de: Biestmilch
- trans_en: 
+ trans_en: colostrum
 -lexeme
  lex: yaman
  stem: yaman.
  root: ymn
- gramm: N,m
- paradigm: N1
+ gramm: N,?
+ paradigm: unchangeable
  trans_de: Jemen
- trans_en: 
+ trans_en: Yemen
+-lexeme
+ lex: yaman
+ stem: yaman.
+ root: ymn
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gnade! Erbarmen!
+ trans_en: Grace! Mercy!
+-lexeme
+ lex: yaman
+ stem: yaman.
+ root: ymn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: tüchtig, geschäftstüchtig
+ trans_en: efficient, enterprising
 -lexeme
  lex: yamani
  stem: yamani.
  root: ymn
- gramm: N,m
- paradigm: N1
- trans_de: rechter Fuß“
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: rechts
+ trans_en: right
+-lexeme
+ lex: yamaniye
+ stem: yamaniye.
+ root: ymn
+ gramm: N,?
+ paradigm: ?
+ trans_de: Jemenite, jemenitisch
+ trans_en: Yemenite, Yemeni
+-lexeme
+ lex: yamino
+ stem: yamino.
+ root: ymn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: rechts, die rechte Seite
+ trans_en: right, the right side
 -lexeme
  lex: yamun
  stem: yamun.
  root: ymn
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: rechts
+ trans_en: right
 -lexeme
- lex: yaqa
- stem: yaqa.
- root: yq
- gramm: N,f
- paradigm: N1
- trans_de: Kragen
- trans_en: 
+ lex: yan
+ stem: yan.
+ root: yn
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Sessel, Bettgestell, Sofa
+ trans_en: armchair, bed frame, sofa
+-lexeme
+ lex: yan ... yan
+ stem: yan ... yan.
+ root: ?
+ gramm: ?
+ paradigm: ?
+ trans_de: sei es ... sei es
+ trans_en: be it ... be it
+-lexeme
+ lex: yaqin
+ stem: yaqin.
+ root: yqn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sicherlich, gewiß
+ trans_en: surely, certainly
 -lexeme
  lex: yaquro
  stem: yaquro.|yaqure.
  root: yqr
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: schwer, hart; kostbar
+ trans_en: heavy, hard; precious
 -lexeme
  lex: yar
  stem: yar.|yarinat.
  root: yr
  gramm: N,m
  paradigm: N2
- trans_de: yarinat Freund, Liebhaber yare gone yarê gonê „der alte Freund“
- trans_en: 
+ trans_de: Freund, Liebhaber
+ trans_en: friend, lover
 -lexeme
  lex: yarḥo
  stem: yarḥo.|yarḥe.
  root: yrḥ
  gramm: N,m
  paradigm: N2
- trans_de: Monat adyawma kmo
- trans_en: 
+ trans_de: Monat
+ trans_en: month
 -lexeme
- lex: yariquṯo
- stem: yariquṯo.
+ lex: yariquṯo/yarəquṯo
+ stem: yariquṯo.//yarəquṯo.
  root: yrq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Grünes, grüner Platz in der Natur
- trans_en: 
+ trans_en: green, green place in the nature
 -lexeme
  lex: yarixo
  stem: yarixo.|yarixe.
  root: yrk
  gramm: N,m
- paradigm: N2
- trans_de: PrS
- trans_en: 
+ paradigm: ADJ
+ trans_de: lang
+ trans_en: long
 -lexeme
  lex: yaroqo
  stem: yaroqo.|yaroqe.
  root: yrq
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ; f yaraqto
- trans_en: 
+ trans_de: grün
+ trans_en: green
 -lexeme
  lex: yarxoniyo
- stem: yarxoniyo.|yarxoniyoat.
+ stem: yarxoniyo.|yarxoniyat.
  root: yrk
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: wie Zylinder)
- trans_en: 
+ trans_de: länglich rund (wie Zylinder)
+ trans_en: long and round (like cylinder)
 -lexeme
  lex: yasaq/asaq
  stem: yasaq.//asaq.
