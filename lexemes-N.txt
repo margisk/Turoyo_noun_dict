@@ -13634,8 +13634,8 @@
  trans_de: über den man zornig werden soll
  trans_en: person about whom people become angry
 -lexeme
- lex: ġazale
- stem: ġazale.|ġazalat.
+ lex: ġazale/ġəzale
+ stem: ġazale.//ġəzale.|ġazalat.//ġəzalat.
  root: ġzl
  gramm: N,f
  paradigm: N2
@@ -13731,76 +13731,108 @@
  trans_en: infantile, foolish
 -lexeme
  lex: ġərġara
- stem: ġərġara.
+ stem: ġərġara.|ġərġarat.
  root: ġrġr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Aufzug, um bei Bauarbeiten Baumaterial zu befördern
- trans_en: 
+ trans_en: elevator that is used to transport building materials during construction works
 -lexeme
  lex: ġərtəke
  stem: ġərtəke.
  root: ġrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bodensatz; Salz oder sonstige Beimischungen, die sich im Wasser absetzen
- trans_en: 
+ trans_en: residue; salt or other admixture that sediments in water
 -lexeme
- lex: ġəzale
- stem: ġəzale.|ġəzalat.
- root: ġzl
- gramm: N,f
- paradigm: N2
- trans_de: Gazelle
- trans_en: 
+ lex: ġəšwaš
+ stem: ġəšwaš.
+ root: ġšwš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
- lex: ġorimo
- stem: ġorimo.
+ lex: ġorimo/ġurimo
+ stem: ġorimo.//ġurimo.
  root: ġrm
  gramm: N,m
- paradigm: N1
- trans_de: a) Geist, Dschinn b) Feind
- trans_en: 
+ paradigm: <?>
+ trans_de: Geist, Dschinn; Feind
+ trans_en: spirit, genie; enemy
 -lexeme
  lex: ġubari
  stem: ġubari.
  root: ġbr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Frühgerste
- trans_en: 
+ trans_en: early barley
 -lexeme
  lex: ġul
  stem: ġul.
  root: ġwl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wüstengespenst, Art Ungeheuer
- trans_en: 
+ trans_en: desert ghost, type of monster
+-lexeme
+ lex: ġullo
+ stem: ġullo.
+ root: ġl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: undeutlich sprechend
+ trans_en: talking unclearly
+-lexeme
+ lex: ġumam
+ stem: ġumam.
+ root: ġmm
+ gramm: N
+ paradigm: <?>
+ trans_de: Dunst, Nebel
+ trans_en: vapour, mist
 -lexeme
  lex: ġurfe
- stem: ġurfe.
+ stem: ġurfe.|ġurfat.
  root: ġrf
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kammer
- trans_en: 
+ trans_en: chamber
 -lexeme
- lex: ġurimo
- stem: ġurimo.
- root: ġrm
- gramm: N,m
- paradigm: N1
- trans_de: Geist, Dschinn
- trans_en: 
+ lex: ġurġur/ġərġər
+ stem: ġurġur.//ġərġər.
+ root: ġrġr
+ gramm: N
+ paradigm: <?>
+ trans_de: Gedonner, Krachen zusammenbrechender Häuser
+ trans_en: rumble, noise of collapsing houses
 -lexeme
- lex: ġŭrub
- stem: ġŭrub.|ġŭrubat.
+ lex: ġurub
+ stem: ġurub.|ġurubat.
  root: ġrb
  gramm: N,m
  paradigm: N2
  trans_de: Gruppe, Partei beim Spiel
- trans_en: 
+ trans_en: group, party during games
+-lexeme
+ lex: ġuttaġut
+ stem: ġuttaġut.
+ root: ġtġt
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Gurren der Tauben
+ trans_en: cooing of pigeons
+-lexeme
+ lex: ġyoṭo
+ stem: ġyoṭo.
+ root: ġyṭ
+ gramm: N
+ paradigm: <?>
+ trans_de: Sonnenuntergang, Westen
+ trans_en: sunset; west
 -lexeme
  lex: ǧaʕda/ǧaʕde
  stem: ǧaʕda/ǧaʕde.|ǧaʕda.//ǧaʕdat.
