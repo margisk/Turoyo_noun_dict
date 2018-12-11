@@ -2694,8 +2694,8 @@
  trans_de: Feuer
  trans_en: fire
 -lexeme
- lex: agono
- stem: agono.
+ lex: agono/yagono
+ stem: agono.//yagono.
  root: gn
  gramm: N,f
  paradigm: N1
@@ -39447,47 +39447,135 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gurke
- trans_en: 
+ trans_en:
+-lexeme
+ lex: yaʕay
+ stem: yaʕay.
+ root: yʕy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ei (wie schön)
+ trans_en: ay (how niche)
+-lexeme
+ lex: yaʕni
+ stem: yaʕni.
+ root: yʕn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: das heißt
+ trans_en: that is
+-lexeme
+ lex: yaʕyo
+ stem: yaʕyo.
+ root: yʕy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: entsprossen (Pflanze) 
+ trans_en: seeded (plant)
+-lexeme
+ lex: ya ba
+ stem: ya ba.
+ root: yb
+ gramm: ?
+ paradigm: <?>
+ trans_de: Vater (Anrede)
+ trans_en: father (form of adress)
+-lexeme
+ lex: yabaḥiḏ
+ stem: yabaḥiḏ.
+ root: ybḥḏ
+ gramm: ?
+ paradigm: <?>
+ trans_de: Beginn des Credo 
+ trans_en: beginning of the credo
 -lexeme
  lex: yabančiye
  stem: yabančiye.
  root: ybnčy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fremde
- trans_en: 
+ trans_en: stranger
+-lexeme
+ lex: yabo
+ stem: yabo.
+ root: yb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Vater! Appelliert an die Einsicht, den Verstand
+ trans_en: father! Appeals to the reason, to the mind
+-lexeme
+ lex: yade/ya de
+ stem: yade.//ya de.
+ root: yd
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Mutter
+ trans_en: mother
 -lexeme
  lex: yaḏoʕo
  stem: yaḏoʕo.
  root: ydʕ
  gramm: N,m
- paradigm: N1
- trans_de: Wisser aloho
- trans_en: 
+ paradigm: <?>
+ trans_de: Wisser
+ trans_en: knower
 -lexeme
- lex: yagono
- stem: yagono.|yagone.
- root: ygn
- gramm: N,m
- paradigm: N2
- trans_de: Tonbecken pl
- trans_en: 
+ lex: yagǧar
+ stem: yagǧar.
+ root: ygǧr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: einmal, mit einem Male; ganz und gar
+ trans_en: once, at once; completely
 -lexeme
- lex: yay
- stem: yay.
- root: yy
- gramm: N,m
- paradigm: N1
- trans_de: Sprungfeder
- trans_en: 
+ lex: yaġləš/yaġləšiye
+ stem: yaġləš.//yaġləšiye.
+ root: yġlš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: falsch
+ trans_en: false
+-lexeme
+ lex: yaho/yahu
+ stem: yaho.//yahu.
+ root: yh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ei doch!
+ trans_en: yes!
+-lexeme
+ lex: yahoke
+ stem: yahoke.
+ root: yhk
+ gramm: ?
+ paradigm: <?>
+ trans_de: ohne Hoffnung
+ trans_en: without hope
+-lexeme
+ lex: yak
+ stem: yak.
+ root: yk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: bloß, allein
+ trans_en: only, alone
+-lexeme
+ lex: yakka yakka
+ stem: yakka yakka.
+ root: ykk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: vereinzelt
+ trans_en: occasionally
 -lexeme
  lex: yaldo
  stem: yaldo.
  root: yld
  gramm: N,m
- paradigm: N1
- trans_de: a) Weihnachten b) Kind
- trans_en: 
+ paradigm: <?>
+ trans_de: Weihnachten; Kind
+ trans_en: Christmas; child
 -lexeme
  lex: yalənəz/yalanəz
  stem: yalənəz.//yalanəz.
