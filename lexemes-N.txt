@@ -14946,6 +14946,14 @@
  trans_de: Guten appetit!; wohl bekomm's (haniye w ʕawafi)
  trans_en: bon appetit! here is to you
 -lexeme
+ lex: haqqa/aqqa
+ stem: haqqa.//aqqa.
+ root: qṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: so viel, so groß
+ trans_en: 
+-lexeme
  lex: haskale
  stem: haskale.|haskalat.
  root: hskl
