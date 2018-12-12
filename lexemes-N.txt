@@ -14035,7 +14035,7 @@
  trans_en: gallantry, generosity
 -lexeme
  lex: ǧaməʕ/ǧeməʕ
- stem: ǧaməʕ.//ǧeməʕ.//ǧuweməʕ.
+ stem: ǧaməʕ.//ǧeməʕ.//ǧuweməʕ.//ǧeməʕat.
  root: ǧmʕ
  gramm: N,m
  paradigm: N2
@@ -14138,6 +14138,14 @@
  trans_de: Gärtner
  trans_en: gardener
 -lexeme
+ lex: ǧanubi
+ stem: ǧanubi.
+ root: ǧnb
+ gramm: ADJ
+ paradigm: N2
+ trans_de: südlich
+ trans_en: southern
+-lexeme
  lex: ǧaqqe
  stem: ǧaqqe.|ǧaqqat.
  root: ǧqq
@@ -14146,13 +14154,53 @@
  trans_de: Augenschmalz
  trans_en: 
 -lexeme
+ lex: ǧarabun/ǧarabune
+ stem: ǧarabun.//ǧarabune.
+ root: ǧrb
+ gramm: N
+ paradigm: <?>
+ trans_de: Probe, Versuch
+ trans_en: attempt, try
+-lexeme
+ lex: ǧaraʔim
+ stem: ǧaraʔim.
+ root: ǧrʔ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Verbrechen
+ trans_en: crime
+-lexeme
  lex: ǧarde
- stem: ǧarde.
+ stem: ǧarde.|ǧardat.
  root: ǧrd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Trupp
- trans_en: 
+ trans_en: team, troop
+-lexeme
+ lex: ǧara
+ stem: ǧara.
+ root: ǧr
+ gramm: N
+ paradigm: <?>
+ trans_de: manchmal
+ trans_en: sometimes
+-lexeme
+ lex: ǧari
+ stem: ǧari.
+ root: ǧr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: regelmäßig
+ trans_en: regular
+-lexeme
+ lex: ǧaridat
+ stem: ǧaridat.
+ root: ǧrd
+ gramm: N,pl
+ paradgim: <?>
+ trans_de: Wurfspeere
+ trans_en: javelins
 -lexeme
  lex: ǧarḥo
  stem: ǧarḥo.|ǧarḥe.
@@ -14160,127 +14208,127 @@
  gramm: N,m
  paradigm: N2
  trans_de: Verletzung
- trans_en: 
+ trans_en: injury
 -lexeme
  lex: ǧarḥoniye
  stem: ǧarḥoniye.
  root: ǧrḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verletzung
- trans_en: 
+ trans_en: injury
 -lexeme
- lex: ǧaryan
- stem: ǧaryan.
+ lex: ǧaryan/ǧəryan
+ stem: ǧaryan.//ǧəryan.|ǧaryanat.//ǧəryanat.
  root: ǧry
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: elektrischer Strom
- trans_en: 
+ trans_en: electricity
 -lexeme
  lex: ǧasad
  stem: ǧasad.|ǧasade.
  root: ǧsd
  gramm: N,m
  paradigm: N2
- trans_de: cäsade Körper, Leiche
- trans_en: 
+ trans_de: Körper, Leiche
+ trans_en: body, corpse
 -lexeme
  lex: ǧasus
- stem: ǧasus.
+ stem: ǧasus.|ǧasusin.
  root: ǧss
  gramm: N,m
  paradigm: N1
- trans_de: a) Spion, Späher, Kundschafter Pr b) der erste über dem Boden erscheinende Sproß von Melonen und Gemüse
- trans_en: 
+ trans_de: Spion, Späher, Kundschafter; der erste über dem Boden erscheinende Sproß von Melonen und Gemüse
+ trans_en: spy, scout; first shoot of melons and vegetables which appears above the earth
 -lexeme
  lex: ǧasusiye
  stem: ǧasusiye.
  root: ǧss
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Spionage
- trans_en: 
+ trans_en: espionage
 -lexeme
  lex: ǧawdəke
  stem: ǧawdəke.|ǧawdəkat.
  root: ǧwd
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kleiner Schlauch
- trans_en: 
+ trans_en: small skin
 -lexeme
- lex: ǧawhar
+ lex: ǧawhar/ǧahwar
  stem: ǧawhar.|ǧawahər.
  root: ǧwhr
  gramm: N,m
  paradigm: N2
  trans_de: Juwel, Edelstein
- trans_en: 
+ trans_en: gem, jewellery
 -lexeme
  lex: ǧawharaye
- stem: ǧawharaye.|ǧawharayeayat.
+ stem: ǧawharaye.|ǧawharayat.
  root: ǧwhr
  gramm: N,f
  paradigm: N2
  trans_de: Juwel, Edelstein
- trans_en: 
+ trans_en: gem, jewellery
 -lexeme
- lex: ǧawab
- stem: ǧawab.
+ lex: ǧawab/ǧuwab/ǧəwab
+ stem: ǧawab.//ǧuwab.//ǧəwab.|ǧawabat.//ǧuwabat.//ǧəwabat.
  root: ǧwb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Antwort
- trans_en: 
+ trans_en: answer
 -lexeme
  lex: ǧawrək
  stem: ǧawrək.|ǧawrəkat.
  root: ǧwrk
  gramm: N,m
  paradigm: N2
- trans_de: junger Hund; Löwe?
- trans_en: 
+ trans_de: junger Hund; Löwe (?)
+ trans_en: puppy; lion (?)
 -lexeme
- lex: ǧaza
- stem: ǧaza.
+ lex: ǧaza/ǧiza/ǧəza
+ stem: ǧaza.//ǧiza.//ǧəza.|ǧazat.//ǧizat.//ǧəzat.
  root: ǧzʔ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Strafe
- trans_en: 
+ trans_en: fine, penalty
 -lexeme
- lex: ǧaz(z)ara
- stem: ǧaz(z)ara.
- root: ǧz(z)r
+ lex: ǧazzara
+ stem: ǧazzara.
+ root: ǧzr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: letzte Beackerung des Weinberges im April oder Mai, in Abständen, um Unkraut herauszuholen
- trans_en: 
+ trans_en: last ploughing of a vineyard in April or in May, in intervals, to remove weeds
 -lexeme
- lex: ǧazma/ǧazme
- stem: ǧazma/ǧazme.
+ lex: ǧazma/ǧazme/ǧəzma/ǧuzma
+ stem: ǧazma.//ǧazme.//ǧəzma.//ǧuzma.|ǧazmat.//ǧazamt.//ǧuzmat.//ǧəzmat.
  root: ǧzm/ǧzm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Paar Stiefel
- trans_en: 
+ trans_en: pair of boots
 -lexeme
- lex: ǧehil
- stem: ǧehil.
+ lex: ǧdid
+ stem: ǧdid.
+ root: ǧdd
+ gramm: N
+ paradigm: <?>
+ trans_de: Hin- und Hergehen, Reiten
+ trans_en: coming and going, riding
+-lexeme
+ lex: ǧehil/ǧehəl/ǧahəl
+ stem: ǧehil.//ǧehəl.//ǧahəl.
  root: ǧhl
- gramm: N,m
- paradigm: N1
- trans_de: Kf
- trans_en: 
--lexeme
- lex: ǧeməʕ
- stem: ǧeməʕ.|ǧuweməʕ.
- root: ǧmʕ
- gramm: N,m
- paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unerfahren, unwissend
+ trans_en: inexperienced, ignorant
 -lexeme
  lex: ǧeriye
  stem: ǧeriye.|ǧuweri.//ǧeriyat.
@@ -14288,39 +14336,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: Dienerin, Sklavin
- trans_en: 
+ trans_en: female servant, female slave
 -lexeme
  lex: ǧenenči
- stem: ǧenenči.
+ stem: ǧenenči.|ǧenenčiye.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtner
- trans_en: 
+ trans_en: gardener
+-lexeme
+ lex: ǧewi
+ stem: ǧewi.|ǧewikat.
+ root: ǧwy
+ gramm: N
+ paradigm: N2
+ trans_de: Zwillingspaar
+ trans_en: twins
 -lexeme
  lex: ǧeziye
- stem: ǧeziye.
+ stem: ǧeziye.|ǧeziyat.
  root: ǧzy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Haufen, Turm von Blättern, Zweigen mit Blättern
- trans_en: 
+ trans_en: heap of leaves, branches with leaves
 -lexeme
- lex: ǧəbba
- stem: ǧəbba.
+ lex: ǧəbba/ǧəbbe
+ stem: ǧəbba.//ǧəbbe.|ǧəbbat.
  root: gbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Überwurf, Obergewand, Stola (für Pfarrer)
- trans_en: 
+ trans_en: cape, cloak; outwear; stole (for priests)
+-lexeme
+ lex: ǧəddi
+ stem: ǧəddi.
+ root: ǧdd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ernst
+ trans_en: serious
 -lexeme
  lex: ǧəddo
- stem: ǧəddo.|ǧəddoe.//-one.
+ stem: ǧəddo.|ǧədde.//ǧəddone.
  root: ǧdd
  gramm: N,m
  paradigm: N2
  trans_de: Großvater
- trans_en: 
+ trans_en: grandfather
 -lexeme
  lex: ǧəfno
  stem: ǧəfno.|ǧəfne.
@@ -14328,58 +14392,66 @@
  gramm: N,m
  paradigm: N2
  trans_de: Augenlid
- trans_en: 
+ trans_en: eyelash
+-lexeme
+ lex: Ǧəǧǧe
+ stem: Ǧəǧǧe.
+ root: ǧǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Georg
+ trans_en: George
+-lexeme
+ lex: ǧəh
+ stem: ǧəh.
+ root: ǧh
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Stelle, Ort
+ trans_en: place
 -lexeme
  lex: ǧəhaz
  stem: ǧəhaz.
  root: ǧhz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Aussteuer
- trans_en: 
+ trans_en: dowry
+-lexeme
+ lex: ǧəhənnam/ǧahannam/ǧehennam
+ stem: ǧəhənnam.//ǧahannam.//ǧehennam.
+ root: ǧhn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: (ohne Artikel) Hölle
+ trans_en: (without article) hell
 -lexeme
  lex: ǧəhke
- stem: ǧəhke.
+ stem: ǧəhke.|ǧəhkat.
  root: ǧhk
  gramm: N,f
- paradigm: N1
- trans_de: eigentlich Plätzchen) Häufchen
- trans_en: 
+ paradigm: N2
+ trans_de: (eigentlich Plätzchen) Häufchen
+ trans_en: (in fact a small place) small heap
 -lexeme
- lex: ǧəllək
- stem: ǧəllək.
- root: ǧlk
- gramm: N,m
- paradigm: N1
- trans_de: kleiner Teppich, Gebetsteppich
- trans_en: 
--lexeme
- lex: ǧəlliko
- stem: ǧəlliko.|ǧəl(li)kat.
+ lex: ǧəllək/ǧəlliko
+ stem: ǧəllək.//ǧəlliko.|ǧəlkat.//ǧəllikat.
  root: ǧlk
  gramm: N,m
  paradigm: N2
- trans_de: kleiner Teppich, Kleidchen
- trans_en: 
--lexeme
- lex: ǧəmǧəmme
- stem: ǧəmǧəmme.
- root: ǧmǧm
- gramm: N,f
- paradigm: N1
- trans_de: Totenschädel
- trans_en: 
+ trans_de: kleiner Teppich, Gebetsteppich
+ trans_en: small rug, prayer rug; small clothes
 -lexeme
  lex: ǧəmhuriye
- stem: ǧəmhuriye.
+ stem: ǧəmhuriye.//ǧumhuriye.|ǧəmhuriyat.//ǧumhuriyat.
  root: ǧmhr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Republik
- trans_en: 
+ trans_en: republic
 -lexeme
  lex: ǧən
- stem: ǧən.|ǧən.//ǧənat.
+ stem: ǧən.|ǧən.//ǧənnat.
  root: ǧnn
  gramm: N,m
  paradigm: N2
@@ -14390,33 +14462,33 @@
  stem: ǧənnawi.
  root: ǧnn	
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geistermann
  trans_en: 
 -lexeme
  lex: ǧənni
- stem: ǧənni.|ǧənniiye.
+ stem: ǧənni.|ǧənniye.
  root: ǧnn
  gramm: N,m
  paradigm: N2
- trans_de: iye Geist
- trans_en: 
+ trans_de: Geist
+ trans_en: ghost, genie
 -lexeme
  lex: ǧəns
- stem: ǧəns.
+ stem: ǧəns.|ǧənsat.
  root: ǧns
  gramm: N,m
- paradigm: N1
- trans_de: a) Rasse (Pferd) b) Geist, in dem Ausdruck: lo ins lo ǧins lo ins lo cins „weder Mensch noch Geist“
- trans_en: 
+ paradigm: N2
+ trans_de: Rasse (Pferd); Geist, in dem Ausdruck: lo əns w lo ǧəns
+ trans_en: breed (horses); genie, ghost (in the phrase lo əns w lo ǧəns)
 -lexeme
  lex: ǧənsiye
- stem: ǧənsiye.
+ stem: ǧənsiye.|ǧənsiyat.
  root: ǧns
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Geschlecht, Familie
- trans_en: 
+ trans_en: kin, family
 -lexeme
  lex: ǧənzər
  stem: ǧənzər.|ǧinezər.
