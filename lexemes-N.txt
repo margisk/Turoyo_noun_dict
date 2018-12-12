@@ -39401,45 +39401,109 @@
  trans_de: Sonnenwolfsmilch, Euphorbia helioscopia L.
  trans_en: 
 -lexeme
+ lex: xušxuš 
+ stem: xušxuš.
+ root: xšxš
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Geräusch, das beim Kehren, dem Rauschen des Wassers, beim Flügelschlagen entsteht 
+ trans_en: sound of sweeping, water, flapping wings
+-lexeme
  lex: xuṯro
  stem: xuṯro.
  root: xṯr
  gramm: N,m
  paradigm: N1
  trans_de: Joghurtansatz
- trans_en: 
+ trans_en: ...
+-lexeme
+ lex: xuya/xuyayi
+ stem: xuya.//xuyayi.
+ root: xyy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bekannt
+ trans_en: known
+-lexeme
+ lex: xuyay
+ stem: xuyay.
+ root: xyy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: oh wie schön!
+ trans_en: oh how nice!
+-lexeme
+ lex: xwa/xa
+ stem: xwa.//xa.
+ root: xw
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: so, dann; leitet oft den Nachsatz zum Bedingungssatz ein
+ trans_en: so, then; often introduces the last sentence to the conditional sentence
+-lexeme
+ lex: xwa/xa
+ stem: xwa.//xa.
+ root: xw
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: der-, dasselbe
+ trans_en: the same
 -lexeme
  lex: xwarəz
  stem: xwarəz.
  root: xwrz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwestersohn, Neffe
- trans_en: 
+ trans_en: sister`s son, nephew
+-lexeme
+ lex: xwaš
+ stem: xwaš.
+ root: xwš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schön, fröhlich, gesund
+ trans_en: nice, happy, healthy
+-lexeme
+ lex: xwašiye/xošiye
+ stem: xwašiye.//xošiye.
+ root: xwšy
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Wohlergehen
+ trans_en: welfare
+-lexeme
+ lex: xwazi/xuzi
+ stem: xwazi.//xuzi.
+ root: xwz
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: o dass doch!
+ trans_en: oh, that!
 -lexeme
  lex: xwazginiye
  stem: xwazginiye.
  root: xwzgny
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Brautwerbung
- trans_en: 
+ trans_en: courting
 -lexeme
  lex: xwekitiye
  stem: xwekitiye.
  root: xwkty
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Steuer
- trans_en: 
+ trans_en: tax
 -lexeme
  lex: xwini
  stem: xwini.
  root: xwn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: mit Blutschuld bedeckt; Flüchtling, Schutzgast
- trans_en: 
+ trans_en: covered with bloodguilt; fugitive, ...
 -lexeme
  lex: xyoro
  stem: xyoro.|xyore.
@@ -39447,7 +39511,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gurke
- trans_en:
+ trans_en: cucumber
+-lexeme
+ lex: ya
+ stem: ya.
+ root: y
+ gramm: ?
+ paradigm: <?>
+ trans_de: ohne klare Bedeutung; Vokativpartikel
+ trans_en: without clear meaning; vocative particle
+-lexeme
+ lex: ya/ya de
+ stem: ya.//ya de.
+ root: yd
+ gramm: ?
+ paradigm: <?>
+ trans_de: Mutter
+ trans_en: mother
 -lexeme
  lex: yaʕay
  stem: yaʕay.
@@ -39897,7 +39977,7 @@
  trans_de: Erbe
  trans_en: heritage
 -lexeme
- lex: yo ... yo
+ lex: yo ... yo/ya ... ya/ya ... yaxud
  stem: yo ... yo.
  root: ?
  gramm: ?
