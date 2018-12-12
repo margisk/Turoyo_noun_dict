@@ -373,8 +373,8 @@
  trans_de: Hacke mit zwei Schneiden und langem Stiel
  trans_en: axe
 -lexeme
- lex: ʕaǧiqo/ʕǧiqo
- stem: ʕaǧiqo.//ʕǧiqo.|ʕaǧiqe.//ʕǧiqe.
+ lex: ʕaǧiqo/ʕǧiqo/ǧʕiqo
+ stem: ʕaǧiqo.//ʕǧiqo.//ǧʕiqo.|ʕaǧiqe.//ʕǧiqe.//ǧʕiqe.
  root: ʕǧq
  gramm: ADJ
  paradigm: N2
@@ -13835,12 +13835,12 @@
  trans_en: sunset; west
 -lexeme
  lex: ǧaʕda/ǧaʕde
- stem: ǧaʕda/ǧaʕde.|ǧaʕda.//ǧaʕdat.
+ stem: ǧaʕda.//ǧaʕde.|ǧaʕda.//ǧaʕdat.
  root: ǧdd
  gramm: N,f
  paradigm: N2
  trans_de: große Straße außerhalb der Stadt, Autobahn
- trans_en: 
+ trans_en: big street outside of the city, highway
 -lexeme
  lex: ǧabəlxane
  stem: ǧabəlxane.|ǧabəlxanat.
@@ -13848,47 +13848,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Munition, Munitionsdepot
- trans_en: 
+ trans_en: ammunition, ammunition depo
+-lexeme
+ lex: ǧabran/ǧabranan
+ stem: ǧabran.//ǧabranan.
+ root: ǧbr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: mit Gewalt
+ trans_en: with force
 -lexeme
  lex: ǧabriye
  stem: ǧabriye.
  root: ǧbr
  gramm: N,f
- paradigm: N1
- trans_de: Gewalt; b-ǧabriye
- trans_en: 
+ paradigm: <?>
+ trans_de: Gewalt
+ trans_en: force, power
 -lexeme
  lex: ǧafte
- stem: ǧafte.
+ stem: ǧafte.|ǧaftat.
  root: ǧft
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: gemahlene Eichel, zum Gerben verwendet
- trans_en: 
+ trans_en: ground acorn, used for tanning
+-lexeme
+ lex: ǧagar
+ stem: ǧagar.
+ root: ǧgr
+ gramm: N
+ paradigm: <?>
+ trans_de: Leber; Herz; Mut
+ trans_en: liver; hear; courage
 -lexeme
  lex: ǧagro
  stem: ǧagro.
  root: ǧgr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gurgel
- trans_en: 
+ trans_en: throat
 -lexeme
  lex: ǧaǧəq
  stem: ǧaǧəq.
  root: ǧǧq
  gramm: N,m
- paradigm: N1
- trans_de: Beutel abgetropfter Ayran
- trans_en: 
+ paradigm: <?>
+ trans_de: im Beutel abgetropfter Ayran
+ trans_en: ayran which dripped into a sack
 -lexeme
  lex: ǧahale
- stem: ǧahale.
+ stem: ǧahale.|ǧahalat.
  root: ǧhl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: jugendliches Versehen, Torheit
- trans_en: 
+ trans_en: mistake because of young age; folly
 -lexeme
  lex: ǧahnuke
  stem: ǧahnuke.|ǧahnukat.
@@ -13896,71 +13912,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fohlen
- trans_en: 
--lexeme
- lex: ǧahwar
- stem: ǧahwar.
- root: ǧwhr
- gramm: N,m
- paradigm: N1
- trans_de: Juwel, Edelstein
- trans_en: 
--lexeme
- lex: ǧaket
- stem: ǧaket.
- root: ǧkt
- gramm: N,m
- paradigm: N1
- trans_de: Jacke
- trans_en: 
+ trans_en: colt
 -lexeme
  lex: ǧalali
- stem: ǧalali.|ǧalaliiye.
+ stem: ǧalali.|ǧalaliye.
  root: ǧll
  gramm: N,m
  paradigm: N2
- trans_de: eigentlich Angehöriger eines Räuberstammes in Anatolien); Straßenräuber
- trans_en: 
+ trans_de: (eigentlich Angehöriger eines Räuberstammes in Anatolien); Straßenräuber
+ trans_en: person belonging to a marauders tribe in Anatolia; marauder
 -lexeme
  lex: ǧalaltiye
  stem: ǧalaltiye.
  root: ǧlty
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Räuberhandwerk
- trans_en: 
+ trans_en: maraudery
 -lexeme
  lex: ǧalaw
- stem: ǧalaw.
+ stem: ǧalaw.|ǧalawe.
  root: ǧlw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Zügel, da wo man ihn anfasst, um das Pferd vorzuführen
- trans_en: 
+ trans_en: bridle which a person takes to lead a horse
 -lexeme
  lex: ǧalde
  stem: ǧalde.|ǧaldat.
  root: ǧld
  gramm: N,f
  paradigm: N2
- trans_de: Straße innerhalb der Stadt; pl
- trans_en: 
+ trans_de: Straße innerhalb der Stadt
+ trans_en: street inside a city
 -lexeme
  lex: ǧallad/ǧallat
- stem: ǧallad/ǧallat.
+ stem: ǧallad.//ǧallat.
  root: ǧld
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Scharfrichter
- trans_en: 
+ trans_en: executioner
 -lexeme
  lex: ǧalme
- stem: ǧalme.
+ stem: ǧalme.|ǧalmat.
  root: ǧlm
  gramm: N,f
- paradigm: N1
- trans_de: Paar Stiefel; nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Paar Stiefel
+ trans_en: pair of boots
 -lexeme
  lex: ǧalodo
  stem: ǧalodo.|ǧalode.
@@ -13968,143 +13968,175 @@
  gramm: N,m
  paradigm: N2
  trans_de: Scharfrichter
- trans_en: 
+ trans_en: executioner
 -lexeme
  lex: ǧaloṭo
- stem: ǧaloṭo.
+ stem: ǧaloṭo.|ǧaloṭe.
  root: ǧlṭ
  gramm: N,m
  paradigm: N1
  trans_de: Schinder
- trans_en: 
+ trans_en: slaughterer
 -lexeme
  lex: ǧalte
- stem: ǧalte.
+ stem: ǧalte.|ǧaltat.
  root: ǧlt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schramme
- trans_en: 
+ trans_en: scratch, cut
 -lexeme
  lex: ǧam
  stem: ǧam.|ǧamat.
  root: ǧm
  gramm: N,m
  paradigm: N2
- trans_de: Glas
- trans_en: 
+ trans_de: Glas; pl. Fensterscheiben
+ trans_en: glass; pl. window panes
 -lexeme
  lex: ǧamaʕa
- stem: ǧamaʕa.
+ stem: ǧamaʕa.|ǧamaʕat.
  root: ǧmʕ
  gramm: N,f
- paradigm: N1
- trans_de: Versammlung, Gesellschaft
- trans_en: 
+ paradigm: N2
+ trans_de: Versammlung, Gesellschaft; Religionsgemeinschaft, Gemeinde
+ trans_en: gathering, community, religious community
 -lexeme
  lex: ǧambe
- stem: ǧambe.
+ stem: ǧambe.|ǧambat.
  root: ǧmb
  gramm: N,f
- paradigm: N1
- trans_de: Seite; me
- trans_en: 
+ paradigm: N2
+ trans_de: Seite
+ trans_en: side
 -lexeme
- lex: ǧamǧamto
- stem: ǧamǧamto.|ǧamǧamtoat.
+ lex: ǧamǧamto/ǧəmǧəmto/ǧəmǧəmme
+ stem: ǧamǧamto.//ǧəmǧəmto.//ǧəmǧəmme.|ǧamǧamtat.//ǧəmǧəmtat.//ǧəmǧəmmat.
  root: ǧmǧmt
  gramm: N,f
  paradigm: N2
  trans_de: Totenschädel
- trans_en: 
+ trans_en: skull of a dead man
 -lexeme
  lex: ǧamda
  stem: ǧamda.
  root: ǧmd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kälte
- trans_en: 
+ trans_en: cold, coldness
 -lexeme
- lex: ǧameriye
- stem: ǧameriye.
+ lex: ǧameriye/ǧwameriye/ǧomardiye
+ stem: ǧameriye.//ǧwameriye.//ǧomardiye.
  root: ǧmr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Edelmut
- trans_en: 
+ trans_en: gallantry, generosity
 -lexeme
- lex: ǧaməʕ
- stem: ǧaməʕ.
+ lex: ǧaməʕ/ǧeməʕ
+ stem: ǧaməʕ.//ǧeməʕ.//ǧuweməʕ.
  root: ǧmʕ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Moschee
- trans_en: 
+ trans_en: mosque
+-lexeme
+ lex: ǧamhuri
+ stem: ǧamhuri.
+ root: ǧmhr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: republikanisch
+ trans_en: republican
+-lexeme
+ lex: ǧamiʕ
+ stem: ǧamiʕ.|ǧamiʕ.
+ root: ǧmʕ
+ gramm: <?>
+ paradigm: N2
+ trans_de: alle
+ trans_en: all
 -lexeme
  lex: ǧamiye
- stem: ǧamiye.
+ stem: ǧamiye.|ǧamiyat.
  root: ǧmʕ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Moschee
- trans_en: 
+ trans_en: mosque
+-lexeme
+ lex: ǧamme
+ stem: ǧamme.|ǧammat.
+ root:ǧm
+ gramm: N,f
+ paradigm: N2
+ trans_de: unten seitlich zurücktretende Wände der Zisterne
+ trans_en: <?>
 -lexeme
  lex: ǧamse
- stem: ǧamse.
+ stem: ǧamse.|ǧamsat.
  root: ǧms
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Militärlastwagen
- trans_en: 
+ trans_en: military trucks
 -lexeme
  lex: ǧamudo
  stem: ǧamudo.|ǧamude.
  root: ǧmd
  gramm: N,m
  paradigm: N2
- trans_de: der Bibliothek ist es kalt“
- trans_en: 
+ trans_de: kühl, kalt
+ trans_en: cool, cold
 -lexeme
  lex: ǧan
  stem: ǧan.
  root: ǧn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Seele, Leben
- trans_en: 
+ trans_en: soul, life
 -lexeme
  lex: ǧan
  stem: ǧan.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geist
- trans_en: 
+ trans_en: guest
+-lexeme
+ lex: ǧanaza
+ stem: ǧanaza.|ǧanazat.
+ root: ǧnz
+ gramm: N,f
+ paradigm: N2
+ trans_de: Leiche, Beerdigung
+ trans_en: corpse; burial
 -lexeme
  lex: ǧandərma
- stem: ǧandərma.|id..//ǧandərmaawat.
+ stem: ǧandərma.|ǧandərma.//ǧandərmawat.
  root: ǧndrm
  gramm: N,m
  paradigm: N2
  trans_de: Militärpolizei, Gendarm
- trans_en: 
+ trans_en: military police; gendarme
 -lexeme
  lex: ǧanoni
- stem: ǧanoni.
+ stem: ǧanoni.|ǧanoniye.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtner
- trans_en: 
+ trans_en: gardener
 -lexeme
  lex: ǧanono
- stem: ǧanono.
+ stem: ǧanono.|ǧanone.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtner
- trans_en: 
+ trans_en: gardener
 -lexeme
  lex: ǧaqqe
  stem: ǧaqqe.|ǧaqqat.
