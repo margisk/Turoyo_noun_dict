@@ -14026,8 +14026,8 @@
  trans_de: Kälte
  trans_en: cold, coldness
 -lexeme
- lex: ǧameriye/ǧwameriye/ǧomardiye
- stem: ǧameriye.//ǧwameriye.//ǧomardiye.
+ lex: ǧameriye/ǧwameriye/ǧomardiye/ǧuwameriye
+ stem: ǧameriye.//ǧwameriye.//ǧomardiye.//ǧuwameriye.
  root: ǧmr
  gramm: N,f
  paradigm: unchangeable
@@ -14106,8 +14106,8 @@
  trans_de: Geist
  trans_en: guest
 -lexeme
- lex: ǧanaza
- stem: ǧanaza.|ǧanazat.
+ lex: ǧanaza/ǧənaze
+ stem: ǧanaza.//ǧənaze.|ǧanazat.//ǧənazat.
  root: ǧnz
  gramm: N,f
  paradigm: N2
@@ -14138,8 +14138,8 @@
  trans_de: Gärtner
  trans_en: gardener
 -lexeme
- lex: ǧanubi
- stem: ǧanubi.
+ lex: ǧanubi/ǧinubi/ǧənubi
+ stem: ǧanubi.//ǧinubi.//ǧənubi.
  root: ǧnb
  gramm: ADJ
  paradigm: N2
@@ -14290,8 +14290,8 @@
  trans_de: junger Hund; Löwe (?)
  trans_en: puppy; lion (?)
 -lexeme
- lex: ǧaza/ǧiza/ǧəza
- stem: ǧaza.//ǧiza.//ǧəza.|ǧazat.//ǧizat.//ǧəzat.
+ lex: ǧaza/ǧiza/ǧəza/ǧəzza
+ stem: ǧaza.//ǧiza.//ǧəza.//ǧəzza.|ǧazat.//ǧizat.//ǧəzat.//ǧəzzat.
  root: ǧzʔ
  gramm: N,m
  paradigm: N2
@@ -14498,8 +14498,8 @@
  trans_de: Kette
  trans_en: chain
 -lexeme
- lex: ǧərʕa
- stem: ǧərʕa.
+ lex: ǧərʕa/ǧurʕa
+ stem: ǧərʕa.//ǧurʕa.
  root: ǧrʔ
  gramm: N,f
  paradigm: unchangeable
@@ -14546,93 +14546,69 @@
  trans_de: verschiedene frühreife Traubenarten
  trans_en: different premature sorts of grapes
 -lexeme
- lex: ǧəzza
- stem: ǧəzza.
- root: ǧzz
- gramm: N,f
- paradigm: N1
- trans_de: Straße
- trans_en: 
--lexeme
- lex: ǧəzwe
- stem: ǧəzwe.
+ lex: ǧəzwe/ǧazwe
+ stem: ǧəzwe.//ǧazwe.|ǧəzwat.//ǧazwat.
  root: ǧzw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kaffeekännchen mit Stiel
- trans_en: 
+ trans_en: jezve, coffee pot
 -lexeme
  lex: ǧġaləke
- stem: ǧġaləke.
+ stem: ǧġaləke.|ǧġaləkat.
  root: ǧġl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleines Gerede
- trans_en: 
+ trans_en: small talk
 -lexeme
  lex: ǧġaliye
- stem: ǧġaliye.
+ stem: ǧġaliye.|ǧġaliyat.
  root: ǧġl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Rede, Gespräch
- trans_en: 
+ trans_en: talk, speech, conversation
 -lexeme
- lex: ǧġara
- stem: ǧġara.|ǧġaraat.//ǧġaraawat.
+ lex: ǧġara/ǧiġara/ǧəġara
+ stem: ǧġara.//ǧiġara.//ǧəġara.|ǧġarat.//ǧġarawat.//ǧəġarat.//ǧiġarat.
  root: ǧġr
  gramm: N,f
  paradigm: N2
  trans_de: Zigarette
- trans_en: 
+ trans_en: cigaret
 -lexeme
  lex: ǧġoro
- stem: ǧġoro.
+ stem: ǧġoro.|ǧġore.
  root: ǧġr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Brennstoff
- trans_en: 
--lexeme
- lex: ǧib/ǧibe
- stem: ǧib/ǧibe.
- root: ǧb/ǧb
- gramm: N,m
- paradigm: N1
- trans_de: Jeep
- trans_en: 
+ trans_en: fuel
 -lexeme
  lex: ǧibar
  stem: ǧibar.
  root: ǧbr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Paste aus Baumwolle und Kalk zum Reparieren von zerbrochenen Gefäßen
- trans_en: 
+ trans_en: paste made from cotton and lime for repairing broken vessels
 -lexeme
- lex: ǧidari
- stem: ǧidari.
+ lex: ǧidari/ǧudari
+ stem: ǧidari.//ǧudari.
  root: ǧdr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Pocken
- trans_en: 
--lexeme
- lex: ǧiġara
- stem: ǧiġara.|ǧiġarat.
- root: ǧġr
- gramm: N,f
- paradigm: N2
- trans_de: Zigarette
- trans_en: 
+ trans_en: smallpox
 -lexeme
  lex: ǧiha
- stem: ǧiha.
+ stem: ǧiha.|ǧihat.
  root: ǧh
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Richtung
- trans_en: 
+ trans_en: direction
 -lexeme
  lex: ǧil
  stem: ǧil.|ǧilat.
@@ -14640,71 +14616,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Geschlecht
- trans_en: 
+ trans_en: generation
 -lexeme
  lex: ǧila
  stem: ǧila.
  root: ǧly
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Politur, Hochglanzwichse
- trans_en: 
+ trans_en: polish, shoe polish
 -lexeme
  lex: ǧiletke
  stem: ǧiletke.|ǧiletkat.
  root: ǧlt
  gramm: N,f
  paradigm: N2
- trans_de: Rasierklinge; pl
- trans_en: 
+ trans_de: Rasierklinge
+ trans_en: razor blade
 -lexeme
- lex: ǧinaḥ
- stem: ǧinaḥ.|ǧinaḥat.
+ lex: ǧinaḥ/ǧənaḥ
+ stem: ǧinaḥ.//ǧənaḥ.|ǧinaḥat.//ǧənaḥat.
  root: ǧnḥ
  gramm: N,m
  paradigm: N2
  trans_de: Flügel
- trans_en: 
+ trans_en: wing
 -lexeme
- lex: ǧinayne
- stem: ǧinayne.|ǧinaynat.
+ lex: ǧinayne/ǧənayne/ǧnayne/ǧnene
+ stem: ǧinayne.//ǧnayne.//ǧənayne.//ǧnene.|ǧinaynat.//ǧnaynat.//ǧənaynat.//ǧnenat.
  root: ǧnn
  gramm: N,f
  paradigm: N2
  trans_de: Garten
- trans_en: 
+ trans_en: garden
 -lexeme
- lex: ǧinanči
- stem: ǧinanči.
+ lex: ǧinanči/ǧinenǧi
+ stem: ǧinanči.//ǧinenǧi.|ǧinančiye.//ǧinenǧiye.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtner
- trans_en: 
+ trans_en: gardener
 -lexeme
  lex: ǧinančiye
- stem: ǧinančiye.
+ stem: ǧinančiye.|ǧinančiyat.
  root: ǧnn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtnerin
- trans_en: 
--lexeme
- lex: ǧinaze
- stem: ǧinaze.
- root: ǧnz
- gramm: N,f
- paradigm: N1
- trans_de: Leiche
- trans_en: 
--lexeme
- lex: ǧinenǧi
- stem: ǧinenǧi.
- root: ǧnn
- gramm: N,m
- paradigm: N1
- trans_de: Gärtner
- trans_en: 
+ trans_en: female gardener
 -lexeme
  lex: ǧineni
  stem: ǧineni.
@@ -14712,7 +14672,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Gärtner
- trans_en: 
+ trans_en: gardener
 -lexeme
  lex: ǧip/ǧib/ǧibe/žip
  stem: ǧip.//ǧib.//ǧibe.//žip.|ǧip.//ǧib.//ǧibe.//žip.
@@ -14728,7 +14688,7 @@
  gramm: N,f
  paradigm: N1
  trans_de: Augenschmalz
- trans_en: 
+ trans_en: eye discharge
 -lexeme
  lex: ǧiran/žiran
  stem: ǧiran.//žiran.|ǧirane.//žirane.
@@ -14746,13 +14706,13 @@
  trans_de: verabredete Zusammenkunft, Stelldichein
  trans_en: arranged meeting, tryst
 -lexeme
- lex: ǧivate
- stem: ǧivate.
+ lex: ǧivate/ǧəvate
+ stem: ǧivate.//ǧəvate.
  root: ǧvt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Versammlung, Zusammenkunft
- trans_en: 
+ trans_en: gathering, meeting, conversation
 -lexeme
  lex: ǧiwo
  stem: ǧiwo.|ǧiwe.
@@ -14760,23 +14720,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleiner Bach, Kanal
- trans_en: 
+ trans_en: small stream, canal
 -lexeme
- lex: ǧnene
- stem: ǧnene.
- root: ǧnn
- gramm: N,f
- paradigm: N1
- trans_de: Garten
- trans_en: 
+ lex: ǧizar/ǧizaraye
+ stem: ǧizar.//ǧizaraye.|ǧizarayat.
+ root: ǧzr
+ gramm: N
+ paradigm: N2
+ trans_de: Mohrrüben
+ trans_en: carrot
+-lexeme
+ lex: ǧlito
+ stem: ǧlito.|ǧlite.
+ root: ǧlt
+ gramm: ADJ
+ paradigm: N2
+ trans_de: aufgeschrammt
+ trans_en: scuffed
 -lexeme
  lex: ǧok
  stem: ǧok.|ǧokat.
  root: ǧk
  gramm: N,m
  paradigm: N2
- trans_de: a) Rinne, die mit dem b) Abflußrohr in der Erde
- trans_en: 
+ trans_de: Rinne, die mit dem šawko auf drei Seiten des zu lösenden Steinstückes gehauen wird, damit der sifo (Platte) herausgehauen werden kann; Abflußrohr in der Erde
+ trans_en: furrow which is hewn with šawko on a piece of stone which is to be loosened in order for a sifo (slab) to be hewn out; drainpipe in the ground
 -lexeme
  lex: ǧoke
  stem: ǧoke.
@@ -14784,23 +14752,23 @@
  gramm: N,f
  paradigm: N1
  trans_de: Kanalabflußrohr; Arschfurche
- trans_en: 
+ trans_en: kanal drainpipe; wrinkle on buttocks
 -lexeme
  lex: ǧolək
  stem: ǧolək.|ǧoləkat.
  root: ǧlk
  gramm: N,m
  paradigm: N2
- trans_de: kleine Herde
- trans_en: 
+ trans_de: kleine Herde, 10 — 20 Stück Vieh
+ trans_en: small flock, 10-20 heads
 -lexeme
  lex: ǧomardiye
  stem: ǧomardiye.
  root: ǧmrdy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freigebigkeit
- trans_en: 
+ trans_en: generosity
 -lexeme
  lex: ǧomike
  stem: ǧomike.|ǧomikat.
@@ -14808,23 +14776,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleine Grube, mit der die Kinder spielen
- trans_en: 
+ trans_en: small pit in which children play
 -lexeme
  lex: ǧoxumto
  stem: ǧoxumto.
  root: ǧxmt
  gramm: N,f
- paradigm: N1
- trans_de: geteiltes Schicksal; hiye-sti azze
- trans_en: 
+ paradigm: <?>
+ trans_de: geteiltes Schicksal
+ trans_en: shared destiny
 -lexeme
  lex: ǧraḥto
  stem: ǧraḥto.
  root: ǧrḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verletzung, Verwundung
- trans_en: 
+ trans_en: injury
 -lexeme
  lex: ǧrun
  stem: ǧrun.|ǧiran.
@@ -14832,23 +14800,42 @@
  gramm: N,m
  paradigm: N2
  trans_de: Trog zum Tränken der Tiere
- trans_en: 
+ trans_en: trough for animals to drink
 -lexeme
- lex: ǧubbe
- stem: ǧubbe.
+ lex: ǧsurat
+ stem: ǧsurat.
+ root: ǧsr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: doppelte Überbrückungen
+ trans_en: bridging
+-lexeme
+ lex: ǧubbe/ǧubba/ǧəbbe/ǧəbba
+ stem: ǧubbe.//ǧubba.//ǧəbbe.//ǧəbba.|ǧubbat.//ǧəbbat.
  root: ǧbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Übergewand des Pfarrers
- trans_en: 
+ trans_en: upper garments of a priest
 -lexeme
  lex: ǧuhtək
  stem: ǧuhtək.
  root: ǧhtk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlusssprung, bei dem beide Füße nebeneinander stehen
- trans_en: 
+ trans_en: jump by which both feet are put alongside each other
+-lexeme
+ lex: ǧuhu
+ stem: ǧuhu.|ǧuhu.
+ paradigm: N2
+ trans_de: Jude
+ trans_en: jew
+ root: ǧh
+ gramm: N,m
+ paradigm: N2
+ trans_de: Jude
+ trans_en: jew
 -lexeme
  lex: ǧule
  stem: ǧule.
@@ -14864,143 +14851,95 @@
  gramm: N,f
  paradigm: N2
  trans_de: Satz
- trans_en: 
+ trans_en: sentence
 -lexeme
- lex: ǧŭnub
- stem: ǧŭnub.
+ lex: ǧunub
+ stem: ǧunub.
  root: ǧnb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Süden
- trans_en: 
--lexeme
- lex: ǧurʕa
- stem: ǧurʕa.
- root: ǧrʔ
- gramm: N,f
- paradigm: N1
- trans_de: Mut
- trans_en: 
+ trans_en: south
 -lexeme
  lex: ǧurḥo
  stem: ǧurḥo.|ǧurḥe.
  root: ǧrḥ
  gramm: N,m
  paradigm: N2
- trans_de: Wunde pl
- trans_en: 
+ trans_de: Wunde
+ trans_en: wound
 -lexeme
- lex: ǧŭwab
- stem: ǧŭwab.
+ lex: ǧuwab/ǧəwab/ǧawab
+ stem: ǧuwab.//ǧəwab.//ǧawab.|ǧuwabat.//ǧəwabat.//ǧawabat.
  root: ǧwb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Antwort
- trans_en: 
+ trans_en: answer
 -lexeme
  lex: ǧuwamartiye
  stem: ǧuwamartiye.
  root: ǧwmrty
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Edelmut, Ritterlichkeit
- trans_en: 
+ trans_en: generosity, gallantry
 -lexeme
- lex: ǧuwamer
- stem: ǧuwamer.|ǧuwamerin.
- root: ǧwmr
+ lex: ǧuwan
+ stem: ǧuwan.|ǧuwane.
+ root: ǧwn
  gramm: N,m
  paradigm: N2
- trans_de: Edelmann
- trans_en: 
+ trans_de: jung
+ trans_en: young
 -lexeme
- lex: ǧuwameriye
- stem: ǧuwameriye.
- root: ǧwmry
- gramm: N,f
- paradigm: N1
- trans_de: Edelmut, Ritterlichkeit
- trans_en: 
--lexeme
- lex: ǧŭwan
- stem: ǧŭwan.|m.//f.
- root: ǧŭwn
- gramm: N,m
- paradigm: N2
- trans_de: PrS
- trans_en: 
--lexeme
- lex: ǧuwanike
- stem: ǧuwanike.
+ lex: ǧuwanike/ǧwanike
+ stem: ǧuwanike.//ǧwanike.|ǧuwanikat.//ǧwanikat.
  root: ǧwn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: junges Pferdchen
- trans_en: 
+ trans_en: young horse
 -lexeme
- lex: ǧŭwaniye
- stem: ǧŭwaniye.
- root: ǧŭwny
+ lex: ǧuwaniye/ǧwaniye
+ stem: ǧuwaniye.//ǧwaniye.
+ root: ǧwn
  gramm: N,f
- paradigm: N1
- trans_de: a) Jugend b) weibliches Fohlen
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Jugend; weibliches Fohlen
+ trans_en: youth; she-folly
 -lexeme
  lex: ǧuwe
- stem: ǧuwe.
+ stem: ǧuwe.|ǧuwat.
  root: ǧw
  gramm: N,f
- paradigm: N1
- trans_de: Kanal
- trans_en: 
--lexeme
- lex: ǧuzma/ǧəzma
- stem: ǧuzma/ǧəzma.|ǧuzma.//ǧəzmat.
- root: ǧzm/ǧzm
- gramm: N,f
  paradigm: N2
- trans_de: Stiefel; nicht
- trans_en: 
+ trans_de: Kanal
+ trans_en: canal
 -lexeme
- lex: ǧwamer
- stem: ǧwamer.
+ lex: ǧwamer/ǧuwamer/ǧwamər
+ stem: ǧwamer.//ǧuwamer.//ǧwamər.|ǧwamer.//ǧuwamer.//ǧwamər.
  root: ǧwmr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Edelmann, freigebig
- trans_en: 
--lexeme
- lex: ǧwameriye
- stem: ǧwameriye.
- root: ǧwmry
- gramm: N,f
- paradigm: N1
- trans_de: Edelmut
- trans_en: 
+ trans_en: nobleman; generous
 -lexeme
  lex: ǧwani
  stem: ǧwani.
  root: ǧwn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: weibliches Fohlen
- trans_en: 
+ trans_en: she-folly
 -lexeme
- lex: ǧwanəke
- stem: ǧwanəke.
+ lex: ǧwanəke/ǧuwanəke/ǧwanike/ǧuwanike
+ stem: ǧwanəke.//ǧuwanəke.//ǧwanike.//ǧuwanike.|ǧwanəkat.//ǧuwanəkat.//ǧwanikat.//ǧuwanikat.
  root: ǧwn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: weibliches Fohlen
- trans_en: 
--lexeme
- lex: ǧwaniye
- stem: ǧwaniye.
- root: ǧwn
- gramm: N,f
- paradigm: N1
- trans_de: a) Jugendzeit; b) weibliches Fohlen
- trans_en: 
+ trans_en: she-folly
 -lexeme
  lex: habṭa
  stem: habṭa.
@@ -41849,8 +41788,8 @@
  trans_de: außer
  trans_en: except
 -lexeme
- lex: žġer
- stem: žġer.
+ lex: žġer/ǧġer
+ stem: žġer./ǧġer.
  root: žġr
  gramm: prep
  paradigm: unchangeable
