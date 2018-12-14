@@ -39487,31 +39487,47 @@
  gramm: N,m
  paradigm: N1
  trans_de: Chorbischof
- trans_en: 
+ trans_en:
+-lexeme
+ lex: xurren
+ stem: xurren.
+ root: xrrn
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Geräusch der Türe, wenn sie sich öffnet oder schließt; des Wassers, wenn es fließt; des ausströmenden Getreides
+ trans_en: sound when the door opens or closes; the water flowing; ... 
 -lexeme
  lex: xurs
  stem: xurs.
  root: xrs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Art von sehr gutem Tabak
- trans_en: 
+ trans_en: kind of very good tobacco
 -lexeme
  lex: xurt
  stem: xurt.
  root: xrt
  gramm: N,m
- paradigm: N1
- trans_de: stark Sl
- trans_en: 
+ paradigm: unchangeable
+ trans_de: stark
+ trans_en: strong
 -lexeme
- lex: xusuma
- stem: xusuma.
+ lex: xurxur
+ stem: xurxur.
+ root: xrxr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schnarchen
+ trans_en: snoring
+-lexeme
+ lex: xusuma/xasumiye
+ stem: xusuma.//xasumiye.
  root: xsm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Missgunst
- trans_en: 
+ trans_en: envy
 -lexeme
  lex: xuṣa
  stem: xuṣa.|xuwaṣ.
@@ -39519,36 +39535,68 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fingerring
- trans_en: 
+ trans_en: ring
+-lexeme
+ lex: xuṣuṣan
+ stem: xuṣuṣan.
+ root: xṣṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: besonders
+ trans_en: especially
+-lexeme
+ lex: xuṣuṣat
+ stem: xuṣuṣat.
+ root: xṣṣ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Punkte (über die man redet)
+ trans_en: points (one talks about)
+-lexeme
+ lex: xuṣuṣi/xuṣuṣ
+ stem: xuṣuṣi.//xuṣuṣ.
+ root: xṣṣ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: besonderer
+ trans_en: special
 -lexeme
  lex: xuško
- stem: xuško.|xuškoin.
+ stem: xuško.|xuškin.
  root: xšk
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: schön MḤ
- trans_en: 
+ trans_de: schön
+ trans_en: nice
 -lexeme
  lex: xušno
  stem: xušno.
  root: xšn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangable
  trans_de: Dicke, Fettigkeit
- trans_en: 
+ trans_en: thickness, greasiness
+-lexeme
+ lex: xušpxušp
+ stem: xušpxušp.
+ root: xšpxšp
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Geräusch dessen, der sich heimlich etwa kriechend, einem Haus nähert
+ trans_en: the sound of someone secretly creeping while approaching a house
 -lexeme
  lex: xuššile
  stem: xuššile.
  root: xšl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sonnenwolfsmilch, Euphorbia helioscopia L.
- trans_en: 
+ trans_en: sun spurge, euphorbia helioscopia
 -lexeme
  lex: xušxuš 
  stem: xušxuš.
  root: xšxš
- gramm: ?
+ gramm: INTERJ
  paradigm: unchangeable
  trans_de: Geräusch, das beim Kehren, dem Rauschen des Wassers, beim Flügelschlagen entsteht 
  trans_en: sound of sweeping, water, flapping wings
