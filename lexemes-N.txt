@@ -14491,56 +14491,64 @@
  trans_en: kin, family
 -lexeme
  lex: ǧənzər
- stem: ǧənzər.|ǧinezər.
+ stem: ǧənzər.|ǧənezər.
  root: ǧnzr
  gramm: N,m
  paradigm: N2
- trans_de: cinezir Kette
- trans_en: 
+ trans_de: Kette
+ trans_en: chain
 -lexeme
  lex: ǧərʕa
  stem: ǧərʕa.
  root: ǧrʔ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wagemut, Aushalten
- trans_en: 
+ trans_en: bravery, withstanding
 -lexeme
  lex: ǧərʕaḏab
  stem: ǧərʕaḏab.
  root: ǧrʔ
  gramm: N,m
- paradigm: N1
- trans_de: Schmerz aushaltend
- trans_en: 
+ paradigm: unchangeable
+ trans_de: mutig, Schmerz aushaltend
+ trans_en: brave; enduring pain
 -lexeme
- lex: ǧəryan
- stem: ǧəryan.
- root: ǧry
- gramm: N,m
- paradigm: N1
- trans_de: elektrischer Strom
- trans_en: 
+ lex: ǧərr
+ stem: ǧərr.
+ root: ǧr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Spiel: die Kinder stellen sich an die Wand und suchen einen herauszudrängen
+ trans_en: game: children line up at the wall and they try to push one of them out
 -lexeme
  lex: ǧəsər
  stem: ǧəsər.
  root: ǧsr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brücke
- trans_en: 
+ trans_en: bridge
 -lexeme
  lex: ǧəsm
  stem: ǧəsm.
  root: ǧsm
  gramm: N,m
- paradigm: N1
- trans_de: Leib; ǧism
- trans_en: 
+ paradigm: <?>
+ trans_de: Leib
+ trans_en: body
 -lexeme
- lex: ǧəz(z)a
- stem: ǧəz(z)a.
- root: ǧz(z)
+ lex: ǧəssat
+ stem: ǧəssat.
+ root: ǧs
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: verschiedene frühreife Traubenarten
+ trans_en: different premature sorts of grapes
+-lexeme
+ lex: ǧəzza
+ stem: ǧəzza.
+ root: ǧzz
  gramm: N,f
  paradigm: N1
  trans_de: Straße
