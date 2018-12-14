@@ -2695,7 +2695,7 @@
  trans_en: fire
 -lexeme
  lex: agono/yagono
- stem: agono.//yagono.
+ stem: agono.//yagono.|agone.//yagone.
  root: gn
  gramm: N,f
  paradigm: N1
@@ -39713,6 +39713,14 @@
  trans_de: Beginn des Credo 
  trans_en: beginning of the credo
 -lexeme
+ lex: yaban
+ stem: yaban.
+ root: ybn
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Japaner
+ trans_en: Japanese
+-lexeme
  lex: yabančiye
  stem: yabančiye.
  root: ybnčy
@@ -39776,6 +39784,14 @@
  paradigm: <?>
  trans_de: ohne Hoffnung
  trans_en: without hope
+-lexeme
+ lex: yahudi
+ stem: yahudi.
+ root: yhd
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Jude
+ trans_en: Jew
 -lexeme
  lex: yak
  stem: yak.
