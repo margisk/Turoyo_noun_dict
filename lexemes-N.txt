@@ -39455,7 +39455,7 @@
  gramm: N,f
  paradigm: N1
  trans_de: mehliger Erdstaub von trockener Erde auf den Wegen, der in die Luft fliegen kann
- trans_en: flory dust of dry earth on the roads, whcih can fly into the air
+ trans_en: powedery dry earth of the road, which may raise into the air
 -lexeme
  lex: xurbah
  stem: xurbah.|xurebəh.
