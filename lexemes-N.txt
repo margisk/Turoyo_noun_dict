@@ -39321,6 +39321,14 @@
  trans_de: Schatzkästlein; Vulva
  trans_en: 
 -lexeme
+ lex: xna/xuna
+ stem: xna.//xuna.
+ root: xn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: etwa, denn?
+ trans_en: about, then?
+-lexeme
  lex: xodumo
  stem: xodumo.|xodume.
  root: xdm
@@ -39337,13 +39345,13 @@
  trans_de: Furcht nicht
  trans_en: 
 -lexeme
- lex: xori
- stem: xori.|xoriiye.
+ lex: xori/xuri
+ stem: xori.//xuri.|xoriye.//xuriye.
  root: xr
  gramm: N,m
  paradigm: N2
- trans_de: iye Chorbischof
- trans_en: 
+ trans_de: Chorbischof
+ trans_en: Chorbischop
 -lexeme
  lex: xort
  stem: xort.|xortan.
@@ -39401,13 +39409,29 @@
  trans_de: Ackerfurche
  trans_en: 
 -lexeme
+ lex: xudewo
+ stem: xudewo.
+ root: xdw
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: o Gott!
+ trans_en: oh God!
+-lexeme
  lex: xudumo
  stem: xudumo.|xudume.
  root: xdm
  gramm: N,m
  paradigm: N2
  trans_de: Diener
- trans_en: 
+ trans_en: servant
+-lexeme
+ lex: xulaṣa
+ stem: xulaṣa.
+ root: xlṣ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kurz und gut
+ trans_en: short and good
 -lexeme
  lex: xuldo
  stem: xuldo.|xulde.
@@ -39415,15 +39439,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Maulwurf
- trans_en: 
+ trans_en: mole
 -lexeme
  lex: xulqa
  stem: xulqa.
  root: xlq
  gramm: N,f
- paradigm: N1
- trans_de: a) Schöpfung b) Geschöpf
- trans_en: 
+ paradigm: <?>
+ trans_de: Schöpfung; Geschöpf
+ trans_en: creation; creature
 -lexeme
  lex: xulutufke
  stem: xulutufke.
@@ -39431,47 +39455,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: mehliger Erdstaub von trockener Erde auf den Wegen, der in die Luft fliegen kann
- trans_en: 
+ trans_en: flory dust of dry earth on the roads, whcih can fly into the air
 -lexeme
  lex: xurbah
  stem: xurbah.|xurebəh.
  root: xrb
  gramm: N,f
  paradigm: N2
- trans_de: Ruine pl
+ trans_de: Ruine
+ trans_en: ruins
+-lexeme
+ lex: xurbaqəlxaniq
+ stem:xurbaqəlxaniq.
+ root: xrbqlxnq
+ gramm: UNTERJ
+ paradigm: sagt man zu einem, den man nicht leiden kann
+ trans_de: one says to a person he cannot tolerate
  trans_en: 
 -lexeme
- lex: xurǧazine
- stem: xurǧazine.
- root: xrǧ
+ lex: xurčke/xurčəke
+ stem: xurčke.//xurčəke.|xurčkat.//xurčəkat.
+ root: xrčk
  gramm: N,f
- paradigm: N1
- trans_de: Satteltasche
- trans_en: 
--lexeme
- lex: xurǧo
- stem: xurǧo.|xurǧe.
- root: xrǧ
- gramm: N,m
  paradigm: N2
- trans_de: Satteltasche, Tragsack, Doppeltasche
- trans_en: 
--lexeme
- lex: xurč(ə)ke
- stem: xurč(ə)ke.
- root: xrč()k
- gramm: N,f
- paradigm: N1
- trans_de: a) halbe Traglast, die Tragtasche auf Esel oder Maultier, kleiner Sack b) Maß, faßt zwei
- trans_en: 
+ trans_de: halbe Traglast, die Tragtasche auf Esel oder Maultier, kleiner Sack; Maß, faßt zwei
+ trans_en: half load, carrier bag on a donkey or a mule, small sack; ...
 -lexeme
  lex: xurda
  stem: xurda.
  root: xrd
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Lappenreste, altes Material
- trans_en: 
+ trans_en: cloth scraps, old material
 -lexeme
  lex: xurgo
  stem: xurgo.
@@ -39479,15 +39495,31 @@
  gramm: N,m
  paradigm: N1
  trans_de: Tragsack auf Tragtier
- trans_en: 
+ trans_en: carrying bag on a pack animal
 -lexeme
- lex: xuri
- stem: xuri.
- root: xr
+ lex: xurǧazine
+ stem: xurǧazine.|xurǧazinat.
+ root: xrǧ
+ gramm: N,f
+ paradigm: N2
+ trans_de: Satteltasche
+ trans_en: saddlebag
+-lexeme
+ lex: xurǧo
+ stem: xurǧo.|xurǧe.
+ root: xrǧ
  gramm: N,m
- paradigm: N1
- trans_de: Chorbischof
- trans_en:
+ paradigm: N2
+ trans_de: Satteltasche, Tragsack, Doppeltasche
+ trans_en: saddlebag, rucksack, double bag
+-lexeme
+ lex: xurmen
+ stem: xurmen.
+ root: xrmn
+ gramm: N,?
+ paradigm: unchangeable
+ trans_de: Ton einer geschlagenen Glocke
+ trans_en: sound of a bell
 -lexeme
  lex: xurren
  stem: xurren.
@@ -39513,8 +39545,8 @@
  trans_de: stark
  trans_en: strong
 -lexeme
- lex: xurxur
- stem: xurxur.
+ lex: xurxur/xuraxur
+ stem: xurxur.//xuraxur.
  root: xrxr
  gramm: ADJ
  paradigm: unchangeable
