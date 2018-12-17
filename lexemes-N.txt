@@ -1594,8 +1594,8 @@
  trans_de: Gedränge, Volksmenge, Gewimmel
  trans_en: crowd, crush
 -lexeme
- lex: ʕezaran
- stem: ʕezaran.
+ lex: ʕezaran/xizaran
+ stem: ʕezaran.//xizaran.
  root: ʕzrn
  gramm: N,m
  paradigm: unchangeable
@@ -39241,13 +39241,13 @@
  trans_de: Drillbohrer, der mit Bogen und Sehne betätigt wird
  trans_en: 
 -lexeme
- lex: xətyar
- stem: xətyar.|xətyarin.
+ lex: xətyar/xtiyar
+ stem: xətyar.|xətyarin.//xtiyar.|xtiyarin.
  root: xtyr
  gramm: N,m
  paradigm: N2
  trans_de: alter Mann
- trans_en: 
+ trans_en: old man
 -lexeme
  lex: xəṭṭa
  stem: xəṭṭa.
@@ -39305,21 +39305,29 @@
  trans_de: Strich, auch krummer; Gekritzel; Kreis. Wenn jemand eine Forderung an einen anderen hat, und dieser sie verweigert, so zieht der erste ein
  trans_en: 
 -lexeme
- lex: xizaran
- stem: xizaran.
- root: xzrn
- gramm: N,m
- paradigm: N1
- trans_de: Rohrstück nicht
- trans_en: 
+ lex: xišxiš/xiš w miš
+ stem: xišxiš.//xiš w miš.
+ root: xšxš.
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: quitt
+ trans_en: finished
 -lexeme
  lex: xizena
  stem: xizena.
  root: xzn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schatzkästlein; Vulva
- trans_en: 
+ trans_en: treasure; vulva
+-lexeme
+ lex: xlamur/əxlamur
+ stem: xlamur.//əxlamur.|xlamurat.//əxlamurat.
+ root: xlmr
+ gramm: N,?
+ paradigm: N2
+ trans_de: Linde
+ trans_en: lime tree
 -lexeme
  lex: xna/xuna
  stem: xna.//xuna.
@@ -39329,21 +39337,29 @@
  trans_de: etwa, denn?
  trans_en: about, then?
 -lexeme
- lex: xodumo
- stem: xodumo.|xodume.
+ lex: xnaq
+ stem: xnaq.
+ root: xnq
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ungefähr
+ trans_en: approximately
+-lexeme
+ lex: xodumo/xudumo
+ stem: xodumo.|xodume.//xudumo.|xudume.
  root: xdm
  gramm: N,m
  paradigm: N2
  trans_de: Diener
- trans_en: 
+ trans_en: servant
 -lexeme
  lex: xof
  stem: xof.|xofat.
  root: xwf
  gramm: N,m
  paradigm: N2
- trans_de: Furcht nicht
- trans_en: 
+ trans_de: Furcht
+ trans_en: fear
 -lexeme
  lex: xori/xuri
  stem: xori.//xuri.|xoriye.//xuriye.
@@ -39359,47 +39375,79 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bursch; f Jungfrau
- trans_en: 
+ trans_en: lad; f virgin
+-lexeme
+ lex: xortaniye
+ stem: xortaniye.
+ root: xrt
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Jugend
+ trans_en: youth
 -lexeme
  lex: xortum
  stem: xortum.
  root: xrtm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: dünner Schlauch
- trans_en: 
+ trans_en: thin hose
 -lexeme
- lex: xoruzo
- stem: xoruzo.
+ lex: xoruzo/xoruze
+ stem: xoruzo.//xoruze.
  root: xrz
  gramm: N,m
- paradigm: N1
- trans_de: Muscheln oder trockenen Feigen aufgereihtes Gehänge; Halskette
- trans_en: 
+ paradigm: N2
+ trans_de: aus Muscheln oder trockenen Feigen aufgereihtes Gehänge; Halskette
+ trans_en: pendant made of shells or dry figs; necklace
+-lexeme
+ lex: xotxot
+ stem: xotxot.
+ root: xtxt
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Antreiberuf für den pflügenden Ochsen
+ trans_en: call for the plowing ox
 -lexeme
  lex: xṣara
  stem: xṣara.
  root: xsr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schaden
- trans_en: 
+ trans_en: damage
+-lexeme
+ lex: xṣuṣi/xṣuṣan
+ stem: xṣuṣi.//xṣuṣan.
+ root: xlf
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: insbesondere, besonders; extra, mit Absicht
+ trans_en: in particular, especially; extra, on purpose
 -lexeme
  lex: xtilaf
  stem: xtilaf.
  root: xlf
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Uneinigkeit
- trans_en: 
+ trans_en: disagreement
+-lexeme
+ lex: xt/xoṯ
+ stem: xt.//xoṯ.
+ root: xt
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wie
+ trans_en: how
 -lexeme
  lex: xtəlal
  stem: xtəlal.
  root: xll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Revolution
- trans_en: 
+ trans_en: revolution
 -lexeme
  lex: xṭuṭo
  stem: xṭuṭo.|xṭuṭe.
@@ -39407,7 +39455,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ackerfurche
- trans_en: 
+ trans_en: furrow
+-lexeme
+ lex: xud
+ stem: xud.
+ root: xd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wie
+ trans_en: how
+-lexeme
+ lex: xude
+ stem: xude.
+ root: xd
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gott
+ trans_en: God
+-lexeme
+ lex: xudeki
+ stem: xudeki.
+ root: xdk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: um Gottes willen!
+ trans_en: for God`s sake!
 -lexeme
  lex: xudewo
  stem: xudewo.
@@ -39416,14 +39488,6 @@
  paradigm: unchangeable
  trans_de: o Gott!
  trans_en: oh God!
--lexeme
- lex: xudumo
- stem: xudumo.|xudume.
- root: xdm
- gramm: N,m
- paradigm: N2
- trans_de: Diener
- trans_en: servant
 -lexeme
  lex: xulaṣa
  stem: xulaṣa.
