@@ -14941,45 +14941,77 @@
  trans_de: weibliches Fohlen
  trans_en: she-folly
 -lexeme
+ lex: ha
+ stem: ha.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf der Überraschung, der Drohung; Antwort auf Anruf, manchmal ohne deutlichen Sinn
+ trans_en: interjection of surprise, threat; answer when being addressed, sometimes without any clear meaning
+-lexeme
  lex: habṭa
- stem: habṭa.
+ stem: habṭa.|habṭat.
  root: hbṭ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: plötzlicher Schrecken
- trans_en: 
+ trans_en: sudden fright
 -lexeme
- lex: had(d)iye
- stem: had(d)iye.|had(d)iyat.
+ lex: hačəke/hačke
+ stem: hačəke.//hačke.|hačəkat.//hačkat.
+ root: hč
+ gramm: N,f
+ paradigm: N2
+ trans_de: Ruf für Ziegen
+ trans_en: call for goats
+-lexeme
+ lex: haddiye/hadiye
+ stem: haddiye.//hadiye.|haddiyat.//hadiyat.
  root: hdy
  gramm: N,f
  paradigm: N2
  trans_de: Geschenk
- trans_en: 
+ trans_en: gift
 -lexeme
  lex: haffe
- stem: haffe.
+ stem: haffe.|haffat.
  root: hff
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schneesturm, Regensturm, Hagelsturm
- trans_en: 
+ trans_en: snowstorm, hailstorm
 -lexeme
  lex: hafṣoro
  stem: hafṣoro.
  root: hfṣr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Halfter
- trans_en: 
+ trans_en: horse collar
 -lexeme
  lex: hafšiye
- stem: hafšiye.
+ stem: hafšiye.|hafšiyat.
  root: hfš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: große Hürde für Schafe und Ziegen
- trans_en: 
+ trans_en: big wattle for sheep and goats
+-lexeme
+ lex: hagar
+ stem: hagar.
+ root: hgr
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: if
+-lexeme
+ lex: haǧaǧi
+ stem: haǧaǧi.
+ root: hǧǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: blöde, verrückt
+ trans_en: dumb, stupid, crazy
 -lexeme
  lex: haǧet
  stem: haǧet.|haǧetat.
@@ -14987,25 +15019,57 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gerät, Instrument, Ackergerät, Pflug
- trans_en: 
+ trans_en: device, instrument, agricultural instrument, plough
 -lexeme
  lex: haǧomo
- stem: haǧomo.
+ stem: haǧomo.|haǧome.
  root: hǧm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Angreifer
- trans_en: 
+ trans_en: attacker
+-lexeme
+ lex: hah
+ stem: hah.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: überraschter Ausruf; auf einmal; Aha!
+ trans_en: exclamation of surprise; at once; aha!
+-lexeme
+ lex: hahake
+ stem: hahake.
+ root: hhk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: geschwind!
+ trans_en: rapidly
+-lexeme
+ lex: hak
+ stem: hak.
+ root: hk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausdruck der Verwunderung; Oh weh!
+ trans_en: exclamation of astonishment; woe!
+-lexeme
+ lex: haka/hakka
+ stem: haka.//hakka.
+ root: hk
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: if
 -lexeme
  lex: halak
  stem: halak.
  root: hlk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Verderben
- trans_en: 
+ trans_en: ruin
 -lexeme
- lex: halbat
+ lex: halbat/albat
  stem: halbat.//albat.
  root: hlb
  gramm: ADV
@@ -15013,13 +15077,69 @@
  trans_de: sicher, natürlich
  trans_en: certainly, of course
 -lexeme
+ lex: halholo/həlholo
+ stem: halholo.//həlholo.|halhole.//həlhole.
+ root: hlhl
+ gramm: N,m
+ paradigm: N2
+ trans_de: Freudentriller
+ trans_en: trill of joy
+-lexeme
+ lex: hallalla
+ stem: hallalla.
+ root: hll
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Hallo!
+ trans_en: wow!
+-lexeme
+ lex: ham
+ stem: ham.
+ root: hm
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: auch
+ trans_en: also
+-lexeme
+ lex: ham
+ stem: ham.
+ root: hm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: hm!
+ trans_en: umph, hem
+-lexeme
+ lex: hama
+ stem: hama.
+ root: hm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: schwer zu übersetzendes Flickwort
+ trans_en: filler word
+-lexeme
+ lex: haman
+ stem: haman.
+ root: hmn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sogleich
+ trans_en: immediately
+-lexeme
+ lex: hamanke
+ stem: hamanke.
+ root: hmn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: (so)gleich
+ trans_en: immediately
+-lexeme
  lex: hamnixo
- stem: hamnixo.
+ stem: hamnixo.|hamnixe.
  root: hmnx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Art Schürze mit Kreuzen am Rande und Verzierungen, die der Pfarrer trägt, wenn er das Evangelium liest
- trans_en: 
+ trans_en: type of apron with crosses and ornaments on edges which a priest wears when he reads the Gospel
 -lexeme
  lex: haniye/hanniye
  stem: haniye.//hanniye.
@@ -15029,61 +15149,221 @@
  trans_de: Guten appetit!; wohl bekomm's (haniye w ʕawafi)
  trans_en: bon appetit! here is to you
 -lexeme
- lex: haqqa/aqqa
- stem: haqqa.//aqqa.
+ lex: hana
+ stem: hana.
+ root: hn
+ gramm: N
+ paradigm: <?>
+ trans_de: Hilfe
+ trans_en: help
+-lexeme
+ lex: haqqa/aqqa/hafqa
+ stem: haqqa.//aqqa.//hafqa.
  root: qṣ
  gramm: ADV
  paradigm: unchangeable
  trans_de: so viel, so groß
- trans_en: 
+ trans_en: so much, so big
+-lexeme
+ lex: haqqayṣ/haqqaṣ
+ stem: haqqayṣ.//ḥaqqaṣ.
+ root: qṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: so viel
+ trans_en: so much
+-lexeme
+ lex: hal
+ stem: hal.
+ root: hl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Fragepartikel
+ trans_en: question particle
+-lexeme
+ lex: har
+ stem: har.
+ root: hr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: so oft auch, so sehr auch
+ trans_en:
+-lexeme
+ lex: har
+ stem: har.
+ root: hr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Anrufpartikel
+ trans_en: particle of address
+-lexeme
+ lex: harke
+ stem: harke.
+ root: hrk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: hier
+ trans_en: here
+-lexeme
+ lex: harra
+ stem: harra.
+ root: hr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf, um auf etwas Geschenes, Schlimmes aufmerksam zu machen
+ trans_en: exclamation to bring attention to some event or something bad
+-lexeme
+ lex: harrasiyat
+ stem: harrasiyat.
+ root: hrs
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Plackereien
+ trans_en: drudgery
+-lexeme
+ lex: hasani
+ stem: hasani.
+ root: hsn
+ gramm: N
+ paradigm: <?>
+ trans_de: Leichtigkeit
+ trans_en: easiness
 -lexeme
  lex: haskale
  stem: haskale.|haskalat.
  root: hskl
  gramm: N,f
  paradigm: N2
- trans_de: a) Dampferanlegestelle b) Baugerüst
- trans_en: 
+ trans_de: Dampferanlegestelle; Baugerüst
+ trans_en: ship staffer; scaffolding
 -lexeme
- lex: hastifke
- stem: hastifke.
+ lex: hastəfke
+ stem: hastəfke.|hastəfkat.
  root: hstfk
  gramm: N,f
- paradigm: N1
- trans_de: a) Schüreisen b) Löffel zum Teigheben
- trans_en: 
+ paradigm: N2
+ trans_de: Schüreisen; Löffel zum Teigheben
+ trans_en: poker; spoon ...
 -lexeme
- lex: hatika
- stem: hatika.
+ lex: hašt
+ stem: hašt.
+ root: hšt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nüchtern, bei Vernunft; jdn, der einem böse ist, wieder versöhnen, zur Vernunft bringen
+ trans_en: sensible, reasonable; to reconcile someone who is angry at someone, to talk sense into them
+-lexeme
+ lex: hatika/hatike
+ stem: hatika.//hatike.|hatikat.
  root: htk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schande, Unehre
- trans_en: 
+ trans_en: shame, dishonour
+-lexeme
+ lex: hatən
+ stem: hatən.
+ root: ht
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Einkommen, Einkünfte, Erwerbsarten
+ trans_en: income, earnings, type of acitivity
+-lexeme
+ lex: havale
+ stem: havale.
+ root: hvl
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Brautgesang, von dem Mädchen gesungen
+ trans_en: wedding song, it is sung by girls
+-lexeme
+ lex: haven/haveniye
+ stem: haven.//haveniye.
+ root: hvn
+ gramm: N
+ paradigm: <?>
+ trans_de: eigentl. Sauerteig; das, womit man Joghurt ansetz; männlicher Samen
+ trans_en: actually leaven; something which is mixed in yogurt; sperm
+-lexeme
+ lex: haw
+ stem: haw.
+ root: hw
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: nicht mehr
+ trans_en: not anymore, no longer
 -lexeme
  lex: hawa
  stem: hawa.|hawat.
  root: hwy
  gramm: N,f
  paradigm: N2
- trans_de: Luft
- trans_en: 
+ trans_de: Luft; Wetter
+ trans_en: air; weather
 -lexeme
- lex: hawən
- stem: hawən.
+ lex: hawanta
+ stem: hawanta.
+ root: hwn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: umsonst, leichten Kaufes
+ trans_en: for nothing; get off lightly
+-lexeme
+ lex: hawar
+ stem: hawar.
+ root: hwr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Hilferuf, Hilfe, Schrei, Stoßtrupp bei Hilferuf
+ trans_en: cry for help, help, cry, raiding patroll following a cry for help
+-lexeme
+ lex: hawara
+ stem: hawara.
+ root: hwr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Hilfe!
+ trans_en: help!
+-lexeme
+ lex: hawari
+ stem: hawari.
+ root: hwr
+ gramm: N
+ paradigm: <?>
+ trans_de: Hilfe
+ trans_en: help
+-lexeme
+ lex: hawayi
+ stem: hawayi.
+ root: hwy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: geistesgestört
+ trans_en: mentally disturbed
+-lexeme
+ lex: hawən/hawun
+ stem: hawən.//hawun.
  root: hwn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mörser
- trans_en: 
+ trans_en: mortar
+-lexeme
+ lex: hawir
+ stem: hawir.
+ root: hwr
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: um...herum
+ trans_en: around
 -lexeme
  lex: hawiṯo
  stem: hawiṯo.|hawye.
  root: hwy
  gramm: N,f
  paradigm: N2
- trans_de: hauye die eben geboren hat
- trans_en: 
+ trans_de: die eben geboren hat
+ trans_en: who has just been born
 -lexeme
  lex: hawiye
  stem: hawiye.|hawiyat.
@@ -15091,23 +15371,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Nebenfrau
- trans_en: 
+ trans_en: concubine
 -lexeme
  lex: hawno
- stem: hawno.
+ stem: hawno.|hawne.
  root: hwn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Verstand, Überlegungsfähigkeit, Bewusstsein
- trans_en: 
+ trans_en: understanding, awareness, consciousness, reflection capability
 -lexeme
- lex: hawun
- stem: hawun.
- root: hwn
+ lex: ḥawuz
+ stem: ḥawuz.
+ root: ḥwz
  gramm: N,m
- paradigm: N1
- trans_de: Mörser
- trans_en: 
+ paradigm: <?>
+ trans_de: (Wasser)becken
+ trans_en: water tank
 -lexeme
  lex: hayɁa
  stem: hayɂa.
