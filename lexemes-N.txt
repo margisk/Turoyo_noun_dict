@@ -38929,14 +38929,6 @@
  trans_de: grüner Dornstrauch, den die Kamele fressen
  trans_en: 
 -lexeme
- lex: xaršayfe
- stem: xaršayfe.
- root: xršyf
- gramm: N,f
- paradigm: N1
- trans_de: Fledermaus
- trans_en: 
--lexeme
  lex: xaroṭo
  stem: xaroṭo.|xaroṭe.
  root: xrṭ
@@ -39129,13 +39121,13 @@
  trans_de: Pflanze, deren Wurzel man isst
  trans_en: 
 -lexeme
- lex: xədma
- stem: xədma.
+ lex: xədma/xəzma
+ stem: xədma.//xəzma.|xədmat.//xəzmat.
  root: xdm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Dienst, Lohn für geleisteten Dienst
- trans_en: 
+ trans_en: service, pay for service rendered
 -lexeme
  lex: xədumo/xudumo
  stem: xədumo/xudumo.|xədumo.//xudume.
@@ -39209,101 +39201,133 @@
  trans_de: Steinring
  trans_en: 
 -lexeme
- lex: xəršayfe
- stem: xəršayfe.
+ lex: xəršayfe/xaršayfe
+ stem: xəršayfe.//xaršayfe.
  root: xršyf
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fledermaus
- trans_en: 
+ trans_en: bat
+-lexeme
+ lex: xər xər xər
+ stem: xər xər xər.
+ root: xr
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Geräusch auseinanderstiebender Leute
+ trans_en: sound of scattering people
 -lexeme
  lex: xərxara
  stem: xərxara.
  root: xrxr
  gramm: N,f
- paradigm: N1
- trans_de: a) Todesröcheln, Röcheln b) Krahn
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Todesröcheln, Röcheln; Krahn
+ trans_en: death rattle, rattle; ...
 -lexeme
  lex: xərxərke
  stem: xərxərke.
  root: xrxrk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kinderklapper
- trans_en: 
+ trans_en: baby`s rattle
+-lexeme
+ lex: xəšbxəšb
+ stem: xəšbxəšb.
+ root: xšbxšb
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Geräusch des Scharrens eines Tieres 
+ trans_en: sound of a scratching animal 
 -lexeme
  lex: xəššab
  stem: xəššab.
- root: xšb
+ root: xššb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Drillbohrer, der mit Bogen und Sehne betätigt wird
- trans_en: 
+ trans_en: spiral drill operated with bow and string
+-lexeme
+ lex: xəšxəš/xəštxəšt
+ stem: xəšxəš.//xəštxəšt.
+ root: xšxš
+ gramm: ?
+ paradigm: unchangeable
+ trans_de: Geräusch trockener Gegenstände; einer Schlange im Laube, die man nicht sieht, oder anderer Tiere, die ungehört durchs Gras kriechen
+ trans_en: sound of dry objects; sound of a snake in the arbour one cannot see, or other animals crawling unheard through the grass
+-lexeme
+ lex: xətm/xətəm
+ stem: xətm.//xətəm.
+ root: xtm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: schließlich, am Ende, zum Abschluß
+ trans_en: finally, in the end, in conclusion
+-lexeme
+ lex: xətm
+ stem: xətm.
+ root: xtm
+ gramm: N,?
+ paradigm: <?>
+ trans_de: Siegel
+ trans_en: seal
 -lexeme
  lex: xətyar/xtiyar
- stem: xətyar.|xətyarin.//xtiyar.|xtiyarin.
+ stem: xətyar.//xtiyar.|xtiyarin.//xətyarin.
  root: xtyr
  gramm: N,m
  paradigm: N2
  trans_de: alter Mann
  trans_en: old man
 -lexeme
+ lex: xəṭər
+ stem: xəṭər.
+ root: xṭr
+ gramm: ?
+ paradigm: <?>
+ trans_de: gefährlich (zu denken)
+ trans_en: dangerous (to think)
+-lexeme
  lex: xəṭṭa
  stem: xəṭṭa.
  root: ḥṭṭ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gebiet
- trans_en: 
+ trans_en: region
 -lexeme
- lex: xəzane
- stem: xəzane.|xəzanat.
+ lex: xəzane/xəzene
+ stem: xəzane.|xəzanat.//xəzene.|xəzenat.
  root: xzn
  gramm: N,f
  paradigm: N2
  trans_de: Kleiderschrank; Garderobe, Truhe
- trans_en: 
+ trans_en: closet; wardrobe, chest
 -lexeme
- lex: xəzma
- stem: xəzma.
- root: xzm
- gramm: N,f
- paradigm: N1
- trans_de: Lohn für Dienstleistung
- trans_en: 
--lexeme
- lex: xəzna
- stem: xəzna.
- root: xzn
- gramm: N,f
- paradigm: N1
- trans_de: Schatz, Schatzhaus
- trans_en: 
--lexeme
- lex: xəzne
- stem: xəzne.|xəznat.
+ lex: xəzna/xəzne
+ stem: xəzna.//xəzne.|xəznat.
  root: xzn
  gramm: N,f
  paradigm: N2
- trans_de: Schatz
- trans_en: 
+ trans_de: Schatz, Schatzhaus
+ trans_en: treasure, treasury
 -lexeme
  lex: xigurto
  stem: xigurto.
  root: xgrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Grube
- trans_en: 
+ trans_en: hole
 -lexeme
  lex: xiške
  stem: xiške.
  root: xšk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Strich, auch krummer; Gekritzel; Kreis. Wenn jemand eine Forderung an einen anderen hat, und dieser sie verweigert, so zieht der erste ein
- trans_en: 
+ trans_en: stroke, also crooked; scribble; circle. If somebody is putting a claim on another, and he denies it, the first one moves in
 -lexeme
  lex: xišxiš/xiš w miš
  stem: xišxiš.//xiš w miš.
@@ -39609,8 +39633,8 @@
  trans_de: stark
  trans_en: strong
 -lexeme
- lex: xurxur/xuraxur
- stem: xurxur.//xuraxur.
+ lex: xurxur/xuraxur/xərxər
+ stem: xurxur.//xuraxur.//xərxər.
  root: xrxr
  gramm: ADJ
  paradigm: unchangeable
