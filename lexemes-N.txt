@@ -13722,8 +13722,8 @@
  trans_de: Brut; verächtlicher Ausdruck, wenn eine Familie zuviel Kinder bekommt
  trans_en: 
 -lexeme
- lex: ġərəfti/ġurufti
- stem: ġərəfti.//ġurufti.
+ lex: ġərəfti/ġurufti/xərəfti
+ stem: ġərəfti.//ġurufti.//xərəfti.
  root: ġrf
  gramm: ADJ
  paradigm: unchangeable
@@ -39157,49 +39157,97 @@
  stem: xəlla.
  root: xll
  gramm: N,f
- paradigm: N1
- trans_de: Gewohnheit, Behnehmen, schlechte Manieren
- trans_en: 
+ paradigm: <?>
+ trans_de: Gewohnheit, Benehmen, schlechte Manieren
+ trans_en: habit, behaviour, bad manners
+-lexeme
+ lex: xəlq
+ stem: xəlq.
+ root: xlq
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Lust
+ trans_en: wish
 -lexeme
  lex: xəlt
  stem: xəlt.
  root: xld
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Maulwurf
- trans_en: 
+ trans_en: mole
+-lexeme
+ lex: xərabtər
+ stem: xərabtər.
+ root: xrbtr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schlimmer
+ trans_en: worse
 -lexeme
  lex: xərazənde
  stem: xərazənde.
  root: xrznd
  gramm: N,f
- paradigm: N1
- trans_de: Muscheln oder Feigen aufgereihtes Gehänge, Halskette nicht
- trans_en: 
--lexeme
- lex: xərbah
- stem: xərbah.|xərebəh.
- root: xrb
- gramm: N,m
- paradigm: N2
- trans_de: Ruine
- trans_en: 
+ paradigm: <?>
+ trans_de: Muscheln oder Feigen aufgereihtes Gehänge, Halskette
+ trans_en: pendant made of shells or figs, necklace
 -lexeme
  lex: xərbe
  stem: xərbe.|xərab.
  root: xrb
  gramm: N,f
  paradigm: N2
- trans_de: Ruine pl
- trans_en: 
+ trans_de: Ruine
+ trans_en: Ruins
+-lexeme
+ lex: xərənǧat
+ stem: xərənǧat.
+ root: xrnǧ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Orte mit spitzen, herausstehenden Steinen, so dass man nicht darauf gehen kann
+ trans_en: places with sharp, protruding stones, so that one cannot walk there
+-lexeme
+ lex: xərp
+ stem: xərp.
+ root: xrp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Geräusch beim Herausschlüpfen, Davonlaufen
+ trans_en: sound of slipping out, running away
 -lexeme
  lex: xərrame
  stem: xərrame.
  root: xrm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Steinring
- trans_en: 
+ trans_en: stone ring
+-lexeme
+ lex: xərren
+ stem: xərren.
+ root: xrn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Geräusch des Laufens; Geräusch einer laufenden
+ trans_en: sound of running; sound of a running person
+-lexeme
+ lex: xər w bərr
+ stem: xər w bərr.
+ root: xrwbrr
+ gramm: <?>
+ paradigm: <?>
+ trans_de: hin- und herreißen (z. B. beim Ringen)
+ trans_en: pulling back and forth (e. g. when wrestling)
+-lexeme
+ lex: xər w ǧərr
+ stem: xər w ǧərr.
+ root: xrwǧrr
+ gramm: <?>
+ paradigm: <?>
+ trans_de: 5 – 10 Leute stellen sich an eine Wand und suchen sich seitlich zu Falle zu bringen; Zweitracht im Dorfe
+ trans_en: <?>; discord in the village
 -lexeme
  lex: xəršayfe/xaršayfe
  stem: xəršayfe.//xaršayfe.
@@ -39352,14 +39400,6 @@
  paradigm: N2
  trans_de: Linde
  trans_en: lime tree
--lexeme
- lex: xna/xuna
- stem: xna.//xuna.
- root: xn
- gramm: ADV
- paradigm: unchangeable
- trans_de: etwa, denn?
- trans_en: about, then?
 -lexeme
  lex: xnaq
  stem: xnaq.
@@ -39529,6 +39569,14 @@
  trans_de: Maulwurf
  trans_en: mole
 -lexeme
+ lex: xulo/xlo
+ stem: xulo.//xlo.
+ root: xl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa
+ trans_en: about
+-lexeme
  lex: xulqa
  stem: xulqa.
  root: xlq
@@ -39545,8 +39593,24 @@
  trans_de: mehliger Erdstaub von trockener Erde auf den Wegen, der in die Luft fliegen kann
  trans_en: powedery dry earth of the road, which may raise into the air
 -lexeme
- lex: xurbah
- stem: xurbah.|xurebəh.
+ lex: xuma
+ stem: xuma.
+ root: xm
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa
+ trans_en: about
+-lexeme
+ lex: xuna/xna
+ stem: xuna.//xna.
+ root: xn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa, denn
+ trans_en: about, then
+-lexeme
+ lex: xurbah/xərbah
+ stem: xurbah.//xərbah.|xurebəh.//xərebəh.
  root: xrb
  gramm: N,f
  paradigm: N2
@@ -39604,7 +39668,7 @@
  lex: xurmen
  stem: xurmen.
  root: xrmn
- gramm: N,?
+ gramm: N,<?>
  paradigm: unchangeable
  trans_de: Ton einer geschlagenen Glocke
  trans_en: sound of a bell
@@ -39756,7 +39820,7 @@
  lex: xwa/xa
  stem: xwa.//xa.
  root: xw
- gramm: ?
+ gramm: <?>
  paradigm: unchangeable
  trans_de: der-, dasselbe
  trans_en: the same
@@ -39828,7 +39892,7 @@
  lex: ya
  stem: ya.
  root: y
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: ohne klare Bedeutung; Vokativpartikel
  trans_en: without clear meaning; vocative particle
@@ -39836,7 +39900,7 @@
  lex: ya/ya de
  stem: ya.//ya de.
  root: yd
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Mutter
  trans_en: mother
@@ -39868,7 +39932,7 @@
  lex: ya ba
  stem: ya ba.
  root: yb
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Vater (Anrede)
  trans_en: father (form of adress)
@@ -39876,7 +39940,7 @@
  lex: yabaḥiḏ
  stem: yabaḥiḏ.
  root: ybḥḏ
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Beginn des Credo 
  trans_en: beginning of the credo
@@ -39884,7 +39948,7 @@
  lex: yaban
  stem: yaban.
  root: ybn
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Japaner
  trans_en: Japanese
@@ -39948,7 +40012,7 @@
  lex: yahoke
  stem: yahoke.
  root: yhk
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: ohne Hoffnung
  trans_en: without hope
@@ -40012,7 +40076,7 @@
  lex: yalwo
  stem: yalwo.
  root: ylw
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Biestmilch
  trans_en: colostrum
@@ -40020,7 +40084,7 @@
  lex: yaman
  stem: yaman.
  root: ymn
- gramm: N,?
+ gramm: N,<?>
  paradigm: unchangeable
  trans_de: Jemen
  trans_en: Yemen
@@ -40052,8 +40116,8 @@
  lex: yamaniye
  stem: yamaniye.
  root: ymn
- gramm: N,?
- paradigm: ?
+ gramm: N,<?>
+ paradigm: <?>
  trans_de: Jemenite, jemenitisch
  trans_en: Yemenite, Yemeni
 -lexeme
@@ -40076,16 +40140,16 @@
  lex: yan
  stem: yan.
  root: yn
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Sessel, Bettgestell, Sofa
  trans_en: armchair, bed frame, sofa
 -lexeme
  lex: yan ... yan
  stem: yan ... yan.
- root: ?
- gramm: ?
- paradigm: ?
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
  trans_de: sei es ... sei es
  trans_en: be it ... be it
 -lexeme
@@ -40172,7 +40236,7 @@
  lex: yatumko
  stem: yatumko.
  root: ytm
- gramm: N,? DIM
+ gramm: N,<?> DIM
  paradigm: <?>
  trans_de: Diminutiv von yatumo
  trans_en: diminutive of yatumo
@@ -40228,7 +40292,7 @@
  lex: yawal
  stem: yawal.
  root: ywl
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Wehgeschrei
  trans_en: wail
@@ -40307,8 +40371,8 @@
 -lexeme
  lex: yo ... yo/ya ... ya/ya ... yaxud
  stem: yo ... yo.
- root: ?
- gramm: ?
+ root: <?>
+ gramm: <?>
  paradigm: unchangeable
  trans_de: entweder ... oder
  trans_en: either ... or
@@ -40724,7 +40788,7 @@
  lex: zanga mirine
  stem: zanga mirine.
  root: zng mrn
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Todesfarbe
  trans_en: color of death
@@ -40780,7 +40844,7 @@
  lex: zaqaṭune
  stem: zaqaṭune.
  root: zqṭn
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Hockestellung
  trans_en: squatting position
@@ -40868,7 +40932,7 @@
  lex: zarzar
  stem: zarzar.
  root: zrzr
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: ängstliches Geschrei eines Kindes; Geschrei, Tumult
  trans_en: anxious scream of a child; shouting, turmoil
@@ -40884,7 +40948,7 @@
  lex: zat
  stem: zat.
  root: zt
- gramm: ?
+ gramm: <?>
  paradigm: unchangeable
  trans_de: selbst
  trans_en: self
@@ -41060,7 +41124,7 @@
  lex: zedakar/zedakari
  stem: zedakar.//zedakari.
  root: zdkr
- gramm: N,?
+ gramm: N,<?>
  paradigm: unchangeable
  trans_de: zu weit gehen, sicht etwas herausnehmen
  trans_en: going too far, taking something out
@@ -41124,7 +41188,7 @@
  lex: zəke
  stem: zəke.
  root: zk
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Bauch
  trans_en: belly
@@ -41163,16 +41227,16 @@
 -lexeme
  lex: zəm w saləq
  stem: zəm w saləq.
- root: ?
- gramm: ?
- paradigm: ?
- trans_de: „sie schaukeln (nur mit einem Strick)
- trans_en: 
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: zəmzəm
  stem: zəmzəm.
  root: zmzm
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Geräusch des Schlagens auf ein metallenes Schlagzeug 
  trans_en: sound of hittig a metal drum
@@ -41260,7 +41324,7 @@
  lex: zərṭ
  stem: zərṭ.
  root: zrṭ
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Furz
  trans_en: fart
@@ -41276,7 +41340,7 @@
  lex: zərṭak
  stem: zərṭak.
  root: zrṭk
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Spielmann
  trans_en: minstrel
@@ -41316,7 +41380,7 @@
  lex: ziken/ziqen
  stem: ziken.//ziqen.
  root: zkn
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: schmerzliches Geschrei
  trans_en: scream of pain
@@ -41380,7 +41444,7 @@
  lex: ziqen
  stem: ziqen.
  root: zqn
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Ton der Mundharmonika
  trans_en: sound of the harmonica
@@ -41388,7 +41452,7 @@
  lex: ziqziq
  stem: ziqziq.
  root: zqzq
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Geräusch
  trans_en: noise
@@ -41436,7 +41500,7 @@
  lex: zluġliġo du gliḏo
  stem: zluġliġo du gliḏo.
  root: zlġlġ dglḏ
- gramm: N,?
+ gramm: N,<?>
  paradigm: <?>
  trans_de: Eisbrocken
  trans_en: chunks of ice
@@ -41532,7 +41596,7 @@
  lex: zugurd
  stem: zugurd.
  root: zgrd
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Habenichts, Tagedieb
  trans_en: have-not, idler
@@ -41540,7 +41604,7 @@
  lex: zugurda
  stem: zugurda.
  root: zgrd
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Müßiggänger
  trans_en: idler
@@ -41564,7 +41628,7 @@
  lex: zurəḥ
  stem: zurəḥ.
  root: zrḥ
- gramm: ?
+ gramm: <?>
  paradigm: <?>
  trans_de: Gras
  trans_en: grass
@@ -41588,7 +41652,7 @@
  lex: zurzur/zərrzərr/zərzər
  stem: zurzur.//zərrzərr.//zərzər
  root: zrzr
- gramm: N, ?
+ gramm: N,<?>
  paradigm: ?
  trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere; Ton der Glocke, Kingel
  trans_en: crowd noise; voice of the wolf and small animals; sound of the bell, bell
@@ -41658,10 +41722,10 @@
  trans_en: poison
 -lexeme
  lex: žaḥr w zuqqūm
- stem: ?
- root: ?
- gramm: ?
- paradigm: ?
+ stem: <?>
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
  trans_de: Siebensachen, Krimskrams
  trans_en: things, knickknack
 -lexeme
@@ -41676,7 +41740,7 @@
  lex: žan
  stem: žan.
  root: žn
- gramm: N,?
+ gramm: N,<?>
  paradigm: unchangeable
  trans_de: Gift
  trans_en: poison
@@ -41684,7 +41748,7 @@
  lex: Žapon/Žaponya
  stem: Žapon.//Žaponya.
  root: žpn
- gramm: N,?
+ gramm: N,<?>
  paradigm: unchangeable
  trans_de: Japaner, japanisch
  trans_en: Japanese
@@ -41698,12 +41762,12 @@
  trans_en: Japanese
 -lexeme
  lex: žare way kido!
- stem: ?
- root: ?
- gramm: ?
- paradigm: ?
- trans_de: ?
- trans_en: ?
+ stem: <?>
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: žbona/žboni
  stem: žbona//žboni.
@@ -41715,19 +41779,19 @@
 -lexeme
  lex: žboyi d-
  stem: žboyi d-.
- root: ?
- gramm: ?
- paradigm: ?
- trans_de: ?
- trans_en: ?
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ždamda
  stem: ždamda.
  root: ždmd
- gramm: ?
- paradigm: ?
- trans_de: ?
- trans_en: ?
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: žeb/ǧeb
  stem: žeb.//ǧeb.|žeb.//ǧeb.
@@ -41802,20 +41866,20 @@
  trans_en: 
 -lexeme
  lex: žmərra saġ
- stem: ?
- root: ?
- gramm: ?
- paradigm: ?
+ stem: <?>
+ root: <?>
+ gramm: <?>
+ paradigm: <?>
  trans_de: bleib mir am Leben, gesund (gewöhnlicher Märchenschluß)
  trans_en: 
 -lexeme
  lex: žledane
  stem: žledane.
  root: žld
- gramm: ?
+ gramm: <?>
  paradigm: unchangeable
  trans_de: Ausdruck aus dem Holespiel
- trans_en: ?
+ trans_en: <?>
 -lexeme
  lex: žnayne/ǧnayne
  stem: žnayne.|ǧnayne.
