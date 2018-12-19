@@ -15277,8 +15277,8 @@
  trans_de: Brautgesang, von dem Mädchen gesungen
  trans_en: wedding song, it is sung by girls
 -lexeme
- lex: haven/haveniye
- stem: haven.//haveniye.
+ lex: haven/haveniye/hayveniye.
+ stem: haven.//haveniye.//hayveniye.
  root: hvn
  gramm: N
  paradigm: <?>
@@ -15381,93 +15381,180 @@
  trans_de: Verstand, Überlegungsfähigkeit, Bewusstsein
  trans_en: understanding, awareness, consciousness, reflection capability
 -lexeme
- lex: ḥawuz
- stem: ḥawuz.
- root: ḥwz
- gramm: N,m
- paradigm: <?>
- trans_de: (Wasser)becken
- trans_en: water tank
+ lex: hawxa
+ stem: hawxa.
+ root: hwx
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: so
+ trans_en: so
 -lexeme
- lex: hayɁa
- stem: hayɂa.
+ lex: hay
+ stem: hay.
+ root: hy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: deiktisch und mit unsicherer Bedeutung; o weh! Zum Kuckuck!
+-lexeme
+ lex: hayʔa
+ stem: hayʔa.
  root: hyʔ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Aufzug, Geprängen, Aussehen, Auftreten
- trans_en: 
+ trans_en: <...>, splendour; appearance
+-lexeme
+ lex: hayaǧan
+ stem: hayaǧan.
+ root: hyǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Aufregung, Erregung
+ trans_en: commotion, excitement
+-lexeme
+ lex: hayaǧanli
+ stem: hayaǧanli.
+ root: hyǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: aufgeregt, erregt
+ trans_en: excited, anxious
 -lexeme
  lex: hayam
  stem: hayam.
  root: hym
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zeit
- trans_en: 
+ trans_en: time
+-lexeme
+ lex: hayamke
+ stem: hayamke.
+ root: hym
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: neulich
+ trans_en: lately
 -lexeme
  lex: haybe/hayba
- stem: haybe/hayba.
+ stem: haybe.//hayba.|haybat.
  root: hyb
  gramm: N,f
- paradigm: N1
- trans_de: haiba Furcht, Ehrfurcht
- trans_en: 
+ paradigm: N2
+ trans_de: Furcht, Ehrfurcht
+ trans_en: fear, awe
+-lexeme
+ lex: haydan/hayden
+ stem: haydan.//hayden.
+ root: hydn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Hilferuf, Schreien
+ trans_en: call for help, cry
+-lexeme
+ lex: hayde/haydi
+ stem: hayde.//haydi.
+ root: hyd
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: vor Imperativ
+ trans_en: before imperative
+-lexeme
+ lex: hayhat
+ stem: hayhat.
+ root: hyh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ach, wie unerreichbar!
+ trans_en: ah, how unreachable!
 -lexeme
  lex: hayhay
  stem: hayhay.
  root: hyhy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Süßigkeit aus Traubensaft, Eiern und Mehl
- trans_en: 
+ trans_en: sweet made of grape juice, eggs and flour
+-lexeme
+ lex: hayhay
+ stem: hayhay.
+ root: hyhy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: gut, einverstanden; großartig!
+ trans_en: good, agreed! splendid!
+-lexeme
+ lex: hayho
+ stem: hayho.
+ root: hyh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Los!
+ trans_en: come on, let's go!
 -lexeme
  lex: hayklo
- stem: hayklo.
+ stem: hayklo.|haykle.
  root: hykl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kirchenschiff
- trans_en: 
+ trans_en: nave
+-lexeme
+ lex: haylo
+ stem: haylo.
+ root: hyl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf der gebraucht wird, wenn etwas Aufregendes erlebt wird; o weh; holla!
+ trans_en: exclamation which is used when something exciting happens; oh woe! holla!
+-lexeme
+ lex: hayminan
+ stem: hayminan.
+ root: hymn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: wir glauben; Glaubensbekenntnis
+ trans_en: we believe; creed
 -lexeme
  lex: haymonuṯo
  stem: haymonuṯo.
  root: ʔmn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Glaube, Gläubigkeit, Frömmigkeit
- trans_en: 
+ trans_en: belief; piety
 -lexeme
- lex: hayveniye
- stem: hayveniye.
- root: hyvny
- gramm: N,f
- paradigm: N1
- trans_de: a) das, womit man Joghurt ansetzt. b) männlicher Samen
- trans_en: 
--lexeme
- lex: hay(y)a
- stem: hay(y)a.
+ lex: hayya/hayye/haya/haye
+ stem: hayya.//hayye.//haye.//haya.|hayyat.
  root: hyʔ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Versammlung, Rat, Gefolge
- trans_en: 
+ trans_en: gathering; council; cortege
 -lexeme
- lex: hay(y)e
- stem: hay(y)e.
- root: hyʔ
- gramm: N,f
- paradigm: N1
- trans_de: Versammlung, Rat, Gefolge
- trans_en: 
+ lex: hayyən/hayən
+ stem: hayyən.//hayən.
+ root: hyn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gering, leicht
+ trans_en: small, light
 -lexeme
  lex: hazxoyo
- stem: hazxoyo.
+ stem: hazxoyo.|hazxoye.
  root: hzxy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mann aus Hazax
- trans_en: 
+ trans_en: man from Hazax
+-lexeme
+ lex: haž
+ stem: haž.
+ root: hž
+ gramm: N
+ paradigm: unchangeable
+ trans_de: wissen um, sich kümmern um
+ trans_en: knowing about something, look after something or someone, to carry about something or someone
 -lexeme
  lex: hažže
  stem: hažže.|hažžat.
@@ -15475,15 +15562,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Spiere, abgeschnittener Zweig (aus ihnen wird ein Torverschluß gemacht
- trans_en: 
+ trans_en: mast; truncated branch (from which a bar for doors is made)
 -lexeme
  lex: hažžəke
- stem: hažžəke.
+ stem: hažžəke.|hažžəkat.
  root: hžž
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: lange Spiere
- trans_en: 
+ trans_en: long mast
+-lexeme
+ lex: hedi
+ stem: hedi.
+ root: hd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: langsam, sacht, behutsam, heimlich, flugs
+ trans_en: slow, easy, careful, secret, on the fly
 -lexeme
  lex: hela
  stem: hela.
