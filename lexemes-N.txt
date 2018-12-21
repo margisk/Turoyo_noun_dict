@@ -39308,36 +39308,44 @@
  trans_en: 
 -lexeme
  lex: xašuno
- stem: xašuno.
+ stem: xašuno.|xašune.
  root: xšn
  gramm: N,m
- paradigm: N1
- trans_de: Yu
- trans_en: 
+ paradigm: N2
+ trans_de: dick, grob
+ trans_en: thick, coarse
 -lexeme
- lex: xatun
- stem: xatun.
- root: xtn
- gramm: N,f
- paradigm: N1
- trans_de: Herrin
- trans_en: 
--lexeme
- lex: xatune
- stem: xatune.|xatunat.
+ lex: xatune/xatun
+ stem: xatune.//xatun.|xatunat.
  root: xtn
  gramm: N,f
  paradigm: N2
  trans_de: Herrin
- trans_en: 
+ trans_en: mistress
+-lexeme
+ lex: xaṭər
+ stem: xaṭər.
+ root: xṭr
+ gramm: <?>
+ paradigm: <?>
+ trans_de: ...
+ trans_en: ...
 -lexeme
  lex: xawxo
- stem: xawxo.
+ stem: xawxo.|xawxe.
  root: xwx
  gramm: N,m
- paradigm: N1
- trans_de: Pfirsich S
- trans_en: 
+ paradigm: N2
+ trans_de: Pfirsich
+ trans_en: peach
+-lexeme
+ lex: xav
+ stem: xav.
+ root: xv
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: unreif, roh, nicht gekocht 
+ trans_en: unripe, raw, uncooked
 -lexeme
  lex: xawaǧa
  stem: xawaǧa.|xawaǧat.
@@ -39345,103 +39353,111 @@
  gramm: N,m
  paradigm: N2
  trans_de: Herr, feiner Herr, Meister
- trans_en: 
+ trans_en: lord, gentleman, master
+-lexeme
+ lex: xawuxi
+ stem: xawuxi.
+ root: xwx
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: halb verrückt vor Sorge, z. B. wenn einer keine Arbeit finden kann
+ trans_en: half-crazy with worry, e. g. if one cannot find a job
 -lexeme
  lex: xayal
  stem: xayal.|xayalat.
  root: xyl
  gramm: N,m
  paradigm: N2
- trans_de: a) Luftbild b) Einbildung, falsche Gedanken, Gedenken an frühere Zeiten
- trans_en: 
+ trans_de: Luftbild; Einbildung, falsche Gedanken, Gedenken an frühere Zeiten
+ trans_en: vision; imagination, wrong thoughts, memories of past times
 -lexeme
  lex: xayən
  stem: xayən.|xayinin.
  root: xwn
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: verräterisch
+ trans_en: treacherous
 -lexeme
  lex: xayəntiye
  stem: xayəntiye.
  root: xwn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verräterei
- trans_en: 
+ trans_en: treachery
 -lexeme
  lex: xayifo
- stem: xayifo.
+ stem: xayifo.|xayife.
  root: xyf
- gramm: N,m
- paradigm: N1
- trans_de: MḤ
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: schnell
+ trans_en: fast
 -lexeme
  lex: xaymo
- stem: xaymo.|xiyam.
+ stem: xaymo.|xiyam.//xaymoṯe.
  root: xym
  gramm: N,f
  paradigm: N2
- trans_de: xiyam Mḏ/
- trans_en: 
+ trans_de: Zelt; Laube
+ trans_en: tent; arbor
 -lexeme
- lex: xazane
- stem: xazane.
- root: xzn
- gramm: N,f
- paradigm: N1
- trans_de: Schatz; Kleidertruhe
- trans_en: 
+ lex: xayr
+ stem: xayr.
+ root: xyr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: nein!
+ trans_en: no!
 -lexeme
- lex: xazina
- stem: xazina.|xazinat.
+ lex: xazayən
+ stem: xazayən.
  root: xzn
- gramm: N,f
- paradigm: N2
- trans_de: Schatzhaus
- trans_en: 
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Schätze
+ trans_en: treasures
 -lexeme
  lex: xazme
  stem: xazme.
  root: xzm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Nasenring
- trans_en: 
--lexeme
- lex: xazne
- stem: xazne.|xaznat.
- root: xzn
- gramm: N,f
- paradigm: N2
- trans_de: Schatz
- trans_en: 
+ trans_en: nose ring
 -lexeme
  lex: xazoq
  stem: xazoq.
  root: hzq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfahl (zum pfählen)
- trans_en: 
+ trans_en: stake (for staking)
 -lexeme
- lex: xel
- stem: xel.
+ lex: xel/xelano
+ stem: xel.//xelano.
  root: xl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brautgeleit, Brautzug
- trans_en: 
+ trans_en: bride`s escort, bridal procession
 -lexeme
  lex: xəbəs
  stem: xəbəs.
  root: xbs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pflanze, deren Wurzel man isst
- trans_en: 
+ trans_en: edible roots plants
+-lexeme
+ lex: xəd/xd
+ stem: xəd.//xd.
+ root: xd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wie
+ trans_en: how
 -lexeme
  lex: xədma/xəzma
  stem: xədma.//xəzma.|xədmat.//xəzmat.
@@ -39451,21 +39467,13 @@
  trans_de: Dienst, Lohn für geleisteten Dienst
  trans_en: service, pay for service rendered
 -lexeme
- lex: xədumo/xudumo
- stem: xədumo/xudumo.|xədumo.//xudume.
- root: xdm
- gramm: N,m
- paradigm: N2
- trans_de: Diener
- trans_en: 
--lexeme
  lex: xəfya
  stem: xəfya.
  root: xfy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geheimpolizist
- trans_en: 
+ trans_en: detective 
 -lexeme
  lex: xəlʕa
  stem: xəlʕa.|xalayəʕ.//xəlaʕ.//xelaʕ.
@@ -39473,7 +39481,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ehrenkleid, Ehrengeschenk, Geschenk
- trans_en: 
+ trans_en: honorary dress, complimentary gift, present
 -lexeme
  lex: xəlla
  stem: xəlla.
@@ -39675,8 +39683,8 @@
  trans_de: Kleiderschrank; Garderobe, Truhe
  trans_en: closet; wardrobe, chest
 -lexeme
- lex: xəzna/xəzne
- stem: xəzna.//xəzne.|xəznat.
+ lex: xəzna/xəzne/xazne/xazina/xazane.
+ stem: xəzna.//xəzne.//xazne.//xazina.//xazane.|xəznat.//xaznat.//xazinat.//xazanat.
  root: xzn
  gramm: N,f
  paradigm: N2
@@ -39731,8 +39739,8 @@
  trans_de: ungefähr
  trans_en: approximately
 -lexeme
- lex: xodumo/xudumo
- stem: xodumo.|xodume.//xudumo.|xudume.
+ lex: xodumo/xudumo/xədumo
+ stem: xodumo.//xudumo.//xədumo.|xodume.//xudume.//xədume.
  root: xdm
  gramm: N,m
  paradigm: N2
