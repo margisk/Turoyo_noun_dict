@@ -39230,26 +39230,42 @@
  lex: xarǧaləġ
  stem: xarǧaləġ.
  root: xrǧ
- gramm: N,m
- paradigm: N1
+ gramm: N,f
+ paradigm: <?>
  trans_de: Geld für Ausgaben
- trans_en: 
+ trans_en: money for expenses
 -lexeme
  lex: xarǧiye
- stem: xarǧiye.
+ stem: xarǧiye.|xarǧiyat.
  root: xrǧ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Reisegeld, Geld zum Ausgeben
- trans_en: 
+ trans_en: money for travelling, money to spend
 -lexeme
  lex: xarnub/xarnuf
- stem: xarnub/xarnuf.
- root: xrnb/xrnf
+ stem: xarnub.//xarnuf.|xarnubat.//xarnufat.
+ root: xrnb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: grüner Dornstrauch, den die Kamele fressen
- trans_en: 
+ trans_en: green thorn bush the camels eat
+-lexeme
+ lex: xarq
+ stem: xarq.
+ root: xrq
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: krumm, schief
+ trans_en: crooked, wrong
+-lexeme
+ lex: xarraṭ
+ stem: xarraṭ.
+ root: xrṭ
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Schreiner
+ trans_en: joiner
 -lexeme
  lex: xaroṭo
  stem: xaroṭo.|xaroṭe.
@@ -39257,15 +39273,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Drechsler, Schreiner
- trans_en: 
+ trans_en: wood turner, joiner
 -lexeme
- lex: xarwaye
- stem: xarwaye.
+ lex: xarp
+ stem: xarp.
+ root: xrp
+ gramm: <?>
+ paradigm: <?>
+ trans_de: Laut, den man von sich gibt, wenn man ausreißt 
+ trans_en: sound one makes when pulling out
+-lexeme
+ lex: xarwaye/xawraye
+ stem: xarwaye.//xawraye.
  root: xrw
  gramm: N,f
- paradigm: N1
- trans_de: Kohlenglut gebackenes Brot
- trans_en: 
+ paradigm: <?>
+ trans_de: ungesäuertes, auf Kohlenglut gebackenes Brot
+ trans_en: unleavened bread baked on charcoal
 -lexeme
  lex: xarwal
  stem: xarwal.|xarewəl.
@@ -39273,23 +39297,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kohlenglut gebackenes Brot
- trans_en: 
+ trans_en: unleavened bread baked on charcoal
+-lexeme
+ lex: xapat
+ stem: xapat.
+ root: xp
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: betrügerische Handlungen
+ trans_en: deceitful actions
 -lexeme
  lex: xasa
  stem: xasa.
  root: xs
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: dünnes Leinen für Betttücher
- trans_en: 
+ trans_en: thin linen for sheets
 -lexeme
- lex: xase
- stem: xase.|xasat.
+ lex: xase/xas
+ stem: xase.//xas.|xasat.
  root: xs
  gramm: N,f
  paradigm: N2
  trans_de: Lattich
- trans_en: 
+ trans_en: lettuce
 -lexeme
  lex: xaṣra
  stem: xaṣra.|xaweṣər.//xəweṣər.//xawaṣər.//xaṣrawoṯe.
@@ -39297,15 +39329,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Seite
- trans_en: 
+ trans_en: side
 -lexeme
- lex: xaṣṭaxana
- stem: xaṣṭaxana.
+ lex: xaṣṣa
+ stem: xaṣṣa.
+ root: xṣṣ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: besonders
+ trans_en: in particular
+-lexeme
+ lex: xaṣṣatan
+ stem: xaṣṣatan.
+ root: xṣṣtn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: insbesondere
+ trans_en: especially
+-lexeme
+ lex: xaṣṭaxana/qiṣṭaxana
+ stem: xaṣṭaxana.//qiṣṭaxana.|xaṣṭaxanat.//qiṣṭaxanat.
  root: xṣṭxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Krankenhaus
- trans_en: 
+ trans_en: hospital
 -lexeme
  lex: xašuno
  stem: xašuno.|xašune.
