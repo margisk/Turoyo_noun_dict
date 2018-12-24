@@ -39137,95 +39137,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Chan, großes Geschäftshaus, Herberge
- trans_en: 
+ trans_en: khan, big shop building, hostel
 -lexeme
  lex: xanaq
  stem: xanaq.|xanaqat.
  root: xnq
  gramm: N,m
  paradigm: N2
- trans_de: xanaqat Nähe, nahe an, ungefähr
- trans_en: 
+ trans_de: Nähe, nahe an, ungefähr
+ trans_en: proximity, near, about
+-lexeme
+ lex: xanaq
+ stem: xanaq.
+ root: xnq
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: „dass er ersticken möge!“ so sagt etwa die Mutter, wenn sich das Kind beim Essen verschluckt
+ trans_en: „he would suffocate!“ so says, for example, the mother, if the child swallowed while eating
 -lexeme
  lex: xanǧar
- stem: xanǧar.|xəneǧir.
+ stem: xanǧar.|xəneǧir.//xaneǧir.
  root: xnǧr
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/xaneǧir D xancär f, pl xınecir
- trans_en: 
+ trans_de: Dolch
+ trans_en: dagger
 -lexeme
  lex: xanǧarke
  stem: xanǧarke.
  root: xnǧrk
  gramm: N,f
- paradigm: N1
+ paradigm: <?> DIM
  trans_de: kleiner Dolch
- trans_en: 
+ trans_sen: small dagger
 -lexeme
  lex: xanči
  stem: xanči.
  root: xnč
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Verwalter eines Geschäftshauses, Herbergsvater
- trans_en: 
+ trans_en: administrator of a shop building, housefather
 -lexeme
  lex: xane
  stem: xane.|xanat.
  root: xn
  gramm: N,f
  paradigm: N2
- trans_de: Familie pl
- trans_en: 
+ trans_de: Familie
+ trans_en: family
 -lexeme
  lex: xaniko
  stem: xaniko.
  root: xnk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleines Haus
- trans_en: 
+ trans_en: small house
 -lexeme
- lex: xanxolo
- stem: xanxolo.
+ lex: xanxolo/xalxolo
+ stem: xanxolo.//xalxolo.
  root: xlxl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fußring, Ring
- trans_en: 
+ trans_en: foot ring, ring
 -lexeme
- lex: xắraze
- stem: xắraze.|xắrazat.
- root: xắrz
+ lex: xarab
+ stem: xarab.
+ root: xrb
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: schlecht
+ trans_en: bad
+-lexeme
+ lex: xaraze
+ stem: xaraze.|xarazat.
+ root: xrz
  gramm: N,f
  paradigm: N2
  trans_de: Brunneneinfassung
- trans_en: 
+ trans_en: curb of a well
 -lexeme
- lex: xarbe
- stem: xarbe.|xərab.
- root: xrb
- gramm: N,f
- paradigm: N2
- trans_de: Ruine
- trans_en: 
+ lex: xarbanda
+ stem: xarbanda.
+ root: xrbnd
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: dumm, einfältig
+ trans_en: stupid, simple-minded
 -lexeme
  lex: xarbo
  stem: xarbo.
  root: xrb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ruine
- trans_en: 
+ trans_en: ruins
 -lexeme
  lex: xarboqiye
  stem: xarboqiye.
  root: xrbqy
  gramm: N,f
- paradigm: N1
- trans_de: Art Knoten, Schlinge sim xarboqiye
- trans_en: 
+ paradigm: <?>
+ trans_de: Art Knoten, Schlinge
+ trans_en: a kind of knot, loop
+-lexeme
+ lex: xarǧ
+ stem: xarǧ.
+ root: xrǧ
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Masche; ... ; Steuer, Tribut
+ trans_en: mesh; ... ; tax, tribute
 -lexeme
  lex: xarǧaləġ
  stem: xarǧaləġ.
@@ -39571,8 +39595,8 @@
  trans_de: Muscheln oder Feigen aufgereihtes Gehänge, Halskette
  trans_en: pendant made of shells or figs, necklace
 -lexeme
- lex: xərbe
- stem: xərbe.|xərab.
+ lex: xərbe/xarbe
+ stem: xərbe.//xarbe.|xərab.
  root: xrb
  gramm: N,f
  paradigm: N2
