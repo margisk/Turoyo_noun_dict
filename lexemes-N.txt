@@ -15077,8 +15077,8 @@
  trans_de: sicher, natürlich
  trans_en: certainly, of course
 -lexeme
- lex: halholo/həlholo
- stem: halholo.//həlholo.|halhole.//həlhole.
+ lex: halholo/həlholo/helholo
+ stem: halholo.//həlholo.//helholo.|halhole.//həlhole.//helhole.
  root: hlhl
  gramm: N,m
  paradigm: N2
@@ -15580,69 +15580,149 @@
  trans_de: langsam, sacht, behutsam, heimlich, flugs
  trans_en: slow, easy, careful, secret, on the fly
 -lexeme
+ lex: hedika
+ stem: hedika.
+ root: hd
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: vorsichtig, sacht
+ trans_en: careful, slow
+-lexeme
+ lex: hehe/ehe
+ stem: hehe.//ehe.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja, ja
+ trans_en: yes, yes
+-lexeme
+ lex: heke
+ stem: heke.
+ root: hk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dort, da dort
+ trans_en: there, over there
+-lexeme
  lex: hela
  stem: hela.
  root: hl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Vogeljagd (im Winter)
- trans_en: 
+ trans_en: fowling, hunt (in winter)
 -lexeme
- lex: helholo
- stem: helholo.
- root: hlhl
- gramm: N,m
- paradigm: N1
- trans_de: Freudentriller, melodisch Weinen
- trans_en: 
--lexeme
- lex: helək
- stem: helək.
+ lex: helək/heləke
+ stem: helək.//heləke.
  root: hlk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hode
- trans_en: 
+ trans_en: testicles
 -lexeme
- lex: heləke
- stem: heləke.|heləkat.
- root: hlk
- gramm: N,f
- paradigm: N2
- trans_de: Hode
- trans_en: 
+ lex: henu
+ stem: henu.
+ root: hn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: und dann; endlich, nunmehr
+ trans_en: and then; finally; now, from now on
 -lexeme
  lex: herəke
- stem: herəke.
+ stem: herəke.|herəkat.
  root: hrk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hügel
- trans_en: 
+ trans_en: hill
 -lexeme
  lex: heriš
- stem: heriš.
+ stem: heriš.|herišat.
  root: hrš
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ansturm, Attacke
- trans_en: 
+ trans_en: attack, assault
+-lexeme
+ lex: hesani
+ stem: hesani.
+ root: hsn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: leicht
+ trans_en: easy
+-lexeme
+ lex: hesənǧawo
+ stem: hesənǧawo.
+ root: hsnǧw
+ gramm: N
+ paradigm: <?>
+ trans_de: Eisengerät
+ trans_en: iron utensils
+-lexeme
+ lex: hesir
+ stem: hesir.
+ root: hsr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Gefangener
+ trans_en: captured, prisoner
+-lexeme
+ lex: heš/hež
+ stem: heš.//hež.
+ root: hš
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: noch
+ trans_en: still, yet
+-lexeme
+ lex: hešar
+ stem: hešar.
+ root: hšr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wach
+ trans_en: awake
 -lexeme
  lex: heviye
  stem: heviye.
  root: hvy
  gramm: N,f
- paradigm: N1
- trans_de: Erwartung, Hoffnung, Bitte; ksamno heviye menox
- trans_en: 
+ paradigm: <?>
+ trans_de: Erwartung, Hoffnung, Bitte 
+ trans_en: awaiting; hope; request
+-lexeme
+ lex: hewanat
+ stem: hewanat
+ root: hwn
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Erinnerungen
+ trans_en: memories
 -lexeme
  lex: hewaniye
  stem: hewaniye.
  root: hwn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Luftfeuchtigkeit
- trans_en: 
+ trans_en: air humidity
+-lexeme
+ lex: heya
+ stem: heya.
+ root: hy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: jan, einverstanden
+ trans_en: yes, agreed
+-lexeme
+ lex: hežinu/hežnu/hežinuka/hežnuka
+ stem: hežinu.//hežnu.//hežinuka.//hežnuka.
+ root: hžn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: von neuem; dann
+ trans_en: then; anew
 -lexeme
  lex: həḏoyo
  stem: həḏoyo.|həḏoye.
