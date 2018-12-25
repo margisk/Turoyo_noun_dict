@@ -39052,84 +39052,116 @@
  trans_en: 
 -lexeme
  lex: xafke
- stem: xafke.
+ stem: xafke.|xafkat.
  root: xfk
  gramm: N,f
- paradigm: N1
- trans_de: a) Schnappfalle, Fuchseisen ~ b) Weiche eines Pferdes oder Menschen
- trans_en: 
--lexeme
- lex: xắlake
- stem: xắlake.|?.
- root: xlxl
- gramm: N,f
  paradigm: N2
+ trans_de: Schnappfalle, Fuchseisen; Weiche eines Pferdes oder Menschen
+ trans_en: snap trap, fox trap; side of a horse or a man
+-lexeme
+ lex: xalake
+ stem: xalake.
+ root: xlk
+ gramm: N,f
+ paradigm: <?>
  trans_de: Ring
- trans_en: 
+ trans_en: ring
+-lexeme
+ lex: xalaṣ
+ stem: xalaṣ.
+ root: xlṣ.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: fertig!
+ trans_en: ready!
+-lexeme
+ lex: xalaṣ
+ stem: xalaṣ.
+ root: xlṣ.
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Rettung
+ trans_en: deliverance
+-lexeme
+ lex: xalaṣbun/xalaṣbune/xalaṣbuniye
+ stem: xalaṣbun.//xalaṣbune.//xalaṣbuniye.
+ root: xlṣ.
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Rettung
+ trans_en: deliverance
+-lexeme
+ lex: xalati
+ stem: xalati.
+ root: xlt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Geschenk (von Apfel)
+ trans_en: gift (of apple)
 -lexeme
  lex: xalifa
  stem: xalifa.
  root: xlf
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Chalife, Kalif
- trans_en: 
+ trans_en: chalife, caliph
+-lexeme
+ lex: xaləq allah
+ stem: xaləq allah.
+ root: xlq
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gott ist der Schöpfer; fig: nackt und bloß, wie ihn Gott geschaffen hat
+ trans_en: God is the creator; fig: naked and bare as God created him
 -lexeme
  lex: xaliqa
- stem: xaliqa.|xalaəq.
+ stem: xaliqa.|xalaəq.//xaliqat.
  root: xlq
  gramm: N,f
  paradigm: N2
  trans_de: Geschöpf
- trans_en: 
--lexeme
- lex: xalxolo
- stem: xalxolo.|xalxole.
- root: xlxl
- gramm: N,m
- paradigm: N2
- trans_de: Fußring
- trans_en: 
+ trans_en: creation
 -lexeme
  lex: xalitke
  stem: xalitke.
  root: xlt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Geldbörse
- trans_en: 
+ trans_en: money purse
 -lexeme
  lex: xaloqo
- stem: xaloqo.
+ stem: xaloqo.|xaloqe.
  root: xlq
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schöpfer
- trans_en: 
+ trans_en: maker
 -lexeme
  lex: xalqa
  stem: xalqa.
  root: xlq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ring
- trans_en: 
+ trans_en: ring
 -lexeme
  lex: xamle
  stem: xamle.
  root: xml
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schmuck
- trans_en: 
+ trans_en: jewellery
 -lexeme
  lex: xamma
  stem: xamma.
  root: xmm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rabbiner
- trans_en: 
+ trans_en: rabbi
 -lexeme
  lex: xan
  stem: xan.|xanat.
