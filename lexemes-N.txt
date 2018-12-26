@@ -15724,13 +15724,69 @@
  trans_de: von neuem; dann
  trans_en: then; anew
 -lexeme
- lex: həḏoyo
- stem: həḏoyo.|həḏoye.
+ lex: hə
+ stem: hə.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: husch husch; hm!
+ trans_en: hush hush; hm!
+-lexeme
+ lex: hədam
+ stem: hədam.
+ root: hdm
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Grenze, Nähe; (auch) zeitlich
+ trans_en: border, proximity; also in a temporal sense
+-lexeme
+ lex: həḏoyo/huḏoyo
+ stem: həḏoyo.//huḏoyo.|həḏoye.//huḏoye.
  root: hwd
  gramm: N,m
  paradigm: N2
- trans_de: Hıḏoyo m, pl –e Jude
- trans_en: 
+ trans_de: Jude
+ trans_en: jew
+-lexeme
+ lex: həh
+ stem: həh.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: so groß!
+ trans_en: so big!
+-lexeme
+ lex: həlm/hulm
+ stem: həlm.//hulm.
+ root: hlm
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Dunst, Dampf
+ trans_en: steam, vapour
+-lexeme
+ lex: həmbez
+ stem: həmbez.
+ root: hmbz
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Umarmung; Machtbereich; siegreicher Griff beim Ringen
+ trans_en: embrace; area of control; victorious grasp by wrestling
+-lexeme
+ lex: həmma/humma
+ stem: həmma.//humma.
+ root: hmm
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Kraft des Getreides, die durch Unkraut vermindert wird; die Kraft, die der Pflanze aus der Erde zufließt
+ trans_en: strength of corn which is diminished by weeds; strength which flows to a plant from earth
+-lexeme
+ lex: hən
+ stem: hən.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: einige, etliche
+ trans_en: some, a few
 -lexeme
  lex: hənčanke
  stem: hənčanke.|hənčankat.
@@ -15738,39 +15794,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleines irdenes Gefäß mit Ständer
- trans_en: 
+ trans_en: small clay vessel with support
 -lexeme
  lex: hənd
  stem: hənd.
  root: hnd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Indien
- trans_en: 
+ trans_en: India
 -lexeme
  lex: həndi
  stem: həndi.|hindiye.
  root: hnd
  gramm: N,m
  paradigm: N2
- trans_de: Həndiye Hindi m; f, pl Hindiye Inder, indisch
- trans_en: 
+ trans_de: Inder, indisch
+ trans_en: an Indian, indian
 -lexeme
  lex: həngəle
- stem: həngəle.
+ stem: həngəle.|həngalat.
  root: hngl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Henkel am Krug
- trans_en: 
+ trans_en: handle on a pitcher
+-lexeme
+ lex: həngi
+ stem: həngi.
+ root: hng
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: da so viel, da so sehr
+ trans_en: since so much
+-lexeme
+ lex: hənglis/həngliz/əngliz/ingliz
+ stem: hənglis.//həngliz.//əngliz.//ənglis.
+ root: nglz
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: England
+ trans_en: England
 -lexeme
  lex: hənglisi/hənglizi
- stem: hənglisi/hənglizi.|hinglisiye.
+ stem: hənglisi.//hənglizi.//ənglizi.//ənglisi.|hənglisiye.//həngliziye.//əngliziye.//ənglisiye.
  root: hngls/hnglz
  gramm: N,m
  paradigm: N2
- trans_de: Hinglizi, hinglisi f, pl Hinglisiye Engländer, englisch
- trans_en: 
+ trans_de: Engländer, englisch
+ trans_en: an English, english
+-lexeme
+ lex: hənna
+ stem: hənna.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: irgendwelche, einige Leute
+ trans_en: some people
 -lexeme
  lex: hərč
  stem: hərč.|hərčat.
@@ -15778,23 +15858,103 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bär
- trans_en: 
+ trans_en: bear
 -lexeme
- lex: həruro
- stem: həruro.
+ lex: həruro/həroro/huroro/horuro
+ stem: həruro.//həroro.//huroro.//horuro.
  root: hrr
  gramm: N,m
- paradigm: N1
- trans_de: schärpenartiges Rangabzeichen für Diakone nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: schärpenartiges Rangabzeichen für Diakone
+ trans_en: <...> insignia for deacons
 -lexeme
- lex: həšara
- stem: həšara.
- root: ʔšr
- gramm: N,f
- paradigm: N1
- trans_de: Zeichen nicht
- trans_en: 
+ lex: hərzat
+ stem: hərzat.
+ root: hrz
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Ärger
+ trans_en: anger
+-lexeme
+ lex: həš
+ stem: həš.
+ roo: hš
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ruhe! Stille!
+ trans_en: calm down! silence!
+-lexeme
+ lex: həš
+ stem: həš.
+ root: hš
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Bewußtsein, Verstand, Besinnung
+ trans_en: consciousness, understanding, reflection
+-lexeme
+ lex: həškara/haškara
+ stem: həškara.//haškara.
+ root: hškr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: offenbar, klar
+ trans_en: open, clear
+-lexeme
+ lex: hič
+ stem: hič.
+ root: hč
+ gramm: N
+ paradigm: <?>
+ trans_de: von Durst wahnsinniges Kamel
+ trans_en: camel in frenzy from thirst
+-lexeme
+ lex: hič
+ stem: hič.
+ root: hč
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: toll (von Kamelen und anderen Tieren, auch Menschen), die man dann nicht zurückhalten kann
+ trans_en: crazy (about camels and other animals, also about humans who cannot be held back)
+-lexeme
+ lex: hič/hiš
+ stem: hič.//hiš.
+ root: hč
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: in neg. Sätzen: gar nicht
+ trans_en: in negative clauses: not at all
+-lexeme
+ lex: hihi
+ stem: hihi.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: hilo
+ stem: hilo.
+ root: hl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: o weh!
+ trans_en: o woe!
+-lexeme
+ lex: hn
+ stem: hn.
+ root: hn
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Interjektion, die auf versteckten Nebensinn hinweist, den mann durchschaut hat. hm! aha!
+ trans_en: interjection which hints at a hidden connotation which a person has reallized. hm! aha!
+-lexeme
+ lex: hnavat
+ stem: hnavat.
+ root: hnv
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Eingeweide (fig.)
+ trans_en: bowels (fig.)
 -lexeme
  lex: hno
  stem: hno.|hne.
@@ -15802,95 +15962,159 @@
  gramm: N,m
  paradigm: N2
  trans_de: Flickwort, das man braucht, wenn einem das richtige Wort nicht einfällt (wie t şe)
- trans_en: 
+ trans_en: filler word which a person needs when the right word does not come to mind
+-lexeme
+ lex: ho
+ stem: ho.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: oh; oho
+ trans_en: oh! oh wow
+-lexeme
+ lex: hoh
+ stem: hoh.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: oho!
+ trans_en: oh my!
+-lexeme
+ lex: hoho
+ stem: hoho.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: hoho! Erwiderung auf unmögliche Behauptung
+ trans_en: hoho! answer on an impossible suggestion
 -lexeme
  lex: hole
  stem: hole.
  root: hl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlagspiel mit dem Horn
- trans_en: 
+ trans_en: <...> with a horn
+-lexeme
+ lex: hollanda
+ stem: hollanda.
+ root: hlnd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Holland
+ trans_en: Holland
+-lexeme
+ lex: hollandi
+ stem: hollandi.|hollandiye.
+ root: hlnd
+ gramm: ADJ
+ paradigm: N2
+ trans_de: Holländer, holländisch
+ trans_en: a Dutch, dutch
+-lexeme
+ lex: hone
+ stem: hone.
+ root: hn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: hier, da; dort
+ trans_en: hier, there
+-lexeme
+ lex: honike
+ stem: honike.
+ root: hnk
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: dort (in Deuteweite)
+ trans_en: there (in <...>)
+-lexeme
+ lex: hop
+ stem: hop.
+ root: hp
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: hopp!
+ trans_en: hop!
 -lexeme
  lex: horos
  stem: horos.
  root: hrs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Russland
- trans_en: 
+ trans_en: Russia
 -lexeme
  lex: horosi
  stem: horosi.|horosiye.
  root: hrs
  gramm: N,m
  paradigm: N2
- trans_de: horosiye Horosi m; f, pl Horosiye Russe, russisch
- trans_en: 
--lexeme
- lex: horuro
- stem: horuro.
- root: hrr
- gramm: N,m
- paradigm: N1
- trans_de: schärpenartiges Rangabzeichen der Diakone
- trans_en: 
+ trans_de: Russe, russisch
+ trans_en: a Russian, russian
 -lexeme
  lex: hosta
  stem: hosta.|hostawin.//hostawat.
  root: hst
  gramm: N,m
  paradigm: N2
- trans_de: hostawat Meister
- trans_en: 
+ trans_de: Meister
+ trans_en: owner, master
 -lexeme
  lex: hučke
  stem: hučke.|hučkat.
  root: hčk
  gramm: N,f
  paradigm: N2
- trans_de: offener Ärmel
- trans_en: 
+ trans_de: langer, offener Ärmel
+ trans_en: long, open sleeve
 -lexeme
  lex: huḏo
- stem: huḏo.
+ stem: huḏo.|huḏe.
  root: hḏ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: brennendes Holzscheit, Kienspahn
- trans_en: 
+ trans_en: burning log, pine kindling-wood
 -lexeme
  lex: huḏoyo
  stem: huḏoyo.|huḏoye.
  root: hwd
  gramm: N,m
  paradigm: N2
- trans_de: Huḏoyo m, pl –e Jude
- trans_en: 
+ trans_de: Jude
+ trans_en: jew
 -lexeme
- lex: hŭǧum
- stem: hŭǧum.|hŭǧumat.
+ lex: huǧum
+ stem: huǧum.|huǧumat.
  root: hǧm
  gramm: N,m
  paradigm: N2
  trans_de: Angriff
- trans_en: 
+ trans_en: attack
 -lexeme
- lex: hulm
- stem: hulm.
- root: hlm
- gramm: N,m
- paradigm: N1
- trans_de: Dampf, Wasserdampf
- trans_en: 
+ lex: hul/hol/hu
+ stem: hul.//hol.//hu.
+ root: hl
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: bis, ehe, solange
+ trans_en: until, before, as long as
 -lexeme
- lex: humma
- stem: humma.
- root: hmm
- gramm: N,f
- paradigm: N1
- trans_de: die Kraft, die der Pflanze aus der Erde zufließt
- trans_en: 
+ lex: hun
+ stem: hun.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: ihr
+ trans_en: you (pl.)
+-lexeme
+ lex: hurək
+ stem: hurək.
+ root: hrk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kleinkörnig, fein; schmächtig, kurz und schmal
+ trans_en: finely grained, thin;
 -lexeme
  lex: huryo
  stem: huryo.
