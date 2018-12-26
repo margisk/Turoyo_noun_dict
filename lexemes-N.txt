@@ -38975,41 +38975,65 @@
  stem: wolt.
  root: wlt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Volt
- trans_en: 
+ trans_en: volt
 -lexeme
- lex: wŭǧud
- stem: wŭǧud.
+ lex: wuǧud
+ stem: wuǧud.
  root: wǧd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Körper; Dasein
- trans_en: 
+ trans_en: body; existence
 -lexeme
  lex: wulf
  stem: wulf.
  root: wlf
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zuneigung, Freundschaft
- trans_en: 
+ trans_en: affection, friendship
 -lexeme
  lex: wuqḥiye
  stem: wuqḥiye.
  root: wqḥ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zudringlichkeit
- trans_en: 
+ trans_en: impertinence
+-lexeme
+ lex: wuzara
+ stem: wuzara.|wizara.
+ root: wzr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Wesir
+ trans_en: vizier
+-lexeme
+ lex: x
+ stem: x.
+ root: x
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wie
+ trans_en: how
+-lexeme
+ lex: xa
+ stem: xa.
+ root: x
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: dann, leitet den Nachsatz des Bedingungssatzes ein
+ trans_en: then, introduces the suffix of the conditional clause
 -lexeme
  lex: xabozo
  stem: xabozo.
  root: xbz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bäcker
- trans_en: 
+ trans_en: baker
 -lexeme
  lex: xabro
  stem: xabro.|xabre.
@@ -39017,39 +39041,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Wort, Rede, Gerücht, Kunde, Neuigkeit
- trans_en: 
+ trans_en: word, speech, rumor, customer, news
 -lexeme
  lex: xačxačoke
  stem: xačxačoke.|xačxačokat.
  root: xčxčk
  gramm: N,f
  paradigm: N2
- trans_de: Eidechse, die einen Laut „
- trans_en: 
+ trans_de: Eidechse, die einen Laut „č č“ von sich gibt, eine Spanne lang
+ trans_en: lizard making a sound „č č“ a span long
 -lexeme
  lex: xadame
  stem: xadame.
  root: xdm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Dienst
- trans_en: 
+ trans_en: service
 -lexeme
  lex: xadəmto
  stem: xadəmto.
  root: xdm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Dienerin
- trans_en: 
--lexeme
- lex: xadomo
- stem: xadomo.
- root: xdm
- gramm: N,m
- paradigm: N1
- trans_de: Diener
- trans_en: 
+ trans_en: maid servant
 -lexeme
  lex: xafke
  stem: xafke.|xafkat.
@@ -39555,8 +39571,8 @@
  trans_de: Pflanze, deren Wurzel man isst
  trans_en: edible roots plants
 -lexeme
- lex: xəd/xd
- stem: xəd.//xd.
+ lex: xəd/xd/xud/xəḏ/xḏ
+ stem: xəd.//xd.//xud.//xəḏ.//xḏ.
  root: xd
  gramm: ADV
  paradigm: unchangeable
@@ -39843,8 +39859,8 @@
  trans_de: ungefähr
  trans_en: approximately
 -lexeme
- lex: xodumo/xudumo/xədumo
- stem: xodumo.//xudumo.//xədumo.|xodume.//xudume.//xədume.
+ lex: xodumo/xudumo/xədumo/xadomo
+ stem: xodumo.//xudumo.//xədumo.//xadomo.|xodume.//xudume.//xədume.//xadome.//xadame.
  root: xdm
  gramm: N,m
  paradigm: N2
@@ -39954,14 +39970,6 @@
  paradigm: N2
  trans_de: Ackerfurche
  trans_en: furrow
--lexeme
- lex: xud
- stem: xud.
- root: xd
- gramm: ADV
- paradigm: unchangeable
- trans_de: wie
- trans_en: how
 -lexeme
  lex: xude
  stem: xude.
