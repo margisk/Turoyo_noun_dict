@@ -16188,8 +16188,8 @@
  trans_de: Mann aus Ḥabisnas, Ḥabsis
  trans_en: person from Ḥabisnas, Ḥabsis
 -lexeme
- lex: ḥabbis/ḥabəs/ḥabis/ḥapəs/ḥabs/ḥaps
- stem: ḥabbis.//ḥabis.//ḥabəs.//ḥapəs.//ḥabs.//ḥaps.|ḥabbisat.//ḥabisa.//ḥabsat.//ḥapsat.
+ lex: ḥabbis/ḥabəs/ḥabis/ḥapəs/ḥabs/ḥaps/ḥappəs
+ stem: ḥabbis.//ḥabis.//ḥabəs.//ḥapəs.//ḥabs.//ḥaps.//ḥappəs.|ḥabbisat.//ḥabisa.//ḥabsat.//ḥapsat.
  root: ḥbs
  gramm: N,m
  paradigm: N2
@@ -16598,62 +16598,107 @@
 -lexeme
  lex: ḥalwoniṯo
  stem: ḥalwoniṯo.
+ root: ḥlw
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Wolfsmilch, Euphorbia craspedia Beiss; Pflanze, die einen milchigen Saft von sich gibt, wenn man die Stengel bricht; harntreibend
+ trans_en: spurge, Euphorbia craspedia Beiss; plant which produces milky juicy, when its stalk is broken; diuretic
 -lexeme
  lex: ḥalyo
  stem: ḥalyo.|ḥalye.
  root: ḥlw
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: süß
+ trans_en: sweet
 -lexeme
  lex: ḥalyuṯo
- stem: ḥalyuṯo.|ḥəlyawoṯo.
+ stem: ḥalyuṯo.|ḥəlyawoṯo.//ḥəlyawoṯe.
  root: ḥlw
  gramm: N,f
  paradigm: N2
  trans_de: Süßigkeit
- trans_en: 
+ trans_en: sweetness
 -lexeme
- lex: ḥamwiye
- stem: ḥamwiye.
+ lex: ḥamak
+ stem: ḥamak.
+ root: ḥmk
+ gramm: N
+ paradigm: <?>
+ trans_de: Hängematte
+ trans_en: hammock
+-lexeme
+ lex: ḥamawiye
+ stem: ḥamawiye.|ḥamawiyat.
  root: ḥmw
  gramm: N,f
- paradigm: N1
- trans_de: seidenes Kopftuch
- trans_en: 
+ paradigm: N2
+ trans_de: arabisches, seidenes Kopftuch
+ trans_en: Arabic silk headdress
+-lexeme
+ lex: ḥamd
+ stem: ḥamd.|ḥamdin.
+ root: ḥmd
+ gramm: N
+ paradigm: N2
+ trans_de: Absicht
+ trans_en: intention, knowledge
 -lexeme
  lex: ḥammamčiye
- stem: ḥammamčiye.
- root: ḥmmčy
+ root: ḥammamčiye.|ḥammamčiyat.
+ root: ḥmm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Badefrau
- trans_en: 
+ trans_en: female bath-worker
+-lexeme
+ lex: ḥammamiš
+ stem: ḥammamiš.
+ root: ḥmm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Baden
+ trans_en: bathing
 -lexeme
  lex: ḥame
- stem: ḥame.
+ stem: ḥame.|ḥamat.
  root: ḥm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlamm, der aus Brunnen, Teichen und dergl. herausbefördert wird; Inhalt einer Abortgrube
- trans_en: 
+ trans_en: mud, ooze which is removed from wells and ponds; contents of a cesspool
+-lexeme
+ lex: ḥamiʕo
+ stem: ḥamiʕo.|ḥamiʕe.
+ root: ḥmʕ
+ gramm: ADJ
+ paradigm: N2
+ trans_de: sauer
+ trans_en: sour
 -lexeme
  lex: ḥamolo
  stem: ḥamolo.|ḥamole.
  root: ḥml
  gramm: N,m
  paradigm: N2
- trans_de: Lastträger pl
- trans_en: 
+ trans_de: Lastträger
+ trans_en: loader
 -lexeme
  lex: ḥamro
- stem: ḥamro.
+ stem: ḥamro.|ḥamrone.
  root: ḥmr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wein
- trans_en: 
+ trans_en: wine
+-lexeme
+ lex: ḥamušo
+ stem: ḥamuṣo.|ḥamuṣe.
+ root: ḥmṣ
+ gramm: ADJ
+ paradigm: N2
+ trans_de: sauer
+ trans_en: sour
 -lexeme
  lex: ḥanak
  stem: ḥanak.|ḥanake.
@@ -16661,63 +16706,135 @@
  gramm: N,m
  paradigm: N2
  trans_de: Spaß, Scherz, Schäkerei
- trans_en: 
+ trans_en: fun, joke
+-lexeme
+ lex: ḥanakči
+ stem: ḥanakči.
+ root: ḥnk
+ gramm: N,m
+ paradigm: <?>
+ trans_de: zu Späßen aufgelegt, Spaßvogel
+ trans_en: joker, banterer
 -lexeme
  lex: ḥanake
  stem: ḥanake.
  root: ḥnk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Spaß, Scherz
- trans_en: 
+ trans_en: fun, joke
 -lexeme
  lex: ḥanfo
- stem: ḥanfo.
+ stem: ḥanfo.|ḥanfe.
  root: ḥnp
+ gramm: ADJ
+ paradigm: N2
+ trans_de: grausam (eigentl. Heide)
+ trans_en: cruel, savage, ferocious (actually pagan)
+-lexeme
+ lex: ḥannun
+ stem: ḥannun.
+ root: ḥnn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: freundlich, jedermann gut behandelnd
+ trans_en: friendly, treating everyone in good manner
+-lexeme
+ lex: ḥanṭur
+ stem: ḥanṭur.
+ root: ḥnṭr
  gramm: N,m
- paradigm: N1
- trans_de: Heide)
- trans_en: 
+ paradigm: <?>
+ trans_de: Kutsche, Pferdewagen
+ trans_en: carriage, coach
 -lexeme
  lex: ḥapsoyo
- stem: ḥapsoyo.
+ stem: ḥapsoyo.|ḥapsoye.
  root: ḥpsy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mann aus Ḥabsis
- trans_en: 
+ trans_en: person from Ḥabsis
 -lexeme
  lex: ḥaq
- stem: ḥaq.
+ stem: ḥaq.|ḥaqqat.
  root: ḥqq
  gramm: N,m
- paradigm: N1
- trans_de: a) Wahrheit, wahr b) Entgelt, Lohn, auf den man Anspruch hat c) Preis d) Recht
- trans_en: 
+ paradigm: N2
+ trans_de: Wahrheit, wahr; Entgelt, Lohn, auf dem man Anspruch hat; Preis; Recht
+ trans_en: truth, true; reward, salary, pay; price; right
 -lexeme
  lex: ḥaqara
- stem: ḥaqara.
+ stem: ḥaqara.|ḥaqarat.
  root: ḥqr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Beleidigung
- trans_en: 
+ trans_en: insult
 -lexeme
  lex: ḥaqiqa
  stem: ḥaqiqa.
  root: ḥqq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wahrheit
- trans_en: 
+ trans_en: truth
+-lexeme
+ lex: ḥaqiqat
+ stem: ḥaqiqat.
+ root: ḥqq
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wirklich, tatsächlich
+ trans_en: indeed, really
+-lexeme
+ lex: ḥaqiqi
+ stem: ḥaqiqi.
+ root: ḥqq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wahr, wirklich, richtig
+ trans_en: true, real, right
+-lexeme
+ lex: ḥaqiqatan
+ stem: ḥaqiqatan.
+ root: ḥqq
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wirklich
+ trans_en: really, indeed
+-lexeme
+ lex: ḥaqlo
+ stem: ḥaqlo.|ḥaqle.
+ root: ḥql
+ gramm: N,m
+ paradigm: N2
+ trans_de: Terrassenfeld (Rayite)
+ trans_en: terrace field (Rayite)
+-lexeme
+ lex: ḥaqqiye
+ stem: ḥaqqiye.
+ root: ḥqq
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Wahrheit, Recht, richtiges Tun
+ trans_en: truth, right, right deed
 -lexeme
  lex: ḥaraka
  stem: ḥaraka.|ḥarakat.
  root: ḥrk
  gramm: N,f
  paradigm: N2
- trans_de: Aufbruch
- trans_en: 
+ trans_de: Aufbruch; Verhalten, sich einrichten; Bewegung
+ trans_en: departure; acting, arranging; movement
+-lexeme
+ lex: ḥaram
+ stem: ḥaram.
+ root: ḥrm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: (gesetzlich) verboten
+ trans_en: forbidden by law
 -lexeme
  lex: ḥarame
  stem: ḥarame.|ḥaramat.
@@ -16725,23 +16842,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Frau
- trans_en: 
+ trans_en: woman
 -lexeme
  lex: ḥarami
- stem: ḥarami.|ḥaramiiye.
+ stem: ḥarami.|ḥaramiye.
  root: ḥrm
  gramm: N,m
  paradigm: N2
- trans_de: iye Räuber, Dieb
- trans_en: 
+ trans_de: Räuber, Dieb
+ trans_en: thief, marauder
 -lexeme
  lex: ḥaramtiye
  stem: ḥaramtiye.
  root: ḥrm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Räuberhandwerk
- trans_en: 
+ trans_en: marauding
 -lexeme
  lex: ḥarb
  stem: ḥarb.|ḥarbat.
@@ -16749,87 +16866,143 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krieg, Kampf
- trans_en: 
+ trans_en: war, fight
 -lexeme
  lex: ḥarbači
  stem: ḥarbači.
  root: ḥrb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kriegsmann
- trans_en: 
+ trans_en: warrior
 -lexeme
  lex: ḥarbo
  stem: ḥarbo.
  root: ḥrb
  gramm: N,m
- paradigm: N1
- trans_de: a) Ruine b) schlecht
- trans_en: 
+ paradigm: <?>
+ trans_de: Ruine
+ trans_en: ruin
+-lexeme
+ lex: ḥarbo
+ stem: ḥarbo.|ḥarbe.
+ root: ḥrb
+ gramm: ADJ
+ paradigm: N2
+ trans_de: schlecht
+ trans_en: bad
 -lexeme
  lex: ḥarbuṯo
  stem: ḥarbuṯo.
  root: ḥrb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schlechtigkeit, das Böse, das man antut
- trans_en: 
+ trans_en: badness, evil which a person does
+-lexeme
+ lex: ḥariq
+ stem: ḥariq.
+ root: ḥrq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: brennend
+ trans_en: burning
 -lexeme
  lex: ḥarir
  stem: ḥarir.
  root: ḥrr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Seide
- trans_en: 
+ trans_en: silk
 -lexeme
  lex: ḥarire
- stem: ḥarire.
+ stem: ḥarire.|ḥarirat.
  root: ḥll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: mit Mehl verdickter Traubenmost
- trans_en: 
+ trans_en: grape juice thickened with the help of flour
+-lexeme
+ lex: ḥarošo
+ stem: ḥarošo.|ḥaroše.
+ root: ḥrš
+ gramm: ADJ
+ paradigm: N2
+ trans_de: kleine Früchte gebend, auch fig. von Leuten, von denen niemand etwas zukommt
+ trans_en: producing small fruits, also fig. about people from which nothing comes
+-lexeme
+ lex: ḥarošo
+ stem: ḥarošo.|ḥaroše.
+ root: ḥrš
+ gramm: N2
+ paradigm: N2
+ trans_de:
+ trans_en: wizard, sorcerer
 -lexeme
  lex: ḥaroyo
  stem: ḥaroyo.|ḥaroye.
  root: ʔḥr
  gramm: N,m
  paradigm: N2
- trans_de: letzter Ör
- trans_en: 
+ trans_de: letzter
+ trans_en: last
+-lexeme
+ lex: ḥarraǧ
+ stem: ḥarraǧ.
+ root: ḥrǧ
+ gramm: N
+ paradigm: <?>
+ trans_de: Herausforderung
+ trans_en: challenge
 -lexeme
  lex: ḥarṣapṯo
  stem: ḥarṣapṯo.
  root: ḥrṣpṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Hagel
- trans_en: 
+ trans_en: hail
 -lexeme
  lex: ḥaršo
  stem: ḥaršo.|ḥarše.
  root: ḥrš
  gramm: N,m
  paradigm: N2
- trans_de: Zauber (im pl gebräuchlich
- trans_en: 
+ trans_de: Zauber 
+ trans_en: charm, magic
 -lexeme
  lex: ḥarufo
- stem: ḥarufo.
+ stem: ḥarufo.|ḥarufe.
  root: ḥrf
  gramm: N,m
- paradigm: N1
- trans_de: Pfeffer)
- trans_en: 
+ paradigm: N2
+ trans_de: scharf (auch von Pfeffer)
+ trans_en: sharp; spicy
+-lexeme
+ lex: ḥaruṯo
+ stem: ḥaruṯo.
+ root: ʔḥr
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥasab
  stem: ḥasab.
  root: ḥsb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Rechnung
- trans_en: 
+ trans_en: counting, account
+-lexeme
+ lex: ḥasani
+ stem: ḥasani.
+ root: ḥsn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: runde Weinbeere
+ trans_en: round grapes
 -lexeme
  lex: ḥasqiye
  stem: ḥasqiye.|ḥasqiyat.
@@ -16837,7 +17010,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hosenträger
- trans_en: 
+ trans_en: braces, suspenders
 -lexeme
  lex: ḥasyo
  stem: ḥasyo.|ḥasye.
@@ -16845,31 +17018,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Titel für Metropoliten
- trans_en: 
+ trans_en: title for metropolitans; bishop
 -lexeme
  lex: ḥasyuṯo
  stem: ḥasyuṯo.
  root: ḥsy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Würde des Metropoliten
- trans_en: 
+ trans_en: bishop's rank
+-lexeme
+ lex: ḥaṣəl
+ stem: ḥaṣəl.
+ root: ḥṣl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kurz und gut
+ trans_en: to sum up
 -lexeme
  lex: ḥaṣlo
- stem: ḥaṣlo.
+ stem: ḥaṣlo.|ḥaṣle.
  root: ḥṣl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tribut, Zehnter
- trans_en: 
+ trans_en: tribute, tithe
 -lexeme
  lex: ḥaṣo
  stem: ḥaṣo.|ḥaṣe.
  root: ḥṣ
  gramm: N,m
  paradigm: N2
- trans_de: a) Hüfte b) Rücken c) fig: Schutz, Schützer, Hilfe
- trans_en: 
+ trans_de: Hüfte; Rücken; fig. Schutz, Schützer, Hilfe
+ trans_en: hip; back; fig. protection, protector, help
 -lexeme
  lex: ḥaṣodo
  stem: ḥaṣodo.|ḥaṣode.
@@ -16877,7 +17058,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schnitter
- trans_en: 
+ trans_en: reaper
 -lexeme
  lex: ḥaṣra
  stem: ḥaṣra.
