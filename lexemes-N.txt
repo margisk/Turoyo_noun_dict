@@ -15876,8 +15876,8 @@
  trans_de: Ärger
  trans_en: anger
 -lexeme
- lex: həš
- stem: həš.
+ lex: həš/huš
+ stem: həš.//huš.
  roo: hš
  gramm: INTERJ
  paradigm: unchangeable
@@ -16114,223 +16114,191 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: kleinkörnig, fein; schmächtig, kurz und schmal
- trans_en: finely grained, thin;
+ trans_en: finely grained, thin; slender, short and narrow
 -lexeme
  lex: huryo
- stem: huryo.
+ stem: huryo.|hurye.
  root: hry
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Krippe
- trans_en: 
+ trans_en: crib
 -lexeme
  lex: ḥa
  stem: ḥa.
  root: ḥ
- gramm: N,m
- paradigm: N1
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: (beim) Leben
+ trans_en: <?>
+-lexeme
+ lex: ḥa
+ stem: ḥa.
+ root: ḥ
+ gramm: PRN
+ paradigm: unchangeable
  trans_de: einer
- trans_en: 
+ trans_en: one
 -lexeme
  lex: ḥabbe
  stem: ḥabbe.|ḥabbayat.//ḥabbat.//ḥappoṯe.
  root: ḥbb
  gramm: N,f
  paradigm: N2
- trans_de: a) Pille b) Geschwür; pl
- trans_en: 
+ trans_de: Pille
+ trans_en: pill
 -lexeme
  lex: ḥabaši
- stem: ḥabaši.|ḥabaşiye.
+ stem: ḥabaši.|ḥabašiye.
  root: ḥbš
  gramm: N,m
  paradigm: N2
  trans_de: Äthiopier, äthiopisch
- trans_en: 
+ trans_en: an Ethiopian, ethiopian
 -lexeme
  lex: ḥabbi
  stem: ḥabbi.
  root: ḥbb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kern, besonders der Baumwolle
- trans_en: 
+ trans_en: seed, especially of cotton
 -lexeme
  lex: ḥabbəke
  stem: ḥabbəke.|ḥabbəkat.
  root: ḥbb
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: Pille
- trans_en: 
+ trans_en: pill
+-lexeme
+ lex: ḥabbərman
+ stem: ḥabbərman.
+ root: ḥbrmn
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: getrocknete Granatapfelkerne, zum Würzen von Suppen
+ trans_en: dried pomegranate seeds, (used) as a seasoning for soups
 -lexeme
  lex: ḥabəsnasoyo
- stem: ḥabəsnasoyo.
+ stem: ḥabəsnasoyo.|ḥabəsnasoye.
  root: ḥbsnsy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mann aus Ḥabisnas, Ḥabsis
- trans_en: 
+ trans_en: person from Ḥabisnas, Ḥabsis
 -lexeme
- lex: ḥab(b)is/ḥabəs
- stem: ḥab(b)is/ḥabəs.
+ lex: ḥabbis/ḥabəs/ḥabis/ḥapəs/ḥabs/ḥaps
+ stem: ḥabbis.//ḥabis.//ḥabəs.//ḥapəs.//ḥabs.//ḥaps.|ḥabbisat.//ḥabisa.//ḥabsat.//ḥapsat.
  root: ḥbs
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gefängnis
- trans_en: 
+ trans_en: prison
 -lexeme
  lex: ḥabib
  stem: ḥabib.
  root: ḥbb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geliebter
- trans_en: 
+ trans_en: beloved one
 -lexeme
  lex: ḥabo
  stem: ḥabo.
  root: ḥb
  gramm: N,f
- paradigm: N1
- trans_de: a) Pestbeule b) leichte Verwünschung, die die Mutter für das unartige Kind gebraucht
- trans_en: 
+ paradigm: <?>
+ trans_de: Pestbeule; leichte Verwünschung, die die Mutter für das unartige Kind gebraucht
+ trans_en: pestilential bubo; light curse which a mother uses for a naughty child
 -lexeme
  lex: ḥabra
- stem: ḥabra.
+ stem: ḥabra.|ḥabrat.
  root: ḥbr
  gramm: N,f
- paradigm: N1
- trans_de: Tatze
- trans_en: 
--lexeme
- lex: ḥabs
- stem: ḥabs.|ḥabsat.
- root: ḥbs
- gramm: N,m
  paradigm: N2
- trans_de: Gefängnis
- trans_en: 
+ trans_de: Tatze
+ trans_en: paw
 -lexeme
- lex: ḥabsoyo
- stem: ḥabsoyo.
+ lex: ḥabsoyo/ḥapsoyo
+ stem: ḥabsoyo.//ḥapsoyo.|ḥabsoye.//ḥapsoye.
  root: ḥbsy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mann aus Ḥabsis
- trans_en: 
+ trans_en: person out of Ḥabsis
 -lexeme
- lex: ḥabṯo
- stem: ḥabṯo.
+ lex: ḥabṯo/ḥapṯo
+ stem: ḥabṯo.//ḥapṯo.|ḥappoṯe.//ḥappoṯo.
  root: ḥbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stück, Kern
- trans_en: 
+ trans_en: piece; seed
 -lexeme
  lex: ḥabuško
- stem: ḥabuško.
+ stem: ḥabuško.|ḥabuške.
  root: ḥbšk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: N2
  trans_de: Äpfelchen
- trans_en: 
+ trans_en: small apple
 -lexeme
- lex: ḥabušo
- stem: ḥabušo.|ḥabuše.
+ lex: ḥabušo/ḥawušo
+ stem: ḥabušo.//ḥawušo.|ḥabuše.//ḥawuše.
  root: ḥbš
  gramm: N,m
  paradigm: N2
  trans_de: Apfel
- trans_en: 
--lexeme
- lex: ḥaǧǧaǧ
- stem: ḥaǧǧaǧ.|ḥaǧǧaǧ.
- root: ḥǧǧ
- gramm: N,m
- paradigm: N2
- trans_de: Mekkapilger
- trans_en: 
--lexeme
- lex: ḥaǧǧiye
- stem: ḥaǧǧiye.
- root: ḥǧg
- gramm: N,f
- paradigm: N1
- trans_de: Pilgerin
- trans_en: 
--lexeme
- lex: ḥaǧe
- stem: ḥaǧe.|ḥaǧat.
- root: ḥwǧ
- gramm: N,f
- paradigm: N2
- trans_de: Bedarf
- trans_en: 
--lexeme
- lex: ḥaǧiǧiye
- stem: ḥaǧiǧiye.
- root: ḥǧǧ
- gramm: N,f
- paradigm: N1
- trans_de: Mekkapilgerin
- trans_en: 
+ trans_en: apple
 -lexeme
  lex: ḥad
- stem: ḥad.
- root: ḥdd
+ stem: ḥad.|ḥaddat.
+ root: ḥd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Grenze
- trans_en: 
+ trans_en: border
 -lexeme
  lex: ḥadduṯe
- stem: ḥadduṯe.
+ stem: ḥadduṯe.|ḥadduṯat.
  root: ḥdṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Geschichte, Märchen
- trans_en: 
+ trans_en: story, tale
 -lexeme
  lex: ḥadid
- stem: ḥadid.
+ stem: ḥadid.|ḥadidat.
  root: ḥdd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Eisen
- trans_en: 
+ trans_en: iron
 -lexeme
  lex: ḥadidaye
  stem: ḥadidaye.
  root: ḥdd
  gramm: N,f
- paradigm: N1
- trans_de: Gerät mit verschieden großen Löchern um Draht zu ziehen nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Gerät mit verschiedenen großen Löchern um Draht zu ziehen
+ trans_en: <?>
+-lexeme
+ lex: ḥadisa/ḥadiṯa
+ stem: ḥadisa.//ḥadiṯa.|ḥadisat.//ḥadiṯat.//ḥawadəṯ.//ḥawadiṯat.
+ root: ḥds
+ gramm: N,f
+ paradigm: N2
+ trans_de: Geschichte; Angelegenheit
+ trans_en: story; thing, matter
 -lexeme
  lex: ḥadiṯ
  stem: ḥadiṯ.
- root: ḥdṯ
+ root: ḥḏt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geschichte, Sache
- trans_en: 
--lexeme
- lex: ḥadiṯa
- stem: ḥadiṯa.|ḥawadiṯ.//ḥawadiṯat.
- root: ḥdṯ
- gramm: N,f
- paradigm: N2
- trans_de: Geschichte, Angelegenheit
- trans_en: 
--lexeme
- lex: ḥadiṯe
- stem: ḥadiṯe.
- root: ḥdṯ
- gramm: N,f
- paradigm: N1
- trans_de: Geschichte
- trans_en: 
+ trans_en: story, thing
 -lexeme
  lex: ḥadodo
  stem: ḥadodo.|ḥadode.
@@ -16338,95 +16306,151 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schmied
- trans_en: 
+ trans_en: blacksmith
 -lexeme
- lex: ḥaḍər
- stem: ḥaḍər.
- root: ḥḍr
+ lex: ḥaḏ̣aʔər/ḥaḏ̣ayər/ḥaḏaʔər/ḥaḏayər
+ stem: ḥaḏ̣aʔər.//ḥaḏ̣ayər.//ḥaḏaʔər.//ḥaḏayər.
+ root: ḥḏ̣r/ḥḏr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Anwesende
+ trans_en: present
+-lexeme
+ lex: ḥaḏ̣ar/ḥaḏar
+ stem: ḥaḏ̣ar.//ḥaḏar.
+ root: ḥḏ̣r/ḥḏr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Anwesende
+ trans_en: present
+-lexeme
+ lex: ḥaḏ̣ər/ḥaḏər
+ stem: ḥaḏ̣ər.//ḥaḏər.
+ root: ḥḏ̣r/ḥḏr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: zugegen, anwesend
- trans_en: 
+ trans_en: present
 -lexeme
- lex: ḥaḍiro
- stem: ḥaḍiro.|ḥaḍire.
- root: ḥḍr
- gramm: N,m
+ lex: ḥaḏiro/ḥaḏ̣iro
+ stem: ḥaḏ̣iro.//ḥaḏiro.|ḥaḏ̣ire.//ḥaḏire.
+ root: ḥḏr/ḥḏ̣r
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: anwesend
+ trans_en: present
 -lexeme
  lex: ḥafira
- stem: ḥafira.
+ stem: ḥafira.|ḥafirat.
  root: ḥfr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: ausgegrabene Stelle
- trans_en: 
+ trans_en: dug out place
 -lexeme
  lex: ḥafle
- stem: ḥafle.
+ stem: ḥafle.|ḥaflat.
  root: ḥfl
  gramm: N,f
- paradigm: N1
- trans_de: Hochzeit
- trans_en: 
--lexeme
- lex: ḥafrit
- stem: ḥafrit.|ḥafritin.//ḥafritat.//ḥafritawat.//ḥafrite.
- root: ḥfrt
- gramm: N,m
  paradigm: N2
- trans_de: Ungeheuer, Geist, Dschinn
- trans_en: 
+ trans_de: Hochzeit
+ trans_en: wedding
+-lexeme
+ lex: ḥafriyat
+ stem: ḥafriyat.
+ root: ḥfr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Ausschachtungen, Ausbaggerungen
+ trans_en: excavations
 -lexeme
  lex: ḥafro
  stem: ḥafro.|ḥafre.
  root: ḥfr
  gramm: N,m
  paradigm: N2
- trans_de: Grabungsstätte
- trans_en: 
+ trans_de: Grabungsstatt
+ trans_en: place of excavation
 -lexeme
- lex: ḥafrofo
- stem: ḥafrofo.|ḥafrofe.
- root: ḥfrf
+ lex: ḥafrofo/ḥirafrofo
+ stem: ḥafrofo.//ḥirafrofo.|ḥafrofe.//ḥirafrofe.
+ root: ḥfr
  gramm: N,m
  paradigm: N2
- trans_de: spargelähnliche Pflanze, die gegessen wird S
- trans_en: 
+ trans_de: spargelähnliche Pflanze, die gegessen wird
+ trans_en: <...> plant which can be eaten
 -lexeme
  lex: ḥaftiye
- stem: ḥaftiye.
- root: ḥft
+ stem: ḥaftiye.|ḥaftiyat.
+ root: ḥft
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Woche
- trans_en: 
+ trans_en: week
 -lexeme
  lex: ḥago
- stem: ḥago.
+ stem: ḥago.|ḥage.
  root: ḥg
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kreis der Tanzenden
- trans_en: 
+ trans_en: circle of dancers
+-lexeme
+ lex: ḥaǧǧaǧ
+ stem: ḥaǧǧaǧ.|ḥaǧǧaǧ.
+ root: ḥǧǧ
+ gramm: N,m
+ paradigm: N2
+ trans_de: Mekkapilger
+ trans_en: Mecca pilgrims
+-lexeme
+ lex: ḥaǧǧiye
+ stem: ḥaǧǧiye.|ḥaǧǧiyat.
+ root: ḥǧg
+ gramm: N,f
+ paradigm: N2
+ trans_de: Pilgerin
+ trans_en: female pilgrim
+-lexeme
+ lex: ḥaǧe/ḥaže
+ stem: ḥaǧe.//ḥaže.|ḥaǧat.//ḥažat.
+ root: ḥwǧ
+ gramm: N,f
+ paradigm: N2
+ trans_de: Bedarf
+ trans_en: need
+-lexeme
+ lex: ḥaǧiǧiye
+ stem: ḥaǧiǧiye.|ḥaǧiǧiyat.
+ root: ḥǧǧ
+ gramm: N,f
+ paradigm: N2
+ trans_de: Mekkapilgerin
+ trans_en: female Mecca pilgrim
 -lexeme
  lex: ḥakəm
- stem: ḥakəm.
+ stem: ḥakəm.|ḥakəmin.
  root: ḥkm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Richter; Fürst, Gouverneur
- trans_en: 
+ trans_en: judge; ruler, governor
 -lexeme
  lex: ḥakəmliye
  stem: ḥakəmliye.
  root: ḥkm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Herrschaft
- trans_en: 
+ trans_en: dominion, rule
+-lexeme
+ lex: ḥakəmtiye
+ stem: ḥakəmtiye.
+ root: ḥkm
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Herrschaft
+ trans_en: dominion, rule
 -lexeme
  lex: ḥakimo
  stem: ḥakimo.|ḥakime.
@@ -16434,119 +16458,146 @@
  gramm: N,m
  paradigm: N2
  trans_de: Arzt
- trans_en: 
+ trans_en: doctor
 -lexeme
  lex: ḥakuwe
- stem: ḥakuwe.
+ stem: ḥakuwe.|ḥakuwat.
  root: ḥky
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Erzählung, Märchen
- trans_en: 
+ trans_en: story, tale
 -lexeme
  lex: ḥal
- stem: ḥal.
+ stem: ḥal.|ḥale.//ḥalat.
  root: ḥwl
  gramm: N,f
- paradigm: N1
- trans_de: Zustand
- trans_en: 
+ paradigm: N2
+ trans_de: Zustand; Ergehen; Augenblick
+ trans_en: state, situation; well-being; moment
 -lexeme
  lex: ḥala
  stem: ḥala.
  root: ḥl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: jede Art von Süßigkeit, die aus Traubenmost hergestellt ist
- trans_en: 
+ trans_en: every art of sweet which is produced from grape juice
 -lexeme
  lex: ḥalal
  stem: ḥalal.
  root: ḥll
  gramm: N,m
- paradigm: N1
- trans_de: gesetzlich erlaubt PrS
- trans_en: 
+ paradigm: ADJ
+ trans_de: gesetzlich, erlaubt
+ trans_en: lawful, allowed
+-lexeme
+ lex: ḥalaltiye
+ stem: ḥalaltiye.
+ root: ḥll
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: gesetzliche Ehe
+ trans_en: lawful marriage
 -lexeme
  lex: ḥalaliye
  stem: ḥalaliye.
  root: ḥll
  gramm: N,f
- paradigm: N1
- trans_de: ein, Rechtmäßigkeit, Zulässigkeit
- trans_en: 
+ paradigm: unchangeable
+ trans_de: gesetzlich erlaubt sein, Rechtmäßigkeit, Zulässigkeit
+ trans_en: being allowed by law, lawfulness, legitimacy, admissibility
+-lexeme
+ lex: ḥalan
+ stem: ḥalan.
+ root: ḥl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sogleich, sofort
+ trans_en: immediately, soon
 -lexeme
  lex: ḥalawa/ḥalawe
- stem: ḥalawa/ḥalawe.
+ stem: ḥalawa.//ḥalawe.
  root: ḥlw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Süßigkeit, Helwa
- trans_en: 
+ trans_en: sweet, halva
 -lexeme
  lex: ḥalawči
  stem: ḥalawči.
  root: ḥlw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Süßigkeitenverkäufer
- trans_en: 
+ trans_en: seller of sweets
 -lexeme
  lex: ḥalile
- stem: ḥalile.
+ stem: ḥalile.|ḥalilat.
  root: ḥll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: getrockneter Traubensaft wird mit Mehl eingekocht und bleibt stehen, bis er kalt wird, in Tellern oder Schüsseln. Dann wird er mit dme Messer in Stücke geschnitten
- trans_en: 
+ trans_en: dried grape juice is cooked with flour and is kept in plates or bowls, until it become cold. Then it is cut into pieces with a knife
 -lexeme
  lex: ḥalim
  stem: ḥalim.
  root: ḥlm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Grund und Boden
- trans_en: 
+ trans_en: earth, ground
 -lexeme
  lex: ḥalo
  stem: ḥalo.
  root: ḥl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bodenfläche, Tapet
- trans_en: 
+ trans_en: floor space, wallpaper
 -lexeme
  lex: ḥaloqa
- stem: ḥaloqa.
+ stem: ḥaloqa.|ḥaloqat.
  root: ḥlq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Haken, Ring
- trans_en: 
+ trans_en: hook; ring
+-lexeme
+ lex: ḥaloqo
+ stem: ḥaloqo.|ḥaloqe.
+ root: ḥlq
+ gramm: N,m
+ paradigm: N2
+ trans_de: Haarschneider, Haarscherer
+ trans_en: hairdresser
 -lexeme
  lex: ḥaloqo
  stem: ḥaloqo.
  root: ḥlq
  gramm: N,m
- paradigm: N1
- trans_de: a) Haarschneider, Haarscherer b) Kreis
- trans_en: 
+ paradigm: <?>
+ trans_de: Kreis
+ trans_en: circle
 -lexeme
- lex: ḥaluqto
- stem: ḥaluqto.|ḥaləqyoṯo.
+ lex: ḥaluqto/ḥaləqto
+ stem: ḥaluqto.//ḥaləqto.|ḥaləqyoṯo.//ḥaləqyoṯe.
  root: ḥlq
  gramm: N,f
  paradigm: N2
  trans_de: Ring
- trans_en: 
+ trans_en: ring, circle
 -lexeme
  lex: ḥalwo
- stem: ḥalwo.
+ stem: ḥalwo.|ḥalwone.
  root: ḥlb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Milch
- trans_en: 
+ trans_en: milk
+-lexeme
+ lex: ḥalwoniṯo
+ stem: ḥalwoniṯo.
 -lexeme
  lex: ḥalyo
  stem: ḥalyo.|ḥalye.
