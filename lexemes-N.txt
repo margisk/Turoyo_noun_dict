@@ -17061,36 +17061,76 @@
  trans_en: reaper
 -lexeme
  lex: ḥaṣra
- stem: ḥaṣra.
+ stem: ḥaṣra.|ḥaṣrat.
  root: ḥṣr
  gramm: N,f
- paradigm: N1
- trans_de: Kummer
- trans_en: 
+ paradigm: N2
+ trans_de: stark atmen aus Kummer; Sehnsucht
+ trans_en: longing; heavy breathing because of some concern
+-lexeme
+ lex: ḥašša/ḥaša
+ stem: ḥašša.//ḥaša
+ root: ḥš
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: mit Verlaub zu sagen, mit Respekt zu vermelden (wenn man von Hund oder Esel oder sonst etwas Unschicklichem spricht)
+ trans_en: if I may, if you allow me to say (when someone speaks about a dog or a donkey or about something else which is inappropriate)
+-lexeme
+ lex: ḥašara/ḥšara
+ stem: ḥašara.//ḥšara.|ḥašarat.//ḥšarat.
+ root: ʔšr
+ gramm: N,f
+ paradigm: N2
+ trans_de: Zeichen
+ trans_en: sign
 -lexeme
  lex: ḥašara
  stem: ḥašara.
- root: ʔšr
- gramm: N,f
- paradigm: N1
- trans_de: Zeichen
- trans_en: 
+ root: ḥšr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: ḥašo
+ stem: ḥašo.|ḥaše.
+ root: ḥšš
+ gramm: N,m
+ paradigm: N2
+ trans_de: <?>
+ trans_en: suffering
+-lexeme
+ lex: ḥašri
+ stem: ḥašri.
+ root: ḥšr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Zuruf an Tier, um es zu verscheuchen
+ trans_en: shout at an animal, to scare it away
 -lexeme
  lex: ḥašyo
  stem: ḥašyo.|ḥašye.
  root: ḥšy
  gramm: N,m
  paradigm: N2
- trans_de: Gans, Hammel)
- trans_en: 
+ trans_de: gefüllt (Gans, Hammel)
+ trans_en: filled (goose, wether)
+-lexeme
+ lex: ḥatta
+ stem: ḥatta.
+ root: ḥt
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: damit, dass
+ trans_en: that, so that
 -lexeme
  lex: ḥaṯno
- stem: ḥaṯno.|ḥaṯnawoṯo.
+ stem: ḥaṯno.|ḥaṯnawoṯo.//ḥaṯnawoṯe.
  root: ḥtn
  gramm: N,m
  paradigm: N2
- trans_de: a) Bräutigam b) Schwiegersohn c) Schwager
- trans_en: 
+ trans_de: Bräutigam; Schwiegersohn; Schwager
+ trans_en: bridegroom; son-in-law; brother-in-law
 -lexeme
  lex: ḥaṯo
  stem: ḥaṯo.|ḥaṯe.
