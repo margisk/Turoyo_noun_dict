@@ -17137,8 +17137,8 @@
  root: ḥṯ
  gramm: N,m
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: neu
+ trans_en: new
 -lexeme
  lex: ḥaṭoyo
  stem: ḥaṭoyo.|ḥaṭoye.
@@ -17146,39 +17146,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sünder
- trans_en: 
+ trans_en: sinner
 -lexeme
  lex: ḥaṭro
- stem: ḥaṭro.|ḥaṭroṯe.
+ stem: ḥaṭro.|ḥaṭroṯe.//ḥaṭroṯo.
  root: ḥṭr
  gramm: N,f
  paradigm: N2
  trans_de: Knüppel, Prügel
- trans_en: 
+ trans_en: stick, staff
 -lexeme
  lex: ḥawdal
- stem: ḥawdal.
+ stem: ḥawdal.|ḥawdale.
  root: ḥwdl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: mit Mehl versetzter Traubenmost, der gerührt und dick eingekocht wird
- trans_en: 
+ trans_en: grape syrup mixed with flour, then it is stirred and boiled until it becomes thick
 -lexeme
- lex: ḥawǧa
- stem: ḥawǧa.
+ lex: ḥawǧa/ḥaǧa/ḥaža
+ stem: ḥawǧa.//ḥaǧa.//ḥaža.
  root: ḥwǧ
- gramm: N,f
- paradigm: N1
+ gramm: <?>
+ paradigm: <?>
  trans_de: Bedürfnis, bedürfend, nötig
- trans_en: 
+ trans_en: need; one in need; necessary
 -lexeme
  lex: ḥawǧane/ḥawǧanke
- stem: ḥawǧane/ḥawǧanke.
+ stem: ḥawǧane.//ḥawǧanke.|ḥawǧanat.//ḥawǧankat.
  root: ḥwǧn/ḥwǧnk
  gramm: N,f
- paradigm: N1
- trans_de: eines, ummauertes Feld, Gartenstück
- trans_en: 
+ paradigm: N2
+ trans_de: kleines, ummauertes Feld, Gartenstück
+ trans_en: small, unfenced field, garden
+-lexeme
+ lex: ḥawləlbala
+ stem: ḥawləlbala.
+ root: ḥwlbl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥawlo
  stem: ḥawlo.|ḥawle.
@@ -17186,38 +17194,38 @@
  gramm: N,m
  paradigm: N2
  trans_de: Strick aus Haar, Hanf oder Wolle
- trans_en: 
+ trans_en: rope out of wool or hemp
 -lexeme
  lex: ḥawqo
- stem: ḥawqo.|ḥawqoone.
+ stem: ḥawqo.|ḥawqone.
  root: ḥwq
  gramm: N,m
  paradigm: N2
- trans_de: one Terrasse im Weinberg
- trans_en: 
+ trans_de: Terrasse im Weinberg
+ trans_en: terrace in a vineyard
 -lexeme
  lex: ḥawri
- stem: ḥawri.
+ stem: ḥawri.|ḥawrin.
  root: ḥwr
  gramm: N,m
- paradigm: N1
- trans_de: Ziegenböckchen vom
- trans_en: 
+ paradigm: N2
+ trans_de: Ziegenböckchen vom 4. Jahre an
+ trans_en: goat of four years and older
 -lexeme
  lex: ḥawṭ
  stem: ḥawṭ.
  root: ḥwṭ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wasserbecken
- trans_en: 
+ trans_en: water tank
 -lexeme
- lex: ḥaw(w)e
- stem: ḥaw(w)e.
- root: ḥw(w)
+ lex: ḥawwe
+ stem: ḥawwe.|ḥawwat.
+ root: ḥww
  gramm: N,f
- paradigm: N1
- trans_de: napfgroße Grube im
+ paradigm: N2
+ trans_de: napfgroße Grube im Hōle-Spiel, in der die sog. "Mutter", ein 15 cm langes Stück Horn, untergebracht werden soll
  trans_en: 
 -lexeme
  lex: ḥaw(w)etiye
