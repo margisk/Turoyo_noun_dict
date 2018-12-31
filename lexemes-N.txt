@@ -16124,8 +16124,8 @@
  trans_de: Krippe
  trans_en: crib
 -lexeme
- lex: ḥa
- stem: ḥa.
+ lex: ḥa/ḥə
+ stem: ḥa.//ḥə.
  root: ḥ
  gramm: <?>
  paradigm: unchangeable
@@ -17164,8 +17164,8 @@
  trans_de: mit Mehl versetzter Traubenmost, der gerührt und dick eingekocht wird
  trans_en: grape syrup mixed with flour, then it is stirred and boiled until it becomes thick
 -lexeme
- lex: ḥawǧa/ḥaǧa/ḥaža
- stem: ḥawǧa.//ḥaǧa.//ḥaža.
+ lex: ḥawǧa/ḥaǧa/ḥaža/ḥayǧa/ḥaǧe/ḥaže
+ stem: ḥawǧa.//ḥaǧa.//ḥaža.//ḥayǧa.//ḥaǧe.//ḥaže.
  root: ḥwǧ
  gramm: <?>
  paradigm: <?>
@@ -17220,45 +17220,53 @@
  trans_de: Wasserbecken
  trans_en: water tank
 -lexeme
- lex: ḥawwe
- stem: ḥawwe.|ḥawwat.
+ lex: ḥawwe/ḥawe
+ stem: ḥawwe.//ḥawe.|ḥawwat.//ḥawat.
  root: ḥww
  gramm: N,f
  paradigm: N2
  trans_de: napfgroße Grube im Hōle-Spiel, in der die sog. "Mutter", ein 15 cm langes Stück Horn, untergebracht werden soll
- trans_en: 
+ trans_en: <...> pit in Hōle game in which the so-called "mother", 15 cm long horn, <...>
 -lexeme
- lex: ḥaw(w)etiye
- stem: ḥaw(w)etiye.
- root: ḥw(w)ty
+ lex: ḥawwetiye/ḥawetiye
+ stem: ḥawwetiye.//ḥawetiye.
+ root: ḥwwty
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Unterkunfts-, Zufluchtsmöglichkeit; lo
- trans_en: 
+ trans_en: housing- or asylum possibility
 -lexeme
- lex: ḥawyo
- stem: ḥawyo.
+ lex: ḥawyo/ḥaywo
+ stem: ḥawyo.//ḥaywo.
  root: ḥwy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: männliche Schlange
- trans_en: 
+ trans_en: male snake
+-lexeme
+ lex: ḥawzo
+ stem: ḥawzo.
+ root: ḥwz
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Braut im Haar (Pflanze); Nigella spec., der schwarze Samen in der Kapsel wird auf Pasteten, Fladenbrot und Pudding gestreut; Schwarzkümmel
+ trans_en: ragged lady (plant); Nigella spec., whose black seeds are strewed upon pasty, flatbread or pudding; gith
 -lexeme
  lex: ḥawal
  stem: ḥawal.
  root: ḥwl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Lage, Zustand, Tatbestand
- trans_en: 
+ trans_en: situation, state
 -lexeme
  lex: ḥawuz
  stem: ḥawuz.
  root: ḥwz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wasserbecken
- trans_en: 
+ trans_en: water tank
 -lexeme
  lex: ḥaya
  stem: ḥaya.
@@ -17266,47 +17274,71 @@
  gramm: N,f
  paradigm: N1
  trans_de: Scham
- trans_en: 
+ trans_en: shame
 -lexeme
  lex: ḥayat
  stem: ḥayat.
  root: ḥyy
  gramm: N,m
- paradigm: N1
- trans_de: a) Leben b) (lebensspendendes) schönes Essen und anderes Schöne
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Leben; (lebenspendendes) schönes Essen und anderes Schöne
+ trans_en: life; (invigorating) good food and other good things
+-lexeme
+ lex: ḥaye
+ stem: ḥaye.
+ root: ḥyy
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Leben
+ trans_en: life
+-lexeme
+ lex: ḥayəz
+ stem: ḥayəz.
+ root: ḥyz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥayf
  stem: ḥayf.|ḥayfat.
  root: ḥyf
  gramm: N,m
  paradigm: N2
- trans_de: a) Rache b) Schnande, deren man sich schämen muss
- trans_en: 
+ trans_de: Rache; Schande, deren man sich schämen muss
+ trans_en: revenge; something shameful, disgraceful
 -lexeme
  lex: ḥayfiye
  stem: ḥayfiye.
  root: ḥyf
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Wert
- trans_en: 
+ trans_en: value
 -lexeme
- lex: ḥayǧa
- stem: ḥayǧa.
- root: ḥwǧ
- gramm: N,f
- paradigm: N1
- trans_de: Bedürfnis
- trans_en: 
+ lex: ḥayḥay
+ stem: ḥayḥay.
+ root: ḥyḥy
+ gramm: N
+ paradigm: <?>
+ trans_de: Schnaufen (wie die Rifā ʕIderwische), von Hexe, die ihre Zaubersprüche beginnt
+ trans_en: snuffling (...), of a witch who begins her spell
+-lexeme
+ lex: ḥayḥo
+ stem: ḥayḥo.
+ root: ḥyḥ
+ gramm: <?>
+ paradigm: <?>
+ trans_de: Alarmruf
+ trans_en: alert
 -lexeme
  lex: ḥaylo
- stem: ḥaylo.|ḥaylawoṯe.
+ stem: ḥaylo.|ḥaylawoṯe.//ḥaylawoṯo.
  root: ḥyl
  gramm: N,m
  paradigm: N2
  trans_de: Kraft
- trans_en: 
+ trans_en: might, power
 -lexeme
  lex: ḥayoṭo
  stem: ḥayoṭo.|ḥayoṭe.
@@ -17314,55 +17346,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schneider
- trans_en: 
+ trans_en: tailor
 -lexeme
  lex: ḥayoro
  stem: ḥayoro.|ḥayore.
  root: ḥyr
  gramm: N,m
  paradigm: N2
- trans_de: Seher pl
- trans_en: 
+ trans_de: Seher
+ trans_en: seer
+-lexeme
+ lex: ḥayra/ḥayran
+ stem: ḥayra.//ḥayran.
+ root: ḥyr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: mein Lieber!
+ trans_en: my dear!
 -lexeme
  lex: ḥayṭo
  stem: ḥayṭo.
  root: ḥyṭ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nähen
- trans_en: 
+ trans_en: sewing
 -lexeme
  lex: ḥayumo
  stem: ḥayumo.|ḥayume.
  root: ḥmy
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: heiß
+ trans_en: hot
 -lexeme
  lex: ḥaywan
- stem: ḥaywan.|ḥ(i)yewən.
+ stem: ḥaywan.|ḥayewən.//ḥyewən.//ḥəyewən.
  root: ḥyy
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Tier
+ trans_en: animal
 -lexeme
  lex: ḥaywane
  stem: ḥaywane.
  root: ḥyy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tier
- trans_en: 
--lexeme
- lex: ḥaywo/ḥawyo
- stem: ḥaywo/ḥawyo.
- root: ḥyy
- gramm: N,m
- paradigm: N1
- trans_de: männliche Schlange, lang und schwarz, kann einen totdrücken
- trans_en: 
+ trans_en: animal
 -lexeme
  lex: ḥayye
  stem: ḥayye.|ḥayyat.
@@ -17370,149 +17402,189 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schlange
- trans_en: 
+ trans_en: snake
+-lexeme
+ lex: ḥaz
+ stem: ḥaz.
+ root: ḥz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Liebe
+ trans_en: love
 -lexeme
  lex: ḥazbe
  stem: ḥazbe.
  root: ḥzb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Masern
- trans_en: 
+ trans_en: measles
 -lexeme
- lex: ḥazər(i)ye
- stem: ḥazər(i)ye.|ḥazər(i)yat.
- root: ḥzr()y
+ lex: ḥazəriye
+ stem: ḥazəriye.|ḥazəriyat.
+ root: ḥzr
  gramm: N,f
  paradigm: N2
  trans_de: Vorbereitung, Zurechtmachen
- trans_en: 
+ trans_en: preparation 
 -lexeme
- lex: ḥaže
- stem: ḥaže.
- root: ḥwǧ
- gramm: N,f
- paradigm: N1
- trans_de: Bedürfnis; lat-no b-
- trans_en: 
+ lex: ḥažir
+ stem: ḥažir.
+ root: ḥžr
+ gramm: N
+ paradigm: <?>
+ trans_de: Feige
+ trans_en: fig
 -lexeme
- lex: ḥdud
- stem: ḥdud.
+ lex: ḥdud/ḥudud/ḥədud
+ stem: ḥdud.//ḥudud.//ḥədud.|ḥdudat.//ḥududat.//ḥədudat.
  root: ḥdd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Grenze
- trans_en: 
+ trans_en: border
+-lexeme
+ lex: ḥḏayrat
+ stem: ḥḏayrat.
+ root: ḥzr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Ratsel
+ trans_en: riddle
 -lexeme
  lex: ḥḏo
  stem: ḥḏo.
  root: ḥḏ
- gramm: N,f
- paradigm: N1
- trans_de: eine; hawi
- trans_en: 
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: eine
+ trans_en: one (f.)
+-lexeme
+ lex: ḥḏoḏe
+ stem: ḥḏoḏe.
+ root: ḥḏḏ
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: einander
+ trans_en: each other
 -lexeme
  lex: ḥḏonoyo
- stem: ḥḏonoyo.
+ stem: ḥḏonoyo.|ḥḏonoye.
  root: ḥḏny
- gramm: N,m
- paradigm: N1
+ gramm: ADJ
+ paradigm: N2
  trans_de: Singular
- trans_en: 
+ trans_en: singular
+-lexeme
+ lex: ḥemi
+ stem: ḥemi.
+ root: ḥm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Schuld, Unrecht habend
+ trans_en: guilty, unjust
+-lexeme
+ lex: ḥemo
+ stem: ḥemo.|ḥemone.
+ root: ḥmy
+ gramm: N,m
+ paradigm: N2
+ trans_de: Hitze
+ trans_en: heat
 -lexeme
  lex: ḥemo
  stem: ḥemo.
  root: ḥmy
- gramm: N,m
- paradigm: N1
- trans_de: Hitze, heiß
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de heiß
+ trans_en: hot
 -lexeme
  lex: ḥeno
- stem: ḥeno.
+ stem: ḥeno.|ḥenone.
  root: ḥn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Henna (zum Färben der Hände usw.)
- trans_en: 
+ trans_en: henna (for painting hands and so on)
 -lexeme
  lex: ḥeqəlke
- stem: ḥeqəlke.
+ stem: ḥeqəlke.|ḥeqəlkat.
  root: ḥql
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Haschespiel auf einem Bein
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: ḥešiye
- stem: ḥešiye.
+ stem: ḥešiye.|ḥešiyat.
  root: ḥšy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: runder Stapel von Zweigen mit Blättern daran (für die Ziegen)
- trans_en: 
+ trans_en: round pile of branches with leaves upon it (for goats)
 -lexeme
  lex: ḥeṭo
  stem: ḥeṭo.|ḥeṭe.
  root: ḥṭ
  gramm: N,f
  paradigm: N2
- trans_de: Weizenkorn; pl Weizen
- trans_en: 
+ trans_de: Weizenkorn; pl. Weizen
+ trans_en: wheat grain; wheat
 -lexeme
- lex: ḥeworo
- stem: ḥeworo.
+ lex: ḥeworo/ḥəworo/ḥuworo
+ stem: ḥeworo.//ḥəworo.//ḥuworo.|ḥewore.//ḥəwore.//ḥuwore.
  root: ḥwr
  gramm: N,m
- paradigm: N1
- trans_de: Kf
- trans_en: 
+ paradigm: N2
+ trans_de: weiß
+ trans_en: white
 -lexeme
  lex: ḥfeto
  stem: ḥfeto.
  root: ḥft
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Handvoll
- trans_en: 
+ trans_en: handful
 -lexeme
  lex: ḥəbro
  stem: ḥəbro.
  root: ḥbr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Tinte
- trans_en: 
+ trans_en: ink
 -lexeme
- lex: ḥəǧ
- stem: ḥəǧ.
+ lex: ḥəǧ/ḥaǧ
+ stem: ḥəǧ.//ḥaǧ.
  root: ḥǧǧ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wallfahrt nach Mekka
- trans_en: 
+ trans_en: pilgrimage to Mekka
 -lexeme
  lex: ḥəǧame
  stem: ḥəǧame.|ḥəǧamat.
  root: ḥǧm
  gramm: N,f
  paradigm: N2
- trans_de: Schröpfkopf pl
- trans_en: 
+ trans_de: Schröpfkopf
+ trans_en: wet cup
 -lexeme
  lex: ḥəǧǧa
- stem: ḥəǧǧa.
+ stem: ḥəǧǧa.|ḥəǧǧat.
  root: ḥǧǧ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Rechtsgrund, Vorwand
- trans_en: 
+ trans_en: cause, excuse
 -lexeme
  lex: ḥəčḥarra
  stem: ḥəčḥarra.
  root: ḥčḥr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: dünner Pfeffer
  trans_en: 
 -lexeme
