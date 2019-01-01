@@ -16325,7 +16325,7 @@
  trans_en: present
 -lexeme
  lex: ḥaḏ̣ər/ḥaḏər
- stem: ḥaḏ̣ər.//ḥaḏər.
+ stem: ḥaḏ̣ər.//ḥaḏər.|ḥəḏ̣ḏ̣ar.//ḥəḏḏar.
  root: ḥḏ̣r/ḥḏr
  gramm: N,m
  paradigm: <?>
@@ -16372,8 +16372,8 @@
  trans_de: Grabungsstatt
  trans_en: place of excavation
 -lexeme
- lex: ḥafrofo/ḥirafrofo
- stem: ḥafrofo.//ḥirafrofo.|ḥafrofe.//ḥirafrofe.
+ lex: ḥafrofo/ḥirafrofo/ḥəfrofo/ḥərafrofo.
+ stem: ḥafrofo.//ḥirafrofo.//ḥəfrofo.//ḥərafrofo.|ḥafrofe.//ḥirafrofe.//ḥəfrofe.//ḥərafrofe.
  root: ḥfr
  gramm: N,m
  paradigm: N2
@@ -16652,8 +16652,8 @@
  trans_de: Badefrau
  trans_en: female bath-worker
 -lexeme
- lex: ḥammamiš
- stem: ḥammamiš.
+ lex: ḥammamiš/ḥəmamiš
+ stem: ḥammamiš.//ḥəmamiš.
  root: ḥmm
  gramm: N
  paradigm: unchangeable
@@ -17586,103 +17586,135 @@
  gramm: N,f
  paradigm: <?>
  trans_de: dünner Pfeffer
- trans_en: 
+ trans_en: slim pepper
 -lexeme
- lex: ḥədud
- stem: ḥədud.
- root: ḥdd
- gramm: N,m
- paradigm: N1
- trans_de: Grenze
- trans_en: 
+ lex: ḥəḏ̣ur/ḥuḏ̣ur
+ stem: ḥəḏ̣ur.//ḥəḏur.//ḥuḏ̣ur.//ḥuḏur.
+ root: ḥḏ̣r/ḥḏr
+ gramm: N
+ paradigm: <?>
+ trans_de: Gegenwart
+ trans_en: presence
 -lexeme
- lex: ḥəfrofo
- stem: ḥəfrofo.
- root: ḥfrf
- gramm: N,m
- paradigm: N1
- trans_de: spargelähnliche Pflanze, die gegessen wird
- trans_en: 
--lexeme
- lex: ḥ(ə)keye
- stem: ḥ(ə)keye.|ḥ(ə)keyat.
+ lex: ḥəkeye/ḥkeye
+ stem: ḥəkeye.//ḥkeye.|ḥəkeyat.//ḥkeyat.
  root: ḥky
  gramm: N,f
  paradigm: N2
  trans_de: Geschichte
- trans_en: 
+ trans_en: story
 -lexeme
- lex: ḥəkəm
- stem: ḥəkəm.
+ lex: ḥəkəm/ḥəkm
+ stem: ḥəkəm.//ḥəkm.|ḥəkəmat.//ḥəkmat.
  root: ḥkm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Herrschaft, Urteil
- trans_en: 
+ trans_en: dominion; judgment
 -lexeme
- lex: ḥək(k)oye
- stem: ḥək(k)oye.|ḥək(k)oyat.
+ lex: ḥəkkoye/ḥəkoye
+ stem: ḥəkkoye.//ḥəkoye.|ḥəkkoyat.//ḥəkoyat.
  root: ḥky
  gramm: N,f
  paradigm: N2
  trans_de: Geschichte
- trans_en: 
+ trans_en: story
 -lexeme
  lex: ḥəkmatiye
  stem: ḥəkmatiye.
  root: ḥkm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Heilkunst
- trans_en: 
+ trans_en: treatment
 -lexeme
  lex: ḥəkmiye
  stem: ḥəkmiye.
  root: ḥkm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Heilkunst
- trans_en: 
+ trans_en: treatment
 -lexeme
- lex: ḥəkume
- stem: ḥəkume.
+ lex: ḥəkume/ḥukume/ḥkume
+ stem: ḥəkume.//ḥukume.//ḥkume.|ḥəkumat.//ḥukumat.//ḥkumat.
  root: ḥkm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Regierung
- trans_en: 
+ trans_en: government
+-lexeme
+ lex: ḥəl
+ stem: ḥəl.
+ root: ḥl
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥəlle
- stem: ḥəlle.
+ stem: ḥəlle.|ḥəllat.
  root: ḥll
  gramm: N,f
- paradigm: N1
- trans_de: a) Erlaubnis des Patriarchen eine andere zu heiraten b) Freistatt beim Spiel; neutraler Ausgangspunkt des Spieles
- trans_en: 
+ paradigm: N2
+ trans_de: Erlaubnis des Patriarchen eine andere zu heiraten; Freistatt beim Spiel; neutraler Ausgangspunkt des Spieles
+ trans_en: permission of a patriarch to marry another woman; hiding-place in a game; neutral starting point in a game
+-lexeme
+ lex: ḥəlli
+ stem: ḥəlli.
+ root: ḥll
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: frühzeitig
+ trans_en: early
 -lexeme
  lex: ḥəllək
  stem: ḥəllək.
  root: ḥlk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ziegenart mit dickem, kurzem Schwanz und runden, nach hinten liegenden Hörnern
- trans_en: 
+ trans_en: type of goats with a fat and short tail and round and backwards pointing horns
 -lexeme
- lex: ḥəlmo
- stem: ḥəlmo.|ḥəlme.
+ lex: ḥəlləkke
+ stem: ḥəlləkke.|ḥəlləkkat.
+ root: ḥlk
+ gramm: N,f
+ paradigm: N2
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: ḥəlmo/ḥulmo
+ stem: ḥəlmo.//ḥulmo.|ḥəlme.//ḥulme.
  root: ḥlm
  gramm: N,m
  paradigm: N2
- trans_de: a) Dicke b) Traum
- trans_en: 
+ trans_de: Traum
+ trans_en: dream
 -lexeme
- lex: ḥəlto
- stem: ḥəlto.|ḥəltoṯo.
+ lex: ḥəlmo/ḥulmo
+ stem: ḥəlmo.//ḥulmo.|ḥəlme.//ḥulme.
+ root: ḥlm
+ gramm: N,m
+ paradigm: N2
+ trans_de: Dicke
+ trans_en: fatness
+-lexeme
+ lex: ḥəlto/ḥulto
+ stem: ḥəlto.//ḥulto.|ḥəltoṯo.//ḥəltoṯe.//ḥultoṯo.//ḥultoṯe.
  root: ḥlt
  gramm: N,f
  paradigm: N2
  trans_de: Schwester der Mutter, Tante
- trans_en: 
+ trans_en: mother's sister, aunt
+-lexeme
+ lex: ḥəlwaye
+ stem: ḥəlwaye.|ḥəlwayat.
+ root: ḥlw
+ gramm: N,f
+ paradigm: N2
+ trans_de: Pflanze (Eigenname)
+ trans_en: plant (proper name)
 -lexeme
  lex: ḥəmaye
  stem: ḥəmaye.
@@ -17690,71 +17722,87 @@
  gramm: N,f
  paradigm: N1
  trans_de: Schutz, Verfügung
- trans_en: 
+ trans_en: protection; decree
 -lexeme
  lex: ḥəmgeliyo
  stem: ḥəmgeliyo.
  root: ḥmgly
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brummen beim Spiel
- trans_en: 
+ trans_en: buzzing while playing
 -lexeme
  lex: ḥəmḥəm
  stem: ḥəmḥəm.|ḥəmḥəmat.
  root: ḥmḥm
  gramm: N,m
  paradigm: N2
- trans_de: Pflanze mit breiten am Boden liegenden Blättern, aus denen man „
- trans_en: 
+ trans_de: Pflanze mit breiten am Boden liegenden Blättern, aus denen man „qaḥfərto" genannte Gefässe herstellt
+ trans_en: plant with wide leaves at the bottom from which vessels called "qaḥfərto" are produced
+-lexeme
+ lex: ḥəmḥəm/ḥəmaḥəm
+ stem: ḥəmḥəm.//ḥəmaḥəm.
+ root: ḥmḥm
+ gramm: N
+ paradigm: <?>
+ trans_de: Geräusch des leisen Lachens der Frauen
+ trans_en: sound of soft women's laughter
 -lexeme
  lex: ḥəmmal
  stem: ḥəmmal.
  root: ḥml
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Lastträger
- trans_en: 
+ trans_en: loader
 -lexeme
- lex: ḥəmmam
- stem: ḥəmmam.|ḥəmmamat.
+ lex: ḥəmmam/ḥammam
+ stem: ḥəmmam.//ḥammam.|ḥəmmamat.//ḥammamat.
  root: ḥmm
  gramm: N,m
  paradigm: N2
  trans_de: Warmbad
- trans_en: 
+ trans_en: bath, steam bath
 -lexeme
  lex: ḥəmmamči
  stem: ḥəmmamči.
  root: ḥmm
  gramm: N,m
- paradigm: N1
- trans_de: iye Badewärter
- trans_en: 
+ paradigm: <?>
+ trans_de: Badewärter
+ trans_en: bath attendant
 -lexeme
  lex: ḥəmme
- stem: ḥəmme.
+ stem: ḥəmme.|ḥəmmat.
  root: ḥmy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Reservatgebiet
- trans_en: 
+ trans_en: reservation area
 -lexeme
  lex: ḥəmmito
- stem: ḥəmmito.
+ stem: ḥəmmito.|ḥəmmitoṯo.//ḥəmmitoṯe.
  root: ḥmy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Energie, Schwung
- trans_en: 
+ trans_en: energy, <...>
 -lexeme
  lex: ḥəmra
  stem: ḥəmra.
  root: ḥmr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Rouge zum Färben der Backen und Lippen
- trans_en: 
+ trans_en: rouge for reddening of cheeks and lips
+-lexeme
+ lex: ḥəmṣiṯo
+ stem: ḥəmṣiṯo.
+ root: ḥmṣ
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Gerber-Sumach, Rhus cotiaris L., Baum, dessen Früchte man statt Zitronen in die Erbsensuppe tut
+ trans_en: tanner's sumach, Rhus cotiaris L., a tree which fruits are put in the lentil soup instead of lemons
 -lexeme
  lex: ḥəmṣo
  stem: ḥəmṣo.|ḥəmṣe.
@@ -17762,47 +17810,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kichererbse
- trans_en: 
+ trans_en: chickpea
 -lexeme
  lex: ḥəmto
- stem: ḥəmto.
+ stem: ḥəmto.|ḥəmtoṯo.//ḥəmtoṯe.
  root: ḥmm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fieber
- trans_en: 
+ trans_en: fever
 -lexeme
  lex: ḥəmyono
- stem: ḥəmyono.
+ stem: ḥəmyono.|ḥəmyone.
  root: ḥmyn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schwiegervater
- trans_en: 
+ trans_en: father-in-law
 -lexeme
  lex: ḥənniye
  stem: ḥənniye.
  root: ḥnn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freundlichkeit
- trans_en: 
+ trans_en: friendliness
 -lexeme
  lex: ḥəntiye
  stem: ḥəntiye.
  root: ḥnt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: dicke Suppe aus Weizen und Fleisch
- trans_en: 
+ trans_en: thick soup from wheat and meat
 -lexeme
- lex: ḥərafrofo
- stem: ḥərafrofo.
- root: ḥrfrf
- gramm: N,m
- paradigm: N1
- trans_de: Pflaume oder südlicer Venuskamm, Scandix australis L. spec., von Menschen gegessen, gibt Lebenskraft, gern beim großen Fasten gegessen, scharf
- trans_en: 
+ lex: ḥər
+ stem: ḥər.
+ root: ḥr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ruhig (Pferd)
+ trans_en: calm (horse)
 -lexeme
  lex: ḥərara
  stem: ḥərara.
