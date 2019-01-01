@@ -17597,7 +17597,7 @@
  trans_en: presence
 -lexeme
  lex: ḥəkeye/ḥkeye
- stem: ḥəkeye.//ḥkeye.|ḥəkeyat.//ḥkeyat.
+ stem: ḥəkeye.//ḥkeye.|ḥəkeyat.//ḥkeyat.//ḥkoye.
  root: ḥky
  gramm: N,f
  paradigm: N2
@@ -17856,65 +17856,81 @@
  stem: ḥərara.
  root: ḥrr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlamm im Brunnen oder Teich
- trans_en: 
+ trans_en: mud, ooze in a well or a lake
 -lexeme
  lex: ḥərf
  stem: ḥərf.
  root: ḥrf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wort
- trans_en: 
+ trans_en: word
 -lexeme
  lex: ḥərfe
- stem: ḥərfe.
+ stem: ḥərfe.|ḥərfat.
  root: ḥrf
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Buchstabe
- trans_en: 
+ trans_en: letter
+-lexeme
+ lex: ḥər/ḥərr
+ stem: ḥər.//ḥərr.
+ root: ḥrr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: frei
+ trans_en: free
 -lexeme
  lex: ḥərraq
  stem: ḥərraq.
  root: ḥrq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: durch Feuer vernichtet, Raub der Flammen
- trans_en: 
+ trans_en: destroyed by fire, up in flames
 -lexeme
- lex: ḥərriye
- stem: ḥərriye.
+ lex: ḥərriye/ḥurriye
+ stem: ḥərriye.//ḥurriye.
  root: ḥrr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Freiheit
- trans_en: 
+ trans_en: freedom
 -lexeme
  lex: ḥərše
  stem: ḥərše.
  root: ḥrš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zauber
- trans_en: 
+ trans_en: charm, magic
 -lexeme
  lex: ḥərz
  stem: ḥərz.|ḥərzat.
  root: ḥrṣ
  gramm: N,m
  paradigm: N2
- trans_de: Begierde pl
- trans_en: 
+ trans_de: Begierde
+ trans_en: lust
 -lexeme
  lex: ḥəs
- stem: ḥəs.
+ stem: ḥəs.|ḥəssat.
  root: ḥss
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Stimme, Ton, Geräusch, Klang
- trans_en: 
+ trans_en: sound, voice, noise, tone
+-lexeme
+ lex: ḥəsb
+ stem: ḥəsb.
+ root: ḥsb
+ gramm: N
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥəsbe
  stem: ḥəsbe.|ḥəsbat.
@@ -17922,199 +17938,254 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zahl, Zählen, Rechnen
- trans_en: 
+ trans_en: number; counting
 -lexeme
  lex: ḥəsesi
  stem: ḥəsesi.
  root: ḥss
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Spion
- trans_en: 
+ trans_en: spy
 -lexeme
- lex: ḥəsoyo
- stem: ḥəsoyo.|ḥəsoye.
+ lex: ḥəsoyo/ḥusoyo
+ stem: ḥəsoyo.//ḥusoyo.|ḥəsoye.//ḥusoye.
  root: ḥsy
  gramm: N,m
  paradigm: N2
  trans_de: Gebetbuch
- trans_en: 
+ trans_en: prayer book
+-lexeme
+ lex: ḥəsn
+ stem: ḥəsn.
+ root: ḥsn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: ḥəssasiye
  stem: ḥəssasiye.
  root: ḥss
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Spionage
- trans_en: 
+ trans_en: espionage
 -lexeme
  lex: ḥəṣṣa
- stem: ḥəṣṣa.|ḥəṣa(y)əṣ.
+ stem: ḥəṣṣa.|ḥəṣayəṣ.//ḥəṣṣat.
  root: ḥṣṣ
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/-at
- trans_en: 
+ trans_de: Anteil
+ trans_en: <?>
 -lexeme
- lex: ḥəšabo
- stem: ḥəšabo.|ḥəšabe.
+ lex: ḥəšabo/ḥušabo/ḥəššabo/ḥuššabo
+ stem: ḥəšabo.//ḥušabo.//ḥəššabo.//ḥuššabo.|ḥəšabe.//ḥušabe.//ḥəššabe.//ḥuššabe.
  root: ḥšb
  gramm: N,m
  paradigm: N2
- trans_de: Sonntag pl yawme
- trans_en: 
+ trans_de: Sonntag 
+ trans_en: Sunday
 -lexeme
- lex: ḥəšwo
- stem: ḥəšwo.
+ lex: ḥəššar
+ stem: ḥəššar.
+ root: ḥšr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: trächtig
+ trans_en: pregnant (animal)
+-lexeme
+ lex: ḥəšwo/ḥušwo
+ stem: ḥəšwo.//ḥušwo.
  root: ḥsb
  gramm: N,m
- paradigm: N1
- trans_de: Rechnung, Zählung, Rechnen mit, Vermutung; d-lo
- trans_en: 
+ paradigm: <?>
+ trans_de: Rechnung, Zählung, Rechnen mit, Vermutung
+ trans_en: counting, accounting for; assumption
 -lexeme
- lex: ḥəzb(e)/ḥəsbe
- stem: ḥəzb(e)/ḥəsbe.
+ lex: ḥəṭraz
+ stem: ḥəṭraz.
+ root: ḥṭrz
+ gramm: N
+ paradigm: <?>
+ trans_de: Einwendung
+ trans_en: objection
+-lexeme
+ lex: ḥətyaǧ/ḥətyaž
+ stem: ḥətyaǧ.//ḥətyaž.
+ root: ḥwǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Bedürfnis
+ trans_en: need
+-lexeme
+ lex: ḥəṯməl
+ stem: ḥəṯməl.
+ root: ḥṯml
+ gramm: N
+ paradigm: unchangeable
+ trans_de: was sich beim Linsenkochen am Rande oder Deckel des Kochtopfes absetzt
+ trans_en: what settles during the cooking of lentils on the edge or the lid of a cooking pot
+-lexeme
+ lex: ḥəzbe/ḥəsbe
+ stem: ḥəzbe.//ḥəsbe.
  root: ḥsb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zahl, Rechnung
- trans_en: 
+ trans_en: number, count; counting
 -lexeme
  lex: ḥəzən
  stem: ḥəzən.
  root: ḥzn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Traurigkeit
- trans_en: 
+ trans_en: sadness
+-lexeme
+ lex: ḥəzənni/ḥzənni
+ stem: ḥəzənni.//ḥzənni.
+ root: ḥzn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: traurig
+ trans_en: sad
 -lexeme
  lex: ḥəzər
  stem: ḥəzər.
  root: ḥzr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Berechnen, Überschlagen, Abschätzen
- trans_en: 
+ trans_en: estimation, calculating
 -lexeme
  lex: ḥəznitiye
  stem: ḥəznitiye.
  root: ḥzn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Traurigkeit
- trans_en: 
+ trans_en: sadness
 -lexeme
  lex: ḥəzniye
  stem: ḥəzniye.
  root: ḥzn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Traurigkeit
- trans_en: 
+ trans_en: sadness
 -lexeme
  lex: ḥəzzaqa
  stem: ḥəzzaqa.
  root: ḥzq
  gramm: N,f
  paradigm: N1
- trans_de: Strumpfband aus Gummi
- trans_en: 
+ trans_de: Strumpfband aus Gummi; wollener Teil des über den ersten gezogenen Überstrumpfes
+ trans_en: garter made of rubber; <?>
 -lexeme
- lex: ḥila
- stem: ḥila.
+ lex: ḥila/ḥile
+ stem: ḥila.//ḥile.|ḥilat.//ḥiyal.
  root: ḥyl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Betrug, List, Hinterlist, böser Streich
- trans_en: 
+ trans_en: lies, guile, trick, dirty trick
 -lexeme
  lex: ḥilawloye
  stem: ḥilawloye.
  root: ḥlwly
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gattung Bocksbart, Tragopn buphtalmoides
- trans_en: 
+ trans_en: goat's-beard, Tragopn buphtalmoides DC. Boiss. var, humile Boiss
 -lexeme
- lex: ḥile
- stem: ḥile.
- root: ḥyl
- gramm: N,f
- paradigm: N1
- trans_de: Betrug, List, Hinterlist
- trans_en: 
+ lex: ḥiraḥir
+ stem: ḥiraḥir.
+ root: ḥrḥr
+ gramm: N
+ paradigm: <?>
+ trans_de: Wiehern
+ trans_en: neighing
 -lexeme
  lex: ḥiṣo
- stem: ḥiṣo.
+ stem: ḥiṣo.|ḥiṣe.
  root: ḥwṣ
- gramm: N,m
- paradigm: N1
- trans_de: Patient)
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: kräftig, laut, heftig (Patient)
+ trans_en: strong, forceful; loud; violent, fierce
+-lexeme
+ lex: ḥit
+ stem: ḥit.
+ root: ḥt
+ gramm: N
+ paradigm: <?>
+ trans_de: Ziegenrasse, mit dicken, starken Haaren, aus denen Titik gemacht wird
 -lexeme
  lex: ḥize
- stem: ḥize.
+ stem: ḥize.|ḥizat.
  root: ḥyz
  gramm: N,f
- paradigm: N1
- trans_de: Hure
- trans_en: 
--lexeme
- lex: ḥ(ə)keye
- stem: ḥ(ə)keye.|ḥ(ə)keyeat.//ḥkoye.
- root: ḥky
- gramm: N,f
  paradigm: N2
- trans_de: Geschichte
- trans_en: 
--lexeme
- lex: ḥkume
- stem: ḥkume.
- root: ḥkm
- gramm: N,f
- paradigm: N1
- trans_de: Regierung
- trans_en: 
+ trans_de: Hure
+ trans_en: harlot, whore
 -lexeme
  lex: ḥleqa
  stem: ḥleqa.
  root: ḥlq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schur
- trans_en: 
+ trans_en: shearing
 -lexeme
  lex: ḥlimo
- stem: ḥlimo.
+ stem: ḥlimo.|ḥlime.
  root: ḥlm
  gramm: N,m
- paradigm: N1
- trans_de: Stimme)
- trans_en: 
+ paradigm: N2
+ trans_de: dick, steif, tief (Stimme)
+ trans_en: thick, fat; hard; deep (voice)
 -lexeme
- lex: ḥmarto
- stem: ḥmarto.
- root: ḥmr
- gramm: N,f
- paradigm: N1
- trans_de: Eselin
- trans_en: 
--lexeme
- lex: ḥmərto
- stem: ḥmərto.|ḥməryoṯo.
+ lex: ḥmarto/ḥmərto
+ stem: ḥmarto.//ḥmərto.|ḥmaryoṯe.//ḥmaryoṯo.//ḥməryoṯe.//ḥməryoṯo.
  root: ḥmr
  gramm: N,f
  paradigm: N2
- trans_de: a) Eselin b)  c) Rückenknöchel, Rückenwirbel
- trans_en: 
+ trans_de: Eselin
+ trans_en: she-donkey
+-lexeme
+ lex: ḥmərto
+ stem: ḥmərto.|ḥəmre.
+ root: ḥmr
+ gramm: N,f
+ paradigm: N2
+ trans_de: (Glas)perle
+ trans_en: glass bead
+-lexeme
+ lex: ḥəmre
+ stem: ḥəmre.
+ root: ḥmr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Ruckenknöchel, Rückenwirbel, Rückgrat
+ trans_en: back bones, spine
 -lexeme
  lex: ḥmiro
- stem: ḥmiro.
+ stem: ḥmiro.|ḥmire.
  root: ḥmr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sauerteig
- trans_en: 
+ trans_en: leaven
+-lexeme
+ lex: ḥmohe
+ stem: ḥmohe.
+ root: ḥm
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Schwiegereltern
+ trans_en: parents-in-law
 -lexeme
  lex: ḥmoro
  stem: ḥmoro.|ḥmore.
@@ -18122,63 +18193,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Esel
- trans_en: 
+ trans_en: donkey
 -lexeme
  lex: ḥmoṯo
- stem: ḥmoṯo.|ḥmaṯyoṯo.
+ stem: ḥmoṯo.|ḥmaṯyoṯo.//ḥmaṯyoṯe.
  root: ḥmṯ
  gramm: N,f
  paradigm: N2
  trans_de: Schwiegermutter
- trans_en: 
+ trans_en: mother-in-law
 -lexeme
  lex: ḥnono
  stem: ḥnono.
  root: ḥnn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mitgefühl, Zärtlichkeit
- trans_en: 
+ trans_en: compassion, tenderness
 -lexeme
- lex: ḥoḍuro
- stem: ḥoḍuro.|ḥoḍure.
+ lex: ḥoḏ̣uro/ḥoḏuro
+ stem: ḥoḏ̣uro.//ḥoḏuro.|ḥoḏ̣ure.//ḥoḏure.
  root: ḥḍr
  gramm: N,m
  paradigm: N2
- trans_de: anwesend Sl
- trans_en: 
+ trans_de: anwesend
+ trans_en: present
 -lexeme
  lex: ḥoga
- stem: ḥoga.|ḥogawin.//ḥogaawat.
+ stem: ḥoga.|ḥogawin.//ḥogawat.
  root: ḥg
  gramm: N,m
  paradigm: N2
  trans_de: Widder; (fig.) tapferer Krieger pl
- trans_en: 
+ trans_en: ram; (fig.) brave warrior
 -lexeme
  lex: ḥolo
- stem: ḥolo.|ḥəlone.
+ stem: ḥolo.|ḥəlone.//ḥolone.
  root: ḥl
  gramm: N,m
  paradigm: N2
- trans_de: a) Bruder der Mutter, Onkel b) Im Spiel: Beschützer
- trans_en: 
+ trans_de: Bruder der Mutter, Onkel; Im Spiel: Beschützer
+ trans_en: mother's brother, uncle; in the game: guardian
 -lexeme
  lex: ḥolo
- stem: ḥolo.
+ stem: ḥolo.|ḥoloṯo.//ḥoloṯe.//ḥəloṯo.//ḥəloṯe.
  root: ḥl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fußboden, Schauplatz, Raum in der Mitte, Tapet
- trans_en: 
+ trans_en: floor; stage; place in the middle; tapestry
 -lexeme
  lex: ḥoluṯo
  stem: ḥoluṯo.
  root: ḥlṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Onkeleigenschaft, Onkelschaft
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: ḥopḥop
+ stem: ḥophop.
+ root: ḥpḥp
+ gramm: N
+ paradigm: <?>
+ trans_de: Lärm, den ein Betrunkener auf dem Dach macht; Benehmen eines faulen Sohnes
+ trans_en: noise which a drunken man makes on a roof; behaviour of a lazy son
 -lexeme
  lex: ḥorəšmo
  stem: ḥorəšmo.|ḥorəšme.
@@ -18186,15 +18265,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleinfrüchtige Kirsche, Cerasus tortuosa Boiss. et Hauss., hellviolette Blume zum Kränzemachen
- trans_en: 
+ trans_en: small cherry, Cerasus tortuosa Boiss. et Hauss., light purple flowers for <...>
 -lexeme
  lex: ḥoṯo
- stem: ḥoṯo.|aḥwoṯo.//ḥwoṯe.//ḥoṯoṯe.
+ stem: ḥoṯo.|aḥwoṯo.//aḥwoṯe.//ḥwoṯe.//ḥwoṯo.//ḥoṯoṯe.//ḥoṯoṯo.
  root: ḥṯ
  gramm: N,f
  paradigm: N2
- trans_de: a) Schwester b) zweites Stück eines Paares
- trans_en: 
+ trans_de: Schwester; zweites Stück eines Paares
+ trans_en: sister; second piece of a pair
 -lexeme
  lex: ḥowuṭo
  stem: ḥowuṭo.
