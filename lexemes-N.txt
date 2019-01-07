@@ -17876,8 +17876,8 @@
  trans_de: Buchstabe
  trans_en: letter
 -lexeme
- lex: ḥər/ḥərr
- stem: ḥər.//ḥərr.
+ lex: ḥər/ḥərr/ḥur
+ stem: ḥər.//ḥərr.//ḥur.
  root: ḥrr
  gramm: ADJ
  paradigm: unchangeable
@@ -18012,8 +18012,8 @@
  trans_de: Einwendung
  trans_en: objection
 -lexeme
- lex: ḥətyaǧ/ḥətyaž
- stem: ḥətyaǧ.//ḥətyaž.
+ lex: ḥətyaǧ/ḥətyaž/ḥtəyaž/ḥtəyaǧ
+ stem: ḥətyaǧ.//ḥətyaž.//ḥtəyaǧ.//ḥtəyaž.
  root: ḥwǧ
  gramm: N
  paradigm: unchangeable
@@ -18281,135 +18281,111 @@
  gramm: N,m
  paradigm: N1
  trans_de: Wäscheschlagholz
- trans_en: 
+ trans_en: bat for clothes
+-lexeme
+ lex: ḥrarat
+ stem: ḥrarat.
+ root: ḥrr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Transportsäcke
+ trans_en: bags for transportation
 -lexeme
  lex: ḥreno
  stem: ḥreno.|ḥrene.
  root: ʔḥr
  gramm: N,m
  paradigm: N2
- trans_de: anderer PrS
- trans_en: 
+ trans_de: anderer
+ trans_en: other, another
 -lexeme
- lex: ḥsab
- stem: ḥsab.
+ lex: ḥrimoyo
+ stem: ḥrimoyo.|ḥrimoye.
+ root: ḥrm
+ gramm: ADJ
+ paradigm: N2
+ trans_de: beraubt, entblößt
+ trans_en: bereaved; exposed
+-lexeme
+ lex: ḥrube/ḥrubat
+ stem: ḥrube.//ḥrubat.
+ root: ḥrb
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Kriege, Kämpfe
+ trans_en: war; fight
+-lexeme
+ lex: ḥsab/ḥisab
+ stem: ḥsab.//ḥisab.
  root: ḥsb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Rechnung
- trans_en: 
+ trans_en: counting, account
 -lexeme
  lex: ḥsomo
- stem: ḥsomo.
+ stem: ḥsomo.|ḥsome.
  root: ḥsm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Missgunst
- trans_en: 
+ trans_en: ill will
 -lexeme
- lex: ḥṣar
- stem: ḥṣar.
- root: ʕsr
- gramm: N,m
- paradigm: N1
- trans_de: R
- trans_en: 
--lexeme
- lex: ḥšamto
- stem: ḥšamto.
- root: ḥšm
- gramm: N,f
- paradigm: N1
- trans_de: Abendessen
- trans_en: 
--lexeme
- lex: ḥšara
- stem: ḥšara.
- root: ʔšr
- gramm: N,f
- paradigm: N1
- trans_de: Zeichen, Wink
- trans_en: 
--lexeme
- lex: ḥšəmto
- stem: ḥšəmto.|ḥšəmyoṯo.
+ lex: ḥšamto/ḥšəmto
+ stem: ḥšamto.//ḥšəmto.|ḥšəmoṯo.//ḥšamoṯe.//ḥšamoṯe.//ḥšəmyoṯo.//ḥšəmyoṯe.
  root: ḥšm
  gramm: N,f
  paradigm: N2
  trans_de: Abendessen
- trans_en: 
+ trans_en: dinner
+-lexeme
+ lex: ḥtəraḏ
+ stem: ḥtəraḏ.
+ root: ḥtrḏ
+ gramm: N
+ paradigm: <?>
+ trans_de: Einwendung
+ trans_en: objection
 -lexeme
  lex: ḥṭiṯo
- stem: ḥṭiṯo.
+ stem: ḥṭiṯo.|ḥṭiyawoṯo.//ḥṭiyawoṯe.
  root: ḥṭy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Sünde
- trans_en: 
+ trans_en: sin
 -lexeme
  lex: ḥṭoyo
- stem: ḥṭoyo.
+ stem: ḥṭoyo.|ḥṭoye.
  root: ḥṭy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sünde
- trans_en: 
+ trans_en: sin
 -lexeme
  lex: ḥubo
- stem: ḥubo.
+ stem: ḥubo.|ḥubone.
  root: ḥbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Liebe
- trans_en: 
+ trans_en: love
 -lexeme
- lex: ḥŭdud
- stem: ḥŭdud.
- root: ḥdd
- gramm: N,m
- paradigm: N1
- trans_de: Grenze
- trans_en: 
--lexeme
- lex: ḥŭḍur
- stem: ḥŭḍur.
- root: ḥḍr
- gramm: N,m
- paradigm: N1
- trans_de: Gegenwart
- trans_en: 
--lexeme
- lex: ḥŭk(ə)m
- stem: ḥŭk(ə)m.
+ lex: ḥukəm/ḥukum.
+ stem: ḥukəm.//ḥukum.
  root: ḥkm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Regierungsgewalt, Gewalt; Herrschaft
- trans_en: 
--lexeme
- lex: ḥŭkum
- stem: ḥŭkum.
- root: ḥkm
- gramm: N,m
- paradigm: N1
- trans_de: Gewalt, Verfügung
- trans_en: 
--lexeme
- lex: ḥukume
- stem: ḥukume.
- root: ḥkm
- gramm: N,f
- paradigm: N1
- trans_de: Regierung
- trans_en: 
+ trans_en: government oppresion; violence; rule; decree
 -lexeme
  lex: ḥuldino/ḥəldino
- stem: ḥuldino/ḥəldino.|ع·ع.
- root: ḥldn/ḥldn
+ stem: ḥuldino.//ḥəldino.
+ root: ḥldn
  gramm: N,m
  paradigm: N2
- trans_de: eine Spanne lange, etwas dickliche Eidechse, Agama srellio pl
- trans_en: 
+ trans_de: eine Spanne lange, etwas dickliche Eidechse, Agama srellio
+ trans_en: one span long, a bit fat lizard, Agama srellio
 -lexeme
  lex: ḥuldo
  stem: ḥuldo.|ḥulde.
@@ -18417,159 +18393,135 @@
  gramm: N,m
  paradigm: N2
  trans_de: Maulwurf
- trans_en: 
+ trans_en: mole
 -lexeme
- lex: ḥulmo
- stem: ḥulmo.|ḥulme.
+ lex: ḥulmono/ḥəlmono
+ stem: ḥulmono.//ḥəlmono.
  root: ḥlm
  gramm: N,m
- paradigm: N2
- trans_de: a) Dicke b) Traum
- trans_en: 
--lexeme
- lex: ḥulmono
- stem: ḥulmono.
- root: ḥlm
- gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gesundheit
- trans_en: 
+ trans_en: health
 -lexeme
- lex: ḥulṭəke
- stem: ḥulṭəke.
+ lex: ḥultəke
+ stem: ḥultəke.|ḥultəkat.
  root: ḥlṭ
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: Tantchen
- trans_en: 
--lexeme
- lex: ḥulṭo
- stem: ḥulṭo.
- root: ḥlṭ
- gramm: N,f
- paradigm: N1
- trans_de: Schwester der Mutter, Tante
- trans_en: 
+ trans_en: aunt
 -lexeme
  lex: ḥurako
  stem: ḥurako.
  root: ḥrk
  gramm: N,m
- paradigm: N1
- trans_de: runder Stein zum zermalmen von Kräutern, z. B. des piḏre
- trans_en: 
+ paradigm: <?>
+ trans_de: runder Stein zum Zermalmen von Kräutern, z. B. des piḏre
+ trans_en: round stone for crunching the herbs, for example piḏre
+-lexeme
+ lex: ḥurmaḥurm/ḥurmḥurm
+ stem: ḥurmaḥurm.//ḥurmḥurm.
+ root: ḥrmḥrm
+ gramm: N
+ paradigm: <?>
+ trans_de: leise lachen
+ trans_en: silent laughter
 -lexeme
  lex: ḥurma
- stem: ḥurma.|ḥəram.
+ stem: ḥurma.|ḥəram.//ḥeram.//ḥurmat.
  root: ḥrm
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Frau, Ehefrau
+ trans_en: woman, wife
 -lexeme
- lex: ḥurriye
- stem: ḥurriye.
- root: ḥrr
- gramm: N,f
- paradigm: N1
- trans_de: Freiheit
- trans_en: 
--lexeme
- lex: ḥusoyo
- stem: ḥusoyo.|ḥusoye.
- root: ḥsy
- gramm: N,m
- paradigm: N2
- trans_de: Gebetbuch pl
- trans_en: 
--lexeme
- lex: ḥušabo
- stem: ḥušabo.|ḥušabe.
- root: ḥšb
- gramm: N,m
- paradigm: N2
- trans_de: Sonntag
- trans_en: 
--lexeme
- lex: ḥušwo
- stem: ḥušwo.
- root: ḥsb
- gramm: N,m
- paradigm: N1
- trans_de: Rechnung, Zählung, Vermutung
- trans_en: 
+ lex: ḥurras
+ stem: ḥurras.
+ root: ḥrs
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Wächter, Wachen
+ trans_en: guard; watch
 -lexeme
  lex: ḥut
- stem: ḥut.
+ stem: ḥut.|ḥute.
  root: ḥt
  gramm: N,m
- paradigm: N1
- trans_de: Ungeheuer
- trans_en: 
+ paradigm: N2
+ trans_de: Ungeheuer; Schlange; Menschenfresser
+ trans_en: monster; snake; cannibal
 -lexeme
  lex: ḥuṭo
- stem: ḥuṭo.|ع·ع.
+ stem: ḥuṭo.|ḥuṭe.
  root: ḥwṭ
  gramm: N,m
  paradigm: N2
  trans_de: Zwirnsfaden
- trans_en: 
--lexeme
- lex: ḥuworo
- stem: ḥuworo.|ḥuwore.
- root: ḥwr
- gramm: N,m
- paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_en: thread
 -lexeme
  lex: ḥuwoyo
- stem: ḥuwoyo.
+ stem: ḥuwoyo.|ḥuwoye.
  root: ḥwy
  gramm: N,m
- paradigm: N1
- trans_de: Mann aus
- trans_en: 
+ paradigm: N2
+ trans_de: Mann aus Iḥwo
+ trans_en: person from Iḥwo
 -lexeme
  lex: ḥwarṯo
- stem: ḥwarṯo.|ḥwaryoṯe.
+ stem: ḥwarṯo.|ḥwaryoṯe.//ḥwaryoṯo.
  root: ḥwrṯ
  gramm: N,f
  paradigm: N2
- trans_de: a) Freundin, Gefährtin b) Placenta
- trans_en: 
+ trans_de: Freundin, Gefährtin; Placenta
+ trans_en: female friend, companion; placenta
 -lexeme
  lex: ḥwilo
- stem: ḥwilo.
+ stem: ḥwilo.|ḥwile.
  root: ḥwl
  gramm: N,m
- paradigm: N1
- trans_de: schelsichtig Sa
- trans_en: 
+ paradigm: N2
+ trans_de: scheläugig, schelsichtig
+ trans_en: squint-eyed
 -lexeme
  lex: ḥyarto/ḥyərto/ḥyurto
- stem: ḥyarto/ḥyərto/ḥyurto.
+ stem: ḥyarto.//ḥyərto.//ḥyurto.
  root: ḥwr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Blick
- trans_en: 
+ trans_en: glance, look
 -lexeme
  lex: ḥzayto
  stem: ḥzayto.
  root: ḥzy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Anblick
- trans_en: 
+ trans_en: sight
 -lexeme
  lex: ḥzino
- stem: ḥzino.
+ stem: ḥzino.|ḥzine.
  root: ḥzn
  gramm: N,m
- paradigm: N1
- trans_de: traurig Ör
- trans_en: 
+ paradigm: ADJ
+ trans_de: traurig
+ trans_en: sad
+-lexeme
+ lex: ḥzinoyo
+ stem: ḥzinoyo.|ḥzinoye.
+ root: ḥzn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: traurig
+ trans_en: sad
+-lexeme
+ lex: ḥzirən
+ stem: ḥzirən.
+ root: ḥzrn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Juni
+ trans_en: June
 -lexeme
  lex: i
  stem: i.
