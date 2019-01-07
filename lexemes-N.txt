@@ -26692,13 +26692,13 @@
  trans_de: August
  trans_en: 
 -lexeme
- lex: oždan
- stem: oždan.
- root: ždn
+ lex: oždan/iždan/wəǧdan/woždan
+ stem: oždan.//iždan.//wəǧdan.//woždan.
+ root: wǧd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gewissen
- trans_en: 
+ trans_en: conscience
 -lexeme
  lex: obal
  stem: obal.
@@ -39595,85 +39595,149 @@
  trans_de: R
  trans_en: 
 -lexeme
- lex: wazo
- stem: wazo.|waze.
+ lex: wazo/wazza
+ stem: wazo.//wazza.|waze.//wazze.
  root: ʔwz
  gramm: N,f
  paradigm: N2
  trans_de: Gans
- trans_en: 
+ trans_en: goose
 -lexeme
- lex: wazza
- stem: wazza.
- root: ʔwz
- gramm: N,f
- paradigm: N1
- trans_de: Gans
- trans_en: 
--lexeme
- lex: wergi
- stem: wergi.
+ lex: wergo/wergi
+ stem: wergo.//wergi.
  root: wrg
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Steuer
- trans_en: 
--lexeme
- lex: wergo
- stem: wergo.
- root: wrg
- gramm: N,m
- paradigm: N1
- trans_de: Steuer
- trans_en: 
+ trans_en: tax
 -lexeme
  lex: wert
  stem: wert.
  root: wrt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Erbe, Nachkomme, junger Bursche
- trans_en: 
+ trans_en: heir, descendant, young lad
 -lexeme
- lex: wəlf
- stem: wəlf.
- root: wlf
- gramm: N,m
- paradigm: N1
- trans_de: Zuneigung, Gernhaben
- trans_en: 
+ lex: wəč/wəčče
+ stem: wəč.//wəčče.
+ root: wrt
+ gramm: <?>
+ paradigm: <?>
+ trans_de: erhabene Schmalseite des Spielknöchels. Beim Werfen ruft man wohl (dem Knöchel zu)
+ trans_en: raised narrowside of the knuckle. ...
+-lexeme
+ lex: wəlla
+ stem: wəlla.
+ root: wll
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: a) ehe nicht b) oder 
+ trans_en: a) rather not b) or
+-lexeme
+ lex: wəlla
+ stem: wəlla.
+ root: wll
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: da, auf einmal, plötzlich
+ trans_en: there, at once, suddenly
 -lexeme
  lex: wəlwolo
- stem: wəlwolo.
+ stem: wəlwolo.|wəlwole.
  root: wlwl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wehgeschrei, Gejammer
- trans_en: 
+ trans_en: crying, whining
+-lexeme
+ lex: wərr
+ stem: wərr.
+ root: wrr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: hierher
+ trans_en: here
+-lexeme
+ lex: wərro
+ stem: wərro.
+ root: wlwl
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: scheelsichtig
+ trans_en: careful of jealousy
+-lexeme
+ lex: wəssalam
+ stem: wəssalam.
+ root: slm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: und fertig 
+ trans_en: and ready
+-lexeme
+ lex: wəšt
+ stem: wəšt.
+ root: wšt
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Antreibruf für Esel
+ trans_en: a shout when driving a donkey
 -lexeme
  lex: wida
  stem: wida.
  root: wd
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schraube
- trans_en: 
+ trans_en: screw
+-lexeme
+ lex: wičwič/wičawič
+ stem: wičwič.//wičawič.
+ root: wčwč
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gezwitscher junger Vögel
+ trans_en: chirping of young birds
+-lexeme
+ lex: wilwil
+ stem: wilwil.
+ root: wlwl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: ängstliches Gezwitscher
+ trans_en: anxious chirping
+-lexeme
+ lex: wirwir/wiri wiri
+ stem: wirwir.//wiri wiri.
+ root: wrwr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Scheuchruf für Hunde 
+ trans_en: ...
 -lexeme
  lex: wisəm
  stem: wisəm.
  root: wsm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zauberwort
- trans_en: 
+ trans_en: magic word
 -lexeme
- lex: woždan
- stem: woždan.
- root: wǧd
- gramm: N,m
- paradigm: N1
- trans_de: Gewissen
- trans_en: 
+ lex: wiswis
+ stem: wiswis.
+ root: wsws
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Stimme junger Vögel
+ trans_en: voice of young birds
+-lexeme
+ lex: wizwiz
+ stem: wizwiz.
+ root: wzwz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Ton, den Kinder oder Tiere von sich geben, die eben geboren sind
+ trans_en: sound that just newborn children or animals make
 -lexeme
  lex: wolt
  stem: wolt.
@@ -39691,13 +39755,13 @@
  trans_de: Körper; Dasein
  trans_en: body; existence
 -lexeme
- lex: wulf
- stem: wulf.
+ lex: wulf/wəlf
+ stem: wulf.//wəlf.
  root: wlf
  gramm: N,m
  paradigm: unchangeable
- trans_de: Zuneigung, Freundschaft
- trans_en: affection, friendship
+ trans_de: Zuneigung, Freundschaft, Gernhaben
+ trans_en: affection, friendship, being fond of
 -lexeme
  lex: wuqḥiye
  stem: wuqḥiye.
