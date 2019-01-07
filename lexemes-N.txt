@@ -39440,64 +39440,120 @@
  root: wrṭ
  gramm: N,f
  paradigm: N2
- trans_de: Intrige, pl Ränke pl
- trans_en: 
+ trans_de: Intrige, Ränke pl
+ trans_en: intrigue, plots pl
+-lexeme
+ lex: warwar
+ stem: warwar.
+ root: wrwr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: a) Geschrei eines kleinen Kindes b) Kriegsgeschrei c) Echo
+ trans_en: a) baby`s cry b) warcry c) echo
+-lexeme
+ lex: warwənda
+ stem: warwənda.
+ root: wrwnd
+ gramm: <?>
+ paradigm: <?>
+ trans_de: ohne Nachkommen
+ trans_en: without progeny
+-lexeme
+ lex: war w wənda
+ stem: war w wənda.
+ root: wrwwnd
+ gramm: <?>
+ paradigm: <?>
+ trans_de: der nichts versteht
+ trans_en: one who understands nothing
+-lexeme
+ lex: warxwaš
+ stem: warxwaš.
+ root: wrxwš
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: geschwätzig, durch sein Geschwätz störend
+ trans_en: chatty, annoying because of his chatter
 -lexeme
  lex: warzo
- stem: warzo.
+ stem: warzo.|warze.
  root: wrz
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Melonenfeld
- trans_en: 
+ trans_en: melon field
+-lexeme
+ lex: wasayre
+ stem: wasayre.
+ root: syr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: und so weiter
+ trans_en: et cetera
 -lexeme
  lex: wasax
  stem: wasax.
  root: wsx
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schmutz
- trans_en: 
+ trans_en: dirt
 -lexeme
  lex: wasile
  stem: wasile.
  root: wsl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gelegenheit, Vorwand
- trans_en: 
+ trans_en: opportunity, excuse
 -lexeme
- lex: waṣ(a)f
- stem: waṣ(a)f.|waṣfat.
+ lex: wasəx
+ stem: wasəx.
+ root: wsx
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: schmutzig
+ trans_en: dirty
+-lexeme
+ lex: waṣaf/waṣf
+ stem: waṣaf.//waṣf.|waṣfat.
  root: wṣf
  gramm: N,m
  paradigm: N2
  trans_de: Beschreibung
- trans_en: 
+ trans_en: description
+-lexeme
+ lex: waṣayəṭ/waṣayiṭ
+ stem: waṣayəṭ.//waṣayiṭ.
+ root: wṣy
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: a) Mittler (zwischen Gott und Mensch) b) Verkehrsmittel, Fahrzeuge 
+ trans_en: a) mediator (between God and man) b) transportation, vehicles
 -lexeme
  lex: waṣi
  stem: waṣi.
  root: wṣy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Beauftragter, Verwalter (für ein Haus)
- trans_en: 
+ trans_en: comissioner, administrator (of a house)
 -lexeme
- lex: waṣəṭa
- stem: waṣəṭa.|waṣayəṭ.
+ lex: waṣəṭa/waṣṭa
+ stem: waṣəṭa.//waṣṭa.|waṣayəṭ.
  root: wsṭ
  gramm: N,f
  paradigm: N2
  trans_de: Vermittlung, Vermittler
- trans_en: 
+ trans_en: arrangment, agent
 -lexeme
  lex: waṣitiye
  stem: waṣitiye.
  root: wṣy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: letzter Wille
- trans_en: 
+ trans_en: last will
 -lexeme
  lex: waṣiye
  stem: waṣiye.|waṣiyat.
