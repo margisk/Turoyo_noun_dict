@@ -39505,7 +39505,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Vermächtnis, letztwillige Verfügung; Anweisung, Instruktion; Bestellung; auszurichtende Botschaft
- trans_en: 
+ trans_en: legacy, testamentary disposition; assignment, instruction; order; message to be delivered
 -lexeme
  lex: watro
  stem: watro.|watre.
@@ -39513,23 +39513,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Darm, Gedärm
- trans_en: 
+ trans_en: gut, intestines
 -lexeme
  lex: waṭa
  stem: waṭa.
  root: wṭʔ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Niederung, Tal
- trans_en: 
+ trans_en: lowlands, valley
 -lexeme
  lex: waṭan
  stem: waṭan.
  root: wṭn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Heimat
- trans_en: 
+ trans_en: homeland
 -lexeme
  lex: waṭoye
  stem: waṭoye.|waṭoyat.
@@ -39537,15 +39537,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Spielkatapult aus Astgabel und Gummi
- trans_en: 
+ trans_en: toy catapult made of branch fork and rubber
 -lexeme
  lex: waṯani
  stem: waṯani.
  root: wṯn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Heide
- trans_en: 
+ trans_en: heathen
 -lexeme
  lex: waṯiqa
  stem: waṯiqa.|waṯiqat.
@@ -39553,15 +39553,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Urkunde
- trans_en: 
+ trans_en: document
+-lexeme
+ lex: waw
+ stem: waw.
+ root: ww
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: der Buchstabe waw
+ trans_en: letter waw
+-lexeme
+ lex: waywayle/wawayye
+ stem: waywayle.//wawayye.
+ root: wyl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wehe!
+ trans_en: woe!
 -lexeme
  lex: waxam
  stem: waxam.
  root: wxm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Krimskrams, Zeug, Sachen
- trans_en: 
+ trans_en: knickknaks, stuff, things
 -lexeme
  lex: waxt
  stem: waxt.|waxtat.
@@ -39569,31 +39585,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zeit
- trans_en: 
+ trans_en: time
+-lexeme
+ lex: way
+ stem: way.
+ root: wy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wehe!
+ trans_en: woe!
+-lexeme
+ lex: waya
+ stem: waya.
+ root: wy
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder
+ trans_en: oder
+-lexeme
+ lex: wayaxud/wayxautta
+ stem: wayaxud.//wayxautta.
+ root: wyxd
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: oder
+ trans_en: oder
+-lexeme
+ lex: wayl/wayla/wayle/wayye
+ stem: wayl.//wayla.//wayle.//wayye.
+ root: wyl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wehe!
+ trans_en: woe!
 -lexeme
  lex: wazʕiye
  stem: wazʕiye.
  root: wḍʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Lage, Zustand
- trans_en: 
+ trans_en: position, condition
 -lexeme
  lex: wazara
  stem: wazara.
  root: wzr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wesirrat, Wesire
- trans_en: 
+ trans_en: vizierat, viziers
 -lexeme
- lex: waziye
- stem: waziye.
+ lex: waziye/wazʕiye
+ stem: waziye.//wazʕiye.
  root: wzy
  gramm: N,f
- paradigm: N1
- trans_de: R
- trans_en: 
+ paradigm: <?>
+ trans_de: Spiel?
+ trans_en: game?
 -lexeme
  lex: wazo/wazza
  stem: wazo.//wazza.|waze.//wazze.
@@ -39602,6 +39650,14 @@
  paradigm: N2
  trans_de: Gans
  trans_en: goose
+-lexeme
+ lex: wazwaz
+ stem: wazwaz.
+ root: wzwz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: a) Geschrei eines kleinen Kindes b) trübe Gedanken
+ trans_en: a) baby`s cry b) cloudy thoughts
 -lexeme
  lex: wergo/wergi
  stem: wergo.//wergi.
