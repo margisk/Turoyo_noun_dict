@@ -39267,29 +39267,29 @@
  trans_de: Stellvertreter alla wakil! allah wäkîl! „Gott steh mir bei!“
  trans_en: 
 -lexeme
- lex: wakilo
- stem: wakilo.
+ lex: wakilo/wakil
+ stem: wakilo.//wakil.|wakile.
  root: wkl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Stellvertreter, Treuhänder
- trans_en: 
+ trans_en: deputy, trustee
 -lexeme
- lex: walad
- stem: walad.
+ lex: walad/waldo
+ stem: walad.//waldo.
  root: wld
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kind
- trans_en: 
+ trans_en: child
 -lexeme
  lex: walade
  stem: walade.
  root: wld
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gebären
- trans_en: 
+ trans_en: childbearing
 -lexeme
  lex: walaye
  stem: walaye.|walayat.
@@ -39297,119 +39297,167 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stadt
- trans_en: 
+ trans_en: city
+-lexeme
+ lex: walakən
+ stem: walakən.
+ root: lkn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber
+ trans_en: but
+-lexeme
+ lex: walaq
+ stem: walaq.
+ root: wlq
+ gramm: <?>
+ paradigm: <?>
+ trans_de: wenn ein Ochs walāq wird, stößt er mit den Hörnern, tritt aus
+ trans_en: when an ox becomes walāq, he butts with horns, steps out
+-lexeme
+ lex: walaw
+ stem: walaw.
+ root: wlw
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: a) wenn auch b) wieso denn? warum denn nicht?
+ trans_en: a) also if b) why? why not?
 -lexeme
  lex: walče
  stem: walče.
  root: wlč
- gramm: N,f
- paradigm: N1
+ gramm: N,<?>
+ paradigm: <?>
  trans_de: unangenehme Art, sich zu benehmen
- trans_en: 
+ trans_en: an unpleasant way to behave
 -lexeme
- lex: waldo
- stem: waldo.
+ lex: wald dəlzine
+ stem: wald dəlzine.
  root: wld
  gramm: N,m
- paradigm: N1
- trans_de: Kind
- trans_en: 
+ paradigm: <?>
+ trans_de: uneheliches Kind, Hurenkind
+ trans_en: bastard, child of a whore
 -lexeme
  lex: wali
- stem: wali.
+ stem: wali.|waliyin.
  root: wly
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Provinzgouverneur
- trans_en: 
+ trans_en: provincial governor
 -lexeme
- lex: walwala
- stem: walwala.
+ lex: wallah/wallahi/walla
+ stem: wallah.//wallahi.//walla.
+ root: wllh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: bei Gott
+ trans_en: by God
+-lexeme
+ lex: wallox
+ stem: wallox.
+ root: wllx
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausdruck der Verwunderung
+ trans_en: expression of surprise
+-lexeme
+ lex: walwal/walwala
+ stem: walwal.//walwala.
  root: wlwl
- gramm: N,f
- paradigm: N1
+ gramm: <?>
+ paradigm: unchangeable
  trans_de: Wehgeschrei
- trans_en: 
+ trans_en: wailing
 -lexeme
  lex: wanse
  stem: wanse.
  root: wns
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Unterhaltung
- trans_en: 
+ trans_en: conversation
 -lexeme
  lex: wansiye
  stem: wansiye.
  root: wns
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: trauliche Unterhaltung
- trans_en: 
+ trans_en: cozy conversation
 -lexeme
- lex: wapor
- stem: wapor.
+ lex: wapur/wapor
+ stem: wapur.//wapor.|wapurat.//waporat.
  root: wpr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Dampfer
- trans_en: 
+ trans_en: steamboat
 -lexeme
- lex: wapur
- stem: wapur.
- root: wpr
- gramm: N,m
- paradigm: N1
- trans_de: Dampfer
- trans_en: 
+ lex: waqwaq
+ stem: waqwaq.
+ root: wqwq
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Geschrei eines Fuchses, eines Raben, eines Säuglings
+ trans_en: cry of a fox, raven, infant
+-lexeme
+ lex: war
+ stem: war.
+ root: wr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: gegenüberliegende Seite
+ trans_en: opposite side
 -lexeme
  lex: war
  stem: war.
  root: wr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geschlecht, Nachkommen; Lager
- trans_en: 
+ trans_en: descent, offspring; warehouse
 -lexeme
  lex: waram
  stem: waram.
  root: wrm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tuberkulose, Schwindsucht
- trans_en: 
+ trans_en: tuberculosis, consumption
 -lexeme
  lex: waraqe
  stem: waraqe.
  root: wrq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Banknote
- trans_en: 
+ trans_en: banknote
 -lexeme
- lex: waraqto
- stem: waraqto.|waroqe.
+ lex: waraqaye/waraqiye
+ stem: waraqaye.//waraqiye.
  root: wrq
- gramm: N,f
- paradigm: N2
- trans_de: waroqe a) Pfundnote b) schriftliche Akten, Urkunden c) Spielkarten d) Blätter (des Evangeliums)
- trans_en: 
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: a) Pfundnote b) schriftliche Akten, Urkunden c) Spielkarten d) Blätter (des Evangeliums)
+ trans_en: a) pound note b) written acts, documents c) playing cards d) Gospel pages
 -lexeme
  lex: waraṯe
- stem: waraṯe.
+ stem: waraṯe.|waraṯat.
  root: wrṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Erbschaft
- trans_en: 
+ trans_en: inheritance
 -lexeme
  lex: wardakke
  stem: wardakke.
  root: wrdk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Eichelhäher
- trans_en: 
+ trans_en: jay
 -lexeme
  lex: wardo
  stem: wardo.|warde.
@@ -39417,7 +39465,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Blume, Rose
+ trans_en: flower, rose
+-lexeme
+ lex: ware w wənda
+ stem: ware w wənda.
+ root: wrwwnd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: töricht, nichts verstehend
+ trans_en: foolish, understanding nothing
+-lexeme
+ lex: warḥasəl
+ stem: warḥasəl.
+ root: ḥsl
+ gramm: N,f
+ paradigm: N2
+ trans_de: kurz und gut
  trans_en: 
+-lexeme
+ lex: waridat
+ stem: waridat.
+ root: wrd
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Einkünfte
+ trans_en: earnings
 -lexeme
  lex: wariḏo
  stem: wariḏo.|wariḏe.
@@ -39425,15 +39497,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: a) Ader, Halsader, Nervenstrang am Hinterhals, dessen Verletzung schädlich ist b) Wurzel pl
- trans_en: 
+ trans_en: a) artery, cervical artery, nerves of the neck, whose injury is detrimental b) root pl
+-lexeme
+ lex: warox
+ stem: warox.
+ root: wrx
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: heda!
+ trans_en: hey!
 -lexeme
  lex: warqəl
  stem: warqəl.
  root: wrql
  gramm: N,m
- paradigm: N1
- trans_de: Holzgestell
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Holzgestell, 4 Stück, auf dem Rücken des Esels oder Maultieres
+ trans_en: wooden frame, 4 pieces, on the back of the donkey or mule
 -lexeme
  lex: warṭa
  stem: warṭa.|warṭat.
