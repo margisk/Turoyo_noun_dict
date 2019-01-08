@@ -9895,8 +9895,8 @@
  paradigm: unchangeable
  trans_de: heimlicher <?>
 -lexeme
- lex: duġma
- stem: duġma
+ lex: duġma/ṭuġma
+ stem: duġma.//ṭuġma.
  root: dġm
  gramm: <?>
  paradigm: <?>
@@ -38842,13 +38842,13 @@
  trans_de: Nacktheit
  trans_en: 
 -lexeme
- lex: ṭelolo
- stem: ṭelolo.
+ lex: ṭelolo/ṭlolo
+ stem: ṭelolo.//ṭlolo.
  root: ṭll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schatten
- trans_en: 
+ trans_en: shadow
 -lexeme
  lex: ṭəbbe
  stem: ṭəbbe.|ṭəbab.
@@ -39018,29 +39018,29 @@
  trans_de: Brot in Form eines Kringels, so daß man den Arm durchstecken kann pl
  trans_en: 
 -lexeme
+ lex: ṭlawḥe
+ stem: ṭlawḥe.
+ root: ṭlwḥ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Linsen
+ trans_en: lentils
+-lexeme
  lex: ṭlobo
  stem: ṭlobo.
  root: ṭlb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brautwerbung
- trans_en: 
--lexeme
- lex: ṭlolo
- stem: ṭlolo.
- root: ṭll
- gramm: N,m
- paradigm: N1
- trans_de: Schatten
- trans_en: 
+ trans_en: courting
 -lexeme
  lex: ṭof
  stem: ṭof.|ṭofat.
- root: ṭf
+ root: ṭwf
  gramm: N,m
  paradigm: N2
  trans_de: Widder
- trans_en: 
+ trans_en: ram
 -lexeme
  lex: ṭof
  stem: ṭof.|ṭofat.
@@ -39048,39 +39048,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Floß
- trans_en: 
+ trans_en: float
 -lexeme
- lex: ṭol(ə)ke
- stem: ṭol(ə)ke.
- root: ṭl()k
+ lex: ṭoləke
+ stem: ṭoləke.|ṭoləkat.
+ root: ṭlk
  gramm: N,f
- paradigm: N1
- trans_de: zweideutige Malve, Malca ambigua Guss., Küchenpflanze
- trans_en: 
+ paradigm: N2
+ trans_de: zweideutige Malve, Malva ambigua Guss., Küchenpflanze
+ trans_en: common mallow, malva ambigua Guss., kitchen plant
 -lexeme
- lex: ṭom(ə)ke
- stem: ṭom(ə)ke.
- root: ṭm()k
+ lex: ṭomke/ṭoməke
+ stem: ṭomke.//ṭoməke.
+ root: ṭmk
  gramm: N,f
- paradigm: N1
- trans_de: gefährliches Unternehmen (z. B. Rauschgiftschmuggel). Wenn einer aufgefordert wird, mitzumachen, sagt er wohl: lo
- trans_en: 
+ paradigm: <?>
+ trans_de: gefährliches Unternehmen (z. B. Rauschgiftschmuggel). Wenn einer aufgefordert wird, mitzumachen, sagt er wohl: lo čaykatli bi ṭoməkaṯe! „verwickle mich nicht in diese gefährliche Sache!“
+ trans_en: dangerous enterprise (e. g. narcotics smuggling). When someone is asked to come along, he says: lo čaykatli bi ṭoməkaṯe! "don`t get me involved in this dangerous thing!“
+-lexeme
+ lex: ṭopat/topat
+ stem: ṭopat.//topat.
+ root: ṭp
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Kanonen(schüsse), Kanonen
+ trans_en: gunshots, cannons
 -lexeme
  lex: ṭowo
  stem: ṭowo.|ṭowe.
  root: ṭwb
  gramm: N,m
  paradigm: N2
- trans_de: An
- trans_en: 
+ trans_de: gut
+ trans_en: good
 -lexeme
  lex: ṭowuṯo
  stem: ṭowuṯo.
  root: ṭwb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Güte, gute Tat, Wohltat, guter Zustand
- trans_en: 
+ trans_en: goodness, good deed, act of charity, good state
 -lexeme
  lex: ṭoz
  stem: ṭoz.//ṭuz.|ṭozat.
@@ -39090,29 +39098,29 @@
  trans_de: Staub
  trans_en: dust
 -lexeme
+ lex: ṭrabzuni/ṭrabzuniye
+ stem: ṭrabzuni.//ṭrabzuniye.
+ root: ṭrbzn 
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: breiter, farbiger Gürtel, meist aus Seide, mehrfach um den Leib geschlungen
+ trans_en: wide, colored belt, mostly made of silk, wrapped around the body several times
+-lexeme
  lex: ṭraktor
  stem: ṭraktor.|ṭraktorat.
  root: ṭrktr
  gramm: N,m
  paradigm: N2
  trans_de: Traktor
- trans_en: 
+ trans_en: tractor
 -lexeme
- lex: ṭramway
- stem: ṭramway.
+ lex: ṭramway/ṭramvaye
+ stem: ṭramway.//ṭramvaye.
  root: ṭrmwy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Straßenbahn
- trans_en: 
--lexeme
- lex: ṭramvaye
- stem: ṭramvaye.
- root: ṭrmvy
- gramm: N,f
- paradigm: N1
- trans_de: Straßenbahn
- trans_en: 
+ trans_en: tram
 -lexeme
  lex: ṭrəmbel
  stem: ṭrəmbel.|ṭrəmbelat.
@@ -39120,31 +39128,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Auto, Autobus, Straßenbahn
- trans_en: 
+ trans_en: car, bus, tram
 -lexeme
  lex: ṭrunuṣ
  stem: ṭrunuṣ.
  root: ṭrnṣ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Allerheiligstes, Tabernakel
- trans_en: 
+ trans_en: Holy of Holies, tabernacle
+-lexeme
+ lex: ṭuġṭuġ
+ stem: ṭuġṭuġ.
+ root: ṭġṭġ 
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geschrei eines satten Huhnes
+ trans_en: shout of a sated chicken
 -lexeme
  lex: ṭuhro
  stem: ṭuhro.
  root: ṭhr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wunder Gottes
- trans_en: 
+ trans_en: miracle of God
 -lexeme
  lex: ṭul
  stem: ṭul.
  root: ṭwl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Länge
- trans_en: 
+ trans_en: length
 -lexeme
  lex: ṭulba
  stem: ṭulba.
