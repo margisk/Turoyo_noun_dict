@@ -39262,9 +39262,17 @@
  stem: umid.
  root: md
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hoffnung
- trans_en: 
+ trans_en: hope
+-lexeme
+ lex: uṣḥa/əṣḥa
+ stem: uṣḥa.//əṣḥa.
+ root: ṣḥ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Hüte dich!
+ trans_en: beware!
 -lexeme
  lex: uṣul
  stem: uṣul.|uṣul.
@@ -39272,7 +39280,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Methode, Regel, Brauch
- trans_en: 
+ trans_en: method, rule, custom
+-lexeme
+ lex: uṣulan
+ stem: uṣulan.
+ root: ʔṣl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: der Regel nach, wie es sich gebührt, gehört
+ trans_en: usually, as it should be
 -lexeme
  lex: utel
  stem: utel.|utelat.
@@ -39280,71 +39296,183 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hotel
- trans_en: 
+ trans_en: hotel
 -lexeme
  lex: uti
  stem: uti.
  root: t
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bügeleisen
- trans_en: 
+ trans_en: iron
 -lexeme
- lex: waʕd
- stem: waʕd.
+ lex: uxna
+ stem: uxna.
+ root: xn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa
+ trans_en: <?>
+-lexeme
+ lex: uxyay/uxuyay
+ stem: uxyay.//uxuyay.
+ root: xyy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Behagens; oh, wie schön!
+ trans_en: exclamation of comfort; oh, how nice!
+-lexeme
+ lex: veǧa/vega
+ stem: veǧa.//vega.
+ root: vǧ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dann
+ trans_en: then
+-lexeme
+ lex: w
+ stem: w.
+ root: w
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: und
+ trans_en: and
+-lexeme
+ lex: wa
+ stem: wa.
+ root: w
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Vokativpartikel
+ trans_en: vocative particle
+-lexeme
+ lex: waʕʕʕ
+ stem: waʕʕʕ.
+ root: wʕʕʕ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Erstaunens und der Mißbilligung 
+ trans_en: exclamation of amazement and disapproval
+-lexeme
+ lex: waʕd/waḥd
+ stem: waʕd.//waḥd.
  root: wʕd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Versprechen, Gelöbnis
- trans_en: 
+ trans_en: promise, pledge
 -lexeme
- lex: waḍʕiye
- stem: waḍʕiye.
- root: wḍʕ
+ lex: waḏ̣ʕiye
+ stem: waḏ̣ʕiye.
+ root: wḏ̣ʕ
  gramm: N,f
- paradigm: N1
- trans_de: geographische Lage
- trans_en: 
+ paradigm: <?>
+ trans_de: geographische Lage; Lage, Zustand
+ trans_en: geographical location; location, condition
 -lexeme
- lex: waḍifa
- stem: waḍifa.|waḍifat.
+ lex: waḏ̣ifa
+ stem: waḏ̣ifa.|waḏ̣ifat.
  root: wḍf
  gramm: N,f
  paradigm: N2
  trans_de: Aufgabe
- trans_en: 
+ trans_en: task
+-lexeme
+ lex: wafakar
+ stem: wafakar.
+ root: wfy
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: treu
+ trans_en: loyal
 -lexeme
  lex: waǧəb
  stem: waǧəb.|waǧəbat.
  root: wǧb
  gramm: N,m
  paradigm: N2
- trans_de: pflichtgemäß PrS
- trans_en: 
+ trans_de: nötig, notwendig, pflichtgemäß
+ trans_en: necessary, required, dutiful
 -lexeme
- lex: waǧ(ǧ)əh
- stem: waǧ(ǧ)əh.
+ lex: waǧəh/waǧǧəh  
+ stem: waǧəh.//waǧǧəh.  
  root: wǧh
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Antlitz
- trans_en: 
+ trans_en: face
 -lexeme
  lex: wahǧ
  stem: wahǧ.
  root: whǧ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: große Hitze
- trans_en: 
+ trans_en: big heat
 -lexeme
- lex: wakil
- stem: wakil.
- root: wkl
- gramm: N,m
- paradigm: N1
- trans_de: Stellvertreter alla wakil! allah wäkîl! „Gott steh mir bei!“
- trans_en: 
+ lex: wahəmmi
+ stem: wahəmmi.
+ root: whm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: schwindlig
+ trans_en: dizzy
+-lexeme
+ lex: waḥ
+ stem: waḥ.
+ root: wḥ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Erstaunens, der Überraschung
+ trans_en: exclamation of amazement, surprise 
+-lexeme
+ lex: waḥad
+ stem: waḥad.
+ root: wḥd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: allein
+ trans_en: alone
+-lexeme
+ lex: waḥido
+ stem: waḥido.|waḥide.
+ root: wḥd
+ gramm: ADJ
+ paradigm: N2
+ trans_de: einzig
+ trans_en: single
+-lexeme
+ lex: waḥš
+ stem: waḥš.|waḥšin.
+ root: wḥš
+ gramm: ADJ
+ paradigm: N2 
+ trans_de: wild 
+ trans_en: wild
+-lexeme
+ lex: waʔilla
+ stem: waʔilla.
+ root: ʔll
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: a) andernfalls, sonst b) da, plötzlich 
+ trans_en: a) otherwise, else b) there, suddenly
+-lexeme
+ lex: waki
+ stem: waki.
+ root: wk
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn denn, nachdem
+ trans_en: if so, after
+-lexeme
+ lex: wakidi
+ stem: wakidi.
+ root: wkd
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: wakilo/wakil
  stem: wakilo.//wakil.|wakile.
