@@ -3862,8 +3862,8 @@
  trans_de: auch
  trans_en: also
 -lexeme
- lex: aydarbo
- stem: aydarbo.
+ lex: aydarbo/idarbo
+ stem: aydarbo.//idarbo.
  root: ʔydrb
  gramm: ADV
  paradigm: unchangeable
@@ -18523,117 +18523,133 @@
  trans_de: Juni
  trans_en: June
 -lexeme
- lex: i
- stem: i.
- root: 
- gramm: N,f
- paradigm: N1
- trans_de: der Redende den Gegenstand zugleich mit der Hand zeigt)“
- trans_en: 
--lexeme
  lex: iʕdam
  stem: iʕdam.
  root: ʕdm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Todesstrafe, Hinrichtung
- trans_en: 
--lexeme
- lex: iʕlani
- stem: iʕlani.
- root: ʕln
- gramm: N,m
- paradigm: N1
- trans_de: Kriegserklärung
- trans_en: 
+ trans_en: capital punishment, execution
 -lexeme
  lex: ibtidaʔiye
  stem: ibtidaʔiye.
  root: bdʔ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Grundschule
- trans_en: 
+ trans_en: elementary school
 -lexeme
  lex: idara
  stem: idara.
  root: dwr
  gramm: N,f
- paradigm: N1
- trans_de: a) Verwaltung b) Lebensunterhalt, Auskommen
- trans_en: 
+ paradigm: <?>
+ trans_de: Verwaltung; Lebensunterhalt, Auskommen
+ trans_en: administering, administration; means of living, earnings
+-lexeme
+ lex: iḏa
+ stem: iḏa.
+ root: ḏ
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: when, if
 -lexeme
  lex: iḏiʕo
  stem: iḏiʕo.|iḏiʕe.
  root: ydʕ
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: bekannt, berühmt, kenntlich
+ trans_en: known, famous
 -lexeme
  lex: iḏo
- stem: iḏo.|iḏooṯe.//-oṯo.
+ stem: iḏo.|iḏoṯe.//iḏoṯo.
  root: ḏ
  gramm: N,f
  paradigm: N2
  trans_de: Hand
- trans_en: 
+ trans_en: hand
 -lexeme
- lex: ifade
- stem: ifade.
+ lex: ifade/fada
+ stem: ifade.//fada.|ifadat.//fadat.
  root: fyd
  gramm: N,f
- paradigm: N1
- trans_de: a) Aussage vor der Polizei, vor Gericht b) Ausdruck des Gesichts
- trans_en: 
+ paradigm: N2
+ trans_de: Aussage vor der Polizei, vor Gericht; Ausdruck des Gesichts
+ trans_en: statement in police, in court; facial expression
 -lexeme
- lex: igoro
- stem: igoro.|igore.
+ lex: igoro/goro/nigoro
+ stem: igoro.//goro.//nigoro.|igore.//gore.//nigore.
  root: gr
  gramm: N,f
  paradigm: N2
- trans_de: Dach; pl
- trans_en: 
+ trans_de: Dach
+ trans_en: roof
+-lexeme
+ lex: iǧal
+ stem: iǧal.
+ root: ǧl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Notwendigkeit
+ trans_en: necessity
+-lexeme
+ lex: iǧar
+ stem: iǧar.
+ root: ǧr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Pachten
+ trans_en: rent
 -lexeme
  lex: ihuḏo
  stem: ihuḏo.
  root: ḥdy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Jude
- trans_en: 
+ trans_en: jew
 -lexeme
  lex: iḥwoyo
- stem: iḥwoyo.
+ stem: iḥwoyo.|iḥwoye.
  root: ḥwy
  gramm: N,m
- paradigm: N1
- trans_de: Mann aus
- trans_en: 
+ paradigm: N2
+ trans_de: Mann aus Iḥwo
+ trans_en: person from Iḥwo
 -lexeme
  lex: ikram
  stem: ikram.
  root: krm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrung (eines Gastes)
- trans_en: 
+ trans_en: honouring of a guest
 -lexeme
  lex: ikramiye
  stem: ikramiye.
- root: krm
+ root: krm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrung (eines Gastes)
- trans_en: 
+ trans_en: honouring of a guest
 -lexeme
- lex: ilin
- stem: ilin.
+ lex: ilən
+ stem: ilən.
  root: ln
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: September
- trans_en: 
+ trans_en: september
+-lexeme
+ lex: illa/əlla
+ stem: illa.//əlla.
+ root: l
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: außer
+ trans_en: beside
 -lexeme
  lex: ilono
  stem: ilono.|ilone.
