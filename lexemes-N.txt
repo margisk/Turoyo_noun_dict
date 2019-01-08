@@ -37810,13 +37810,13 @@
  trans_de: Gewehr
  trans_en: 
 -lexeme
- lex: tfənge
- stem: tfənge.|tfənag,.
+ lex: tfənge/twinge/ṭwange
+ stem: tfənge.//twinge.//ṭwange.|tfənag.//tfəngat.
  root: tfng
  gramm: N,f
  paradigm: N2
  trans_de: Gewehr
- trans_en: 
+ trans_en: rifle
 -lexeme
  lex: tfaq
  stem: tfaq.|tfaqat.
@@ -39083,12 +39083,12 @@
  trans_en: 
 -lexeme
  lex: ṭoz
- stem: ṭoz.|ṭozat.
+ stem: ṭoz.//ṭuz.|ṭozat.
  root: ṭz
  gramm: N,m
  paradigm: N2
- trans_de: Staub pl
- trans_en: 
+ trans_de: Staub
+ trans_en: dust
 -lexeme
  lex: ṭraktor
  stem: ṭraktor.|ṭraktorat.
@@ -39150,9 +39150,9 @@
  stem: ṭulba.
  root: ṭlb
  gramm: N,f
- paradigm: N1
- trans_de: Gott und dann mich aufgesucht hast“
- trans_en: 
+ paradigm: <?>
+ trans_de: aufsuchen
+ trans_en: visiting
 -lexeme
  lex: ṭuro
  stem: ṭuro.|ṭurone.
@@ -39160,39 +39160,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Berg, Gebirge
- trans_en: 
+ trans_en: mountain, highlands
 -lexeme
- lex: ṭuz
- stem: ṭuz.
- root: ṭz
+ lex: ṭuroyo
+ stem: ṭuroyo.|ṭuroye.
+ root: ṭr
  gramm: N,m
- paradigm: N1
- trans_de: Staub
- trans_en: 
+ paradigm: N2
+ trans_de: Mann aus dem Ṭur ʕAbdin
+ trans_en: man from Ṭur ʕAbdin
+-lexeme
+ lex: ṭuroyo
+ stem: ṭuroyo.
+ root: ṭr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Ṭuroyo-Sprache
+ trans_en: Ṭuroyo language
 -lexeme
  lex: ṭwaʕto
  stem: ṭwaʕto.
  root: ṭbʕ
  gramm: N,f
- paradigm: N1
- trans_de: Untergang ~ d-yawmo
- trans_en: 
--lexeme
- lex: ṭwange
- stem: ṭwange.
- root: ṭwng
- gramm: N,f
- paradigm: N1
- trans_de: Gewehr
- trans_en: 
+ paradigm: <?>
+ trans_de: Untergang
+ trans_en: downfall
 -lexeme
  lex: ṭwoʕo
- stem: ṭwoʕo.|ṭwoʕooṯe.
+ stem: ṭwoʕo.|ṭwoʕoṯe.
  root: ṭbʕ
  gramm: N,m
  paradigm: N2
- trans_de: Sonnenuntergang, Westen“
- trans_en: 
+ trans_de: Sonnenuntergang, Westen
+ trans_en: sunset, west
 -lexeme
  lex: ṭyoro
  stem: ṭyoro.|ṭyore.
@@ -39200,15 +39200,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Obstgarten, ungepflegter Garten
- trans_en: 
+ trans_en: orchard, unkempt garden
 -lexeme
  lex: ṯabuto
  stem: ṯabuto.|ṯabute.
  root: ṯbt
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Menschen, Tiere und Dinge)
- trans_en: 
+ trans_de: dauerhaft (Menschen, Tiere und Dinge)
+ trans_en: durable (people, animals and things)
 -lexeme
  lex: ṯamar
  stem: ṯamar.|ṯamarat.//ṯamare.
@@ -39216,47 +39216,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Frucht, Obst
- trans_en: 
+ trans_en: fruit
 -lexeme
- lex: ṯắmara
- stem: ṯắmara.|ṯắmarat.
+ lex: ṯamara
+ stem: ṯamara.|ṯamarat.
  root: ṯmr
  gramm: N,f
  paradigm: N2
- trans_de: Frucht nicht
- trans_en: 
+ trans_de: Frucht
+ trans_en: fruit
+-lexeme
+ lex: ṯaniyan 
+ stem: ṯaniyan.
+ root: ṯny
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: zweitens
+ trans_en: secondly
 -lexeme
  lex: ṯawbo
- stem: ṯawbo.
+ stem: ṯawbo.|ṯawbe.
  root: ṯwb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: a) Rolle Tuch b) Mass für Tuch
- trans_en: 
+ trans_en: a) roll cloth b) measure for clith
 -lexeme
- lex: ṯeni
- stem: ṯeni.
+ lex: ṯeni/ṯani
+ stem: ṯeni.//ṯani.
  root: ṯny
  gramm: N,m
  paradigm: N1
- trans_de: der nächste Tag anbrach“
- trans_en: 
+ trans_de: zweiter
+ trans_en: second
 -lexeme
  lex: ṯnaḥto
  stem: ṯnaḥto.
  root: ṯnḥt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Montag nach Ostern
- trans_en: 
+ trans_en: Monday after Easter
 -lexeme
- lex: uǧud
- stem: uǧud.
- root: wǧd
- gramm: N,m
- paradigm: N1
- trans_de: Dasein
- trans_en: 
+ lex: u
+ stem: u.
+ root: ʔ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: oh!
+ trans_en: oh!
+-lexeme
+ lex: uəəəuh
+ stem: uəəəuh.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gegenteil von mašalla, wenn man nicht bewundern will
+ trans_en: oposite of mašalla, when one doesn`t want to admire
+-lexeme
+ lex: uʕdo
+ stem: uʕdo.
+ root: ʕd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: jetzt
+ trans_en: now
+-lexeme
+ lex: uʕa
+ stem: uʕa.
+ root: ʕ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Hüte dich! Gib Acht!
+ trans_en: beware! Take care!
+-lexeme
+ lex: učli/učilli
+ stem: učli.//učilli.
+ root: čl
+ gramm: <?>
+ paradigm: <?>
+ trans_de: drei Kreuze, Treff im Kartenspiel
+ trans_en: three crosses, hit in the card game
+-lexeme
+ lex: uf
+ stem: uf
+ root: f
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Geräusch des Blasens
+ trans_en: sound of blowing
+-lexeme
+ lex: uh
+ stem: uh
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf
+ trans_en: exclamation
+-lexeme
+ lex: ui
+ stem: ui.
+ root: ʔ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: au! Ausruf des Schmerzes
+ trans_en: ow! Exclamation of pain
+-lexeme
+ lex: ulke
+ stem: ulke.
+ root: lk
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Gebiet
+ trans_en: region
 -lexeme
  lex: umid
  stem: umid.
@@ -40112,7 +40184,7 @@
  gramm: <?>
  paradigm: unchangeable
  trans_de: Scheuchruf für Hunde 
- trans_en: ...
+ trans_en: shooing away dogs
 -lexeme
  lex: wisəm
  stem: wisəm.
@@ -40146,8 +40218,8 @@
  trans_de: Volt
  trans_en: volt
 -lexeme
- lex: wuǧud
- stem: wuǧud.
+ lex: wuǧud/uǧud
+ stem: wuǧud.//uǧud.
  root: wǧd
  gramm: N,m
  paradigm: <?>
