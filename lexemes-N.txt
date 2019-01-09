@@ -37002,6 +37002,14 @@
  trans_de: Juli
  trans_en: 
 -lexeme
+ lex: tamho/ṭamho/tamo/ṭamo/tamhone/ṭamhone/tamhonəke/ṭamhonəke
+ stem: tamho.//ṭamho.//tamo.//ṭamo.//tamhone.//ṭamhone.//tamhonəke.//ṭamhonəke.
+ root: tm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: dort (in Deutewite); dann
+ trans_en: there; then
+-lexeme
  lex: tamro
  stem: tamro.|tamre.
  root: tmr
@@ -37051,12 +37059,12 @@
  trans_en: 
 -lexeme
  lex: tanuro
- stem: tanuro.|tanure.
+ stem: tanuro.//ṭanuro.|tanure.//ṭanure.
  root: tnr
  gramm: N,m
  paradigm: N2
  trans_de: Backofen
- trans_en: 
+ trans_en: oven
 -lexeme
  lex: tap(əs)ke
  stem: tap(əs)ke.
@@ -38386,101 +38394,125 @@
  trans_de: Jagdhund
  trans_en: 
 -lexeme
- lex: ṭaqsi
+ lex: ṭalabe
+ stem: ṭalabe.
+ root: ṭlb
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Schüler, Student
+ trans_en: pupil, student
+-lexeme
+ lex: ṭalabiye 
+ stem: ṭalabiye.
+ root: ṭlb 
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Forderung
+ trans_en: demand
+-lexeme
+ lex: ṭaqsi/taqsi/taqṣi/taksi
  stem: ṭaqsi.
  root: ṭqs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Auto, Taxi
- trans_en: 
+ trans_en: car, taxi
 -lexeme
- lex: ṭalaq
- stem: ṭalaq.
+ lex: ṭalane
+ stem: ṭalane.
+ root: ṭln
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: dichter Haarschopf
+ trans_en: thick hair
+-lexeme
+ lex: ṭalaq/talaq
+ stem: ṭalaq.//talaq.
  root: ṭlq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Scheidung (durch den Ehemann)
- trans_en: 
+ trans_en: divorce (by the husband)
 -lexeme
- lex: ṭal(ə)be
- stem: ṭal(ə)be.
+ lex: ṭalbe/ṭaləbe
+ stem: ṭalbe.//ṭaləbe.
  root: ṭlb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Forderung; Brautgabe, die gefordert wird
- trans_en: 
+ trans_en: demand; bride to be demanded
 -lexeme
- lex: ṭal(l)ike
- stem: ṭal(l)ike.
- root: ṭl(l)k
+ lex: ṭalike/ṭallike
+ stem: ṭalike.//ṭallike.
+ root: ṭlk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fanggrube
- trans_en: 
+ trans_en: pitfall
 -lexeme
  lex: ṭalo
  stem: ṭalo.
  root: ṭl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tau
- trans_en: 
+ trans_en: dew
 -lexeme
  lex: ṭalp
  stem: ṭalp.
  root: ṭlp
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bodensatz, Sediment (z. B. des Traubensaftes)
- trans_en: 
+ trans_en: residue, sediment (e. g. of the grape juice)
 -lexeme
  lex: ṭalyo
  stem: ṭalyo.
  root: ṭly
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Knabe
- trans_en: 
+ trans_en: boy
 -lexeme
- lex: ṭamaʕ
- stem: ṭamaʕ.
+ lex: ṭamaʕ/ṭama.
+ stem: ṭamaʕ.//ṭama.
  root: ṭmʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Begehren
- trans_en: 
+ trans_en: desire
 -lexeme
- lex: ṭamaʕiye
- stem: ṭamaʕiye.
+ lex: ṭamaʕiye/ṭamayiye
+ stem: ṭamaʕiye.//ṭamayiye.
  root: ṭmʕ
  gramm: N,f
- paradigm: N1
- trans_de: Begierde
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Begierde; Begehrlichkeit, Habgier
+ trans_en: desire; lustfulness, greed
 -lexeme
- lex: ṭammayiye
- stem: ṭammayiye.
- root: ṭmʕ
- gramm: N,f
- paradigm: N1
- trans_de: Begehrlichkeit, Habgier
- trans_en: 
+ lex: ṭambər/ṭambur
+ stem: ṭambər.//ṭambur.|ṭənebir.//ṭanebir.
+ root: ṭmbr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Langhalslaute, Laute
+ trans_en: long-necked lute, lute
 -lexeme
  lex: ṭambərvan
  stem: ṭambərvan.
  root: ṭmbrvn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Lautenspieler
- trans_en: 
+ trans_en: lutenist
 -lexeme
  lex: ṭambure
  stem: ṭambure.
  root: ṭmbr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Laute
- trans_en: 
+ trans_en: lute
 -lexeme
  lex: ṭamṭam
  stem: ṭamṭam.
@@ -38488,7 +38520,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Königskerze, Verbasum spec.
- trans_en: 
+ trans_en: mullein, verbasum spec.
 -lexeme
  lex: ṭang
  stem: ṭang.|ṭangat.
@@ -38496,39 +38528,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sattelgurt
- trans_en: 
+ trans_en: girth 
 -lexeme
- lex: ṭanga(h)iye
- stem: ṭanga(h)iye.
- root: ṭng(h)y
+ lex: ṭang w barṭangat
+ stem: ṭang w barṭangat.
+ root: ṭngwbrṭngt
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: ṭang Riemen mit dem man den Sattel dem Pferde auf der Brust befestigt, barṭang Riemen, mit dem man ihn dem Tier unter dem Leib befestigt
+ trans_en: ṭang strap, with which the saddle is fastened to the horse on the chest, barṭang strap, with which it is attached to the animal under the body
+-lexeme
+ lex: ṭangahiye
+ stem: ṭangahiye.
+ root: ṭnghy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bedrängnis
- trans_en: 
+ trans_en: distress
 -lexeme
- lex: ṭanəke
- stem: ṭanəke.
+ lex: ṭanəke/ṭanike/ṭanək/ṭanik
+ stem: ṭanəke.//ṭanike.//ṭanək.//ṭanik.
  root: ṭnk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Grube
- trans_en: 
+ trans_en: hole
 -lexeme
- lex: ṭanuro
- stem: ṭanuro.
- root: ṭnr
- gramm: N,m
- paradigm: N1
- trans_de: Backofen
- trans_en: 
+ lex: ṭapṭapṭap
+ stem: ṭapṭapṭap.
+ root: ṭpṭpṭp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Geräusch des Hämmerns
+ trans_en: hammering sound
 -lexeme
  lex: ṭarfo
- stem: ṭarfo.|ṭarfone.
+ stem: ṭarfo.|ṭarfone.//ṭarfe.
  root: ṭrf
  gramm: N,m
  paradigm: N2
- trans_de: a) Finger- und Zehennagel pl b) Ohrläppchen l- c) Blatt; Zweig mit Blättern pl –e
- trans_en: 
+ trans_de: Finger- und Zehennagel pl; Ohrläppchen; Blatt; Zweig mit Blättern pl –e
+ trans_en: finger- and toenail pl; earlobe; leaf; branch with leaves pl -e
 -lexeme
  lex: ṭarḥa
  stem: ṭarḥa.
