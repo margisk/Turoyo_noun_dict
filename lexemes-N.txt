@@ -39255,8 +39255,8 @@
  root: ṯwb
  gramm: N,m
  paradigm: N2
- trans_de: a) Rolle Tuch b) Mass für Tuch
- trans_en: a) roll cloth b) measure for clith
+ trans_de: Rolle Tuch; Mass für Tuch
+ trans_en: roll cloth; measure for clith
 -lexeme
  lex: ṯeni/ṯani
  stem: ṯeni.//ṯani.
@@ -39543,8 +39543,8 @@
  root: ʔll
  gramm: ADV
  paradigm: unchangeable
- trans_de: a) andernfalls, sonst b) da, plötzlich 
- trans_en: a) otherwise, else b) there, suddenly
+ trans_de: andernfalls, sonst; da, plötzlich 
+ trans_en: otherwise, else; there, suddenly
 -lexeme
  lex: waki
  stem: waki.
@@ -39557,10 +39557,10 @@
  lex: wakidi
  stem: wakidi.
  root: wkd
- gramm: <?>
- paradigm: <?>
- trans_de: <?>
- trans_en: <?>
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: auf die andere Seite; 
+ trans_en: on the other side; otherwise, or, or also
 -lexeme
  lex: wakilo/wakil
  stem: wakilo.//wakil.|wakile.
@@ -39609,14 +39609,14 @@
  paradigm: <?>
  trans_de: wenn ein Ochs walāq wird, stößt er mit den Hörnern, tritt aus
  trans_en: when an ox becomes walāq, he butts with horns, steps out
--lexeme
+-lexemeT
  lex: walaw
  stem: walaw.
  root: wlw
  gramm: CONJ
  paradigm: unchangeable
- trans_de: a) wenn auch b) wieso denn? warum denn nicht?
- trans_en: a) also if b) why? why not?
+ trans_de: wenn auch; wieso denn? warum denn nicht?
+ trans_en: also if; why? why not?
 -lexeme
  lex: walče
  stem: walče.
@@ -39735,8 +39735,8 @@
  root: wrq
  gramm: N,<?>
  paradigm: <?>
- trans_de: a) Pfundnote b) schriftliche Akten, Urkunden c) Spielkarten d) Blätter (des Evangeliums)
- trans_en: a) pound note b) written acts, documents c) playing cards d) Gospel pages
+ trans_de: Pfundnote; schriftliche Akten, Urkunden; Spielkarten; Blätter (des Evangeliums)
+ trans_en: pound note; written acts, documents; playing cards; Gospel pages
 -lexeme
  lex: waraṯe
  stem: waraṯe.|waraṯat.
@@ -39791,8 +39791,8 @@
  root: wrd
  gramm: N,m
  paradigm: N2
- trans_de: a) Ader, Halsader, Nervenstrang am Hinterhals, dessen Verletzung schädlich ist b) Wurzel pl
- trans_en: a) artery, cervical artery, nerves of the neck, whose injury is detrimental b) root pl
+ trans_de: Ader, Halsader, Nervenstrang am Hinterhals, dessen Verletzung schädlich ist; Wurzel pl
+ trans_en: artery, cervical artery, nerves of the neck, whose injury is detrimental; root pl
 -lexeme
  lex: warox
  stem: warox.
@@ -39823,8 +39823,8 @@
  root: wrwr
  gramm: <?>
  paradigm: unchangeable
- trans_de: a) Geschrei eines kleinen Kindes b) Kriegsgeschrei c) Echo
- trans_en: a) baby`s cry b) warcry c) echo
+ trans_de: Geschrei eines kleinen Kindes; Kriegsgeschrei; Echo
+ trans_en: baby`s cry; warcry; echo
 -lexeme
  lex: warwənda
  stem: warwənda.
@@ -39903,8 +39903,8 @@
  root: wṣy
  gramm: N,pl
  paradigm: unchangeable
- trans_de: a) Mittler (zwischen Gott und Mensch) b) Verkehrsmittel, Fahrzeuge 
- trans_en: a) mediator (between God and man) b) transportation, vehicles
+ trans_de: Mittler (zwischen Gott und Mensch); Verkehrsmittel, Fahrzeuge 
+ trans_en: mediator (between God and man); transportation, vehicles
 -lexeme
  lex: waṣi
  stem: waṣi.
@@ -40087,8 +40087,8 @@
  root: wzwz
  gramm: <?>
  paradigm: unchangeable
- trans_de: a) Geschrei eines kleinen Kindes b) trübe Gedanken
- trans_en: a) baby`s cry b) cloudy thoughts
+ trans_de: Geschrei eines kleinen Kindes; trübe Gedanken
+ trans_en: baby`s cry; cloudy thoughts
 -lexeme
  lex: wergo/wergi
  stem: wergo.//wergi.
@@ -40119,8 +40119,8 @@
  root: wll
  gramm: CONJ
  paradigm: unchangeable
- trans_de: a) ehe nicht b) oder 
- trans_en: a) rather not b) or
+ trans_de: ehe nicht; oder 
+ trans_en: rather not; or
 -lexeme
  lex: wəlla
  stem: wəlla.
@@ -41253,10 +41253,10 @@
  lex: xulaṣa
  stem: xulaṣa.
  root: xlṣ
- gramm: ADJ
+ gramm: ADV
  paradigm: unchangeable
- trans_de: kurz und gut
- trans_en: short and good
+ trans_de: kurz und gut; um es kurz zu machen
+ trans_en: short and good; to make it short
 -lexeme
  lex: xuldo
  stem: xuldo.|xulde.
