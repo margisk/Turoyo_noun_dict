@@ -11919,7 +11919,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Heustrang, Strang von frischem Heu
- trans_en: 
+ trans_en: haystack, strand of fresh hay
 -lexeme
  lex: ftiloke
  stem: ftiloke.|ftilokat.
@@ -36722,13 +36722,13 @@
  trans_de: Zweck, Vorhaben, Absicht
  trans_en: 
 -lexeme
- lex: taǧər
- stem: taǧər.|tuǧǧar.
+ lex: taǧər/ṭaǧər.
+ stem: taǧər.//ṭaǧər.|tuǧǧar.//taǧərin.//ṭuǧǧar.//ṭaǧǧərin.
  root: tǧr
  gramm: N,m
  paradigm: N2
  trans_de: Kaufmann
- trans_en: 
+ trans_en: buisnessman
 -lexeme
  lex: taǧraba
  stem: taǧraba.
@@ -37650,6 +37650,22 @@
  trans_de: Feige(nbaum)
  trans_en: 
 -lexeme
+ lex: tu/tə
+ stem: tu.//tə.
+ root: t
+ gramm: PRON
+ paradigm: unchangeable
+ trans_de: du
+ trans_en: you
+-lexeme
+ lex: tə/tu
+ stem: tə.//tu.
+ root: t
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nichts, nicht
+ trans_en: nothing, not
+-lexeme
  lex: təbdeniye
  stem: təbdeniye.|təbdeniyat.
  root: tbdny
@@ -37715,12 +37731,12 @@
  trans_en: 
 -lexeme
  lex: tərkiya/turkiya
- stem: tərkiya/turkiya.
- root: trky/trky
+ stem: tərkiya.//turkiya.
+ root: trky
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Türkei
- trans_en: 
+ trans_en: Turkey
 -lexeme
  lex: tərrafe
  stem: tərrafe.
@@ -37747,12 +37763,12 @@
  trans_en: 
 -lexeme
  lex: tərto
- stem: tərto.|tawroṯe.
+ stem: tərto.//turto.|tawroṯe.//tawroṯo.
  root: trt
  gramm: N,f
  paradigm: N2
  trans_de: Kuh
- trans_en: 
+ trans_en: cow
 -lexeme
  lex: tərxayno
  stem: tərxayno.
@@ -37762,77 +37778,101 @@
  trans_de: Ayran mit Weizen wird mehrere Stunden gekocht. Dann wird er dickflüssig
  trans_en: 
 -lexeme
+ lex: təṣbaḥun ʕal xer
+ stem: təṣbaḥun ʕal xer.
+ root: tṣbḥnʕlxr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gute Nacht! 
+ trans_en: good night!
+-lexeme
  lex: təšʕo
  stem: təšʕo.
  root: tšʕ
  gramm: N,f
- paradigm: N1
- trans_de: Achsel
- trans_en: 
+ paradigm: <?>
+ trans_de: Achsel taḥte təšʕe 'Achselhöhle'
+ trans_en: shoulder taḥte təšʕe 'armpit'
+-lexeme
+ lex: təšʕo/tašʕo
+ stem: təšʕo.//tašʕo.
+ root: tšʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: neun 
+ trans_en: nine
+-lexeme
+ lex: təšbəḥto/təšbuḥto/təžbəḥto
+ stem: təšbəḥto.//təšbuḥto.//təžbəḥto.
+ root: šbḥ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Wunder, Gott sei gepriesen! 
+ trans_en: wonder, God be praised!
 -lexeme
  lex: təšḥino
  stem: təšḥino.
  root: tšḥn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Heizung
- trans_en: 
+ trans_en: heating
 -lexeme
  lex: təšrən
  stem: təšrən.|tišerən.
  root: tšrn
  gramm: N,m
  paradigm: N2
- trans_de: Oktober, Herbst
- trans_en: 
+ trans_de: Oktober, Herbst; pl Oktober und November, Herbst
+ trans_en: October, autumn; pl October and November, autumn
 -lexeme
- lex: təšt
- stem: təšt.
+ lex: təšt/tašt
+ stem: təšt.//tašt.
  root: tšt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Becken, Mulde
- trans_en: 
+ trans_en: basin, trough
 -lexeme
  lex: təštire
- stem: təštire.
+ stem: təštire.|təštirat.
  root: tštr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: weibliche Ziege von ein bis zwei Jahren, die noch nicht geworfen hat
- trans_en: 
+ trans_en: female goat from one to two years that has not given birth yet
 -lexeme
- lex: tətən
- stem: tətən.
+ lex: tətən/tutun
+ stem: tətən.//tutun.
  root: ttn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tabak
- trans_en: 
+ trans_en: tobacco
 -lexeme
  lex: tətkar
  stem: tətkar.
  root: ḏkr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Andenken
- trans_en: 
+ trans_en: memory
 -lexeme
  lex: təžġilo
  stem: təžġilo.
  root: tžġl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Spielzeug, Vergnügen
- trans_en: 
+ trans_en: toys, pleasure
 -lexeme
- lex: tfənge
- stem: tfənge.|tfəngeat.//tfənag.
- root: tfng
- gramm: N,f
- paradigm: N2
- trans_de: Gewehr
- trans_en: 
+ lex: tfaḏ̣ḏ̣al
+ stem: tfaḏ̣ḏ̣al.
+ root: fḏ̣l
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: Bitteschön!
+ trans_en: may I help you!
 -lexeme
  lex: tfənge/twinge/ṭwange
  stem: tfənge.//twinge.//ṭwange.|tfənag.//tfəngat.
@@ -37847,24 +37887,24 @@
  root: wfq
  gramm: N,m
  paradigm: N2
- trans_de: a) Einigkeit, zusammenstimmen b) pl –at das, was passiert tfaq mede
- trans_en: 
+ trans_de: Einigkeit, zusammenstimmen; pl das, was passiert
+ trans_en: unity, agree; pl that what happens
 -lexeme
  lex: tfayo
- stem: tfayo.
+ stem: tfayo.|tfaye.
  root: ʔpy
  gramm: N,f
- paradigm: N1
- trans_de: Herd
- trans_en: 
--lexeme
- lex: tfilo
- stem: tfilo.|tfile.
- root: tfl
- gramm: N,m
  paradigm: N2
- trans_de: Heustrang, Heuwickel
- trans_en: 
+ trans_de: Herd
+ trans_en: cooker
+-lexeme
+ lex: tfu
+ stem: tfu
+ root: tf
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: pfui!
+ trans_en: pooh!
 -lexeme
  lex: tḥele
  stem: tḥele.|tḥelat.
@@ -37872,79 +37912,103 @@
  gramm: N,f
  paradigm: N2
  trans_de: Flanke, Seite
- trans_en: 
+ trans_en: flank, side
+-lexeme
+ lex: tḥelki-va
+ stem: tḥelki-va.
+ root: tḥlkv
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: seitwärts, mit der Schmalseite des Körpers, wenn man z. B. für eine Tür zu dick ist; auch: seitlich verschoben, schräg
+ trans_en: to the side, with the narrow side of the body, e. g. if one is too thick to get through the door; also: laterally shifted, diagonally
 -lexeme
  lex: tḥolo
  stem: tḥolo.
  root: tḥl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Milz, Schmerz in der Milz
- trans_en: 
+ trans_en: spleen, pain in the spleen
 -lexeme
- lex: tḥub
- stem: tḥub.
- root: tḥb
- gramm: N,m
- paradigm: N1
- trans_de: Grenze
- trans_en: 
--lexeme
- lex: tḥumo
- stem: tḥumo.
+ lex: tḥumo/tḥub
+ stem: tḥumo.//tḥub.
  root: txm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grenze
- trans_en: 
+ trans_en: border
+-lexeme
+ lex: ti/tu/tə
+ stem: ti.//tu.//tə.
+ root: t
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: Verneinungspartikel
+ trans_en: negative particle
+-lexeme
+ lex: tiǧah 
+ stem: tiǧah. 
+ root: tǧh
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: ...
+ trans_en: ...
 -lexeme
  lex: tiǧar
  stem: tiǧar.
  root: tǧr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kaufmann
- trans_en: 
+ trans_en: merchant
 -lexeme
  lex: tiǧariye
  stem: tiǧariye.
  root: tǧr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Handel treiben
- trans_en: 
+ trans_en: trade
 -lexeme
  lex: tifaqiye
  stem: tifaqiye.
- root: wfq
+ root: tfq
  gramm: N,f
- paradigm: N1
- trans_de: einsam
- trans_en: 
--lexeme
- lex: tižke
- stem: tižke.
- root: tžk
- gramm: N,f
- paradigm: N1
- trans_de: Saum des Talars
- trans_en: 
+ paradigm: unchangeable
+ trans_de: der Ganze
+ trans_en: the whole
 -lexeme
  lex: tikaye
  stem: tikaye.
  root: tky
  gramm: N,f
- paradigm: N1
- trans_de: Kissen zum Aufstützen des Arms, gefüllt mit Lappen (fose) nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Kissen zum Aufstützen des Arms, gefüllt mit Lappen (fose)
+ trans_en: pillow to support arms, filled with rag
+-lexeme
+ lex: timar
+ stem: timar.
+ root: tmr
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Striegeln (Pferde)
+ trans_en: grooming (horses)
+-lexeme
+ lex: tiqatiqa/tika tika
+ stem: tiqatiqa.//tika tika.
+ root: tqtq
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: gegenüber, von Angesicht zu Angesicht
+ trans_en: opposite, face to face
 -lexeme
  lex: tir
  stem: tir.
  root: tr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfeil
- trans_en: 
+ trans_en: arrow
 -lexeme
  lex: tirak
  stem: tirak.|tirake.
@@ -37952,71 +38016,127 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stange, langes, dünnes Holz
- trans_en: 
+ trans_en: rod, long, thin wood
 -lexeme
- lex: tir(ə)ke
- stem: tir(ə)ke.
- root: tr()k
+ lex: tirəke/tirke
+ stem: tirəke.//tirke.
+ root: trk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zigarren-, Zigarettenspitze
- trans_en: 
+ trans_en: cigar-, cigarette holder
+-lexeme
+ lex: tirozi 
+ stem: tirozi.
+ root: trz 
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Gurke
+ trans_en: cucumber
+-lexeme
+ lex: tir w tišk
+ stem: tir w tišk.
+ root: trwtšk
+ gramm: <?>
+ paradigm: <?>
+ trans_de: ganz steif wie ein Pfeil, baumelnd
+ trans_en: very stiff like an arrow, dangling
+-lexeme
+ lex: tir w zarke
+ stem: tir w zarke.
+ root: trwzlk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Sonnwend-Flockenblume, Centaurea solstitialis L
+ trans_en: golden starthistle, centaurea solstitialis l.
+-lexeme
+ lex: titi
+ stem: titi.
+ root: tt
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Haubenlerche, Gelerida cristata
+ trans_en: crested lark, galerida cristata
+-lexeme
+ lex: titokat
+ stem: titokat.
+ root: ttk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: weiße Rüben, etwas bitter. Werden gekocht gegessen
+ trans_en: white turnips, a bit bitter. Are eaten cooked
 -lexeme
  lex: tivik
- stem: tivik.|tivikat.
+ stem: tivik.//tivəlke.|tivikat.
  root: tvk
  gramm: N,f
  paradigm: N2
  trans_de: Wildtaube
- trans_en: 
+ trans_en: wild pigeon
 -lexeme
  lex: tiyatro
- stem: tiyatro.
+ stem: tiyatro.|tiyatrowat.
  root: tytr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Theater
- trans_en: 
+ trans_en: theatre
 -lexeme
- lex: tlaṯ
- stem: tlaṯ.
- root: tlṯ
- gramm: N,m
- paradigm: N1
- trans_de: Kf
- trans_en: 
+ lex: tižke
+ stem: tižke.
+ root: tžk
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Saum des Talars
+ trans_en: hem of the gown
+-lexeme
+ lex: tlaṯmo
+ stem: tlaṯmo.
+ root: tlṯm
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: dreihundert
+ trans_en: three hundred
 -lexeme
  lex: tlawʕo
- stem: tlawʕo.
+ stem: tlawʕo.|tlawʕe
  root: tlwʕ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Raupe, Wurm, Made
- trans_en: 
+ trans_en: caterpillar, warm, maggot
 -lexeme
  lex: tliṯoyo
  stem: tliṯoyo.
  root: tlṯy
- gramm: N,m
- paradigm: N1
- trans_de: dritter Gü
- trans_en: 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: dritter
+ trans_en: third
 -lexeme
- lex: tmanyo
- stem: tmanyo.
+ lex: tloṯ/tlaṯ/tləṯ
+ stem: tloṯ.//tlaṯ.//tləṯ
+ root: tlṯ
+ gramm: NUM 
+ paradigm: unchangeable
+ trans_de: drei
+ trans_en: three
+-lexeme
+ lex: tmanyo/tmənyo
+ stem: tmanyo.//tmənyo.
  root: tmny
- gramm: N,f
- paradigm: N1
- trans_de: MḤ
- trans_en: 
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: acht
+ trans_en: eight
 -lexeme
  lex: toġo
  stem: toġo.
  root: twg
  gramm: N,m
- paradigm: N1
- trans_de: a) Krone b) Kranz
- trans_en: 
+ paradigm: <?>
+ trans_de: Krone; Kranz
+ trans_en: crown; wreath
 -lexeme
  lex: tolak
  stem: tolak.
@@ -38026,109 +38146,173 @@
  trans_de: kleiner Hund, den man in Fuchslöcher u. dergl. kriechen läßt; Frettchen
  trans_en: 
 -lexeme
- lex: tole
- stem: tole.
+ lex: tole/tolak
+ stem: tole.//tolak.
  root: tl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: kleiner Hund, Frettchen
- trans_en: 
+ trans_en: small dog, ferret
 -lexeme
  lex: top
  stem: top.
  root: tp
  gramm: N,m
- paradigm: N1
- trans_de: Fußball xd
- trans_en: 
+ paradigm: <?>
+ trans_de: Fußball
+ trans_en: football
 -lexeme
- lex: tope
- stem: tope.|topat.
+ lex: tope/ṭope
+ stem: tope.//ṭope.|topat.//ṭopat.
  root: tp
  gramm: N,f
  paradigm: N2
- trans_de: Kanone, Kanonenschuß pl
- trans_en: 
+ trans_de: Kanone, Kanonenschuß
+ trans_en: cannons, gunshots
 -lexeme
  lex: toprax
  stem: toprax.
  root: tprx
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gewinn an Boden
- trans_en: 
+ trans_en: gain ground
 -lexeme
  lex: torino
  stem: torino.
  root: trn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geliebter
- trans_en: 
+ trans_en: dear
 -lexeme
  lex: toṣaye
  stem: toṣaye.
  root: wṣy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Anweisung
- trans_en: 
+ trans_en: instruction
 -lexeme
  lex: toz
- stem: toz.|tozat.
+ stem: toz.//tuz.|tozat.//tuzat.
  root: tz
  gramm: N,m
  paradigm: N2
  trans_de: Staub
- trans_en: 
+ trans_en: dust 
 -lexeme
  lex: trab
  stem: trab.
  root: trb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Staub
- trans_en: 
+ trans_en: dust
+-lexeme
+ lex: transkawetor
+ stem: transkawetor.
+ root: trnskwtr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Trockenbagger
+ trans_en: excavator
+-lexeme
+ lex: tre
+ stem: tre.
+ root: tr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zwei
+ trans_en: two
 -lexeme
  lex: tren
  stem: tren.
  root: trn
  gramm: N,m
- paradigm: N1
- trans_de: Eisenbahnzug tren xayifo tren xaifo Eilzug
- trans_en: 
+ paradigm: <?>
+ trans_de: Eisenbahnzug tren xayfo Eilzug
+ trans_en: railway train tren xayfo express train
 -lexeme
  lex: trišuṯo
  stem: trišuṯo.
  root: tršṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufrichtigkeit
- trans_en: 
+ trans_en: honesty
 -lexeme
- lex: tŭǧ(ǧ)ar
- stem: tŭǧ(ǧ)ar.|tŭǧ(ǧ)ar.
+ lex: tšo
+ stem: tšo.
+ root: tš
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Halteruf für Esel
+ trans_en: stop-shout for donkeys
+-lexeme
+ lex: t-t
+ stem: t-t.
+ root: tt
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Ausdruck des Bedauerns
+ trans_en: expression of regret
+-lexeme
+ lex: trrr
+ stem: trrr.
+ root: trrr
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Halteruf für Schafe
+ trans_en: stop-shout for sheep
+-lexeme
+ lex: tuʕla
+ stem: tuʕla.
+ root: tʕl
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: kleiner Hund, Frettchen
+ trans_en: little dog, ferret
+-lexeme
+ lex: tŭǧǧar
+ stem: tŭǧǧar.
  root: tǧr
  gramm: N,m
- paradigm: N2
- trans_de: c)âr m, pl id. Kaufmann
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Kaufmann
+ trans_en: merchant
 -lexeme
  lex: tuġmo
  stem: tuġmo.
  root: tġm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Heerschar von Engeln
- trans_en: 
+ trans_en: host of angels
 -lexeme
  lex: tumo
- stem: tumo.
+ stem: tumo.|tumone.
  root: tm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Knoblauch
- trans_en: 
+ trans_en: garlic
+-lexeme
+ lex: tuq
+ stem: tuq.
+ root: tq
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: turaškat/tureškat
+ stem: turaškat.//tureškat.
+ root: tršk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Sträucher, Gesträuch
+ trans_en: shrubs, bushes
 -lexeme
  lex: ture
  stem: ture.
@@ -38138,261 +38322,237 @@
  trans_de: Art Hirtentasche, Tragtasche
  trans_en: 
 -lexeme
- lex: tur(ə)ke
- stem: tur(ə)ke.
- root: tr()k
+ lex: turəke/turke
+ stem: turəke.//turke.
+ root: trk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tragtasche
- trans_en: 
+ trans_en: carrier bag
 -lexeme
- lex: turkiya
- stem: turkiya.
- root: trky
- gramm: N,f
- paradigm: N1
- trans_de: Türkei
- trans_en: 
+ lex: turoṣ mamlo
+ stem: turoṣ mamlo.
+ root: trṣmml
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Grammatik
+ trans_en: grammar
 -lexeme
  lex: turso
  stem: turso.
  root: trs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schild
- trans_en: 
+ trans_en: sign
 -lexeme
- lex: turto
- stem: turto.|tawroṯo.
- root: trt
- gramm: N,f
- paradigm: N2
- trans_de: Kuh
- trans_en: 
--lexeme
- lex: tŭtun
- stem: tŭtun.
- root: tŭtn
- gramm: N,m
- paradigm: N1
- trans_de: Tabak
- trans_en: 
+ lex: tutututu
+ stem: tutututu.
+ root: tttt
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Ruf für Hühner, dass sie kommen und fressen
+ trans_en: call for chickens to come and eat
 -lexeme
  lex: tuṯo
- stem: tuṯo.|tuwaṯ.
+ stem: tuṯo.|tuwaṯ.//tuṯe
  root: tṯ
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/-e
- trans_en: 
+ trans_de: Maulbeerbaum
+ trans_en: mulberry tree
 -lexeme
  lex: tuxlono
  stem: tuxlono.
  root: txl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Vertrauen auf Gott
- trans_en: 
+ trans_en: trust in God
 -lexeme
- lex: tuxm
- stem: tuxm.
+ lex: tuxm/tuxmo
+ stem: tuxm.//tuxmo.
  root: txm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Same, Rasse
- trans_en: 
+ trans_en: seed, race
 -lexeme
- lex: tuxmo
- stem: tuxmo.
- root: txm
+ lex: tuxub/tuxb
+ stem: tuxub.//tuxb.
+ root: txb
  gramm: N,m
- paradigm: N1
- trans_de: Same, Rasse
- trans_en: 
--lexeme
- lex: tŭxub
- stem: tŭxub.
- root: tŭxb
- gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grenze
- trans_en: 
+ trans_en: border
 -lexeme
- lex: tuz/tuz
- stem: tuz/tuz.
- root: tz/tz
- gramm: N,m
- paradigm: N1
- trans_de: Staub
- trans_en: 
+ lex: tužəkat
+ stem: tužəkat.
+ root: tžk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: böse Worte, Afterreden
+ trans_en: bad words, backbitings
 -lexeme
  lex: twərḥaṣo
  stem: twərḥaṣo.
  root: twrḥṣ
- gramm: N,m
- paradigm: N1
+ gramm: <?>
+ paradigm: <?>
  trans_de: mit gebrochenem Rücken
- trans_en: 
--lexeme
- lex: txub
- stem: txub.
- root: txb
- gramm: N,m
- paradigm: N1
- trans_de: Grenze
- trans_en: 
+ trans_en: with a broken back
 -lexeme
  lex: ṭaʕam
  stem: ṭaʕam.
  root: ṭʕm
  gramm: N,m
- paradigm: N1
- trans_de: Speise) Fleisch und Blut
- trans_en: 
+ paradigm: unchangeable
+ trans_de: (eigentl. Speise) Fleisch und Blut
+ trans_en: (act. dish) flesh and blood
+-lexeme
+ lex: ṭaʕoyo
+ stem: ṭaʕoyo.|ṭaʕoye.
+ root: ṭʕy
+ gramm: ADJ
+ paradigm: N2
+ trans_de: vergesslich
+ trans_en: forgetful
 -lexeme
  lex: ṭaʕme
  stem: ṭaʕme.
  root: ṭmʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Begierde
- trans_en: 
+ trans_en: desire
 -lexeme
  lex: ṭaʕmo
  stem: ṭaʕmo.|ṭaʕmone.
  root: ṭʕm
  gramm: N,m
  paradigm: N2
- trans_de: a) Geschmack b) Gericht, Art von Speisen, Früchten
- trans_en: 
+ trans_de: Geschmack; Gericht, Art von Speisen, Früchten
+ trans_en: taste; dish, kind of food, fruits
 -lexeme
  lex: ṭaʕno
  stem: ṭaʕno.|ṭaʕne.
  root: ṭʕn
  gramm: N,m
  paradigm: N2
- trans_de: a) Last b) Schwangerschaft b-
- trans_en: 
+ trans_de: Last; Gepäck; Schwangerschaft; pl Anstoß (etwas zu tun)
+ trans_en: load; baggage; pregnancy; pl impulse (to do something)
 -lexeme
- lex: ṭabaq
- stem: ṭabaq.
- root: ṭbq
- gramm: N,m
- paradigm: N1
- trans_de: Stockwerk
- trans_en: 
--lexeme
- lex: ṭabaxto
- stem: ṭabaxto.
+ lex: ṭabəxto/ṭabaxto/ṭabuxto
+ stem: ṭabəxto.//ṭabaxto.//ṭabuxto.|ṭabəxyoṯo.
  root: ṭbx
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Köchin
- trans_en: 
+ trans_en: female cook
+-lexeme
+ lex: ṭabʕ
+ stem: ṭabʕ.
+ root: ṭbʕ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: natürlich
+ trans_en: naturally
+-lexeme
+ lex: ṭabʕan 
+ stem: ṭabʕan.
+ root: ṭbʕ 
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: natürlich
+ trans_en: naturally
 -lexeme
  lex: ṭabiʕa
  stem: ṭabiʕa.|ṭabayəʕ.
  root: ṭbʕ
  gramm: N,f
  paradigm: N2
- trans_de: Natur
- trans_en: 
+ trans_de: Natur; pl natürliche Anlagen, Gewohnheiten, Eigenschaften
+ trans_en: nature; pl natural plants, habits, characteristics
+-lexeme
+ lex: ṭabiʕi
+ stem: ṭabiʕi.
+ root: ṭbʕ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: natürlich
+ trans_en: naturally
 -lexeme
  lex: ṭabla
  stem: ṭabla.
  root: ṭbl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tablett zum Auftragen von Speisen
- trans_en: 
+ trans_en: tray for presentation of dishes
 -lexeme
  lex: ṭabliye
  stem: ṭabliye.
  root: ṭbl
  gramm: N,f
- paradigm: N1
- trans_de: große Kupferschüssel ~ d-rezo
- trans_en: 
+ paradigm: <?>
+ trans_de: große Kupferschüssel; d rezo 'Reisschüssel'
+ trans_en: big copper bowl; d rezo 'rice bowl'
 -lexeme
  lex: ṭaboqo
- stem: ṭaboqo.|ṭaboqe.
+ stem: ṭaboqo.//ṭabaq.|ṭaboqe.
  root: ṭbq
  gramm: N,m
  paradigm: N2
  trans_de: Stockwerk
- trans_en: 
+ trans_en: storey
 -lexeme
  lex: ṭaboxo
- stem: ṭaboxo.
+ stem: ṭaboxo.|ṭaboxe.
  root: ṭbx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Koch
- trans_en: 
--lexeme
- lex: ṭabuxto
- stem: ṭabuxto.
- root: ṭbx
- gramm: N,f
- paradigm: N1
- trans_de: Köchin
- trans_en: 
--lexeme
- lex: ṭaǧər
- stem: ṭaǧər.
- root: tǧr
- gramm: N,m
- paradigm: N1
- trans_de: Kaufmann
- trans_en: 
+ trans_en: cook
 -lexeme
  lex: ṭaġno
  stem: ṭaġno.
  root: ṭġn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfanne mit Stiel
- trans_en: 
+ trans_en: pan with handle
 -lexeme
  lex: ṭaḥina
  stem: ṭaḥina.
  root: ṭḥn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sesamhelwa, Sesammus
- trans_en: 
+ trans_en: sesame halva, sesame
+-lexeme
+ lex: ṭaḥuno
+ stem: ṭaḥuno.
+ root: ṭḥn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: gemahlen
+ trans_en: ground
 -lexeme
  lex: ṭalʕa
  stem: ṭalʕa.
  root: ṭlʕ
  gramm: N,f
- paradigm: N1
- trans_de: kleine Wunde oder ähnliches auf der Haut
- trans_en: 
+ paradigm: <?>
+ trans_de: flache, kleine Wunde oder ähnliches auf der Haut
+ trans_en: flat, small wound or something similar on the skin
 -lexeme
  lex: ṭalab
  stem: ṭalab.
  root: ṭlb
  gramm: N,m
- paradigm: N1
- trans_de: a) Forderung; das, was man will, sucht b) Galopp
- trans_en: 
--lexeme
- lex: ṭalabiye
- stem: ṭalabiye.
- root: ṭlb
- gramm: N,f
- paradigm: N1
- trans_de: Forderung
- trans_en: 
--lexeme
- lex: ṭaži
- stem: ṭaži.|ṭuweži.//ṭažiat.
- root: ṭž
- gramm: N,m
- paradigm: N2
- trans_de: Jagdhund
- trans_en: 
+ paradigm: <?>
+ trans_de: Forderung; das, was man will, sucht; Galopp
+ trans_en: demand; what one wants, seeks; gallop
 -lexeme
  lex: ṭalabe
  stem: ṭalabe.
@@ -39201,14 +39361,6 @@
  paradigm: <?>
  trans_de: gefährliches Unternehmen (z. B. Rauschgiftschmuggel). Wenn einer aufgefordert wird, mitzumachen, sagt er wohl: lo čaykatli bi ṭoməkaṯe! „verwickle mich nicht in diese gefährliche Sache!“
  trans_en: dangerous enterprise (e. g. narcotics smuggling). When someone is asked to come along, he says: lo čaykatli bi ṭoməkaṯe! "don`t get me involved in this dangerous thing!“
--lexeme
- lex: ṭopat/topat
- stem: ṭopat.//topat.
- root: ṭp
- gramm: N,pl
- paradigm: unchangeable
- trans_de: Kanonen(schüsse), Kanonen
- trans_en: gunshots, cannons
 -lexeme
  lex: ṭowo
  stem: ṭowo.|ṭowe.
