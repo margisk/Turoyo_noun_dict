@@ -17028,10 +17028,10 @@
  trans_de: Würde des Metropoliten
  trans_en: bishop's rank
 -lexeme
- lex: ḥaṣəl
- stem: ḥaṣəl.
+ lex: ḥaṣəl/l ḥaṣəl/warḥasəl/walḥasəl/walḥasili
+ stem: ḥaṣəl.//l ḥaṣəl.//warḥasəl.//walḥasəl.//walḥasili.
  root: ḥṣl
- gramm: ADJ
+ gramm: ADV
  paradigm: unchangeable
  trans_de: kurz und gut
  trans_en: to sum up
@@ -36886,9 +36886,9 @@
  stem: takmil.
  root: kml
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Vollendung
- trans_en: 
+ trans_en: completion
 -lexeme
  lex: talaf
  stem: talaf.|talafat.
@@ -36896,7 +36896,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Verlust, Umkommen
- trans_en: 
+ trans_en: loss, to perish
 -lexeme
  lex: talafon
  stem: talafon.|talafonat.
@@ -36904,15 +36904,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Telefon
- trans_en: 
--lexeme
- lex: talagraf
- stem: talagraf.
- root: tlgrf
- gramm: N,m
- paradigm: N1
- trans_de: Telegramm
- trans_en: 
+ trans_en: telephon
 -lexeme
  lex: talan
  stem: talan.|talane.
@@ -36920,31 +36912,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Vieh, Beutevieh, geraubtes Vieh
- trans_en: 
+ trans_en: cattle, livestock, stolen cattle
 -lexeme
  lex: talgo
  stem: talgo.
  root: tlg
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schnee
- trans_en: 
--lexeme
- lex: talġuraf
- stem: talġuraf.
- root: tlġrf
- gramm: N,m
- paradigm: N1
- trans_de: Telegramm
- trans_en: 
+ trans_en: snow
 -lexeme
  lex: tali
  stem: tali.
  root: tlw
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ende; schließlich
- trans_en: 
+ trans_en: end; finally
+-lexeme
+ lex: taliye
+ stem: taliye.
+ root: tlw
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Ende; schließlich
+ trans_en: end; finally
 -lexeme
  lex: talilo/tayilo
  stem: talilo.//tayilo.|talile.//tayile.
@@ -36954,37 +36946,29 @@
  trans_de: feucht, frisch, saftig
  trans_en: moist, fresh, juicy
 -lexeme
- lex: taliġraf
- stem: taliġraf.
- root: tlġrf
- gramm: N,m
- paradigm: N1
- trans_de: Telegramm
- trans_en: 
--lexeme
  lex: talise
  stem: talise.|talisat.
  root: tls
  gramm: N,f
  paradigm: N2
  trans_de: Sack
- trans_en: 
+ trans_en: sack
 -lexeme
  lex: talmiḏo
  stem: talmiḏo.|talmiḏe.
  root: tlmḏ
  gramm: N,m
  paradigm: N2
- trans_de: a) Jünger pl b) Gemeindemitglieder, Pfarrkinder
- trans_en: 
+ trans_de: Jünger pl; Gemeindemitglieder, Pfarrkinder
+ trans_en: disciples pl; member of the congregation, parishioner
 -lexeme
  lex: talṯo
  stem: talṯo.
  root: tlṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück Erde, das man unter die kleinen Kinder legt, damit sie ihr Geschäft hineinmachen. Man tut es dann zu einem Klumpen zusammen und wirft es weg.
- trans_en: 
+ trans_en: piece of earth to put under the little children to do their buisness. One makes it into a lump and throws it away.
 -lexeme
  lex: talyo/təlyo
  stem: talyo.//təlyo.|talye.//təlye.
@@ -36994,13 +36978,29 @@
  trans_de: versteckt, geheim, geschützt, aufbewahrt
  trans_en: hidden, secret, protected, kept
 -lexeme
+ lex: tamam/təmam/tamamam/tam
+ stem: tamam.//təmam.//tamamam.//tam.
+ root: tmm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ganz und gar, fertig
+ trans_en: completely, readily
+-lexeme
+ lex: tamana/tamanna
+ stem: tamana.//tamanna.
+ root: tmn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: alttürkischer Gruß, Verbeugung bis zur Erde
+ trans_en: old turkish greeting, bowing to the ground
+-lexeme
  lex: tamayiye
  stem: tamayiye.
  root: ṭmʕ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Begehrlichkeit
- trans_en: 
+ trans_en: lustfulness
 -lexeme
  lex: tambih
  stem: tambih.|tambihat.
@@ -37008,23 +37008,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Anweisung
- trans_en: 
+ trans_en: instruction
 -lexeme
  lex: taməz
  stem: taməz.
  root: tmz
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Juli
- trans_en: 
+ trans_en: July
 -lexeme
- lex: tamho/ṭamho/tamo/ṭamo/tamhone/ṭamhone/tamhonəke/ṭamhonəke
- stem: tamho.//ṭamho.//tamo.//ṭamo.//tamhone.//ṭamhone.//tamhonəke.//ṭamhonəke.
+ lex: taməz
+ stem: taməz.
+ root: tmz
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: sauber
+ trans_en: clean
+-lexeme
+ lex: tamho/ṭamho/tamo/ṭamo/tamhone/ṭamhone/tamhonəke/ṭamhonəke/tamoke
+ stem: tamho.//ṭamho.//tamo.//ṭamo.//tamhone.//ṭamhone.//tamhonəke.//ṭamhonəke.//tamoke.
  root: tm
  gramm: ADV
  paradigm: unchangeable
  trans_de: dort (in Deutewite); dann
- trans_en: there; then
+ trans_en: there (distal deixis); then
 -lexeme
  lex: tamro
  stem: tamro.|tamre.
@@ -37032,7 +37040,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dattel
- trans_en: 
+ trans_en: date
+-lexeme
+ lex: tamtel
+ stem: tamtel.|tamtelat.
+ root: mṯl
+ gramm: N,m
+ paradigm: N2
+ trans_de: gleich, wie; Art und Weise
+ trans_en: equal, like; manner
 -lexeme
  lex: tanagaye
  stem: tanagaye.|tanagayat.
@@ -37040,39 +37056,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Blechkanister
- trans_en: 
+ trans_en: metal canister
 -lexeme
  lex: tanazul
  stem: tanazul.
  root: nzl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Herablassung
- trans_en: 
+ trans_en: condescension
+-lexeme
+ lex: tane
+ stem: tane.
+ root: tn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: allein
+ trans_en: alone
+-lexeme
+ lex: tanagazar
+ stem: tanagazar.
+ root: tngzr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: bedrängt, in Not 
+ trans_en: troublesome, in need
 -lexeme
  lex: tanhib
  stem: tanhib.
  root: nhb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Raub
- trans_en: 
+ trans_en: robbery
 -lexeme
- lex: tani
- stem: tani.
- root: tny
- gramm: N,m
- paradigm: N1
- trans_de: zweiter Mi
- trans_en: 
--lexeme
- lex: tantər(d)yod
- stem: tantər(d)yod.
+ lex: tantərdyod/tantəryod
+ stem: tantərdyod.//tantəryod.
  root: tntr(d)yd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Jodtinktur
- trans_en: 
+ trans_en: tincture of iodine
 -lexeme
  lex: tanuro
  stem: tanuro.//ṭanuro.|tanure.//ṭanure.
@@ -37082,141 +37106,165 @@
  trans_de: Backofen
  trans_en: oven
 -lexeme
- lex: tap(əs)ke
- stem: tap(əs)ke.
- root: tp(s)k
- gramm: N,f
- paradigm: N1
+ lex: tapəske/tapke
+ stem: tapəske.//tapke.
+ root: tpsk
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: Schüsselchen
- trans_en: 
+ trans_en: small bowl
 -lexeme
  lex: tapo
  stem: tapo.
  root: tp
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grundbuch
- trans_en: 
+ trans_en: cadaster
 -lexeme
- lex: tap(p)(ək)ke
- stem: tap(p)(ək)ke.|tap(p)(ək)kat.
- root: tp(p)(k)k
+ lex: tappəkke/tapəkke/tapke
+ stem: tappəkke.//tapəkke.//tapke.|tappəkkat.//tapəkkat.//tapkat.
+ root: tpk
  gramm: N,f
  paradigm: N2
  trans_de: getrockneter Kuhmist zum Brennen
- trans_en: 
+ trans_en: dried cow dung for burning
 -lexeme
- lex: tap(p)əṣke
- stem: tap(p)əṣke.|tap(p)əṣkat.
- root: tp(p)ṣk
+ lex: tapəṣke/tappəṣke
+ stem: tapəṣke.//tappəṣke.|tapəṣkat.//tappəṣkat.
+ root: tpṣk
  gramm: N,f
  paradigm: N2
- trans_de: schnippen mit dem Finger nicht
- trans_en: 
+ trans_de: schnippen mit dem Finger
+ trans_en: flick with the finger
 -lexeme
- lex: taps(ə)ke
- stem: taps(ə)ke.
- root: tps()k
+ lex: tapsəke/tapske
+ stem: tapsəke.//tapske.
+ root: tpsk
  gramm: N,f
- paradigm: N1
- trans_de: nicht allzu großer Teller
- trans_en: 
+ paradigm: <?>
+ trans_de: nicht allzu großer Teller; Sammelteller (in der Kirche)
+ trans_en: not too big plate; ornamental plate (in the church)
 -lexeme
  lex: tapuzke
  stem: tapuzke.
  root: tpz
- gramm: N,f
- paradigm: N1
+ gramm: <?>
+ paradigm: unchangeable
  trans_de: mit dem Finger gegen einen schnippen. Es gibt ein Spiel: man schnippt gegen einen mit dem Finger und fragt: „ mit welchem Finger habe ich geschnippt?“
- trans_en: 
+ trans_en: with a finger against a snap. There's a game: you flick a finger at one of your fingers and ask: "which finger did I snap?"
 -lexeme
- lex: taq/taq
- stem: taq/taq.
- root: tq/tq
+ lex: taq
+ stem: taq.
+ root: tq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schicht, Reihe, Mal
- trans_en: 
+ trans_en: layer, row, time
 -lexeme
  lex: taqa/ṭaqa
- stem: taqa/ṭaqa.
+ stem: taqa.//ṭaqa.|taqat.//ṭaqat.
  root: tq/ṭq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kraft gegen, über
- trans_en: 
+ trans_en: power against, over
 -lexeme
  lex: taqan
- stem: taqan.
+ stem: taqan.|taqanat.
  root: tqn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sumpf
- trans_en: 
+ trans_en: marsh
+-lexeme
+ lex: taqataq
+ stem: taqataq.
+ root: tqtq
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geknatter (der Pistolen) 
+ trans_en: crackle (of pistols)
 -lexeme
  lex: taqdir
  stem: taqdir.
  root: qdr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ermessen
- trans_en: 
+ trans_en: estimate
 -lexeme
  lex: taqino
  stem: taqino.
  root: tqn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fett
- trans_en: 
+ trans_en: fat
 -lexeme
  lex: taqle
  stem: taqle.
  root: tql
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bemühung, Anstrengung, Kraft, Schwung, Anlauf
- trans_en: 
+ trans_en: effort, strain, strength, momentum, run-up
 -lexeme
  lex: taqlid
  stem: taqlid.
  root: qld
  gramm: N,m
- paradigm: N1
- trans_de: a) Nachahmung. b) Farbe, Art, Qualität
- trans_en: 
+ paradigm: <?>
+ trans_de: Nachahmung; Farbe, Art, Qualität
+ trans_en: imitation; color, style, quality
+-lexeme
+ lex: taqne
+ stem: taqne.
+ root: tqn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: sehr weit, sehr hoch
+ trans_en: very far, very high
 -lexeme
  lex: taqolo
  stem: taqolo.
  root: tql
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wägemeister
- trans_en: 
+ trans_en: assizer
 -lexeme
- lex: taqsi
- stem: taqsi.
- root: tqs
- gramm: N,f
- paradigm: N1
- trans_de: Auto, Taxi
- trans_en: 
+ lex: taqriban/taqrib
+ stem: taqriban.//taqrib.
+ root: qrb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ungefähr
+ trans_en: approximately
 -lexeme
- lex: taqṣi
- stem: taqṣi.
- root: tqṣ
- gramm: N,f
- paradigm: N1
- trans_de: Auto
- trans_en: 
+ lex: taqtaq/taqataq
+ stem: taqtaq.//taqataq.
+ root: tqtq
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Klappern der Holzschuhe; Geräusch, wenn einer an die Tür klopf
+ trans_en: clatter of wooden shoes; sound when someone knocks on the door
+-lexeme
+ lex: taq w raq
+ stem: taq w raq.
+ root: tqwrq
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: voll ausgerüstet; Geräusch des Marschierens im Paradeschritt u. ä.; Geräusch einer Maschine; Getrappel von Pferden
+ trans_en: fully equipped; Ssund of marching in the parade step and the like; noise of a machine; patter of horses
 -lexeme
  lex: taqwiya
  stem: taqwiya.
  root: qwy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verstärkung
- trans_en: 
+ trans_en: amplification
 -lexeme
  lex: tarʕo
  stem: tarʕo.|tarʕe.
@@ -37224,15 +37272,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Türe
- trans_en: 
+ trans_en: door
 -lexeme
  lex: tarʕko
  stem: tarʕko.
  root: trʕ
- gramm: N,m
- paradigm: N1
+ gramm: N,m DIM
+ paradigm: <?>
  trans_de: kleine Türe
- trans_en: 
+ trans_en: small door
 -lexeme
  lex: tarʕono
  stem: tarʕono.|tarʕone.
@@ -37240,63 +37288,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Türhüter
- trans_en: 
+ trans_en: doorkeeper
 -lexeme
  lex: taraqqi
  stem: taraqqi.
  root: rqy
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fortschritt
- trans_en: 
+ trans_en: progress
 -lexeme
  lex: taraṣa
  stem: taraṣa.
  root: trṣ
  gramm: N,f
- paradigm: N1
- trans_de: Terrasse S
- trans_en: 
+ paradigm: <?>
+ trans_de: Terrasse
+ trans_en: terrace
+-lexeme
+ lex: tarbiyesəz
+ stem: tarbiyesəz.
+ root: rbw
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: ungezogen
+ trans_en: ill-mannered
 -lexeme
  lex: tarbo
  stem: tarbo.
  root: trb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Innenfett der Tiere, aus dem Seife gemacht wird. Man kann es auch ins Essen tun
- trans_en: 
--lexeme
- lex: tarǧame
- stem: tarǧame.
- root: trǧm
- gramm: N,f
- paradigm: N1
- trans_de: Übersetzung
- trans_en: 
--lexeme
- lex: tarǧaman
- stem: tarǧaman.
- root: trǧm
- gramm: N,m
- paradigm: N1
- trans_de: Dolmetscher
- trans_en: 
--lexeme
- lex: tarǧiman
- stem: tarǧiman.
- root: trǧm
- gramm: N,m
- paradigm: N1
- trans_de: Dolmetscher
- trans_en: 
--lexeme
- lex: tarǧime
- stem: tarǧime.
- root: trǧm
- gramm: N,f
- paradigm: N1
- trans_de: Übersetzung
- trans_en: 
+ trans_en: animal interior fat from which soap is made. One can also eat it
 -lexeme
  lex: tare
  stem: tare.|tarat.
@@ -37304,39 +37328,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stadt-, Dorfviertel pl
- trans_en: 
+ trans_en: city, village district pl
 -lexeme
- lex: tarəške
- stem: tarəške.
- root: trš
- gramm: N,f
- paradigm: N1
- trans_de: einer, bandförmiger Tuchstreifen
- trans_en: 
+ lex: tarǧiḥ
+ stem: tarǧiḥ.
+ root: rǧḥ
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Bevorzugung
+ trans_en: preferential treatment
 -lexeme
- lex: tariġ
- stem: tariġ.|tariġat.
- root: ʔrx
+ lex: tarǧiman/tarǧaman
+ stem: tarǧiman.//tarǧaman.
+ root: trǧm
  gramm: N,m
- paradigm: N2
- trans_de: Geschichte pl
- trans_en: 
+ paradigm: <?>
+ trans_de: Dolmetscher
+ trans_en: interpreter
+-lexeme
+ lex: tarǧime/tarǧame
+ stem: tarǧime.//tarǧame.
+ root: trǧm
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Übersetzung
+ trans_en: translation
 -lexeme
  lex: tariġči
- stem: tariġči.|tariġčiiye.
+ stem: tariġči.|tariġčiye.
  root: ʔrx
  gramm: N,m
  paradigm: N2
- trans_de: iye Geschichtsschreiber, Historiker pl
- trans_en: 
+ trans_de: Geschichtsschreiber, Historiker
+ trans_en: historiographer, historian
 -lexeme
- lex: tarix
- stem: tarix.
+ lex: tariše/tarəške
+ stem: tariše.//tarəške.
+ root: trš
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: bandförmiger Tuchstreifen
+ trans_en: band-shaped cloth strip
+-lexeme
+ lex: tarix/tariġ
+ stem: tarix.//tariġ.|tarixat.//tariġat.
  root: ʔrx
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Geschichte, Datum, Zeitpunkt
- trans_en: 
+ trans_en: history, date, time
+-lexeme
+ lex: tark
+ stem: tark.
+ root: trk
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: verlassen
+ trans_en: leave
 -lexeme
  lex: tarp/ṭarp/ṭarm
  stem: tarp.//ṭarp.//ṭarm.
@@ -37346,21 +37394,45 @@
  trans_de: bums!
  trans_en: bang!
 -lexeme
+ lex: tarqen
+ stem: tarqen.
+ root: trqn
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geräusch des Schusses, einer Explosion, Herzklopfen
+ trans_en: gunshot, explosion, palpitation sound
+-lexeme
+ lex: tarqil
+ stem: tarqil.
+ root: rql
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Plage
+ trans_en: plague
+-lexeme
+ lex: tarsa
+ stem: tarsa.
+ root: trs
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: übergroß, unhandlich; betrügerisch
+ trans_en: oversized, unwieldy; fraudulent
+-lexeme
  lex: tarše
  stem: tarše.
  root: trš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Betrug
- trans_en: 
+ trans_en: fraud
 -lexeme
  lex: tarte
  stem: tarte.
  root: trt
- gramm: N,f
- paradigm: N1
- trans_de: das Wort, dass ich einmal gesprochen habe, wird nicht zum zweiten Male gesprochen, ich nehme mein Wort nicht zurück“
- trans_en: 
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zwei
+ trans_en: two
 -lexeme
  lex: tartemeni
  stem: tartemeni.//ṭərṭəmeni.|tartemeniye.//ṭərṭəmeniyin.
@@ -37722,6 +37794,14 @@
  trans_de: dritter
  trans_en: third
 -lexeme
+ lex: telġəraf/telġeraf/taliġraf/talġuraf/talagraf
+ stem: telġəraf.//telġeraf.//taliġraf.//talġuraf.//talagraf.
+ root: tlġrf
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Telegramm
+ trans_en: telegram
+-lexeme
  lex: tenko
  stem: tenko.
  root: tnk
@@ -37889,14 +37969,6 @@
  paradigm: unchangeable
  trans_de: vorvoriges Jahr
  trans_en: last year
--lexeme
- lex: təmam
- stem: təmam.
- root: tmm
- gramm: ADV
- paradigm: unchangeable
- trans_de: ganz und gar, fertig
- trans_en: completely, readily
 -lexeme
  lex: təm mede/tə mede
  stem: təm mede.//tə mede.
@@ -38906,8 +38978,8 @@
  trans_de: Grube
  trans_en: hole
 -lexeme
- lex: ṭapṭapṭap
- stem: ṭapṭapṭap.
+ lex: ṭapṭapṭap/taptap
+ stem: ṭapṭapṭap.//taptap.
  root: ṭpṭpṭp
  gramm: <?>
  paradigm: unchangeable
@@ -39224,7 +39296,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Kamelin oder Eigenname einer solchen
- trans_en: ...
+ trans_en: female camel or proper name of one
 -lexeme
  lex: ṭayiže
  stem: ṭayiže.|ṭayižat.
@@ -40241,14 +40313,6 @@
  paradigm: unchangeable
  trans_de: töricht, nichts verstehend
  trans_en: foolish, understanding nothing
--lexeme
- lex: warḥasəl
- stem: warḥasəl.
- root: ḥsl
- gramm: N,f
- paradigm: N2
- trans_de: kurz und gut
- trans_en: 
 -lexeme
  lex: waridat
  stem: waridat.
