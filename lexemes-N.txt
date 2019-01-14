@@ -34835,6 +34835,14 @@
  trans_de: offener Sack, zum Transport des gemähten Getreides zur Tenne
  trans_en: 
 -lexeme
+ lex: šalap/šlap
+ stem: šalap.//šlap. 
+ root: šlp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: lautmalend, wenn einer aus dem Reitersitz herunterfällt
+ trans_en: onomatopoetic, when one falls out of the rider's seat
+-lexeme
  lex: šalelke
  stem: šalelke.
  root: šll
@@ -35660,12 +35668,12 @@
  trans_en: 
 -lexeme
  lex: šəbbak
- stem: šəbbak.|šibabək.//šibebək.
+ stem: šəbbak.//šubbak.//šaboko.|šibabək.//šibebək.
  root: šbk
  gramm: N,m
  paradigm: N2
  trans_de: Fenster
- trans_en: 
+ trans_en: window
 -lexeme
  lex: šəbha
  stem: šəbha.
@@ -35715,13 +35723,13 @@
  trans_de: Hosenband
  trans_en: 
 -lexeme
- lex: šək
- stem: šək.
+ lex: šək/šəkwak/šukuk
+ stem: šək.//šəkwak.//šukuk
  root: škk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zweifel
- trans_en: 
+ trans_en: doubt
 -lexeme
  lex: šəkəl
  stem: šəkəl.|šəklat.//aškal.
@@ -36010,21 +36018,45 @@
  trans_de: Spulwurm
  trans_en: 
 -lexeme
- lex: šivane-štaġlonak
- stem: šivane-štaġlonak.
- root: švn-štġlnk
- gramm: N,m
- paradigm: N1
- trans_de: der Hirt ihn fangen will, fliegt er immer ein Stückchen weiter. Dabei wird der Hirt müde und schläft ein; „Hirtenbeschäftiger“
- trans_en: 
+ lex: šiše šayək
+ stem: šiše šayək.
+ root: šššyk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Schlafmohn, Papaver somniferum L.
+ trans_en: opium poppy, papaver somniferum
+-lexeme
+ lex: šiv
+ stem: šiv. 
+ root: šv
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Abendessen
+ trans_en: supper
+-lexeme
+ lex: šivane štaġlonak
+ stem: šivane štaġlonak.
+ root: švnštġlnk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: bunter Vogel, kommt auf 2 m heran, wenn der Hirt ihn fangen will, fliegt er immer ein Stückchen weiter. Dabei wird der Hirt müde und schläft ein; „Hirtenbeschäftiger“
+ trans_en: colorful bird, comes up to 2 m, if the shepherd wants to catch it, it always flies a bit further. The shepherd gets tired and falls asleep; "Shepherds occupier"
 -lexeme
  lex: šiwa
  stem: šiwa.
  root: šw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Mundart, Dialekt
- trans_en: 
+ trans_en: vernacular, dialect
+-lexeme
+ lex: šiyar/šyar
+ stem: šiyar.//šyar. 
+ root: šyr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: wach
+ trans_en: awake
 -lexeme
  lex: škafte
  stem: škafte.|škaftat.
@@ -36032,31 +36064,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Höhle
- trans_en: 
+ trans_en: cave
 -lexeme
- lex: škaft(ə)ke
- stem: škaft(ə)ke.
- root: škft()k
- gramm: N,f
- paradigm: N1
+ lex: škaftke/škaftəke
+ stem: škaftke.//škaftəke.
+ root: škft
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: kleine Höhle
- trans_en: 
+ trans_en: small cave
+-lexeme
+ lex: škalat
+ stem: škalat.
+ root: škl
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: verschiedene Arten
+ trans_en: different types
+-lexeme
+ lex: škava
+ stem: škava. 
+ root: škv
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Armenbrot. Wenn einer aus einem Unfall heil davongekommen ist, verteilt man ungesäuertes Brot an die Armen
+ trans_en: bread of the poor. If someone escapes in an accident, he gives out unleavened bread to the poor
 -lexeme
  lex: šker
  stem: šker.
  root: škr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: krepiertes Tier
- trans_en: 
+ trans_en: dead animal
 -lexeme
  lex: škere
- stem: škere.
+ stem: škere.|škerat.
  root: škr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stein(haufen)
- trans_en: 
+ trans_en: heap of stones
 -lexeme
  lex: škuk
  stem: škuk.|škukat.
@@ -36064,7 +36112,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Verdacht
- trans_en: 
+ trans_en: suspicion
+-lexeme
+ lex: škur m aloho/škur m alo
+ stem: škur m aloho.//škur m alo.
+ root: škr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gott sei Dank! 
+ trans_en: thank God!
 -lexeme
  lex: šlado
  stem: šlado.|šladoat.
@@ -36072,15 +36128,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Leichnam
- trans_en: 
+ trans_en: corpse
 -lexeme
  lex: šlaglugo
  stem: šlaglugo.
  root: šlglg
  gramm: N,m
- paradigm: N1
- trans_de: großer Brocken (von Steinen)
- trans_en: 
+ paradigm: <?>
+ trans_de: großer Brocken (von Steinen); Eiszapfen
+ trans_en: big piece (of stones); icicle
 -lexeme
  lex: šlangmo
  stem: šlangmo.|šlangme.
@@ -36088,7 +36144,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: dicke Zuckermelone
- trans_en: 
+ trans_en: thick cantaloupe
 -lexeme
  lex: šliḥo
  stem: šliḥo.|šliḥe.
@@ -36096,7 +36152,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Apostel
- trans_en: 
+ trans_en: apostle
 -lexeme
  lex: šlomo
  stem: šlomo.|šlome.
@@ -36104,7 +36160,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Heil, Gruß!
- trans_en: 
+ trans_en: hail, greetings!
 -lexeme
  lex: šmamoke
  stem: šmamoke.|šmamokat.
@@ -36112,31 +36168,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Art Melone in Apfelgröße, sehr wohlriechend
- trans_en: 
+ trans_en: a kind of very fragrant, apple-sized melons
 -lexeme
  lex: šmayo
- stem: šmayo.
+ stem: šmayo.|šmayoṯo.
  root: smw
  gramm: N,f
- paradigm: N1
- trans_de: a) Himmel b) Heliotrop c) Gaumen
- trans_en: 
+ paradigm: N2
+ trans_de: Himmel; Heliotrop; Gaumen
+ trans_en: sky; heliotrope; palate
+-lexeme
+ lex: šmayoniṯo 
+ stem: šmayoniṯo.
+ root: smw
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: himmlisch
+ trans_en: heavenly
 -lexeme
  lex: šmənto
  stem: šmənto.
  root: šmnt
  gramm: N,f
- paradigm: N1
- trans_de: ein wenig
- trans_en: 
+ paradigm: unchangeable
+ trans_de: etwas, ein wenig
+ trans_en: something, a little bit
 -lexeme
  lex: šmiṭoyo
  stem: šmiṭoyo.|šmiṭoye.
  root: šmṭ
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: barfuß
+ trans_en: barefoot
 -lexeme
  lex: šoʕo
  stem: šoʕo.|šoʕe.
@@ -36144,63 +36208,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Fels
- trans_en: 
+ trans_en: rock
 -lexeme
- lex: šobak
- stem: šobak.
- root: šbk
- gramm: N,m
- paradigm: N1
- trans_de: Fenster
- trans_en: 
--lexeme
- lex: šohən
- stem: šohən.
+ lex: šohən/šehin
+ stem: šohən.//šehin.
  root: šhn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Waage
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: šohra/šuhra
+ stem: šohra.//šuhra.
+ root: šhr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Freudendemonstration, öffentlicher Aufzug; sehenswert, berühmt; berühmt(es Essen)
+ trans_en: peace demonstration, public elevator; worth seeing, famous; famous (food)
 -lexeme
  lex: šoluḥo
  stem: šoluḥo.
  root: šlḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gänsemarsch
- trans_en: 
+ trans_en: single file
 -lexeme
  lex: šoluḥto/šoləḥto
- stem: šoluḥto/šoləḥto.
+ stem: šoluḥto.//šoləḥto.
  root: šlḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück Fleisch ohne Knochen
- trans_en: 
+ trans_en: peace of meat without bones
 -lexeme
  lex: šop
  stem: šop.
  root: šp
  gramm: N,m
- paradigm: N1
- trans_de: Kielwasser
- trans_en: 
+ paradigm: <?>
+ trans_de: Kielwasser; Spur, Fährte
+ trans_en: wake; track, trauk
+-lexeme
+ lex: šoqəle
+ stem: šoqəle.
+ root: šql
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Platterbse, Lathyrus
+ trans_en: vetchling, lathurys
 -lexeme
  lex: šoqo
- stem: šoqo.|šoqe.
+ stem: šoqo.//šuqo.|šoqe.//šuqe.
  root: šq
  gramm: N,m
  paradigm: N2
- trans_de: a) Nasenloch b) Stengel, Halm
- trans_en: 
+ trans_de: Nasenloch; Stengel, Halm; Markt, Gasse
+ trans_en: nostril; stem, stalk; market, alley
 -lexeme
  lex: šoquqo
  stem: šoquqo.
  root: šqq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mandelblattbirne, Pinus amygdaliforis Vill.
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: šorba/šurba/širba/čorba
  stem: šorba.//šurba.//širba.//čorba.|šorbat.//šurbat.//širbat.//čorbat.
@@ -36218,13 +36290,13 @@
  trans_de: Kompagnon, Teilhaber
  trans_en: partner, associate
 -lexeme
- lex: šuriko
- stem: šuriko.|šurike.
- root: šrk
- gramm: N,m
- paradigm: N2
- trans_de: Teilhaber
- trans_en: 
+ lex: šoriṭ
+ stem: šoriṭ.
+ root: šrṭ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausdruck aus dem hole-Spiel
+ trans_en: expression from ...
 -lexeme
  lex: šoriṭo/šuriṭo
  stem: šoriṭo.//šuriṭo.|šoriṭe.//šuriṭe.
@@ -36234,37 +36306,69 @@
  trans_de: Strick
  trans_en: rope
 -lexeme
+ lex: šoš
+ stem: šoš.
+ root: šš
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Halteruf für Esel
+ trans_en: stop-shout for donkeys
+-lexeme
  lex: šoyəfto
  stem: šoyəfto.
  root: šyft
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: rundes Gefäß, in dem trockener Ayran mit Wasser wieder flüssig gemacht wird
- trans_en: 
+ trans_en: round vessel in which dry ayran is made liquid again with water
 -lexeme
  lex: špəlte
  stem: špəlte.
  root: šplt
  gramm: N,f
- paradigm: N1
- trans_de: a) Rocksaum; ~ d-aloho b) Gesicht; c)
- trans_en: 
+ paradigm: <?>
+ trans_de: Rocksaum; Gesicht; špəlte bayn am maye 'unverschämt, schamlos, scheiße'
+ trans_en: skirt hem; face; špəlte bayn am maye 'outrageous, shameless, shit'
 -lexeme
  lex: šqafke
  stem: šqafke.
  root: šqf
  gramm: N,f
- paradigm: N1
- trans_de: R
- trans_en: 
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: šqaqəlke
+ stem: šqaqəlke.
+ root: šqql
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: leeres Ei, Eierschale, halbe oder ¾ leere Eierschale; Erdhäufchen im Häufchenspiel
+ trans_en: empty egg, eggshell, half or ¾ empty eggshell; piles of earth in the ...
+-lexeme
+ lex: šqaram
+ stem: šqaram.
+ root: šqrm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: aus Angst oder Erschöpfung zusammengebrochen
+ trans_en: collapsed out of fear or exhaustion
+-lexeme
+ lex: šqarquʕo
+ stem: šqarquʕo.
+ root: šqrqʕ
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Eierschale
+ trans_en: eggshell
 -lexeme
  lex: šqifo
  stem: šqifo.
  root: šqp
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Felsenhöhlung, Erdspalt
- trans_en: 
+ trans_en: rock cavity, crevice
 -lexeme
  lex: šqoqo
  stem: šqoqo.|šqoqone.
@@ -36272,15 +36376,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gasse
- trans_en: 
+ trans_en: street
 -lexeme
  lex: šquʕro
  stem: šquʕro.
  root: šqʕr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schote (von Erbsen u. ä.)
- trans_en: 
+ trans_en: pod (of peas and the like)
+-lexeme
+ lex: šre ḥašo
+ stem: šre ḥašo.
+ root: šrw/šry
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: mit gelöster Hüfte, mit gelöstem Gürtel, im Nachtgewand
+ trans_en: with relaxed hips, with loosened belt, in nightgown
 -lexeme
  lex: šroġo
  stem: šroġo.|šroġe.
@@ -36288,7 +36400,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleine Petroleumlampe
- trans_en: 
+ trans_en: small kerosene lamp
+-lexeme
+ lex: šrolo/šroro
+ stem: šrolo.//šroro.|šrole.//šrore.
+ root: šrl
+ gramm: N,m
+ paradigm: N2
+ trans_de: Wahrheit
+ trans_en: truth
+-lexeme
+ lex: šrufe
+ stem: šrufe.
+ root: šrf
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Vogelmist
+ trans_en: guano
 -lexeme
  lex: šrulo
  stem: šrulo.|šrule.
@@ -36296,39 +36424,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Blätterwerk der Melone
- trans_en: 
+ trans_en: melon foliage
 -lexeme
  lex: šrulto
  stem: šrulto.
  root: šrlt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stengel von Melonen und Gurken
- trans_en: 
+ trans_en: melon and cucumber stems
 -lexeme
  lex: štaġaliye
  stem: štaġaliye.
  root: štġly
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Reden, Sprechen
- trans_en: 
+ trans_en: talk, speak
 -lexeme
  lex: štamaʕ
  stem: štamaʕ.
  root: ǧmʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Versammlung
- trans_en: 
+ trans_en: assembly
 -lexeme
  lex: šṭərənǧ
  stem: šṭərənǧ.
  root: šṭrnǧ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schach
- trans_en: 
+ trans_en: chess
 -lexeme
  lex: šubha
  stem: šubha.|šubhat.
@@ -36336,71 +36464,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zweifel, Verdacht
- trans_en: 
+ trans_en: doubt, suspicion
 -lexeme
- lex: šubhoro
- stem: šubhoro.
+ lex: šubhan
+ stem: šubhan.
+ root: šbh
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: entsprechend, ähnlich
+ trans_en: accordingly, similarly
+-lexeme
+ lex: šubhoro/šəbḥoro
+ stem: šubhoro.//šəbḥoro.
  root: šbhr
  gramm: N,m
- paradigm: N1
- trans_de: mit Amt, als Agha und dergl.)
- trans_en: 
+ paradigm: unchangeable
+ trans_de: sich brüsten (mit Amt, als Agha und dergl.)
+ trans_en: to boast (with office, as Agha and the like)
 -lexeme
  lex: šubḥo
- stem: šubḥo.|m·ع.
+ stem: šubḥo.|šubḥe.
  root: šbḥ
  gramm: N,m
  paradigm: N2
  trans_de: Preis, Ehre, wunderreiche Gnade
- trans_en: 
+ trans_en: price, honor, wonderful grace
 -lexeme
- lex: šŭfer
- stem: šŭfer.
- root: šŭfr
+ lex: šuǧaʕi
+ stem: šuǧaʕi.
+ root: šǧʕ
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: tapfer 
+ trans_en: brave
+-lexeme
+ lex: šufer
+ stem: šufer.
+ root: šfr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Chauffeur
- trans_en: 
+ trans_en: chauffeur
 -lexeme
  lex: šufro
  stem: šufro.
  root: špr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schönheit
- trans_en: 
+ trans_en: beauty
 -lexeme
  lex: šuġlo
- stem: šuġlo.|šuġloone.//šuġloe.
+ stem: šuġlo.|šuġlone.//šuġle.
  root: šġl
  gramm: N,m
  paradigm: N2
  trans_de: Arbeit; Angelegenheit, Sache
- trans_en: 
+ trans_en: job; matter, thing
 -lexeme
- lex: šuhra
- stem: šuhra.
- root: šhr
- gramm: N,f
- paradigm: N1
- trans_de: a) Freudendemonstration, öffentlicher Aufzug b) sehenswert, berühmt
- trans_en: 
--lexeme
- lex: šŭkuk
- stem: šŭkuk.
- root: škk
- gramm: N,m
- paradigm: N1
- trans_de: Zweifel
- trans_en: 
+ lex: šuḥšuḥ
+ stem: šuḥšuḥ.
+ root: šḥšḥ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Grunzen; Rauschen des Wassers
+ trans_en: grunt; water noise 
 -lexeme
  lex: šulṭono
- stem: šulṭono.
- root: slṭn
+ stem: šulṭono.|šulṭone.
+ root: slṭ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sultan
- trans_en: 
+ trans_en: sultan
+-lexeme
+ lex: šume
+ stem: šume.
+ root: šm
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Nasenschleim
+ trans_en: nasal mucus
 -lexeme
  lex: šun
  stem: šun. 
@@ -36424,15 +36568,7 @@
  gramm: N,pl
  paradigm: unchangeable
  trans_de: sehr starke, schnell auftretende und vergehende Schmerzen, z. B. Kopfschmerzen; klopfende in kurzen Abständen intermittierende Schmerzen
- trans_en: very strong, fast-occuring and passing pain, e. g. headache; ...
--lexeme
- lex: šuqo
- stem: šuqo.|šuqoone.
- root: šq
- gramm: N,m
- paradigm: N2
- trans_de: Markt, Gasse; Nasenloch
- trans_en: market, alley; nostril
+ trans_en: very strong, fast-occuring and passing pain, e. g. headache; often intermittent throbbing pain
 -lexeme
  lex: šuqo
  stem: šuqo.
