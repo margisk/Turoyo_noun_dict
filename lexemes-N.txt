@@ -3622,8 +3622,8 @@
  trans_de: gestern
  trans_en: yesterday
 -lexeme
- lex: aṯna
- stem: aṯna.//iṯna.
+ lex: aṯna/iṯna/əṯna
+ stem: aṯna.//iṯna.//əṯna.
  root: tn
  gramm: N,f
  paradigm: unchangeable
@@ -15668,8 +15668,8 @@
  trans_de: Gefangener
  trans_en: captured, prisoner
 -lexeme
- lex: heš/hež
- stem: heš.//hež.
+ lex: heš/hež/iš
+ stem: heš.//hež.//iš.
  root: hš
  gramm: ADV
  paradigm: unchangeable
@@ -17076,8 +17076,8 @@
  trans_de: mit Verlaub zu sagen, mit Respekt zu vermelden (wenn man von Hund oder Esel oder sonst etwas Unschicklichem spricht)
  trans_en: if I may, if you allow me to say (when someone speaks about a dog or a donkey or about something else which is inappropriate)
 -lexeme
- lex: ḥašara/ḥšara
- stem: ḥašara.//ḥšara.|ḥašarat.//ḥšarat.
+ lex: ḥašara/ḥšara/išara
+ stem: ḥašara.//ḥšara.//išara.|ḥašarat.//ḥšarat.//išarat.
  root: ʔšr
  gramm: N,f
  paradigm: N2
@@ -18787,8 +18787,8 @@
  trans_de: Menschlichkeit
  trans_en: humanity
 -lexeme
- lex: inšalla/ənšalla
- stem: inšalla.//ənšalla.
+ lex: inšalla/ənšalla/išalla
+ stem: inšalla.//ənšalla.//išalla.
  root: nšll
  gramm: INTERJ
  paradigm: unchangeable
@@ -18851,61 +18851,125 @@
  trans_de: Alkohol
  trans_en: alcohol
 -lexeme
- lex: istaqbal
- stem: istaqbal.
+ lex: istaqbal/əstaqbal/əstəqbal
+ stem: istaqbal.//əstaqbal.//əstəqbal.
  root: qbl
  gramm: N,m
- paradigm: N1
- trans_de: Empfang, Gegenübertreten
- trans_en: 
+ paradigm: <?>
+ trans_de: Empfang, Gegenübertreten; Geleitgeben
+ trans_en: reception, attitude <?>; <?>
 -lexeme
- lex: ist(ə)raḥa
- stem: ist(ə)raḥa.
+ lex: istəraḥa/istraḥa/əstiraḥa/istiraḥa
+ stem: istəraḥa.//istraḥa.//əstiraḥa.//istiraḥa.
  root: rwḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ausruhen, Ruhepause
- trans_en: 
+ trans_en: rest, resting pause
+-lexeme
+ lex: Išwač
+ stem: Išwač.
+ root: šwč
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Schweden
+ trans_en: Sweden
 -lexeme
  lex: iswači
- stem: iswači.
+ stem: iswači.|išwačiye.
  root: swč
  gramm: N,m
- paradigm: N1
- trans_de: iye Iswäҫi m; f,pl Schwede, schwedisch
- trans_en: 
--lexeme
- lex: išara
- stem: išara.|išarat.
- root: ʔšr
- gramm: N,f
  paradigm: N2
- trans_de: Zeichen, Signal
- trans_en: 
+ trans_de: Schwede, schwedisch
+ trans_en: Swede, Swedish
 -lexeme
- lex: išmo
- stem: išmo.|išmoišmone.
+ lex: əšmənto/šmənto
+ stem: əšmənto.//šmənto.
+ root: šm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ein wenig
+ trans_en: a bit
+-lexeme
+ lex: əšmtər
+ stem: əšmtər.
+ root: šm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: weniger
+ trans_en: less
+-lexeme
+ lex: əšmo
+ stem: əšmo.|əšmone.
  root: šm
  gramm: N,m
  paradigm: N2
- trans_de: a) Name b) wenig
- trans_en: 
+ trans_de: Name
+ trans_en: name
+-lexeme
+ lex: əšmo
+ stem: əšmo.
+ root: šm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: wenig
+ trans_en: a bit
+-lexeme
+ lex: əšqaḏ
+ stem: əšqaḏ.
+ root: šqḏ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: voriges Jahr
+ trans_en: last year
+-lexeme
+ lex: əšwəṭ
+ stem: əšwəṭ.
+ root: šwṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Februar
+ trans_en: february
 -lexeme
  lex: iṭali
- stem: iṭali.|iṭaliiye.
+ stem: iṭali.|iṭaliye.
  root: ṭl
  gramm: N,m
  paradigm: N2
- trans_de: Italiener
- trans_en: 
+ trans_de: italienisch, Italiener
+ trans_en: Italian, an Italian
+-lexeme
+ lex: Iṭalya
+ stem: Iṭalya
+ root: ṭl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Italien
+ trans_en: Italy
+-lexeme
+ lex: iyar
+ stem: iyar.
+ root: yr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Mai
+ trans_en: May
 -lexeme
  lex: izən/əzən
- stem: izən/əzən.
+ stem: izən.//əzən.|izənat.//əzənat.
  root: ʔḏn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Urlaub, Erlaubnis
- trans_en: 
+ trans_en: vacation; permission
+-lexeme
+ lex: ižab
+ stem: ižab.
+ root: žb
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Notwendigkeit
+ trans_en: necessity
 -lexeme
  lex: iždan
  stem: iždan.
