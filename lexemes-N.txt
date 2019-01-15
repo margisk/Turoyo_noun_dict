@@ -35689,7 +35689,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gedicht, Dichtung pl
- trans_en: 
+ trans_en: poem, poetry
 -lexeme
  lex: šəbbak
  stem: šəbbak.//šubbak.//šaboko.|šibabək.//šibebək.
@@ -35798,41 +35798,57 @@
  stem: šəməke.
  root: šmk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schuh des Geistlichen und der Mädchen
- trans_en: 
+ trans_en: clergyman or girl shoe
 -lexeme
  lex: šəmloyo
  stem: šəmloyo.
- root: mlw
+ root: mlw/mly
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Räucherung in der Kirche
- trans_en: 
+ trans_en: fumigation in the church
 -lexeme
- lex: šəmmaʕa
- stem: šəmmaʕa.
+ lex: šəmmaʕa/mšamʕa
+ stem: šəmmaʕa.//mšamʕa.
  root: šmʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Regenhaut
- trans_en: 
+ trans_en: plastic raincoat
 -lexeme
  lex: šəmšo
  stem: šəmšo.
  root: šms
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sonne(nschein)
- trans_en: 
+ trans_en: sun(shine)
+-lexeme
+ lex: šən
+ stem: šən.
+ root: šn
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: šəngašəng
+ stem: šəngašəng.
+ root: šngšng
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: klirr
+ trans_en: crash
 -lexeme
  lex: šəqqa
  stem: šəqqa.
  root: šqq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: kleiner Bettvorleger
- trans_en: 
+ trans_en: small bedside rug
 -lexeme
  lex: šəqqa
  stem: šəqqa.|šəqqat.
@@ -35840,63 +35856,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hälfte
- trans_en: 
+ trans_en: half
 -lexeme
- lex: šərake
- stem: šərake.
+ lex: šərake/šarake
+ stem: šərake.//šarake.
  root: šrk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Anteil, Mitinhaberschaft an der Sünde
- trans_en: 
--lexeme
- lex: šərba
- stem: šərba.
- root: šrb
- gramm: N,f
- paradigm: N1
- trans_de: Suppe
- trans_en: 
+ trans_en: share, participation in sin
 -lexeme
  lex: šərke
- stem: šərke.
+ stem: šərke.|šərkat.
  root: šrk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Handelsgesellschaft, Firma
- trans_en: 
+ trans_en: trading company, firm
+-lexeme
+ lex: šəršər
+ stem: šəršər.
+ root: šršr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: lautmalend für das Rauschen des Wasser
+ trans_en: onomatopoeical for water sound
 -lexeme
  lex: šərṭa
- stem: šərṭa.|šərṭa.
+ stem: šərṭa.
  root: šrṭ
  gramm: N,f
- paradigm: N2
+ paradigm: unchangeable
  trans_de: Polizei pl
- trans_en: 
+ trans_en: police pl
 -lexeme
  lex: šərṭan
  stem: šərṭan.
  root: šrṭn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: getrockneter Ayran in Gestalt kleiner dreieckiger Küchlein (ein Exemplar befindet sich in meinem, d. h. Ritters, Besitz)
- trans_en: 
+ trans_en: dried ayran in the form of small triangular cudgel (a copy is in my, Ritter`s, possession)
 -lexeme
  lex: šərṭi
  stem: šərṭi.
  root: šrṭ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Polizist
- trans_en: 
+ trans_en: policeman
 -lexeme
  lex: šəšmo
- stem: šəšmo.
+ stem: šəšmo.|šəšme.
  root: ššm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sesam
- trans_en: 
+ trans_en: sesame
 -lexeme
  lex: šəšwono
  stem: šəšwono.|šəšwone.
@@ -35904,31 +35920,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ameise
- trans_en: 
+ trans_en: ant
+-lexeme
+ lex: šəšwənto/šəšwanto/šəšwoniṯo
+ stem: šəšwənto.//šəšwanto.//šəšwoniṯo.
+ root: šwn
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Ameise (f)
+ trans_en: ant (f)
+-lexeme
+ lex: šətt
+ stem: šətt.
+ root: štt
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Teufelin
+ trans_en: she-devil
 -lexeme
  lex: šḥanṯo
- stem: šḥanṯo.
+ stem: šḥanṯo.|šḥanyoṯo.
  root: šḥn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hitze
- trans_en: 
+ trans_en: hitze
 -lexeme
- lex: šḥar
- stem: šḥar.
- root: šḥr
- gramm: N,m
- paradigm: N1
- trans_de: Ruß
- trans_en: 
--lexeme
- lex: šḥaṭa
- stem: šḥaṭa.
- root: šḥṭ
- gramm: N,f
- paradigm: N1
- trans_de: Zündholz
- trans_en: 
+ lex: ši 
+ stem: ši.
+ root: šyʔ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwas, Ersatzwort, wenn einem das richtige nicht einfällt, wie syr. hno
+ trans_en: something, substitute word, when one can not think of the right one, like syr. hno
 -lexeme
  lex: šiḏo
  stem: šiḏo.|šiḏe.
@@ -35936,55 +35960,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Teufel
- trans_en: 
+ trans_en: devil
 -lexeme
  lex: šiduṯo
  stem: šiduṯo.
  root: šdṯ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: teuflische Natur
- trans_en: 
--lexeme
- lex: šifer
- stem: šifer.
- root: šfr
- gramm: N,m
- paradigm: N1
- trans_de: Chauffeur
- trans_en: 
--lexeme
- lex: šifertiye
- stem: šifertiye.
- root: šfrty
- gramm: N,f
- paradigm: N1
- trans_de: Chauffeurberuf
- trans_en: 
--lexeme
- lex: šifo
- stem: šifo.|šife.
- root: šf
- gramm: N,m
- paradigm: N2
- trans_de: Steinbruch herausgeschlagenes Stück, Steinplatte
- trans_en: 
--lexeme
- lex: šihar
- stem: šihar.
- root: šhr
- gramm: N,m
- paradigm: N1
- trans_de: einiger, nicht beackerbarer Grund, der mit der Hacke bearbeitet werden muss
- trans_en: 
--lexeme
- lex: šiḥoro
- stem: šiḥoro.
- root: šḥr
- gramm: N,m
- paradigm: N1
- trans_de: Ruß
- trans_en: 
+ trans_en: diabolic nature
 -lexeme
  lex: šiər
  stem: šiər.|šiərat.
@@ -35992,15 +35976,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dichtung
- trans_en: 
+ trans_en:
+-lexeme
+ lex: šifer
+ stem: šifer.
+ root: šfr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Chauffeur
+ trans_en: chauffeur
+-lexeme
+ lex: šifertiye
+ stem: šifertiye.
+ root: šfrty
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Chauffeurberuf
+ trans_en: chauffeur job
+-lexeme
+ lex: šifo
+ stem: šifo.|šife.
+ root: šf
+ gramm: N,m
+ paradigm: N2
+ trans_de: Steinbruch herausgeschlagenes Stück, Steinplatte
+ trans_en: a piece knocked out of quarry, stone plate
+-lexeme
+ lex: šigarto/šigərto
+ stem: šigarto.//šigərto.
+ root: šgr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Frucht des Mastix-, Pistazienbaumes, Pistacia mutica Fisch et Mei 
+ trans_en: fruit of the mastic-, pistachio tree, <?>
+-lexeme
+ lex: šigur/tšigur
+ stem: šigur.//tšigur.
+ root: šgr
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Sindschargebirge 
+ trans_en: mount Sinjar 
+-lexeme
+ lex: šihar
+ stem: šihar.
+ root: šhr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: steiniger, nicht beackerbarer Grund, der mit der Hacke bearbeitet werden
+ trans_en: stony, non-cultivable ground, which is cultivated with hoe
+-lexeme
+ lex: šiḥoro/šḥar
+ stem: šiḥoro.//šḥar.
+ root: šḥr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Ruß
+ trans_en: soot
+-lexeme
+ lex: šilo
+ stem: šilo.
+ root: šl
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: furchtsam
+ trans_en: fearful
 -lexeme
  lex: šiniye
  stem: šiniye.
  root: šny
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gemüse, Grünzeug
- trans_en: 
+ trans_en: vegetables, greens
+-lexeme
+ lex: širqen
+ stem: širqen. 
+ root: šrqn
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Krachen
+ trans_en: crack
 -lexeme
  lex: šira
  stem: šira.|širat.
@@ -36008,31 +36064,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ratschlag
- trans_en: 
+ trans_en: piece of advice
 -lexeme
  lex: širaniye
  stem: širaniye.
  root: šrn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Süßigkeit mit verschiedenen Ingredienzien
- trans_en: 
+ trans_en: sweets with different ingredients
 -lexeme
  lex: širatkar
  stem: širatkar.
  root: šwr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Ratgeber
- trans_en: 
+ trans_en: advisor
 -lexeme
  lex: širəz
- stem: širəz.
+ stem: širəz.|širəzat.
  root: šrz
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Leim
- trans_en: 
+ trans_en: glue
 -lexeme
  lex: šišaʕlo
  stem: šišaʕlo.|šišaʕle.
@@ -36040,7 +36096,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Spulwurm
- trans_en: 
+ trans_en: eelworm
+-lexeme
+ lex: šiše dak kallawat
+ stem: šiše dak kallawat.
+ root: ššdkllw
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Schlafmohn, Papaver somniferum
+ trans_en: opium poppy, papaver somniferum
 -lexeme
  lex: šiše šayək
  stem: šiše šayək.
@@ -36298,8 +36362,8 @@
  trans_de: Mandelblattbirne, Pinus amygdaliforis Vill.
  trans_en: <?>
 -lexeme
- lex: šorba/šurba/širba/čorba
- stem: šorba.//šurba.//širba.//čorba.|šorbat.//šurbat.//širbat.//čorbat.
+ lex: šorba/šurba/širba/šərba/čorba
+ stem: šorba.//šurba.//širba.//šərba.//čorba.|šorbat.//šurbat.//širbat.//šərbat.//čorbat.
  root: šrb
  gramm: N,f
  paradigm: N2
@@ -36706,8 +36770,8 @@
  trans_de: Dorfviertel
  trans_en: village quarter
 -lexeme
- lex: šxaṭa
- stem: šxaṭa.
+ lex: šxaṭa/šḥaṭa
+ stem: šxaṭa.//šḥaṭa.
  root: šḥṭ
  gramm: N,f
  paradigm: <?>
