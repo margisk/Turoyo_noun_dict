@@ -18971,13 +18971,21 @@
  trans_de: Notwendigkeit
  trans_en: necessity
 -lexeme
- lex: iždan
- stem: iždan.
- root: wǧd
- gramm: N,m
- paradigm: N1
- trans_de: Gewissen
- trans_en: 
+ lex: ka
+ stem: ka.
+ root: k
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wohlan!
+ trans_en: good! come on!
+-lexeme
+ lex: ka
+ stem: ka.
+ root: k
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: when, if
 -lexeme
  lex: kaʕbo
  stem: kaʕbo.|kaʕbe.
@@ -18985,77 +18993,85 @@
  gramm: N,m
  paradigm: N2
  trans_de: Knöchel aus dem Fußgelenk des Schafes oder der Ziege, immer paarweise zum Spielen benutzt
- trans_en: 
+ trans_en: bone from ankle of a sheep or goat, always used in pairs for playing
 -lexeme
  lex: kabab
  stem: kabab.
  root: kbb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Braten
- trans_en: 
+ trans_en: roasted meat
 -lexeme
  lex: kabaniye
- stem: kabaniye.
+ stem: kabaniye.|kabaniyat.
  root: kbn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hausfrau, Haushälterin
- trans_en: 
+ trans_en: housewife, housekeeper
+-lexeme
+ lex: kabaryat
+ stem: kabaryat.
+ root: kbr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Kabarets
+ trans_en: <?>
 -lexeme
  lex: kabis
  stem: kabis.|kabisat.
  root: kbs
  gramm: N,m
  paradigm: N2
- trans_de: überlanger Schneefall
- trans_en: 
+ trans_de: überlanger Schneefall, 4-15 Tage lang dauernd
+ trans_en: long snowfall, lasting 4-5 days
 -lexeme
- lex: kaboka
- stem: kaboka.
+ lex: kaboka/kaboke
+ stem: kaboka.//kaboke.|kabokat.
  root: kbk
  gramm: N,f
  paradigm: N1
  trans_de: Knie
- trans_en: 
+ trans_en: knee
 -lexeme
  lex: kabos
  stem: kabos.
  root: kbs
  gramm: N,m
- paradigm: N1
- trans_de: bedrückender Traum
- trans_en: 
+ paradigm: <?>
+ trans_de: schwerer, bedrückender Traum
+ trans_en: depressing dream
 -lexeme
  lex: kabrite
  stem: kabrite.
  root: kbrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zündholz
- trans_en: 
+ trans_en: match
 -lexeme
  lex: kačal
- stem: kačal.
+ stem: kačal.|kačalin.
  root: kčl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Grindkopf, Kahlkopf
- trans_en: 
+ trans_en: bald, bald head
 -lexeme
- lex: kač(a)liye
- stem: kač(a)liye.
- root: kč()ly
+ lex: kačaliye
+ stem: kačaliye.
+ root: kčly
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Grind-, Kahlköpfigkeit; Kahlkopfkappe
- trans_en: 
+ trans_en: baldness
 -lexeme
  lex: kačalok
  stem: kačalok.
  root: kčlk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleiner Grind-, Kahlkopf
  trans_en: 
 -lexeme
@@ -19063,57 +19079,89 @@
  stem: kačaloke.
  root: kčl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Suppe aus Weizengrütze, Linsen und Garso
- trans_en: 
+ trans_en: soup made of corn, lentils and garso
 -lexeme
- lex: kafrit
- stem: kafrit.
- root: kbrt
- gramm: N,m
- paradigm: N1
- trans_de: Schwefel
- trans_en: 
+ lex: kaččəke/kačke
+ stem: kaččəke.//kačke.|kaččəkat.//kačkat.
+ root: kčk
+ gramm: N,f
+ paradigm: N2
+ trans_de: Mädchen
+ trans_en: girl
+-lexeme
+ lex: kaf/kav
+ stem: kaf.//kav.
+ root: kf/kv
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: auf dem Wasser treibend
+ trans_en: drifting upon water
+-lexeme
+ lex: kal
+ stem: kal.
+ root: kl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: deiktische Verstärkungspartikel
+ trans_en: deictic particle
 -lexeme
  lex: kalab
  stem: kalab.
  root: klb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tollwut
- trans_en: 
+ trans_en: rabies
 -lexeme
  lex: kalak
  stem: kalak.|kalake.
  root: klk
  gramm: N,m
  paradigm: N2
- trans_de: kälake Schlauchfloß
- trans_en: 
+ trans_de: Schlauchfloß
+ trans_en: <?>
+-lexeme
+ lex: kalamčawat/kalamčat
+ stem: kalamčawat.//kalamčat.
+ root: klm
+ gramm: N
+ paradigm: <?>
+ trans_de: Handschellen
+ trans_en: handcuffs
 -lexeme
  lex: kalame
  stem: kalame.|kalamat.
  root: klm
  gramm: N,f
  paradigm: N2
- trans_de: Zweigspitzen zum Fressen für die Ziegen pl
- trans_en: 
+ trans_de: Zweigspitzen zum Fressen für die Ziegen
+ trans_en: branch tops used as goat fodder
 -lexeme
  lex: kalan
  stem: kalan.
  root: kln
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwertscheide, Griff des Dolches, des Messers
- trans_en: 
+ trans_en: scabbard, sheath; grip of a dagger or knife
+-lexeme
+ lex: kalawižkat
+ stem: kalawižkat.
+ root: klwž
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: leeres Gerede, Unsinn
+ trans_de: idle talk, nonsense
 -lexeme
  lex: kalbi
  stem: kalbi.
  root: klb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: ein Viertel Piaster, zehn Para
- trans_en: 
+ trans_en: quarter of piastre, ten para
 -lexeme
  lex: kalbo
  stem: kalbo.|kalbe.
@@ -19121,7 +19169,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hund
- trans_en: 
+ trans_en: dog
+-lexeme
+ lex: kalbtan/kalbten
+ stem: kalbtan.//kalbten.
+ root: klb
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Zange
+ trans_en: tongs
+-lexeme
+ lex: kali
+ stem: kali.
+ root: kl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Steinhuhn, Alectoria graeca
+ trans_en: partridge, Alectoria graeca
 -lexeme
  lex: kaləke
  stem: kaləke.|kaləkat.
