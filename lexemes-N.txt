@@ -15837,7 +15837,7 @@
  trans_en: England
 -lexeme
  lex: hənglisi/hənglizi
- stem: hənglisi.//hənglizi.//ənglizi.//ənglisi.|hənglisiye.//həngliziye.//əngliziye.//ənglisiye.
+ stem: hənglisi.//hənglizi.//ənglizi.//ənglisi.//ingəlizi.|hənglisiye.//həngliziye.//əngliziye.//ənglisiye.//ingəliziye.
  root: hngls/hnglz
  gramm: N,m
  paradigm: N2
@@ -18651,13 +18651,21 @@
  trans_de: außer
  trans_en: beside
 -lexeme
+ lex: illah
+ stem: illah.
+ root: lh
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: unbedingt
+ trans_en: necessary
+-lexeme
  lex: ilono
  stem: ilono.|ilone.
  root: ln
  gramm: N,m
  paradigm: N2
  trans_de: Baum
- trans_en: 
+ trans_en: tree
 -lexeme
  lex: iltəhab
  stem: iltəhab.|iltəhabat.
@@ -18665,31 +18673,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Entzündung
- trans_en: 
+ trans_en: ignition, inflammation
 -lexeme
  lex: iman
  stem: iman.|imane.//imanat.
  root: ʔmn
  gramm: N,m
  paradigm: N2
- trans_de: a) Glauben b) Eid
- trans_en: 
+ trans_de: Glauben; Eid
+ trans_en: belief; oath
 -lexeme
- lex: imḍa
- stem: imḍa.|imḍat.
+ lex: imḏ̣a/imḏa/amḏ̣a/amḏa
+ stem: imḏ̣a.//imḏa.//amḏ̣a.//amḏa.//əmḏ̣a.//əmḏa.|imḏ̣at.//imḏat.//amḏ̣at.//amḏ̣at.//əmḏ̣at.//əmḏat.
  root: mḍʔ
  gramm: N,f
  paradigm: N2
  trans_de: Unterschrift
- trans_en: 
+ trans_en: signature
 -lexeme
- lex: imkaniye
- stem: imkaniye.
+ lex: imkan/əmkan
+ stem: imkan.//əmkan.|imkanat.//əmkanat.
+ root: mkn
+ gramm: N
+ paradigm: N2
+ trans_de: Möglichkeit
+ trans_en: possibility
+-lexeme
+ lex: imkaniye/əmkaniye
+ stem: imkaniye.//əmkaniye.|imkaniyat.//əmkaniyat.
  root: mkn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Möglichkeit
- trans_en: 
+ trans_en: possibility
 -lexeme
  lex: imomo
  stem: imomo.|imome.
@@ -18697,103 +18713,143 @@
  gramm: N,m
  paradigm: N2
  trans_de: lichter Tag, tags, tagsüber
- trans_en: 
+ trans_en: daylight, during day
 -lexeme
  lex: imtənaʕ
  stem: imtənaʕ.
  root: mnʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Verweigerung
- trans_en: 
+ trans_en: refusal
+-lexeme
+ lex: inan
+ stem: inan.
+ root: nn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Vertrauen, sicher sein, sicher rechnen können mit, sich verlassen auf
+ trans_en: trust, being sure, counting on something, relying upon something
 -lexeme
  lex: inaniye
  stem: inaniye.
  root: nny
  gramm: N,f
- paradigm: N1
- trans_de: a) Vertrauen; kit b) Waffenstillstand
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Vertrauen; Waffenstillstand
+ trans_en: trust; armistice
 -lexeme
- lex: ingəlizi
- stem: ingəlizi.|ingəliziiye.
+ lex: ingliz
+ stem: ingliz.
  root: nglz
- gramm: N,m
- paradigm: N2
- trans_de: iye Ingilizi m; f, pl –iye Engländer
- trans_en: 
+ gramm: N
+ paradigm: unchangeable
+ trans_de: (die) Engländer
+ trans_en: Englishmen
 -lexeme
  lex: inḥəṣar
  stem: inḥəṣar.
  root: ḥṣr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Belagerung
- trans_en: 
+ trans_en: siege
 -lexeme
- lex: insan
- stem: insan.|insane.//insanat.//id..
+ lex: innahu/ənnahu/inno/ənno
+ stem: innahu.//ənnahu.//inno.//ənno.
+ root: nnh
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Flickwort; dass; damit
+ trans_en: filler word; that; in order that
+-lexeme
+ lex: ins/əns
+ stem: ins.//əns.
+ root: ʔns
+ gramm: N
+ paradigm: <?>
+ trans_de: Mensch
+ trans_en: human
+-lexeme
+ lex: insan/ənsan/isan
+ stem: insan.//ənsan.//isan.|insane.//insanat.//ənsane.//ənsanat.//insan.//ənsan.//isanat.//isane.
  root: ʔns
  gramm: N,m
  paradigm: N2
  trans_de: Mensch
- trans_en: 
+ trans_en: human
 -lexeme
- lex: insaniye
- stem: insaniye.
+ lex: insaniye/ənsaniye/isaniye
+ stem: insaniye.//ənsaniye.//isaniye.
  root: ʔns
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Menschlichkeit
- trans_en: 
+ trans_en: humanity
+-lexeme
+ lex: inšalla/ənšalla
+ stem: inšalla.//ənšalla.
+ root: nšll
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: hoffentlich, so Gott will
+ trans_en: hopefully, may God give
 -lexeme
  lex: iqoro
- stem: iqoro.
+ stem: iqoro.|iqore.
  root: wqr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Würde
- trans_en: 
+ trans_en: honour; dignity
 -lexeme
  lex: iris
  stem: iris.
  root: rs
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Iris
- trans_en: 
+ trans_en: iris
 -lexeme
- lex: isan
- stem: isan.|isanat.//isane.
- root: sn
- gramm: N,m
- paradigm: N2
- trans_de: Mensch
- trans_en: 
+ lex: isa
+ stem: isa.
+ root: s
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: was anlangt
+ trans_en: <?>
 -lexeme
- lex: isaniye
- stem: isaniye.
- root: ʔns
- gramm: N,f
- paradigm: N1
- trans_de: Menschlichkeit
- trans_en: 
+ lex: islam
+ stem: islam.
+ root: slm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Islam
+ trans_en: Islam
+-lexeme
+ lex: Ispaniya
+ stem: Ispaniya.
+ root: spn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Spanien
+ trans_en: Spain
 -lexeme
  lex: ispani
- stem: ispani.|spanier,.
+ stem: ispani.|ispaniye.
  root: spn
  gramm: N,m
  paradigm: N2
- trans_de: iye Ispani m; f, pl Spanier, spanisch
- trans_en: 
+ trans_de: Spanier, spanisch
+ trans_en: Spaniard, Spanish
 -lexeme
  lex: ispərto
  stem: ispərto.
  root: sprt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Alkohol
- trans_en: 
+ trans_en: alcohol
 -lexeme
  lex: istaqbal
  stem: istaqbal.
