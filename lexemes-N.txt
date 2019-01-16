@@ -19183,97 +19183,120 @@
  stem: kali.
  root: kl
  gramm: N
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Steinhuhn, Alectoria graeca
  trans_en: partridge, Alectoria graeca
+-lexeme
+ lex: kalək
+ stem: kalək.
+ root: klk
+ gramm: N
+ paradigm: <?>
+ trans_de: (eigentl. "der kleine Alte"). Die Jungen machen sich an Neujahr einen Bart und gehen herum in die Häuser. Dazu singen sie: sarê ṣāle, binê ṣāle, xudê ḳuṛki biḏē, kabāniḳa māle! Anfang des Jahres, Ende des Jahres, Gott gebe der Hausfrau einen Jungen
 -lexeme
  lex: kaləke
  stem: kaləke.|kaləkat.
  root: klk
  gramm: N,f
  paradigm: N2
- trans_de: a) Puppe b) Melone, die erst Apfelgröße erreicht hat pl
- trans_en: 
+ trans_de: Puppe; Melone, die erst Apfelgröße erreicht hat
+ trans_en: doll; melon which reached the size of an apple
 -lexeme
  lex: kalla
- stem: kalla.|kallaat.//kallaawat.
+ stem: kalla.|kallat.//kallawat.
  root: kll
  gramm: N,m
  paradigm: N2
- trans_de: Para
- trans_en: 
+ trans_de: Geld
+ trans_en: money
 -lexeme
  lex: kallaš
  stem: kallaš.
  root: klš
  gramm: N,m
- paradigm: N1
- trans_de: a) Aas b) Saustall
- trans_en: 
+ paradigm: <?>
+ trans_de: Aas; Saustall
+ trans_en: carrion; pigsty
+-lexeme
+ lex: kallumallat
+ stem: kallumallat.
+ root: klml
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Haut, Lunge, Füße, Bauch
+ trans_en: skin, lungs, feet, stomach
 -lexeme
  lex: kalo
- stem: kalo.|kalooṯe.
+ stem: kalo.|kaloṯe.
  root: kl
  gramm: N,f
  paradigm: N2
- trans_de: a) Braut b) Schwiegertochter c) kalo
- trans_en: 
+ trans_de: Braut; Schwiegertochter
+ trans_en: bridesmaid; daughter-in-law
 -lexeme
  lex: kalšo
- stem: kalšo.
+ stem: kalšo.|kalšone.
  root: klš
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kalk, Mörtel
- trans_en: 
+ trans_en: lime, mortar
 -lexeme
  lex: kaluṯo
  stem: kaluṯo.
  root: klṯ
  gramm: N,f
- paradigm: N1
- trans_de: Brautschaft; ǧule d-
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Brautschaft
+ trans_en: marriage
 -lexeme
- lex: kamače
- stem: kamače.
+ lex: kamače/kamačaye/kamanča
+ stem: kamače.//kamačaye.//kamanča.|kamačat.//kamačayat.//kamančat.
  root: kmč
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Geige
- trans_en: 
+ trans_en: violin
 -lexeme
  lex: kamal
  stem: kamal.
  root: kml
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Volljährigkeit
- trans_en: 
+ trans_en: adulthood
 -lexeme
  lex: kamale
  stem: kamale.
  root: kml
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Vollendung, Ablauf
- trans_en: 
+ trans_en: consummation, completion, termination
+-lexeme
+ lex: kaman
+ stem: kaman.
+ root: kmn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: kamana/kamane
- stem: kamana/kamane.|kamana.//kamanat.
+ stem: kamana.//kamane.|kamana.//kamanat.
  root: kmn/kmn
  gramm: N,f
  paradigm: N2
  trans_de: Geige
- trans_en: 
+ trans_en: violin
 -lexeme
  lex: kamaš
  stem: kamaš.
  root: kmš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: anatolischer Tabak
- trans_en: 
+ trans_en: anatolian tobacco
 -lexeme
  lex: kamaxe
  stem: kamaxe.|kamaxat.
@@ -19281,31 +19304,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hinterbacken
- trans_en: 
+ trans_en: buttocks
+-lexeme
+ lex: kambaġ
+ stem: kambaġ.
+ root: kmbġ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: zerstört
+ trans_en: destroyed
+-lexeme
+ lex: kambarbaste/kambarbasta
+ stem: kambarbaste.//kambarbasta.
+ root: kmbrbst
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: in der Haltung eines Soldaten, der stramm steht
+ trans_en:
+-lexeme
+ lex: kaməl
+ stem: kaməl.
+ root: kml
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ganz, unverletzt
+ trans_en: total, undamaged
+-lexeme
+ lex: kaməl
+ stem: kaməl.
+ root: kml
+ gramm: N,m
+ paradigm: <?>
+ trans_de: volkommener Ehrenmann
+ trans_en: <?>
 -lexeme
  lex: kamilo
  stem: kamilo.|kamile.
  root: kml
  gramm: N,m
  paradigm: N2
- trans_de: a) erwachsen b) vollkommen (Mann)
- trans_en: 
+ trans_de: erwachsen; vollkommen (Mann)
+ trans_en: grown-up; accomplished (person)
 -lexeme
  lex: kamin
  stem: kamin.|kaminat.
  root: kmn
  gramm: N,m
  paradigm: N2
- trans_de: Hinterhalt pl
- trans_en: 
+ trans_de: Hinterhalt
+ trans_en: ambush
 -lexeme
  lex: kamlane
  stem: kamlane.
  root: kmln
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Heiratsalter
- trans_en: 
+ trans_en: marriage age
+-lexeme
+ lex: kamoyi
+ stem: kamoyi.
+ root: kmy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gierig auf eine Speise oder auf Rauchzeug, das man lange entbehrt hat
+ trans_en: craving for food or for smoking after being depraved of it for a long time
 -lexeme
  lex: kamše
  stem: kamše.
