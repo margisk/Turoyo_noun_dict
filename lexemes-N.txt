@@ -34796,12 +34796,12 @@
  trans_en: 
 -lexeme
  lex: šafqa
- stem: šafqa.
+ stem: šafqa.//šəfqa.|šafqat.//šəfqat.
  root: šfq
  gramm: N,f
- paradigm: N1
- trans_de: Hut
- trans_en: 
+ paradigm: N2
+ trans_de: Hut, Kappe
+ trans_en: hat, cap
 -lexeme
  lex: šafuḏo
  stem: šafuḏo.
@@ -35337,47 +35337,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bedingung; Prüfungsfrage
- trans_en: 
+ trans_en: condition; exam question
 -lexeme
  lex: šarwolo
- stem: šarwolo.|šarwoloat.
+ stem: šarwolo.|šarwolat.
  root: šrwl
  gramm: N,m
  paradigm: N2
  trans_de: Pluderhose; heute: Unterhose
- trans_en: 
+ trans_en: pants; now: underpants
 -lexeme
  lex: šarwoyo
  stem: šarwoyo.|šarwoye.
  root: šrw
  gramm: N,m
  paradigm: N2
- trans_de: Novize pl
- trans_en: 
+ trans_de: Novize
+ trans_en: novice
 -lexeme
  lex: šaryo
  stem: šaryo.|šarye.
  root: šry
  gramm: N,m
  paradigm: N2
- trans_de: Wochentag pl
- trans_en: 
+ trans_de: Wochentag 
+ trans_en: working day
+-lexeme
+ lex: šaš
+ stem: šaš.
+ root: šš
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: verwirrt
+ trans_en: confused
+-lexeme
+ lex: šaš
+ stem: šaš.
+ root: šš
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Turbanbinde
+ trans_en: turban bandage
 -lexeme
  lex: šaške
  stem: šaške.
  root: ššk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Turban
- trans_en: 
+ trans_en: turban
 -lexeme
  lex: šatoyo
  stem: šatoyo.
  root: šty
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Trinker, Raucher
- trans_en: 
+ trans_en: drinker, smoker
 -lexeme
  lex: šato
  stem: šato.|išne.
@@ -35385,15 +35401,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Jahr
- trans_en: 
--lexeme
- lex: šaṭyo
- stem: šaṭyo.|šaṭye.
- root: šty
- gramm: N,m
- paradigm: N2
- trans_de: Sa
- trans_en: 
+ trans_en: year
 -lexeme
  lex: šaṭ
  stem: šaṭ.
@@ -35401,63 +35409,79 @@
  gramm: N,m
  paradigm: N1
  trans_de: Fluß, Strom
- trans_en: 
+ trans_en: river, stream
 -lexeme
  lex: šaṭər
- stem: šaṭər.
+ stem: šaṭər.|šaṭərin.
  root: šṭr
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ) klug, schlau
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: klug, schlau
+ trans_en: clever, smart
 -lexeme
  lex: šaṭo
- stem: šaṭo.|šaṭoowat.
+ stem: šaṭo.|šaṭowat.
  root: šṭ
  gramm: N,m
  paradigm: N2
  trans_de: Schloß pl
- trans_en: 
+ trans_en: castle pl
 -lexeme
- lex: šaṭṭək(k)e
- stem: šaṭṭək(k)e.|šaṭṭək(k)at.
- root: šṭk(k)
+ lex: šaṭṭəkke/šaṭṭəke
+ stem: šaṭṭəkke.//šaṭṭəke.|šaṭṭəkkat.//šaṭṭəkat.
+ root: šṭk
  gramm: N,f
  paradigm: N2
- trans_de: a) kugelrunde Gurke b) viereckiger Stein zum Sitzen
- trans_en: 
+ trans_de: kugelrunde Gurke; viereckiger Stein zum Sitzen
+ trans_en: round-shaped cucumber; square stone for sitting
+-lexeme
+ lex: šaṭyo
+ stem: šaṭyo.|šaṭye.
+ root: šṭy
+ gramm: N,m
+ paradigm: N2
+ trans_de: betrunken
+ trans_en: drunk
 -lexeme
  lex: šaṯlo
- stem: šaṯlo.
+ stem: šaṯlo.|šaṯle.
  root: štl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Setzling (eine Weinranke wird unter der Erde hergeführt und schlägt dann aus)
- trans_en: 
+ trans_en: seedling (a vine is brought under the ground and then knocks out)
+-lexeme
+ lex: šawkatli
+ stem: šawkatli.
+ root: šwktl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Anrede für Paschas und dergl.
+ trans_en: salutation for Paschas and the like
 -lexeme
  lex: šawke
- stem: šawke.|šŭwak.//šawkeat.
+ stem: šawke.|šuwak.//šawkeat.
  root: šwk
  gramm: N,f
  paradigm: N2
- trans_de: a) zweischneidige Steinhacke b) große, mehrhakige Art Angel, mit der man in den Brunnen gefallene Gegenstände herausholt
- trans_en: 
+ trans_de: zweischneidige Steinhacke; große, mehrhakige Art Angel, mit der man in den Brunnen gefallene Gegenstände herausholt
+ trans_en: double-edged stone anchor; <?>
 -lexeme
  lex: šawq
- stem: šawq.
+ stem: šawq.|šawqat.
  root: šwq
  gramm: N,m
- paradigm: N1
- trans_de: Schein (einer Laterne)
- trans_en: 
+ paradigm: N2
+ trans_de: Schein (einer Laterne); Lichtschein; Widerschein im Wasser; Glanz
+ trans_en: light (of a lantern); glow; reflection in the water; shine
 -lexeme
  lex: šawra
- stem: šawra.
+ stem: šawra.//šawara.|šawrat.//šawarat.
  root: šwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Beratung
- trans_en: 
+ trans_en: advice
 -lexeme
  lex: šawṭo
  stem: šawṭo.|šawṭe.
@@ -35465,103 +35489,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Weile, ein Weilchen, Augenblick
- trans_en: 
+ trans_en: a while, a little while, moment
 -lexeme
  lex: šawṯo
- stem: šawṯo.
+ stem: šawṯo.|šawṯawoṯo.
  root: šwṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stadtviertel
- trans_en: 
+ trans_en: district
 -lexeme
- lex: šawara
- stem: šawara.
- root: šwr
+ lex: šawayto
+ stem: šawayto.
+ root: šwy
  gramm: N,f
- paradigm: N1
- trans_de: Beratung
- trans_en: 
+ paradigm: <?>
+ trans_de: Aufwicklerin des Tages und der Nacht
+ trans_en: ...
 -lexeme
  lex: šawiš
  stem: šawiš.
  root: šwš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wachtmeister
- trans_en: 
+ trans_en: police constable
 -lexeme
  lex: šawoyo
  stem: šawoyo.
  root: šwy
  gramm: N,m
- paradigm: N1
- trans_de: Aufwickler(in) des Tages und der Nacht
- trans_en: 
+ paradigm: <?>
+ trans_de: Aufwickler des Tages und der Nacht
+ trans_en: ...
+-lexeme
+ lex: šawuti
+ stem: šawuti.
+ root: šwt
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: verbrannt
+ trans_en: burned
 -lexeme
  lex: šawyo
  stem: šawyo.
  root: šwy
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ; nicht
- trans_en: 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: gesotten, gekocht
+ trans_en: boiled, cooked
 -lexeme
  lex: šawyo
- stem: šawyo.
+ stem: šawyo.|šawye.
  root: šwy
  gramm: N,m
- paradigm: N1
- trans_de: Stiel der Axt
- trans_en: 
+ paradigm: N2
+ trans_de: Stiel der Axt; Stiel der Spindel
+ trans_en: ax handle; spindle stem
 -lexeme
  lex: šaxe
  stem: šaxe.
  root: šx
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stengel von Melonen, Gurken und dergl.
- trans_en: 
+ trans_en: stems of melons, cucumbers and the like
 -lexeme
- lex: šax(ə)ṣ
- stem: šax(ə)ṣ.|šax(ə)ṣat.
+ lex: šaxṣ/šaxəṣ
+ stem: šaxṣ.//šaxəṣ.|šaxṣat.//šaxəṣat.
  root: šxṣ
  gramm: N,m
  paradigm: N2
  trans_de: Person
- trans_en: 
+ trans_en: person
 -lexeme
  lex: šaxṣiye
  stem: šaxṣiye.
  root: šxṣ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Persönlichkeit
- trans_en: 
+ trans_en: personality
 -lexeme
  lex: šay
  stem: šay.
  root: šy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schah
- trans_en: 
+ trans_en: shah
 -lexeme
  lex: šayiʕa
  stem: šayiʕa.
  root: šyʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gerücht, stadtbekannt
- trans_en: 
+ trans_en: Rumor, known all over the town
+-lexeme
+ lex: šayik/šayək/šahək
+ stem: šayik.//šayək.//šahək.
+ root: šyk
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: glatt, glasglatt
+ trans_en: smooth, glass-like smooth
 -lexeme
  lex: šayno
- stem: šayno.
+ stem: šayno.|šayne.
  root: šyn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Frieden
- trans_en: 
+ trans_en: peace
 -lexeme
  lex: šayro
  stem: šayro.|šayre.
@@ -35569,47 +35609,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Armband
- trans_en: 
+ trans_en: bracelet
 -lexeme
  lex: šayrənto
  stem: šayrənto.
  root: šyrnt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: umkragtes Loch der Handmühle
- trans_en: 
+ trans_en: <?>  hole of the hand mill
 -lexeme
  lex: šayruno
  stem: šayruno.
- root: šyrn
+ root: šyr
  gramm: N,m
- paradigm: N1
+ paradigm: <?> 
  trans_de: Fußring für Rinder gegen bösen Blick
- trans_en: 
+ trans_en: foot ring for cattle against evil eye
 -lexeme
  lex: šayṭane
  stem: šayṭane.
  root: šyṭn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: satanische Eigenschaft
- trans_en: 
+ trans_en: satanic characteristic
 -lexeme
  lex: šayṭanok
  stem: šayṭanok.
  root: šyṭnk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schnecke
- trans_en: 
+ trans_en: snail
 -lexeme
  lex: šeḥono
  stem: šeḥono.
  root: šḥn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: der Sonne beschienener Teil des Berges
- trans_en: 
+ trans_en: the sunlit part of the mountain
 -lexeme
  lex: šekamare
  stem: šekamare.|šekamarat.
@@ -35617,7 +35657,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schlangenart, nicht giftig. Soll einen in die Hoden beißen. Der Biß tue weh. Natrix Aesculapii
- trans_en: 
+ trans_en: snake species, not poisonous. Bites one in the testicles. The bite burns. Natrix aesculapii
 -lexeme
  lex: šeko
  stem: šeko.|šeke.
@@ -35625,7 +35665,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hode
- trans_en: 
+ trans_en: testicle
 -lexeme
  lex: šekoqarošo
  stem: šekoqarošo.|šekoqaroše.
@@ -35633,55 +35673,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Spinne
- trans_en: 
+ trans_en: spider
 -lexeme
  lex: šeno
- stem: šeno.|šinoṯo.
+ stem: šeno.|šinoṯo.//šenawoṯo.//šenoṯe.
  root: šn
  gramm: N,f
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Felsen
+ trans_en: rocks
 -lexeme
  lex: šer
  stem: šer.|šerin.//šerat.//šere.//šerawat.
  root: šr
  gramm: N,m
  paradigm: N2
- trans_de: Mi
- trans_en: 
+ trans_de: Löwe
+ trans_en: lion
+-lexeme
+ lex: šerkəž/šerkuš 
+ stem: šerkəž.//šerkuš. 
+ root: šrkž
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Löwentöter
+ trans_en: lion killer
 -lexeme
  lex: šewər
  stem: šewər.
  root: šwr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rat, Beratung(sversammlung)
- trans_en: 
+ trans_en: council, advice, consultative assembly
 -lexeme
  lex: šewərdar
  stem: šewərdar.
  root: šwr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Berater
- trans_en: 
+ trans_en: adviser
 -lexeme
  lex: šex
  stem: šex.|šyux.//šexawiye.//šexawat.
  root: šyx
  gramm: N,m
  paradigm: N2
- trans_de: Araber)scheich
- trans_en: 
+ trans_de: (Araber)scheich
+ trans_en: (Arabic) sheikh
 -lexeme
  lex: šexko
  stem: šexko.
  root: šyx
- gramm: N,m
- paradigm: N1
+ gramm: N,m DIM
+ paradigm: <?>
  trans_de: kleiner Scheich
- trans_en: 
+ trans_en: small sheikh
+-lexeme
+ lex: šəʕaʕat
+ stem: šəʕaʕat.
+ root: šʕʕ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Strahlen
+ trans_en: radiation
 -lexeme
  lex: šəʕr
  stem: šəʕr.|šəʕərat.
@@ -35699,21 +35755,13 @@
  trans_de: Fenster
  trans_en: window
 -lexeme
- lex: šəbha
- stem: šəbha.
- root: šbh
- gramm: N,f
- paradigm: N1
- trans_de: Zweifel, Verdacht
- trans_en: 
--lexeme
  lex: šəblo
  stem: šəblo.|šəble.
  root: šbl
  gramm: N,f
  paradigm: N2
  trans_de: Ähre
- trans_en: 
+ trans_en: ear
 -lexeme
  lex: šəbḥo
  stem: šəbḥo.|šəbḥe.
@@ -35721,7 +35769,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Lobpreis
- trans_en: 
+ trans_en: joyful praise
 -lexeme
  lex: šəbyo
  stem: šəbyo.|šəbye.
@@ -35729,15 +35777,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Eroberung pl
- trans_en: 
--lexeme
- lex: šəfqa
- stem: šəfqa.
- root: šfq
- gramm: N,f
- paradigm: N1
- trans_de: Hut, Kappe
- trans_en: 
+ trans_en: conquest pl
 -lexeme
  lex: šəfšək
  stem: šəfšək.|šifešək.
@@ -35745,7 +35785,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hosenband
- trans_en: 
+ trans_en: knee-band
+-lexeme
+ lex: šəḥšəḥ
+ stem: šəḥšəḥ.
+ root: šḥšḥ
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geräusch fließenden Wassers
+ trans_en: water stream sound
 -lexeme
  lex: šək/šəkwak/šukuk
  stem: šək.//šəkwak.//šukuk
@@ -35759,24 +35807,24 @@
  stem: šəkəl.|šəklat.//aškal.
  gramm: N,m
  paradigm: N2
- trans_de:
+ trans_de: Art, Weise
  trans_en: type, manner, shape
 -lexeme
  lex: šəkriye
  stem: šəkriye.
  root: škr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Dank
- trans_en: 
+ trans_en: thanks
 -lexeme
  lex: šəlfe
- stem: šəlfe.|šəlfeat.//šəlfee.
+ stem: šəlfe.|šəlfat.//šəlfe.
  root: šlp
  gramm: N,f
  paradigm: N2
  trans_de: Messerklinge, Lanzenspitze
- trans_en: 
+ trans_en: knife blade, lance tip
 -lexeme
  lex: šəlfke
  stem: šəlfke.|šəlfkat.
@@ -35784,15 +35832,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Scheide, Blatt eines Messers, Dolches
- trans_en: 
+ trans_en: sheath, knife or dagger blade
 -lexeme
- lex: šəlḥ
- stem: šəlḥ.
+ lex: šəlḥ/šalḥ/šalḥo
+ stem: šəlḥ.//šalḥ.//šalḥo.
  root: šlḥ
  gramm: N,m
- paradigm: N1
- trans_de: Schwarm (von Fliegen)
- trans_en: 
+ paradigm: <?>
+ trans_de: Schwarm (von Fliegen); abgeworfene Schlangenhaut 
+ trans_en: swarm (of flies); shedded snakeskin
+-lexeme
+ lex: šəlliye
+ stem: šəlliye.|šəlliyat.
+ root: šll
+ gramm: N,f
+ paradigm: N2
+ trans_de: Regenwetter
+ trans_en: wet weather
+-lexeme
+ lex: šəll w šaḥṭ
+ stem: šəll w šaḥṭ.
+ root: šllwšḥṭ
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: gelähmt
+ trans_en: paralyzed
 -lexeme
  lex: šəməke
  stem: šəməke.
@@ -36546,8 +36610,8 @@
  trans_de: Schach
  trans_en: chess
 -lexeme
- lex: šubha
- stem: šubha.|šubhat.
+ lex: šubha/šəbha
+ stem: šubha.//šəbha.|šubhat.//šəbhat.
  root: šbh
  gramm: N,f
  paradigm: N2
