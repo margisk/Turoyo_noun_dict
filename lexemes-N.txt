@@ -7228,7 +7228,7 @@
  trans_en: quarter (of an hour)
 -lexeme
  lex: čarəke/čarke
- stem: čarəke.//čarke.|čarəkat.//čarkat.
+ stem: čarəke.//čarke.//šarke.|čarəkat.//čarkat.//šarkat.
  root: črk
  gramm: N,f
  paradigm: N2
@@ -35123,93 +35123,101 @@
  trans_de: zerstörender Hagelschlag
  trans_en: 
 -lexeme
+ lex: šappol
+ stem: šappol. 
+ root: šppl
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: nachlässig in Kleidung und Benehmen, salopp
+ trans_en: careless in dress and behaviour, casual
+-lexeme
+ lex: šaqame/šaqqame
+ stem: šaqame.//šaqqame.|šaqamat.//šaqqamat.
+ root: šqm
+ gramm: N,f
+ paradigm: N2
+ trans_de: Ohrfeige, Nackenschlag
+ trans_en: slap in the face, severe setback
+-lexeme
+ lex: šaqašaq/šaqšaq
+ stem: šaqašaq.//šaqšaq.
+ root: šqšq
+ gramm: <?> 
+ paradigm: unchangeable
+ trans_de: Zähneklappern; Händeklopfen
+ trans_en: chattering of teeth; hands clapping
+-lexeme
  lex: šaqfo
  stem: šaqfo.|šaqfe.
  root: šqf
  gramm: N,m
  paradigm: N2
  trans_de: Felswand
- trans_en: 
+ trans_en: rock face
 -lexeme
  lex: šaqfoyo
  stem: šaqfoyo.
  root: šqfy
  gramm: N,m
- paradigm: N1
- trans_de: der nichts versteht
- trans_en: 
--lexeme
- lex: šaqəṣ
- stem: šaqəṣ.|šaqəṣat.
- root: šxṣ
- gramm: N,m
- paradigm: N2
- trans_de: Person
- trans_en: 
+ paradigm: <?>
+ trans_de: hartköpfig, der nichts versteht
+ trans_en: stubborn, who understands nothing
 -lexeme
  lex: šaqle
  stem: šaqle.
  root: šql
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aussehen des Körpers
- trans_en: 
+ trans_en: body appearance
 -lexeme
  lex: šaqmo
- stem: šaqmo.|šaqmoat.
+ stem: šaqmo.|šaqmat.
  root: šqm
  gramm: N,f
  paradigm: N2
  trans_de: Feige; Ohrfeige
- trans_en: 
+ trans_en: fainthearted; slap in the face
 -lexeme
  lex: šaqoʕo
  stem: šaqoʕo.
  root: šqʕ
  gramm: N,m
- paradigm: N1
- trans_de: Schuhflicker nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Schuhflicker
+ trans_en: shoemaker
 -lexeme
  lex: šaqolo
  stem: šaqolo.|šaqole.
  root: šql
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ, pl –e şaqolo m, f şaqılto
- trans_en: 
+ trans_de: Käufer; der Nehmer (Gott); Althändler; Händler
+ trans_en: buyer; the Holder (God); ragman; merchant
 -lexeme
  lex: šaqqa
  stem: šaqqa.
  root: šqq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: fliegender Teppich
- trans_en: 
--lexeme
- lex: šaq(q)ame
- stem: šaq(q)ame.|šaq(q)amat.
- root: šq(q)m
- gramm: N,f
- paradigm: N2
- trans_de: Ohrfeige, Nackenschlag
- trans_en: 
+ trans_en: flying carpet
 -lexeme
  lex: šaqula
  stem: šaqula.
  root: šql
  gramm: N,f
- paradigm: N1
- trans_de: a) Vogelfalle. Eine Rute von einem Weinstock wird wie ein Bogen zusammengebogen, die beiden Enden werden mit einem Seil zusammengebunden. An dem einen Ende ist eine Schlinge. Der Vogel wird durch Köder angelockt; dann schließt sich die Schlinge, indem das federnde Seil losschnappt. (Ein Exemplar aus Kärboran ist im Hamburger Völkerkundemuseum) b) Lot der Mauer nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Vogelfalle. Eine Rute von einem Weinstock wird wie ein Bogen zusammengebogen, die beiden Enden werden mit einem Seil zusammengebunden. An dem einen Ende ist eine Schlinge. Der Vogel wird durch Köder angelockt; dann schließt sich die Schlinge, indem das federnde Seil losschnappt. (Ein Exemplar aus Kärboran ist im Hamburger Völkerkundemuseum); Lot der Mauer
+ trans_en: birdtrap. A vine is bent like a bow, two ends tied together with a rope. On one end there is a knot. The bird is attracted by a bait; then the knot closes by the snap of the rope. A copy of carborane is in the Hamburger Völkerundesmusem; ...
 -lexeme
  lex: šaqyo
  stem: šaqyo.|šaqye.
  root: šqy
  gramm: N,m
  paradigm: N2
- trans_de: Reihe von
- trans_en: 
+ trans_de: Reihe von 1½ m 51 hohen Stäben, die nebeneinander aufgestellt sind, und auf die der Weber das Garn herumlegt, abwechselnd von Stab zu Stab rechts- und linksherum, im Ganzen 25 – 30 m lang
+ trans_en: ...
 -lexeme
  lex: šarr
  stem: šarr.|šarrat.
@@ -35217,63 +35225,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kampf, Krieg
- trans_en: 
+ trans_en: fight, war
 -lexeme
  lex: šarʕo
- stem: šarʕo.
+ stem: šarʕo.|šarʕe.
  root: šrʕ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Dung, Exkremente der Kühe, Kuhdreck
- trans_en: 
+ trans_en: dung, excrements of cows, cow dung
 -lexeme
  lex: šaraf
- stem: šaraf.
+ stem: šaraf.|šaraftiye.
  root: šrf
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ehre
- trans_en: 
--lexeme
- lex: šarake
- stem: šarake.
- root: šrk
- gramm: N,f
- paradigm: N1
- trans_de: Teilhaberschaft
- trans_en: 
+ trans_en: honor
 -lexeme
  lex: šaraq
  stem: šaraq.
  root: šrq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Morgenlicht, Lichtschein
- trans_en: 
+ trans_en: morning light, gleam of light
 -lexeme
- lex: šarb(ə)ke
- stem: šarb(ə)ke.
+ lex: šarbke/šarbəke
+ stem: šarbke.//šarbəke.
  root: šrb
- gramm: N,f
- paradigm: N1
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: kleiner Krug
- trans_en: 
+ trans_en: small jug
 -lexeme
  lex: šarbo
- stem: šarbo.
+ stem: šarbo.|šarboṯo.
  root: šrb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Krug von handlicher Größe
- trans_en: 
+ trans_en: jug of handy size
 -lexeme
  lex: šarbuṭe
  stem: šarbuṭe.
  root: šrbṭ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: orientalische Rauke, Cisimbrium orientale L.; als Prügelinstrument, mit dem die Kinder spielen
- trans_en: 
+ trans_en: oriental hedge mustard, sisymbrium orientale; hammer that children play with
+-lexeme
+ lex: šareriyat
+ stem: šareriyat.
+ root: šrr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: ohne Ursache anschreien, um Hilfe schreien
+ trans_en: screaming without a reason, crying for help
 -lexeme
  lex: šarəʕ
  stem: šarəʕ.|šawarəʕ.
@@ -35281,7 +35289,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Straße
- trans_en: 
+ trans_en: street
 -lexeme
  lex: šariʕa
  stem: šariʕa.|šarayəʕ.
@@ -35289,47 +35297,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gericht
- trans_en: 
+ trans_en: dish
 -lexeme
- lex: šarit
- stem: šarit.|šaritat.
+ lex: šarit/šalit
+ stem: šarit.//šalit.|šaritat.//šalitat.
  root: šrt
  gramm: N,m
  paradigm: N2
  trans_de: Strick
- trans_en: 
+ trans_en: cord
 -lexeme
  lex: šarməsto
  stem: šarməsto.
  root: šrmst
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bindfaden oder Zwirnsfaden, der über ein längliches Stück Pappe gewickelt ist
- trans_en: 
+ trans_en: string or linen thread wrapped around an elongated piece of cardboard
 -lexeme
  lex: šarmo
  stem: šarmo.
  root: šrm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ende des Dickdarms, Rectums; tritt bei Kindern bisweilen heraus, es gibt dann eine Darmvorstülpung
- trans_en: 
+ trans_en: end of the colon, rectum; ...
 -lexeme
  lex: šarq
  stem: šarq.
  root: šrq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Osten
- trans_en: 
+ trans_en: East
+-lexeme
+ lex: šarqi 
+ stem: šarqi.
+ root: šrq
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: östlich
+ trans_en: eastern
 -lexeme
  lex: šaršo
  stem: šaršo.
  root: šrš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schneeflocke
- trans_en: 
+ trans_en: snowflake
 -lexeme
  lex: šarṭ
  stem: šarṭ.|šarṭat.
@@ -35555,8 +35571,8 @@
  trans_de: Stengel von Melonen, Gurken und dergl.
  trans_en: stems of melons, cucumbers and the like
 -lexeme
- lex: šaxṣ/šaxəṣ
- stem: šaxṣ.//šaxəṣ.|šaxṣat.//šaxəṣat.
+ lex: šaxṣ/šaxəṣ/šaqəṣ
+ stem: šaxṣ.//šaxəṣ.//šaqəṣ.|šaxṣat.//šaxəṣat.//šaqəṣat.
  root: šxṣ
  gramm: N,m
  paradigm: N2
