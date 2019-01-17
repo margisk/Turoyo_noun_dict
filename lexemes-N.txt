@@ -35537,7 +35537,7 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Aufwickler des Tages und der Nacht
- trans_en: ...
+ trans_en: <?>
 -lexeme
  lex: šawuti
  stem: šawuti.
@@ -36029,7 +36029,7 @@
  lex: ši 
  stem: ši.
  root: šyʔ
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: etwas, Ersatzwort, wenn einem das richtige nicht einfällt, wie syr. hno
  trans_en: something, substitute word, when one can not think of the right one, like syr. hno
@@ -36049,14 +36049,6 @@
  paradigm: unchangeable
  trans_de: teuflische Natur
  trans_en: diabolic nature
--lexeme
- lex: šiər
- stem: šiər.|šiərat.
- root: šʕr
- gramm: N,m
- paradigm: N2
- trans_de: Dichtung
- trans_en:
 -lexeme
  lex: šifer
  stem: šifer.
