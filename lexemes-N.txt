@@ -3987,7 +3987,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Armspanne beider Arme
- trans_en: <?>
+ trans_en: arm span
 -lexeme
  lex: baba
  stem: baba.
