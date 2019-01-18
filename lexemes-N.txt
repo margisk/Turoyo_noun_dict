@@ -35047,9 +35047,9 @@
  stem: šampanya.
  root: šmpny
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sekt
- trans_en: 
+ trans_en: champagne
 -lexeme
  lex: šamšiye
  stem: šamšiye.|šamšiyat.
@@ -35057,15 +35057,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schirm
- trans_en: 
+ trans_en: umbrella
 -lexeme
- lex: šamṯo
- stem: šamṯo.
+ lex: šamṯo/šanṯo
+ stem: šamṯo.//šanṯo.
  root: yšn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schlaf
- trans_en: 
+ trans_en: sleep
+-lexeme
+ lex: šan
+ stem: šan.
+ root: šn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: für, auch zur Bildung des Dativs
+ trans_en: for, also for formation of the dative case
 -lexeme
  lex: šane
  stem: šane.|šanat.
@@ -35073,23 +35081,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Honigwabe
- trans_en: 
+ trans_en: honeycomb
 -lexeme
  lex: šange
  stem: šange.
  root: šng
  gramm: N,f
- paradigm: N1
- trans_de: schönes Frauenhaar an der Hinterseite des Kopfes
- trans_en: 
+ paradigm: unchangeable
+ trans_de: dichtes, glänzendes, schönes Frauenhaar an der Hinterseite des Kopfes
+ trans_en: dense, shiny, beautiful woman`s hair on the back of the head
 -lexeme
  lex: šanke
  stem: šanke.
  root: šnk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Muttermal
- trans_en: 
+ trans_en: birthmark
 -lexeme
  lex: šans
  stem: šans.|šansat.
@@ -35097,31 +35105,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Glück
- trans_en: 
+ trans_en: luck
 -lexeme
  lex: šanq
  stem: šanq.
  root: šnq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufhängen am Galgen
- trans_en: 
--lexeme
- lex: šanṯo
- stem: šanṯo.
- root: šnṯ
- gramm: N,f
- paradigm: N1
- trans_de: Schlaf
- trans_en: 
+ trans_en: hanging at the gallows
 -lexeme
  lex: šapa
  stem: šapa.
  root: šp
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: zerstörender Hagelschlag
- trans_en: 
+ trans_en: destructive hailstorm
+-lexeme
+ lex: šapərza.
+ stem: šapərza.
+ root: šprz
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: elend, in schlechten Verhältnissen
+ trans_en: miserable, in bad conditions
 -lexeme
  lex: šappol
  stem: šappol. 
