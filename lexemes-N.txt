@@ -32724,12 +32724,12 @@
  trans_en: 
 -lexeme
  lex: səkkar
- stem: səkkar.|skekər.
+ stem: səkkar.//šakar.|skekər.//škekir.
  root: skr
  gramm: N,m
  paradigm: N2
- trans_de: skekir Zucker
- trans_en: 
+ trans_de: Zucker
+ trans_en: sugar
 -lexeme
  lex: səkkaraye
  stem: səkkaraye.
@@ -34601,23 +34601,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: dünne Nudeln
- trans_en: 
+ trans_en: thin noodles
 -lexeme
  lex: šʕulo
  stem: šʕulo.
  root: šʕl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Husten
- trans_en: 
+ trans_en: cough
 -lexeme
  lex: šaʕb
  stem: šaʕb.
  root: šʕb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Volk
- trans_en: 
+ trans_en: people
 -lexeme
  lex: šaʕballot
  stem: šaʕballot.|šaʕballotat.
@@ -34625,47 +34625,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kastanie
- trans_en: 
+ trans_en: chestnut
 -lexeme
  lex: šaʕər
  stem: šaʕər.
  root: šʕr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Dichter
- trans_en: 
+ trans_en: poet
 -lexeme
  lex: šaʕuṯo
  stem: šaʕuṯo.|šaʕuṯe.
  root: šʕṯ
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: gelb, blond
+ trans_en: yellow, blond
 -lexeme
  lex: šab
  stem: šab.
  root: šbb
  gramm: N,m
- paradigm: N1
- trans_de: a) Alaun b) Jüngling
- trans_en: 
+ paradigm: <?>
+ trans_de: Alaun; Jüngling
+ trans_en: alum; young man
 -lexeme
  lex: šabah
  stem: šabah.
  root: šbh
  gramm: N,m
- paradigm: N1
- trans_de: Bronze nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Bronze
+ trans_en: bronze
+-lexeme
+ lex: šabaḥ l aloho
+ stem: šabaḥ l aloho 
+ root: šbḥllh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gott sei gepriesen!
+ trans_en: God be praised!
+-lexeme
+ lex: šabaš
+ stem: šabaš. 
+ root: šbš
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Geschenk, Trinkgeld
+ trans_en: gift, gratuity
+-lexeme
+ lex: Šabo
+ stem: Šabo.
+ root: šb
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Männername, (eigentl Ḥušabo – Sonntagskind) 
+ trans_en: boy`s name, (originally, Ḥušabo - Sunday`s child)
 -lexeme
  lex: šabṭo
  stem: šabṭo.
  root: šbṭ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Unglück, Plage, Not
- trans_en: 
+ trans_en: misfortune, plague, distress
 -lexeme
  lex: šabṯo
  stem: šabṯo.|šabe.
@@ -34673,127 +34697,47 @@
  gramm: N,f
  paradigm: N2
  trans_de: Woche
- trans_en: 
+ trans_en: week
 -lexeme
  lex: šadi
- stem: šadi.|šadiiye.
+ stem: šadi.|šadiye.
  root: šd
  gramm: N,m
  paradigm: N2
  trans_de: einer, abgerichteter Affe
- trans_en: 
+ trans_en: small, trained monkey
 -lexeme
- lex: šaġolo
- stem: šaġolo.|šaġole.
- root: šġl
- gramm: N,m
- paradigm: N2
- trans_de: Arbeiter, mit Arbeit beschäftigt, fleißig
- trans_en: 
--lexeme
- lex: šah
- stem: šah.
- root: šh
- gramm: N,m
- paradigm: N1
- trans_de: Schah
- trans_en: 
--lexeme
- lex: šahade
- stem: šahade.
- root: šhd
- gramm: N,f
- paradigm: N1
- trans_de: Schuldiplom
- trans_en: 
--lexeme
- lex: šahiye
- stem: šahiye.
- root: šhy
- gramm: N,f
- paradigm: N1
- trans_de: Freude
- trans_en: 
--lexeme
- lex: šayiye
- stem: šayiye.
- root: šyy
- gramm: N,f
- paradigm: N1
- trans_de: Freude
- trans_en: 
--lexeme
- lex: šahraza
- stem: šahraza.|şahrazâ.
- root: šhrz
- gramm: N,m
- paradigm: N2
- trans_de: Sl
- trans_en: 
--lexeme
- lex: šahro
- stem: šahro.
- root: šhr
- gramm: N,m
- paradigm: N1
- trans_de: Feiertag einer/s Heiligen
- trans_en: 
--lexeme
- lex: šahwe
- stem: šahwe.
- root: šhw
- gramm: N,f
- paradigm: N1
- trans_de: a) Appetit b) Brunst
- trans_en: 
--lexeme
- lex: šaḥino
- stem: šaḥino.|šaḥine.
- root: šḥn
- gramm: N,m
- paradigm: N2
- trans_de: a) warm (Gegenstand, Suppe usw.) b) Schuldiger, der seine Schuld geleugnet und nun Angst hat c) kokettes Mädchen
- trans_en: 
--lexeme
- lex: šaḥuṭa
- stem: šaḥuṭa.
- root: šḥṭ
- gramm: N,f
- paradigm: N1
- trans_de: zweischneidiges Instrument zum Feinbehauen von Steinen. Die eine Schneide ist glatt, die andere kammartig gerillt
- trans_en: 
--lexeme
- lex: šaḥuno
- stem: šaḥuno.
- root: šḥn
- gramm: N,m
- paradigm: N1
- trans_de: Häuser und Kleidung)
- trans_en: 
+ lex: šadox
+ stem: šadox.
+ root: šdx
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Turban(binde)
+ trans_en: turban (bandage)
 -lexeme
  lex: šaḏyo
  stem: šaḏyo.|šaḏye.
  root: šḏy
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: aufgelockert wie gekrempelte Baumwolle“
- trans_en: 
+ trans_de: gekrempelt, aufgelockert
+ trans_en: carded, loosened
 -lexeme
  lex: šafiʕ
  stem: šafiʕ.
  root: šfʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fürsprecher
- trans_en: 
+ trans_en: advocate
 -lexeme
  lex: šafiro
  stem: šafiro.|šafire.
  root: špr
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: schön PrS
- trans_en: 
+ trans_de: schön
+ trans_en: beautiful
 -lexeme
  lex: šafqa
  stem: šafqa.//šəfqa.|šafqat.//šəfqat.
@@ -34804,20 +34748,108 @@
  trans_en: hat, cap
 -lexeme
  lex: šafuḏo
- stem: šafuḏo.
+ stem: šafuḏo.|šafuḏe.
  root: špd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bratspieß, Gestänge, Eisenstange
- trans_en: 
+ trans_en: spit, bars, iron bar
 -lexeme
- lex: šakar
- stem: šakar.|škekir.
- root: škr
+ lex: šaġolo
+ stem: šaġolo.|šaġole.
+ root: šġl
  gramm: N,m
  paradigm: N2
- trans_de: Zucker
- trans_en: 
+ trans_de: Arbeiter, mit Arbeit beschäftigt, fleißig
+ trans_en: worker, busy with work, hardworking
+-lexeme
+ lex: šah/šay
+ stem: šah.//šay.
+ root: šh
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Schah
+ trans_en: shah
+-lexeme
+ lex: šahade
+ stem: šahade.
+ root: šhd
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Schuldiplom
+ trans_en: school diploma
+-lexeme
+ lex: šahdabune
+ stem: šahdabune.
+ root: šhdbn
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Zeugnis ablegen
+ trans_en: to give evidence
+-lexeme
+ lex: šahiye/šayiye
+ stem: šahiye.//šayiye.
+ root: šhy
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Freude
+ trans_en: peace
+-lexeme
+ lex: šahrawan
+ stem: šahrawan. 
+ root: šhrwn
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: sich leicht beklagend, sich anstellend, auch wenn nichts besonders schlimmes passiert ist
+ trans_en: easily complaining, starting to act, even if nothing particulary bad has happened
+-lexeme
+ lex: šahraza
+ stem: šahraza.
+ root: šhrz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: gescheit, klug
+ trans_en: clever, smart
+-lexeme
+ lex: šahro
+ stem: šahro.|šahre.
+ root: šhr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Feiertag einer/s Heiligen
+ trans_en: saint holiday
+-lexeme
+ lex: šahwe
+ stem: šahwe.
+ root: šhw
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Appetit; Brunst
+ trans_en: appetite; rutting
+-lexeme
+ lex: šaḥino
+ stem: šaḥino.//šaḥuno.|šaḥine.
+ root: šḥn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: warm (Gegenstand, Suppe usw.); Schuldiger, der seine Schuld geleugnet und nun Angst hat; kokettes Mädchen
+ trans_en: warm (thing, soup etc.); trespasser who denies his guilt and is afraid now; coquettish girl
+-lexeme
+ lex: šaḥuṭa
+ stem: šaḥuṭa.
+ root: šḥṭ
+ gramm: N,f
+ paradigm: <?>
+ trans_de: zweischneidiges Instrument zum Feinbehauen von Steinen. Die eine Schneide ist glatt, die andere kammartig gerillt
+ trans_en: double-edged instrument for stone processing. One edge is smooth, the other is shaped like a comb
+-lexeme
+ lex: šaḥṭ
+ stem: šaḥṭ.|šaḥṭin.
+ root: šḥṭ
+ gramm: N,<?>
+ paradigm: N2
+ trans_de: lahm, Krüppel
+ trans_en: lame, cripple
 -lexeme
  lex: šakke
  stem: šakke.
@@ -34827,29 +34859,29 @@
  trans_de: Schlag an das Flugholz
  trans_en: 
 -lexeme
- lex: šak(k)al
- stem: šak(k)al.|šak(k)alat.//šak(k)ale.
- root: šk(k)l
+ lex: šakal/šakkal
+ stem: šakal.//šakkal.|šakkalat.//šakkalat.//šakale.//šakkale.
+ root: škl
  gramm: N,m
  paradigm: N2
  trans_de: Schuh, Hausschuh, Pantoffel
- trans_en: 
+ trans_en: shoe, slipper
 -lexeme
  lex: šakro
  stem: šakro.
  root: škr
  gramm: N,m
- paradigm: N1
- trans_de: Schnaps nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Schnaps
+ trans_en: schnapps
 -lexeme
  lex: šakṯo
- stem: šakṯo.
+ stem: šakṯo.|šakwoṯo.
  root: škṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hode
- trans_en: 
+ trans_en: testicle
 -lexeme
  lex: šal
  stem: šal.|šalat.
@@ -34857,7 +34889,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: offener Sack, zum Transport des gemähten Getreides zur Tenne
- trans_en: 
+ trans_en: open-mouth bag for transporting the mowed grain to the threshing floor
+-lexeme
+ lex: šalafat
+ stem: šalafat.
+ root: šlf
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Lanzenspitzen
+ trans_en: lance heads
 -lexeme
  lex: šalap/šlap
  stem: šalap.//šlap. 
@@ -34871,9 +34911,9 @@
  stem: šalelke.
  root: šll
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zwirnrolle, Zwirnbündel, Strang, Bindfaden
- trans_en: 
+ trans_en: thread roll, thread bundle, rope, string
 -lexeme
  lex: šalfo
  stem: šalfo.|šalfe.
@@ -34881,55 +34921,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Klappmesser
- trans_en: 
+ trans_en: clasp knife
 -lexeme
- lex: šalḥo/šalḥ
- stem: šalḥo/šalḥ.
- root: šlḥ
- gramm: N,m
- paradigm: N1
- trans_de: a) Schwarm Fliegen oder Bienen. b) abgeworfene Schlangenhaut
- trans_en: 
+ lex: šalhebiṯo
+ stem: šalhebiṯo.
+ root: šlhb
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Flamme
+ trans_en: flame
 -lexeme
  lex: šaləġiye
  stem: šaləġiye.
  root: šlġ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Freudenkundgebung
- trans_en: 
+ trans_en: celebration meeting
 -lexeme
  lex: šalək
  stem: šalək.
  root: šlk
  gramm: N,m
- paradigm: N1
- trans_de: a) Pfuhl, auf dem die Hirten schlafen b) Pluderhose
- trans_en: 
+ paradigm: <?>
+ trans_de: Pfuhl, auf dem die Hirten schlafen; Pluderhose
+ trans_en: ...; pantaloons
 -lexeme
  lex: šaləke
  stem: šaləke.
  root: šlk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: weiter Mantel ohne Ärmel
- trans_en: 
+ trans_en: wide mantle without sleeves
 -lexeme
  lex: šaləkšino
  stem: šaləkšino.
  root: šlkšn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mann, der das Getreide in dem Tragtuch auf die Tenne bringt
- trans_en: 
--lexeme
- lex: šalit
- stem: šalit.|šalite.
- root: šlt
- gramm: N,m
- paradigm: N2
- trans_de: Strick
- trans_en: 
+ trans_en: man bringing the grain in the sling on the threshing floor 
 -lexeme
  lex: šaliyo
  stem: šaliyo.|šaliye.
@@ -34937,71 +34969,95 @@
  gramm: N,m
  paradigm: N2
  trans_de: große Scholle
- trans_en: 
+ trans_en: big clod
+-lexeme
+ lex: šalləšito
+ stem: šalləšito.
+ root: šllšt
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: tanzend mit Fingern knipsen
+ trans_en: dancing person snapping fingers
 -lexeme
  lex: šalo
- stem: šalo.
+ stem: šalo.|šale.
  root: šl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: ein viereckiges Tuch wird einmal gefaltet und die kurzen Seiten aneinander genäht, zum Transport auf Eseln
- trans_en: 
+ trans_en: a square cloth is folded once and its short sides are sewn together, for donkey transportation
 -lexeme
  lex: šalqa
- stem: šalqa.|šalqat.
+ stem: šalqa.//šalqe.|šalqat.
  root: šlq
  gramm: N,f
  paradigm: N2
  trans_de: Welle
- trans_en: 
--lexeme
- lex: šalqe
- stem: šalqe.
- root: šlq
- gramm: N,f
- paradigm: N1
- trans_de: Welle
- trans_en: 
+ trans_en: wave
 -lexeme
  lex: šalwo
  stem: šalwo.
  root: šlw
  gramm: N,m
- paradigm: N1
- trans_de: a) Ebene
- trans_en: 
+ paradigm: <?>
+ trans_de: Ebene; Schlucht
+ trans_en: flatland; mountain gorge
+-lexeme
+ lex: šam hawa
+ stem: šam hawa.
+ root: šmm
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Luft schnappen
+ trans_en: to catch a breath
+-lexeme
+ lex: Šam
+ stem: Šam. 
+ root: šm
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Damaskus
+ trans_en: Damascus
 -lexeme
  lex: šamʕo
- stem: šamʕo.
+ stem: šamʕo.|šamʕe.
  root: šmʕ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kerze, Wachs
- trans_en: 
+ trans_en: candle, wax
 -lexeme
  lex: šamadan
  stem: šamadan.
  root: šmʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Leuchter, Kerzenhalter
- trans_en: 
+ trans_en: candlestick, candleholder
 -lexeme
  lex: šamal
  stem: šamal.
  root: šml
  gramm: N,m
- paradigm: N1
- trans_de: a) Norden b) sagenhaftes, affenartiges Tier c)
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Norden
+ trans_en: North
+-lexeme
+ lex: šamal
+ stem: šamal.
+ root: šml
+ gramm: N,m
+ paradigm: <?>
+ trans_de: agenhaftes, affenartiges Tier
+ trans_en: mythological, apelike animal
 -lexeme
  lex: šamborak
- stem: šamborak.|šamborak.
+ stem: šamborak.
  root: šmbrk
  gramm: N,m
- paradigm: N2
+ paradigm: unchangeable
  trans_de: Damaszener Pastete, flacher Teig mit gehacktem Fleisch gefüllt, deutsch: Maultasche
- trans_en: 
+ trans_en: Damascene paste, flat dough filled with minced meat, German: pasta case filled with meat, cheese or vegetables and served in soup
 -lexeme
  lex: šamborake
  stem: šamborake.|šamborakat.
@@ -35009,31 +35065,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Damaszener Pastete
- trans_en: 
+ trans_en: Damascene paste
+-lexeme
+ lex: šami 
+ stem: šami.
+ root: šm 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: syrisch; Name einer von dorther stammenden guten, weißen Eselsart; Hühnerart
+ trans_en: Syrian; name of a good, white donkey from there; a kind of chicken
 -lexeme
  lex: šamiṭonke
  stem: šamiṭonke.
  root: šmṭnk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: schlüpfrige Stelle
- trans_en: 
+ trans_en: slippery place
 -lexeme
  lex: šamiza
  stem: šamiza.
  root: šmz
  gramm: N,f
- paradigm: N1
- trans_de: Traubentrebern und Granatapfelkernen gemachter, saurer Saft; wird an Fasttagen gegessen, weil er kein Fett enthält
- trans_en: 
+ paradigm: unchangeable
+ trans_de: aus Traubentrebern und Granatapfelkernen gemachter, saurer Saft; wird an Fasttagen gegessen, weil er kein Fett enthält
+ trans_en: sour juice made of grape pomace and pomegranate seeds; is eaten on fasting days because it contains no fat
 -lexeme
  lex: šamo
  stem: šamo.
  root: šm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Muttermal
- trans_en: 
+ trans_en: birthmark
 -lexeme
  lex: šamošo
  stem: šamošo.|šamoše.
@@ -35041,7 +35105,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Diakon, Kirchensänger (die Diakonen unterscheiden sich dem Rang nach voneinander durch das Horuro, eine Art Band oder Schärpe)
- trans_en: 
+ trans_en: deacon, chorister (the deacons differ in rank from each other according to the horuro, a kind of ribbon or sash)
 -lexeme
  lex: šampanya
  stem: šampanya.
@@ -35499,6 +35563,14 @@
  trans_de: Schein (einer Laterne); Lichtschein; Widerschein im Wasser; Glanz
  trans_en: light (of a lantern); glow; reflection in the water; shine
 -lexeme
+ lex: šawq w šamal
+ stem: šawq w šamal.
+ root: šwqwšml
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Lichtschein, Glanz
+ trans_en: light, shine
+-lexeme
  lex: šawra
  stem: šawra.//šawara.|šawrat.//šawarat.
  root: šwr
@@ -35595,14 +35667,6 @@
  trans_de: Persönlichkeit
  trans_en: personality
 -lexeme
- lex: šay
- stem: šay.
- root: šy
- gramm: N,m
- paradigm: <?>
- trans_de: Schah
- trans_en: shah
--lexeme
  lex: šayiʕa
  stem: šayiʕa.
  root: šyʕ
@@ -35611,8 +35675,8 @@
  trans_de: Gerücht, stadtbekannt
  trans_en: Rumor, known all over the town
 -lexeme
- lex: šayik/šayək/šahək
- stem: šayik.//šayək.//šahək.
+ lex: šayik/šayək/šahək/šahik
+ stem: šayik.//šayək.//šahək.//šahik.
  root: šyk
  gramm: ADJ
  paradigm: <?>
@@ -35863,8 +35927,8 @@
  root: šlḥ
  gramm: N,m
  paradigm: <?>
- trans_de: Schwarm (von Fliegen); abgeworfene Schlangenhaut 
- trans_en: swarm (of flies); shedded snakeskin
+ trans_de: Schwarm (von Fliegen oder Bienen); abgeworfene Schlangenhaut 
+ trans_en: swarm (of flies or bees); shedded snakeskin
 -lexeme
  lex: šəlliye
  stem: šəlliye.|šəlliyat.
@@ -42545,6 +42609,14 @@
  paradigm: <?>
  trans_de: Mutter
  trans_en: mother
+-lexeme
+ lex: ya šabab
+ stem: ya šabab. 
+ root: šbb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Leute!
+ trans_en: folks!
 -lexeme
  lex: yaʕay
  stem: yaʕay.
