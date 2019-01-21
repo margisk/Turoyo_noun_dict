@@ -19051,8 +19051,8 @@
  trans_de: schwerer, bedrückender Traum
  trans_en: depressing dream
 -lexeme
- lex: kabrite
- stem: kabrite.
+ lex: kabrite/kaprit
+ stem: kabrite.//kaprit.
  root: kbrt
  gramm: N,f
  paradigm: <?>
@@ -19378,85 +19378,77 @@
  trans_de: gierig auf eine Speise oder auf Rauchzeug, das man lange entbehrt hat
  trans_en: craving for food or for smoking after being depraved of it for a long time
 -lexeme
+ lex: kampyalat
+ stem: kampyalat.
+ root: kmpyl
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Wechsel, Bankwechsel
+ trans_en: exchange, bank exchange
+-lexeme
  lex: kamše
- stem: kamše.
+ stem: kamše.|kamšat.
  root: kmš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlag mit der flachen Hand
- trans_en: 
+ trans_en: blow with plain hand
 -lexeme
- lex: kamyon
- stem: kamyon.|kamyonat.
+ lex: kamyon/kamyun
+ stem: kamyon.//kamyun.|kamyonat.//kamyunat.
  root: kmyn
  gramm: N,m
  paradigm: N2
- trans_de: Lastwagen pl
- trans_en: 
--lexeme
- lex: kamyun
- stem: kamyun.
- root: kmyn
- gramm: N,m
- paradigm: N1
  trans_de: Lastwagen
- trans_en: 
+ trans_en: van, truck, lorry
 -lexeme
- lex: kanaf
- stem: kanaf.|kanafe.
+ lex: kan
+ stem: kan.
+ root: kn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn
+ trans_en: if
+-lexeme
+ lex: kanaf/kanafa
+ stem: kanaf.//kanafa.|kanafe.//kanafat.
  root: knf
  gramm: N,f
  paradigm: N2
  trans_de: Abtritt
- trans_en: 
--lexeme
- lex: kanafa
- stem: kanafa.
- root: knf
- gramm: N,f
- paradigm: N1
- trans_de: Abtritt
- trans_en: 
+ trans_en: toilet <?>
 -lexeme
  lex: kanabaye
  stem: kanabaye.|kanabayat.
  root: knb
  gramm: N,f
  paradigm: N2
- trans_de: Kanapee, Sofa nicht
- trans_en: 
+ trans_de: Kanapee, Sofa
+ trans_en: canape, sofa
 -lexeme
  lex: kandale
- stem: kandale.|kandalee.
+ stem: kandale.|kandale.
  root: kndl
  gramm: N,f
  paradigm: N2
- trans_de: Höhe pl
- trans_en: 
+ trans_de: Höhe
+ trans_en: height
 -lexeme
- lex: kandil
- stem: kandil.|kandile.
+ lex: kandil/kandir
+ stem: kandil.//kandir.|kandile.//kandire.
  root: kndl
  gramm: N,m
  paradigm: N2
  trans_de: Hanf, Hanfstrick, Bindfaden
- trans_en: 
--lexeme
- lex: kandir
- stem: kandir.|kandirat.
- root: kndr
- gramm: N,m
- paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_en: hemp, hemp rope, string
 -lexeme
  lex: kanne
  stem: kanne.
  root: knn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schinne, Schuppe
- trans_en: 
+ trans_en: dandruff
 -lexeme
  lex: kanošo
  stem: kanošo.|kanoše.
@@ -19464,87 +19456,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ausfeger, Kehrer
- trans_en: 
+ trans_en: cleaner, sweeper
 -lexeme
  lex: kantre
  stem: kantre.
  root: kntr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Birne, Birnbaum
- trans_en: 
+ trans_en: pear, pear tree
 -lexeme
  lex: kap
  stem: kap.
  root: kp
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: flache Hand
- trans_en: 
+ trans_en: open hand
 -lexeme
- lex: kapək(k)e
- stem: kapək(k)e.|kapək(k)at.
- root: kpk(k)
+ lex: kapəkke
+ stem: kapəkke.|kapəkkat.
+ root: kpk
  gramm: N,f
  paradigm: N2
- trans_de: a) Knoten im Getreidehalm b)
- trans_en: 
+ trans_de: Knoten im Getreidehalm; Stück Zucker
+ trans_en: halm joint; piece of sugar
 -lexeme
  lex: kappe
- stem: kappe.
+ stem: kappe.|kappat.
  root: kpp
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schirmmütze
- trans_en: 
--lexeme
- lex: kaprit
- stem: kaprit.
- root: kbrt
- gramm: N,m
- paradigm: N1
- trans_de: Zündholz
- trans_en: 
+ trans_en: peaked cap
 -lexeme
  lex: kapxo
  stem: kapxo.
  root: kpx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlag mit der flachen Hand
- trans_en: 
+ trans_en: blow with an open hand
 -lexeme
  lex: kar
  stem: kar.
  root: kr
  gramm: N,m
  paradigm: N1
- trans_de: a) Tun; sich bereitmachen b) Art und Weise
- trans_en: 
+ trans_de: Tun; sich bereitmachen; Art und Weise
+ trans_en: deed; preparing; manner, way
 -lexeme
  lex: karʕub
  stem: karʕub.
  root: krʕb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kniescheibe
- trans_en: 
+ trans_en: kneecap
+-lexeme
+ lex: karamač/qaramač
+ stem: karamač.//qaramač.
+ root: krmč
+ gramm: N
+ paradigm: <?>
+ trans_de: Schippe (Spielkarte)
+ trans_en: pike (in playing cards)
 -lexeme
  lex: karame
  stem: karame.
  root: krm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrung eines Gastes
- trans_en: 
+ trans_en: honouring the guest
 -lexeme
  lex: karamiye
  stem: karamiye.
  root: krm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrung eines Gastes
- trans_en: 
+ trans_en: honouring the guest
 -lexeme
  lex: karbe
  stem: karbe.|karbat.
