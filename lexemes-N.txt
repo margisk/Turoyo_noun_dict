@@ -19538,21 +19538,21 @@
  trans_de: Ehrung eines Gastes
  trans_en: honouring the guest
 -lexeme
- lex: karbe
- stem: karbe.|karbat.
+ lex: karbe/karb
+ stem: karbe.//karb.|karbat.
  root: krb
  gramm: N,f
  paradigm: N2
  trans_de: Kummer
- trans_en: 
+ trans_en: worry
 -lexeme
  lex: karbala
- stem: karbala.|karbalaawat.
+ stem: karbala.|karbalawat.
  root: krbl
  gramm: N,f
  paradigm: N2
- trans_de: Not (vom Orte Kerbela, wo Ḥusayn b.
- trans_en: 
+ trans_de: Not (vom Orte Kerbela, wo Ḥusayn b. ʕAli getötet wurde)
+ trans_en: need (from the place Kerbela where Ḥusayn b. ʕAli was murdered)
 -lexeme
  lex: karde
  stem: karde.|kardat.
@@ -19560,15 +19560,38 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wohltat
- trans_en: 
+ trans_en: good deed
+-lexeme 
+ lex: kari
+ stem: kari.
+ root: kr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: tame
+-lexeme
+ lex: karkar
+ stem: karkar.
+ root: kr
+ gramm: N
+ paradigm: <?>
+ trans_de: Stöhnen eines Kranken
+ trans_en: groaning of an ill person
 -lexeme
  lex: karkarike
- stem: karkarike.
+ stem: karkarike.|karkarikat.
  root: krkrk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Knorpel
- trans_en: 
+ trans_en: cartilage
+-lexeme
+ lex: karkaš
+ stem: karkaš.
+ root: krkš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: zu nichts zu gebrauchen, faul
+ trans_en: useless, <?>
 -lexeme
  lex: karkit
  stem: karkit.
@@ -19576,31 +19599,39 @@
  gramm: N,m
  paradigm: N1
  trans_de: Dreikantfeile
- trans_en: 
+ trans_en: three-angular file
+-lexeme
+ lex: karkuš
+ stem: karkuš.
+ root: krkš
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Traubenart für Wein, auch für Rosinen. Der Wein ist gelb
+ trans_en: grape sort for wine, also for raisins; the wine is yellow
 -lexeme
  lex: karmo
  stem: karmo.|karme.
  root: krm
  gramm: N,m
  paradigm: N2
- trans_de: a) Weinberg, Weingarten b) die Kinder beißen sich in den Arm, die Spuren nennen sie karmo nicht
- trans_en: 
+ trans_de: Weinberg, Weingarten;
+ trans_en: vineyard
 -lexeme
- lex: karr
- stem: karr.
+ lex: karr/karro
+ stem: karr.//karro.
  root: krr
- gramm: N,m
- paradigm: N1
- trans_de: die Mitglieder des Rates blieben taub“
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: taub
+ trans_en: deaf
 -lexeme
  lex: karrakore
- stem: karrakore.
+ stem: karrakore.|karrakorat.
  root: krkr
  gramm: N,f
  paradigm: N1
- trans_de: a) Blindschleiche b) Giftschlange
- trans_en: 
+ trans_de: Blindschleiche; Giftschlange
+ trans_en: blindworm; poisonous snake
 -lexeme
  lex: karrəkke
  stem: karrəkke.|karrəkkat.
@@ -19608,47 +19639,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: unreife Feige
- trans_en: 
+ trans_en: unrip fig
 -lexeme
- lex: karro
- stem: karro.
- root: krr
- gramm: N,m
- paradigm: N1
- trans_de: XM
- trans_en: 
+ lex: karrixi
+ stem: karrixi.
+ root: krx
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: übermüdet
+ trans_en: overtired
 -lexeme
  lex: karruza
- stem: karruza.
+ stem: karruza.|karruzat.
  root: krz
  gramm: N,f
- paradigm: N1
- trans_de: Packung Zigarettenpapier zu
- trans_en: 
+ paradigm: N2
+ trans_de: Packung Zigarettenpapier zu 10 Stück
+ trans_en: a pack of paper for cigarettes (up to 10 in quantity)
 -lexeme
- lex: kars(ə)wono
- stem: kars(ə)wono.|kars(ə)wone.
- root: krs()wn
+ lex: karsəwono
+ stem: karsəwono.|karsəwone.
+ root: krswn
  gramm: N,m
  paradigm: N2
  trans_de: Ranke eines Weinstockes
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: kartuše
- stem: kartuše.
+ stem: kartuše.|karušat.
  root: krtš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Packung Zigarettenpapier
- trans_en: 
+ trans_en: a pack of paper for cigaretes
 -lexeme
  lex: karubo
  stem: karubo.|karube.
  root: krb
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: traurig
+ trans_en: sad
+-lexeme
+ lex: karuš
+ stem: karuš.
+ root: krš
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Mohrenhirse, Sorgum halepense L. Pers.
+ trans_en: sorghum, Sorgum halepense L. Pers.
 -lexeme
  lex: karwan
  stem: karwan.|karewən.
@@ -19656,55 +19695,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Karawane
- trans_en: 
+ trans_en: caravan
 -lexeme
  lex: karwaniye
  stem: karwaniye.
  root: krwny
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Karawanenhandel
- trans_en: 
+ trans_en: caravan trade
 -lexeme
  lex: karwiṯo/karwuṯo
- stem: karwiṯo/karwuṯo.
- root: krwṯ/krwṯ
+ stem: karwiṯo.//karwuṯo.
+ root: krw
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Karawanenhandel
- trans_en: 
+ trans_en: caravan trade
 -lexeme
- lex: karxana
- stem: karxana.
+ lex: karxana/karxane
+ stem: karxana.//karxane.|karxanat.
  root: krxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bordell
- trans_en: 
+ trans_en: brothel
+-lexeme
+ lex: karxaniq
+ stem: karxaniq.
+ root: krxnq
+ gramm: N
+ paradigm: <?>
+ trans_de: Mäusegerste, Hordeum murinum, Species der Gattung Aegilops L. oder Aegilops trincialis L., Aegilops ovata L.
+ trans_en: wall barley, Hordeum murinum, member of the species Aegilops L. or Aegilops trincialis L., Aegilops ovata L.
 -lexeme
  lex: karyiko
- stem: karyiko.
+ stem: karyiko.|karyike.
  root: kry
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: kurzer Kerl (auch für Tiere)
- trans_en: 
+ trans_en: short boy (also for animals)
 -lexeme
  lex: karyo
  stem: karyo.|karye.
  root: kry
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: kurz
+ trans_en: short
 -lexeme
  lex: karyuṯo
  stem: karyuṯo.
  root: kry
  gramm: N,f
- paradigm: N1
- trans_de: Kürze b-
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Kürze
+ trans_en: brevity, shortness
+-lexeme
+ lex: kas
+ stem: kas.
+ root: ks
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: jemand; in neg. Sätzen: niemand
+ trans_en: someone; in negative sentences: no one
 -lexeme
  lex: kas
  stem: kas.|kase.
@@ -19712,47 +19767,70 @@
  gramm: N,m
  paradigm: N2
  trans_de: Becher, Glas
- trans_en: 
+ trans_en: cup, glass
+-lexeme
+ lex: kasket
+ stem: kasket.|kasketat.
+ root: ksk
+ gramm: N,m
+ paradigm: N2
+ trans_de: Mütze
+ trans_en: hat
 -lexeme
  lex: kaspke
- stem: kaspke.
+ stem: kaspke.|kaspkat.
  root: ksp
  gramm: N,f
  paradigm: N1
- trans_de: a) Amulett aus weißem, etwas gesprenkeltem Stein, gegen den bösen Blick; Türkis b) Ziegenart mit blauen Augen
- trans_en: 
+ trans_de: Amulett aus weißem, etwas gesprenkeltem Stein, gegen den bösen Blick; Türkis; Ziegenart mit blauen Augen
+ trans_en: amulet made of white, somewhat flecked stone, against evil eye; turquoise; goat species with blue eyes
 -lexeme
  lex: kasuliye
  stem: kasuliye.
  root: ksl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Faulheit
- trans_en: 
+ trans_en: laziness
 -lexeme
  lex: kasulo
- stem: kasulo.
+ stem: kasulo.|kasule.
  root: ksl
- gramm: N,m
- paradigm: N1
- trans_de: Sl
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: faul
+ trans_en: lazy
 -lexeme
  lex: kasxo
  stem: kasxo.|kasxe.
  root: ksx
  gramm: N,m
  paradigm: N2
- trans_de: kleiner Zwiebelknollen nicht
- trans_en: 
+ trans_de: kleiner Zwiebelknollen
+ trans_en: small onion bulb
+-lexeme
+ lex: kasyoṯe
+ stem: kasyoṯe.//kasyoṯo.
+ root: ksy
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: verborgene Dinge
+ trans_en: hidden things
+-lexeme
+ lex: kaše
+ stem: kaše.|kašat.
+ root: kš
+ gramm: N,f
+ paradigm: Anhöhe, Abhang, Steigung
+ trans_en: hill, height, slope
 -lexeme
  lex: kašide
- stem: kašide.
+ stem: kašide.|kašidat.
  root: kšd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zweck, Absicht
- trans_en: 
+ trans_en: goal, intention
 -lexeme
  lex: kaškul
  stem: kaškul.|kaškulat.
@@ -19760,151 +19838,167 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bettelschale
- trans_en: 
+ trans_en: cup for alms
 -lexeme
- lex: katfo
- stem: katfo.|katfofoṯo.
+ lex: katfo/kaṯpo
+ stem: katfo.//kaṯpo.|katfoṯo.//katfoṯe.//kaṯpoṯe.//kaṯpoṯo.
  root: ktf
  gramm: N,f
  paradigm: N2
  trans_de: Schulter
- trans_en: 
+ trans_en: shoulder
 -lexeme
- lex: kaṯawto
- stem: kaṯawto.
- root: ktb
- gramm: N,f
- paradigm: N1
- trans_de: Schreiberin
- trans_en: 
+ lex: katəm
+ stem: katəm.
+ root: ktm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: noch nicht auf dem Einwohneramt eingetragen
+ trans_en: not yet registered by the Register Office
 -lexeme
- lex: kaṯpo
- stem: kaṯpo.|kaṯpoe.//-oṯe.
- root: kṯp
- gramm: N,f
- paradigm: N2
- trans_de: Schulter
- trans_en: 
+ lex: kaṯṯir
+ stem: kaṯṯir.
+ root: kṯr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Vermehre!
+ trans_en: <?>
 -lexeme
- lex: kaṯuto
- stem: kaṯuto.
- root: ktb
- gramm: N,f
- paradigm: N1
- trans_de: Sekretärin nicht
- trans_en: 
+ lex: kavan
+ stem: kavan.
+ root: kvn
+ gramm: N
+ paradigm: <?>
+ trans_de: Bogen des Schüzen
+ trans_en: bow
 -lexeme
  lex: kavane
  stem: kavane.|kavanat.
  root: kvn
  gramm: N,f
  paradigm: N2
- trans_de: Ziegenart mit nach hinten gebogenen Hörnern pl
- trans_en: 
+ trans_de: Ziegenart mit nach hinten gebogenen Hörnern
+ trans_en: type of goats with horns going backwards
 -lexeme
  lex: kavike
- stem: kavike.
+ stem: kavike.|kavikat.
  root: kvk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Rand des Buches, der Mütze, der Schublade, des Meeres
- trans_en: 
+ trans_en: margin of a book; side of a hat; edge of a drawer; coast
+-lexeme
+ lex: kavərr/kavər/kavir
+ stem: kavərr.//kavər.//kavir.
+ root: kvr
+ gramm: N
+ paradigm: <?>
+ trans_de: zweijähriges Schaflamm
+ trans_en: two-year lamb
+-lexeme
+ lex: kavn
+ stem: kavn.
+ root: kvn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: alt
+ trans_en: old
 -lexeme
  lex: kavoke
- stem: kavoke.
+ stem: kavoke.|kavokat.
  root: kvk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Taube
- trans_en: 
+ trans_en: dove
+-lexeme
+ lex: kavot
+ stem: kavot.
+ root: kvt
+ gramm: N
+ paradigm: <?>
+ trans_de: Holz, aus dem Löffel geschnitten werden
+ trans_en: wood from which spoons are carved out
 -lexeme
  lex: kavze
  stem: kavze.
  root: kvz
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Algen, Algenüberzug auf stehendem Wasser
- trans_en: 
+ trans_en: algae, layer of algae on slack water
 -lexeme
  lex: kavžale
  stem: kavžale.|kavžalat.
  root: kvžl
  gramm: N,f
  paradigm: N2
- trans_de: Krebs pl
- trans_en: 
+ trans_de: Krebs
+ trans_en: <?>
 -lexeme
- lex: kaweṭke
- stem: kaweṭke.
- root: kwṭ
+ lex: kawetke
+ stem: kawetke.
+ root: kwt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schaum auf Traubensirup
- trans_en: 
+ trans_en: foam on grape syrup
 -lexeme
- lex: kawma
- stem: kawma.|kawmaoṯe.
+ lex: kawma/kawme
+ stem: kawma.//kawme.|kawmoṯe.//kawmoṯo.
  root: kwm
  gramm: N,f
  paradigm: N2
- trans_de: Hinterhalt pl
- trans_en: 
+ trans_de: Hinterhalt, Haufen
+ trans_en: ambush, heap
 -lexeme
  lex: kawmo
  stem: kawmo.|kawme.
  root: kwm
  gramm: N,m
  paradigm: N2
- trans_de: a) Haufen b) Hinterhalt
- trans_en: 
+ trans_de: Haufen; Hinterhalt
+ trans_en: heap; ambush
 -lexeme
  lex: kawn
  stem: kawn.
  root: kwn
  gramm: N,m
- paradigm: N1
- trans_de: Zustand
- trans_en: 
+ paradigm: unchangeable
+ trans_de: (früherer) Zustand
+ trans_en: (earlier) condition, state
 -lexeme
- lex: kawwo
- stem: kawwo.|kawwooṯe.
+ lex: kawwo/kowo
+ stem: kawwo.//kowo.|kawwoṯe.//kawwoṯo.//kowoṯe.//kowoṯo.//kəwoṯo.//kəwoṯe.
  root: kww
  gramm: N,f
  paradigm: N2
  trans_de: kleines Loch in der Wand, Loch für das Ofenrohr; Ofenrohr
- trans_en: 
+ trans_en: small hile in a wall; hole a stovepipe; stovepipe
 -lexeme
  lex: kawye
- stem: kawye.
+ stem: kawye.|kawyat.
  root: kwʔ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Brandmal
- trans_en: 
+ trans_en: brand
 -lexeme
  lex: kayiwo
  stem: kayiwo.|kayiwe.
  root: kyb
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: a) krank b) mitleidig
- trans_en: 
+ trans_de: krank; mitleidig
+ trans_en: ill; compassionate
 -lexeme
  lex: kazab
  stem: kazab.|kazabat.
  root: kḏb
  gramm: N,f
  paradigm: N2
- trans_de: a) Lunge, Leber, Herz, inneres des Leibes b) Lüge
- trans_en: 
--lexeme
- lex: kazi
- stem: kazi.
- root: qḍʔ
- gramm: N,m
- paradigm: N1
- trans_de: Richter
- trans_en: 
+ trans_de: Lunge, Leber, Herz, inneres des Leibes; Lüge
+ trans_en: lung, liver, heart, inner part of stomach; lies
 -lexeme
  lex: kazike
  stem: kazike.|kazikat.
@@ -19912,7 +20006,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zopf, Locke
- trans_en: 
+ trans_en: plait, lock
 -lexeme
  lex: kaziye
  stem: kaziye.|kaziyat.
@@ -19920,7 +20014,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zopf
- trans_en: 
+ trans_en: plait
+-lexeme
+ lex: kazkat
+ stem: kazkaz.
+ root: kzkz
+ gramm: N
+ paradigm: <?>
+ trans_de: Klage, Jammern
+ trans_en: complaint, lamentation, wailing
+-lexeme
+ lex: kef
+ stem: kef.
+ root: kf
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Vergnügen, Wohlsein, Belieben
+ trans_en: fun, enjoyment; well-being; good will
+-lexeme
+ lex: kefarat
+ stem: kefarat.
+ root: kfr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Zuckungen des sterbenden Mensches oder Tieres, Gezappel
+ trans_en: convulsions of a dying man or animal; flounder
+-lexeme 
+ lex: kefči
+ stem: kefči.
+ root: kf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Vergnügen liebend
+ trans_en: one who enjoys fun and pleasure
 -lexeme
  lex: kefo
  stem: kefo.|kefe.
@@ -19928,15 +20054,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stein
- trans_en: 
+ trans_en: stone
+-lexeme
+ lex: kefsəz
+ stem: kefsəz.
+ root: kfsz
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verstimmt
+ trans_en: disappointed
 -lexeme
  lex: kelašto
  stem: kelašto.
  root: klš
  gramm: N,f
- paradigm: N1
- trans_de: Tünchung b-
- trans_en: 
+ paradigm: <?>
+ trans_de: Tünchung
+ trans_en: <?>
 -lexeme
  lex: kelək
  stem: kelək.|keləkat.
@@ -19944,7 +20078,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: aufrecht stehender Stein beim Spiel pl
- trans_en: 
+ trans_en: upright standing stone during a game
+-lexeme
+ lex: keləm
+ stem: keləm.
+ root: klm
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Rede, Wort
+ trans_en: speech, word
 -lexeme
  lex: kelike
  stem: kelike.|kelikat.
@@ -19952,31 +20094,55 @@
  gramm: N,f
  paradigm: N2
  trans_de: Augenblick, Weile, Zeitpunkt
- trans_en: 
+ trans_en: moment, time period; date
 -lexeme
  lex: keliye
- stem: keliye.
+ stem: keliye.|keliyat.
  root: kly
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Augenblick
- trans_en: 
+ trans_en: moment
 -lexeme
- lex: kesoyo
- stem: kesoyo.
+ lex: keluvərkat
+ stem: keluvərkat.
+ root: klvrk
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Steinchen werfen
+ trans_en: throwing stones
+-lexeme
+ lex: kesoyo/kəsoyo
+ stem: kesoyo.//kəsoyo.|kesoye.//kəsoye.
  root: ksy
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Deckel
- trans_en: 
+ trans_en: lid, cover
+-lexeme
+ lex: kem
+ stem: kem.
+ root: km
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wenig
+ trans_en: few
 -lexeme
  lex: kemayiye
  stem: kemayiye.
  root: kmy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Minderung der Ehre, Schande
- trans_en: 
+ trans_en: derogation; shame
+-lexeme
+ lex: ker
+ stem: ker.
+ root: kr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: das, wozu man taugt
+ trans_en: what a person is good for
 -lexeme
  lex: kero
  stem: kero.|kere.
@@ -19984,23 +20150,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stengel, Staude
- trans_en: 
+ trans_en: stalk; shrub
 -lexeme
  lex: kestakke
- stem: kestakke.
+ stem: kestakke.|kestakkat.
  root: kstk
  gramm: N,f
- paradigm: N1
- trans_de: a) Kniegelenk, Kniescheibe, Knochen des Unterschenkels b) großer Erdklumpen
- trans_en: 
+ paradigm: N2
+ trans_de: Kniegelenk, Kniescheibe, Knochen des Unterschenkels; großer Erdklumpen
+ trans_en: knee joint, kneecap, bones of the lower leg; clod
+-lexeme
+ lex: keš
+ stem: keš.
+ root: kš
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: bespringen, beschälen
+ trans_en: <?>
 -lexeme
  lex: kešiye
- stem: kešiye.
+ stem: kešiye.|kešiyat.
  root: kšy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Turm von Zweigen, die man aufeinanderlegt, mit den unteren Enden nach außen, damit die Blätter grün und frisch bleiben, zum Fressen für Ziegen und Schafe
- trans_en: 
+ trans_en: tower from branches which are laid one upon another, with bottom parts outwards, so that the leaves may remain green and fresh for goats and sheep
 -lexeme
  lex: ketono
  stem: ketono.
