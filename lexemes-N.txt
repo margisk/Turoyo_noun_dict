@@ -3993,7 +3993,15 @@
  stem: baba.
  root: bb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
+ trans_de: Papa, Vater
+ trans_en: father
+-lexeme
+ lex: baba
+ stem: baba.
+ root: bb
+ gramm: INTERJ
+ paradigm: unchangeable
  trans_de: Papa, Vater
  trans_en: father
 -lexeme
@@ -4025,7 +4033,7 @@
  stem: babor.|baborat.
  root: bbr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Dampfer
  trans_en: steamer
 -lexeme
@@ -4144,10 +4152,10 @@
  lex: baġəlko
  stem: baġəlko.
  root: bġlk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: kleines Maultier
- trans_en: 
+ trans_en: small mule
 -lexeme
  lex: baġlo
  stem: baġlo.|baġle.
@@ -4173,8 +4181,8 @@
  trans_de: Schande, Blossstellung
  trans_en: shame, discrediting
 -lexeme
- lex: bahlulo
- stem: bahlulo.
+ lex: bahlulo/bahlul
+ stem: bahlulo.//bahlul.|bahlulin.
  root: bhll
  gramm: ADJ
  paradigm: N2
@@ -4403,10 +4411,10 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: mit herausstehenden Glotzaugen
- trans_en: <?>
+ trans_en: goggle-eyed
 -lexeme
  lex: ballure
- stem: ballure.
+ stem: ballure.|ballurat.
  root: blr
  gramm: N,f
  paradigm: N2
@@ -4475,7 +4483,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bamia (Gemüseart), Hibiscus esculentes
- trans_en: 
+ trans_en: bamia (vegetable sort), Hibiscus esculentes
 -lexeme
  lex: banaiye
  stem: banaiye.|banaiyat.
@@ -4560,7 +4568,7 @@
  lex: bannəke
  stem: bannəke.|bannəkat.
  root: bnn
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kleines Terrassenfeld
  trans_en: small field between two mountains (?)
@@ -4883,7 +4891,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Schwager
- trans_en: <?>
+ trans_en: brother-in-law
 -lexeme
  lex: bari
  stem: bari.
@@ -4974,12 +4982,12 @@
  trans_en: cooking pot
 -lexeme
  lex: baroške
- stem: baroške.
+ stem: baroške.|baroškat.
  root: brš
  gramm: N,f
- paradigm: N1
+ paradigm: N,f,dim
  trans_de: kleiner Kochtopf
- trans_en: 
+ trans_en: small cooking pot
 -lexeme
  lex: baroyo
  stem: baroyo.|baroye.
@@ -5049,7 +5057,7 @@
  stem: baršaqaf.
  root: bršqf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Höhlung unter einem Felsen
  trans_en: opening under a rock
 -lexeme
@@ -5089,12 +5097,12 @@
  stem: barxurke.
  root: brx
  gramm: N,pl
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Schlossen
  trans_en: <?>
 -lexeme
- lex: barzayno
- stem: barzayno.|barzayne.
+ lex: barzayno/bərzayno
+ stem: barzayno.//bərzayno.|barzayne.//bərzayne.
  root: brzyn
  gramm: N,m
  paradigm: N1
@@ -5106,8 +5114,16 @@
  root: bs
  gramm: CONJ
  paradigm: unchangeable
- trans_de: genug, nur; aber, nur
- trans_en: enough, only; but, only
+ trans_de: aber, nur
+ trans_en: but, only
+-lexeme
+ lex: bas
+ stem: bas.
+ root: bs
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: genug, nur
+ trans_en: enough, only
 -lexeme
  lex: basḥoqoyo
  stem: basḥoqoyo.|basḥoqoye.
@@ -5187,7 +5203,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: 25 März, Tag der Ankündigung Mariae; rot-weißer Faden, der am Tag von Mariae Verkündigung überall angebracht wird. Er wird am Ostermontag vom Pfarrer gesegnet und dann abgenommen. Auch als Brautkrone verwendet
- trans_en: <?>
+ trans_en: 25 March, Annunciation Day; red-white thread which is installed everywhere on the day of Annunciation. It is blessed by a priest on Bright Monday and is then removed. It is also used as a bride's diadem
 -lexeme
  lex: baṣiṭ
  stem: baṣiṭ.
@@ -5234,8 +5250,16 @@
  root: bš
  gramm: ADJ
  paradigm: unchangeable
- trans_de: gut, nicht schlecht; ziemlich, hübsch
- trans_en: good; grown up, beautiful
+ trans_de: gut, nicht schlecht
+ trans_en: good; grown up
+-lexeme
+ lex: baš
+ stem: baš.
+ root: bš
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: ziemlich; hübsch
+ trans_en: quite; quite a lot
 -lexeme
  lex: baš
  stem: baš.
@@ -5262,10 +5286,10 @@
  trans_en: sergeant-major
 -lexeme
  lex: bašbazərgan
- stem: bašbazərgan.
+ stem: bašbazərgan.|bašbazərganin.
  root: bšbzrgn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Karawanenführer
  trans_en: caravan leader
 -lexeme
@@ -6171,14 +6195,6 @@
  paradigm: N2
  trans_de: Schar, Trupp
  trans_en: crowd, troop
--lexeme
- lex: bərzayno
- stem: bərzayno.
- root: brzyn
- gramm: N,m
- paradigm: N1
- trans_de: Schlafstelle auf dem Dache mit Blättern
- trans_en: 
 -lexeme
  lex: bərzəġlayle
  stem: bərzəġlayle.|bərzəġlaylat.
