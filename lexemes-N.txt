@@ -19019,8 +19019,8 @@
  trans_de: Knöchel aus dem Fußgelenk des Schafes oder der Ziege, immer paarweise zum Spielen benutzt
  trans_en: bone from ankle of a sheep or goat, always used in pairs for playing
 -lexeme
- lex: kabab
- stem: kabab.
+ lex: kabab/kəbab
+ stem: kabab.//kəbab.|kababe.//kəbabe.//kababat.//kəbabat.
  root: kbb
  gramm: N,m
  paradigm: <?>
@@ -20192,13 +20192,21 @@
  trans_de: Turm von Zweigen, die man aufeinanderlegt, mit den unteren Enden nach außen, damit die Blätter grün und frisch bleiben, zum Fressen für Ziegen und Schafe
  trans_en: tower from branches which are laid one upon another, with bottom parts outwards, so that the leaves may remain green and fresh for goats and sheep
 -lexeme
- lex: ketono
- stem: ketono.
+ lex: ketono/kətono
+ stem: ketono.//kətono.|ketone.//kətone.
  root: ktn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Baumwolle, Watte
- trans_en: 
+ trans_en: cotton, cotton wool
+-lexeme
+ lex: kevǧalat
+ stem: kevǧalat.
+ root: kvǧl
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Krebs(scheren)
+ trans_en: <?>
 -lexeme
  lex: kewo
  stem: kewo.|kewe.
@@ -20206,87 +20214,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krankheit
- trans_en: 
--lexeme
- lex: kəbab
- stem: kəbab.|kəbabe.//kəbabat.
- root: kbb
- gramm: N,m
- paradigm: N2
- trans_de: Braten
- trans_en: 
+ trans_en: illness, disease
 -lexeme
  lex: kəbbe
  stem: kəbbe.
  root: kbb
  gramm: N,f
- paradigm: N1
- trans_de: Fleischpastete nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Fleischpastete
+ trans_en: meat paste
 -lexeme
- lex: kəfla
- stem: kəfla.
- root: kfl
- gramm: N,f
- paradigm: N1
- trans_de: Familie, die man ernähren muss
- trans_en: 
+ lex: kəfəš
+ stem: kəfəš.
+ root: kfš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sichtbar, klar
+ trans_en: visible, clear
 -lexeme
- lex: kəfle
- stem: kəfle.|kəflat.
+ lex: kəfla/kəfle
+ stem: kəfla.//kəfle.|kəflat.
  root: kfl
  gramm: N,f
  paradigm: N2
  trans_de: Familie, die man ernähren muss
- trans_en: 
+ trans_en: family
 -lexeme
- lex: kəfrit
- stem: kəfrit.
+ lex: kəfrit/kafrit
+ stem: kəfrit.//kafrit.
  root: kbrt
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schwefel
- trans_en: 
+ trans_en: sulfur
 -lexeme
- lex: kəkwo
- stem: kəkwo.|kəkwe.
+ lex: kəkwo/kukwo
+ stem: kəkwo.//kukwo.|kəkwe.//kukwe.
  root: kkw
  gramm: N,m
  paradigm: N2
- trans_de: Stern pl
- trans_en: 
+ trans_de: Stern
+ trans_en: star
 -lexeme
  lex: kəlar
  stem: kəlar.
  root: klr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Keller
- trans_en: 
+ trans_en: cellar
 -lexeme
- lex: kəliča
- stem: kəliča.
+ lex: kəliča/kliča
+ stem: kəliča.//kliča.|kəličat.//kličat.
  root: klč
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Art Kuchen
- trans_en: 
+ trans_en: type of pie
 -lexeme
  lex: kəllabe
- stem: kəllabe.
+ stem: kəllabe.|kəllabat.
  root: klb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fänge eines Raubvogels
- trans_en: 
+ trans_en: talons of birds of prey
+-lexeme
+ lex: kəlli
+ stem: kəlli.
+ root: kll
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Kreuz im Kartenspiel
+ trans_en: clubs
 -lexeme
  lex: kəlwe
- stem: kəlwe.|kilaw.
+ stem: kəlwe.|kilaw.//kəlwoṯe.//kəlwoṯo.
  root: klw
  gramm: N,f
  paradigm: N2
  trans_de: Niere
- trans_en: 
+ trans_en: kidney
 -lexeme
  lex: kəmme
  stem: kəmme.|kəmam.//kəmmeat.
