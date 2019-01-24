@@ -20297,44 +20297,60 @@
  trans_en: kidney
 -lexeme
  lex: kəmme
- stem: kəmme.|kəmam.//kəmmeat.
+ stem: kəmme.|kəmam.//kəmmat.
  root: kmm
  gramm: N,f
  paradigm: N2
  trans_de: Mütze, Kappe, Tarnkappe
- trans_en: 
+ trans_en: hat, cap
+-lexeme
+ lex: kəmməke
+ stem: kəmməke.|kəmməkat.
+ root: kmm
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Kappe
+ trans_en: cap
 -lexeme
  lex: kəmməke
  stem: kəmməke.|kəmməkat.
  root: kmm
  gramm: N,f
  paradigm: N2
- trans_de: a) Kappe b) Pilz
- trans_en: 
+ trans_de: Pilz
+ trans_en: mushroom
 -lexeme
  lex: kəmya
  stem: kəmya.
  root: kmy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Chemie
- trans_en: 
+ trans_en: chemistry
 -lexeme
- lex: kənfo
- stem: kənfo.
+ lex: kənez
+ stem: kənez.
+ root: knz
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Verwandter des Vaters, Sippschaft
+ trans_en: relative of a father, <?> 
+-lexeme
+ lex: kənfo/kunfo
+ stem: kənfo.//kunfo.|kənfe.//kunfe.
  root: knf
  gramm: N,m
- paradigm: N1
- trans_de: Brillenfutteral nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Brillenfutteral
+ trans_en: case, satchel
 -lexeme
  lex: kərata
- stem: kərata.
+ stem: kərata.|kəratat.
  root: krt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schuhlöffel
- trans_en: 
+ trans_en: shoehorn
 -lexeme
  lex: kəre
  stem: kəre.|kərwat.//kərawat.//karwat.
@@ -20342,159 +20358,191 @@
  gramm: N,f
  paradigm: N2
  trans_de: Lohn, Miete
- trans_en: 
+ trans_en: rent, payment
 -lexeme
  lex: kəriv
- stem: kəriv.
+ stem: kəriv.|kərivin.
  root: krv
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Verwandter, der bei der Beschneidung den Knaben hält
- trans_en: 
+ trans_en: relative who holds a boy during circumcision
+-lexeme
+ lex: kərkər
+ stem: kərkər.
+ root: krkr
+ gramm: N
+ paradigm: <?>
+ trans_de: Knirschen
+ trans_en: crunch, rasp
 -lexeme
  lex: kərkəde
- stem: kərkəde.
+ stem: kərkəde.|kərkədat.
  root: krkd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Reihe von Kerben, als Schmuck
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: kərr
+ stem: kərr.
+ root: kr
+ gramm: N
+ paradigm: <?>
+ trans_de: Belästigung durch Stoßen und dergl.
+ trans_en: annoying (someone) with pushing and so on
 -lexeme
  lex: kərraza
- stem: kərraza.
+ stem: kərraza.|kərrazat.
  root: krs
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleines Heft aus einem gefalteten Bogen bestehend
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: kəsto
- stem: kəsto.
+ stem: kəsto.|kəstoṯe.//kəstoṯo.
  root: kst
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tasche, Beutel
- trans_en: 
+ trans_en: bag, purse
+-lexeme
+ lex: kəššaf
+ stem: kəššaf.
+ root: kšf
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Pfadfinder
+ trans_en: pathfinder
 -lexeme
  lex: kəštabane
- stem: kəštabane.
+ stem: kəštabane.|kəštabanat.
  root: kštbn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fingerhut
- trans_en: 
+ trans_en: foxglove
 -lexeme
  lex: kəzəke
  stem: kəzəke.
  root: kzk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Reste von ausgelassenem Schmalz der Schafe werden in Stücke geschnitten und gegessen
- trans_en: 
+ trans_en: remains of melted sheep lard are cut in pieces and eaten
 -lexeme
- lex: kəzkəzeke
- stem: kəzkəzeke.
+ lex: kəzkəzeke/kəzkəyizəke
+ stem: kəzkəzeke.//kəzkəyizəke.|kəzkəzekat.//kəzkəyizəkat.
  root: kzkzk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Mistkäfer
- trans_en: 
+ trans_en: dung beetle
 -lexeme
- lex: kəzməke
- stem: kəzməke.|kəzməkat.
+ lex: kəzməke/kuzməke
+ stem: kəzməke.//kuzməke.|kəzməkat.//kuzməkat.
  root: kzm
  gramm: N,f
  paradigm: N2
  trans_de: schlechte Strohteile, die beim Sieben auf dem Siebe bleiben; Gerstenabfall
- trans_en: 
+ trans_en: bad pieces of straw which remain on a sieve during winnowing
 -lexeme
  lex: kəzwane
  stem: kəzwane.|kəzwanat.
  root: kzwn
  gramm: N,f
  paradigm: N2
- trans_de: Frucht des Mastixstrauches, essbar
- trans_en: 
+ trans_de: Frucht des Mastixstrauches, essbar, Terpentin-Pistazie, Pistacia terebintho L.
+ trans_en: fruit of mastic bush, edible, turpentine pistachio, Pistacia terebintho L.
+-lexeme
+ lex: kəzzab
+ stem: kəzzab.
+ root: kzb
+ gramm: N
+ paradigm: <?>
+ trans_de: Salzsäure
+ trans_en: hydrochlorid acid
 -lexeme
  lex: kfaye
  stem: kfaye.
  root: kfy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fortsetzung
- trans_en: 
+ trans_en: continuation
+-lexeme
+ lex: ki
+ stem: ki.
+ root: k
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: dass; wenn
+ trans_en: that; if, when
 -lexeme
  lex: kilo
  stem: kilo.|kilowat.
  root: kl
  gramm: N,m
  paradigm: N2
- trans_de: Kilogramm pl
- trans_en: 
+ trans_de: Kilogramm
+ trans_en: kilogram
 -lexeme
  lex: kilomatro
- stem: kilomatro.|kilomatroowiye.//kilomatroat.
+ stem: kilomatro.//kilomətro.//kilomətr.|kilomatrowiye.//kilomatrat.//kilomətrat.
  root: klmtr
  gramm: N,m
  paradigm: N2
- trans_de: Kilometer pl –owiye
- trans_en: 
+ trans_de: Kilometer 
+ trans_en: kilometer
 -lexeme
  lex: kin
  stem: kin.
  root: kn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Groll
- trans_en: 
+ trans_en: malice, enmity
 -lexeme
- lex: kinuno
- stem: kinuno.
+ lex: kənuno/konuno
+ stem: kənuno.//konuno.
  root: knn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kamin, Ofen
- trans_en: 
+ trans_en: stove, oven
 -lexeme
  lex: kiroške
- stem: kiroške.|ع·ع.
+ stem: kiroške.|kiroškat.
  root: krš
  gramm: N,f
  paradigm: N2
- trans_de: Hase pl
- trans_en: 
+ trans_de: Hase
+ trans_en: hare
 -lexeme
  lex: kiso
- stem: kiso.|kisoone.
+ stem: kiso.|kisone.//kise.
  root: ks
  gramm: N,m
  paradigm: N2
- trans_de: one Seitentasche, Sack
- trans_en: 
--lexeme
- lex: kitono
- stem: kitono.
- root: ktn
- gramm: N,m
- paradigm: N1
- trans_de: Baumwolle, Watte
- trans_en: 
+ trans_de: Seitentasche, Sack
+ trans_en: pocket; bag
 -lexeme
  lex: kiyo
  stem: kiyo.
  root: ky
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mastix
- trans_en: 
+ trans_en: mastic
 -lexeme
  lex: klabṯo
- stem: klabṯo.
+ stem: klabṯo.|klabyoṯo.//klabyoṯe.
  root: klb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hündin
- trans_en: 
+ trans_en: she-dog
 -lexeme
  lex: klemo
  stem: klemo.|kleme.
@@ -20502,47 +20550,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: dreieckige Hölzer, die rechts und links vom Halse vom Joch heruntergehen
- trans_en: 
--lexeme
- lex: kliča
- stem: kliča.
- root: klč
- gramm: N,f
- paradigm: N1
- trans_de: a) semo b) Kuchen aus Mehl, Zucker, Milch, aber nicht so weich, wie unser Kuchen
- trans_en: 
+ trans_en: three corner wood pieces which go right and left the neck downwards, in a yoke
 -lexeme
  lex: klilo
- stem: klilo.
+ stem: klilo.|klile.
  root: kll
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Krone
- trans_en: 
+ trans_en: crown
 -lexeme
  lex: klomičke
- stem: klomičke.
+ stem: klomičke.|klomičkat.
  root: klmčk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gruppe, Haufen von Menschen, Tieren, Vögeln
- trans_en: 
+ trans_en: group, a lot of people, animals, birds
+-lexeme
+ lex: kmo
+ stem: kmo.
+ root: km
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: wie viel? einige
+ trans_en: how much? some
 -lexeme
  lex: knišor
- stem: knišor.
+ stem: knišor.|knišore.
  root: knšr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Nabel
- trans_en: 
+ trans_en: navel
 -lexeme
- lex: kočəka
- stem: kočəka.|kočəkat.
+ lex: ko
+ stem: ko.
+ root: k
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: kočəka/kočke
+ stem: kočəka.//kočəke.//kočke.|kočəkat.//kočkat.
  root: kčk
  gramm: N,f
  paradigm: N2
  trans_de: Pavillon
- trans_en: 
+ trans_en: pavilion
 -lexeme
  lex: kočar
  stem: kočar.|kočar.
@@ -20550,47 +20606,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: kurdischer Nomade
- trans_en: 
+ trans_en: Kurdish nomad
 -lexeme
- lex: kočke
- stem: kočke.
- root: kčk
- gramm: N,f
- paradigm: N1
- trans_de: Pavillon
- trans_en: 
+ lex: kočari
+ stem: kočari.
+ root: kčr
+ gramm: N
+ paradigm: <?>
+ trans_de: Schaf
+ trans_en: sheep
 -lexeme
  lex: kode
  stem: kode.|kodat.
  root: kd
  gramm: N,f
  paradigm: N2
- trans_de: Milcheimer, -kübel
- trans_en: 
+ trans_de: Milcheimer, Milchkübel
+ trans_en: milk bucket
+-lexeme
+ lex: kodəke
+ stem: kodəke.|kodəkat.
+ root: kd
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Milcheimer, Milchkübel
+ trans_en: milk bucket
 -lexeme
  lex: kofilo
  stem: kofilo.
  root: kfl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bürge
- trans_en: 
+ trans_en: bailsman
 -lexeme
  lex: kofuro
- stem: kofuro.
+ stem: kofuro.//kəfuro.//kufuro.|kofure.//kəfure.//kufure.
  root: kfr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ungläubiger, grausamer Wüterich
- trans_en: 
+ trans_en: non-believer; cruel villain
 -lexeme
- lex: kol(ə)ke
- stem: kol(ə)ke.
- root: kl()k
+ lex: kol
+ stem: kol.
+ root: kl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ziegenrasse mit nach unten gerichteten Hörnern
+ trans_en: goat breed with horns directed downwards
+-lexeme
+ lex: koləke
+ stem: koləke.|koləkat.
+ root: klk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schutzverschlag zum Aufbewahren des Bettzeugs auf dem Dache
- trans_en: 
+ trans_en: barrier to secure a bed on a roof
 -lexeme
  lex: komo
  stem: komo.
