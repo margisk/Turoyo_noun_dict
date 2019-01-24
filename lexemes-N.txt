@@ -18643,16 +18643,16 @@
  trans_de: Mann aus Iḥwo
  trans_en: person from Iḥwo
 -lexeme
- lex: ikram
- stem: ikram.
+ lex: ikram/kram
+ stem: ikram.//kram.
  root: krm
  gramm: N,m
  paradigm: unchangeable
  trans_de: Ehrung (eines Gastes)
  trans_en: honouring of a guest
 -lexeme
- lex: ikramiye
- stem: ikramiye.
+ lex: ikramiye/kramiye
+ stem: ikramiye.//kramiye.
  root: krm
  gramm: N,f
  paradigm: unchangeable
@@ -19825,8 +19825,8 @@
  trans_de: kleiner Zwiebelknollen
  trans_en: small onion bulb
 -lexeme
- lex: kasyoṯe
- stem: kasyoṯe.//kasyoṯo.
+ lex: ksiṯo
+ stem: ksiṯo.|kasyoṯe.//kasyoṯo.
  root: ksy
  gramm: N,pl
  paradigm: <?>
@@ -19968,8 +19968,8 @@
  trans_de: Hinterhalt, Haufen
  trans_en: ambush, heap
 -lexeme
- lex: kawmo
- stem: kawmo.|kawme.
+ lex: kawmo/komo
+ stem: kawmo.//komo.|kawme.
  root: kwm
  gramm: N,m
  paradigm: N2
@@ -19985,7 +19985,7 @@
  trans_en: (earlier) condition, state
 -lexeme
  lex: kawwo/kowo
- stem: kawwo.//kowo.|kawwoṯe.//kawwoṯo.//kowoṯe.//kowoṯo.//kəwoṯo.//kəwoṯe.
+ stem: kawwo.//kowo.|kawwoṯe.//kawwoṯo.//kowoṯe.//kowoṯo.//kəwoṯo.//kəwoṯe.//kuwoṯe.//kuwoṯo.
  root: kww
  gramm: N,f
  paradigm: N2
@@ -20232,8 +20232,8 @@
  trans_de: sichtbar, klar
  trans_en: visible, clear
 -lexeme
- lex: kəfla/kəfle
- stem: kəfla.//kəfle.|kəflat.
+ lex: kəfla/kəfle/kufle
+ stem: kəfla.//kəfle.//kufle.|kəflat.//kuflat.
  root: kfl
  gramm: N,f
  paradigm: N2
@@ -20296,8 +20296,8 @@
  trans_de: Niere
  trans_en: kidney
 -lexeme
- lex: kəmme
- stem: kəmme.|kəmam.//kəmmat.
+ lex: kəmme/kumme
+ stem: kəmme.//kumme.|kəmam.//kəmmat.//kummat.
  root: kmm
  gramm: N,f
  paradigm: N2
@@ -20632,8 +20632,8 @@
  trans_de: Milcheimer, Milchkübel
  trans_en: milk bucket
 -lexeme
- lex: kofilo
- stem: kofilo.
+ lex: kofilo/kufilo
+ stem: kofilo.//kufilo.
  root: kfl
  gramm: N,m
  paradigm: <?>
@@ -20664,93 +20664,101 @@
  trans_de: Schutzverschlag zum Aufbewahren des Bettzeugs auf dem Dache
  trans_en: barrier to secure a bed on a roof
 -lexeme
+ lex: kom
+ stem: kom.
+ root: km
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: black <?>
+-lexeme
  lex: komo
- stem: komo.
+ stem: komo.|kome.
  root: km
  gramm: N,m
- paradigm: N1
- trans_de: kamto Sl
- trans_en: 
--lexeme
- lex: komo
- stem: komo.
- root: kwm
- gramm: N,m
- paradigm: N1
- trans_de: Haufen
- trans_en: 
+ paradigm: N2
+ trans_de: schwarz
+ trans_en: black
 -lexeme
  lex: kon
- stem: kon.|kone.
+ stem: kon.|kone.//kowan.//konat.
  root: kn
  gramm: N,m
  paradigm: N2
  trans_de: Zelt
- trans_en: 
+ trans_en: tent
 -lexeme
  lex: konəke
- stem: konəke.
+ stem: konəke.|konəkat.
  root: knk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: kleines Zelt
- trans_en: 
+ trans_en: small tent
 -lexeme
  lex: konən
  stem: konən.
  root: knn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Winter
- trans_en: 
+ trans_en: winter
 -lexeme
- lex: konuno
- stem: konuno.
+ lex: konunoye
+ stem: konunoye.
  root: knn
- gramm: N,m
- paradigm: N1
- trans_de: offener Feuerherd, Ofen
- trans_en: 
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: kopri
  stem: kopri.
  root: kpr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brücke
- trans_en: 
+ trans_en: bridge
+-lexeme
+ lex: kore
+ stem: kore.
+ root: kr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Mal
+ trans_en: time
 -lexeme
  lex: korike
- stem: korike.
+ stem: korike.|korikat.
  root: krk
  gramm: N,f
- paradigm: N1
- trans_de: schwarz gewordene Körner in der Ähre des Weizens, der Hirse
- trans_en: 
+ paradigm: N2
+ trans_de: faule, schwarz gewordene Körner in der Ähre des Weizens, der Hirse
+ trans_en: rotten, black grains in ears of wheat or millet
 -lexeme
  lex: koro
- stem: koro.
+ stem: koro.|kore.//koroṯo.
  root: kr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Getreidebehälter, viereckig, anderthalb bis zwei Meter hoch. Hat oben ein viereckiges, verschließbares Loch, vorn unten ein zweites, das mit Stöpsel verschlossen werden kann, um das Getreide zu entnehmen
- trans_en: 
+ trans_en: container for grain, square, 1.5-2 meters high. Has a square opening on top which can be closed, at the front the second opening, closed with a peg
 -lexeme
  lex: koruxo
  stem: koruxo.
  root: krk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Leichentuch
- trans_en: 
+ trans_en: shroud
 -lexeme
  lex: kose
- stem: kose.|koseawat.
+ stem: kose.|kosawat.
  root: ks
  gramm: N,m
  paradigm: N2
- trans_de: Dünnbart; Dieb, Taschendieb, Gauner
- trans_en: 
+ trans_de: Dünnbart, jemand mit spärlichem Bartwuchs; Dieb, Taschendieb, Gauner
+ trans_en: someone with scanty beard; thief, crook
 -lexeme
  lex: koso
  stem: koso.|kose.
@@ -20758,15 +20766,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Becher
- trans_en: 
+ trans_en: cup
 -lexeme
  lex: košiṯo
- stem: košiṯo.
+ stem: košiṯo.|košyawoṯo.//košyawoṯe.
  root: kšṯ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Holzstapel
- trans_en: 
+ trans_en: stack of wood
 -lexeme
  lex: košk
  stem: košk.|koškat.
@@ -20774,31 +20782,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Pavillon, Schlößchen, Halle
- trans_en: 
+ trans_en: pavilion; small castle; hall
 -lexeme
  lex: kotak
  stem: kotak.
  root: ktk
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Prügel; Zwang, Gewalt
- trans_en: 
+ trans_en: <?>; enforcement, violence
 -lexeme
  lex: kotakiye
  stem: kotakiye.
  root: ktk
  gramm: N,f
- paradigm: N1
- trans_de: Sl
- trans_en: 
+ paradigm: <?>
+ trans_de: Prügel; Zwang, Gewalt
+ trans_en: <?>; enforcement, violence
 -lexeme
- lex: kov(ə)ke
- stem: kov(ə)ke.
- root: kv()k
+ lex: koti
+ stem: koti.
+ root: kt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schlecht; syphilitisch
+ trans_en: bad; syphilitic
+-lexeme
+ lex: kotikiye
+ stem: kotikiye.
+ root: kt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
+ trans_de: Syphilis
+ trans_en: syphilis
+-lexeme
+ lex: kovəke/kovke
+ stem: kovəke.//kovke.|kovəkat.//kovkat.
+ root: kv
+ gramm: N,f
+ paradigm: N2
  trans_de: Trichter
- trans_en: 
+ trans_en: funnel
 -lexeme
  lex: koviye
  stem: koviye.|koviyat.
@@ -20806,47 +20830,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Steinbock
- trans_en: 
--lexeme
- lex: kowo
- stem: kowo.|kuwoṯo.
- root: kw
- gramm: N,f
- paradigm: N2
- trans_de: Loch in der Wand, Loch für das Ofenrohr, Fensterluke
- trans_en: 
+ trans_en: ibex
 -lexeme
  lex: koxo
  stem: koxo.
  root: kx
  gramm: N,m
- paradigm: N1
- trans_de: Hühnerhaus nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Hühnerhaus
+ trans_en: hen house
 -lexeme
- lex: kozke
- stem: kozke.
+ lex: kozke/kozəke
+ stem: kozke.//kozəke.|kozkat.
  root: kzk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hürde
- trans_en: 
--lexeme
- lex: kram
- stem: kram.
- root: krm
- gramm: N,m
- paradigm: N1
- trans_de: Ehrung, besonders eines Gastes
- trans_en: 
--lexeme
- lex: kramiye
- stem: kramiye.
- root: krm
- gramm: N,f
- paradigm: N1
- trans_de: Ehrung
- trans_en: 
+ trans_en: hurdle; trench
 -lexeme
  lex: krubo
  stem: krubo.|krube.
@@ -20854,55 +20854,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Cherubim
- trans_en: 
+ trans_en: cherub
 -lexeme
  lex: ksikon
  stem: ksikon.
  root: kskn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Lexikon
- trans_en: 
+ trans_en: lexicon
 -lexeme
- lex: ksiṯo
- stem: ksiṯo.|kasyoṯe.
- root: ksṯ
- gramm: N,m
- paradigm: N2
- trans_de: verborgene Dinge
- trans_en: 
+ lex: kš
+ stem: kš
+ root: kš
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Scheuchruf für Tiere
+ trans_en: a shout to chase away animals
 -lexeme
  lex: kṯawtko
  stem: kṯawtko.
  root: ktb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schriftchen
- trans_en: 
+ trans_en: inscription
 -lexeme
  lex: kṯuto
- stem: kṯuto.|kṯiwoṯe.
+ stem: kṯuto.|kṯiwoṯe.//kṯiwoṯo.
  root: kṯt
  gramm: N,f
  paradigm: N2
  trans_de: Amulett, wird zu einem kleinen Dreieck zusammengefaltet
- trans_en: 
+ trans_en: amulet, which is folded to a small triangle
+-lexeme
+ lex: kṯowo
+ stem: kṯowo.|kṯowe.
+ root: kṯw
+ gramm: N,m
+ paradigm: N2
+ trans_de: Buch
+ trans_en: book
 -lexeme
  lex: kṯawto
- stem: kṯawto.|kṯawyoṯo.
+ stem: kṯawto.|kṯawyoṯo.//kṯawyoṯe.
  root: ktb
  gramm: N,f
  paradigm: N2
- trans_de: a) Schrift, Abschrift, Niederschrift, Inschrift b) geschriebenes Amulett
- trans_en: 
+ trans_de: Schrift, Abschrift, Niederschrift, Inschrift; geschriebenes Amulett
+ trans_en: writing; copy; writing down; inscription; amulet with an inscription
 -lexeme
  lex: kuʕlo
  stem: kuʕlo.|kuʕle.
  root: kʕl
  gramm: N,m
  paradigm: N2
- trans_de: Beinhaaren der Ziege hängender feucher Mist
- trans_en: 
+ trans_de: an den Beinhaaren der Ziege hängender feucher Mist
+ trans_en: watery manure hanging on the hair of goats' legs
+-lexeme
+ lex: kubar
+ stem: kubar.
+ root: kbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: hochmütig
+ trans_en: arrogant
 -lexeme
  lex: kubo
  stem: kubo.|kube.
@@ -20910,55 +20926,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dorn, Pisbomom acaran L. Sass. pl
- trans_en: 
+ trans_en: thorn; Pisbomom acaran L. Sass
 -lexeme
  lex: kučəko/kučko
- stem: kučəko/kučko.
+ stem: kučəko.//kučko.
  root: kčk/kčk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: junger Hund
- trans_en: 
+ trans_en: puppy
 -lexeme
  lex: kudək
  stem: kudək.|kudkat.
  root: kdk
  gramm: N,m
  paradigm: N2
- trans_de: kudkat kleines Kind
- trans_en: 
--lexeme
- lex: kufilo
- stem: kufilo.
- root: kfl
- gramm: N,m
- paradigm: N1
- trans_de: Bürge
- trans_en: 
--lexeme
- lex: kufle
- stem: kufle.
- root: kfl
- gramm: N,f
- paradigm: N1
- trans_de: Familie
- trans_en: 
+ trans_de: kleines Kind
+ trans_en: small child
 -lexeme
  lex: kufro
  stem: kufro.
  root: kfr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Unglaube
- trans_en: 
+ trans_en: disbelief, faithlessness
 -lexeme
- lex: kufuro
- stem: kufuro.
- root: kfr
- gramm: N,m
- paradigm: N1
- trans_de: ungläubig PrS
- trans_en: 
+ lex: kuhna
+ stem: kuhna.
+ root: khn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sorgfältig
+ trans_en: careful, meticulous
 -lexeme
  lex: kuhno
  stem: kuhno.|kuhne.
@@ -20966,23 +20966,38 @@
  gramm: N,m
  paradigm: N2
  trans_de: Priester
- trans_en: 
+ trans_en: priest
 -lexeme
  lex: kuḥlo
  stem: kuḥlo.
  root: kḥl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Augenschminke
- trans_en: 
+ trans_en: <?>
 -lexeme
- lex: kukwo
- stem: kukwo.|kukwe.
- root: kkw
+ lex: kul
+ stem: kul.
+ root: kl
+ gramm: <?>
+ trans_de: jeder, jede, alle, ganz
+ trans_en: every, all
+-lexeme
+ lex: kul
+ stem: kul.|kulat.//kule.
+ root: kl
  gramm: N,m
  paradigm: N2
- trans_de: Stern
- trans_en: 
+ trans_de: Schmerz, Krankheit, Wunde
+ trans_en: pain; illness; injury
+-lexeme
+ lex: kulak/kullak
+ stem: kulak.//kullak.
+ root: klk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: lahm
+ trans_en: lame
 -lexeme
  lex: kulav
  stem: kulav.|kulave.//kulavat.
@@ -20990,23 +21005,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Filz
- trans_en: 
+ trans_en: felt
 -lexeme
  lex: kuləng
  stem: kuləng.|kuləng.
  root: klng
  gramm: N,m
  paradigm: N2
- trans_de: Kranich pl
- trans_en: 
+ trans_de: Kranich
+ trans_en: crane
+-lexeme
+ lex: kulilkat
+ stem: kulilkat.
+ root: kllk
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Baumblüten
+ trans_en: flourishing
 -lexeme
  lex: kullake
  stem: kullake.
  root: kll
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Vulva
- trans_en: 
+ trans_en: pudendum
 -lexeme
  lex: kulle
  stem: kulle.
@@ -21014,23 +21037,23 @@
  gramm: N,f
  paradigm: N1
  trans_de: Schmerz
- trans_en: 
+ trans_en: pain
 -lexeme
  lex: kulliye
  stem: kulliye.
  root: kll
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: höhere Schule
- trans_en: 
+ trans_en: high school
 -lexeme
  lex: kulloro
  stem: kulloro.
  root: klr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kringel, Brezel
- trans_en: 
+ trans_en: prezel
 -lexeme
  lex: kullməzke
  stem: kullməzke.|kullməzkat.
@@ -21038,53 +21061,37 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schläge
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: kulpšo
  stem: kulpšo.
  root: klpš
  gramm: N,m
  paradigm: N1
- trans_de: a) Traube, deren Beeren sehr dicht zusammenstehen und die etwas kugelförmig ist b) der Korb dafür, lang und rund
- trans_en: 
--lexeme
- lex: kumme
- stem: kumme.
- root: kmm
- gramm: N,f
- paradigm: N1
- trans_de: Mütze, Kopfbedeckung
- trans_en: 
+ trans_de: Traube, deren Beeren sehr dicht zusammenstehen und die etwas kugelförmig ist; der Korb dafür, lang und rund 75 cm lang
+ trans_en: grapes whose berries grow densely and which are somewhat spherical; basket for these grapes, long (75 cm) and round
 -lexeme
  lex: kumṣohro
  stem: kumṣohro.
  root: kmṣhr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rotkopf
- trans_en: 
+ trans_en: redhead
 -lexeme
- lex: kund
- stem: kund.
+ lex: kund/kundo
+ stem: kund.//kundo.
  root: knd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Eule
- trans_en: 
--lexeme
- lex: kundo
- stem: kundo.
- root: knd
- gramm: N,m
- paradigm: N1
- trans_de: Eule
- trans_en: 
+ trans_en: owl
 -lexeme
  lex: kunfəṣke
  stem: kunfəṣke.
  root: knfṣk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: weiße Kichererbsen werden in heißem Wasser oder in heißer Asche erwärmt. Wenn sie heiß werden, platzen sie
  trans_en: 
 -lexeme
