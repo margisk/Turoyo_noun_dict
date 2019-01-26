@@ -34684,9 +34684,9 @@
  stem: ṣaṭro.
  root: ṣṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vorhang zum Vorziehen
- trans_en: ...
+ trans_en: curtain
 -lexeme
  lex: ṣawʕo
  stem: ṣawʕo.|ṣawʕoṯe.//ṣawʕoṯo.
@@ -35099,7 +35099,7 @@
  lex: Ṣṭambəl/Ṣṭambul
  stem: Ṣṭambəl.//Ṣṭambul. 
  root: ṣtmbl
- gramm: N,<?>
+ gramm: N
  paradigm: unchangeable
  trans_de: Istanbul
  trans_en: Istanbul
@@ -35168,8 +35168,8 @@
  trans_de: großes, weitmaschiges Sieb
  trans_en: large, coarse-meshed sive
 -lexeme
- lex: ṣuwari
- stem: ṣuwari.|ṣuwariye.
+ lex: ṣuwari/ṣwari
+ stem: ṣuwari.//ṣwari.|ṣuwariye.
  root: ṣwr
  gramm: N,m
  paradigm: N2
@@ -35392,8 +35392,8 @@
  trans_de: Zeugnis ablegen
  trans_en: to give evidence
 -lexeme
- lex: šahiye/šayiye
- stem: šahiye.//šayiye.
+ lex: šahiye/šayiye/šadiye
+ stem: šahiye.//šayiye.//šadiye.
  root: šhy
  gramm: N,f
  paradigm: <?>
@@ -35460,9 +35460,9 @@
  stem: šakke.
  root: škk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlag an das Flugholz
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: šakal/šakkal
  stem: šakal.//šakkal.|šakkalat.//šakkalat.//šakale.//šakkale.
