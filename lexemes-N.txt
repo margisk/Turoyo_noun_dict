@@ -19705,8 +19705,8 @@
  trans_de: Mohrenhirse, Sorgum halepense L. Pers.
  trans_en: sorghum, Sorgum halepense L. Pers.
 -lexeme
- lex: karwan
- stem: karwan.|karewən.
+ lex: karwan/kurwan
+ stem: karwan.//kurwan.|karewən.
  root: krwn
  gramm: N,m
  paradigm: N2
@@ -20704,8 +20704,8 @@
  trans_de: Winter
  trans_en: winter
 -lexeme
- lex: konunoye
- stem: konunoye.
+ lex: konunoye/kununoye
+ stem: konunoye.//kununoye.
  root: knn
  gramm: N,pl
  paradigm: <?>
@@ -21093,39 +21093,55 @@
  gramm: N,f
  paradigm: <?>
  trans_de: weiße Kichererbsen werden in heißem Wasser oder in heißer Asche erwärmt. Wenn sie heiß werden, platzen sie
- trans_en: 
+ trans_en: white peas are warmed up in hot water or in hot ashes. When they become warm, they burst
 -lexeme
  lex: kunfo
  stem: kunfo.
  root: knf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Tasche, Futteral
- trans_en: 
+ trans_en: bag, sheath
+-lexeme 
+ lex: kunnak
+ stem: kunnak.
+ root: knk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: neidisch, mißgünstig
+ trans_en: envious; unkind
 -lexeme
- lex: kunnək(k)e
- stem: kunnək(k)e.
- root: knk(k)
+ lex: kunnəkke
+ stem: kunnəkke.|kunnəkkat.
+ root: knk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleiner Schlauch
- trans_en: 
+ trans_en: small skin (for liquids)
 -lexeme
  lex: kunye
- stem: kunye.
+ stem: kunye.|kunyat.
  root: kny
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Personalien
- trans_en: 
+ trans_en: personal information
 -lexeme
  lex: kupək
  stem: kupək.
  root: kpk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Henkelgefäß, das an einem Bügel getragen wird, für Butter
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: kuppa
+ stem: kuppa
+ root: kp
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Herz (im Kartenspiel)
+ trans_en: hearts (card suit)
 -lexeme
  lex: kurr
  stem: kurr.
@@ -21136,28 +21152,60 @@
  trans_en: 
 -lexeme
  lex: kuro
- stem: kuro.|kuroat.
+ stem: kuro.|kurat.
  root: kr
  gramm: N,m
  paradigm: N2
  trans_de: Herd für große Kessel
- trans_en: 
+ trans_en: oven for large cauldrons
+-lexeme
+ lex: kurrəko/kurko
+ stem: kurrəko.//kurko.|kurkin.//kurrəkin.
+ root: kr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Junge
+ trans_en: boy
+-lexeme
+ lex: kura
+ stem: kura.
+ root: kr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Stolz
+ trans_en: pride
 -lexeme
  lex: kurabaške
  stem: kurabaške.|kurabaškat.
  root: krbšk
  gramm: N,f
  paradigm: N2
- trans_de: Schakal, (Hyäne?) pl
- trans_en: 
+ trans_de: Schakal, (Hyäne?)
+ trans_en: jackal, (hyena?)
+-lexeme
+ lex: kurbaš/karbaš
+ stem: kurbaš.//karbaš.
+ root: krbš
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Distel, Cirsium spec.
+ trans_en: thistle, Cirsium spec.
 -lexeme
  lex: kurd
- stem: kurd.|kurdiye.//krad.
+ stem: kurd.|kurdiye.//krad.//kurd.
  root: krd
  gramm: N,m
  paradigm: N2
- trans_de: Kurd m, f, pl Kurdiye, id. Kurde, Kurdin
- trans_en: 
+ trans_de: Kurde, Kurdin 
+ trans_en: a Kurd
+-lexeme
+ lex: kurdi
+ stem: kurdi.
+ root: krd
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: kurdisch
+ trans_en: Kurdish
 -lexeme
  lex: kurdile
  stem: kurdile.|kurdilat.
@@ -21165,15 +21213,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Band
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: Kurdəstan
+ stem: Kurdəstan.
+ root: krd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Kurdistan
+ trans_en: Kurdistan
 -lexeme
  lex: kurre
  stem: kurre.
  root: krr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nord
- trans_en: 
+ trans_en: north
 -lexeme
  lex: kurfo
  stem: kurfo.|kurfe.
@@ -21181,7 +21237,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schlange
- trans_en: 
+ trans_en: snake
 -lexeme
  lex: kurhono
  stem: kurhono.|kurhone.
@@ -21189,23 +21245,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krankheit
- trans_en: 
+ trans_en: illness
 -lexeme
  lex: kurḥ
  stem: kurḥ.
  root: krḥ
  gramm: N,m
- paradigm: N1
- trans_de: a) Einsiedler, Mönchszelle b) Schlupfloch für Wölfe
- trans_en: 
+ paradigm: <?>
+ trans_de: Einsiedler, Mönchszelle; Schlupfloch für Wölfe
+ trans_en: hermit, cell; <?>
 -lexeme
  lex: kurəsyo
  stem: kurəsyo.|kurəsye.
- root: krs
+ root: krs
  gramm: N,m
  paradigm: N2
  trans_de: Metropolitensitz
- trans_en: 
+ trans_en: seat of metropolitan 
 -lexeme
  lex: kurk
  stem: kurk.|kurkat.
@@ -21213,7 +21269,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Pelz, Mantel
- trans_en: 
+ trans_en: fur, coat
 -lexeme
  lex: kurke
  stem: kurke.|kurkat.
@@ -21221,71 +21277,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bruthenne
- trans_en: 
+ trans_en: brood hen
+-lexeme
+ lex: kurkur
+ stem: kurkur.
+ root: krkr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Stimme des durch Abschneiden eines Gliedes verwundeten; Hundegewinsel; Kindergeschrei aus Angst vor Prügeln
+ trans_en: voice of injured from cutting off a body part; dog yelping; children's cry out of fear of beating
+-lexeme
+ lex: kurmanǧi
+ stem: kurmanǧi.
+ root: krmnǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nordkurdisch
+ trans_en: Northern Kurdish (Kurmanji)
 -lexeme
  lex: kurməke
  stem: kurməke.|kurməkat.
  root: krm
  gramm: N,f
  paradigm: N2
- trans_de: weißes Tierchen, kleiner als eine Laus, das in stehendem Wasser lebt; Wassermilbe, Hydrocarina
- trans_en: 
+ trans_de: rotes/weißes Tierchen, kleiner als eine Laus, das in stehendem Wasser lebt; Wassermilbe, Hydrocarina
+ trans_en: red/white animal, small than a louse, lives in stagnant water; <...>
 -lexeme
  lex: kuro
- stem: kuro.
+ stem: kuro.|kure.
  root: kr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schmiedeesse
- trans_en: 
+ trans_en: forge
 -lexeme
  lex: kuroxo
  stem: kuroxo.
  root: krk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Leichentuch
- trans_en: 
+ trans_en: shroud
 -lexeme
  lex: kurr
  stem: kurr.
  root: krr
- gramm: N,m
- paradigm: N1
- trans_de: Essen
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: arbeitswütig; unersättlich im Essen
+ trans_en: <?>; insatiable in food
+-lexeme
+ lex: kurrafiye
+ stem: kurrafiye.
+ root: krf
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gegenteil von "Wohl bekomms"
+ trans_en: opposite of "cheers; be well"
 -lexeme
  lex: kurrək/kurruk
- stem: kurrək/kurruk.
+ stem: kurrək.//kurruk.|kurkat.//kurrəkat.
  root: krk/krk
- gramm: N,m
- paradigm: N1
- trans_de: Junge
- trans_en: 
--lexeme
- lex: kurrəko/kurrŭko
- stem: kurrəko/kurrŭko.|kurrəko.//kurrŭkoin.
- root: krk/krŭk
  gramm: N,m
  paradigm: N2
  trans_de: Junge
- trans_en: 
+ trans_en: boy
 -lexeme
  lex: kurriye
  stem: kurriye.
  root: krr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Arbeitswut
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: kursi
- stem: kursi.|kuresi.//kursiat.
+ stem: kursi.|kuresi.//kursiyat.
  root: krs
  gramm: N,m
  paradigm: N2
- trans_de: Sitz des Patriarchats
- trans_en: 
+ trans_de: Sitz des Patriarchats; Ehrensitz des Araberscheichs; Tronsessel
+ trans_en: chair; seat of the patriarch; honourary seat of an Arab sheikh; <?>
 -lexeme
  lex: kurte
  stem: kurte.|kurtat.
@@ -21293,23 +21365,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hündin
- trans_en: 
+ trans_en: bitch, she-dog
 -lexeme
  lex: kurtile
  stem: kurtile.
  root: krtl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: reichliches Essen
- trans_en: 
+ trans_en: abundant food
 -lexeme
  lex: kuše
  stem: kuše.
  root: kš
  gramm: N,f
- paradigm: N1
- trans_de: ein Unkraut
- trans_en: 
+ paradigm: unchangeable
+ trans_de: ein Unkraut; Silbergras, Imperata cylindrica PB (so heißt der weisse Kolben des sohrike)
+ trans_en: weed; grey hair-grass, Imperata cylindrica PB (white bulb of sohrike is called so)
+-lexeme
+ lex: kušne
+ stem: kušne.
+ root: kšn
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Wicken, Viciae spec. Ervitia
+ trans_en: vetches, Viciae spec. Ervitia
 -lexeme
  lex: kušo
  stem: kušo.|kuše.
@@ -21317,15 +21397,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stricknadel
- trans_en: 
+ trans_en: knitting needle
 -lexeme
  lex: kutle
  stem: kutle.
  root: ktl
- gramm: N,f
- paradigm: N1
+ gramm: N,pl
+ paradigm: unchangeable
  trans_de: Fleischpastete. Aus feingesiebter Weizengrütze wird Teig gemacht. Der wird ausgewalzt, über Hackfleisch geschlagen und in Wasser gekocht
- trans_en: 
+ trans_en: Meat pies. From finely sieved wheat the dough is made. It is smoothed out, meat is put inside, and everything together is boiled in water
 -lexeme
  lex: kutlo
  stem: kutlo.
@@ -21333,31 +21413,55 @@
  gramm: N,m
  paradigm: N1
  trans_de: Geschwür am Hals nicht
- trans_en: 
+ trans_en: ulcer on neck
 -lexeme
  lex: kutte
- stem: kutte.
+ stem: kutte.|kuttat.
  root: ktt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Strecke, die man durchläuft, durchgaloppiert
- trans_en: 
+ trans_en: stretch through which one runs or gallops
 -lexeme
  lex: kutupxana
- stem: kutupxana.
+ stem: kutupxana.|kutupxanat.
  root: ktpxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bibliothek
- trans_en: 
+ trans_en: library
+-lexeme
+ lex: kužəkat
+ stem: kužəkat.
+ root: kž
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Fasern
+ trans_en: fiber
+-lexeme
+ lex: kweto
+ stem: kweto.
+ root: kwt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sehr salzig
+ trans_en: very salty
+-lexeme
+ lex: kwitkwit
+ stem: kwitkwit.
+ root: kwt
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch einer gerauchten Pfeife
+ trans_en: sound of a pipe being smoked
 -lexeme
  lex: laʕbe
- stem: laʕbe.
+ stem: laʕbe.|laʕbat.
  root: lʕb
  gramm: N,f
  paradigm: N1
  trans_de: Spielzeug
- trans_en: 
+ trans_en: toy
 -lexeme
  lex: laʕboye
  stem: laʕboye.|laʕboyat.
@@ -21365,55 +21469,110 @@
  gramm: N,f
  paradigm: N2
  trans_de: Spiel
- trans_en: 
+ trans_en: game
 -lexeme
  lex: laʕgo
- stem: laʕgo.
+ stem: laʕgo.|laʕge.
  root: lʕg
- gramm: N,m
- paradigm: N1
- trans_de: Kf
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: stotternd
+ trans_en: stammering
+-lexeme
+ lex: laʔannahu/laʔinnahu/laʔinno
+ stem: laʔannahu.//laʔinnahu.//laʔinno.
+ root: lʔn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: weil
+ trans_en: because
+-lexeme
+ lex: labak
+ stem: labak.
+ root: lbk
+ gramm: N
+ paradigm: <?>
+ trans_de: Beschäftigung
+ trans_en: activity, occupation
 -lexeme
  lex: labaniye
- stem: labaniye.
+ stem: labaniye.|labaniyat.
  root: lbn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Joghurtcreme, Joghurtsuppe mit Weizen
- trans_en: 
+ trans_en: yoghurt cream, youghurt soup with wheat
+-lexeme
+ lex: labəd
+ stem: labəd.
+ root: lbd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unbedingt
+ trans_en: necessary, imperative
 -lexeme
  lex: labəḏ
  stem: labəḏ.
  root: lbḏ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: kleine Schaufel zum Reinigen der Pflugschar, an der Spitze des Ochsenstachels
- trans_en: 
+ trans_en: small blade for cleaning the ploughshare, on the top of <...> the ox goad
 -lexeme
  lex: labixa
- stem: labixa.|labayix.
+ stem: labixa.|labayəx.
  root: lbx
  gramm: N,f
  paradigm: N2
- trans_de: labaix Pflaster (mit Teig)
- trans_en: 
+ trans_de: Pflaster (mit Teig)
+ trans_en: <?>
 -lexeme
- lex: laffa
- stem: laffa.
+ lex: laǧan/lašan/lažan
+ stem: laǧan.//lašan.//lažan.//šan.
+ root: lšn/lǧn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: dass, um... willen; für
+-lexeme
+ lex: laǧǧuǧ
+ stem: laǧǧuǧ
+ root: lǧ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: eigensinnig; sich in alles einmischend, alles anfassend (Kind); mit Fragen belästigend; Zwietracht säend
+ trans_en: stubborn; interfering with everything, touching everything (kid); bothering with questions; sowing discord
+-lexeme
+ lex: laḏiḏo
+ stem: laḏiḏo.|laḏiḏe.
+ root: lḏḏ
+ gramm: ADJ
+ paradigm: N2
+ trans_de: zart (Fleisch)
+ trans_en: <?>
+-lexeme
+ lex: laf/af
+ stem: laf.//af.
+ root: lf
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: nach, in der Richtung
+ trans_en: to, in direction to
+-lexeme
+ lex: laffa/laffe
+ stem: laffa.//laffe.|laffat.
  root: lff
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Teil des Kopftuchs der Frau, der auf die Schultern herabfällt; Turban
- trans_en: 
+ trans_en: part of women's headdress which falls down on the shoulders; turban
 -lexeme
  lex: lagan
  stem: lagan.|lagane.
  root: lgn
  gramm: N,m
  paradigm: N2
- trans_de: lagane Becken
- trans_en: 
+ trans_de: Becken
+ trans_en: basin, bowl
 -lexeme
  lex: laggo
  stem: laggo.|lagge.
@@ -21421,23 +21580,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Storch
- trans_en: 
+ trans_en: stork
 -lexeme
  lex: laglag
  stem: laglag.
  root: lglg
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Storch
- trans_en: 
+ trans_en: stork
 -lexeme
  lex: lagzuno
  stem: lagzuno.|lagzune.
  root: lgzn
  gramm: N,m
  paradigm: N2
- trans_de: zuno m, pl –e Kinn
- trans_en: 
+ trans_de: Kinn
+ trans_en: chin
 -lexeme
  lex: laġam
  stem: laġam.|laġamat.
@@ -21445,31 +21604,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Mine, unterirdischer Gang, Kanal
- trans_en: 
+ trans_en: <?>, underground passage, canal
 -lexeme
  lex: laġamči
- stem: laġamči.
+ stem: laġamči.|laġamčiye.
  root: lġm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Minengräber
- trans_en: 
+ trans_en: miner
 -lexeme
  lex: laġġo
  stem: laġġo.
  root: lġġ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Abschaffen, Ruinieren
- trans_en: 
+ trans_en: destruction
 -lexeme
  lex: laġno
- stem: laġno.
+ stem: laġno.|laġne.
  root: lġn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Saatstreifen (ein Viertel Fadono)
- trans_en: 
+ trans_en: <...> (quarter of fadono)
 -lexeme
  lex: lahbo
  stem: lahbo.|lahbe.
@@ -21477,39 +21636,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Flamme
- trans_en: 
+ trans_en: flame
 -lexeme
  lex: lahiye
  stem: lahiye.
  root: lhy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Giessbach
- trans_en: 
+ trans_en: rapid stream
+-lexeme
+ lex: lahlah
+ stem: lahlah.
+ root: lh
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Schnaufen beim Laufen
+ trans_en: breathing while running
 -lexeme
  lex: laḥana
  stem: laḥana.
  root: lḥn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sauerkraut
- trans_en: 
+ trans_en: sauerkraut
+-lexeme
+ lex: laḥatta
+ stem: laḥatta.
+ root: lḥt
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: damit
+ trans_en: in order that
 -lexeme
  lex: laḥmo
- stem: laḥmo.|laḥmoone.
+ stem: laḥmo.|laḥmone.
  root: lḥm
  gramm: N,m
  paradigm: N2
- trans_de: one Brot
- trans_en: 
--lexeme
- lex: laḥmo
- stem: laḥmo.
- root: lḥm
- gramm: N,m
- paradigm: N1
- trans_de: eine Pflanze
- trans_en: 
+ trans_de: Brot
+ trans_en: bread
 -lexeme
  lex: laḥmono
  stem: laḥmono.|laḥmone.
@@ -21517,55 +21684,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: wie Brot
- trans_en: 
+ trans_en: bread-like
+-lexeme
+ lex: layəq
+ stem: layəq.
+ root: lyq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schön
+ trans_en: beautiful
+-lexeme
+ lex: layəqbune
+ stem: layəqbune.
+ root: lyqbn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Schönsein
+ trans_en: being beautiful
+-lexeme
+ lex: lakən
+ stem: lakən.
+ root: lkn
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: aber
+ trans_en: but
+-lexeme
+ lex: lakan
+ stem: lakan.
+ root: lkn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: dann, in dem Fall
+ trans_en: then, in this case
 -lexeme
  lex: lakke
- stem: lakke.
+ stem: lakke.|lakkat.
  root: lkk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Flecken
- trans_en: 
+ trans_en: spot
 -lexeme
- lex: lakme
- stem: lakme.|lakmat.
+ lex: lakme/lakmo
+ stem: lakme.//lakmo.|lakmat.
  root: lkm
  gramm: N,f
  paradigm: N2
- trans_de: Schlag mit der Hand, mit der Tatze
- trans_en: 
+ trans_de: Schlag mit der Hand, mit der Tatze; Handvoll
+ trans_en: blow with hand, with paw; handful
 -lexeme
- lex: lakmo
- stem: lakmo.|lakmoat.
- root: lkm
- gramm: N,m
- paradigm: N2
- trans_de: a) Schlag mit der Hand, mit der Tatze b) Handvoll
- trans_en: 
+ lex: laktrik
+ stem: laktrik.
+ root: lktrk
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: electricity
+-lexeme
+ lex: lalʕal
+ stem: lalʕal.
+ root: ʕl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: oben
+ trans_en: above
+-lexeme
+ lex: lalġul/lawġul/larġul
+ stem: lalġul.//lawġul.//larġul.
+ root: lwġl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: innen
+ trans_en: inside
 -lexeme
  lex: lalo
- stem: lalo.|laloin.
+ stem: lalo.|lalin.
  root: ll
  gramm: N,m
  paradigm: N2
- trans_de: stumm PrS
- trans_en: 
+ trans_de: stumm
+ trans_en: mute
+-lexeme
+ lex: laltaḥ
+ stem: laltaḥ.
+ root: lltḥ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: unten
+ trans_en: below
 -lexeme
  lex: lalyo
- stem: lalyo.|lalyawoṯe.
+ stem: lalyo.|lalyawoṯe.//lalyawoṯo.
  root: lly
  gramm: N,m
  paradigm: N2
  trans_de: Nacht
- trans_en: 
+ trans_en: night
+-lexeme
+ lex: lamlam
+ stem: lamlam.
+ root: lm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Rauschen des Wassers, Brodeln
+ trans_en: noise of water, <?>
 -lexeme
  lex: lamme
- stem: lamme.
+ stem: lamme.|lammat.
  root: lmm
  gramm: N,f
- paradigm: N1
- trans_de: a) Mund voll, beide Backen voll b) Getreidemenge oder Geld, das der Pfarrer einmal im Jahr erhält
- trans_en: 
+ paradigm: N2
+ trans_de: Mund voll, beide Backen voll; Getreidemenge oder Geld, das der Pfarrer einmal im Jahr erhält
+ trans_en: full mouth, cheeks filled (with food); amount of corn or gold which a priest gets once in a year
 -lexeme
  lex: lampa
  stem: lampa.|lampat.
@@ -21573,47 +21804,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Lampe
- trans_en: 
+ trans_en: lamp
 -lexeme
- lex: lamṭo
- stem: lamṭo.
+ lex: lamṭo/lamṭo
+ stem: lamṭo.//laṭmo.
  root: lmṭ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: fremde Bibernelle, Pimpinella peregrina oder: Art Sellerie, Petrosolinum (?) spec.
- trans_en: 
+ trans_en: pimpinella peregrina or a kind celeriac, Petrosolinum (?) spec.
 -lexeme
  lex: lapəke
- stem: lapəke.|lapəkat.
+ stem: lapəke.//lapke.|lapəkat.//lapkat.
  root: lpk
  gramm: N,f
  paradigm: N2
  trans_de: Handschuh
- trans_en: 
+ trans_en: glove
 -lexeme
- lex: lap(p)e
- stem: lap(p)e.|lap(p)at.
- root: lp(p)
+ lex: lappe
+ stem: lappe.|lappat.
+ root: lpp
  gramm: N,f
  paradigm: N2
- trans_de: a) Tatze, Klaue b) Handvoll c) Handfläche
- trans_en: 
+ trans_de: Tatze, Klaue; Handvoll; Handfläche
+ trans_en: paw, hoof; handful; palm
 -lexeme
- lex: lap(p)uške
- stem: lap(p)uške.
- root: lp(p)šk
+ lex: lappuške
+ stem: lappuške.|lappuškat.
+ root: lpš
  gramm: N,f
- paradigm: N1
- trans_de: Tatzenschlag der Katze
- trans_en: 
+ paradigm: N2
+ trans_de: Tatzenschlag der Katze, des Löwen, des Bären
+ trans_en: blow with paw: by a cat, a lion, a bear
 -lexeme
  lex: lapta/lapte
- stem: lapta/lapte.
- root: lpt/lpt
+ stem: lapta.//lapte.
+ root: lpt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Art sich zu bewegen
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: laqəddam
+ stem: laqəddam.
+ root: qdm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nach vorn
+ trans_en: forward
+-lexeme
+ lex: laqṭo
+ stem: laqṭo.
+ root: lqṭ
+ gramm: N
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: larwal
+ stem: larwal.
+ root: lrwl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: außen, draußen, außerhalb
+ trans_en: outside
 -lexeme
  lex: lasqa
  stem: lasqa.|lasqat.
@@ -21621,7 +21876,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: fertiges Pflaster, wie man es in der Apotheke kauft
- trans_en: 
+ trans_en: plaster which can be bought in a drugstore
 -lexeme
  lex: lastik
  stem: lastik.
