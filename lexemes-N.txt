@@ -21463,8 +21463,8 @@
  trans_de: Spielzeug
  trans_en: toy
 -lexeme
- lex: laʕboye
- stem: laʕboye.|laʕboyat.
+ lex: laʕboye/ləʕboye/laʕboyo/ləʕboyo
+ stem: laʕboye.//ləʕboye.//laʕboyo.//ləʕboyo|laʕboyat.//ləʕboyat.
  root: lʕb
  gramm: N,f
  paradigm: N2
@@ -21479,8 +21479,8 @@
  trans_de: stotternd
  trans_en: stammering
 -lexeme
- lex: laʔannahu/laʔinnahu/laʔinno
- stem: laʔannahu.//laʔinnahu.//laʔinno.
+ lex: laʔannahu/laʔinnahu/laʔinno/liʔannu
+ stem: laʔannahu.//laʔinnahu.//laʔinno.//liʔannu.
  root: lʔn
  gramm: CONJ
  paradigm: unchangeable
@@ -21527,12 +21527,12 @@
  trans_de: Pflaster (mit Teig)
  trans_en: <?>
 -lexeme
- lex: laǧan/lašan/lažan
- stem: laǧan.//lašan.//lažan.//šan.
+ lex: laǧan/lašan/lažan/lašən
+ stem: laǧan.//lašan.//lažan.//lašən.//šan.
  root: lšn/lǧn
  gramm: CONJ
  paradigm: unchangeable
- trans_de: dass, um... willen; für
+ trans_de: dass, um... willen; für; weil
 -lexeme
  lex: laǧǧuǧ
  stem: laǧǧuǧ
@@ -21882,9 +21882,9 @@
  stem: lastik.
  root: lstk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gummi
- trans_en: 
+ trans_en: gum, rubber
 -lexeme
  lex: laše
  stem: laše.|lašat.
@@ -21892,71 +21892,127 @@
  gramm: N,f
  paradigm: N2
  trans_de: Körper, Leiche
- trans_en: 
+ trans_en: body, corpse
 -lexeme
  lex: latme
- stem: latme.
+ stem: latme.|latmat.
  root: ltm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Haufen
- trans_en: 
+ trans_en: heap
+-lexeme
+ lex: laṭif
+ stem: laṭif.
+ root: lṭf
+ gramm: lṭf
+ paradigm: <?>
+ trans_de: elegant
+ trans_en: elegant
 -lexeme
  lex: laṭifuṯo
  stem: laṭifuṯo.
  root: lṭf
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Eleganz
- trans_en: 
+ trans_en: elegance, classiness
 -lexeme
- lex: laṭmo
- stem: laṭmo.
- root: lṭm
- gramm: N,m
- paradigm: N1
- trans_de: Art Sellerie, wird ungekocht gegessen, fremde Bibernelle
- trans_en: 
+ lex: laviž
+ stem: laviž.
+ root: lvž
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Lied
+ trans_en: song
 -lexeme
  lex: lavlavoke
  stem: lavlavoke.
  root: lvlvk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ackerwinde oder Galaterwinde, Convulvulus arvensis L. oder Convulvulus galaticus Rost. Wird von Kühen gern gefressen
- trans_en: 
+ trans_en: corn lily or <...>, Convulvulus arvensis L. oder Convulvulus galaticus Rost. It is eaten readily by cows
+-lexeme
+ lex: law
+ stem: law.
+ root: lw
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wenn auch
+ trans_en: even if
 -lexeme
  lex: lawake
  stem: lawake.|lawakat.
  root: lwk
  gramm: N,f
  paradigm: N2
- trans_de: Charakter
- trans_en: 
+ trans_de: wetterwendisch im Charakter
+ trans_en: capricious, inconsisten in character
+-lexeme
+ lex: lawanta
+ stem: lawanta.
+ root: lwnt
+ gramm: N
+ paradigm: <?>
+ trans_de: Lavendelessenz, -wasser
+ trans_en: lavender essence, lavender water
 -lexeme
  lex: lawḏo
  stem: lawḏo.|lawḏe.
  root: lwḏ
  gramm: N,m
  paradigm: N2
- trans_de: große Menge, Haufen lawḏo d-
- trans_en: 
+ trans_de: große Menge, Haufen 
+ trans_en: large quantity; heap
 -lexeme
  lex: lawəke
  stem: lawəke.
  root: lwk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Winde (Pflanze)
- trans_en: 
+ trans_en: bindweed (plant)
+-lexeme
+ lex: lawiko
+ stem: lawiko.
+ root: lw
+ gramm: N,m,dim
+ paradigm: <?>
+ trans_de: Bursch
+ trans_en: guy
+-lexeme
+ lex: lawk
+ stem: lawk.
+ root: lwk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Werkstoff, aus dem Kämme und dergl. gemacht werden
+ trans_en: material from which combs and similar things are made
+-lexeme
+ lex: lawlaw
+ stem: lawlaw.
+ root: lwlw
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geplapper
+ trans_en: chatter
+-lexeme
+ lex: lawliḥ
+ stem: lawliḥ.
+ root: lwlḥ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: lang und dünn, kraftlos, leicht zu besiegen
+ trans_en: long and thin, feeble, easy to overcome
 -lexeme
  lex: lawm
  stem: lawm.
  root: lwm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Tadel
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: lawn
  stem: lawn.|alwan.//lawnat.
@@ -21964,31 +22020,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Farbe; Geschmacksart
- trans_en: 
+ trans_en: colour; 
 -lexeme
  lex: lawo
- stem: lawo.|vokativ:.
+ stem: lawo.
  root: lw
  gramm: N,m
- paradigm: N2
+ paradigm: unchangeable
  trans_de: Vokativ: Junge, Bursche, Mensch!
- trans_en: 
+ trans_en: vocative: boy, guy, man!
 -lexeme
- lex: lawwaše
- stem: lawwaše.
+ lex: lawṭoṯe
+ stem: lawṭoṯe.
+ root: lwṭ
+ gramm: N
+ paradigm: N2
+ trans_de: Verwünschung, schmutziges Wort
+ trans_en: curse, dirty word
+-lexeme
+ lex: lawwaše/luwaše/mlawwaša
+ stem: lawwaše.//luwaše.//mlawwaša.
  root: lwš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Rundbrot
- trans_en: 
+ trans_en: round bread
+-lexeme
+ lex: laxalf
+ stem: laxalf.
+ root: lxlf
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nach hinten
+ trans_en: backwards
 -lexeme
  lex: layḥa
- stem: layḥa.
+ stem: layḥa.|layḥat.
  root: lyḥ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tafel
- trans_en: 
+ trans_en: board
+-lexeme
+ lex: laylon
+ stem: laylon.
+ root: lyl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Nylon
+ trans_en: nylon
 -lexeme
  lex: laystke
  stem: laystke.|laystkat.
@@ -21996,7 +22076,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Spiel
- trans_en: 
+ trans_en: game
 -lexeme
  lex: layšo
  stem: layšo.
@@ -22004,39 +22084,63 @@
  gramm: N,m
  paradigm: N1
  trans_de: Teig
- trans_en: 
+ trans_en: dough
 -lexeme
- lex: laz(z)iye
- stem: laz(z)iye.|laz(z)iyat.
- root: lz(z)y
+ lex: layšono
+ stem: layšono.|layšone.
+ root: lyš
+ gramm: ADJ
+ paradigm: N2
+ trans_de: nicht durchgebacken, teigig
+ trans_en: not baked enough, doughy
+-lexeme
+ lex: lazziye
+ stem: lazziye.|lazziyat.
+ root: lzzy
  gramm: N,f
  paradigm: N2
  trans_de: Eile, eilig
- trans_en: 
+ trans_en: hurry; hasty
 -lexeme
  lex: lazme
  stem: lazme.
  root: lzm
  gramm: N,f
- paradigm: N1
- trans_de: Notwendigkeit nicht
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Notwendigkeit
+ trans_en: necessity
+-lexeme
+ lex: le
+ stem: le.
+ root: l
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Anrede an die Frau
+ trans_en: form of address for women
+-lexeme
+ lex: le
+ stem: le.
+ root: l
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: oder sonst
+ trans_en: <?>
 -lexeme
  lex: lebo
- stem: lebo.
+ stem: lebo.|lebe.
  root: lb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Herz
- trans_en: 
+ trans_en: heart
 -lexeme
- lex: ləʕboye
- stem: ləʕboye.|ləʕboyat.
- root: lʕb
+ lex: lera/lira
+ stem: lera.//lira.|lerat.//lirat.
+ root: lr
  gramm: N,f
  paradigm: N2
- trans_de: Spiel
- trans_en: 
+ trans_de: Lira, Pfund
+ trans_en: lira; pound
 -lexeme
  lex: ləbbad
  stem: ləbbad.|ləbabid.//ləbbadat.
@@ -22044,47 +22148,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Filz(decke)
- trans_en: 
+ trans_en: <?>
 -lexeme
- lex: ləb(ə)s
- stem: ləb(ə)s.
+ lex: ləbbe/ləbe
+ stem: ləbbe.//ləbe.
+ root: lb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja, zu diensten!
+ trans_en: yes, ready to serve!
+-lexeme
+ lex: ləbəs/ləbs
+ stem: ləbəs.//ləbs.
  root: lbs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kleidung, Tracht
- trans_en: 
+ trans_en: clothes, garb
 -lexeme
  lex: ləġa
- stem: ləġa.
+ stem: ləġa.|ləġat.
  root: lġw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Sprache
- trans_en: 
+ trans_en: language
 -lexeme
  lex: ləḥno
  stem: ləḥno.|ləḥne.
  root: lḥn
  gramm: N,m
  paradigm: N2
- trans_de: Musikweise pl
- trans_en: 
+ trans_de: Musikweise
+ trans_en: harmony
 -lexeme
  lex: ləman
  stem: ləman.
  root: lmn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hafen
- trans_en: 
+ trans_en: harbour
 -lexeme
  lex: ləpke
  stem: ləpke.
  root: lpk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fingerspitze voll
- trans_en: 
+ trans_en: pinch
+-lexeme
+ lex: ləvḏ̣/ləvz
+ stem: ləvḏ̣.//ləvz.
+ root: lvḏ̣/lvz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: lġomo
  stem: lġomo.|lġome.
@@ -22092,7 +22212,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zaum, Zügel
- trans_en: 
+ trans_en: bridle, rein
 -lexeme
  lex: lḥef
  stem: lḥef.|lḥefat.
@@ -22100,71 +22220,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Steppdecke
- trans_en: 
+ trans_en: quilt
 -lexeme
  lex: lḥefək
  stem: lḥefək.
  root: lḥf
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: kleine Steppdecke
- trans_en: 
+ trans_en: small quilt
 -lexeme
  lex: lḥiqoyo
  stem: lḥiqoyo.|lḥiqoye.
  root: lḥqy
  gramm: N,m
  paradigm: N2
- trans_de: S
- trans_en: 
+ trans_de: sich sehend
+ trans_en: <?>
+-lexeme
+ lex: lḥuḏe
+ stem: lḥuḏe.
+ root: lḥḏ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: allein
+ trans_en: alone
 -lexeme
  lex: life
  stem: life.|lifat.//liyaf.
  root: lf
  gramm: N,f
  paradigm: N2
- trans_de: liyäf Palmblatt
- trans_en: 
+ trans_de: Palmblatt
+ trans_en: palm leaf
 -lexeme
  lex: likor
  stem: likor.
  root: lkr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Likör
- trans_en: 
+ trans_en: liqour
 -lexeme
  lex: lime
  stem: lime.
  root: lm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: rituelles Gebet der Muslime
- trans_en: 
--lexeme
- lex: lira
- stem: lira.|lirat.
- root: lr
- gramm: N,f
- paradigm: N2
- trans_de: Lira, türkisches Pfund pl
- trans_en: 
+ trans_en: ritual prayer of Muslims
 -lexeme
  lex: lis
- stem: lis.
+ stem: lis.|lisat.
  root: ls
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Hühnerstange, Hühnerhaus
- trans_en: 
+ trans_en: roots, perch; hen house
 -lexeme
  lex: lišono
- stem: lišono.
+ stem: lišono.|lišone.
  root: lšn
  gramm: N,m
- paradigm: N1
- trans_de: a) Zunge b) Sprache
- trans_en: 
+ paradigm: N2
+ trans_de: Zunge; Sprache
+ trans_en: tongue; language
 -lexeme
  lex: liwan
  stem: liwan.|liwane.
@@ -22172,7 +22292,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Grossnische
- trans_en: 
+ trans_en: big niche
+-lexeme
+ lex: lo
+ stem: lo.
+ root: l
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Anrede an eine Mannperson
+ trans_en: address to a male person
 -lexeme
  lex: loḏe
  stem: loḏe.
@@ -22186,33 +22314,49 @@
  stem: lotəke.
  root: ltk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: kleiner Haufen
- trans_en: 
+ trans_en: small heap
 -lexeme
  lex: lovəke
  stem: lovəke.
  root: lvk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Winde
- trans_en: 
+ trans_en: bindweed
 -lexeme
- lex: lufəkke
- stem: lufəkke.|lufiḳḳe.
+ lex: ltiǧa
+ stem: ltiǧa.
+ root: ltǧ
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Zuflucht
+ trans_en: refuge
+-lexeme
+ lex: lufəkke/lufke
+ stem: lufəkke.//lufke.|lufkat.//lufəkkat.
  root: lfk
  gramm: N,f
  paradigm: N2
  trans_de: Schwamm
- trans_en: 
+ trans_en: sponge
 -lexeme
- lex: lŭġat
- stem: lŭġat.
+ lex: lugab
+ stem: lugab.
+ root: gb
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: jenseits
+ trans_en: on the other side
+-lexeme
+ lex: luġat
+ stem: luġat.
  root: lġw
- gramm: N,m
- paradigm: N1
+ gramm: N,pl
+ paradigm: unchangeable
  trans_de: Wörterbuch
- trans_en: 
+ trans_en: dictionary
 -lexeme
  lex: luġmo
  stem: luġmo.|luġme.
@@ -22220,23 +22364,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kinnladen
- trans_en: 
+ trans_en: jaw bone, mandibula
 -lexeme
  lex: luḥo
  stem: luḥo.
  root: lḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück Seife
- trans_en: 
+ trans_en: piece of soap
 -lexeme
- lex: lul
- stem: lul.
+ lex: lul/lulu
+ stem: lul.//lulu.
  root: ll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Perle
- trans_en: 
+ trans_en: pearl
 -lexeme
  lex: lulaye
  stem: lulaye.|lulayat.
@@ -22244,55 +22388,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ende des Stockes, mit dem die Frau den Butterschlauch bewegt
- trans_en: 
+ trans_en: end of a stick with which a woman moves a butter-skin
 -lexeme
  lex: lule
- stem: lule.
+ stem: lule.|lulat.
  root: ll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlauch, in dem man durch Schwenken buttert
- trans_en: 
+ trans_en: skin in which one churns butter by shaking
 -lexeme
- lex: lulu
- stem: lulu.
- root: lʔlʔ
- gramm: N,m
- paradigm: N1
- trans_de: Perle
- trans_en: 
+ lex: luməḥreno/lumuḥreno
+ stem: luməḥreno.//lumuḥreno.
+ root: ywmḥrn
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: übermorgen
+ trans_en: after tomorrow
 -lexeme
  lex: luqb
  stem: luqb.
  root: lqb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Titel
- trans_en: 
--lexeme
- lex: luwaše
- stem: luwaše.
- root: lwš
- gramm: N,f
- paradigm: N1
- trans_de: flaches Brot
- trans_en: 
+ trans_en: titel
 -lexeme
  lex: luzo
  stem: luzo.|luze.
  root: lwz
  gramm: N,m
  paradigm: N2
- trans_de: Mandel pl
- trans_en: 
+ trans_de: Mandel
+ trans_en: almond
+-lexeme
+ lex: lwaḥad
+ stem: lwaḥad.
+ root: wḥd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: allein
+ trans_en: alone
+-lexeme
+ lex: lxurr/lxurru
+ stem: lxurr.//lxurru.
+ root: lxr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: nur, bloß
+ trans_en: only
+-lexeme
+ lex: mʕaddal
+ stem: mʕaddal.
+ root: ʕdl
+ gramm: <?>
+ paradigm: <?>
+ trans_de: regelmäßig
+ trans_en: regular
 -lexeme
  lex: mʕalfono
- stem: mʕalfono.
+ stem: mʕalfono.|mʕalfone.
  root: ʕlf
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Futterhändler
- trans_en: 
+ trans_en: fodder trader
 -lexeme
  lex: mʕalləm
  stem: mʕalləm.|mʕalləmin.
@@ -22300,39 +22460,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Professor, Lehrmeister
- trans_en: 
+ trans_en: professor, teacher
 -lexeme
  lex: mʕalləmtiye
  stem: mʕalləmtiye.
  root: ʕlm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Lehrerberuf
- trans_en: 
+ trans_en: profession of a teacher
 -lexeme
  lex: mʕamala
  stem: mʕamala.
  root: ʕml
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Behandlung
- trans_en: 
+ trans_en: treatment
 -lexeme
- lex: mʕamrono
- stem: mʕamrono.
+ lex: mʕamrono/maʕamrono/maʕəmrono
+ stem: mʕamrono.//maʕamrono.//maʕəmrono.|mʕamrone.//maʕamrone.//maʕəmrone.
  root: ʕmr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Architekt, Baumeister
- trans_en: 
+ trans_en: architect, builder
+-lexeme
+ lex: mʕarəf/maʕarəf
+ stem: mʕarəf.//maʕarəf.
+ root: ʕrf
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Geschicklichkeit im Handwerk
+ trans_en: skills in handwork
 -lexeme
  lex: mʕarṯo
- stem: mʕarṯo.|mʕarṯoe.//mʕaryoṯe.
+ stem: mʕarṯo.|mʕarṯe.//mʕaryoṯe.
  root: mʕrṯ
  gramm: N,f
  paradigm: N2
  trans_de: Höhle
- trans_en: 
+ trans_en: cave
 -lexeme
  lex: mʕaš
  stem: mʕaš.|mʕašat.
