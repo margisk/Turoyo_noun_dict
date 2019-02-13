@@ -33214,13 +33214,13 @@
  trans_de: Holz mit eiserner Gabel zum Nachfüllen des Kalkofens
  trans_en: 
 -lexeme
- lex: sayaḥa
- stem: sayaḥa.
+ lex: sayaḥa/siyaḥa
+ stem: sayaḥa.//siyaḥa.
  root: swḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Reise
- trans_en: 
+ trans_en: journey
 -lexeme
  lex: saye
  stem: saye.
@@ -33358,13 +33358,13 @@
  trans_de: Silber
  trans_en: 
 -lexeme
- lex: semoqo
- stem: semoqo.
+ lex: semoqo/simoqo/səmoqo
+ stem: semoqo.//simoqo.//səmoqo.|semoqe.//simoqe.//səmoqe.
  root: smq
- gramm: N,m
- paradigm: N1
- trans_de: Mi
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: rot
+ trans_en: red
 -lexeme
  lex: sendare
  stem: sendare.
@@ -33766,13 +33766,13 @@
  trans_de: lange Keile, die in die mit dem
  trans_en: 
 -lexeme
- lex: sfarg(i)lo
- stem: sfarg(i)lo.|sfarg(i)le.
- root: sfrg()l
+ lex: sfarglo/sfargilo/sparglo
+ stem: sfarglo.//sfargilo.//sparglo.|sfargle.//sfargile.//spargle.
+ root: sfrg
  gramm: N,m
  paradigm: N2
  trans_de: Quitte
- trans_en: 
+ trans_en: quince
 -lexeme
  lex: sfugo
  stem: sfugo.
@@ -33862,21 +33862,13 @@
  trans_de: a) Getreidegarbe b) linke Seite
  trans_en: 
 -lexeme
- lex: simoqo
- stem: simoqo.|simoqe.
- root: smq
- gramm: N,m
- paradigm: N2
- trans_de: PrS
- trans_en: 
--lexeme
  lex: sinak
  stem: sinak.
  root: snk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Treff, Eichel, Kreuz im Kartenspiel
- trans_en: 
+ trans_en: clubs, acorn, clubs in card game
 -lexeme
  lex: sinama
  stem: sinama.|sinamat.
@@ -33884,127 +33876,127 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kino
- trans_en: 
+ trans_en: cinema
+-lexeme
+ lex: sinor
+ stem: sinor.
+ root: snr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Grenzwachtposten
+ trans_en: border guard posts
 -lexeme
  lex: sipak
- stem: sipak.
+ stem: sipak.|sipakin.
  root: spk
  gramm: N,m
- paradigm: N1
- trans_de: Jugendlicher
- trans_en: 
+ paradigm: N2
+ trans_de: Jugendlicher, 10-15 Jahre alt
+ trans_en: teenager, 10-15 years old
 -lexeme
  lex: sipan
  stem: sipan.
  root: spn
  gramm: N,m
- paradigm: N1
- trans_de: Schneewehe nafilo
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Schneewehe
+ trans_en: snowdrift
 -lexeme
  lex: sire
  stem: sire.
  root: sr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Rahm, Schmand
- trans_en: 
+ trans_en: cream, sour cream
 -lexeme
  lex: sirinoyo
  stem: sirinoyo.
  root: srny
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mann aus Bissorino
- trans_en: 
+ trans_en: man from Bissorino
 -lexeme
  lex: sisaʕlo
  stem: sisaʕlo.
  root: sʕl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Spulwurm
- trans_en: 
+ trans_en: eelworm
 -lexeme
  lex: siske
  stem: siske.
  root: ssk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Kern der Weinbeere
- trans_en: 
+ trans_en: grape seed
 -lexeme
- lex: sitoro
- stem: sitoro.
- root: str
- gramm: N,m
- paradigm: N1
- trans_de: Rezitation des
- trans_en: 
+ lex: siwa
+ stem: siwa.
+ root: sw
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: tünchen
+ trans_en: to whitewash
 -lexeme
  lex: sixe
  stem: sixe.
  root: sx
  gramm: N,f
- paradigm: N1
- trans_de: a) Ziege mit geraden, etwas schräg nach den Seiten stehenden Hörnern b) dünner, spießartiger Zweig eines Gesträuches
- trans_en: 
+ paradigm: <?>
+ trans_de: Ziege mit geraden, etwas schräg nach den Seiten stehenden Hörnern; dünner, spießartiger Zweig eines Gesträuches
+ trans_en: goat with straight horns that are slightly inclined toward the sides; thin, spikelike bush branch
 -lexeme
  lex: sixi
  stem: sixi.
  root: sx
  gramm: N,m
- paradigm: N1
- trans_de: Bratspieß
- trans_en: 
+ paradigm: <?>
+ trans_de: Bratspieß; abgeschnittenes Zweigstück; Ladestock
+ trans_en: spit; truncated branch; ramrod
 -lexeme
  lex: sixur
  stem: sixur.
  root: sxr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stachelschwein
- trans_en: 
--lexeme
- lex: siyaḥa
- stem: siyaḥa.
- root: swḥ
- gramm: N,f
- paradigm: N1
- trans_de: Reise
- trans_en: 
+ trans_en: porcupine
 -lexeme
  lex: siyamuṯo
  stem: siyamuṯo.
  root: swm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Glückwunschbesuch für neu ernannten Pfarrer, Beamten, Agha usf.
- trans_en: 
+ trans_en: congratulation visit for newly appointed pastors, officials, Agha, etc.
 -lexeme
- lex: siyyara
- stem: siyyara.|siyyarat.
+ lex: siyyara/səyyara
+ stem: siyyara.//səyyara.|siyyarat.//səyyarat.
  root: syr
  gramm: N,f
  paradigm: N2
  trans_de: Automobil
- trans_en: 
+ trans_en: automobile
 -lexeme
  lex: skambil
  stem: skambil.
  root: skmbl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kartenspiel
- trans_en: 
+ trans_en: card game
 -lexeme
  lex: skino
- stem: skino.
+ stem: skino.|skine.
  root: skn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Messer
- trans_en: 
+ trans_en: knife
 -lexeme
  lex: skulpyo
  stem: skulpyo.|skulpye.
@@ -34012,15 +34004,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schüler
- trans_en: 
+ trans_en: pupil
 -lexeme
  lex: skut
  stem: skut.
  root: skt
  gramm: N,m
- paradigm: N1
- trans_de: ein, schweigen
- trans_en: 
+ paradigm: unchangeable
+ trans_de: stillesein, schweigen
+ trans_en: to be silent, say nothing
 -lexeme
  lex: slaḥ
  stem: slaḥ.|slaḥat.
@@ -34028,151 +34020,159 @@
  gramm: N,m
  paradigm: N2
  trans_de: Waffe
- trans_en: 
+ trans_en: weapon
 -lexeme
- lex: slawniye
- stem: slawniye.
- root: slwny
- gramm: N,f
- paradigm: N1
- trans_de: Schwalbe
- trans_en: 
+ lex: slamat
+ stem: slamat.
+ root: slm
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Heil
+ trans_en: welfare
 -lexeme
  lex: sliquṯo
  stem: sliquṯo.
  root: slq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Himmelfahrt (Christi)
- trans_en: 
+ trans_en: ascension (of Christ)
 -lexeme
- lex: sloniye
- stem: sloniye.
+ lex: sloniye/slawniye
+ stem: sloniye.//slawniye.
  root: sln
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwalbe
- trans_en: 
+ trans_en: swallow
 -lexeme
  lex: slonike
  stem: slonike.
  root: sln
- gramm: N,f
- paradigm: N1
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: kleine Schwalbe
- trans_en: 
+ trans_en: small swallow
 -lexeme
  lex: sloqe
  stem: sloqe.
  root: slq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Osten
- trans_en: 
+ trans_en: orient
 -lexeme
  lex: smaqrono
  stem: smaqrono.|smaqrone.
  root: smq
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: rötlich; braun
+ trans_en: reddish; brown
 -lexeme
  lex: snawniye
  stem: snawniye.
  root: snwny
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwalbe
- trans_en: 
+ trans_en: swallow
 -lexeme
  lex: snido
  stem: snido.
  root: snd
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: <?>
+ trans_de: angelehnt
+ trans_en: supported
 -lexeme
  lex: sniquṯo
  stem: sniquṯo.
  root: snq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bedürfnis
- trans_en: 
+ trans_en: desire
+-lexeme
+ lex: sobah
+ stem: sobah.
+ root: sbh
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: schwimmen können
+ trans_en: being able to swim
 -lexeme
  lex: sobahiye
  stem: sobahiye.
  root: sbh
  gramm: N,f
- paradigm: N1
- trans_de: schwimmen Sl
- trans_en: 
+ paradigm: unchangeable
+ trans_de: schwimmen
+ trans_en: to swim
 -lexeme
  lex: sobayiye
  stem: sobayiye.
  root: sby
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Offizierwürde, -rang
- trans_en: 
+ trans_en: officer rank, position
 -lexeme
  lex: sofi
- stem: sofi.|sofiiye.
+ stem: sofi.|sofiye.
  root: sf
  gramm: N,m
  paradigm: N2
- trans_de: iye Derwisch, Mann mit langem Bart
- trans_en: 
+ trans_de: Derwisch, Mann mit langem Bart
+ trans_en: dervish, man with a long beard
 -lexeme
  lex: sofitiye
  stem: sofitiye.
  root: sft
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Derwischtum
- trans_en: 
+ trans_en: dervishhood
 -lexeme
  lex: sore
  stem: sore.
  root: sr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Essgericht
- trans_en: 
+ trans_en: meal
 -lexeme
  lex: sosine
  stem: sosine.|sosinat.
  root: ssn
  gramm: N,f
  paradigm: N2
- trans_de: Schwertlilie, Iris spec. pl
- trans_en: 
+ trans_de: Schwertlilie, Iris spec.
+ trans_en: iris
 -lexeme
  lex: sowo
  stem: sowo.|sowe.
  root: swb
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: PrS
- trans_en: 
+ trans_de: alt
+ trans_en: old
 -lexeme
  lex: sowuṯo
  stem: sowuṯo.
  root: swb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Alter, Weisshaarigkeit
- trans_en: 
+ trans_en: age, white hair
 -lexeme
  lex: soxurto
  stem: soxurto.
  root: sxr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Randeinfassung des Brunnens, der Zisterne
- trans_en: 
+ trans_en: edge of the fountain, cistern
 -lexeme
  lex: soz
  stem: soz.|sozat.
@@ -34180,15 +34180,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: gegebenes Wort, Gelöbnis, Versprechen
- trans_en: 
--lexeme
- lex: sparglo
- stem: sparglo.
- root: sprgl
- gramm: N,m
- paradigm: N1
- trans_de: Quitte
- trans_en: 
+ trans_en: given word, pledge, promise
 -lexeme
  lex: sparno
  stem: sparno.|sparne.
