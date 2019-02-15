@@ -23214,77 +23214,93 @@
  trans_de: Baum mit duftenden Blättern. Die gemahlenen Kerne tut man ins Mehl, des Wohlgeschmacks wegen
  trans_en: tree with fragrant leaves. Grinded kernels are put flour, for the good smell
 -lexeme
+ lex: maḥoyo
+ stem: maḥoyo.|maḥoye.
+ root: mḥy
+ gramm: N
+ paradigm: N2
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
  lex: maḥsarto
  stem: maḥsarto.
  root: ʕṣr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Kelter; das Becken, in das der ausgepresste Moste hinunterfließt
- trans_en: 
+ trans_en: vinepress; bowl in which the pressed juice flows down
 -lexeme
  lex: maḥṣa
- stem: maḥṣa.
+ stem: maḥṣa.|maḥṣat.
  root: mḥṣ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schanze
- trans_en: 
+ trans_en: earthwork
 -lexeme
  lex: maḥṣara
  stem: maḥṣara.
  root: ḥṣr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Belagerung
- trans_en: 
+ trans_en: siege
 -lexeme
  lex: maḥšara
  stem: maḥšara.
  root: mḥšr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zurechtkommen, sich vertragen
- trans_en: 
+ trans_en: managing, coping with
 -lexeme
  lex: maḥṭašiye
  stem: maḥṭašiye.
  root: ʕṭš
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Durstzeit
- trans_en: 
+ trans_en: period of thirst
 -lexeme
  lex: maḥyo
- stem: maḥyo.|maḥyooṯe.
+ stem: maḥyo.|maḥyoṯe.
  root: mḥy
  gramm: N,m
  paradigm: N2
  trans_de: Prügel
- trans_en: 
+ trans_en: beating
 -lexeme
- lex: mak(k)ina
- stem: mak(k)ina.|mak(k)inat.
- root: mk(k)n
+ lex: makamare
+ stem: makamare.|makamarat.
+ root: mkmr
+ gramm: N,f
+ paradigm: N2
+ trans_de: gefährlichste aller Schlangen, mit dickem Kopf
+ trans_en: the most dangerous of all snakes, with, with thick head 
+-lexeme
+ lex: makkina
+ stem: makkina.//makina.|makkinat.//makinat.//makaʔən.//makayən.
+ root: mkn
  gramm: N,f
  paradigm: N2
  trans_de: Maschine, Gerät, Plattenspieler
- trans_en: 
+ trans_en: machine, device
 -lexeme
  lex: makkinka
- stem: makkinka.
+ stem: makkinka.|makkinkat.
  root: mknk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: Maschinchen; Rasierapparat
- trans_en: 
+ trans_en: small machine; shaving device
 -lexeme
- lex: makərxono
- stem: makərxono.
- root: mkrxn
- gramm: N,m
- paradigm: N1
- trans_de: Drescher
- trans_en: 
+ lex: makinəst
+ stem: makinəst.
+ root: mknst
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Mechaniker
+ trans_en: mechanic
 -lexeme
  lex: makəryono
  stem: makəryono.|makəryone.
@@ -23292,55 +23308,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Maultiertreiber
- trans_en: 
+ trans_en: muleteer
+-lexeme
+ lex: makixo
+ stem: makixo.|makixe.
+ root: mkk
+ gramm: ADJ
+ paradigm: N2
+ trans_de: bescheiden
+ trans_en: humble, modest
 -lexeme
  lex: makixuṯo
  stem: makixuṯo.
  root: mx
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bescheidenheit
- trans_en: 
+ trans_en: modesty
+-lexeme
+ lex: maknəsyan
+ stem: maknəsyan.
+ root: mknsyn
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Mechaniker
+ trans_en: mechanic
 -lexeme
  lex: maknəšto
- stem: maknəšto.|maknəšyoṯo.
+ stem: maknəšto.|maknəšyoṯo.//maknəšyoṯe.
  root: knš
  gramm: N,f
  paradigm: N2
  trans_de: Besen
- trans_en: 
+ trans_en: broom
+-lexeme
+ lex: makruh
+ stem: markuh.
+ root: krh
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bösartig, gefährlich
+ trans_en: wicked, evil; dangerous
 -lexeme
  lex: makruhiye
  stem: makruhiye.
  root: krh
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verabscheuungswürdigkeit
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: maksəd
+ stem: maksəd.
+ root: ksd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Pökelfleisch
+ trans_en: salt meat
 -lexeme
  lex: maktab
- stem: maktab.|miketəb.//maketəb.
+ stem: maktab.|məketəb.//maketəb.
  root: ktb
  gramm: N,m
  paradigm: N2
- trans_de: maketib Schule
- trans_en: 
+ trans_de: Schule
+ trans_en: school
 -lexeme
  lex: maktabliye
  stem: maktabliye.
  root: ktb
- gramm: N,f
- paradigm: N1
+ gramm: <?>
+ paradigm: <?>
  trans_de: mit Schulbildung
- trans_en: 
+ trans_en: with school education
 -lexeme
  lex: maktub
- stem: maktub.|maketəb.
+ stem: maktub.|maketəb.//məketəb.
  root: ktb
  gramm: N,m
  paradigm: N2
- trans_de: miketib Brief
- trans_en: 
+ trans_de: Brief
+ trans_en: letter
 -lexeme
  lex: makuko
  stem: makuko.
@@ -23348,87 +23396,119 @@
  gramm: N,m
  paradigm: N1
  trans_de: Weberschiffchen
- trans_en: 
+ trans_en: shuttle
 -lexeme
  lex: makul
  stem: makul.
  root: ʔkl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Essvorräte, Futter
- trans_en: 
+ trans_en: supplies, fodder
 -lexeme
  lex: mal
  stem: mal.
  root: mwl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Besitz, Eigentum, Ware
- trans_en: 
+ trans_en: property, belongings, goods
 -lexeme
- lex: malakṯo
- stem: malakṯo.
+ lex: malʕuso
+ stem: malʕuso.
+ root: lʕs
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: gekaut, zu kauen; durchhecheln
+ trans_en: chewed, to chew; <?>
+-lexeme
+ lex: mala
+ stem: mala.
+ root: ml
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wie schön ist
+ trans_en: how great!
+-lexeme
+ lex: malak
+ stem: malak.
+ root: mlk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: mit folgendem Eigennamen: König
+ trans_en: with the following personal name: king
+-lexeme
+ lex: malakṯo/maləkṯo/malkṯo
+ stem: malakṯo.//maləkṯo.//malkṯo.|malakyoṯe.//malakyoṯo.//malkyoṯe.//malkyoṯo.//maləkyoṯe.//maləkyoṯo.
  root: mlk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Königin
- trans_en: 
+ trans_en: queen
 -lexeme
- lex: malaxo
- stem: malaxo.
+ lex: malava
+ stem: malava.
+ root: mlv
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: dessen Haus belebt sein möge! freundliche Anrede
+ trans_en: whose house may be crowded! friendly address
+-lexeme
+ lex: malaxo/maloxo
+ stem: malaxo.//maloxo.|malaxe.//maloxe.
  root: mlk
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Engel, Todesengel
- trans_en: 
+ trans_en: angel, angel of death
 -lexeme
  lex: malǧame
  stem: malǧame.
  root: mlǧm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Pflaster mit dicker Pechschicht
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: maldar
+ stem: maldar.
+ root: mldr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: begütert, reich
+ trans_en: prosperous, rich
 -lexeme
  lex: malfono
- stem: malfono.
+ stem: malfono.|malfone.
  root: ylf
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Lehrer, Professor
- trans_en: 
+ trans_en: teacher, professor
 -lexeme
  lex: malḥo
- stem: malḥo.
+ stem: malḥo.|malḥone.
  root: mlḥ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Salz
- trans_en: 
+ trans_en: salt
 -lexeme
  lex: malḥoyo
  stem: malḥoyo.
  root: mlḥy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Forke
- trans_en: 
--lexeme
- lex: mal(ə)kṯo
- stem: mal(ə)kṯo.|mal(ə)kyoṯe.
- root: mlk
- gramm: N,f
- paradigm: N2
- trans_de: Königin
- trans_en: 
+ trans_en: pitchfork
 -lexeme
  lex: maliye
  stem: maliye.
  root: mwl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schatz, Schätze, Reichtümer
- trans_en: 
+ trans_en: treasure, treasures, riches
 -lexeme
  lex: malko
  stem: malko.|malke.
@@ -23436,31 +23516,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: König
- trans_en: 
+ trans_en: king
 -lexeme
  lex: malkuṯo
  stem: malkuṯo.
  root: mlk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Himmelreich
- trans_en: 
+ trans_en: paradise
 -lexeme
  lex: malla
- stem: malla.
+ stem: malla.|mallawin.
  root: mll
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: muslimischer Geistlicher
- trans_en: 
--lexeme
- lex: maloxo
- stem: maloxo.
- root: mlk
- gramm: N,m
- paradigm: N1
- trans_de: Engel
- trans_en: 
+ trans_en: mullah
 -lexeme
  lex: malqaṭ
  stem: malqaṭ.|malqaṭat.
@@ -23468,50 +23540,82 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zange
- trans_en: 
+ trans_en: nippers, tongs
 -lexeme
  lex: maluḥo
- stem: maluḥo.
+ stem: maluḥo.|maluḥe.
  root: mlḥ
- gramm: N,m
- paradigm: N1
- trans_de: salzig Sl
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: salzig
+ trans_en: salty
+-lexeme
+ lex: malul
+ stem: malul.
+ root: ʕll
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: abgemagert (aus Kummer)
+ trans_en: emaciated (from worries and troubles)
+-lexeme
+ lex: maluwe
+ stem: maluwe.
+ root: mlw
+ gramm: N
+ paradigm: <?>
+ trans_de: Getreidegarbe
+ trans_en: sheaf
+-lexeme
+ lex: malxarabo
+ stem: malxarabo.
+ root: mlxrb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Unglücksmensch, Unglücklicher!
+ trans_en: unlucky, unhappy person!
 -lexeme
  lex: malxo
  stem: malxo.
  root: mlx
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gang, Gangart
- trans_en: 
+ trans_en: going, walk
 -lexeme
  lex: malyo
  stem: malyo.|malye.
  root: mll
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: voll
+ trans_en: full
 -lexeme
  lex: malzama
  stem: malzama.
  root: lzm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bedarfsmaterial
- trans_en: 
+ trans_en: material, composition
 -lexeme
- lex: mambaʕ
- stem: mambaʕ.
+ lex: mamafi
+ stem: mamafi.
+ root: mmf
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: bei alledem, vielmehr, jedoch
+ trans_en: rather; on the contrary; however
+-lexeme
+ lex: mambaʕ/manbaʕ
+ stem: mambaʕ.//manbaʕ.
  root: nbʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Quelle
- trans_en: 
+ trans_en: spring
 -lexeme
  lex: maməke
- stem: maməke.
+ stem: maməke.|maməkat.
  root: mmk
  gramm: N,f
  paradigm: N1
