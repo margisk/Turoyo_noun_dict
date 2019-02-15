@@ -33310,13 +33310,13 @@
  trans_de: Schoß
  trans_en: 
 -lexeme
- lex: sefoqo
- stem: sefoqo.|sefoqe.
+ lex: sefoqo/sifoqo
+ stem: sefoqo.//sifoqo.|sefoqe.//sifoqe.
  root: sfq
  gramm: N,m
  paradigm: N2
  trans_de: Teller, Schüssel, Geschirr, Gerät
- trans_en: 
+ trans_en: plate, bowl, dishes, utensil
 -lexeme
  lex: segulike
  stem: segulike.
@@ -33356,7 +33356,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Silber
- trans_en: 
+ trans_en:
+-lexeme
+ lex: semolo/samolo
+ stem: semolo.//samolo.|semole.//samole.
+ root: sml
+ gramm: N,m
+ paradigm: N2
+ trans_de: links
+ trans_en: left
 -lexeme
  lex: semoqo/simoqo/səmoqo
  stem: semoqo.//simoqo.//səmoqo.|semoqe.//simoqe.//səmoqe.
@@ -33485,6 +33493,14 @@
  paradigm: N1
  trans_de: Wohnen
  trans_en: 
+-lexeme
+ lex: ṣəlaḥ/ṣilaḥ/ṣlaḥ
+ stem: ṣəlaḥ.//ṣilaḥ.//ṣlaḥ.|ṣəlaḥat.//ṣilaḥat.//ṣlaḥat.
+ root: ṣlḥ
+ gramm: N,m
+ paradigm: N2
+ trans_de: Waffe
+ trans_en: weapon
 -lexeme
  lex: səlke
  stem: səlke.|səlkat.
@@ -33715,8 +33731,8 @@
  root: sry
  gramm: N,m
  paradigm: N2
- trans_de: Siryoyo m, f Siryaito, pl –e christl. Syrer, syrisch
- trans_en: 
+ trans_de: christl. Syrer, syrisch
+ trans_en: Christian Syrian, Syrian
 -lexeme
  lex: səsto
  stem: səsto.|səstoṯo.
@@ -33724,7 +33740,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stute
- trans_en: 
+ trans_en: mare
+-lexeme
+ lex: səsto dad dayroye
+ stem: səsto dad dayroye. 
+ root: sstddyry
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Marienkäfer
+ trans_en: ladybrid
+-lexeme
+ lex: səsyane kačal
+ stem: səsyane kačal.
+ root: ssynkčl
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Art kleiner Aasgeier, Neophron percnopterus 
+ trans_en: a kind of small vulture, neophron percnopterus 
 -lexeme
  lex: səsyo/susyo
  stem: səsyo.//susyo.|səsye.//susye.
@@ -33754,17 +33786,17 @@
  stem: səxənṭiye.
  root: sxnṭy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bedrängnis
- trans_en: 
+ trans_en: distress
 -lexeme
  lex: sfeno
  stem: sfeno.|sfene.
  root: sfn
  gramm: N,f
  paradigm: N2
- trans_de: lange Keile, die in die mit dem
- trans_en: 
+ trans_de: etwa 21-25 cm lange Keile, die in die mit dem šawko geschlagene durch einen Strich vorgezeichnete und mit Schutzblechen geschützte Rinne des zu lösenden Steines geschoben werden. Sie werden dann mit einem Großhammer (maḍraba) in den Stein getrieben, bis er sich plötzlich löst
+ trans_en: wedges about 21-25 cm long that are pushed with the šawko, marked with a line and ... . Then they are driven into the stone with a big hammer (maḏ̣raba), ...
 -lexeme
  lex: sfarglo/sfargilo/sparglo
  stem: sfarglo.//sfargilo.//sparglo.|sfargle.//sfargile.//spargle.
@@ -33778,57 +33810,57 @@
  stem: sfugo.
  root: sfg
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwamm
- trans_en: 
+ trans_en: sponge
 -lexeme
  lex: sḥaqoyo
  stem: sḥaqoyo.
  root: sḥqy
  gramm: N,m
- paradigm: N1
- trans_de: Mann aus
- trans_en: 
+ paradigm: <?>
+ trans_de: Mann aus Basḥəq
+ trans_en: man from Basḥəq
 -lexeme
- lex: siboro
- stem: siboro.
- root: sbr
- gramm: N,m
- paradigm: N1
- trans_de: Mariae Verkündigung
- trans_en: 
+ lex: sib w saġ
+ stem: sib w saġ
+ root: sbwsġ
+ gramm: ADJ 
+ paradigm: <?>
+ trans_de: kerngesund 
+ trans_en: thoroughly healthy
 -lexeme
  lex: sid
  stem: sid.
  root: swd
  gramm: N,m
- paradigm: N1
- trans_de: Herr ya sidi! ya sidi! Herr!
- trans_en: 
+ paradigm: <?>
+ trans_de: Herr
+ trans_en: lord
 -lexeme
- lex: sifoqo
- stem: sifoqo.|sifoqe.
- root: sfq
- gramm: N,m
- paradigm: N2
- trans_de: Teller, Schüssel, Geschirr
- trans_en: 
+ lex: sid
+ stem: sd.
+ root: swd
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: bei
+ trans_en: by
 -lexeme
  lex: sigara
  stem: sigara.
  root: sgr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zigarette
- trans_en: 
+ trans_en: cigarete
 -lexeme
  lex: sigo
  stem: sigo.
  root: sg
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: leere Weinrispe
- trans_en: 
+ trans_en: empty vineyard
 -lexeme
  lex: siġe
  stem: siġe.|siġat.
@@ -33836,31 +33868,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Armband
- trans_en: 
+ trans_en: bracelet
 -lexeme
- lex: silaḥ
- stem: silaḥ.|silaḥat.
- root: slḥ
- gramm: N,m
- paradigm: N2
- trans_de: Waffe
- trans_en: 
--lexeme
- lex: silale
- stem: silale.
- root: sll
- gramm: N,f
- paradigm: N1
- trans_de: Geschlecht, Familie nicht
- trans_en: 
+ lex: simərmər
+ stem: simərmər.
+ root: smrmr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Heuschreckenfresser, Sturnus purpureus
+ trans_en: locust eater, starling
 -lexeme
  lex: simolo
- stem: simolo.|simolo.
+ stem: simolo.
  root: sml
  gramm: N,m
- paradigm: N2
- trans_de: a) Getreidegarbe b) linke Seite
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Getreidegarbe; linke Seite
+ trans_en: sheaf of grain; left side
 -lexeme
  lex: sinak
  stem: sinak.
@@ -34065,7 +34089,7 @@
  lex: smaqrono
  stem: smaqrono.|smaqrone.
  root: smq
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: rötlich; braun
  trans_en: reddish; brown
@@ -43461,6 +43485,14 @@
  paradigm: <?>
  trans_de: Mutter
  trans_en: mother
+-lexeme
+ lex: ya səttar
+ stem: ya səttar. 
+ root: sttr
+ gramm: INTERJ 
+ paradigm: unchangeable
+ trans_de: Gott bewahre!
+ trans_en: God forbid!
 -lexeme
  lex: ya šabab
  stem: ya šabab. 
