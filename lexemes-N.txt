@@ -33462,6 +33462,14 @@
  trans_de: Zauber
  trans_en: 
 -lexeme
+ lex: səḥsəḥ
+ stem: səḥsəḥ.
+ root: sḥsḥ
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Stöhnen
+ trans_en: groan
+-lexeme
  lex: səkkar
  stem: səkkar.//šakar.|skekər.//škekir.
  root: skr
@@ -33474,25 +33482,41 @@
  stem: səkkaraye.
  root: skr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stück Zucker
- trans_en: 
+ trans_en: piece of sugar
 -lexeme
  lex: səkke
  stem: səkke.|sikak.
  root: skk
  gramm: N,f
  paradigm: N2
- trans_de: a) eiserner Pflock b) pl sikak sikäk geprägte Münze
- trans_en: 
+ trans_de: eiserner Pflock; pl geprägte Münze
+ trans_en: iron stake; pl minted coin
 -lexeme
  lex: səkna
  stem: səkna.
  root: skn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Wohnen
- trans_en: 
+ trans_en: room
+-lexeme
+ lex: səkran
+ stem: səkran.
+ root: skr
+ gramm: N,m 
+ paradigm: unchangeable
+ trans_de: betrunken, wie betrunken sich benehmend 
+ trans_en: drunk, behaving like a drunk
+-lexeme
+ lex: səktər
+ stem: səktər.
+ root: sktr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: mach, dass du fortkommst!
+ trans_en: go!
 -lexeme
  lex: ṣəlaḥ/ṣilaḥ/ṣlaḥ
  stem: ṣəlaḥ.//ṣilaḥ.//ṣlaḥ.|ṣəlaḥat.//ṣilaḥat.//ṣlaḥat.
@@ -33502,37 +33526,45 @@
  trans_de: Waffe
  trans_en: weapon
 -lexeme
+ lex: səlk
+ stem: səlk.
+ root: slk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Rübe
+ trans_en: turnip
+-lexeme
  lex: səlke
  stem: səlke.|səlkat.
  root: slk
- gramm: N,f
- paradigm: N2
+ gramm: N,f DIM
+ paradigm: N2 
  trans_de: Rübe (etwas kürzer)
- trans_en: 
+ trans_en: turnip (a bit shorter)
 -lexeme
  lex: səllam
- stem: səllam.|səllame,.
+ stem: səllam.|səllame.//səllamat.
  root: slm
  gramm: N,m
  paradigm: N2
  trans_de: Leiter
- trans_en: 
+ trans_en: leader
 -lexeme
  lex: səllaye
- stem: səllaye.
+ stem: səllaye.|səllayat.
  root: sll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Ohrfeige
- trans_en: 
+ trans_en: slap
 -lexeme
  lex: səlteniye
  stem: səlteniye.
- root: sltny
+ root: sltn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: zweites Frühstück
- trans_en: 
+ trans_en: second breakfast
 -lexeme
  lex: səm
  stem: səm.//sum.|səmat.//sumat.
@@ -33545,130 +33577,130 @@
  lex: səmbak
  stem: səmbak.
  root: smbk
- gramm: N,m
- paradigm: N1
+ gramm: N,m DIM
+ paradigm: <?>
  trans_de: kleine Ahle, Bolzen, um Loch zu schlagen, auch in Messergriff
- trans_en: 
+ trans_en: small awl, bolt that one gets into a hole, also in a knife handle
 -lexeme
- lex: səmbile
- stem: səmbile.|səmbilat.
+ lex: səmbile//səmbəl
+ stem: səmbile.//səmbəl.|səmbilat.
  root: smbl
  gramm: N,f
  paradigm: N2
  trans_de: Schnurrbart
- trans_en: 
+ trans_en: moustache
+-lexeme
+ lex: səmbili
+ stem: səmbili.
+ root: smbl
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: violett
+ trans_en: violet
 -lexeme
  lex: səməke
  stem: səməke.
  root: smk
- gramm: N,f
- paradigm: N1
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: Huf
- trans_en: 
+ trans_en: hoof
 -lexeme
  lex: səmsəm
  stem: səmsəm.
  root: smsm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sesam
- trans_en: 
--lexeme
- lex: sənǧe
- stem: sənǧe.
- root: snǧ
- gramm: N,f
- paradigm: N1
- trans_de: Bajonett
- trans_en: 
+ trans_en: sesame
 -lexeme
  lex: səndan
- stem: səndan.
+ stem: səndan.|səndanat.
  root: sndn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Amboss
- trans_en: 
+ trans_en: anvil
 -lexeme
  lex: səndane
  stem: səndane.
  root: sndn
  gramm: N,f
- paradigm: N1
- trans_de: großer Tonkrug für Sauerzeug, Öl oder Sirup nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: großer Tonkrug für Sauerzeug, Öl oder Sirup
+ trans_en: large clay jar for Sauerzeug (pickles, peppers & pearl onions), oil or syrup
 -lexeme
  lex: səndək
  stem: səndək.
  root: sndk
  gramm: N,m
- paradigm: N1
- trans_de: Weizen wird gekocht, dann getrocknet, dann angefeuchtet mit dem Mörser (doquqe) gestoßen, dann wieder getrocknet und zerkleinert (mit der Handmühle-
- trans_en: 
+ paradigm: <?>
+ trans_de: Weizen wird gekocht, dann getrocknet, dann angefeuchtet mit dem Mörser (doquqe) gestoßen, dann wieder getrocknet und zerkleinert (mit der Handmühle- gorišto), dann durch ein Sieb (mḥalto) gesiebt. Der grobe Teil heißt bərġəl, der mittlere hutik, der feine sindik 
+ trans_en: wheat is boiled, then dried, then moistened with a mortar (doquqe), then dried again and crushed (with the hand mill gorišto), then sieved through a sieve (mḥalto). The rough part is called bərġəl, the middle hutik, the fine istik
 -lexeme
- lex: sənd(ə)ke
- stem: sənd(ə)ke.
- root: snd()k
- gramm: N,f
- paradigm: N1
- trans_de: einerer, etwa
- trans_en: 
+ lex: səndke/səndəke
+ stem: səndke.//səndəke.
+ root: snd 
+ gramm: N,f DIM
+ paradigm: <?>
+ trans_de: kleinerer, etwa 10 cm hoher Stein beim Spiel 
+ trans_en: small stone, about 10 cm in height, used in a game
 -lexeme
  lex: səng
  stem: səng.
  root: sng
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pflock
- trans_en: 
+ trans_en: peg
 -lexeme
  lex: səngar
  stem: səngar.
  root: sngr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schwamm
- trans_en: 
+ trans_en: sponge
 -lexeme
- lex: səngo
- stem: səngo.
+ lex: səngo/sənǧe
+ stem: səngo.//sənǧe.|səngowat.//sənǧewat.
  root: sng
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bajonett
- trans_en: 
+ trans_en: bayonet
 -lexeme
  lex: sənnabras
  stem: sənnabras.
  root: snbrs
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: große Eidechsenart
- trans_en: 
+ trans_en: a kind of big lizard
 -lexeme
- lex: sənsile
- stem: sənsile.
+ lex: sənsile/sansale
+ stem: sənsile.//sansale.
  root: slsl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ahnenreihe, Geschlecht, Stamm
- trans_en: 
+ trans_en: ancestral line, gender, tribe
 -lexeme
  lex: sənsle
  stem: sənsle.
  root: snsl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: dichtbewachsenes Tal
- trans_en: 
+ trans_en: thick-grown valley
 -lexeme
  lex: sənṭaq
  stem: sənṭaq.
  root: nṭq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Verhör
- trans_en: 
+ trans_en: interrogation
 -lexeme
  lex: səppe
  stem: səppe.|səppat.
@@ -33676,55 +33708,79 @@
  gramm: N,f
  paradigm: N2
  trans_de: Granne der Ähre mit Widerhaken, die in Mund und Kehle hängenbleiben; (fig.) Frau, die man nicht los wird, die einem lästig fällt
- trans_en: 
+ trans_en: ... that emerge in mouth and throat; woman that is impossible to get rid of
+-lexeme
+ lex: səqənti
+ stem: səqənti.
+ root: sqnt
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Bedrängnis, Beschwerde
+ trans_en: distress, complaint
 -lexeme
  lex: sərdab
  stem: sərdab.
  root: srdb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: unterirdisches Gelass
- trans_en: 
+ trans_en: underground cell
 -lexeme
  lex: sərka/sərke
  stem: sərka/sərke.
  root: srk/srk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Essig
- trans_en: 
+ trans_en: vinegar
 -lexeme
- lex: sər(r
- stem: sər(r.
+ lex: sərma
+ stem: sərma.
+ root: srm
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Riegel; Augenschminke
+ trans_en: bolt; eyeshadow
+-lexeme
+ lex: sər/sərr
+ stem: sər.//sərr.
  root: srr
  gramm: N,m
- paradigm: N1
- trans_de: a) Geheimnis b) Wind
- trans_en: 
+ paradigm: <?>
+ trans_de: Geheimnis; Wind
+ trans_en: secret; wind
 -lexeme
- lex: sər(r)iye
- stem: sər(r)iye.
- root: sr(r)y
+ lex: səriye/sərriye
+ stem: səriye.//sərriye.
+ root: sry
  gramm: N,f
- paradigm: N1
- trans_de: mäßig starker Wind
- trans_en: 
+ paradigm: <?>
+ trans_de: mäßig starker Wind; Wind; Kälte
+ trans_en: moderately strond wind; wind; cold
+-lexeme
+ lex: sərsər
+ stem: sərsər.
+ root: srsr
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Ton der Heuschrecke und des Glühwürmchens
+ trans_en: sound of grashopper and firefly
 -lexeme
  lex: sərsəro
  stem: sərsəro.
  root: srsr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grille
- trans_en: 
+ trans_en: cricket
 -lexeme
  lex: sərt
  stem: sərt.
  root: srt
  gramm: N,m
- paradigm: N1
- trans_de: a) Bergrücken, Anhöhe b) störrisches Reittier, auf dem man nicht reiten kann
- trans_en: 
+ paradigm: <?>
+ trans_de: Bergrücken, Anhöhe; störrisches Reittier, auf dem man nicht reiten kann
+ trans_en: mountain ridge, hill; stubborn mount on which one cannot ride
 -lexeme
  lex: səryoyo
  stem: səryoyo.|səryoye.
@@ -33822,8 +33878,8 @@
  trans_de: Mann aus Basḥəq
  trans_en: man from Basḥəq
 -lexeme
- lex: sib w saġ
- stem: sib w saġ
+ lex: sib w saġ/səp w saġ
+ stem: sib w saġ.//səp w saġ.
  root: sbwsġ
  gramm: ADJ 
  paradigm: <?>
@@ -34949,7 +35005,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ohrfeige; Vorwurf
- trans_en: slap in the face; accusation
+ trans_en: slap; accusation
 -lexeme
  lex: ṣaṭro
  stem: ṣaṭro.
@@ -36085,7 +36141,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ohrfeige, Nackenschlag
- trans_en: slap in the face, severe setback
+ trans_en: slap, severe setback
 -lexeme
  lex: šaqašaq/šaqšaq
  stem: šaqašaq.//šaqšaq.
@@ -36125,7 +36181,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Feige; Ohrfeige
- trans_en: fainthearted; slap in the face
+ trans_en: blow; slap
 -lexeme
  lex: šaqoʕo
  stem: šaqoʕo.
