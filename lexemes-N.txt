@@ -23620,39 +23620,47 @@
  gramm: N,f
  paradigm: N1
  trans_de: Mundstück der Pfeife
- trans_en: 
+ trans_en: mouthpiece for a smoking pipe
 -lexeme
  lex: mamlaka
- stem: mamlaka.
+ stem: mamlaka.|mamlakat.
  root: mlk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Land, Heimat
- trans_en: 
+ trans_en: land, homeland
 -lexeme
- lex: mamlaxto
- stem: mamlaxto.
+ lex: mamlaxto/mamlaxṯo
+ stem: mamlaxto.//mamlaxṯo.
  root: mlk
  gramm: N,f
- paradigm: N1
- trans_de: a) Heimat b) Königreich
- trans_en: 
+ paradigm: <?>
+ trans_de: Heimat; Königreich
+ trans_en: homeland; kingdom
 -lexeme
- lex: mamlaxṯo
- stem: mamlaxṯo.
- root: mlk
- gramm: N,f
- paradigm: N1
- trans_de: Königreich
- trans_en: 
+ lex: mamnuʕ
+ stem: mamnuʕ.
+ root: mnʕ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verboten
+ trans_en: forbidden
+-lexeme
+ lex: mamnun
+ stem: mamnun.
+ root: mnn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: zufrieden, zu Dank verpflichtet
+ trans_en: satisfied; indebted to someone
 -lexeme
  lex: mamnuniye
  stem: mamnuniye.
  root: mnn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Dankbarkeit
- trans_en: 
+ trans_en: gratitude
 -lexeme
  lex: mamro
  stem: mamro.
@@ -23660,15 +23668,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: Rede, Aussage
- trans_en: 
+ trans_en: speech, statement
 -lexeme
  lex: mamrono
- stem: mamrono.
+ stem: mamrono.|mamrone.
  root: mrn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Sprecher
- trans_en: 
+ trans_en: speaker
 -lexeme
  lex: mamša
  stem: mamša.|mamišat.
@@ -23676,175 +23684,199 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gang, Korridor
- trans_en: 
+ trans_en: way, passage, corridor
 -lexeme
  lex: mamur
  stem: mamur.
  root: ʔmr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Beamter, Herr, Efendi
- trans_en: 
+ trans_en: official; mister, efendi
+-lexeme
+ lex: man
+ stem: man.
+ root: mn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: wer?
+ trans_en: who?
+-lexeme
+ lex: manʕəl
+ stem: manʕəl.
+ root: lʕn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: satanisch
+ trans_en: satanic
 -lexeme
  lex: manʕəlo
- stem: manʕəlo.
+ stem: manʕəlo.|manʕəle.
  root: lʕn
- gramm: N,m
- paradigm: N1
- trans_de: verflucht PrS
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: verflucht
+ trans_en: cursed
 -lexeme
- lex: mandelo
- stem: mandelo.
+ lex: manazər
+ stem: manazər.
+ root: nzr
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Sehenswürdigkeiten
+ trans_en: sights, places of interest
+-lexeme
+ lex: mandelo/mandilo
+ stem: mandelo.//mandilo.|mandele.//mandile.
  root: mndl
  gramm: N,f
- paradigm: N1
- trans_de: Kopftuch
- trans_en: 
--lexeme
- lex: mandilo
- stem: mandilo.
- root: mndl
- gramm: N,f
- paradigm: N1
- trans_de: Tuch
- trans_en: 
+ paradigm: N2
+ trans_de: Kopftuch; 2m langes, schwarzes Tuch, das sich die Frauen um den Kopf binden
+ trans_en: kerchief; 2 meters long black kerchief which women bind around their necks
 -lexeme
  lex: mandrune
- stem: mandrune.
+ stem: mandrune.|mandrunat.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Dachwalze
- trans_en: 
+ trans_en: stone for rolling the earth on roofs
 -lexeme
  lex: mandruniye
- stem: mandruniye.
+ stem: mandruniye.|mandruniyat.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Dachwalze
- trans_en: 
+ trans_en: stone for rolling the earth on roofs
 -lexeme
  lex: manduriye
- stem: manduriye.
+ stem: manduriye.|manduriyat.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Dachwalze
- trans_en: 
+ trans_en: stone for rolling the earth on roofs
 -lexeme
  lex: manfaʕa
  stem: manfaʕa.
  root: nfʕ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nutzen
- trans_en: 
+ trans_en: benefit, profit, utility
 -lexeme
  lex: manəʕ
  stem: manəʕ.
  root: mnʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hindernis, Verbot
- trans_en: 
+ trans_en: obstacle, hindrance; prohibition
 -lexeme
  lex: manǧaniq
  stem: manǧaniq.|manǧaniqat.
  root: mnǧnq
  gramm: N,m
  paradigm: N2
- trans_de: Kräne
- trans_en: 
+ trans_de: Kran
+ trans_en: crane
 -lexeme
- lex: manora
- stem: manora.|manorat.
+ lex: maniʕi/manəʕ
+ stem: maniʕi.//manəʕ.
+ root: mnʕ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mager
+ trans_en: skinny, lean, meager
+-lexeme
+ lex: manora/manura
+ stem: manora.//manura.|manorat.//manurat.
  root: mnr
  gramm: N,f
  paradigm: N2
  trans_de: Minarett
- trans_en: 
+ trans_en: minaret
+-lexeme
+ lex: manqalot
+ stem: manqalot.
+ root: mnql
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Banknote, Lira
+ trans_en: banknote, lira
 -lexeme
  lex: manqlo
  stem: manqlo.
  root: mnql
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kohlenbecken
- trans_en: 
+ trans_en: coal pan
 -lexeme
  lex: mansaf
- stem: mansaf.|manesif.
+ stem: mansaf.|manesəf.
  root: mnsf
  gramm: N,m
  paradigm: N2
- trans_de: manesif einen halben Meter großer Kupferteller mit flachem Fuß
- trans_en: 
+ trans_de: einen halben Meter großer Kupferteller mit flachem Fuß
+ trans_en: a 0.5 meters long copper plate with flat <...> 
 -lexeme
  lex: manšar
- stem: manšar.
+ stem: manšar.|manšare.
  root: nšr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Säge
- trans_en: 
+ trans_en: saw
 -lexeme
  lex: manṭaq/manṭəq
- stem: manṭaq/manṭəq.
+ stem: manṭaq.//manṭəq.
  root: nṭq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sprache, Art zu reden, Redegabe
- trans_en: 
+ trans_en: speech, way of talking, <...>
 -lexeme
  lex: manṭaqa/manṭiqa
- stem: manṭaqa/manṭiqa.
+ stem: manṭaqa.//manṭiqa.|manṭaqat.//manṭiqat.
  root: nṭq
  gramm: N,f
- paradigm: N1
- trans_de: Zone
- trans_en: 
--lexeme
- lex: manṭiqa
- stem: manṭiqa.
- root: nṭq
- gramm: N,f
- paradigm: N1
- trans_de: Gebiet
- trans_en: 
+ paradigm: N2
+ trans_de: Zone, Gebiet
+ trans_en: zone, area
 -lexeme
  lex: manṯo
  stem: manṯo.|mene.
  root: mnṯ
  gramm: N,f
  paradigm: N2
- trans_de: mene Haar
- trans_en: 
+ trans_de: Haar
+ trans_en: a hair
 -lexeme
  lex: manufaṭurači
- stem: manufaṭurači.
+ stem: manufaṭurači.|manufaṭuračiye.
  root: mnfṭrč
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Tuchhändler
- trans_en: 
+ trans_en: seller of cloth
 -lexeme
  lex: manura
- stem: manura.
+ stem: manura.|manurat.
  root: mnr
  gramm: N,f
  paradigm: N1
  trans_de: Turm, Leuchtturm, Kirchturm
- trans_en: 
+ trans_en: tower; lighthouse; steeple
 -lexeme
  lex: manzal
  stem: manzal.
  root: nzl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zimmer
- trans_en: 
+ trans_en: room
 -lexeme
  lex: manzale
  stem: manzale.
