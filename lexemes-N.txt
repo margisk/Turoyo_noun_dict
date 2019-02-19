@@ -33726,13 +33726,13 @@
  trans_de: a) Pferdeknecht b) dreijähriges männliches Schaf oder Ziegenbock
  trans_en: 
 -lexeme
- lex: says
- stem: says.
+ lex: says/seys/seyəs
+ stem: says.//seys.//seyəs.|saysin.//seysin.
  root: sws
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Pferdeknecht
- trans_en: 
+ trans_en: groom
 -lexeme
  lex: saz
  stem: saz.
@@ -33741,6 +33741,14 @@
  paradigm: N1
  trans_de: Musikinstrument
  trans_en: 
+-lexeme
+ lex: se/sə
+ stem: se.//sə. 
+ root: s
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: bei
+ trans_en: by
 -lexeme
  lex: sedare
  stem: sedare.
@@ -33782,37 +33790,37 @@
  trans_de: Strohgabel, mit der geworfelt und aus der Tenne herausgefallenes Getreide zurückgeschüttet wird
  trans_en: 
 -lexeme
- lex: sehraband(e
- stem: sehraband(e.
- root: shrbnd(
+ lex: sehraband/sehrabande
+ stem: sehraband.//sehrabande.
+ root: shrbnd
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zauberin, Hexe
- trans_en: 
+ trans_en: sorceress, witch
 -lexeme
  lex: sehrake
  stem: sehrake.
  root: shr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Hexe
- trans_en: 
+ trans_en: witch
 -lexeme
  lex: semalto
  stem: semalto.
  root: smlt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Getreidegarbe
- trans_en: 
+ trans_en: sheaf of grain
 -lexeme
  lex: semo
- stem: semo.
+ stem: semo.|semone.
  root: sm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Silber
- trans_en:
+ trans_en: silver
 -lexeme
  lex: semolo/samolo
  stem: semolo.//samolo.|semole.//samole.
@@ -33834,89 +33842,129 @@
  stem: sendare.
  root: sndr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Oberschwelle
- trans_en: 
+ trans_en: lintel
 -lexeme
  lex: sepəl
  stem: sepəl.
  root: spl
  gramm: N,m
- paradigm: N1
- trans_de: a) Fußspur. b) Hin- und Hergehen zu und von einem Ort
- trans_en: 
--lexeme
- lex: seys
- stem: seys.|seysin.
- root: sws
- gramm: N,m
- paradigm: N2
- trans_de: Pferdeknecht
- trans_en: 
+ paradigm: <?>
+ trans_de: Fußspur; Hin- und Hergehen zu und von einem Ort
+ trans_en: footprint; going back and forth to and from a place
 -lexeme
  lex: səʕud
- stem: səʕud.
+ stem: səʕud.|səʕudat.
  root: sʕd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Glück
- trans_en: 
+ trans_en: luck
 -lexeme
  lex: səbba
  stem: səbba.
  root: sbb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Grund, Ursache
- trans_en: 
+ trans_en: reason, cause
 -lexeme
  lex: səddan
  stem: səddan.
  root: sdn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Amboss
- trans_en: 
+ trans_en: anvil
 -lexeme
  lex: sədro
  stem: sədro.
  root: sdr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schulklasse
- trans_en: 
+ trans_en: class
+-lexeme
+ lex: səfəl
+ stem: səfəl.
+ root: sfl
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: səǧǧade
- stem: səǧǧade.|səǧǧadeat.//id..
+ stem: səǧǧade.|səǧǧade.//səǧǧadat.
  root: sǧd
  gramm: N,f
  paradigm: N2
- trans_de: der id.
- trans_en: 
+ trans_de: (Gebets)Teppich
+ trans_en: (prayer) rug
 -lexeme
  lex: səḥḥar
  stem: səḥḥar.
  root: sḥr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zauberin, Hexe
- trans_en: 
+ trans_en: sorceress, witch
 -lexeme
  lex: səḥḥiye
  stem: səḥḥiye.
  root: sḥḥ
  gramm: N,f
- paradigm: N1
- trans_de: Nachricht tolat
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Nachricht
+ trans_en: news
 -lexeme
- lex: səḥər
- stem: səḥər.|səḥərat.
+ lex: səḥər/ṣəḥər
+ stem: səḥər.//ṣəḥər.|səḥərat.//ṣəḥərat.
  root: sḥr
  gramm: N,m
  paradigm: N2
  trans_de: Zauber
- trans_en: 
+ trans_en: magic
+-lexeme
+ lex: səḥərbaz
+ stem: səḥərbaz.
+ root: sḥr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Zauber(in)
+ trans_en: magic, sorceress
+-lexeme
+ lex: səḥərdan
+ stem: səḥərdan.
+ root: sḥr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: zauberkundig
+ trans_en: endowed with magical powers
+-lexeme
+ lex: səḥərday/səḥərdayi
+ stem: səḥərday.//səḥərdayi.
+ root: sḥr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: zauberkundig, verzaubert
+ trans_en: endowed with magical powers, enchanted
+-lexeme
+ lex: səḥərkar/sehrkar
+ stem: səḥərkar.//sehrkar.
+ root: sḥr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Zauberer, Hexe
+ trans_en: wizard, witch
+-lexeme
+ lex: səḥərkiri
+ stem: səḥərkiri. 
+ root: sḥr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: verzaubert
+ trans_en: enchanted
 -lexeme
  lex: səḥsəḥ
  stem: səḥsəḥ.
