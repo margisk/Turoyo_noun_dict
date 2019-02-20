@@ -23182,8 +23182,8 @@
  trans_de: wohlbewahrt
  trans_en: well-preserved
 -lexeme
- lex: maḥkarune/maqarna/maqurna
- stem: maḥkarune.//maqarna.//maqurna.
+ lex: maḥkarune/maqarna/maqurna/maḥqarune
+ stem: maḥkarune.//maqarna.//maqurna.//maḥqarune.
  root: mqrn
  gramm: N
  paradigm: unchangeable
@@ -23882,129 +23882,153 @@
  stem: manzale.
  root: nzl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Stube
- trans_en: 
+ trans_en: room
+-lexeme
+ lex: manzrona
+ stem: manzrona.
+ root: mnzrn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: die am spätesten reifende Traubenart
+ trans_en: grape sort which becomes ripe later than other sorts
 -lexeme
  lex: manzrono
- stem: manzrono.
+ stem: manzrono.|manzrone.
  root: mnzrn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Holzknebel, gebraucht, um die Stricke der Lasten festzudrehen
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: masto
  stem: masto.
  root: mst
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Joghurt
- trans_en: 
+ trans_en: yoghurt
 -lexeme
  lex: maqaṣ
- stem: maqaṣ.|maqaṣe.
+ stem: maqaṣ.//maqaṣe.|maqaṣe.
  root: qṣṣ
  gramm: N,m
  paradigm: N2
  trans_de: Schere
- trans_en: 
--lexeme
- lex: maqaṣe
- stem: maqaṣe.
- root: qṣṣ
- gramm: N,f
- paradigm: N1
- trans_de: Schere
- trans_en: 
+ trans_en: scissors
 -lexeme
  lex: maqbara
- stem: maqbara.|maqbaraat.//maqbaraawat.
+ stem: maqbara.|maqbarat.//maqbarawat.
  root: qbr
  gramm: N,f
  paradigm: N2
  trans_de: Totenhof, Friedhof
- trans_en: 
+ trans_en: cemetery, graveyard
+-lexeme
+ lex: maqbul
+ stem: maqbul.
+ root: qbl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: angenommen, einwandfrei
+ trans_en: accepted; sound, unobjectionable
 -lexeme
  lex: maqoro
- stem: maqoro.
+ stem: maqoro.|maqore.
  root: nqr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Stift, Spitzmeißel, um Löcher zu machen
- trans_en: 
+ trans_en: pin <?> to make holes
 -lexeme
  lex: maqṣad
- stem: maqṣad.
+ stem: maqṣad.|maqṣade.
  root: qṣd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Zweck, Anliegen, Begehren
- trans_en: 
+ trans_en: goal, intention, wish, coveting
 -lexeme
  lex: maqras
  stem: maqras.
  root: mqrs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stemmeisen
- trans_en: 
+ trans_en: chisel
 -lexeme
- lex: maqriyono
- stem: maqriyono.
+ lex: maqrəyono
+ stem: maqrəyono.|maqrəyone.
  root: qrʔ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Lehrer
- trans_en: 
+ trans_en: teacher
 -lexeme
  lex: maqṭaʕ
- stem: maqṭaʕ.
+ stem: maqṭaʕ.|maqṭaʕat.
  root: qṭʕ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: die andere Seite eines Meeres, Flusses
- trans_en: 
+ trans_en: the other side of a see or a river
 -lexeme
  lex: maqṭala
  stem: maqṭala.
  root: qṭl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tatort eines Mordes, eines Verbrechens, Steinhaufen an der Tatstelle
- trans_en: 
+ trans_en: site of murder, crime; heap of stones on <?>
+-lexeme
+ lex: maqṭuʕ
+ stem: maqṭuʕ.
+ root: qṭʕ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: abgelegen, wasserlos
+ trans_en: remote; waterless
+-lexeme
+ lex: maqṭuf
+ stem: maqṭuf.
+ root: qṭf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: rein, unverfälscht, erstklassig
+ trans_en: clean, sincere; first-rate
 -lexeme
  lex: maqul
  stem: maqul.
  root: mql
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Herr
- trans_en: 
+ trans_en: lord
 -lexeme
  lex: maquzo
  stem: maquzo.
  root: mqz
  gramm: N,m
- paradigm: N1
- trans_de: Schnabel
- trans_en: 
+ paradigm: <?>
+ trans_de: spitz; Schnabel
+ trans_en: sharp; beak
 -lexeme
- lex: maquro
- stem: maquro.
+ lex: maquro/maqoro
+ stem: maquro.//maqoro.
  root: mqr
  gramm: N,m
- paradigm: N1
- trans_de: Schnabel
- trans_en: 
+ paradigm: <?>
+ trans_de: spitz; Schnabel
+ trans_en: sharp; beak
 -lexeme
  lex: maqwad
- stem: maqwad.|mqewid.
+ stem: maqwad.|mqewəd.
  root: qwd
  gramm: N,m
  paradigm: N2
- trans_de: mqewid Halfter nicht
- trans_en: 
+ trans_de: Halfter
+ trans_en: <?>
 -lexeme
  lex: marʕa
  stem: marʕa.|marʕat.
@@ -24012,215 +24036,279 @@
  gramm: N,f
  paradigm: N2
  trans_de: Weide
- trans_en: 
+ trans_en: pasture
+-lexeme
+ lex: marʕeze
+ stem: marʕeze.
+ root: mrʕz
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: feines, gelocktes Ziegenhaar, dient zur Herstellung von Teppichen
+ trans_en: fine curled goat wool, used for making carpets
 -lexeme
  lex: marʕiṯo
  stem: marʕiṯo.
  root: rʕy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sprengel
- trans_en: 
+ trans_en: diocese
+-lexeme
+ lex: mara
+ stem: mara.
+ root: mr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: eigentlich: Herr! Interjektion von einem Verbum, dessen Inhalt sehr erstrebt wird
+ trans_en: in fact: lord! Interjection by a verb which content is aimed at.
 -lexeme
  lex: marbaṭ
  stem: marbaṭ.|marebəṭ.//marbaṭe.
  root: rbṭ
  gramm: N,m
  paradigm: N2
- trans_de: Anbindestrick nicht
- trans_en: 
+ trans_de: Anbindestrick
+ trans_en: a rope to tie an animal
 -lexeme
  lex: maraḥto
  stem: maraḥto.
  root: mrḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: abscheuliche Vettel
- trans_en: 
+ trans_en: abominable <?>
 -lexeme
  lex: marangoz
  stem: marangoz.|marangozin.
  root: mrngz
  gramm: N,m
  paradigm: N2
- trans_de: Schreiner pl
- trans_en: 
+ trans_de: Schreiner
+ trans_en: carpenter
 -lexeme
  lex: maraq
  stem: maraq.
  root: mrq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sorge, Neugier
- trans_en: 
+ trans_en: worry; curiosity
 -lexeme
  lex: maraqči
  stem: maraqči.
  root: mrqč
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Eifer; der Liebhabereien hat
- trans_en: 
+ trans_en: eagerness; who has passion
+-lexeme
+ lex: maraqli
+ stem: maraqli.
+ root: mrq
+ gramm: N
+ paradigm: <?>
+ trans_de: Eifer; der Liebhabereiein hat
+ trans_en: eagerness; who has passion
+-lexeme
+ lex: marasəm/marasəmat/mrasəm/mrasəmat
+ stem: marasəm.//marasəmat.//mrasəm.//mrasəmat.
+ root: rsm
+ gramm: N
+ paradigm: <?>
+ trans_de: Zeremonien
+ trans_en: ceremonies
 -lexeme
  lex: maraz
  stem: maraz.
  root: mrḍ
  gramm: N,m
- paradigm: N1
- trans_de: a) Krankheit. 	b) Kummer
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Krankheit; Kummer, Sehnsucht
+ trans_en: illness; worry, yearning
 -lexeme
  lex: mard
  stem: mard.
  root: mrd
  gramm: N,m
- paradigm: N1
- trans_de: Mann
- trans_en: 
+ paradigm: <?>
+ trans_de: edelmütig, freigebig; Mann
+ trans_en: noble, generous; man
 -lexeme
  lex: mardiye
  stem: mardiye.
  root: mrd
  gramm: N,f
- paradigm: N1
- trans_de: edles Handeln
- trans_en: 
+ paradigm: <?>
+ trans_de: männliches, edles Handeln
+ trans_en: manly, noble acts
 -lexeme
  lex: margo
- stem: margo.
+ stem: margo.|marge.
  root: mrg
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wiese
- trans_en: 
+ trans_en: meadow
+-lexeme
+ lex: marġub
+ stem: marġub.
+ root: rġb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: beliebt
+ trans_en: beloved
 -lexeme
  lex: marham
  stem: marham.
  root: mrhm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Salbe
- trans_en: 
+ trans_en: ointment
+-lexeme
+ lex: marḥaba
+ stem: marḥaba.
+ root: mrḥb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Guten Tag!
+ trans_de: good afternoon!
 -lexeme
  lex: marḥabayiye
  stem: marḥabayiye.
  root: mrḥby
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Willkommensgruß
- trans_en: 
+ trans_en: greeting
 -lexeme
  lex: marḥama
  stem: marḥama.
  root: ḥrm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: großes Taschentuch
- trans_en: 
+ trans_en: big handkerchief
 -lexeme
  lex: marḥmono
- stem: marḥmono.
+ stem: marḥmono.|marḥmone.
  root: rḥm
  gramm: N,m
- paradigm: N1
- trans_de: X
- trans_en: 
+ paradigm: N2
+ trans_de: barmherzig
+ trans_en: merciful
 -lexeme
- lex: mariro
- stem: mariro.
- root: mrr
+ lex: mariro/mayiro
+ stem: mariro.//mayiro.|marire.//mayire.
+ root: mrr/myr
  gramm: N,m
- paradigm: N1
- trans_de: An
- trans_en: 
+ paradigm: N2
+ trans_de: bitter
+ trans_en: bitter
 -lexeme
  lex: marərto
  stem: marərto.
  root: mrr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gallenblase
- trans_en: 
+ trans_en: gall bladder
+-lexeme
+ lex: markapṯo
+ stem: markapṯo.
+ root: rkp
+ gramm: N,f
+ paradigm: <?>
+ trans_de: fliegender Teppich
+ trans_en: flying carpet
 -lexeme
  lex: markaz
  stem: markaz.
  root: rkz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zentrum, Mittelpunkt
- trans_en: 
+ trans_en: centre
 -lexeme
  lex: marmar
  stem: marmar.
  root: mrmr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Marmor
- trans_en: 
+ trans_en: marble
 -lexeme
  lex: marmaroke
  stem: marmaroke.|marmarokat.
  root: mrmrk
  gramm: N,f
  paradigm: N2
- trans_de: Geckoeidechse pl
- trans_en: 
+ trans_de: Geckoeidechse
+ trans_en: gecko lizard
 -lexeme
  lex: maro/mahro
  stem: maro.//mahro.
  root: mr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Spaten
- trans_en: 
+ trans_en: spade
+-lexeme
+ lex: marokan
+ stem: marokan.
+ root: mrkn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Saffian
+ trans_en: saffian
 -lexeme
  lex: marqaʕ
- stem: marqaʕ.|miraqəʕ.
+ stem: marqaʕ.|məraqəʕ.
  root: mrqʕ
  gramm: N,m
  paradigm: N2
  trans_de: Schleuder
- trans_en: 
+ trans_en: sling
 -lexeme
  lex: marṣ
  stem: marṣ.
  root: mrṣ
  gramm: N,m
- paradigm: N1
- trans_de: Gewalt über, Schutzherrschaft a-Tirk
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Gewalt über, Schutzherrschaft 
+ trans_en: power, force, violence; protectorate
 -lexeme
  lex: marše
  stem: marše.|maršat.
  root: mrš
  gramm: N,f
  paradigm: N2
- trans_de: Lumpen, Wolle oder Ziegenhaar gewebter, grober Teppich
- trans_en: 
+ trans_de: aus Lumpen, Wolle oder Ziegenhaar gewebter, grober Teppich
+ trans_en: coarse carped woven from rags, sheep or goat wool
 -lexeme
  lex: martaba
  stem: martaba.
  root: rtb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ehrenstellung, Rang
- trans_en: 
+ trans_en: <?>, rank, degree
 -lexeme
- lex: marto
- stem: marto.
+ lex: marto/mərto
+ stem: marto.//mərto.
  root: mrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Herrin
- trans_en: 
+ trans_en: mistress
 -lexeme
  lex: marṯuṯo
  stem: marṯuṯo.
  root: mrṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: langer Rock der Geistlichen
- trans_en: 
+ trans_en: long skirt of priests
 -lexeme
  lex: marwodo
  stem: marwodo.|marwode.
@@ -24228,7 +24316,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ohrring
- trans_en: 
+ trans_en: ear ring
 -lexeme
  lex: marzabbe
  stem: marzabbe.|marzabbat.
@@ -24236,13 +24324,13 @@
  gramm: N,f
  paradigm: N2
  trans_de: großer Schmiedehammer
- trans_en: 
+ trans_en: sledge-hammer
 -lexeme
  lex: marzafto
  stem: marzafto.
  root: mrzft
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlagwerkzeug, mit dem die Höllenengel, die Höllenbewohner bearbeiten
  trans_en: 
 -lexeme
