@@ -33654,21 +33654,37 @@
  trans_de: wohlhabend Mi
  trans_en: 
 -lexeme
+ lex: sawwəssi
+ stem: sawwəssi.
+ root: swwss
+ gramm: <?>
+ paradigm: <?>
+ trans_de: verrückt, wie wahnsinnig
+ trans_en: insane, like crazy
+-lexeme
  lex: saxlo
  stem: saxlo.
  root: sxl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Junges (eines Tieres oder Menschen)
- trans_en: 
+ trans_en: youth (of an animal or man)
 -lexeme
  lex: saxme
  stem: saxme.
  root: sxm
  gramm: N,f
- paradigm: N1
- trans_de: Holz mit eiserner Gabel zum Nachfüllen des Kalkofens
- trans_en: 
+ paradigm: <?>
+ trans_de: sehr langes (3 m) Holz mit eiserner Gabel zum Nachfüllen des Kalkofens
+ trans_en: very long (3 m) piece of wood with an iron fork to refill the limekiln
+-lexeme
+ lex: saxt
+ stem: saxt.
+ root: sxt
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: gefälscht
+ trans_en: falsified
 -lexeme
  lex: sayaḥa/siyaḥa
  stem: sayaḥa.//siyaḥa.
@@ -33682,9 +33698,9 @@
  stem: saye.
  root: sy
  gramm: N,f
- paradigm: N1
- trans_de: Schatten, dann: Schutz
- trans_en: 
+ paradigm: <?>
+ trans_de: eigentl. Schatten, dann: Schutz
+ trans_en: actually shadow, then: protection
 -lexeme
  lex: sayəġ
  stem: sayəġ.|səyyaġ.
@@ -33692,39 +33708,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Goldschmied, Juwelier
- trans_en: 
+ trans_en: goldsmith, jeweler
+-lexeme
+ lex: sayən 
+ stem: sayən.
+ root: syn
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Geehrter
+ trans_en: dear one
 -lexeme
  lex: sayfo
  stem: sayfo.|sayfe.
  root: syf
  gramm: N,m
  paradigm: N2
- trans_de: a) Schwert b) Gemetzel c) Handhabe des Hakenpfluges. Hat oben ein Querholz und steckt mit dem unteren Ende in der Pflugschar
- trans_en: 
--lexeme
- lex: sayomo
- stem: sayomo.|sayome.
- root: swm
- gramm: N,m
- paradigm: N2
- trans_de: Macher, Hersteller
- trans_en: 
+ trans_de: Schwert; Gemetzel; Handhabe des Hakenpfluges. Hat oben ein Querholz und steckt mit dem unteren Ende in der Pflugschar (sakṯo)
+ trans_en: sword; slaughter; hook plow handle. Has a crossbeam at the top and sticks with the lower end in the plowshare (sakṯo)
 -lexeme
  lex: sayran
  stem: sayran.
  root: syr
  gramm: N,m
- paradigm: N1
- trans_de: a) Ausflug, Spaziergang b) Gebet an die Gottesmutter (kostet
- trans_en: 
--lexeme
- lex: says
- stem: says.
- root: sws
- gramm: N,m
- paradigm: N1
- trans_de: a) Pferdeknecht b) dreijähriges männliches Schaf oder Ziegenbock
- trans_en: 
+ paradigm: <?>
+ trans_de: Ausflug, Spaziergang; Gebet an die Gottesmutter (kostet 25 – 100 Piaster)
+ trans_en: excursion, walk; prayer to the Mother of God (costs 25 - 100 piastres)
 -lexeme
  lex: says/seys/seyəs
  stem: says.//seys.//seyəs.|saysin.//seysin.
@@ -33738,9 +33746,17 @@
  stem: saz.
  root: sz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Musikinstrument
- trans_en: 
+ trans_en: musical instrument
+-lexeme
+ lex: sazkar
+ stem: sazkar.
+ root: szkr
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Stimme (Musikinstrument) 
+ trans_en: sound (musical instrument)
 -lexeme
  lex: se/sə
  stem: se.//sə. 
@@ -33750,29 +33766,37 @@
  trans_de: bei
  trans_en: by
 -lexeme
- lex: sedare
- stem: sedare.
+ lex: se
+ stem: se.
+ root: s
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: drei
+ trans_en: three
+-lexeme
+ lex: sedare/sendare
+ stem: sedare.//sendare.
  root: sdr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: obere Schwelle, oberer Türstein
- trans_en: 
+ trans_en: upper threshold, upper door stone
 -lexeme
  lex: sedo
  stem: sedo.|sede.
  root: sd
  gramm: N,m
  paradigm: N2
- trans_de: Ackerfurche, etwa
- trans_en: 
+ trans_de: Ackerfurche, etwa 10 m
+ trans_en: furrow, about 10 m
 -lexeme
  lex: sefo
- stem: sefo.
+ stem: sefo.|sefe.
  root: sf
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schoß
- trans_en: 
+ trans_en: lap
 -lexeme
  lex: sefoqo/sifoqo
  stem: sefoqo.//sifoqo.|sefoqe.//sifoqe.
@@ -33782,13 +33806,29 @@
  trans_de: Teller, Schüssel, Geschirr, Gerät
  trans_en: plate, bowl, dishes, utensil
 -lexeme
+ lex: segave 
+ stem: segave.
+ root: sgv 
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Dreischrittspiel
+ trans_en: <?>
+-lexeme
+ lex: segesən
+ stem: segesən.
+ root: sgsn
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: dreimaliges Beackern
+ trans_en: triple cultivation
+-lexeme
  lex: segulike
  stem: segulike.
  root: sgl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Strohgabel, mit der geworfelt und aus der Tenne herausgefallenes Getreide zurückgeschüttet wird
- trans_en: 
+ trans_en: pitchfork, with which the winnowed grain dropped out of the threshing floor is returned
 -lexeme
  lex: sehraband/sehrabande
  stem: sehraband.//sehrabande.
@@ -33837,14 +33877,6 @@
  paradigm: N2
  trans_de: rot
  trans_en: red
--lexeme
- lex: sendare
- stem: sendare.
- root: sndr
- gramm: N,f
- paradigm: <?>
- trans_de: Oberschwelle
- trans_en: lintel
 -lexeme
  lex: sepəl
  stem: sepəl.
@@ -34349,6 +34381,14 @@
  paradigm: <?>
  trans_de: Bedrängnis
  trans_en: distress
+-lexeme
+ lex: səyomo/sayomo/siyomo
+ stem: səyomo.//sayomo.//siyomo.|sayome.
+ root: swm
+ gramm: N,m
+ paradigm: N2
+ trans_de: Macher, Hersteller
+ trans_en: maker, manufacturer
 -lexeme
  lex: sfeno
  stem: sfeno.|sfene.
