@@ -33450,17 +33450,17 @@
  stem: sarbazərgan.
  root: srbzrgn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Karawanenführer
- trans_en: 
+ trans_en: caravan leader
 -lexeme
  lex: sarčaq
  stem: sarčaq.
  root: srčq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: das über den Fettschwanz hinausragende Schwanzende
- trans_en: 
+ trans_en: tail end towering over the fat tail
 -lexeme
  lex: sarčəmma
  stem: sarčəmma.|sarčimayat.//sarčimawat.
@@ -33468,87 +33468,167 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schrot
- trans_en: 
+ trans_en: pellet
 -lexeme
  lex: sardane
  stem: sardane.
  root: srdn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Besuch
- trans_en: 
+ trans_en: visit
 -lexeme
- lex: sardəlk
- stem: sardəlk.
+ lex: sardəlk/sardəke
+ stem: sardəlk.//sardəke.
  root: srdlk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Stelle unter dem Herzen
- trans_en: 
+ trans_en: place under the heart
+-lexeme
+ lex: sare wa 
+ stem: sare wa.
+ root: srw
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: euer Haupt
+ trans_en: your head
+-lexeme
+ lex: sarešan
+ stem: sarešan. 
+ root: sršn
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Kopfschmerz
+ trans_en: headache
 -lexeme
  lex: sarezan
  stem: sarezan.
  root: srzn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kurdenhäuptling
- trans_en: 
+ trans_en: Kurdish chieftain
+-lexeme
+ lex: sargarm
+ stem: sargarm.
+ root: srgrm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: kopfwarm (Pferd)
+ trans_en: with a warm head (horse)
 -lexeme
  lex: sargo
  stem: sargo.
- root: srǧ
+ root: srǧ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sattel
- trans_en: 
+ trans_en: saddle
+-lexeme
+ lex: sargun
+ stem: sargun.
+ root: srgn
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: verbannt, Verbannung
+ trans_en: banished, exile
 -lexeme
  lex: sarhastif
  stem: sarhastif.
  root: srhstf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: giftige Schlange mit breitem, keilförmigem, beschupptem Kopf. Vipera lebatina
- trans_en: 
+ trans_en: poisonous snake with a broad, wedge-shaped head. Vipera lebetina
 -lexeme
  lex: sarhati
  stem: sarhati.
  root: srht
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Erlebnis
- trans_en: 
+ trans_en: experience
+-lexeme
+ lex: sarhilday/sarhildayi
+ stem: sarhilday.//sarhildayi.
+ root: srhldy
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: mit erhobenem Kopf (Pferd)
+ trans_en: with raised head (horse)
 -lexeme
  lex: sarmiyan
- stem: sarmiyan.
+ stem: sarmiyan.|sarmiyanin.
  root: srmyn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Führer einer Partei von Spielern
- trans_en: 
+ trans_en: leader of a player party
 -lexeme
  lex: sariġa
  stem: sariġa.
  root: sgr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tragsack für Getreide, Dung, Erde
- trans_en: 
+ trans_en: carrying bag for grain, dung, soil
+-lexeme
+ lex: sariya
+ stem: sariya.
+ root: sry
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: früh am Morgen 
+ trans_en: early in the morning
+-lexeme
+ lex: sar kun ṣohr
+ stem: sar kun ṣohr.
+ root: srknṣhr
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: sarqa 
+ stem: sarqa.
+ root: srq
+ gramm: <?>
+ paradigm: <?> 
+ trans_de: deinem Haupt zum Opfer (sagt man, wenn einem ein Kind gestorben ist)
+ trans_en: your head for sacrifice (one says, when a child has died)
 -lexeme
  lex: sarsari
  stem: sarsari.
  root: srsr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vagabund
- trans_en: 
+ trans_en: vagabond
 -lexeme
  lex: sarsedo
  stem: sarsedo.
  root: srsd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Anfang der Ackerfurche, wo der Pflüger umdreht
- trans_en: 
+ trans_en: beginning of the furrow where the plowman turns
+-lexeme
+ lex: sarṣohr
+ stem: sarṣohr.//sarṣohrat.
+ root: srṣhr
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: rotköpfig; pl rotköpfige Schafe
+ trans_en: red-headed; pl red-headed sheep
+-lexeme
+ lex: sart/sirt
+ stem: sart.//sirt. 
+ root: srt
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: energisch
+ trans_en: energetic
 -lexeme
  lex: sartulo
  stem: sartulo.|sartule.
@@ -33556,31 +33636,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Korb
- trans_en: 
+ trans_en: basket
 -lexeme
  lex: sarwanak
  stem: sarwanak.
  root: srwnk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hirtenjunge
- trans_en: 
+ trans_en: herd boy
 -lexeme
  lex: sarwo
  stem: sarwo.
  root: srw
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Dung
- trans_en: 
+ trans_en: dung
+-lexeme
+ lex: sarxoš/sarxwaš
+ stem: sarxoš.//sarxwaš.
+ root: srxw
+ gramm: ADJ
+ paradigm: <?> 
+ trans_de: betrunken, berauscht
+ trans_en: drunk, intoxicated
 -lexeme
  lex: saryo
  stem: saryo.
  root: sry
- gramm: N,m
- paradigm: N1
- trans_de: derlich, abscheulich, stinkend
- trans_en: 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: wiederlich, abscheulich, stinkend
+ trans_en: disgusting, abominable, stinking
 -lexeme
  lex: sato
  stem: sato.|sate.
@@ -33588,71 +33676,87 @@
  gramm: N,f
  paradigm: N2
  trans_de: Weinstock
- trans_en: 
+ trans_en: grapevine
 -lexeme
  lex: saṭər
  stem: saṭər.
  root: sṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hackmesser
- trans_en: 
+ trans_en: chopper
 -lexeme
  lex: saṭor
  stem: saṭor.
  root: sṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kurzes Schwert
- trans_en: 
+ trans_en: short sword
 -lexeme
  lex: saṯwo
- stem: saṯwo.
+ stem: saṯwo.|saṯwe.
  root: sṯw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Winter
- trans_en: 
+ trans_en: winter
+-lexeme
+ lex: sawdan
+ stem: sawdan
+ root: swdn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: nur in Verbindung mit ʕaqəl: im Verstand verwirrt 
+ trans_en: only in connection with ʕaqəl: confused in mind
+-lexeme
+ lex: sawdeni
+ stem: sawdeni.
+ root: swdn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: verstört durch Liebe
+ trans_en: disturbed by love
 -lexeme
  lex: sawgo
- stem: sawgo.
+ stem: sawgo.|sawge.
  root: swg
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Zaun, Gartenzaun
- trans_en: 
+ trans_en: fence, garden fence
 -lexeme
  lex: sawko
- stem: sawko.|sawkoe.//-oṯe.
+ stem: sawko.|sawke.//sawkoṯe.
  root: swb
  gramm: N,m
  paradigm: N2
- trans_de: a) Haar b) Gestrüpp von Steineichen pl -
- trans_en: 
+ trans_de: Haar; Gestrüpp von Steineichen pl -oṯe
+ trans_en: hair; holm oak thicket pl -oṯe
 -lexeme
  lex: sawwo
- stem: sawwo.
+ stem: sawwo.|sawwe.
  root: swb
  gramm: N,m
- paradigm: N1
- trans_de: Sl
- trans_en: 
+ paradigm: N2
+ trans_de: alt
+ trans_en: old
 -lexeme
  lex: sawal
- stem: sawal.
+ stem: sawal.|sawalat.
  root: swl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Vieh, Herde
- trans_en: 
+ trans_en: cattle, herd
 -lexeme
  lex: sawiʕo
- stem: sawiʕo.
+ stem: sawiʕo.|sawiʕe.
  root: sbʕ
  gramm: N,m
- paradigm: N1
- trans_de: wohlhabend Mi
- trans_en: 
+ paradigm: N2
+ trans_de: satt, wohlhabend
+ trans_en: fed, prosperous
 -lexeme
  lex: sawwəssi
  stem: sawwəssi.
