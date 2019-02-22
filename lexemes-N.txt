@@ -22839,7 +22839,7 @@
  trans_en: pitchfork for winnowing, made of wood
 -lexeme
  lex: madbax/maṭbax
- stem: madbax.//maṭbax.|madbaxe.//maṭbaxe.
+ stem: madbax.//maṭbax.|madbaxe.//maṭbaxe.//məṭebəʕ.
  root: ṭbx
  gramm: N,m
  paradigm: N2
@@ -24332,79 +24332,103 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Schlagwerkzeug, mit dem die Höllenengel, die Höllenbewohner bearbeiten
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: marziwo
- stem: marziwo.
+ stem: marziwo.|marziwe.
  root: mrzw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Dachrinne, Regenrohr; Wasserspeier
- trans_en: 
+ trans_en: rain gutter, rain pipe; gargoyle
+-lexeme
+ lex: masʔul
+ stem: masʔul.
+ root: sʔl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verantwortlich
+ trans_en: responsible
 -lexeme
  lex: masale
- stem: masale.|masa(y)əl.
+ stem: masale.|masayəl.
  root: sʔl
  gramm: N,f
  paradigm: N2
  trans_de: Sache; Angelegenheit; Problem; Frage, was los ist
- trans_en: 
+ trans_en: thing; matter; problem; question, what has happened
 -lexeme
- lex: masbaḥa
- stem: masbaḥa.
- root: sbḥ
- gramm: N,f
- paradigm: N1
- trans_de: a) Rosenkranz b) kreisförmiges Gerät mit Stiel, mit Glöckchen, gebraucht beim Hochheben der Monstranz
- trans_en: 
+ lex: masala/masalan
+ stem: masala.//masalan.
+ root: msl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: zum Beispiel
+ trans_en: for example
 -lexeme
  lex: maske
- stem: maske.
+ stem: maske.|maskat.
  root: msk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stelle zum Festhalten
- trans_en: 
+ trans_en: place to be held
 -lexeme
- lex: maskeno
- stem: maskeno.
+ lex: maskeno/məskeno
+ stem: maskeno.//məskeno.|maskene.//məskene.
  root: mskn
  gramm: N,m
- paradigm: N1
- trans_de: bedauernswert Sl
- trans_en: 
+ paradigm: N2
+ trans_de: arm, bedauernswert
+ trans_en: poor, miserable
+-lexeme
+ lex: maskin
+ stem: maskin.
+ root: mskn
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: der Arme!
+ trans_en: <?>
 -lexeme
  lex: massile
- stem: massile.
+ stem: massile.|massilat.
  root: msl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: nicht zu tiefes Tal zwischen zwei Bergen
- trans_en: 
--lexeme
- lex: masto
- stem: masto.
- root: mst
- gramm: N,f
- paradigm: N1
- trans_de: Joghurt
- trans_en: 
+ trans_en: not very deep valley between two mountains
 -lexeme
  lex: maṣa
- stem: maṣa.
+ stem: maṣa.|maṣat.
  root: mṣ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tisch
- trans_en: 
+ trans_en: table
 -lexeme
  lex: maṣafa/maṣafe
- stem: maṣafa/maṣafe.|maṣafa.//maṣafat.
+ stem: maṣafa.//maṣafe.|maṣafat.
  root: mṣf/mṣf
  gramm: N,f
  paradigm: N2
  trans_de: Entfernung, Wegstrecke, Abstand
- trans_en: 
+ trans_en: distance, stretch of way
+-lexeme
+ lex: maṣarəf
+ stem: maṣarəf.
+ root: ṣrf
+ gramm: N
+ paradigm: <?>
+ trans_de: Ausgaben
+ trans_en: tasks
+-lexeme
+ lex: maṣarif
+ stem: maṣarif.
+ root: ṣrf
+ gramm: N
+ paradigm: <?>
+ trans_de: Geld zum Ausgeben, Barmittel, Ausgaben
+ trans_en: money for spending, cash, expenses
 -lexeme
  lex: maṣlaḥa
  stem: maṣlaḥa.|maṣlaḥat.
@@ -24412,71 +24436,127 @@
  gramm: N,f
  paradigm: N2
  trans_de: Betrieb (landwirtschaftlicher)
- trans_en: 
+ trans_en: operation, business, firm
 -lexeme
  lex: maṣoke
- stem: maṣoke.
+ stem: maṣoke.|maṣokat.
  root: mṣk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Tee- und Milchsieb
- trans_en: 
+ trans_en: strainer for tea and milk
+-lexeme
+ lex: maṣqara
+ stem: maṣqara.
+ root: mṣqr
+ gramm: N
+ paradigm: <?>
+ trans_de: jemand, über den man sich lustig macht
+ trans_en: someone at whom people laugh
+-lexeme
+ lex: maṣraf
+ stem: maṣraf.|maṣrafe.
+ root: ṣrf
+ gramm: N,m
+ paradigm: N2
+ trans_de: Ausgabe, Reisegeld
+ trans_en: expenses, travel money
+-lexeme
+ lex: maṣraf
+ stem: maṣraf.
+ root: ṣrf
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Ausguss. In einer Zimmerecke macht man einen Ausguss mit erhöhten Rändern, durch den man Wasser hinausgießen kann. Das Wasser gießt man sich mit einem Kännchen auf die Hände
+ trans_en: sink. In a room's corner people make a sink with elevated edges through which water can flow out. The water one pours on hands with a small pot.
 -lexeme
  lex: maṣtara
  stem: maṣtara.
  root: mṣtr
  gramm: N,f
- paradigm: N1
- trans_de: a) Muster, Probe b) Obdach
- trans_en: 
+ paradigm: <?>
+ trans_de: Muster, Probe
+ trans_en: sample, prototype; probe
+-lexeme
+ lex: maṣtara
+ stem: maṣtara.
+ root: ṣtr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Obdach
+ trans_en: shelter
 -lexeme
  lex: maṣyaf
  stem: maṣyaf.
  root: ṣyf
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sommerfrische
- trans_en: 
+ trans_en: summer resort
+-lexeme
+ lex: maš
+ stem: maš.
+ root: mš
+ gramm: N
+ paradigm: <?>
+ trans_de: Gang, Gangart
+ trans_en: <?>
+-lexeme
+ lex: mašakəl
+ stem: mašakəl.
+ root: škl
+ gramm: N
+ paradigm: <?>
+ trans_de: Tücken (z. B. der Weiber)
+ trans_en: ruses (e.g. of women)
 -lexeme
  lex: maše
- stem: maše.
+ stem: maše.|mašat.
  root: mš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Feuerzange
- trans_en: 
+ trans_en: fire tongs
+-lexeme
+ lex: mašhur
+ stem: mašhur.
+ root: šhr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: berühmt
+ trans_en: famous
 -lexeme
  lex: maške
- stem: maške.
+ stem: maške.|maškat.
  root: mšk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: Feuerzängchen
- trans_en: 
+ trans_en: small fire tongs
 -lexeme
  lex: mašiġoniṯo
  stem: mašiġoniṯo.
  root: šwg
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Waschfrau
- trans_en: 
+ trans_en: laundress
 -lexeme
  lex: maširono
- stem: maširono.
+ stem: maširono.|maširone.
  root: šwr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ratgeber
- trans_en: 
+ trans_en: advisor
 -lexeme
  lex: mašmaʕa
  stem: mašmaʕa.
  root: šmʕ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Linoleum
- trans_en: 
+ trans_en: linoleum
 -lexeme
  lex: mašmaʕdan
  stem: mašmaʕdan.
@@ -24484,63 +24564,71 @@
  gramm: N,m
  paradigm: N1
  trans_de: Leuchter
- trans_en: 
+ trans_en: candlestick
 -lexeme
  lex: mašnaqa
- stem: mašnaqa.
+ stem: mašnaqa.|mašnaqat.
  root: šnq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Galgen
- trans_en: 
+ trans_en: gallows
 -lexeme
  lex: mašono
  stem: mašono.
  root: mšn
  gramm: N,m
  paradigm: N1
- trans_de: Deichsel des Pfluges, mit der Birke durch einen Nietring verbunden, hat am Ende ein Loch, durch welches die
- trans_en: 
+ trans_de: Deichsel des Pfluges, mit der Birke durch einen Nietring verbunden, hat am Ende ein Loch, durch welches die qaṭriye geht. Der Mittelteil des Joches, bipso, wird über die Deichsel geschoben und dann mit der qaṭriye festgemacht
+ trans_en: <?>
 -lexeme
  lex: mašot
  stem: mašot.
  root: mšt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Insekt, das noch feuchte Kichererbsen anfrisst (wahrscheinlich Larve eines Käfers)
- trans_en: 
+ trans_en: insect which eats only wet chickpeas (apparently larva of a beetle)
 -lexeme
  lex: mašq
  stem: mašq.
  root: mšq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schriftzeile
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: mašqiyo
  stem: mašqiyo.
  root: šqy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Getränk
- trans_en: 
+ trans_en: drink
 -lexeme
  lex: mašruqo
  stem: mašruqo.
  root: mšrq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hirtenflöte
- trans_en: 
+ trans_en: pipe
+-lexeme
+ lex: maštyo
+ stem: maštyo.
+ root: šty
+ gramm: N,m
+ paradidgm: <?>
+ trans_de: Getränk
+ trans_en: drink
 -lexeme
  lex: mašṭuḥo
  stem: mašṭuḥo.
  root: šṭḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: zum Trocknen auf einem Platz nebeneinander gelegte Trauben, aus denen Rosinen gemacht werden
- trans_en: 
+ trans_en: grapes from which raisins are made placed close to each other in one place for drying
 -lexeme
  lex: mašwara
  stem: mašwara.|mašwarat.
@@ -24548,15 +24636,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Rat
- trans_en: 
+ trans_en: advice
 -lexeme
  lex: maṭʕam
  stem: maṭʕam.
  root: ṭʕm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Speisehaus
- trans_en: 
+ trans_en: eating house
 -lexeme
  lex: maṭʕənono
  stem: maṭʕənono.|maṭʕənone.
@@ -24564,23 +24652,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Lastträger
- trans_en: 
+ trans_en: loader
 -lexeme
- lex: maṭbax
- stem: maṭbax.|məṭebəʕ.
- root: ṭbx
+ lex: maṭlaq
+ stem: maṭlaq.
+ root: ṭlq
  gramm: N,m
- paradigm: N2
- trans_de: Küche
- trans_en: 
+ paradigm: <?>
+ trans_de: Zauberkraft
+ trans_en: magic power
+-lexeme
+ lex: maṭlub
+ stem: maṭlub.
+ root: ṭlb
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Verlangtes
+ trans_en: what is required
 -lexeme
  lex: maṭro
- stem: maṭro.
+ stem: maṭro.|maṭrone.
  root: mṭr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Regen
- trans_en: 
+ trans_en: rain
 -lexeme
  lex: maṯlo
  stem: maṯlo.|maṯle.
@@ -24588,7 +24684,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sprichwort, Beispiel
- trans_en: 
+ trans_en: proverb; example
 -lexeme
  lex: maṯqab
  stem: maṯqab.|məṯeqəb.
@@ -24596,63 +24692,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bohrer
- trans_en: 
+ trans_en: auger, borer
 -lexeme
- lex: mawǧiye
- stem: mawǧiye.
- root: mwǧ
- gramm: N,m
- paradigm: N1
- trans_de: Wellenschalter am Radioapparat
- trans_en: 
+ lex: mawǧud
+ stem: mawǧud.
+ root: wǧd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: vorhanden
+ trans_en: present
 -lexeme
  lex: mawḏuʕ
  stem: mawḏuʕ.
  root: mwḏʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: der Gegenstand, um den es sich handelt
- trans_en: 
+ trans_en: object which is the topic of a conversation
 -lexeme
  lex: mawhabṯo
- stem: mawhabṯo.
+ stem: mawhabṯo.|mawhabyoṯe.//mawhabyoṯo.
  root: whb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gabe, Geschenk
- trans_en: 
+ trans_en: gift, present
 -lexeme
  lex: mawlodo
  stem: mawlodo.
  root: yld
  gramm: N,m
- paradigm: N1
- trans_de: a) Gebären b) Weihnachten
- trans_en: 
+ paradigm: <?>
+ trans_de: Gebären
+ trans_en: birth
 -lexeme
- lex: mawqaʕ
- stem: mawqaʕ.|mawqaʕe.
- root: wqʕ
- gramm: N,m
- paradigm: N2
- trans_de: Örtlichkeiten, die etwa in der Nachbarschaft eines Ortes liegen
- trans_en: 
--lexeme
- lex: mawqəʕ
- stem: mawqəʕ.|mweqəʕ.
+ lex: mawqaʕ/mawqəʕ
+ stem: mawqaʕ.//mawqəʕ.|mawqaʕe.//mweqəʕ.
  root: wqʕ
  gramm: N,m
  paradigm: N2
  trans_de: Ort
- trans_en: 
+ trans_en: place
 -lexeme
  lex: mawqo
  stem: mawqo.
  root: mwq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Eiter; Beule
- trans_en: 
+ trans_en: pus; dent
 -lexeme
  lex: mawquʕ
  stem: mawquʕ.
