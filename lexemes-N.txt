@@ -46098,7 +46098,7 @@
  stem: žabaš.|žabaš.
  root: žbš
  gramm: N,f
- paradigm: N2
+ paradigm: unchangeable
  trans_de: Wassermelone
  trans_en: Watermelons
 -lexeme
