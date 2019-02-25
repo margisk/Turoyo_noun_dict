@@ -45193,7 +45193,7 @@
  lex: zangin
  stem: zangin.|zanegin.//zanginat.
  root: zngn
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: reich
  trans_en: rich
