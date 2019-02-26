@@ -46166,13 +46166,13 @@
  trans_de: um ... willen, für
  trans_en: for the sake of, for
 -lexeme
- lex: žboyi d-
- stem: žboyi d-.
- root: <?>
- gramm: <?>
- paradigm: <?>
- trans_de: <?>
- trans_en: <?>
+ lex: žboyi d/žboy d
+ stem: žboyi d.//žboy d.
+ root: žby
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: wegen jemandem, um einer willen
+ trans_en: because of someone, for one`s sake
 -lexeme
  lex: ždamda
  stem: ždamda.
