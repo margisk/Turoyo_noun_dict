@@ -46206,11 +46206,11 @@
  trans_de: Stiefmutter
  trans_en: stepmother
 -lexeme
- lex: žənəke
- stem: žənəke.
+ lex: žənəke/žənnəke/žənke
+ stem: žənəke.//žənnəke.//žənke.
  root: žnk
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Frau
  trans_en: woman
 -lexeme
