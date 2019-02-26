@@ -45927,10 +45927,10 @@
  trans_en: violence
 -lexeme
  lex: zoriye
- stem: zoriye.
+ stem: zoriye.|zoriyat.
  root: zry
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Gewalt, Gewaltherrschaft
  trans_en: violence, tyranny
 -lexeme
