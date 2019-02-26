@@ -45023,10 +45023,10 @@
  trans_en: saffron; that which the poisoned person vomits
 -lexeme
  lex: zaḥme
- stem: zaḥme.
+ stem: zaḥme.|zaḥmat.
  root: zḥm
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Mühe, Schwierigkeit
  trans_en: trouble, difficulty
 -lexeme
