@@ -22630,8 +22630,8 @@
  trans_de: Gesichtsausdruck, Laune
  trans_en: facial expression, mood
 -lexeme
- lex: maʕda
- stem: maʕda.
+ lex: maʕda/məʕde
+ stem: maʕda.//məʕde.
  root: mʕd
  gramm: N,f
  paradigm: <?>
@@ -22895,7 +22895,7 @@
  trans_en: indebted
 -lexeme
  lex: maḏ̣baṭa
- stem: maḏ̣baṭa.//maḏbaṭa.|maḏ̣baṭat.//maḏbaṭat.
+ stem: maḏ̣baṭa.//maḏbaṭa.//mazbaṭa.//mazbaṭiye.|maḏ̣baṭat.//maḏbaṭat.//mazbaṭat.
  root: ḍbṭ
  gramm: N,f
  paradigm: N2
@@ -22999,7 +22999,7 @@
  trans_en: taler, piastre
 -lexeme
  lex: maǧləs/məǧləs
- stem: maǧləs.//məǧləs.
+ stem: maǧləs.//məǧləs.|məǧeləs.
  root: ǧls
  gramm: N,m
  paradigm: unchangeable
@@ -23086,8 +23086,8 @@
  trans_de: Geber
  trans_en: donor
 -lexeme
- lex: mahuzar
- stem: mahuzar.|mahuzarat.
+ lex: mahuzar/mawzar
+ stem: mahuzar.//mawzar.|mahuzarat.//mawzarat.
  root: mhzr
  gramm: N,m
  paradigm: N2
@@ -24746,17 +24746,25 @@
  stem: mawquʕ.
  root: wqʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Heimat, Wohnsitz
- trans_en: 
+ trans_en: homeland, place of living
 -lexeme
  lex: mawto
- stem: mawto.
+ stem: mawto.|mawtone.
  root: mwt
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Tod
- trans_en: 
+ trans_en: death
+-lexeme
+ lex: mawzi
+ stem: mawzi.
+ root: mwz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: maxmar
  stem: maxmar.|maxmare.//maxemər.
@@ -24764,31 +24772,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: hölzernes Gefäss zum Aufweichen von hartem Joghurt
- trans_en: 
+ trans_en: wooden vessel for softening firm yoghurt
+-lexeme 
+ lex: maxrabo/xabo/malxarabo
+ stem: maxrabo.//malxarabo.//xabo.
+ root: mlxrb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: dessen Haus zerstört sei! Mein Lieber
+ trans_en: whose house may be ruined! My dear!
 -lexeme
  lex: maxraǧ
- stem: maxraǧ.
+ stem: maxraǧ.|maxraǧin.
  root: xrǧ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Ausgang, After
- trans_en: 
+ trans_en: way out, exit; anus
 -lexeme
- lex: maxraz
- stem: maxraz.|maxeriz.
+ lex: maxraz/maġraz
+ stem: maxraz.//maġraz.|maxerəz.
  root: xrz
  gramm: N,m
  paradigm: N2
- trans_de: maxeriz Sicherheitsnadel nicht
- trans_en: 
+ trans_de: Sicherheitsnadel
+ trans_en: safety pin
 -lexeme
  lex: maxrəfo
- stem: maxrəfo.
+ stem: maxrəfo.|maxrəfe.
  root: xrf
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: N2
+ trans_de: altersschwach, kindisch
+ trans_en: decrepit; childish, infantile
+-lexeme
+ lex: maxṣuṣ
+ stem: maxṣuṣ.
+ root: xṣṣ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: absichtlich
+ trans_en: deliberate, intentional
 -lexeme
  lex: maxtuwo
  stem: maxtuwo.
@@ -24796,7 +24820,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Pfriem, Sattlerahle
- trans_en: 
+ trans_en: awl, <?>
 -lexeme
  lex: maxzan
  stem: maxzan.|məxezən.
@@ -24804,23 +24828,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Depot
- trans_en: 
+ trans_en: depot, ambar
 -lexeme
  lex: mayde
- stem: mayde.
+ stem: mayde.|maydat.
  root: myd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hackbrett
- trans_en: 
+ trans_en: chopping board
 -lexeme
  lex: maydo
  stem: maydo.
  root: myd
  gramm: N,m
- paradigm: N1
- trans_de: a) Kampfplatz, Walstatt; Platz b) unterhalb der Kelterplatte befindliche Grube, in die der ausgepresste Most hineinfließt
- trans_en: 
+ paradigm: <?>
+ trans_de: Kampfplatz, Walstatt; Platz; Möglichkeit; unterhalb der Kelterplatte befindliche Grube, in die der ausgepresste Most hineinfließt
+ trans_en: battle ground; place; possibility; a pit under a vinepress dish in which the pressed-out juice flows
+-lexeme
+ lex: maye
+ stem: maye.
+ root: my
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Wasser
+ trans_en: water
 -lexeme
  lex: mayine
  stem: mayine.|mayinat.
@@ -24828,23 +24860,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Mine, Bombe
- trans_en: 
+ trans_en: mine, bomb
 -lexeme
  lex: mayle
  stem: mayle.
  root: myl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ende des Joches, zwei Hölzer, die links und rechts vom Halse des Zugochsen heruntergehen
- trans_en: 
+ trans_en: end of a yoke, two pieces of wood,  which go downwards to the left and to the right of the neck of a draught ox
 -lexeme
  lex: mayliye
  stem: mayliye.
  root: myl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bevorzugung, Parteilichkeit
- trans_en: 
+ trans_en: preference, partiality
 -lexeme
  lex: maymun
  stem: maymun.|maymunat.
@@ -24852,71 +24884,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Affe
- trans_en: 
+ trans_en: ape
 -lexeme
  lex: mayono
- stem: mayono.
+ stem: mayono.|mayone.
  root: mwh
  gramm: N,m
- paradigm: N1
- trans_de: Komp.
- trans_en: 
+ paradigm: N2
+ trans_de: flüssig
+ trans_en: fluid, liquid
 -lexeme
  lex: mayus
  stem: mayus.|mayusin.
  root: yʔs
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: verzweifelt
+ trans_en: desperate
 -lexeme
  lex: maza
  stem: maza.
  root: mz
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zugebröte
- trans_en: 
+ trans_en: <?>
 -lexeme
- lex: mazad
- stem: mazad.
+ lex: mazad/mazyad
+ stem: mazad.//mazyad.
  root: zyd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Versteigerung
- trans_en: 
+ trans_en: auction
+-lexeme
+ lex: mazal
+ stem: mazal.
+ root: mzl
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: nachdem, da (begründend)
+ trans_en: afterwards; because
 -lexeme
  lex: mazalle
- stem: mazalle.
+ stem: mazalle.|mazallat.
  root: mzl
  gramm: N,f
- paradigm: N1
- trans_de: Zimmer nicht
- trans_en: 
+ paradigm: N2
+ trans_de: Zimmer
+ trans_en: room
 -lexeme
- lex: mazbaṭa
- stem: mazbaṭa.
- root: ḍbṭ
- gramm: N,f
- paradigm: N1
- trans_de: Urkunde mit mehreren Unterschriften
- trans_en: 
+ lex: mazbuṭ
+ stem: mazbuṭ.
+ root: zbṭ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: in Ordnung
+ trans_en: in order
 -lexeme
- lex: mazbaṭiye
- stem: mazbaṭiye.
- root: ḍbṭ
- gramm: N,f
- paradigm: N1
- trans_de: Urkunde mit mehreren Unterschriften
- trans_en: 
+ lex: mazruqe
+ stem: mazruqe.
+ root: zrq
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Urin
+ trans_en: urine
+-lexeme
+ lex: maxana/maxna
+ stem: maxana.//maxna.
+ root: mxn
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa?
+ trans_en: <?>
 -lexeme
  lex: maxluq
  stem: maxluq.
  root: xlq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geschöpf
- trans_en: 
+ trans_en: creature
 -lexeme
  lex: mazmuro
  stem: mazmuro.|mazmure.
@@ -24924,175 +24972,231 @@
  gramm: N,m
  paradigm: N2
  trans_de: geistliche Lieder, die von Schulkindern gesungen werden
- trans_en: 
+ trans_en: spiritual hymns which are sung by schoolchildren
 -lexeme
- lex: merəko
- stem: merəko.
+ lex: merəko/merək/merko
+ stem: merəko.//merək.//merko.|merəkin.//merkin.
  root: mrk
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mann, Kerl
- trans_en: 
--lexeme
- lex: mazyad
- stem: mazyad.
- root: zyd
- gramm: N,m
- paradigm: N1
- trans_de: Versteigerung
- trans_en: 
+ trans_en: man, young man
 -lexeme
  lex: mbašbšo
- stem: mbašbšo.
+ stem: mbašbšo.|mbašbše.
  root: bšš
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: mit fröhlichem Gesicht, sympathisch
- trans_en: 
+ trans_en: with happy face, handsome
 -lexeme
  lex: mbašrono
- stem: mbašrono.
+ stem: mbašrono.|mbašrone.
  root: bšr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Evangelist
- trans_en: 
+ trans_en: evangelist
 -lexeme
  lex: mbayġono
  stem: mbayġono.|mbayġone.
  root: mbyġn
  gramm: N,m
  paradigm: N2
- trans_de: Stiefelputzer pl
- trans_en: 
+ trans_de: Stiefelputzer
+ trans_en: cleaner of boots
+-lexeme
+ lex: mbayyən
+ stem: mbayyən.
+ root: byn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sichtbar, leicht erkenntlich
+ trans_en: visible, easily recognizable
 -lexeme
  lex: mčakčak
  stem: mčakčak.
  root: mčkčk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Spitze, Randkrause eines Kleides
- trans_en: 
+ trans_en: tip, ruff of a dress
 -lexeme
  lex: mčaplo
  stem: mčaplo.|mčaple.
  root: mčpl
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Wasser), durch von außen hineingebrachte Dinge
- trans_en: 
+ trans_de: verschmutz (Wasser), durch von außen hineingebrachte Dinge
+ trans_en: dirty (water)
 -lexeme
  lex: mdabronuṯo
  stem: mdabronuṯo.
  root: dbr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Anordnung, Leitung, Verwaltung
- trans_en: 
+ trans_en: arrangement, management, government
 -lexeme
- lex: mdafaʕa
- stem: mdafaʕa.
+ lex: mdafaʕa/məddafa
+ stem: mdafaʕa.//məddafa.
  root: dfʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verteidigung vor Gericht
- trans_en: 
+ trans_en: defense in court
 -lexeme
  lex: mdaglono
- stem: mdaglono.
+ stem: mdaglono.|mdaglone.
  root: dgl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Lügner
- trans_en: 
+ trans_en: liar
+-lexeme
+ lex: mdallo
+ stem: mdallo.|mdalle.
+ root: dll
+ gramm: ADJ
+ paradigm: N2
+ trans_de: verwöhnt
+ trans_en: spoilt
 -lexeme
  lex: mdamšo
- stem: mdamšo.
+ stem: mdamšo.|mdamše.
  root: mdmš
+ gramm: ADJ
+ paradigm: N2
+ trans_de: klebrig
+ trans_en: sticky
+-lexeme
+ lex: mdawro
+ stem: mdawro.|mdawre.
+ root: dwr
+ gramm: ADJ
+ paradigm: N2 
+ trans_de: rund (umgebend)
+ trans_en: round (encompassing)
+-lexeme
+ lex: me
+ stem: me.
+ root: m
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Weibchen (von Vögeln)
+ trans_en: female (birds)
+-lexeme
+ lex: mede
+ stem: mede.|mədone.//medone.
+ root: md
  gramm: N,m
- paradigm: N1
- trans_de: klebrig Sl
- trans_en: 
+ paradigm: N2
+ trans_de: etwas; in neg. Sätzen: nichts
+ trans_en: something; in neg. sentences: nothing
+-lexeme
+ lex: medonkat
+ stem: medonkat.
+ root: md
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: kleine Dinge
+ trans_en: small things
 -lexeme
  lex: meḥo
- stem: meḥo.
+ stem: meḥo.|meḥe.
  root: mḥ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gehirn, Verstand
- trans_en: 
+ trans_en: brain, mind
 -lexeme
  lex: mekanəsyan
  stem: mekanəsyan.
  root: mknsyn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Mechaniker
- trans_en: 
+ trans_en: mechanic
 -lexeme
  lex: meke
  stem: meke.
  root: mk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: unchangeable
  trans_de: Diminutiv von me - Weibchen
- trans_en: 
+ trans_en: diminuitive from me — female
 -lexeme
- lex: merək/merəko/merko
- stem: merək/merəko/merko.|merək.//merəko.//merkoin.
- root: mrk/mrk/mrk
- gramm: N,m
- paradigm: N2
- trans_de: a) Mann b) Satan
- trans_en: 
+ lex: meqəm
+ stem: meqəm.
+ root: qdm
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: früher
+ trans_en: earlier
+-lexeme
+ lex: meqəm
+ stem: meqəm.
+ root: qdm
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: vor (zeitlich)
+ trans_en: before (temporal)
+-lexeme
+ lex: mešən
+ stem: mešən.
+ root: mšn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Schafe (coll.)
+ trans_en: sheeps
 -lexeme
  lex: meške
- stem: meške.
+ stem: meške.|meškat.
  root: mšk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schmeissfliege
- trans_en: 
+ trans_en: blowfly
 -lexeme
- lex: məʕayana
- stem: məʕayana.
+ lex: mə/mən
+ stem: mə.//mən.
+ root: mn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: was?
+ trans_en: what?
+-lexeme
+ lex: məʕayana/mʕayona
+ stem: məʕayana.//mʕayona.
  root: ʕyn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: ärztliche Untersuchung
- trans_en: 
--lexeme
- lex: məʕde
- stem: məʕde.
- root: mʕd
- gramm: N,f
- paradigm: N1
- trans_de: Magen
- trans_en: 
+ trans_en: medical examination
 -lexeme
  lex: məʕin
  stem: məʕin.
  root: mʕn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schlamm nach starkem Regen
- trans_en: 
+ trans_en: dirt after strong rain
 -lexeme
  lex: məʕmoke
- stem: məʕmoke.
+ stem: məʕmoke.|məʕmokat.
  root: mʕm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gallapfel
- trans_en: 
+ trans_en: oak apple
 -lexeme
- lex: məʕne
- stem: məʕne.
- root: mʕn
- gramm: N,f
- paradigm: N1
- trans_de: Sinn, Bedeutung
- trans_en: 
+ lex: məʕwoṯe
+ stem: məʕwoṯe.
+ root: mʕy
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Eingeweide
+ trans_en: intestines, bowels
 -lexeme
  lex: mədʕo
  stem: mədʕo.|mədʕe.
@@ -25100,135 +25204,135 @@
  gramm: N,m
  paradigm: N2
  trans_de: künstliches Ei, Nestei
- trans_en: 
--lexeme
- lex: məddafa
- stem: məddafa.
- root: dfʕ
- gramm: N,f
- paradigm: N1
- trans_de: Verteidigung vor Gericht
- trans_en: 
+ trans_en: artificial egg, egg in a nest
 -lexeme
  lex: mədda/mədde
- stem: mədda/mədde.
+ stem: mədda.//mədde.|məddat.
  root: mdd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Zeitspanne, Strecke
- trans_en: 
+ trans_en: timespan, time interval
 -lexeme
  lex: məddəlʕumum
  stem: məddəlʕumum.
  root: dʕw
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Staatsanwalt
- trans_en: 
+ trans_en: prosecutor
 -lexeme
- lex: mədwoyo
- stem: mədwoyo.|sl·mi.
- root: mdwy
- gramm: N,m
+ lex: mədhiš
+ stem: mədhiš.
+ root: dhš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: entsetzlich, furchtbar
+ trans_en: horrible, awful, dreadful
+-lexeme
+ lex: mədwoyo/mədhoyo
+ stem: mədwoyo.//mədhoyo.|mədwoye.//mədhoye.
+ root: mdw/mdh
+ gramm: ADJ
  paradigm: N2
- trans_de: Mann aus Midin (sagt man in Midin selbst) pl
- trans_en: 
+ trans_de: Mann aus Midin (sagt man in Midin selbst)
+ trans_en: person from Midən
 -lexeme
  lex: məḏnəb
  stem: məḏnəb.
  root: ḏnb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sünder
- trans_en: 
+ trans_en: sinner
 -lexeme
  lex: məḏyoyo
- stem: məḏyoyo.
+ stem: məḏyoyo.|məḏyoye.
  root: mḏy
  gramm: N,m
- paradigm: N1
- trans_de: Mann aus
- trans_en: 
+ paradigm: N2
+ trans_de: Mann aus Miḏyad
+ trans_en: person from Midyat
 -lexeme
- lex: məḍḍara
- stem: məḍḍara.
+ lex: məḏ̣ḏ̣ara/məḏḏara
+ stem: məḏ̣ḏ̣ara.//məḏḏara.|məḏ̣ḏ̣arat.//məḏḏarat.
  root: mḍr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gastzimmer, großes Zimmer
- trans_en: 
+ trans_en: living room, big room
+-lexeme
+ lex: məfləs/mufləs
+ stem: məfləs.//mufləs.
+ root: fls
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bankrott
+ trans_en: bankrupt
 -lexeme
  lex: məfrəq
  stem: məfrəq.
  root: mfrq
  gramm: N,m
- paradigm: N1
- trans_de: eines, hartes Eisen
- trans_en: 
+ paradigm: unchangeable
+ trans_de: reines, hartes Eisen
+ trans_en: clean hard iron
 -lexeme
  lex: məfsəd
  stem: məfsəd.
  root: fsd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Aufwiegler, Zwietracht stiftend
- trans_en: 
+ trans_en: instigator, sowing dissention
 -lexeme
- lex: məǧal
- stem: məǧal.
+ lex: məǧal/maǧal/mǧal
+ stem: məǧal.//maǧal.//mǧal.
  root: ǧwl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kraft, Möglichkeit zum Widerstand, etwas zu tun
- trans_en: 
+ trans_en: power, ability to resist, to do something
 -lexeme
  lex: məǧbiye
  stem: məǧbiye.
  root: ǧby
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: gemeinsame Kollekte für jemanden, dem ein Unglück zugestoßen ist
- trans_en: 
--lexeme
- lex: məǧləs
- stem: məǧləs.|məǧeləs.
- root: ǧls
- gramm: N,m
- paradigm: N2
- trans_de: micelis Ratsversammlung
- trans_en: 
+ trans_en: collective <...> for someone to whom something bad has happened
 -lexeme
  lex: məġar
  stem: məġar.
  root: mġr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Höhle
- trans_en: 
+ trans_en: cave
 -lexeme
- lex: məharṯo
- stem: məharṯo.
- root: mhrṯ
+ lex: məharṯo/moharṯo/mharṯo
+ stem: məharṯo.//moharṯo.//mharṯo.|məhəryoṯo.//məhəryoṯe.//mohəryoṯe.
+ root: mhr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: weibliches Fohlen
- trans_en: 
+ trans_en: she-foal
 -lexeme
  lex: məhǧar
  stem: məhǧar.
  root: mhǧr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zustand
- trans_en: 
+ trans_en: state
 -lexeme
  lex: məhər
  stem: məhər.
  root: mhr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Siegel
- trans_en: 
+ trans_en: seal
 -lexeme
  lex: məhla
  stem: məhla.
