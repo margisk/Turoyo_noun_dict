@@ -44839,7 +44839,7 @@
  trans_en: today
 -lexeme
  lex: yawmo
- stem: yawmo.|yawme.//yawmoṯe.
+ stem: yawmo.|yawme.//yawmoṯe.//yawmani.
  root: ywm
  gramm: N,m
  paradigm: N2
