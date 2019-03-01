@@ -44006,8 +44006,8 @@
  trans_de: Chorbischof
  trans_en: Chorbischop
 -lexeme
- lex: xort
- stem: xort.|xortan.
+ lex: xort/xortano
+ stem: xort.//xortano.|xortin.//xortan.
  root: xrt
  gramm: N,m
  paradigm: N2
