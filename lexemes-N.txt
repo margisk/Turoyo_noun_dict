@@ -42934,6 +42934,14 @@
  trans_de: Wesirrat, Wesire
  trans_en: vizierat, viziers
 -lexeme
+ lex: waziro/wuzara
+ stem: waziro.//wuzara.|wazire.//wizara.
+ root: wzr
+ gramm: N,m
+ paradigm: N2
+ trans_de: Wesir
+ trans_en: vizier
+-lexeme
  lex: waziye/wazʕiye
  stem: waziye.//wazʕiye.
  root: wzy
@@ -43125,14 +43133,6 @@
  paradigm: unchangeable
  trans_de: Zudringlichkeit
  trans_en: impertinence
--lexeme
- lex: wuzara
- stem: wuzara.|wizara.
- root: wzr
- gramm: N,m
- paradigm: N2
- trans_de: Wesir
- trans_en: vizier
 -lexeme
  lex: x
  stem: x.
