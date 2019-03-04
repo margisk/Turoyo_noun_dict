@@ -41318,6 +41318,14 @@
  trans_de: Geräusch des Hämmerns
  trans_en: hammering sound
 -lexeme
+ lex: ṭaraf
+ stem: ṭaraf.
+ root: ṭrf
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Seite
+ trans_en: side
+-lexeme
  lex: ṭarfo
  stem: ṭarfo.|ṭarfone.//ṭarfe.
  root: ṭrf
