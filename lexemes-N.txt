@@ -41177,8 +41177,8 @@
  lex: ṭalane
  stem: ṭalane.
  root: ṭln
- gramm: <?>
- paradigm: <?> 
+ gramm: N,f
+ paradigm: unchangeable 
  trans_de: dichter Haarschopf
  trans_en: thick hair
 -lexeme
