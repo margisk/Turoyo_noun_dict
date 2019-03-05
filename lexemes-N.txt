@@ -23126,11 +23126,11 @@
  trans_de: Stadtviertel, Dorfviertel
  trans_en: city quarter, village quarter
 -lexeme
- lex: maḥas/məḥas
- stem: maḥas.//məḥas.
+ lex: maḥas
+ stem: maḥas.
  root: mḥs
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Striegel
  trans_en: curry-comb
 -lexeme
@@ -23150,8 +23150,8 @@
  trans_de: <?>
  trans_en: <?>
 -lexeme
- lex: maḥǧet/məḥčet
- stem: maḥǧet.//məḥčet.
+ lex: maḥǧet
+ stem: maḥǧet.
  root: ḥwǧ
  gramm: ADJ
  paradigm: unchangeable
@@ -23478,8 +23478,8 @@
  trans_de: begütert, reich
  trans_en: prosperous, rich
 -lexeme
- lex: malfono/məlfono
- stem: malfono.//məlfono.|malfone.//məlfone.
+ lex: malfono
+ stem: malfono.|malfone.
  root: ylf
  gramm: N,m
  paradigm: N2
@@ -23838,8 +23838,8 @@
  trans_de: Sprache, Art zu reden, Redegabe
  trans_en: speech, way of talking, <...>
 -lexeme
- lex: manṭaqa/manṭiqa/mənṭaqa
- stem: manṭaqa.//manṭiqa.//mənṭaqa.|manṭaqat.//manṭiqat.//mənṭaqat.
+ lex: manṭaqa/manṭiqa
+ stem: manṭaqa.//manṭiqa.|manṭaqat.//manṭiqat.
  root: nṭq
  gramm: N,f
  paradigm: N2
@@ -25334,109 +25334,109 @@
  trans_de: Siegel
  trans_en: seal
 -lexeme
- lex: məhla/məhle/muhla/muhle
- stem: məhla.//məhle.//muhla.//muhle.|məhlat.//muhlat.
+ lex: məhla
+ stem: məhla.
  root: mhl
  gramm: N,f
- paradigm: N2
+ paradigm: N1
  trans_de: Aufschub, Frist
- trans_en: delay, respite
+ trans_en: 
 -lexeme
  lex: məhna
  stem: məhna.
  root: mhn
  gramm: N,f
- paradigm: <?>
+ paradigm: N1
  trans_de: Handwerk, Gewerbe
- trans_en: handwork, craft
+ trans_en: 
 -lexeme
  lex: məhvan
  stem: məhvan.
  root: mhvn
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Gast
- trans_en: guest
+ trans_en: 
 -lexeme
- lex: məḥafaḏa/muḥafaḏa/mḥafaḏa
- stem: məḥafaḏa.//muḥafaḏa.//mḥafaḏa.
+ lex: m(ə)ḥafaḏa
+ stem: m(ə)ḥafaḏa.
  root: ḥfẓ
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Schutz
- trans_en: protection
+ trans_en: 
 -lexeme
- lex: məḥayto/mḥayto
- stem: məḥayto.//mḥayto.|məḥwoṯe.
- root: mḥy
+ lex: məḥas
+ stem: məḥas.
+ root: mḥs
+ gramm: N,m
+ paradigm: N1
+ trans_de: Striegel
+ trans_en: 
+-lexeme
+ lex: məḥayto
+ stem: məḥayto.|məḥwoṯe.
+ root: mḥyt
  gramm: N,f
  paradigm: N2
  trans_de: Schlag, Prügel
- trans_en: strike, blow
+ trans_en: 
 -lexeme
- lex: məḥəbba/mḥəbbe
- stem: məḥəbba.//mḥəbbe.
+ lex: məḥəbba
+ stem: məḥəbba.
  root: ḥbb
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Liebe
- trans_en: love
--lexeme
- lex: məḥsən
- stem: məḥsən.
- root: ḥsn
- gramm: ADJ
- paradigm: unchangeable
- trans_de: sehr schön (Mädchen)
- trans_en: very beautiful (girl)
--lexeme
- lex: məḥtaram
- stem: məḥtaram.
- root: ḥrm
- gramm: ADJ
- paradigm: unchangeable
- trans_de: geehrt
- trans_en: honoured
+ trans_en: 
 -lexeme
  lex: məḥtarmo
  stem: məḥtarmo.
  root: ḥrm
  gramm: N,m
- paradigm: <?>
- trans_de: geehrt
- trans_en: honoured
+ paradigm: N1
+ trans_de: Mḏ
+ trans_en: 
 -lexeme
  lex: məḥteǧ
  stem: məḥteǧ.|məḥteǧin.
  root: ḥwǧ
- gramm: ADJ
+ gramm: N,m
  paradigm: N2
- trans_de: bedürftig
- trans_en: one in need
+ trans_de: Kf
+ trans_en: 
+-lexeme
+ lex: məlfono
+ stem: məlfono.
+ root: ylf
+ gramm: N,m
+ paradigm: N1
+ trans_de: Meister (im Kampf)
+ trans_en: 
 -lexeme
  lex: məlk
  stem: məlk.
  root: mlk
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Eigentum, Besitz
- trans_en: property
+ trans_en: 
 -lexeme
  lex: məlle
- stem: məlle.|məlal.
+ stem: məlle.|milal.
  root: mll
  gramm: N,f
  paradigm: N2
- trans_de: Nation
- trans_en: nation
+ trans_de: milal Nation
+ trans_en: 
 -lexeme
  lex: məlṯo
- stem: məlṯo.|mele.
+ stem: məlṯo.
  root: mll
  gramm: N,f
- paradigm: N2
+ paradigm: N1
  trans_de: Wort
- trans_en: word
+ trans_en: 
 -lexeme
  lex: məlyun
  stem: məlyun.|məlyunat.
@@ -25444,167 +25444,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Million
- trans_en: million
+ trans_en: 
 -lexeme
- lex: mənafəq/mnafəq
- stem: mənafəq.//mnafəq.
+ lex: mənafəq
+ stem: mənafəq.
  root: nfq
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Heuchler
- trans_en: hypocrite
--lexeme
- lex: mnasəb/mənasəb/munasəb
- stem: mnasəb.//mənasəb.//munasəb.
- root: nsb
- gramm: ADJ
- paradigm: <?>
- trans_de: passend, hübsch
- trans_en: appropriate; beautiful
--lexeme
- lex: mənaya
- stem: mənaya.
- root: mny
- gramm: ADJ
- paradigm: unchangeable
- trans_de: offenbar, wie es scheint
- trans_en: apparent, as it seems
+ trans_en: 
 -lexeme
  lex: mənna/mənne
- stem: mənna.//mənne.
+ stem: mənna/mənne.
  root: mnn
  gramm: N,f
- paradigm: <?>
+ paradigm: N1
  trans_de: Dankesschuld
- trans_en: gratitude
+ trans_en: 
 -lexeme
  lex: mənqoniṯo
  stem: mənqoniṯo.
  root: mnqnṯ
  gramm: N,f
- paradigm: <?>
+ paradigm: N1
  trans_de: Amme
- trans_en: wet-nurse
+ trans_en: 
+-lexeme
+ lex: mənṭaqa
+ stem: mənṭaqa.
+ root: nṭq
+ gramm: N,f
+ paradigm: N1
+ trans_de: Zone, Gebiet
+ trans_en: 
 -lexeme
  lex: mənyono
- stem: mənyono.|mənyone.
+ stem: mənyono.
  root: mny
  gramm: N,m
  paradigm: N1
  trans_de: Zahl
- trans_en: number
+ trans_en: 
 -lexeme
  lex: məqam
  stem: məqam.|məqame.
  root: qwm
  gramm: N,m
  paradigm: N2
- trans_de: Art und Weise; Musikweise, Tonart
- trans_en: manner; tonality
--lexeme
- lex: məqata
- stem: məqata.
- root: mqt
- gramm: ADJ
- paradigm: unchangeable
- trans_de: sorgfältig, vorsichtig
- trans_en: careful, meticulous
+ trans_de: a) Musikweise, Tonart b) Art und Weise
+ trans_en: 
 -lexeme
  lex: məqdar
  stem: məqdar.
  root: qdr
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Betrag, Menge, Strecke
- trans_en: amount, quantity, piece
+ trans_en: 
 -lexeme
  lex: məqla
- stem: məqla.|məqlat.
+ stem: məqla.
  root: qlw
  gramm: N,f
- paradigm: N2
+ paradigm: N1
  trans_de: Bratpfanne
- trans_en: frying pan
--lexeme
- lex: məqqa/məqqaṣ/məqqayṣ
- stem: məqqa.//məqqaṣ.//məqqayṣ.
- root: mq
- gramm: PRN
- paradigm: unchangeable
- trans_de: wieviel?
- trans_en: how much?
+ trans_en: 
 -lexeme
  lex: məqrofon
  stem: məqrofon.
  root: mqrfn
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Mikrofon
- trans_en: microphone
--lexeme
- lex: mərramərr
- stem: mərramərr.
- root: mrmr
- gramm: N
- paradigm: unchangeable
- trans_de: Murmeln einer Menschenmenge
- trans_en: mutter of a group of people
+ trans_en: 
 -lexeme
  lex: məram
  stem: məram.|məramat.
  root: rwm
  gramm: N,m
  paradigm: N2
- trans_de: Zweck, Absicht
- trans_en: goal, intention
--lexeme
- lex: mərč
- stem: mərč.
- root: mrč
- gramm: N
- paradigm: <?>
- trans_de: Geräusch des Küssens, Schmatz
- trans_en: sound of kissing
--lexeme
- lex: mərdal
- stem: mərdal.
- root: rdl
- gramm: ADJ
- paradigm: unchangeable
- trans_de: schmutzig
- trans_en: dirty
+ trans_de: Zweck, Absicht simli
+ trans_en: 
 -lexeme
  lex: məreba
  stem: məreba.
  root: mrb
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Knecht zum Pflügen und Bestellen des Ackers
- trans_en: servant who ploughs and cultivates a piece of land
+ trans_en: 
 -lexeme
  lex: mərhov
- stem: mərhov.|mərhovin.
+ stem: mərhov.|id..//mərhovin.
  root: mrhv
  gramm: N,m
  paradigm: N2
  trans_de: Freund, guter Bekannter
- trans_en: friend, good acquaintance
+ trans_en: 
 -lexeme
  lex: mərhovaniye
  stem: mərhovaniye.
  root: mrhvny
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Freundschaft, Verschwägerung
- trans_en: friendship, connection by marriage
+ trans_en: 
 -lexeme
  lex: mərmərke
- stem: mərmərke.|mərmərkat.
+ stem: mərmərke.
  root: mrmrk
  gramm: N,f
- paradigm: N2
- trans_de: Mücke, kleiner als Moskito, aber nicht stechend, in Sümpfen und Weinbergen; kleine Made, Würmchen
- trans_en: midge, gnat, smaller than mosquito, but it does not bite, in marshes and vineyards; small worm, larva
+ paradigm: N1
+ trans_de: Mücke, kleiner als Moskito, aber nicht stechend, in Sümpfen und Weinbergen
+ trans_en: 
 -lexeme
  lex: mərṭal
  stem: mərṭal.|mərṭalat.
@@ -25612,295 +25564,247 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schild
- trans_en: shield
+ trans_en: 
 -lexeme
- lex: məsaʕada/msaʕada/musaʕada
- stem: məsaʕada.//msaʕada.//musaʕada.
- root: sʕd
+ lex: məsaʕada
+ stem: məsaʕada.
+ root: sʕd
  gramm: N,f
- paradigm: <?>
+ paradigm: N1
  trans_de: Erlaubnis
- trans_en: permission
+ trans_en: 
 -lexeme
- lex: məsayər/mətsayir
- stem: məsayər.//mətsayir.
- root: syr
- gramm: ADJ
- paradigm: unchangeable
- trans_de: spazierengehend
- trans_en: going for a walk
+ lex: məsbaḥa
+ stem: məsbaḥa.
+ root: sbḥ
+ gramm: N,f
+ paradigm: N1
+ trans_de: Rosenkranz
+ trans_en: 
 -lexeme
- lex: məskeno/məskino
- stem: məskeno.//məskino.|məskene.//məskine.
+ lex: məskeno
+ stem: məskeno.|məskene.
  root: mskn
  gramm: N,m
  paradigm: N2
- trans_de: arm, bedauernswert
- trans_en: poor, miserable
+ trans_de: Mḏ
+ trans_en: 
 -lexeme
  lex: məsqof
  stem: məsqof.
  root: msqf
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Russland
- trans_en: Russian
+ trans_en: 
 -lexeme
- lex: məssine
- stem: məssine.|məssinat.
- root: msn
+ lex: məs(s)ine
+ stem: məs(s)ine.|məs(s)inat.
+ root: ms(s)n
  gramm: N,f
  paradigm: N2
  trans_de: Wasserkännchen
- trans_en: water pitcher 
+ trans_en: 
 -lexeme
- lex: məstriḥ
- stem: məstriḥ.
- root: ryḥ
- gramm: ADJ
- paradigm: unchangeable
- trans_de: Ruhe findend
- trans_en: finding rest
--lexeme
- lex: məṣʕoyo/məṣyoyo
- stem: məṣʕoyo.//məṣyoyo.|məṣʕoye.//məṣyoye.
- root: mṣʕ
- gramm: N,m
- paradigm: N2
- trans_de: Vermittler
- trans_en: mediator
--lexeme
- lex: məṣafe
- stem: məṣafe.
+ lex: məsafe
+ stem: məsafe.
  root: swf
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Abstand
- trans_en: <?>
+ trans_en: 
 -lexeme
- lex: məṣər
- stem: məṣər.
- root: mṣr
- gramm: N
- paradigm: unchangeable
- trans_de: Ägypten, Kairo
- trans_en: Egypt, Cairo
--lexeme
- lex: məṣḥaf/muṣḥaf
- stem: məṣḥaf.//muṣḥaf.
+ lex: məṣḥaf
+ stem: məṣḥaf.
  root: mṣḥf
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Koran
- trans_en: Koran
+ trans_en: 
 -lexeme
  lex: məṣloyo
- stem: məṣloyo.|məṣloye.
- root: mṣl
+ stem: məṣloyo.
+ root: mṣly
  gramm: N,m
- paradigm: N2
+ paradigm: N1
  trans_de: Mann aus Mossul
- trans_en: person from Mosul
+ trans_en: 
 -lexeme
  lex: məṣri
- stem: məṣri.
+ stem: məṣri.|(?).
  root: mṣr
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Ägypter, ägyptisch
- trans_en: Egyptian, egyptian
+ trans_en: 
 -lexeme
  lex: məṣṣaṣa
- stem: məṣṣaṣa.|məṣṣaṣat.
+ stem: məṣṣaṣa.
  root: mṣṣ
  gramm: N,f
- paradigm: N2
+ paradigm: N1
  trans_de: Saugflasche, Milchflasche
- trans_en: feeding bottle, milk bottle
+ trans_en: 
+-lexeme
+ lex: məṣyoyo
+ stem: məṣyoyo.
+ root: mṣy
+ gramm: N,m
+ paradigm: N1
+ trans_de: Vermittler
+ trans_en: 
 -lexeme
  lex: məšḥo
- stem: məšḥo.|məšḥone.
+ stem: məšḥo.
  root: mšḥ
  gramm: N,m
- paradigm: N2
+ paradigm: N1
  trans_de: Fett, Butter
- trans_en: cooking butter
--lexeme
- lex: məškat
- stem: məškat.
- root: mšk
- gramm: N
- paradigm: <?>
- trans_de: Schmeissfliege
- trans_en: blowfly
+ trans_en: 
 -lexeme
  lex: məšməš
  stem: məšməš.
  root: mšmš
  gramm: N,m
- paradigm: unchangeable
+ paradigm: N1
  trans_de: Aprikose
- trans_en: apricot
+ trans_en: 
 -lexeme
- lex: məšrək
- stem: məšrək.
- root: šrk
- gramm: N
- paradigm: unchangeable
- trans_de: Teufel; geschickt
- trans_en: demon; shrewd, smart
--lexeme
- lex: məššaye
- stem: məššaye.|məššayat.
+ lex: məš(š)aye
+ stem: məš(š)aye.|məš(š)ayat.
  root: mšw
  gramm: N,f
  paradigm: N2
  trans_de: Paar Schuhe ohne Absatz, Pantoffeln
- trans_en: pair of shoes without heel, slippers
+ trans_en: 
 -lexeme
  lex: məštaq
  stem: məštaq.
  root: šwq
- gramm: ADJ
- paradigm: unchangeable
- trans_de: sich sehnend nach
- trans_en: missing someone
+ gramm: N,m
+ paradigm: N1
+ trans_de: Sa
+ trans_en: 
 -lexeme
- lex: məštiri/məštəri/məštri
- stem: məštiri.//məštəri.//məštri.|məštiriye.//məštəriye.//məštriye.
+ lex: məštiri
+ stem: məštiri.|məštiriiye.
  root: šry
  gramm: N,m
  paradigm: N2
+ trans_de: iye Käufer, Kunde
+ trans_en: 
+-lexeme
+ lex: məštri
+ stem: məštri.
+ root: šry
+ gramm: N,m
+ paradigm: N1
  trans_de: Käufer, Kunde
- trans_en: buyer, client
+ trans_en: 
 -lexeme
  lex: məštuṯo
- stem: məštuṯo.|məštawoṯe.//məštawoṯo.
+ stem: məštuṯo.|məštuṯoawoṯo.
  root: štw
  gramm: N,f
  paradigm: N2
  trans_de: Hochzeitsgelage
- trans_en: wedding
+ trans_en: 
 -lexeme
  lex: məšwar
- stem: məšwar.|mašawər.
+ stem: məšwar.|mašawir.
  root: šwr
  gramm: N,m
  paradigm: N2
  trans_de: ein paar Schritte
- trans_en: a couple of steps
+ trans_en: 
 -lexeme
- lex: mətkamməl
- stem: mətkamməl.
- root: kml
- gramm: ADJ
- paradigm: unchangeable
- trans_de: tadellos
- trans_en: blameless
--lexeme
- lex: mətr/mətro
- stem: mətr.//mətro.|mətrat.//mətrowat.//mətrowiye.
+ lex: mətr
+ stem: mətr.|mitrat.
  root: mtr
  gramm: N,m
  paradigm: N2
- trans_de: Meter
- trans_en: meter
+ trans_de: mitrat Meter
+ trans_en: 
 -lexeme
- lex: mətriyoz/mitilyos
- stem: mətriyoz.//mitilyos.
+ lex: mətriyoz
+ stem: mətriyoz.
  root: mtryz
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Maschinengewehr
- trans_en: machine-gun
+ trans_en: 
+-lexeme
+ lex: mətro
+ stem: mətro.|mətroowat.//-owiye.
+ root: mtr
+ gramm: N,m
+ paradigm: N2
+ trans_de: mitro m, pl –owat, -owiye Meter
+ trans_en: 
 -lexeme
  lex: mətwaklo
  stem: mətwaklo.
  root: wkl
  gramm: N,m
- paradigm: <?>
- trans_de: selbstvertrauend
- trans_en: self-confident
+ paradigm: N1
+ trans_de: Kf
+ trans_en: 
 -lexeme
- lex: məṭṭala/məṭala/mṭala
- stem: məṭṭala.//məṭala.//mṭala.|məṭṭalat.//məṭalat.//mṭalat.
- root: mṭl
+ lex: məṭ(ṭ)ala
+ stem: məṭ(ṭ)ala.|məṭ(ṭ)alat.
+ root: mṭ(ṭ)l
  gramm: N,f
  paradigm: N2
  trans_de: Gram, Kummer
- trans_en: worry, grief
+ trans_en: 
 -lexeme
- lex: məṭərb/məṭərbi.
- stem: məṭərb.//məṭərbi.|məṭərbiye.//məṭərb.//məṭərbiyin.
+ lex: məṭərb
+ stem: məṭərb.|məṭərbiye,.
  root: mṭrb
  gramm: N,m
  paradigm: N2
  trans_de: Zigeunermusiker, Spielmann
- trans_en: musician, gipsy musician
+ trans_en: 
+-lexeme
+ lex: məṭərbi
+ stem: məṭərbi.|məṭərbiiyin.
+ root: mṭrb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Zigeunermusikant, Spielmann
+ trans_en: 
 -lexeme
  lex: məṭropoliṭo
  stem: məṭropoliṭo.
  root: mṭrplṭ
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: Metropolit
- trans_en: metropolitan
--lexeme
- lex: məṭrozayiyat
- stem: məṭrozayiyat.
- root: mṭrzyy
- gramm: N
- paradigm: <?>
- trans_de: ungehörige Reden und Worte, die einer diesem und jenem nachruft
- trans_en: inappropriate words which someone addresses someone
--lexeme
- lex: məṭsuxur
- stem: məṭsuxur.
- root: mṭsxr
- gramm: ADJ
- paradigm: unchangeable
- trans_de: jemand, der sofort das nötige tut
- trans_en: someone who immediately does what is necessary
+ trans_en: 
 -lexeme
  lex: məṭṭək
  stem: məṭṭək.
  root: mṭk
  gramm: N,m
- paradigm: <?>
+ paradigm: N1
  trans_de: kleiner Hügel
- trans_en: small hill
+ trans_en: 
 -lexeme
- lex: məzər
- stem: məzər.
- root: mzr
- gramm: ADJ
- paradigm: unchangeable
- trans_de: streitsüchtig (im Worten)
- trans_en: quarrelsome
+ lex: məzbaḥa
+ stem: məzbaḥa.
+ root: sbḥ
+ gramm: N,f
+ paradigm: N1
+ trans_de: Rosenkranz
+ trans_en: 
 -lexeme
  lex: məzgafte
  stem: məzgafte.
  root: mzgft
  gramm: N,f
- paradigm: <?>
+ paradigm: N1
  trans_de: kleine Dorfmoschee
- trans_en: small village mosque
--lexeme
- lex: məžmižokat/məžməžokat
- stem: məžmižokat.//məžməžokat.
- root: mžmž
- gramm: N
- paradigm: <?>
- trans_de: Färberochsenzunge, Alkna spec. oder Ancusa spec.; sehr honigreihe Pflanze mit roten Blüten
- trans_en: alkanet, Alkna spec. or Ancusa spec.; honey-rich plant with red flowers
--lexeme
- lex: məžġule
- stem: məžġule.
- root: žġl
- gramm: N
- paradigm: <?>
- trans_de: Augenwimpern
- trans_en: eyelashes
+ trans_en: 
 -lexeme
  lex: mfarǧono
  stem: mfarǧono.|mfarǧone.
@@ -25908,47 +25812,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zuschauer
- trans_en: spectator, bystander
+ trans_en: 
 -lexeme
- lex: mfarrəḥ
- stem: mfarrəḥ.
- root: frḥ
- gramm: ADJ
- paradigm: unchangeable
- trans_de: vergnüglich; Vergnügen, Freude bereitend
- trans_en: amusing; providing entertainment, joy
--lexeme
- lex: mfaṣṣal
- stem: mfaṣṣal.
- root: fṣl
- gramm: ADJ
- paradigm: unchangeable
- trans_de: ausführlich
- trans_en: detailed
--lexeme
- lex: mgalin/mgalyun/mgalyin/mgalyən
- stem: mgalin.//mgalyun.//mgalyin.//mgalyən.|mgalyune.
+ lex: mgalin
+ stem: mgalin.
  root: mgln
  gramm: N,m
- paradigm: N2
+ paradigm: N1
  trans_de: Evangelium
- trans_en: Gospel
+ trans_en: 
 -lexeme
  lex: mgalṯo
- stem: mgalṯo.|mgale.//mġale.
+ stem: mgalṯo.
  root: gll
  gramm: N,f
- paradigm: N2
+ paradigm: N1
  trans_de: Zeitung
- trans_en: newspaper
+ trans_en: 
 -lexeme
- lex: mgandro
- stem: mgandro.|mgandre.
- root: gndr
- gramm: ADJ
+ lex: mgalyin
+ stem: mgalyin.
+ root: mglyn
+ gramm: N,m
+ paradigm: N1
+ trans_de: Evangelium
+ trans_en: 
+-lexeme
+ lex: mgalyun
+ stem: mgalyun.|mgalyune.
+ root: mglyn
+ gramm: N,m
  paradigm: N2
- trans_de: rund
- trans_en: round
+ trans_de: Evangelium pl
+ trans_en: 
 -lexeme
  lex: mġušo
  stem: mġušo.|mġuše.
@@ -39279,9 +39175,9 @@
  trans_en: armpit
 -lexeme
  lex: taḥtoyo
- stem: taḥtoyo.|taḥtoye.
+ stem: taḥtoyo.|taḥtoye. + taḥtayto
  root: tḥty
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: unterer 
  trans_en: bottom
