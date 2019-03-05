@@ -39262,8 +39262,8 @@
  trans_de: Steuereintreibung
  trans_en: tax recovery
 -lexeme
- lex: taḥt/taḥ
- stem: taḥt.//taḥ.
+ lex: taḥt/taḥte/taḥ
+ stem: taḥt.//taḥte.//taḥ.
  root: tḥt
  gramm: PRP
  paradigm: unchangeable
