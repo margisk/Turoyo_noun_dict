@@ -18723,8 +18723,8 @@
  trans_de: Möglichkeit
  trans_en: possibility
 -lexeme
- lex: imkaniye/əmkaniye
- stem: imkaniye.//əmkaniye.|imkaniyat.//əmkaniyat.
+ lex: imkaniye/əmkaniye/mkaniye
+ stem: imkaniye.//əmkaniye.//mkaniye.|imkaniyat.//əmkaniyat.//mkaniyat.
  root: mkn
  gramm: N,f
  paradigm: N2
@@ -23910,8 +23910,8 @@
  trans_de: Joghurt
  trans_en: yoghurt
 -lexeme
- lex: maqaṣ
- stem: maqaṣ.//maqaṣe.|maqaṣe.
+ lex: maqaṣ/mqaṣ
+ stem: maqaṣ.//mqaṣ.//maqaṣe.|maqaṣe.
  root: qṣṣ
  gramm: N,m
  paradigm: N2
@@ -25373,10 +25373,9 @@
  paradigm: N1
  trans_de: Striegel
  trans_en: 
--lexeme
- lex: məḥayto
- stem: məḥayto.|məḥwoṯe.
- root: mḥyt
+ lex: məḥayto/mḥayto
+ stem: məḥayto.//mḥayto.|məḥwoṯe.//mḥayoṯe.
+ root: mḥy
  gramm: N,f
  paradigm: N2
  trans_de: Schlag, Prügel
@@ -25726,8 +25725,8 @@
  trans_de: mitrat Meter
  trans_en: 
 -lexeme
- lex: mətriyoz
- stem: mətriyoz.
+ lex: mətriyoz/mitilyos/mitəlyos
+ stem: mətriyoz.//mitilyos.//mitəlyos.
  root: mtryz
  gramm: N,m
  paradigm: N1
@@ -25851,72 +25850,56 @@
  root: mgš
  gramm: N,m
  paradigm: N2
- trans_de: Magier, einer der hl. drei Könige pl
- trans_en: 
+ trans_de: Magier, einer der hl. drei Könige 
+ trans_en: wise man, one of <...> three kings
 -lexeme
  lex: mǧadala
  stem: mǧadala.
  root: ǧdl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Streit
- trans_en: 
--lexeme
- lex: mǧal
- stem: mǧal.
- root: ǧwl
- gramm: N,m
- paradigm: N1
- trans_de: Kraft zu widerstehen
- trans_en: 
+ trans_en: fight, quarrel
 -lexeme
  lex: mhaǧro
- stem: mhaǧro.
+ stem: mhaǧro.|mhaǧre.
  root: mhǧr
  gramm: N,m
- paradigm: N1
- trans_de: mehreren Stellen schadhaft
- trans_en: 
+ paradigm: N2
+ trans_de: an mehreren Stellen schadhaft
+ trans_en: damaged in many places
+-lexeme
+ lex: mhayəmno/mhaymno
+ stem: mhayəmno.//mhaymno.|mhayəmne.//mhaymne.
+ root: hymn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: gläubig, fromm
+ trans_en: religious, pious
 -lexeme
  lex: mḥabbe
  stem: mḥabbe.
  root: ḥbb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Liebe
- trans_en: 
--lexeme
- lex: mḥafaḏa
- stem: mḥafaḏa.
- root: ḥfẓ
- gramm: N,f
- paradigm: N1
- trans_de: Schutz
- trans_en: 
--lexeme
- lex: mḥafe
- stem: mḥafe.
- root: ḥff
- gramm: N,f
- paradigm: N1
- trans_de: Sänfte
- trans_en: 
+ trans_en: love
 -lexeme
  lex: mḥalilke
  stem: mḥalilke.
  root: mḥlk
  gramm: N,f
- paradigm: N1
- trans_de: a) Hahnenkamm. 	b) Unterkinn.	 c) Spielzeug, bestehend aus einer Reihe nebeneinander gelegter Weinranken mit einem Strick zum Anfassen
- trans_en: 
+ paradigm: <?>
+ trans_de: Hahnenkamm; Unterkinn; Spielzeug, bestehend aus einer Reihe nebeneinander gelegter Weinkranken mit einem Strick zum Anfassen
+ trans_en: rooster's comb; double chin; toy made of a row of <...> put together with a rope to grab (it)
 -lexeme
  lex: mḥalle
- stem: mḥalle.
+ stem: mḥalle.|mḥallat.
  root: ḥll
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Stadtviertel
- trans_en: 
+ trans_en: city quarter
 -lexeme
  lex: mḥalto
  stem: mḥalto.|mḥele.
@@ -25924,31 +25907,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Sieb
- trans_en: 
+ trans_en: sieve
 -lexeme
  lex: mḥaramto
  stem: mḥaramto.
  root: ḥrm
  gramm: N,f
- paradigm: N1
- trans_de: Unglücks)mädchen
- trans_en: 
+ paradigm: <?>
+ trans_de: (Unglücks)mädchen
+ trans_en: unlucky girl
 -lexeme
  lex: mḥarbono
- stem: mḥarbono.
+ stem: mḥarbono.|mḥarbone.
  root: ḥrb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Krieger
- trans_en: 
+ trans_en: fighter
 -lexeme
  lex: mḥasyo
  stem: mḥasyo.|mḥasye.
  root: mḥsy
  gramm: N,m
  paradigm: N2
- trans_de: selig PrS
- trans_en: 
+ trans_de: selig
+ trans_en: late, deceased
 -lexeme
  lex: mḥaṭo
  stem: mḥaṭo.|mḥaṭe.
@@ -25956,31 +25939,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Nadel; Injektionsspritze
- trans_en: 
+ trans_en: needle; syringe
 -lexeme
  lex: mḥawdlo
  stem: mḥawdlo.|mḥawdle.
  root: mḥwdl
  gramm: N,m
  paradigm: N2
- trans_de: durch erdige Bestandteile trübe, aber noch trinkbar
- trans_en: 
--lexeme
- lex: mḥayto
- stem: mḥayto.|mḥayoṯe.//mi.
- root: mḥyt
- gramm: N,f
- paradigm: N2
- trans_de: Mi
- trans_en: 
--lexeme
- lex: mḥəbbe
- stem: mḥəbbe.
- root: ḥbb
- gramm: N,f
- paradigm: N1
- trans_de: Liebe
- trans_en: 
+ trans_de: durch erdige Bestandteile trübe, aber noch trinkbar; schmutzig, getrübt (Wasser, Auge)
+ trans_en: muddy because of the eart in it, but drinkable; dirty, turbid
 -lexeme
  lex: mḥuṯo
  stem: mḥuṯo.|maḥwoṯe.
@@ -25988,71 +25955,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wunde, Verwundung
- trans_en: 
+ trans_en: injury, wound
 -lexeme
  lex: miʕad
  stem: miʕad.
  root: mʕd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Stelldichein, Zeit
- trans_en: 
+ trans_en: meeting; time
 -lexeme
  lex: midara
  stem: midara.
  root: dwr
  gramm: N,f
- paradigm: N1
- trans_de: X
- trans_en: 
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: miqa
  stem: miqa.
  root: mq
  gramm: N,f
- paradigm: N1
- trans_de: a) Kunstglas der Autos und Uhren b) Walfischbeinstäbchen, um Kragen steif zu machen
- trans_en: 
+ paradigm: <?>
+ trans_de: Kunstglass der Autos und Uhren; Walfischbeinstäbchen, um Kragen steif zu machen
+ trans_en: artificial glass for cars and watches; <?>
 -lexeme
  lex: mir
  stem: mir.
  root: ʔmr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Emir, Fürst
- trans_en: 
+ trans_en: emir, prince
+-lexeme
+ lex: mirak
+ stem: mirak.
+ root: mr
+ gramm: N,m,dim
+ paradigm: unchangeable
+ trans_de: kleiner Fürst, Vornehmer
+ trans_en: insignificant prince, ruler
 -lexeme
  lex: mire
  stem: mire.|mirawat.
- root: rʔy
+ root: rʔy
  gramm: N,m
  paradigm: N2
  trans_de: Spiegel
- trans_en: 
+ trans_en: mirror
 -lexeme
  lex: misalləm
  stem: misalləm.
  root: mslm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Steuerbeamter
- trans_en: 
--lexeme
- lex: mitəlyos
- stem: mitəlyos.|mitəlyosat.
- root: mtlys
- gramm: N,m
- paradigm: N2
- trans_de: mitilyôs m, pl –at Maschinengewehr
- trans_en: 
+ trans_en: tax official
 -lexeme
  lex: miṯo
  stem: miṯo.|miṯe.
  root: mwt
  gramm: N,m
  paradigm: N2
- trans_de: On
- trans_en: 
+ trans_de: tot
+ trans_en: dead
 -lexeme
  lex: miza
  stem: miza.|mizat.
@@ -26060,7 +26027,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zug aus der Zigarette
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: mizən
  stem: mizən.|mizənat.
@@ -26068,7 +26035,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Waage
- trans_en: 
+ trans_en: weights
+-lexeme
+ lex: mizo
+ stem: mizo.
+ root: mz
+ gramm: N
+ paradigm: <?>
+ trans_de: Rute, Penis von Tieren; Stiel des Pfluges, das Ende des Sayfo, das in die sakṯo hineingesteckt wird
+ trans_en: <?>, penis of animals; handle of a plough, tip of the sword, which is stuck into sakṯo
+-lexeme
+ lex: məž/miž
+ stem: məž.//miž.
+ root: mž
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Nebel
+ trans_en: fog
 -lexeme
  lex: mižoke
  stem: mižoke.|mižokat.
@@ -26076,55 +26059,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: eine Blume
- trans_en: 
+ trans_en: one flower
 -lexeme
  lex: mkabbe
- stem: mkabbe.
+ stem: mkabbe.|mkabbat.
  root: mkb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: korbartiger Deckel, etwa einen Klafter lang, mit dem man Essen und Geschirr zudeckt, damit die Katzen nicht daran kommen
- trans_en: 
+ trans_en: lid in form of a box, around 2 meters long, used to cover food and dishes, so that cats do not walk over them
 -lexeme
- lex: mkaniye
- stem: mkaniye.
- root: mkn
- gramm: N,f
- paradigm: N1
- trans_de: Möglichkeit
- trans_en: 
+ lex: mkaddar
+ stem: mkaddar.
+ root: kdr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: betrübt
+ trans_en: sad, sorrowful
 -lexeme
  lex: mlawno
- stem: mlawno.
+ stem: mlawno.|mlawne.
  root: lwn
  gramm: N,m
- paradigm: N1
- trans_de: Sa
- trans_en: 
+ paradigm: N2
+ trans_de: bunt
+ trans_en: colourful
 -lexeme
  lex: mlawwaša
  stem: mlawwaša.
  root: mlwš
  gramm: N,f
- paradigm: N1
- trans_de: rundes Brot
- trans_en: 
+ paradigm: <?>
+ trans_de: großes, flaches, rundes Brot
+ trans_en: big, flat, round bread
 -lexeme
  lex: mlaye
- stem: mlaye.
+ stem: mlaye.|mlayat.
  root: mly
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Frauenschleier
- trans_en: 
+ trans_en: black veil
+-lexeme
+ lex: mlayəq
+ stem: mlayəq.
+ root: lyq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: passend
+ trans_en: appropriate, fitting
+-lexeme
+ lex: mnaḏmo
+ stem: mnaḏmo.|mnaḏme.
+ root: nḏm
+ gramm: ADJ
+ paradigm: N2
+ trans_de: regelmäßig
+ trans_en: regular
 -lexeme
  lex: mnafaqa
  stem: mnafaqa.
  root: nfq
  gramm: N,f
- paradigm: N1
- trans_de: a) Anteil, der jemandem zusteht hawu b) Versicherungsgeld, Witwenrente
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Anteil, der jemandem zusteht; Versicherungsgeld, Witwenrente
+ trans_en: part which belongs to some; <...>, widow's pension
 -lexeme
  lex: mnaqyono
  stem: mnaqyono.|mnaqyone.
@@ -26132,95 +26131,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Pflücker
- trans_en: 
+ trans_en: gatherer
 -lexeme
- lex: mnawro
- stem: mnawro.
+ lex: mnawro/mnawhro
+ stem: mnawro.//mnawhro.|mnawre.//mnawhre.
  root: nwr
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: N2
+ trans_de: gebildet
+ trans_en: educated
+-lexeme
+ lex: mnawra
+ stem: mnawra.
+ root: mnwr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Manöver, Rangieren, Landungsmanöver
+ trans_en: maneuver, maneuvering
 -lexeme
  lex: moda
  stem: moda.
  root: md
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mode
- trans_en: 
+ trans_en: fashion
 -lexeme
- lex: moduxo
- stem: moduxo.
+ lex: modarn/modern
+ stem: modarn.//modern.
+ root: mdrn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: modern
+ trans_en: modern
+-lexeme
+ lex: moduxo/mudoxo
+ stem: moduxo.//mudoxo.
  root: mdx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Vorrat, Reisevorrat
- trans_en: 
--lexeme
- lex: moharṯo
- stem: moharṯo.
- root: mhr
- gramm: N,f
- paradigm: N1
- trans_de: weibliches Fohlen
- trans_en: 
+ trans_en: supplies
 -lexeme
  lex: mome
  stem: mome.
  root: mm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Versteckspiel
- trans_en: 
+ trans_en: hide and seek
+-lexeme
+ lex: mor
+ stem: mor.
+ root: mr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Herrgott! Herr!
+ trans_en: Lord!
 -lexeme
  lex: moran
  stem: moran.
  root: mrn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Myron, Taufsalbe
- trans_en: 
+ trans_en: chrism
 -lexeme
  lex: moro
  stem: moro.|more.
  root: mr
  gramm: N,m
  paradigm: N2
- trans_de: a) Herr b) Jemand, der für jemanden, ein Kind oder ein Tier sorgt, ihn/es pflegt und großzieht
- trans_en: 
+ trans_de: Herr; jemand, der für jemanden, ein Kind oder ein Tier sorgt, ihn/es pflegt und großzieht
+ trans_en: lord; someone that looks after someone and raises someone (a child or an animal)
 -lexeme
  lex: moronoyo
  stem: moronoyo.|moronoye.
  root: mrny
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: Herren-
- trans_en: 
+ trans_en: lord
 -lexeme
  lex: moruḏo
  stem: moruḏo.
  root: mrḏ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: grimmiger Wüterich
- trans_en: 
+ trans_en: fierce villain
+-lexeme
+ lex: moryo/muryo
+ stem: moryo.//muryo.
+ root: mr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Gott, der Herr
+ trans_en: God, the Lord
 -lexeme
  lex: moṭor
  stem: moṭor.|moṭorat.
  root: mṭr
  gramm: N,m
  paradigm: N2
- trans_de: Motor, Motorboot pl
- trans_en: 
+ trans_de: Motor, Motorboot
+ trans_en: engine; motor boat
 -lexeme
  lex: moxəl
  stem: moxəl.
  root: nxl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: engmaschiger Sieb aus Draht
- trans_en: 
+ trans_en: close meshed sieve made from wire
 -lexeme
  lex: moz
  stem: moz.|mozat.
@@ -26228,39 +26251,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Banane
- trans_en: 
+ trans_en: banana
 -lexeme
  lex: mqabala
  stem: mqabala.
  root: qbl
  gramm: N,f
- paradigm: N1
- trans_de: Begegnung (?)
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Audienz, Begegnung
+ trans_en: audience, meeting
 -lexeme
  lex: mqadmo
- stem: mqadmo.
+ stem: mqadmo.|mqadme.
  root: qdm
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Haushofmeister
- trans_en: 
+ trans_en: steward
+-lexeme
+ lex: mqarmčo/mqarməčo
+ stem: mqarmčo.//mqarməčo.|mqarmče.//mqarməče.
+ root: qrmč
+ gramm: ADJ
+ paradigm: N2
+ trans_de: faltig
+ trans_en: wrinkled
 -lexeme
  lex: mqarrəs
  stem: mqarrəs.
  root: mqrs
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
--lexeme
- lex: mqaṣ
- stem: mqaṣ.
- root: qṣṣ
- gramm: N,m
- paradigm: N1
- trans_de: Schere
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: eigensinnig
+ trans_en: hardheaded, stubborn
 -lexeme
  lex: mqašše
  stem: mqašše.|mqaššat.
@@ -26268,47 +26291,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schaumlöffel, Schöpflöffel
- trans_en: 
+ trans_en: skimmer, serving spoon
 -lexeme
  lex: mqawweške
- stem: mqawweške.
+ stem: mqawweške.|mqawweškat.
  root: mqwšk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schaumlöffel
- trans_en: 
+ trans_en: serving spoon
 -lexeme
  lex: mrabbaʕ
  stem: mrabbaʕ.
  root: rbʕ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: viereckiges Gemach
- trans_en: 
+ trans_en: rectangular room
+-lexeme
+ lex: mrabbaʕ/mrabbaḥ
+ stem: mrabbaʕ.//mrabbaḥ.
+ root: rbʕ/rbḥ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: quadratisch
+ trans_en: square
 -lexeme
  lex: mrabḥo
- stem: mrabḥo.
+ stem: mrabḥo.|mrabḥe.
  root: rbʕ
- gramm: N,m
- paradigm: N1
- trans_de: viereckig Ör
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: viereckig
+ trans_en: rectangular
 -lexeme
  lex: mrabyono
- stem: mrabyono.
+ stem: mrabyono.|mrabyone.
  root: rby
  gramm: N,m
- paradigm: N1
- trans_de: Erzieher f
- trans_en: 
+ paradigm: N2
+ trans_de: Erzieher
+ trans_en: tutor, educator
 -lexeme
  lex: mraḥmono
- stem: mraḥmono.
+ stem: mraḥmono.|mraḥmone.
  root: rḥm
  gramm: N,m
- paradigm: N1
- trans_de: barmherzig Sl
- trans_en: 
+ paradigm: N2
+ trans_de: barmherzig
+ trans_en: merciful
+-lexeme
+ lex: mraṣʕo
+ stem: mraṣʕo.|mraṣʕe.
+ root: rṣʕ
+ gramm: ADJ
+ paradigm: N2
+ trans_de: mit Intarsien eingelegt
+ trans_en: encrusted with <...>
 -lexeme
  lex: mraye
  stem: mraye.
