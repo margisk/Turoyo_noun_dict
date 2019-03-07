@@ -23478,8 +23478,8 @@
  trans_de: begütert, reich
  trans_en: prosperous, rich
 -lexeme
- lex: malfono
- stem: malfono.|malfone.
+ lex: malfono/məlfono/mulfono
+ stem: malfono.//məlfono.//mulfono.|malfone.//məlfone.//mulfone.
  root: ylf
  gramm: N,m
  paradigm: N2
@@ -25485,8 +25485,8 @@
  trans_de: Zahl
  trans_en: 
 -lexeme
- lex: məqam
- stem: məqam.|məqame.
+ lex: məqam/muqam
+ stem: məqam.//muqam.|məqame.//muqame.
  root: qwm
  gramm: N,m
  paradigm: N2
@@ -26685,29 +26685,37 @@
  trans_de: Abend des 25.12. macht man im Hof, bei schlechtem Wetter im Innern der Kirche, einen Holzhaufen. Wer das meiste Geld gibt, darf als erster den Haufen mit einer Kerze anzünden, dann kommen die Übrigen
  trans_en: on the evening of 25.12 people make in the yard or in case of bad weather inside the church a pile of wood. Who gives most money, can be the first to set the pile on fire with a candle, then come the other
 -lexeme
- lex: mụlfono
- stem: mụlfono.
- root: ylf
- gramm: N,m
- paradigm: N1
- trans_de: Lehrer
- trans_en: 
--lexeme
  lex: mulukiye
  stem: mulukiye.
  root: mlk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Königtum
- trans_en: 
+ trans_en: kingdom
 -lexeme
  lex: mumanaʕa
- stem: mumanaʕa.
+ stem: mumanaʕa.|mumanaʕat.
  root: mnʕ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hinderungsgrund
- trans_en: 
+ trans_en: reason of delay
+-lexeme
+ lex: mumiya
+ stem: mumiya.
+ root: mmy
+ gramm: N
+ paradigm: <?>
+ trans_de: Pech, um gebrochene Knochen zu verbinden
+ trans_en: resin used to join broken bones
+-lexeme
+ lex: mumkən
+ stem: mumkən.
+ root: mkn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: möglich
+ trans_en: possible
 -lexeme
  lex: muna
  stem: muna.|munat.
@@ -26715,55 +26723,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Vorräte
- trans_en: 
+ trans_en: supplies
 -lexeme
- lex: muqam
- stem: muqam.
- root: mqm
- gramm: N,m
- paradigm: N1
- trans_de: Art und Weise (?)
- trans_en: 
+ lex: mune
+ stem: mune.
+ root: mn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: was?
+ trans_en: what?
+-lexeme
+ lex: muntaḏ̣am/muntaḏam
+ stem: muntaḏam.//muntaḏ̣am.
+ root: nẓm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: regelmäßig
+ trans_en: regular
 -lexeme
  lex: muqro
  stem: muqro.
  root: mqr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Eigelb
- trans_en: 
+ trans_en: yolk
 -lexeme
  lex: muraqaba
  stem: muraqaba.
  root: rqb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufsicht
- trans_en: 
+ trans_en: surveillance, control
 -lexeme
- lex: mụrto
- stem: mụrto.
+ lex: murto/marto
+ stem: murto.//marto.
  root: mụrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Herrin
- trans_en: 
+ trans_en: mistress
 -lexeme
  lex: mus
- stem: mus.|muwas.
+ stem: mus.|muwas.//musat.
  root: ms
  gramm: N,f
  paradigm: N2
- trans_de: muwas Rasiermesser
- trans_en: 
+ trans_de: Rasiermesser
+ trans_en: razor
 -lexeme
  lex: musaʕada
  stem: musaʕada.
  root: sʕd
  gramm: N,f
- paradigm: N1
- trans_de: a) Beistand, Hilfe b) Erlaubnis
- trans_en: 
+ paradigm: <?>
+ trans_de: Beistand, Hilfe; Erlaubnis
+ trans_en: help; permission
 -lexeme
  lex: muse
  stem: muse.|musat.
@@ -26771,7 +26787,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Rasiermesser
- trans_en: 
+ trans_en: razor
+-lexeme
+ lex: musiqa/muziqa
+ stem: musiqa.//muziqa.
+ root: msq/mzq
+ gramm: N
+ paradigm: <?>
+ trans_de: Mundharmonika
+ trans_en: harmonica
+-lexeme
+ lex: muskob
+ stem: muskob.
+ root: mskb
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Russen
+ trans_en: Russians
+-lexeme
+ lex: mustaʕad
+ stem: mustaʕad.
+ root: ʕdd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bereit
+ trans_en: ready
+-lexeme
+ lex: mustaḥaq
+ stem: mustaḥaq.
+ root: ḥqq
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: das, was einer verdient
+ trans_en: what one earns
 -lexeme
  lex: mustašar
  stem: mustašar.|mustašarin.
@@ -26779,39 +26827,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Berater
- trans_en: 
+ trans_en: advisor
 -lexeme
  lex: musum
  stem: musum.|musume.
  root: wsm
  gramm: N,m
  paradigm: N2
- trans_de: musume Jahreszeit
- trans_en: 
+ trans_de: Jahreszeit
+ trans_en: season
 -lexeme
  lex: muške
- stem: muške.
+ stem: muške.|muškat.
  root: mšk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlag mit der flachen Hand
- trans_en: 
+ trans_en: strike with a palm
 -lexeme
  lex: mutʕahhəd
  stem: mutʕahhəd.
  root: ʕhd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Unternehmer
- trans_en: 
+ trans_en: enterpreneur
+-lexeme
+ lex: mutamadiyan
+ stem: mutamadiyan.
+ root: mdy
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: in einem fort, beständig
+ trans_en: without a break, continously, constantly
+-lexeme
+ lex: muxləṣ
+ stem: muxləṣ.
+ root: xlṣ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: aufrichtig
+ trans_en: honest, sincere
 -lexeme
  lex: muxlo
  stem: muxlo.
  root: mxl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Holzachse der Handmühle
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: muxtar
  stem: muxtar.|maxatir.
@@ -26819,55 +26883,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schultheiss, Schulze
- trans_en: 
+ trans_en: elder, warden
 -lexeme
  lex: muxtariye
  stem: muxtariye.
  root: xyr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Amt des Schultheissen
- trans_en: 
+ trans_en: service of the elder, of the warden
 -lexeme
  lex: muziq
  stem: muziq.
  root: mzq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Musik
- trans_en: 
+ trans_en: music
+-lexeme
+ lex: moziqa
+ stem: moziqa.
+ root: mzq
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Musik
+ trans_en: music
 -lexeme
  lex: mwarṭono
- stem: mwarṭono.
+ stem: mwarṭono.|mwarṭone.
  root: wrṭ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Intrigant, Übervorteiler
- trans_en: 
+ trans_en: machinator, cheat
 -lexeme
  lex: mxabara
  stem: mxabara.
  root: xbr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Briefwechsel, Korrespondenz
- trans_en: 
+ trans_en: correspondence
 -lexeme
  lex: mxadde
- stem: mxadde.
+ stem: mxadde.|mxaddat.
  root: xdd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: mit Kleie gefülltes Kissen; Kissen
- trans_en: 
+ trans_en: pillow, pillow filled with <...>
 -lexeme
  lex: mxalati
  stem: mxalati.|mxalatiye.
  root: mxlt
  gramm: N,m
  paradigm: N2
- trans_de: D Kinder der Schwestern
- trans_en: 
+ trans_de: Kinder der Schwestern
+ trans_en: children of sisters (are mxalati to each other)
 -lexeme
  lex: mxolo
  stem: mxolo.|mxole.
@@ -26875,55 +26947,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: Wasserkrug
- trans_en: 
+ trans_en: water pitcher
 -lexeme
  lex: myaqro
- stem: myaqro.
+ stem: myaqro.|myaqre.
  root: wqr
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: N2
+ trans_de: geehrt, verehrt
+ trans_en: honoured, venerated, honourable
 -lexeme
  lex: mzabnono
  stem: mzabnono.|mzabnone.
  root: zbn
  gramm: N,m
  paradigm: N2
- trans_de: Verkäufer pl
- trans_en: 
+ trans_de: Verkäufer
+ trans_en: seller
 -lexeme
  lex: mzamrono
- stem: mzamrono.
+ stem: mzamrono.|mzamrone.
  root: mzmrn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Rang des Diakonen
- trans_en: 
+ trans_en: rang of deacons
 -lexeme
  lex: mzaqfo
  stem: mzaqfo.
  root: mzqf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: grober Geselle
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: mzawəriye
+ stem: mzawəriye.
+ root: zwr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: falsches Zeugnis
+ trans_en: false testimony
 -lexeme
  lex: mzayno
- stem: mzayno.
+ stem: mzayno.|mzayne.
  root: zyn
  gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: N2
+ trans_de: geschmükt, verziert
+ trans_en: decorated
 -lexeme
  lex: mziḏo
  stem: mziḏo.|mziḏe.
  root: mzḏ
  gramm: N,f
  paradigm: N2
- trans_de: a) Schlauch zum Aufbewahren trockener Dinge, Felleisen, Ranzen b) Blasebalg
- trans_en: 
+ trans_de: Schlauch zum Aufbewahren trockener Dinge, Felleisen, Ranzen; Blasebalg
+ trans_en: skin for keeping dry things; sack, bag; bellows
 -lexeme
  lex: naʕame
  stem: naʕame.|naʕamat.
