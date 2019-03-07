@@ -24406,8 +24406,8 @@
  trans_de: Tisch
  trans_en: table
 -lexeme
- lex: maṣafa/maṣafe
- stem: maṣafa.//maṣafe.|maṣafat.
+ lex: maṣafa/maṣafe/məṣafe/mṣafe
+ stem: maṣafa.//maṣafe.//məṣafe.//mṣafe|maṣafat.//mṣafat.//məṣafat.
  root: mṣf/mṣf
  gramm: N,f
  paradigm: N2
@@ -25102,8 +25102,8 @@
  trans_de: kleine Dinge
  trans_en: small things
 -lexeme
- lex: meḥo
- stem: meḥo.|meḥe.
+ lex: meḥo/muḥo
+ stem: meḥo.//muḥo.|meḥe.
  root: mḥ
  gramm: N,m
  paradigm: N2
@@ -25158,8 +25158,8 @@
  trans_de: Schmeissfliege
  trans_en: blowfly
 -lexeme
- lex: mə/mən
- stem: mə.//mən.
+ lex: mə/mən/mu
+ stem: mə.//mən.//mu.
  root: mn
  gramm: PRN
  paradigm: unchangeable
@@ -25206,8 +25206,8 @@
  trans_de: künstliches Ei, Nestei
  trans_en: artificial egg, egg in a nest
 -lexeme
- lex: mədda/mədde
- stem: mədda.//mədde.|məddat.
+ lex: mədda/mədde/mudde
+ stem: mədda.//mədde.//mudde.|məddat.//muddat.
  root: mdd
  gramm: N,f
  paradigm: N2
@@ -25310,8 +25310,8 @@
  trans_de: Höhle
  trans_en: cave
 -lexeme
- lex: məharṯo/moharṯo/mharṯo
- stem: məharṯo.//moharṯo.//mharṯo.|məhəryoṯo.//məhəryoṯe.//mohəryoṯe.
+ lex: məharṯo/moharṯo/mharṯo/muharṯo
+ stem: məharṯo.//moharṯo.//mharṯo.//muharṯo.|məhəryoṯo.//məhəryoṯe.//mohəryoṯe.
  root: mhr
  gramm: N,f
  paradigm: <?>
@@ -25326,8 +25326,8 @@
  trans_de: Zustand
  trans_en: state
 -lexeme
- lex: məhər
- stem: məhər.
+ lex: məhər/muhur
+ stem: məhər.//muhur.
  root: mhr
  gramm: N,m
  paradigm: <?>
@@ -25397,8 +25397,8 @@
  trans_de: Mḏ
  trans_en: 
 -lexeme
- lex: məḥteǧ
- stem: məḥteǧ.|məḥteǧin.
+ lex: məḥteǧ/muḥteǧ
+ stem: məḥteǧ.//muḥteǧ.|məḥteǧin.
  root: ḥwǧ
  gramm: N,m
  paradigm: N2
@@ -25573,13 +25573,13 @@
  trans_de: Erlaubnis
  trans_en: 
 -lexeme
- lex: məsbaḥa
- stem: məsbaḥa.
- root: sbḥ
- gramm: N,f
- paradigm: N1
- trans_de: Rosenkranz
- trans_en: 
+ lex: məsayər/mətsayir/msayyər
+ stem: məsayər.//mətsayir.//msayyər.
+ root: syr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: spazierengehend
+ trans_en: going for a walk
 -lexeme
  lex: məskeno
  stem: məskeno.|məskene.
@@ -25845,6 +25845,22 @@
  trans_de: Evangelium pl
  trans_en: 
 -lexeme
+ lex: mgarvno
+ stem: mgavrno.|mgarvne.
+ root: grvn
+ gramm: ADJ
+ paradigm: N2
+ trans_de: rund
+ trans_en: round
+-lexeme
+ lex: mgarmzo
+ stem: mgarmzo.|mgarmze.
+ root: grmz
+ gramm: ADJ
+ paradigm: N2
+ trans_de: knusprig
+ trans_en: crisp, crunchy
+-lexeme
  lex: mġušo
  stem: mġušo.|mġuše.
  root: mgš
@@ -25853,8 +25869,8 @@
  trans_de: Magier, einer der hl. drei Könige 
  trans_en: wise man, one of <...> three kings
 -lexeme
- lex: mǧadala
- stem: mǧadala.
+ lex: mǧadala/muǧadala
+ stem: mǧadala.//muǧadala.
  root: ǧdl
  gramm: N,f
  paradigm: unchangeable
@@ -26350,20 +26366,20 @@
  trans_en: encrusted with <...>
 -lexeme
  lex: mraye
- stem: mraye.
+ stem: mraye.|mrayat.
  root: rʔy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Spiegel
- trans_en: 
+ trans_en: mirror
 -lexeme
- lex: msaʕada
- stem: msaʕada.
- root: sʕd
- gramm: N,f
- paradigm: N1
- trans_de: Erlaubnis
- trans_en: 
+ lex: msabbəq
+ stem: msabbəq.
+ root: sbq
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: zuerst reifende Traube
+ trans_en: grapes which become ripe first
 -lexeme
  lex: msafər
  stem: msafər.|msafər.
@@ -26371,31 +26387,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gast
- trans_en: 
+ trans_en: guest
 -lexeme
- lex: msaǧǧala
- stem: msaǧǧala.
+ lex: msaǧǧala/msaǧǧəle/msalǧəle/msaǧǧale
+ stem: msaǧǧala.//msaǧǧəle.//msalǧəle.//msaǧǧale.
  root: sǧl
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tonbandgerät
- trans_en: 
+ trans_en: recording device
 -lexeme
  lex: msaḥrono
- stem: msaḥrono.
+ stem: msaḥrono.|msaḥrone.
  root: sḥr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Zauberer
- trans_en: 
+ trans_en: sorcerer
 -lexeme
  lex: msaḥroniṯo
  stem: msaḥroniṯo.
  root: sḥr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zauberin
- trans_en: 
+ trans_en: she-sorcerer
 -lexeme
  lex: msalle
  stem: msalle.|msallat.
@@ -26403,63 +26419,63 @@
  gramm: N,f
  paradigm: N2
  trans_de: Sacknadel
- trans_en: 
+ trans_en: packing needle
 -lexeme
- lex: msammoniṯo
- stem: msammoniṯo.
+ lex: msammono
+ stem: msammono.|msammone.
  root: smm
- gramm: N,f
- paradigm: N1
- trans_de: Kf
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: vergiftend wirkend, giftig
+ trans_en: toxic, poisonous
 -lexeme
  lex: msarqo
  stem: msarqo.
  root: msrq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kamm
- trans_en: 
+ trans_en: haircomb
 -lexeme
  lex: msawyo
  stem: msawyo.|msawye.
  root: swy
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: geradewegs PrS
- trans_en: 
--lexeme
- lex: mṣafe
- stem: mṣafe.
- root: swf
- gramm: N,f
- paradigm: N1
- trans_de: Entfernung, Abstand
- trans_en: 
+ trans_de: geradewegs; waagerecht
+ trans_en: straight, direct; horizontal
 -lexeme
  lex: mṣaydono
  stem: mṣaydono.|mṣaydone.
  root: ṣyd
  gramm: N,m
  paradigm: N2
- trans_de: a) Jäger b) Fischer
- trans_en: 
+ trans_de: Jäger; Fischer
+ trans_en: hunter; fisher
 -lexeme
  lex: mṣalyono
- stem: mṣalyono.
+ stem: mṣalyono.|mṣalyone.
  root: ṣlw
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Kirchgänger, kirchlich
- trans_en: 
+ trans_en: churchgoer; churchly
 -lexeme
  lex: mšahyo
- stem: mšahyo.
+ stem: mšahyo.|mšahye.
  root: šhy
  gramm: N,m
- paradigm: N1
- trans_de: begehrend Sl
- trans_en: 
+ paradigm: N2
+ trans_de: begehrend
+ trans_en: coveting, desiring
+-lexeme 
+ lex: mšayya
+ stem: mšayya.
+ root: mšy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: vergeblich, verloren, verschollen
+ trans_en: lost, gone, in vain
 -lexeme
  lex: mšammaʕa
  stem: mšammaʕa.|mšammaʕat.
@@ -26467,103 +26483,127 @@
  gramm: N,f
  paradigm: N2
  trans_de: Linoleum
- trans_en: 
+ trans_en: linoleum
 -lexeme
  lex: mšamšono
- stem: mšamšono.
+ stem: mšamšono.|mšamšone.
  root: mšmšn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: höchster Grad der Diakonen
- trans_en: 
+ trans_en: highest rank of deacons
 -lexeme
  lex: mšaqʕono
  stem: mšaqʕono.|mšaqʕone.
  root: mšqʕn
  gramm: N,m
  paradigm: N2
- trans_de: Schuhflicker pl
- trans_en: 
+ trans_de: Schuhflicker
+ trans_en: <?>
+-lexeme
+ lex: mšaqšəqo
+ stem: mšaqšəqo.|mšaqšəqe.
+ root: šqšq
+ gramm: ADJ
+ paradigm: N2
+ trans_de: aufgeplatzt (Rücken der Schlange)
+ trans_en: chapped (back of snakes)
 -lexeme
  lex: mšaraffe
  stem: mšaraffe.
  root: mšrf
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: große mit Randausbuchtungen verzierte Eßplatte für die ganze Familie
- trans_en: 
+ trans_en: big adorned plate with <...> for the whole family
+-lexeme
+ lex: mšarafko
+ stem: mšarafko.
+ root: mšrf
+ gramm: N,dim
+ paradigm: <?>
+ trans_de: große mit Randausbuchtungen verzierte Eßplatte für die ganze Familie
+ trans_en: big adorned plate wiht <...> for the whole family
+-lexeme
+ lex: Mšiḥo
+ stem: Mšiḥo.
+ root: mšḥ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Christus
+ trans_en: Christ
 -lexeme
  lex: mšiḥoyo
  stem: mšiḥoyo.|mšiḥoye.
  root: mšḥ
  gramm: N,m
  paradigm: N2
- trans_de: Mş
- trans_en: 
+ trans_de: christlich
+ trans_en: Christian
 -lexeme
  lex: Mṭale
- stem: mṭale.
- root: Mṭl
+ stem: Mṭale.
+ root: mṭl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Laubhüttenfest
- trans_en: 
+ trans_en: Feast of Tabernacles
 -lexeme
  lex: mṭapṯo
  stem: mṭapṯo.
  root: mṭpṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: roter Eibisch oder wilde Stockrose, Althea rosea (L.) Cav. Dient, in Wasser aufgelöst, zum Auflösen zusammengeklebten Haares. Hat Früchte wie ein Markstück
- trans_en: 
+ trans_en: red hollyhock or mallow, Althea rosea (L.) Cav. Dient, dissolves in water, <...>. Has fruits the size of a one mark coin
+-lexeme
+ lex: mṭayəf
+ stem: mṭayəf.
+ root: ṭyf
+ gramm: N
+ paradigm: <?>
+ trans_de: schwarze, großbeerige, rundbeerige Traubenart, wird frisch gegessen; ist nicht sehr häufig
+ trans_en: dark grapes with big and round berries, it is eaten fresh; not very common
 -lexeme
  lex: muʕayanaxana
- stem: muʕayanaxana.
+ stem: muʕayanaxana.|muʕayanxanat.
  root: ʕyn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: ärztliches Sprechzimmer
- trans_en: 
+ trans_en: waiting room at the doctor
 -lexeme
  lex: muʕǧize
- stem: muʕǧize.
+ stem: muʕǧize.|muʕǧizat.
  root: ʕǧz
  gramm: N,f
  paradigm: N1
  trans_de: Wunder
- trans_en: 
+ trans_en: miracle
 -lexeme
  lex: mučəlke
- stem: mučəlke.
+ stem: mučəlke.|mučəlkat.
  root: mčl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Pinzette, Nagelknipser
- trans_en: 
+ trans_en: pair of tweezers, nail clippers
 -lexeme
  lex: muddaʕəlʕumum
- stem: muddaʕəlʕumum.
+ stem: muddaʕəlʕumum.//məddaʕəlʕumum.
  root: dʕw
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Staatsanwalt
- trans_en: 
+ trans_en: prosecutor
 -lexeme
- lex: mudde
- stem: mudde.
- root: mdd
- gramm: N,f
- paradigm: N1
- trans_de: Zeitspanne
- trans_en: 
--lexeme
- lex: mŭdir
- stem: mŭdir.
+ lex: mudir/mudur
+ stem: mudir.//mudur.
  root: dwr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Amtsvorsteher, Vorsteher eines Bezirks
- trans_en: 
+ trans_en: head official, principal of a territorial unit
 -lexeme
  lex: mufrəz
  stem: mufrəz.
@@ -26571,95 +26611,79 @@
  gramm: N,m
  paradigm: N1
  trans_de: Abteilung (Soldaten)
- trans_en: 
+ trans_en: division (of soldiers)
 -lexeme
  lex: mufti
- stem: mufti.|muftiiye.
+ stem: mufti.|muftiye.
  root: ftw
  gramm: N,m
  paradigm: N2
- trans_de: iye Mufti
- trans_en: 
--lexeme
- lex: muǧadala
- stem: muǧadala.
- root: ǧdl
- gramm: N,f
- paradigm: N1
- trans_de: Streit
- trans_en: 
--lexeme
- lex: muharṯo
- stem: muharṯo.|mharyoṯo.
- root: mhr
- gramm: N,f
- paradigm: N2
- trans_de: weibliches Fohlen
- trans_en: 
--lexeme
- lex: muhla
- stem: muhla.
- root: mhl
- gramm: N,f
- paradigm: N1
- trans_de: Aufschub, Frist
- trans_en: 
+ trans_de: Mufti
+ trans_en: mufti
 -lexeme
  lex: muhro
  stem: muhro.
  root: mhr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: männliches Fohlen
- trans_en: 
+ trans_en: male colt
 -lexeme
- lex: muhur
- stem: muhur.
- root: mhr
- gramm: N,m
- paradigm: N1
- trans_de: Siegel
- trans_en: 
--lexeme
- lex: mŭḥəb
- stem: mŭḥəb.|mŭḥəbin.
- root: mŭḥb
+ lex: muḥəb
+ stem: muḥəb.|muḥəbin.
+ root: ḥbb
  gramm: N,m
  paradigm: N2
- trans_de: ME
- trans_en: 
--lexeme
- lex: muḥo
- stem: muḥo.
- root: mḥ
- gramm: N,m
- paradigm: N1
- trans_de: Gehirn
- trans_en: 
+ trans_de: Freund
+ trans_en: friend
 -lexeme
  lex: muḥsine
  stem: muḥsine.
  root: ḥsn
  gramm: N,f
- paradigm: N1
- trans_de: schön Ör
- trans_en: 
+ paradigm: <?>
+ trans_de: sehr schön
+ trans_en: very beautiful
+-lexeme
+ lex: mukammal
+ stem: mukammal.
+ root: kml
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: tadellos
+ trans_en: blameless
 -lexeme
  lex: muklo
- stem: muklo.|mukloone.
+ stem: muklo.|muklone.
  root: ʔkl
  gramm: N,m
  paradigm: N2
- trans_de: Infinitiv von
- trans_en: 
+ trans_de: Essen, Futter, Speise
+ trans_en: food, supplies, dish
+-lexeme
+ lex: mukuz
+ stem: mukuz.
+ root: mkz
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gesichtsausdruck, Laune
+ trans_en: face expression, mood
+-lexeme
+ lex: mukuzdayi
+ stem: mukuzdayi.
+ root: mkzdy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: übergelaunt
+ trans_en: in bad mood
 -lexeme
  lex: mulayḏe
  stem: mulayḏe.
  root: mlyḏ
  gramm: N,f
- paradigm: N1
- trans_de: Abend des
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Abend des 25.12. macht man im Hof, bei schlechtem Wetter im Innern der Kirche, einen Holzhaufen. Wer das meiste Geld gibt, darf als erster den Haufen mit einer Kerze anzünden, dann kommen die Übrigen
+ trans_en: on the evening of 25.12 people make in the yard or in case of bad weather inside the church a pile of wood. Who gives most money, can be the first to set the pile on fire with a candle, then come the other
 -lexeme
  lex: mụlfono
  stem: mụlfono.
