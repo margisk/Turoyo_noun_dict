@@ -38340,7 +38340,7 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Kielwasser; Spur, Fährte
- trans_en: wake; track, trauk
+ trans_en: wake; trace, track
 -lexeme
  lex: šoqəle
  stem: šoqəle.
