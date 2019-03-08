@@ -37629,7 +37629,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Felsen
- trans_en: rocks
+ trans_en: rock
 -lexeme
  lex: šer
  stem: šer.|šerin.//šerat.//šere.//šerawat.
