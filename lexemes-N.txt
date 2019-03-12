@@ -27005,253 +27005,277 @@
  trans_de: Schlauch zum Aufbewahren trockener Dinge, Felleisen, Ranzen; Blasebalg
  trans_en: skin for keeping dry things; sack, bag; bellows
 -lexeme
+ lex: naʕam
+ stem: naʕam.
+ root: nʕm
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: ja
+ trans_en: yes
+-lexeme
  lex: naʕame
  stem: naʕame.|naʕamat.
  root: nʕm
  gramm: N,f
  paradigm: N2
  trans_de: Vogel Strauß
- trans_en: 
+ trans_en: ostrich
 -lexeme
  lex: naʕimo
  stem: naʕimo.|naʕime.
  root: nʕm
  gramm: N,m
  paradigm: N2
- trans_de: ein, jung; Kind
- trans_en: 
+ trans_de: klein, jung; Kind
+ trans_en: small, young; child
 -lexeme
  lex: naʕəmko
- stem: naʕəmko.|naʕəmkoat.
+ stem: naʕəmko.|naʕəmkat.
  root: nʕm
- gramm: N,m
+ gramm: N,m,dim
  paradigm: N2
  trans_de: kleiner Junge
- trans_en: 
+ trans_en: small boy
 -lexeme
- lex: naʕimuṯo
- stem: naʕimuṯo.
+ lex: naʕimuṯo/naʕmuṯo
+ stem: naʕimuṯo.//naʕmuṯo.
  root: nʕm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kindheit
- trans_en: 
+ trans_en: childhood
 -lexeme
  lex: naʕla
- stem: naʕla.
+ stem: naʕla.|naʕlat.
  root: lʕn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Fluch
- trans_en: 
+ trans_en: curse
 -lexeme
  lex: naʕlbandiye
  stem: naʕlbandiye.
  root: nʕlbndy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Handwerk des Hufschmiedes
- trans_en: 
--lexeme
- lex: naʕmuṯo
- stem: naʕmuṯo.
- root: nʕm
- gramm: N,f
- paradigm: N1
- trans_de: Kindheit
- trans_en: 
+ trans_en: work of a horseshoer
 -lexeme
  lex: naʕuṭo
  stem: naʕuṭo.|naʕuṭe.
  root: nʕṭ
  gramm: N,m
  paradigm: N2
- trans_de: geschmacklose Trauben“
- trans_en: 
+ trans_de: geschmacklos
+ trans_en: tasteless
 -lexeme
  lex: nabəbto
- stem: nabəbto.
+ stem: nabəbto.|nabəbtoṯe.//nabəbtoṯo.
  root: nbt
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Weife zum Aufwickeln des Garnes
- trans_en: 
+ trans_en: spool, reel for stretching the yarn
 -lexeme
  lex: nabəšto
- stem: nabəšto.|nabišoṯe.
+ stem: nabəšto.|nabišoṯe.//nabišoṯo.
  root: nbšt
  gramm: N,f
  paradigm: N2
  trans_de: Rosine
- trans_en: 
+ trans_en: raisins
 -lexeme
  lex: nabuniye
  stem: nabuniye.
  root: nbn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: etwas Unmögliches, was nicht geschehen ist
- trans_en: 
+ trans_en: something impossible, something which has not yet happened
 -lexeme
  lex: nadama
  stem: nadama.
  root: ndm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Reue
- trans_en: 
+ trans_en: remorse
 -lexeme
- lex: N(a)daṯalo(ho
- stem: n(a)daṯalo(ho.
- root: N()dṯl(h
+ lex: Ndaṯaloho/Ndaṯalo/Naldaṯaloho
+ stem: Ndaṯaloho.//Ndaṯalo.//Naldaṯaloho
+ root: yldlh
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gottesmutter
- trans_en: 
+ trans_en: the Mother of God
+-lexeme
+ lex: naddabat
+ stem: naddabat.
+ root: ndb
+ gramm: N
+ paradigm: <?>
+ trans_de: Klageweiber
+ trans_en: wailer
 -lexeme
  lex: nadi
  stem: nadi.
  root: ndw
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Klub
- trans_en: 
+ trans_en: club
 -lexeme
  lex: naḏro
  stem: naḏro.
  root: nḏr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Gelübde
- trans_en: 
+ trans_en: promise, pledge
 -lexeme
- lex: naḍafa
- stem: naḍafa.
+ lex: naḏafa/naḏ̣afa
+ stem: naḏafa.//naḏ̣afa.
  root: nẓf
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sauberkeit
- trans_en: 
+ trans_en: cleanness
 -lexeme
- lex: naḍar
- stem: naḍar.
+ lex: naḏar/naḏ̣ar
+ stem: naḏar.//naḏ̣ar.
  root: nẓr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sehkraft
- trans_en: 
+ trans_en: vision, sight
 -lexeme
- lex: naḍifo
- stem: naḍifo.|naḍife.
+ lex: naḏifo/naḏ̣ifo
+ stem: naḏifo.//naḏ̣ifo.|naḏife.//naḏ̣ife.
  root: nẓf
  gramm: N,m
  paradigm: N2
- trans_de: ein
- trans_en: 
+ trans_de: sauber, rein
+ trans_en: clean, tidy
 -lexeme
  lex: naḏra
  stem: naḏra.
  root: nẓr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Blick, Aufsicht
- trans_en: 
+ trans_en: look; looking after, surveillance
 -lexeme
  lex: naḏər
  stem: naḏər.
  root: nẓr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Aufseher beim Spiel
- trans_en: 
+ trans_en: one who oversees the game
 -lexeme
  lex: nafal
  stem: nafal.
  root: nfl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Klee
- trans_en: 
+ trans_en: clover
 -lexeme
  lex: nafar
  stem: nafar.|nafarat.//nafare.
  root: nfr
  gramm: N,m
  paradigm: N2
- trans_de: näfärat Soldat, gemeiner Soldat pl –at
- trans_en: 
+ trans_de: Soldat, gemeiner Soldat
+ trans_en: soldier, ordinary soldier
 -lexeme
  lex: nafas
  stem: nafas.
  root: nfs
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Atem, Atemluft
- trans_en: 
+ trans_en: breath, breathing air
 -lexeme
  lex: nafi
  stem: nafi.
  root: nfw
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Verbannung
- trans_en: 
+ trans_en: banishment
 -lexeme
  lex: nafir
  stem: nafir.
  root: nfr
  gramm: N,m
- paradigm: N1
- trans_de: Horn zum Blasen
- trans_en: 
+ paradigm: <?>
+ trans_de: Horn zum Blasen; allgemeiner Aufbruch
+ trans_en: horn for blowing; <?>
 -lexeme
  lex: nafs
  stem: nafs.
  root: nfs
- gramm: N,f
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: selbst
+ trans_en: himself, herself; same
 -lexeme
  lex: nafšo
- stem: nafšo.|nafšooṯo.
+ stem: nafšo.|nafšoṯo.//nafšoṯe.
  root: npš
  gramm: N,f
  paradigm: N2
  trans_de: Seele
- trans_en: 
+ trans_en: soul
 -lexeme
  lex: nafura
  stem: nafura.
  root: nfr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Meßbuch
- trans_en: 
+ trans_en: mass book
+-lexeme
+ lex: nagiwo
+ stem: nagiwo.|nagiwe.
+ root: ngw
+ gramm: ADJ
+ paradigm: N2
+ trans_de: hart (Brot, Käse)
+ trans_en: hard (bread, cheese)
 -lexeme
  lex: naǧda
  stem: naǧda.
  root: nǧd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hilfe (militärisch)
- trans_en: 
+ trans_en: help (military)
+-lexeme
+ lex: naǧəs/nəǧəs
+ stem: naǧəs.//nəǧəs.
+ root: nǧs
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unrein
+ trans_en: unclean
 -lexeme
  lex: naǧǧariye
  stem: naǧǧariye.
  root: nǧr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schreinerhandwerk
- trans_en: 
+ trans_en: woodwork
 -lexeme
  lex: naǧolo
- stem: naǧolo.
+ stem: naǧolo.|naǧole.
  root: nǧl
  gramm: N,m
- paradigm: N1
- trans_de: Tier)
- trans_en: 
+ paradigm: N2
+ trans_de: reißend (Tier)
+ trans_en: <?>
 -lexeme
  lex: naǧoro
  stem: naǧoro.|naǧore.
@@ -27259,55 +27283,87 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schreiner
- trans_en: 
+ trans_en: woodworker
 -lexeme
  lex: naġme
  stem: naġme.|anġam.
  root: nġm
  gramm: N,f
  paradigm: N2
- trans_de: a) Singweise b) Ton
- trans_en: 
+ trans_de: Singweise; Ton
+ trans_en: melody; sound
 -lexeme
  lex: naġze
  stem: naġze.
  root: nġz
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Seitenstechen
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: nahaye/nihaye
+ stem: nahaye.//nihaye.
+ root: nhy
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: schließlich, am Ende
+ trans_en: finally, at the end
+-lexeme
+ lex: nahiro
+ stem: nahiro.|nahire.
+ root: nhr
+ gramm: N,m
+ paradigm: N2
+ trans_de: klug, intelligent
+ trans_en: smart, clever;
 -lexeme
  lex: nahiro
  stem: nahiro.
  root: nhr
  gramm: N,m
- paradigm: N1
- trans_de: a) klug, intelligent b) gestiftete Lampe oder Kerze in der Kirche
- trans_en: 
+ paradigm: <?>
+ trans_de: gestiftete Lampe oder Kerze in der Kirche
+ trans_en: <...> lamp or candle in church
 -lexeme
  lex: nahro
- stem: nahro.
+ stem: nahro.|nahre.
  root: nhr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Fluß
- trans_en: 
+ trans_en: river
+-lexeme
+ lex: naḥaq
+ stem: naḥaq.
+ root: ḥqq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: im Unrecht
+ trans_en: <?>
 -lexeme
  lex: naḥaqqiye
  stem: naḥaqqiye.
  root: ḥqq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Unrecht
- trans_en: 
+ trans_en: injustice
 -lexeme
- lex: naḥiye
- stem: naḥiye.
+ lex: naḥašša
+ stem: naḥašša.
+ root: nḥš
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: ohne Rücksicht auf jemanden
+ trans_en: without consideration for someone
+-lexeme
+ lex: naḥiye/naḥya
+ stem: naḥiye.//naḥya.
  root: nḥw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verwaltungsbezirk
- trans_en: 
+ trans_en: administrative district
 -lexeme
  lex: naḥlo
  stem: naḥlo.|naḥle.
@@ -27315,39 +27371,111 @@
  gramm: N,m
  paradigm: N2
  trans_de: Musikweise
- trans_en: 
+ trans_en: melody
 -lexeme
  lex: naḥota
  stem: naḥota.
  root: nḥt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Abstieg
- trans_en: 
+ trans_en: descent
 -lexeme
  lex: naḥoto
- stem: naḥoto.|ع·ع.
+ stem: naḥoto.|naḥote.
  root: nḥt
  gramm: N,m
  paradigm: N2
- trans_de: Steinmetz pl
- trans_en: 
+ trans_de: Steinmetz
+ trans_en: stonemason
 -lexeme
  lex: naḥšo
  stem: naḥšo.
  root: nʕš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Totenbahre
- trans_en: 
+ trans_en: hearse
 -lexeme
- lex: naḥya
- stem: naḥya.
- root: nḥw
+ lex: nakaḥ
+ stem: nakaḥ.
+ root: nkḥ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Heirat, Ehe
+ trans_en: marriage, wedlock
+-lexeme
+ lex: nakalat
+ stem: nakalat.
+ root: nkl
+ gramm: N
+ paradigm: <?>
+ trans_de: vergebliches Ermahnen
+ trans_en: vain attempts to persuade someone
+-lexeme
+ lex: nakat
+ stem: nakat.
+ root: nkt
+ gramm: <?>
+ paradigm: <?>
+ trans_de: möge nicht fallen
+ trans_en: <?>
+-lexeme
+ lex: nakkəz
+ stem: nakkəz.
+ root: nkz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: die hohle Schmalseite des Spielknöchels
+ trans_en: narrow side of a playing knuckle
+-lexeme
+ lex: nakkufi
+ stem: nakkufi.
+ root: nkf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schamhaft, verschämt
+ trans_en: shy, shame-faced
+-lexeme
+ lex: nakole
+ stem: nakole.
+ root: nkl
+ gramm: N
+ paradigm: <?>
+ trans_de: vergebliches Ermahnen
+ trans_en: vain attempts to persuade someone
+-lexeme 
+ lex: nakuzo
+ stem: nakuzo.|nakuze.
+ root: nkz
+ gramm: ADJ
+ paradigm: N2
+ trans_de: spitz
+ trans_en: sharp
+-lexeme
+ lex: nalčaye
+ stem: nalčaye.
+ root: nlčy
  gramm: N,f
- paradigm: N1
- trans_de: Verwaltungsbezirk
- trans_en: 
+ paradigm: <?>
+ trans_de: Eisen zur Verstärkung des Absatzes
+ trans_en: iron for strengthening of <...>
+-lexeme
+ lex: nalnal
+ stem: nalnal.
+ root: nlnl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Stöhnen, Gewimmer
+ trans_en: groaning, cries
+-lexeme
+ lex: namardiye
+ stem: namardiye.
+ root: nmrdy
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: zögern, faul sein
+ trans_en: hesitate, be lazy
 -lexeme
  lex: naylon
  stem: naylon.
@@ -27398,82 +27526,106 @@
  trans_en: 
 -lexeme
  lex: namra
- stem: namra.
+ stem: namra.|namrat.
  root: nmr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Nummer
- trans_en: 
+ trans_en: number
 -lexeme
  lex: namus/naməs
- stem: namus/naməs.
- root: nms/nms
+ stem: namus.//naməs.
+ root: nms
  gramm: N,m
- paradigm: N1
- trans_de: a) Ehre, edle Heldentat b) unberührbar (Frau)
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Ehre, edle Heldentat; unberührbar (Frau)
+ trans_en: honour, noble deed; untouchable (woman)
+-lexeme
+ lex: namussəz
+ stem: namussəz.|namussəzin.
+ root: nmsz
+ gramm: ADJ
+ paradigm: N2
+ trans_de: ehrlos
+ trans_en: dishonourable
+-lexeme
+ lex: nan
+ stem: nan.
+ root: nn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Brot
+ trans_en: bread
+-lexeme
+ lex: napandi
+ stem: napandi.
+ root: npd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: geheim
+ trans_en: secret
 -lexeme
  lex: napšono
  stem: napšono.
  root: npš
  gramm: N,m
- paradigm: N1
- trans_de: der Essen kocht und davon isst, ehe es fertig ist
- trans_en: 
+ paradigm: <?>
+ trans_de: jemand, der Essen kocht und davon isst, ehe es fertig ist
+ trans_en: someone who cooks food and its some of it, before it is ready
 -lexeme
  lex: naqaba
  stem: naqaba.
  root: nqb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Lücke, Bresche
- trans_en: 
+ trans_en: hole, breach
 -lexeme
  lex: naqdo
  stem: naqdo.
  root: nqd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Brautgeld
- trans_en: 
+ trans_en: dowry
 -lexeme
- lex: naq(ə)š
- stem: naq(ə)š.|naq(ə)šat.
+ lex: naqš/naqəš
+ stem: naqš.//naqəš.|naqšat.
  root: nqš
  gramm: N,m
  paradigm: N2
  trans_de: Stickerei, Ornament, Schmuck
- trans_en: 
+ trans_en: embroidery, jewellery, ornament
 -lexeme
  lex: naqla
- stem: naqla.|naqlaat.//naqlawoṯe.
+ stem: naqla.|naqlat.//naqlawoṯe.//naqlawat.//naqlawoṯo.
  root: nql
  gramm: N,f
  paradigm: N2
  trans_de: Mal, einmal, mit einem Male, auf einmal, plötzlich
- trans_en: 
+ trans_en: time, one time; suddenly
 -lexeme
  lex: naqošo
- stem: naqošo.
+ stem: naqošo.|naqoše.
  root: nqš
  gramm: N,m
- paradigm: N1
- trans_de: Kunst-)Maler
- trans_en: 
+ paradigm: N2
+ trans_de: (Kunst-)Maler
+ trans_en: artist, painter
 -lexeme
  lex: naqqa
- stem: naqqa.|naqqaawat.//naqqawoṯo.
+ stem: naqqa.|naqqawat.//naqqawoṯo.//naqqawoṯe.
  root: nqq
  gramm: N,f
  paradigm: N2
- trans_de: einmal, plötzlich
- trans_en: 
+ trans_de: auf einmal, plötzlich
+ trans_en: suddenly
 -lexeme
  lex: naqše
  stem: naqše.
  root: nqš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zeichnung (auf dem Fell der Gazelle)
  trans_en: 
 -lexeme
@@ -27483,15 +27635,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Loch, Höhle
- trans_en: 
+ trans_en: hole, opening
 -lexeme
  lex: nargile
- stem: nargile.
+ stem: nargile.|nargilat.
  root: nrgl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Wasserpfeife
- trans_en: 
+ trans_en: hookah
 -lexeme
  lex: nargo
  stem: nargo.|narge.
@@ -27499,127 +27651,167 @@
  gramm: N,m
  paradigm: N2
  trans_de: Axt; Querbeil, mit anderem Ende zum Auflockern der Erde
- trans_en: 
+ trans_en: axe; <...>, the other end is used loosening the soil
 -lexeme
  lex: narx
  stem: narx.
  root: nrx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: eine Forderung oder Benennung, die man schwer loswird
- trans_en: 
+ trans_en: demand or title which is difficult to get rid of
+-lexeme
+ lex: nasəl
+ stem: nasəl.
+ root: nsl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Familie, Geschlecht
+ trans_en: family, kin
 -lexeme
  lex: naṣib
  stem: naṣib.
  root: nṣb
  gramm: N,m
- paradigm: N1
- trans_de: gewährter Anteil; das, was einem bestimmt ist
- trans_en: 
+ paradigm: unchangeable
+ trans_de: von gewährter Anteil; das, was einem bestimmt ist
+ trans_en: <...>; something that is meant to be for someone
+-lexeme
+ lex: naṣəḥ
+ stem: naṣəḥ.
+ root: nṣḥ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: berühmt
+ trans_en: famous
 -lexeme
  lex: naṣiḥo
- stem: naṣiḥo.
+ stem: naṣiḥo.|naṣiḥe.
  root: nṣḥ
- gramm: N,m
- paradigm: N1
- trans_de: AS
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: berühmt
+ trans_en: famous
+-lexeme
+ lex: naṣoriko
+ stem: naṣoriko.
+ root: nṣrk
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: sehr abgemagert, nicht mehr zunehmend
+ trans_en: very emaciated, not gaining weight anymore
 -lexeme
  lex: naṣṣab
  stem: naṣṣab.|naṣṣabin.
  root: nṣb
  gramm: N,m
  paradigm: N2
- trans_de: Gauner pl Bn
- trans_en: 
+ trans_de: Gauner
+ trans_en: crook, trickster
+-lexeme
+ lex: naṣṭurnoyo/naṣṭərnoyo
+ stem: naṣṭurnoyo.//naṣṭərnoyo.//nasturnoyo.//nastərnoyo.|naṣṭurnoye.//naṣṭərnoye.//nasturnoye.//nastərnoye.
+ root: nstr
+ gramm: ADJ
+ paradigm: N2
+ trans_de: Nestorianer
+ trans_en: Nestorian
+-lexeme
+ lex: naṣwo
+ stem: naṣwo.
+ root: nṣb
+ gramm: N,m
+ paradigm: N2
+ trans_de: neu angelegter Weinberg
+ trans_en: newly created vineyard
+-lexeme
+ lex: naša
+ stem: naša.
+ root: nšy/nšw
+ gramm: N
+ paradigm: unchangeable
+ trans_de: freudige Stimmung
+ trans_en: joyful mood
+-lexeme
+ lex: našadər
+ stem: našadər.
+ root: nšdr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Salmiak
+ trans_en: ammonium chloride
+-lexeme
+ lex: naši
+ stem: naši.
+ root: nšy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: vergessend
+ trans_en: forgetting
 -lexeme
  lex: našifo
- stem: našifo.
+ stem: našifo.|našife.
  root: nšf
  gramm: N,m
- paradigm: N1
- trans_de: Sl
- trans_en: 
+ paradigm: N2
+ trans_de: trocken; hart
+ trans_en: dry; hard
 -lexeme
  lex: našqa/našqe
- stem: našqa/našqe.|našqa.//našqeat.//nšaqyoṯe.//nšaqyoṯo.
+ stem: našqa.//našqe.|našqa.//našqat.//nšaqyoṯe.//nšaqyoṯo.
  root: nšq
  gramm: N,f
  paradigm: N2
  trans_de: Kuss
- trans_en: 
+ trans_en: kiss
+-lexeme
+ lex: našriyat
+ stem: našriyat.
+ root: nšr
+ gramm: N
+ paradigm: <?>
+ trans_de: Bekanntmachungen
+ trans_en: announcement, notice
 -lexeme
  lex: naštar
  stem: naštar.
  root: nštr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlinge, die aufgeht, wenn man an dem einen Ende zieht; Slipsteek
- trans_en: 
+ trans_en: snare which <...> when someone pulls at one end; running knot
 -lexeme
  lex: natiǧe
  stem: natiǧe.
  root: ntǧ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ergebnis; das, was bei einer Sache herauskommt; kurz und gut
- trans_en: 
+ trans_en: result; something which comes out from a situation; in one word
 -lexeme
  lex: natino
  stem: natino.|natine.
  root: ntn
  gramm: N,m
  paradigm: N2
- trans_de: An
- trans_en: 
--lexeme
- lex: nawba
- stem: nawba.|nawbat.
- root: nwb
+ trans_de: stinkig
+ trans_en: stinking
+-lexeme 
+ lex: natruṯo
+ stem: natruṯo.
+ root: ntr
  gramm: N,f
- paradigm: N2
- trans_de: Wache
- trans_en: 
--lexeme
- lex: nawbači
- stem: nawbači.|nawbačiiye.
- root: nwb
- gramm: N,m
- paradigm: N2
- trans_de: iye Wächter
- trans_en: 
--lexeme
- lex: nawlo
- stem: nawlo.
- root: nwl
- gramm: N,m
- paradigm: N1
- trans_de: Unterkiefer, wo die Zähne sitzen, Kinnlade
- trans_en: 
--lexeme
- lex: nawqe
- stem: nawqe.|nawqat.
- root: nwq
- gramm: N,f
- paradigm: N2
- trans_de: Taille
- trans_en: 
--lexeme
- lex: nawto
- stem: nawto.|nowe.
- root: nwt
- gramm: N,f
- paradigm: N2
- trans_de: nowe Lauseei, Nisse
- trans_en: 
+ paradigm: unchangeable
+ trans_de: einziges Kind
+ trans_en: only child
 -lexeme
  lex: nav
  stem: nav.
  root: nv
  gramm: N,m
- paradigm: N1
- trans_de: a) Name, guter Name b) Mitte
- trans_en: 
+ paradigm: <?>
+ trans_de: Name, guter Name; Mitte
+ trans_en: name, good name; middle
 -lexeme
  lex: nave
  stem: nave.|navat.
@@ -27627,71 +27819,191 @@
  gramm: N,f
  paradigm: N2
  trans_de: Mitte
- trans_en: 
+ trans_en: middle
 -lexeme
  lex: navi
  stem: navi.
  root: nv
  gramm: N,m
- paradigm: N1
- trans_de: naviye Enkel, Enkelin
- trans_en: 
+ paradigm: <?>
+ trans_de: Enkel
+ trans_en: grandson
+-lexeme
+ lex: naviye
+ stem: naviye.
+ root: nv
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Enkelin
+ trans_en: granddaughter
 -lexeme
  lex: navək
  stem: navək.
- root: nvk
- gramm: N,m
- paradigm: N1
- trans_de: Enkel, Enkelin (Midin)
- trans_en: 
+ root: nv
+ gramm: N,m,dim
+ paradigm: <?>
+ trans_de: Enkel (Mīdin)
+ trans_en: grandson (Midən)
 -lexeme
+ lex: navəke
+ stem: navəke.
+ root: nv
+ gramm: N,f,dim
+ paradigm: <?>
+ trans_de: Enkelin (Mīdin)
+ trans_en: granddaughter (Midən)
+-lexeme 
  lex: navike
  stem: navike.
- root: nvk
+ root: nv
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Innere des Brotes, Krume
- trans_en: 
+ trans_en: inside part of the bread, crumb
+-lexeme
+ lex: navmali
+ stem: navmali.
+ root: nvml
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: zum Hause gehörend
+ trans_en: belonging to the house
 -lexeme
  lex: navoyo
- stem: navoyo.
- root: nvy
- gramm: N,m
- paradigm: N1
- trans_de: navaito mittelster
- trans_en: 
+ stem: navoyo.|navoye.
+ root: nv
+ gramm: ADJ
+ paradigm: N2
+ trans_de: mittelster
+ trans_en: the middle one
 -lexeme
  lex: navruqo
  stem: navruqo.
  root: nvrq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Insel
- trans_en: 
+ trans_en: island
 -lexeme
- lex: nawaiye
- stem: nawaiye.
+ lex: nawayye
+ stem: nawayye.
  root: nwy
  gramm: N,f
- paradigm: N1
- trans_de: Lüge layt nawaiye
- trans_en: 
+ paradigm: <?>
+ trans_de: Lüge
+ trans_en: lie
 -lexeme
- lex: nawale
- stem: nawale.|nawalat.
+ lex: nawale/nuwale
+ stem: nawale.//nuwale.|nawalat.//nuwalat.
  root: nwl
  gramm: N,f
  paradigm: N2
  trans_de: Tal
- trans_en: 
+ trans_en: valley
+-lexeme
+ lex: nawar
+ stem: nawar.
+ root: nwr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Zigeuner (sollen aus der Familie des Caṣṣaṣ, des Töters von Kulaib, stammen. Sultan Ḥasan b. Hilāl soll ihnen das Waffentragen verboten haben)
+ trans_en: gypsies (apparently stem from the family of Caṣṣaṣ, the murderer of Kulaib. Sultan Hassan b. Hilal has apparently prohibited them to carry weapons)
+-lexeme
+ lex: nawba/noba
+ stem: nawba.//noba.|nawbat.//nobat.
+ root: nwb
+ gramm: N,f
+ paradigm: N2
+ trans_de: Wache
+ trans_en: guard, watch
+-lexeme
+ lex: nawbači/nobači
+ stem: nawbači.//nobači.|nawbačiye.//nobačiye.
+ root: nwb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Wächter
+ trans_en: guard
 -lexeme
  lex: nawəṣ
  stem: nawəṣ.
  root: nwṣ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: hüttenförmige Begräbnisstätte für ungetaufte Kinder
- trans_en: 
+ trans_en: <...> burial places for unbaptized children
+-lexeme
+ lex: nawlo
+ stem: nawlo.
+ root: nwl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Unterkiefer, wo die Zähne sitzen, Kinnlade
+ trans_en: lower jaw, where the teeth are; maxilla
+-lexeme
+ lex: nawnaw
+ stem: nawnaw.
+ root: nwnw
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Miau
+ trans_en: meow
+-lexeme
+ lex: nawone
+ stem: nawone.
+ root: nwn
+ gramm: N
+ paradigm: <?>
+ trans_de: die innersten Herzadern
+ trans_en: the veins which are deep inside
+-lexeme
+ lex: nawqe
+ stem: nawqe.|nawqat.
+ root: nwq
+ gramm: N,f
+ paradigm: N2
+ trans_de: Taille
+ trans_en: waist
+-lexeme
+ lex: nawto
+ stem: nawto.|nowe.
+ root: nwt
+ gramm: N,f
+ paradigm: N2
+ trans_de: nowe Lauseei, Nisse
+ trans_en: nit
+-lexeme
+ lex: nawxa
+ stem: nawxa.
+ root: nwx
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: wenn es so ist, sonst
+ trans_en: when it is so, then
+-lexeme
+ lex: naxa
+ stem: naxa.
+ root: nx
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: sonst, etwa, nicht etwa, na dann
+ trans_en: otherwise, not even; well then
+-lexeme
+ lex: naxasəm
+ stem: naxasəm.
+ root: nxsm
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: wenn doch
+ trans_en: if
+-lexeme
+ lex: naxoš/naxwaš
+ stem: naxoš.//naxwaš.
+ root: nxwš
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: krank, unwohl, schlecht
+ trans_en: ill, not well, bad
 -lexeme
  lex: nayar
  stem: nayar.|nayare.
