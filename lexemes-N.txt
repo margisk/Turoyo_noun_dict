@@ -25866,7 +25866,7 @@
  root: mgš
  gramm: N,m
  paradigm: N2
- trans_de: Magier, einer der hl. drei Könige 
+ trans_de: Magier, einer der hl. drei Könige
  trans_en: wise man, one of <...> three kings
 -lexeme
  lex: mǧadala/muǧadala
