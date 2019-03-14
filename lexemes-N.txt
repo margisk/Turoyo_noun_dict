@@ -33797,133 +33797,157 @@
  trans_de: Almosen
  trans_en: 
 -lexeme
- lex: safar
- stem: safar.
- root: sfr
- gramm: N,m
- paradigm: N1
- trans_de: Reise
- trans_en: 
--lexeme
  lex: safiḥo
  stem: safiḥo.
  root: sfḥ
- gramm: N,m
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: abscheulich, greulich; geschwätzig;  schamlos
+ trans_en: abominable, horrible; talkative; shameless
 -lexeme
  lex: safil
  stem: safil.
  root: sfl
- gramm: N,m
- paradigm: N1
- trans_de: abgezehrt PrS
- trans_en: 
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: heruntergekommen, abgezehrt
+ trans_en: shabby, emaciated
 -lexeme
- lex: safra
- stem: safra.
+ lex: safra/safar
+ stem: safra.//safar.
  root: sfr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Reise
- trans_en: 
+ trans_en: journey
+-lexeme
+ lex: safro
+ stem: safro
+ root: sfr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Mal
+ trans_en: time
 -lexeme
  lex: safruno
  stem: safruno.|safrune.
- root: sfrn
+ root: sfr
  gramm: N,m
  paradigm: N2
  trans_de: Sperling
- trans_en: 
+ trans_en: sparrow
+-lexeme
+ lex: sagiyonoyo
+ stem: sagiyonoyo.
+ root: sgy
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Plural
+ trans_en: plural
 -lexeme
  lex: sagmani
  stem: sagmani.
  root: sgmn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Krieger
- trans_en: 
+ trans_en: warrior
+-lexeme
+ lex: saġ/sax
+ stem: saġ.//sax. 
+ root: sġ
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: am Leben; gesund, wohlbehalten
+ trans_en: alive; healthy, well-kept
+-lexeme
+ lex: saġək 
+ stem: saġək.
+ root: sġ
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: lebendig
+ trans_en: living
 -lexeme
  lex: saġiro
  stem: saġiro.
  root: sgr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Transportsack
- trans_en: 
+ trans_en: transportation bag
 -lexeme
  lex: saġitiye
  stem: saġitiye.
  root: sġt
  gramm: N,f
- paradigm: N1
- trans_de: lebendig bleiben Yu
- trans_en: 
+ paradigm: unchangeable
+ trans_de: leben, lebendig bleiben
+ trans_en: to live, stay alive
 -lexeme
  lex: saġiye
  stem: saġiye.
  root: sġy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gesundheit, am Leben bleiben
- trans_en: 
+ trans_en: health, to stay alive
+-lexeme
+ lex: saġlam
+ stem: saġlam.
+ root: sġlm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: fest, tüchtig
+ trans_en: firm, efficient
 -lexeme
  lex: saġlamiye
  stem: saġlamiye.
  root: sġlmy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufrichtigkeit, Recht
- trans_en: 
+ trans_en: sincerity, justice
+-lexeme
+ lex: sahl
+ stem: sahl.
+ root: shl
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: leicht
+ trans_en: light
 -lexeme
  lex: sahliye
  stem: sahliye.
  root: shl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Leichtigkeit
- trans_en: 
--lexeme
- lex: sahm
- stem: sahm.
- root: shm
- gramm: N,m
- paradigm: N1
- trans_de: Anteil
- trans_en: 
+ trans_en: lightness
 -lexeme
  lex: sahmo
- stem: sahmo.|sahme.
+ stem: sahmo.//sahm.|sahme.
  root: shm
  gramm: N,m
  paradigm: N2
- trans_de: Sl
- trans_en: 
+ trans_de: Anteil
+ trans_en: share
 -lexeme
  lex: sahra
  stem: sahra.
  root: shr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Abendgesellschaft
- trans_en: 
--lexeme
- lex: saḥ(a)n(ə)ke
- stem: saḥ(a)n(ə)ke.|saḥ(a)n(ə)keat.//saḥnəke.
- root: sḥ()n()k
- gramm: N,f
- paradigm: N2
- trans_de: irdenes Näpfchen, Essschüsselchen für eine Person
- trans_en: 
+ trans_en: dinner party
 -lexeme
  lex: sahoyo
  stem: sahoyo.|sahoye.
  root: shy
  gramm: N,m
  paradigm: N2
- trans_de: Schwimmer pl
- trans_en: 
+ trans_de: Schwimmer
+ trans_en: swimmer
 -lexeme
  lex: saḥa/ṣaḥa
  stem: saḥa.//ṣaḥa.
@@ -33933,61 +33957,109 @@
  trans_de: Geländefläche, Grundstück
  trans_en: area, plot of land
 -lexeme
+ lex: saḥanəke/saḥanke/saḥnəke
+ stem: saḥanəke.//saḥanke.//saḥnəke.|saḥanəkat.//saḥankat.//saḥnəkat.//saḥnəke.
+ root: sḥnk
+ gramm: N,f DIM
+ paradigm: N2
+ trans_de: irdenes Näpfchen, Essschüsselchen für eine Person
+ trans_en: earthen cup, eating bowl for one person
+-lexeme
+ lex: sakən
+ stem: sakən.
+ root: skn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: wohnend
+ trans_en: living
+-lexeme
+ lex: sakini
+ stem: sakini.
+ root: skn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: dauernd
+ trans_en: continual
+-lexeme
  lex: sako
  stem: sako.
  root: sk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sackojacket
- trans_en: 
+ trans_en: jacket
 -lexeme
- lex: sak(k)ah
- stem: sak(k)ah.|sak(k)ahe.//sak(k)ahat.
- root: sk(k)h
+ lex: sakkah/sakah
+ stem: sakkah.//sakah.|sakkahe.//sakahe.//sakkahat.//sakahat.
+ root: skh
  gramm: N,m
  paradigm: N2
  trans_de: Eisenpflock zum Anbinden des Pferdes
- trans_en: 
+ trans_en: iron peg for tying of the mount
 -lexeme
  lex: sakṯo
  stem: sakṯo.|seke.
  root: skk
  gramm: N,f
  paradigm: N2
- trans_de: seke a) Fangeisen der Fuchsfalle b) einmaliges Durchackern pl c) Pflock zum Anbinden des Reittieres
- trans_en: 
+ trans_de: Fangeisen der Fuchsfalle; einmaliges Durchackern; Pflock zum Anbinden des Reittieres; Pflock zum Aufhängen eines Schlauches
+ trans_en: fangs of the fox trap; single act of ploughing; peg for tying of the mount; peg for hanging a hose
 -lexeme
  lex: salab
  stem: salab.
  root: slb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Trupp
- trans_en: 
+ trans_en: squad
 -lexeme
  lex: salaf
  stem: salaf.
  root: slf
  gramm: N,m
- paradigm: N1
- trans_de: a) Vortrupp nicht b) Zins
- trans_en: 
+ paradigm: <?>
+ trans_de: Vortrupp; Zins
+ trans_en: vanguard; interest
 -lexeme
  lex: salame
  stem: salame.
  root: slm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gesundheit, Wohlbefinden
- trans_en: 
+ trans_en: health, well-being
 -lexeme
  lex: salb
  stem: salb.
  root: slb
  gramm: N,m
- paradigm: N1
- trans_de: Ausrauben nicht
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Ausrauben
+ trans_en: to rob
+-lexeme
+ lex: salim
+ stem: salim.
+ root: slm
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Wohlbehalten
+ trans_en: safety
+-lexeme
+ lex: salənto
+ stem: salənto.
+ root: slnt
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Christusdorn, Paliurus spina Christi Mill.
+ trans_en: Christ's thorn, Paliurus spina-christi
+-lexeme
+ lex: sallanǧak
+ stem: sallanǧak.
+ root: sllnǧk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: Schaukel
+ trans_en: swing
 -lexeme
  lex: salləke
  stem: salləke.|salləkat.
@@ -33995,15 +34067,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Korb, Papierkorb
- trans_en: 
+ trans_en: basket, wastepaper basket
 -lexeme
  lex: salo
  stem: salo.|sale.
  root: sll
  gramm: N,m
  paradigm: N2
- trans_de: großer Korb pl
- trans_en: 
+ trans_de: großer Korb
+ trans_en: big basket
 -lexeme
  lex: saloġ
  stem: saloġ.|saloġat.
@@ -34011,15 +34083,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kunde, Nachricht
- trans_en: 
+ trans_en: news, message
 -lexeme
  lex: saloqa
  stem: saloqa.
  root: slq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aufstieg
- trans_en: 
+ trans_en: ascent
 -lexeme
  lex: saluno
  stem: saluno.|salune.
@@ -34027,7 +34099,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gedörn, Dornstrauch
- trans_en: 
+ trans_en: dirt, thorn bush
 -lexeme
  lex: salunto
  stem: salunto.|sawnyoṯo.
@@ -34035,23 +34107,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Dorn, Dornzweig
- trans_en: 
+ trans_en: thorn, thorn branch
+-lexeme
+ lex: sama
+ stem: sama
+ root: sm
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Blindheit!
+ trans_en: blindness!
 -lexeme
  lex: samaġ
  stem: samaġ.
  root: smġ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: härten durch Wasserbad
- trans_en: 
+ trans_en: to harden with water bath
 -lexeme
  lex: samaḥ
  stem: samaḥ.
  root: smḥ
  gramm: N,m
- paradigm: N1
- trans_de: a) Erlaubnis b) Nachsicht, Vergebung
- trans_en: 
+ paradigm: <?>
+ trans_de: Erlaubnis; Nachsicht, Vergebung
+ trans_en: permission; patience, forgiveness
 -lexeme
  lex: samaḥa
  stem: samaḥa.
@@ -34089,15 +34169,15 @@
  stem: samolo.
  root: sml
  gramm: N,m
- paradigm: N1
- trans_de: Norden
- trans_en: 
+ paradigm: unchangeable
+ trans_de: links; Norden
+ trans_en: left; North
 -lexeme
  lex: samuniye
  stem: samuniye.
  root: smn
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: rundes Brot
  trans_en: round bread
 -lexeme
@@ -34129,7 +34209,7 @@
  stem: sandrunak.
  root: sndrnk
  gramm: N,f DIM
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: kleines Boot
  trans_en: small boat
 -lexeme
@@ -34153,7 +34233,7 @@
  stem: sansale.//sinsile.//sənsile.
  root: snsl
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Ahnenreihe, Geschlecht, Stamm
  trans_en: ancestry, family, lineage
 -lexeme
@@ -34177,7 +34257,7 @@
  stem: saqʕo.
  root: sqʕ
  gramm: N,m
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Dachboden
  trans_en: loft
 -lexeme
@@ -34193,7 +34273,7 @@
  stem: saqmono.
  root: sqmn
  gramm: N,m
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Spinnengewebe
  trans_en: spider’s web
 -lexeme
@@ -35084,14 +35164,6 @@
  paradigm: <?>
  trans_de: große Eidechsenart
  trans_en: a kind of big lizard
--lexeme
- lex: sənsile/sansale
- stem: sənsile.//sansale.
- root: slsl
- gramm: N,f
- paradigm: <?>
- trans_de: Ahnenreihe, Geschlecht, Stamm
- trans_en: ancestral line, gender, tribe
 -lexeme
  lex: sənsle
  stem: sənsle.
