@@ -7251,6 +7251,14 @@
  trans_de: weißes Kopftuch der Frauen
  trans_en: white women's headdress
 -lexeme
+ lex: čarm
+ stem: čarm
+ root: črm
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: enthäuten (saq w čarm)
+ trans_en: skinning (saq w čarm)
+-lexeme
  lex: čarox
  stem: čarox.//čarəx.|čaroxat.//čwerəx.//čarəxat.
  root: črx
@@ -34049,25 +34057,33 @@
  stem: samaḥa.
  root: smḥ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nachsicht, Verzeihung
- trans_en: 
+ trans_en: patience, forgiveness
+-lexeme
+ lex: samar 
+ stem: samar
+ root: smr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: häuslicher Unfrieden
+ trans_en: domestic strife
 -lexeme
  lex: samdo
  stem: samdo.
  root: smd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: feine Weizengrütze
- trans_en: 
+ trans_en: fine wheat groats
 -lexeme
  lex: samo
  stem: samo.
  root: smm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gift
- trans_en: 
+ trans_en: poison
 -lexeme
  lex: samolo
  stem: samolo.
@@ -34081,57 +34097,65 @@
  stem: samuniye.
  root: smn
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: rundes Brot
- trans_en: 
+ trans_en: round bread
 -lexeme
  lex: samyo
  stem: samyo.|samye.
  root: smy
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: blind PrS
- trans_en: 
+ trans_de: blind
+ trans_en: blind
 -lexeme
  lex: sanad
  stem: sanad.|sanade.
  root: snd
  gramm: N,m
  paradigm: N2
- trans_de: sanade Urkunde, Schein
- trans_en: 
+ trans_de: Urkunde, Schein
+ trans_en: document, certificate
 -lexeme
  lex: sande
  stem: sande.
  root: snd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Stütze
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: sandrunak
  stem: sandrunak.
  root: sndrnk
- gramm: N,f
- paradigm: N1
+ gramm: N,f DIM
+ paradigm: unchangeable
  trans_de: kleines Boot
- trans_en: 
+ trans_en: small boat
 -lexeme
  lex: sanduqo
- stem: sanduqo.
+ stem: sanduqo.|sanduqe.
  root: sndq
  gramm: N,m
- paradigm: N1
- trans_de: a) Kiste, Koffer b) zylindrischer Getreidezuber
- trans_en: 
+ paradigm: N2
+ trans_de: Kiste, Koffer; zylindrischer Getreidezuber
+ trans_en: box, suitcase; cylindrical grain tub
 -lexeme
- lex: sansale
- stem: sansale.
+ lex: sanki 
+ stem: sanki.
+ root: snk
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: als ob
+ trans_en: as if
+-lexeme
+ lex: sansale/sinsile/sənsile
+ stem: sansale.//sinsile.//sənsile.
  root: snsl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ahnenreihe, Geschlecht, Stamm
- trans_en: 
+ trans_en: ancestry, family, lineage
 -lexeme
  lex: sapṯo
  stem: sapṯo.|sappoṯo.
@@ -34139,23 +34163,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Lippe; Ufer
- trans_en: 
+ trans_en: lip; shore
 -lexeme
  lex: saq
  stem: saq.|saqe.//saqat.
  root: swq
  gramm: N,m
  paradigm: N2
- trans_de: Wadenstrumpf
- trans_en: 
+ trans_de: Wadenstrumpf; pl Beine (des Ochsen) -at; enthäuten (saq w čarm)
+ trans_en: mid-calf length; pl legs (of the ox) -at; skinning (saq w čarm)
 -lexeme
  lex: saqʕo
  stem: saqʕo.
  root: sqʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Dachboden
- trans_en: 
+ trans_en: loft
 -lexeme
  lex: saqiye
  stem: saqiye.|saqiyat.
@@ -34163,23 +34187,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleiner Wasserlauf
- trans_en: 
+ trans_en: small watercourse
 -lexeme
  lex: saqmono
  stem: saqmono.
  root: sqmn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Spinnengewebe
- trans_en: 
+ trans_en: spider’s web
 -lexeme
- lex: saraye
- stem: saraye.
- root: sry
- gramm: N,f
- paradigm: N1
- trans_de: Serai(l)
- trans_en: 
+ lex: sar
+ stem: sar
+ root: sr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: kalt! (Ausdruck aus dem hōle-Spiel)
+ trans_en: cold! ...
+-lexeme
+ lex: sarav
+ stem: sarav.
+ root: srv
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: aḥ ḥeṭe sarav Spätweizen
+ trans_en: aḥ ḥeṭe sarav late wheat
 -lexeme
  lex: sarbazərgan
  stem: sarbazərgan.
@@ -35009,7 +35041,7 @@
  stem: səndək.
  root: sndk
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Weizen wird gekocht, dann getrocknet, dann angefeuchtet mit dem Mörser (doquqe) gestoßen, dann wieder getrocknet und zerkleinert (mit der Handmühle- gorišto), dann durch ein Sieb (mḥalto) gesiebt. Der grobe Teil heißt bərġəl, der mittlere hutik, der feine sindik 
  trans_en: wheat is boiled, then dried, then moistened with a mortar (doquqe), then dried again and crushed (with the hand mill gorišto), then sieved through a sieve (mḥalto). The rough part is called bərġəl, the middle hutik, the fine istik
 -lexeme
@@ -36342,11 +36374,11 @@
  trans_de: verkrüppelt, lahm
  trans_en: crippled, lame
 -lexeme
- lex: ṣaraye
- stem: ṣaraye.
+ lex: ṣaraye/saraye
+ stem: ṣaraye.//saraye.
  root: ṣry
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Serail
  trans_en: seraglio
 -lexeme
