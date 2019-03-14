@@ -10422,14 +10422,6 @@
  trans_de: ob, wenn
  trans_en: if, whether
 -lexeme
- lex: ənsan
- stem: ənsan.|ənsane.//ənsanat.
- root: ʔns
- gramm: N,m
- paradigm: N2
- trans_de: Mensch
- trans_en: human
--lexeme
  lex: ənzəbaṭ
  stem: ənzəbaṭ.
  root: nzbṭ
@@ -18811,8 +18803,8 @@
  trans_de: Mensch
  trans_en: human
 -lexeme
- lex: insan/ənsan/isan
- stem: insan.//ənsan.//isan.|insane.//insanat.//ənsane.//ənsanat.//insan.//ənsan.//isanat.//isane.
+ lex: insan/ənsan/isan/nsan
+ stem: insan.//ənsan.//isan.//nsan.|insane.//insanat.//ənsane.//ənsanat.//insan.//ənsan.//isanat.//isane.//nsanat.
  root: ʔns
  gramm: N,m
  paradigm: N2
@@ -28340,54 +28332,94 @@
  paradigm: N2
  trans_de: Bett
  trans_en: bed
+-lexeme 
+ lex: nfaqto/nfəqto/nfuqto
+ stem: nfaqto.//nfəqto.//nfuqto.
+ root: nfq
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Ausgang
+ trans_en: exiting, going out
+-lexeme
+ lex: nfeḥəl
+ stem: nfeḥəl.
+ root: fḥl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Verzeihung
+ trans_en: pardon
+-lexeme
+ lex: nfoqo
+ stem: nfoqo.|nfoqe.
+ root: nfq
+ gramm: N,m
+ paradigm: N2
+ trans_de: Ausgang
+ trans_en: going out
+-lexeme
+ lex: nhoroṯe
+ stem: nhoroṯe.
+ root: nhr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Morgengrauen
+ trans_en: dawn
 -lexeme
  lex: nḥiro
- stem: nḥiro.
+ stem: nḥiro.|nḥire.
  root: nḥr
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Nase
- trans_en: 
+ trans_en: nose
 -lexeme
  lex: nḥəṣar
  stem: nḥəṣar.
  root: ḥṣr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Belagerung
- trans_en: 
+ trans_en: siege
 -lexeme
- lex: nifaḍa
- stem: nifaḍa.
+ lex: nifaḏa/nifaḏ̣a
+ stem: nifaḏa.//nifaḏ̣a.|nifaḏat.//nifaḏ̣at.
  root: nfḍ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Aschenbecher
- trans_en: 
+ trans_en: ashtray
 -lexeme
- lex: nifus
- stem: nifus.
+ lex: nifus/nufus
+ stem: nifus.//nufus.
  root: nfs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bevölkerung
- trans_en: 
+ trans_en: polulation
 -lexeme
- lex: nigoro
- stem: nigoro.|nigore.
- root: ngr
+ lex: nikar
+ stem: nikar.
+ root: nkr
  gramm: N,m
- paradigm: N2
- trans_de: Dach
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Seite
+ trans_en: side
+-lexeme
+ lex: nikaroki
+ stem: nikaroki.
+ root: nkrk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kalkig, unergiebig
+ trans_en: limy, non-fertile
 -lexeme
  lex: nilo
  stem: nilo.
  root: nl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Indigo
- trans_en: 
+ trans_en: indigo
 -lexeme
  lex: niqal
  stem: niqal.|niqalat.
@@ -28395,15 +28427,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Unglück, Plage
- trans_en: 
+ trans_en: misfortune, trouble
 -lexeme
  lex: niqe
  stem: niqe.|niqat.
  root: nq
  gramm: N,f
  paradigm: N2
- trans_de: fälschlicherweise zuschreiben; pl
- trans_en: 
+ trans_de: fälschlicherweise zuschreiben
+ trans_en: false accusation
 -lexeme
  lex: niro
  stem: niro.|nire.
@@ -28411,7 +28443,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Pflugjoch
- trans_en: 
+ trans_en: yoke
+-lexeme
+ lex: nisən
+ stem: nisən.
+ root: nsn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: April
+ trans_en: april
 -lexeme
  lex: nišan
  stem: nišan.|nišanat.
@@ -28419,31 +28459,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zeichen; Korn der Flinte; Orden
- trans_en: 
+ trans_en: sign; <?>; order
 -lexeme
  lex: nišaniye
  stem: nišaniye.
  root: nšn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Verlobungsring, Verlobungsgeschenk
- trans_en: 
+ trans_en: engagement ring, engagement gift
+-lexeme
+ lex: nivgulxo
+ stem: nivgulxo.
+ root: nvglx
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: halb fertig gelassen
+ trans_en: left half-done
+-lexeme
+ lex: nivkušti
+ stem: nivkušti.
+ root: nvkšt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: halb getötet
+ trans_en: half-dead
 -lexeme
  lex: niya/niye
- stem: niya/niye.
+ stem: niya.//niye.|niyat.
  root: nwy
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Ziel, Reiseziel
- trans_en: 
--lexeme
- lex: nizaʕ
- stem: nizaʕ.
- root: nzʕ
- gramm: N,m
- paradigm: N1
- trans_de: Streit, Zank
- trans_en: 
+ trans_en: goal, goal of a journey
 -lexeme
  lex: nizale
  stem: nizale.|nizalat.
@@ -28451,175 +28499,111 @@
  gramm: N,f
  paradigm: N2
  trans_de: geschlängelte Keime, die im Innern der Melonen und anderer Früchte entstehen, und die bitter machen
- trans_en: 
+ trans_en: tortuous sprouts which appear inside watermelongs and other fruits and make them bitter
+-lexeme
+ lex: nizamiye
+ stem: nizamiye.
+ root: nzm
+ gramm: N,f
+ paradigm: <?>
+ trans_de: militärisches Gebäude
+ trans_en: military building
 -lexeme
  lex: nizar
  stem: nizar.
  root: nzr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: nicht besonnte Seite des Berges
- trans_en: 
+ trans_en: side of a mountain not exposed to sunlight
 -lexeme
  lex: nkatto
  stem: nkatto.
  root: nkt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bissen
- trans_en: 
--lexeme
- lex: noba
- stem: noba.
- root: nwb
- gramm: N,f
- paradigm: N1
- trans_de: Wache
- trans_en: 
--lexeme
- lex: nobači
- stem: nobači.|nobačiiye.
- root: nwb
- gramm: N,m
- paradigm: N2
- trans_de: iye Wächter
- trans_en: 
+ trans_en: biting; piece
 -lexeme
  lex: nobačiye
  stem: nobačiye.
  root: nwb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wache
- trans_en: 
--lexeme
- lex: nofuḥo
- stem: nofuḥo.
- root: nfḥ
- gramm: N,m
- paradigm: N1
- trans_de: Blasen, Hauch
- trans_en: 
+ trans_en: guard
 -lexeme
  lex: noḥuto/nəḥuto
  stem: noḥuto.//nəḥuto.
  root: nḥt
  gramm: N,m
  paradigm: N1
- trans_de: die Stelle der Stadt ist in der Erde versunken“
- trans_en: 
--lexeme
- lex: noqṣaniye
- stem: noqṣaniye.
- root: nqṣ
- gramm: N,f
- paradigm: N1
- trans_de: Nachlässigkeit, Versäumnis
- trans_en: 
--lexeme
- lex: noquṣo
- stem: noquṣo.|noquṣe.
- root: nqṣ
- gramm: N,m
- paradigm: N2
- trans_de: zureichend, gering
- trans_en: 
--lexeme
- lex: noqušo
- stem: noqušo.
- root: nqš
- gramm: N,m
- paradigm: N1
- trans_de: Kirchenglocke
- trans_en: 
+ trans_de: versunken, flach
+ trans_en: sunken; flat, plain
 -lexeme
  lex: noquwo
  stem: noquwo.
  root: nqw
  gramm: N,m
- paradigm: N1
- trans_de: der Sonne getrocknete Trauben. Sie werden nach dem Pflücken in Wasser gekocht. Wenn der Kirchenwein ausgeht, macht man daraus ein süßes Getränk statt des Weines
- trans_en: 
+ paradigm: <?>
+ trans_de: an der Sonne getrocknete Trauben. Sie werden nach dem Pflücken in Wasser gekocht. Wenn der Kirchenwein ausgeht, macht man daraus ein süßes Getränk statt des Weines
+ trans_en: grapes dried under the sun. After they are plucked they are boiled in water. When the wine used in church runs out, people make from these grapes a sweet drink in place of the wine
 -lexeme
  lex: nošo
  stem: nošo.|noše.
  root: nš
  gramm: N,m
  paradigm: N2
- trans_de: mit pl Bedeutung) Mensch; in neg. Sätzen: niemand pl
- trans_en: 
+ trans_de: (auch mit pl. Bedeutung) Mensch; in nge. Sätzen: niemand
+ trans_en: people; in neg. senteces: no one
 -lexeme
  lex: noṭ
  stem: noṭ.|noṭat.
  root: nṭ
  gramm: N,f
  paradigm: N2
- trans_de: Pfundnote nicht
- trans_en: 
+ trans_de: Pfundnote
+ trans_en: bank note
 -lexeme
- lex: noṭuro
- stem: noṭuro.|noṭure.
- root: nṭr
- gramm: N,m
+ lex: noṭa
+ stem: noṭa.|noṭat.
+ root: nṭ
+ gramm: N,f
  paradigm: N2
- trans_de: Wächter
- trans_en: 
+ trans_de: Musiknote
+ trans_en: note (music)
 -lexeme
  lex: nqurto
  stem: nqurto.
  root: nqrt
  gramm: N,f
- paradigm: N1
- trans_de: weißer Stein als Mörtel
- trans_en: 
+ paradigm: <?>
+ trans_de: geriebener, weißer Stein als Mörtel
+ trans_en: grinded white stone <...>
 -lexeme
- lex: nsan
- stem: nsan.|nsanat.
- root: ʔns
- gramm: N,m
- paradigm: N2
- trans_de: Mensch
- trans_en: 
--lexeme
- lex: nšaqto
- stem: nšaqto.
+ lex: nšaqto/nšəqto/nšuqto
+ stem: nšaqto.//nšəqto.//nšuqto.
  root: nšqt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Kuss
- trans_en: 
--lexeme
- lex: nšəqto/nšuqto
- stem: nšəqto/nšuqto.
- root: nšq
- gramm: N,f
- paradigm: N1
- trans_de: Kuss
- trans_en: 
+ trans_en: kiss
 -lexeme
  lex: ntixab
  stem: ntixab.
  root: nxb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wahl (eines Königs)
- trans_en: 
+ trans_en: election (of a king)
 -lexeme
  lex: nufʕa
  stem: nufʕa.
  root: nfʕ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nutzen
- trans_en: 
--lexeme
- lex: nŭfus
- stem: nŭfus.
- root: nŭfs
- gramm: N,m
- paradigm: N1
- trans_de: Einwohnerregister
- trans_en: 
+ trans_en: benefit, profit
 -lexeme
  lex: nuhro
  stem: nuhro.|nuhre.
@@ -28627,31 +28611,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Licht
- trans_en: 
+ trans_en: light
 -lexeme
- lex: numara
- stem: numara.
+ lex: numara/numra
+ stem: numara.//numra.|numarat.//numra.
  root: nmr
  gramm: N,f
- paradigm: N1
- trans_de: Nummer ~
- trans_en: 
+ paradigm: N2
+ trans_de: Nummer
+ trans_en: number
 -lexeme
  lex: nunto
  stem: nunto.|nune.
  root: nnt
  gramm: N,f
  paradigm: N2
- trans_de: nune a) Fisch b) Wade
- trans_en: 
+ trans_de: Fisch; Wade
+ trans_en: fish
 -lexeme
  lex: nuqro
- stem: nuqro.|nuqroe.//-oṯe.
+ stem: nuqro.|nuqre.//nuqroṯe.//nuqroṯo.
  root: nqr
  gramm: N,f
  paradigm: N2
  trans_de: Höhlung, Grube, Loch; Pockennarbe
- trans_en: 
+ trans_en: cavity; pit; hole; pockmark
 -lexeme
  lex: nuqṣaniye/nəqṣaniye/noqṣaniye
  stem: nuqṣaniye.//nəqṣaniye.//noqṣaniye.|nuqṣaniyat.//nəqṣaniyat.//noqṣaniyat.
@@ -28662,100 +28646,108 @@
  trans_en: 
 -lexeme
  lex: nuqṭa
- stem: nuqṭa.
+ stem: nuqṭa.|nuqṭat.
  root: nqṭ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Polizeiposten
- trans_en: 
+ trans_en: police station
 -lexeme
  lex: nuqṭo
  stem: nuqṭo.
  root: nqṭ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tropfen
- trans_en: 
+ trans_en: drop
 -lexeme
- lex: nŭquṣ
- stem: nŭquṣ.|nuquṣe.
- root: nqṭ
+ lex: nuquṣ/noqəṣ
+ stem: nuquṣ.//noqəṣ.|nuquṣe.
+ root: nqṣ
  gramm: N,m
  paradigm: N2
- trans_de: das, was fehlt
- trans_en: 
+ trans_de: wenig; das, was fehlt
+ trans_en: little, few; lacking
 -lexeme
  lex: nurbo
  stem: nurbo.
  root: nrb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: junger Trieb
- trans_en: 
+ trans_en: small sprout
 -lexeme
  lex: nuro
  stem: nuro.
  root: nwr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Feuer
- trans_en: 
+ trans_en: fire
 -lexeme
  lex: nuronoyo
- stem: nuronoyo.
+ stem: nuronoyo.|nuronoye.
  root: nwr
  gramm: N,m
- paradigm: N1
- trans_de: Feuerengel (einer der vier Erzengel)
- trans_en: 
+ paradigm: N2
+ trans_de: feurig; Feuerengel (einer der vier Erzengel)
+ trans_en: fiery; fiery angel (one of for archangels)
+-lexeme
+ lex: nusnus
+ stem: nusnus.
+ root: nsns
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Stimme des neugeborenen Kindes; Genuschel
+ trans_en: voice of a newborn child; muttering
 -lexeme
  lex: nusxo
  stem: nusxo.
  root: nsx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Exemplar eines Buches
- trans_en: 
+ trans_en: copy of a book
 -lexeme
- lex: nŭšuk
- stem: nŭšuk.
- root: nŭšk
+ lex: nuṣnuṣ
+ stem: nuṣnuṣ.
+ root: nṣnṣ
  gramm: N,m
- paradigm: N1
- trans_de: Schnupftabak
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Gewinsel (von Hunden)
+ trans_en: yelping (of dogs)
 -lexeme
  lex: nuwayre
  stem: nuwayre.
  root: nwr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Glühwürmchen
- trans_en: 
+ trans_en: glow worm
 -lexeme
- lex: nuxroyo
- stem: nuxroyo.|nuxroye.
+ lex: nuxroyo/nəxroyo
+ stem: nuxroyo.//nəxroyo.|nuxroye.//nəxroye.
  root: nxry
  gramm: N,m
  paradigm: N2
- trans_de: a) fremd b) Verlobter
- trans_en: 
+ trans_de: fremd; Verlobter
+ trans_en: alien, foreign; fiance
 -lexeme
- lex: nŭzul
- stem: nŭzul.
- root: nŭzl
+ lex: nuzul
+ stem: nuzul.
+ root: nzl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlaganfall
- trans_en: 
+ trans_en: stroke
 -lexeme
  lex: nxiroyo
- stem: nxiroyo.|m.
+ stem: nxiroyo.|nxiroye.
  root: nxry
  gramm: N,m
  paradigm: N2
  trans_de: Verlobte(r)
- trans_en: 
+ trans_en: engaged
 -lexeme
  lex: ob
  stem: ob.
