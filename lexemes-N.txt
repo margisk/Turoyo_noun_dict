@@ -28749,13 +28749,230 @@
  trans_de: Verlobte(r)
  trans_en: engaged
 -lexeme
+ lex: o
+ stem: o
+ root: o
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: o! oh!
+ trans_en: o! oh!
+-lexeme
+ lex: uʕdo
+ stem: uʕdo.
+ root: wʕd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: jetzt
+ trans_en: now
+-lexeme
  lex: ob
  stem: ob.
  root: b
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: August
- trans_en: 
+ trans_en: august
+-lexeme
+ lex: oho
+ stem: oho.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: hoho!
+ trans_en: oh dear!
+-lexeme
+ lex: ohaoha
+ stem: ohaoha.
+ root: hh
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Halteruf für Ochsen
+ trans_en: cry to stop for oxen
+-lexeme
+ lex: obal
+ stem: obal.
+ root: bl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Sünde
+ trans_en: sin
+-lexeme
+ lex: oǧaġ
+ stem: oǧaġ
+ root: ǧġ
+ gramm: N,m
+ paradigm: <?>
+ trans_de: aufrichtiger Freund
+ trans_en: honest friend
+-lexeme
+ lex: oda
+ stem: oda.|odat.//owad.
+ root: d
+ gramm: N,f
+ paradigm: N2
+ trans_de: Zimmer
+ trans_en: room
+-lexeme
+ lex: odake
+ stem: odake.|odakat.
+ root: d
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Zimmerchen
+ trans_en: small room
+-lexeme
+ lex: Odam/Odom
+ stem: Odam.//Odom.
+ root: dm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Adam
+ trans_en: Adam
+-lexeme
+ lex: odaye
+ stem: odaye.|odayat.
+ root: d
+ gramm: N,f
+ paradigm: N2
+ trans_de: Zimmer
+ trans_en: room
+-lexeme
+ lex: oḏər
+ stem: oḏər.
+ root: ḏr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: März
+ trans_en: March
+-lexeme
+ lex: oof
+ stem: oof.
+ root: f
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Exklamation
+ trans_en: interjection
+-lexeme
+ lex: oġlan
+ stem: oġlan.
+ root: ġln
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Bube im Kartenspiel
+ trans_en: jack in cards
+-lexeme
+ lex: oġur
+ stem: oġur.
+ root: ġr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: das gute Glück; Heiratsgeschick eines Mädchens
+ trans_en: good luck; wedding gift of a girl
+-lexeme
+ lex: oksižan
+ stem: oksižan.
+ root: ksžn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Oxygen, Sauerstoff
+ trans_en: oxygen 
+-lexeme
+ lex: olčak
+ stem: olčak.
+ root: lčk
+ gramm: N,m
+ paradigm: <?>
+ trans_de: 2 ʕulbe, 45 Kilo
+ trans_en: 2 ʕulbe, 45 kilograms
+-lexeme
+ lex: oləke
+ stem: oləke.|oləkat.
+ root: lk
+ gramm: N,f
+ paradigm: N2
+ trans_de: kleiner Stamm
+ trans_en: small trunk
+-lexeme
+ lex: onbašə
+ stem: onbašə.
+ root: nbš
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Gefreiter
+ trans_en: private first class
+-lexeme
+ lex: ordiyat
+ stem: ordiyat.
+ root: rd
+ gramm: N
+ paradigm: <?>
+ trans_de: Heerlager
+ trans_en: military camp
+-lexeme
+ lex: oromoyo
+ stem: oromoyo.|oromoye.
+ root: rmy
+ gramm: N,m
+ paradigm: N2
+ trans_de: Hoch-, Altsyrisch
+ trans_en: Classical Syriac
+-lexeme
+ lex: ortačaġ
+ stem: ortačaġ.
+ root: rtčġ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Mittelalter
+ trans_en: Middle Age
+-lexeme
+ lex: Osmanliye
+ stem: Osmanliye.
+ root: smnl
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Osmanen
+ trans_en: Ottomans
+-lexeme
+ lex: otobus
+ stem: otobus.//otobos.|otobusat.//otobosat.
+ root: tbs
+ gramm: N,m
+ paradigm: N2
+ trans_de: Autobus
+ trans_en: bus
+ root: 
+-lexeme
+ lex: oṯuroyo
+ stem: oṯuroyo.|oṯuroye.
+ root: ṯry
+ gramm: N,m
+ paradigm: N2
+ trans_de: Mann aus Mossul
+ trans_en: person from Mosul
+-lexeme
+ lex: oway
+ stem: oway.
+ root: wy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: o wehe!
+ trans_en: woe!
+-lexeme
+ lex: ooowayk
+ stem: ooowayk.
+ root: wyk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: wehe!
+ trans_en: woe!
+-lexeme
+ lex: oox!
+ stem: oox!
+ root: x
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf des Behagens
+ trans_en: exclamation of pleasure, enjoyment
 -lexeme
  lex: oždan/iždan/wəǧdan/woždan
  stem: oždan.//iždan.//wəǧdan.//woždan.
@@ -28765,133 +28982,85 @@
  trans_de: Gewissen
  trans_en: conscience
 -lexeme
- lex: obal
- stem: obal.
- root: bl
- gramm: N,m
- paradigm: N1
- trans_de: Sünde
- trans_en: 
+ lex: pa
+ stem: pa.
+ root: p
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: abweisende Interjektion, stets am Satzanfang
+ trans_en: interjection of denial, always at the beginning of a sentence
 -lexeme
- lex: oda
- stem: oda.//awda.|owad.//odayat.
- root: d
+ lex: pačake/pečake/pečakke/pečke
+ stem: pačake.//pečake.//pečakke.//pečke|pačakat.//pečakat.//pečakkat.//pečkat.
+ root: pčk
  gramm: N,f
  paradigm: N2
- trans_de: Zimmer
- trans_en: 
--lexeme
- lex: odake
- stem: odake.
- root: dk
- gramm: N,f
- paradigm: N1
- trans_de: Zimmerchen
- trans_en: 
--lexeme
- lex: odaye
- stem: odaye.|odayat.
- root: dy
- gramm: N,f
- paradigm: N2
- trans_de: Zimmer
- trans_en: 
--lexeme
- lex: oḏər
- stem: oḏər.
- root: ḏr
- gramm: N,m
- paradigm: N1
- trans_de: März
- trans_en: 
--lexeme
- lex: oġlan
- stem: oġlan.
- root: ġln
- gramm: N,m
- paradigm: N1
- trans_de: Bube im Kartenspiel
- trans_en: 
--lexeme
- lex: oksižan
- stem: oksižan.
- root: ksžn
- gramm: N,m
- paradigm: N1
- trans_de: Oxygen, Sauerstoff
- trans_en: 
--lexeme
- lex: oləke
- stem: oləke.
- root: lk
- gramm: N,f
- paradigm: N1
- trans_de: kleiner Stamm
- trans_en: 
--lexeme
- lex: ordu
- stem: ordu.
- root: rd
- gramm: N,m
- paradigm: N1
- trans_de: Offizierskasino
- trans_en: 
--lexeme
- lex: oromoyo
- stem: oromoyo.|oromoye.
- root: rmy
- gramm: N,m
- paradigm: N2
- trans_de: Hoch-, Altsyrisch
- trans_en: 
--lexeme
- lex: oṯuroyo
- stem: oṯuroyo.
- root: ṯry
- gramm: N,m
- paradigm: N1
- trans_de: Mann aus Mossul
- trans_en: 
+ trans_de: Windel
+ trans_en: diaper
 -lexeme
  lex: pačke
- stem: pačke.|pačkat.
+ stem: pačke.|pačkat.//pačəkat.
  root: pčk
  gramm: N,f
  paradigm: N2
  trans_de: Lappen, Tuch
- trans_en: 
+ trans_en: rag, cloth
 -lexeme
  lex: pahlawan
- stem: pahlawan.
+ stem: pahlawan.//pelawan.
  root: phlwn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Seiltänzer
- trans_en: 
+ trans_en: tightrope walker
+-lexeme
+ lex: pak
+ stem: pak.
+ root: pk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Ausruf der Verwunderung und des Bedauerns
+ trans_en: exclamation of astonishment and regret
 -lexeme
  lex: paketa/pakete
- stem: paketa/pakete.
+ stem: paketa.//pakete.|paketat.
  root: pkt/pkt
  gramm: N,f
- paradigm: N1
- trans_de: pakete Paket
- trans_en: 
+ paradigm: N2
+ trans_de: Paket
+ trans_en: packet, parcel
 -lexeme
- lex: pako
- stem: pako.|pake.
+ lex: paki
+ stem: paki.
+ root: pk
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: gut! sehr schön!
+ trans_en: good! very nice!
+-lexeme
+ lex: pako/fako
+ stem: pako.//fako.|pake.//fake.
  root: pk
  gramm: N,m
  paradigm: N2
  trans_de: Bissen
- trans_en: 
+ trans_en: piece
 -lexeme
- lex: palawan
- stem: palawan.
+ lex: palaq
+ stem: palaq.
+ root: plq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geräusch des Zerplatzens
+ trans_en: noise of tearing
+-lexeme
+ lex: palawan/paylawan
+ stem: palawan.//paylawan.
  root: plwn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Recke, guter Krieger
- trans_en: 
+ trans_en: hero, good fighter
 -lexeme
  lex: palle
  stem: palle.|pallat.
@@ -28899,79 +29068,103 @@
  gramm: N,f
  paradigm: N2
  trans_de: Blatt
- trans_en: 
+ trans_en: leaf
 -lexeme
  lex: palləke
  stem: palləke.|palləkat.
  root: pll
  gramm: N,f
  paradigm: N2
- trans_de: a)  b) Spielkarte; Blatt Papier c) Zigarettenpapier
- trans_en: 
+ trans_de: 1 cm dicke, 2 cm dicke Blechplatten, die man in die vorher gemachten Rillen des Steines schiebt, bis der Stein sich löst; Spielkarte; Blatt Papier; Zigarettenpapier
+ trans_en: 1-2 cm thick metal sheets whice one puts in furrows of a stone made beforehand, until the stone breaks; playing card; piece of paper; cigarette paper
 -lexeme
  lex: pallo
  stem: pallo.
  root: pll
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Flugholz, mit dem die Knaben spielen
- trans_en: 
+ trans_en: <...> with which children play
+-lexeme
+ lex: palpal
+ stem: palpal.
+ root: plpl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geräusch des siedenden Wassers, des vielen Redens
+ trans_en: noise of boiling water, of many people talking
+-lexeme
+ lex: palq
+ stem: palq.
+ root: plq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Bautz! Geräusch beim Niederwerfen eines Gegenstandes
+ trans_en: boom! noise of an object thrown down
+-lexeme
+ lex: palqapalq
+ stem: palqapalq.
+ root: plq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geräusch des Schlagens mit dem Hammer, Faust, Axt, des Schlagens des Teiges
+ trans_en: noise from striking with a hammer, fist, axe, of beating the dough
 -lexeme
  lex: palṭo
- stem: palṭo.
+ stem: palṭo.|palṭowat.
  root: plṭ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Mantel
- trans_en: 
+ trans_en: coat
 -lexeme
  lex: paluta
  stem: paluta.
  root: plt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hilfsmannscshaft, die jmdm. umsonst hilft, der nicht allein fertig wird
- trans_en: 
+ trans_en: <...> which helps for free to someone who cannot hope himself
+-lexeme
+ lex: pamba/pambe
+ stem: pamba.//pambe.
+ root: pmb
+ gramm: N
+ paradigm: unchangeable
+ trans_de: rosa
+ trans_en: pink, purple
 -lexeme
  lex: panǧe
- stem: panǧe.
+ stem: panǧe.|panǧat.
  root: pnǧ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Handvoll
- trans_en: 
+ trans_en: handful
 -lexeme
- lex: panṭor
- stem: panṭor.
+ lex: panṭor/pantor/panṭur/pantur
+ stem: panṭor.//pantor.//panṭur.//pantur.
  root: pnṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hose
- trans_en: 
--lexeme
- lex: panṭur
- stem: panṭur.
- root: pnṭr
- gramm: N,m
- paradigm: N1
- trans_de: Hose
- trans_en: 
+ trans_en: pants
 -lexeme
  lex: papaz
  stem: papaz.
  root: ppz
  gramm: N,m
- paradigm: N1
- trans_de: a) Audruck für christliche Geistliche bei den Türken b) König im Kartenspiel
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Ausdruck für christliche Geistliche bei den Türken; König im Kartenspiel
+ trans_en: expression for clergymen used by Turks; king in cards
 -lexeme
- lex: ṗaṗuko
- stem: ṗaṗuko.|ṗaṗukat.
+ lex: papuko
+ stem: papuko.|papukat.
  root: ṗṗk
  gramm: N,m
  paradigm: N2
- trans_de: armer Kerl
- trans_en: 
+ trans_de: bedauernswert; armer Kerl
+ trans_en: miserable; poor guy
 -lexeme
  lex: papur
  stem: papur.|papurat.
@@ -45073,7 +45266,7 @@
  stem: xušno.
  root: xšn
  gramm: N,m
- paradigm: unchangable
+ paradigm: unchangeable
  trans_de: Dicke, Fettigkeit
  trans_en: thickness, greasiness
 -lexeme
