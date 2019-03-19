@@ -18675,6 +18675,14 @@
  trans_de: September
  trans_en: september
 -lexeme
+ lex: ilkabira
+ stem: ilkabira.
+ root: kbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Rom (rum ilkabira)
+ trans_en: Rome (rum ilkabira)
+-lexeme
  lex: illa/əlla
  stem: illa.//əlla.
  root: l
@@ -29869,6 +29877,14 @@
  trans_de: mit Zuckermelonen gekochter Traubenhonig
  trans_en: 
 -lexeme
+ lex: qadəšto
+ stem: qadəšto.
+ root: qdš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: der Heilige Geist (ruḥo qadəšto)
+ trans_en: the Holy Spirit (ruḥo qadəšto)
+-lexeme
  lex: qadife
  stem: qadife.
  root: qdf
@@ -32717,13 +32733,13 @@
  trans_de: Schwarm von Vögeln
  trans_en: 
 -lexeme
- lex: rafrafto
- stem: rafrafto.
+ lex: rafrafto/rəfrəfto
+ stem: rafrafto.//rəfrəfto.
  root: rpp
  gramm: N,f
- paradigm: N1
- trans_de: Augenblinzeln b-rafrafo d-
- trans_en: 
+ paradigm: <?>
+ trans_de: Augenzwinkern, Augenblick
+ trans_en: wink, moment
 -lexeme
  lex: rafso
  stem: rafso.
@@ -32748,6 +32764,14 @@
  paradigm: N2
  trans_de: schlaff PrS
  trans_en: 
+-lexeme
+ lex: raǧa/rəǧa/rəǧǧa
+ stem: raǧa.//rəǧa.//rəǧǧa.|raǧawat.
+ root: rǧw
+ gramm: N,f
+ paradigm: N2
+ trans_de: Bitte
+ trans_en: request
 -lexeme
  lex: raġlo
  stem: raġlo.|raġloe.//-oṯe.//-oṯo.
@@ -32844,6 +32868,14 @@
  paradigm: N1
  trans_de: Kommandeur
  trans_en: 
+-lexeme
+ lex: raka/rəkaʕ
+ stem: raka.//rəkaʕ.
+ root: rkʕ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Niederwerfung beim muslimischen Gebet
+ trans_en: prostration during Muslim prayer 
 -lexeme
  lex: rakkiye
  stem: rakkiye.
@@ -33137,17 +33169,17 @@
  stem: reč.
  root: rč
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfad, Spur
- trans_en: 
+ trans_en: path, track
 -lexeme
  lex: reče
  stem: reče.
  root: rč
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfad, Spur
- trans_en: 
+ trans_en: path, track
 -lexeme
  lex: reḥo
  stem: reḥo.|reḥone.
@@ -33155,47 +33187,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Geruch, Duft, Gestank
- trans_en: 
+ trans_en: smell, aroma, stench
 -lexeme
- lex: remuno
- stem: remuno.|remune.
- root: rmn
- gramm: N,m
- paradigm: N2
- trans_de: Granatapfel
- trans_en: 
--lexeme
- lex: renǧbar
- stem: renǧbar.
+ lex: renǧbar/ranǧbar
+ stem: renǧbar.//ranǧbar.
  root: rnǧbr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Handlanger, Gelegenheitsarbeiter, Pflüger, Hirt usw.
- trans_en: 
--lexeme
- lex: rešo
- stem: rešo.
- root: rš
- gramm: N,m
- paradigm: N1
- trans_de: Raite) Kopf, Haupt
- trans_en: 
--lexeme
- lex: rešono
- stem: rešono.|rešone.
- root: ršn
- gramm: N,m
- paradigm: N2
- trans_de: Vornehmer pl
- trans_en: 
+ trans_en: henchman, casual laborer, plowman, shepherd etc.
 -lexeme
  lex: rešfil/rešvil
- stem: rešfil/rešvil.|rešfil.//rešvilat.
- root: ršfl/ršvl
+ stem: rešfil.//rešvil.|rešfil.//rešvilat.
+ root: ršfl
  gramm: N,m
  paradigm: N2
  trans_de: Pfad, der fast nicht zu sehen ist
- trans_en: 
+ trans_en: path that is almost invisible
 -lexeme
  lex: rez
  stem: rez.|rezat.
@@ -33203,55 +33211,79 @@
  gramm: N,m
  paradigm: N2
  trans_de: Reihe
- trans_en: 
+ trans_en: row
 -lexeme
  lex: rezo
  stem: rezo.
  root: rz
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Reis
- trans_en: 
+ trans_en: rice
 -lexeme
  lex: rəʕya
  stem: rəʕya.
  root: rʕy
  gramm: N,f
- paradigm: N1
- trans_de: Untertan innerhalb des Befehlsbereiches eines Aghas oder geistlichen Oberhauptes qay
- trans_en: 
+ paradigm: <?>
+ trans_de: Untertan innerhalb des Befehlsbereiches eines Aghas oder geistlichen Oberhauptes
+ trans_en: subject within the area of command of an Agha or a spiritual leader
 -lexeme
- lex: rəḍa
- stem: rəḍa.
+ lex: rəbab
+ stem: rəbab.
+ root: rbb
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: würdig, ausgezeichnet; (vom Pferde); in der Arbeit, Meister; auch von Geistlichem, der sich auszeichnet
+ trans_en: worthy, excellent; (about a horse); master in the craft; also about a clergyman who distinguishes himself
+-lexeme
+ lex: rəbbanak
+ stem: rəbbanak.
+ root: rbbnk
+ gramm: N,<?>
+ paradigm: <?>
+ trans_de: einzelner Baum
+ trans_en: single tree
+-lexeme
+ lex: rəbwoṯo
+ stem: rəbwoṯo.
+ root: rbb
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: zu tausenden, viele Tausend
+ trans_en: thousands, many thounsands
+-lexeme
+ lex: rəḏ̣a
+ stem: rəḏ̣a.
  root: rḍy
  gramm: N,m
- paradigm: N1
- trans_de: a) Einverständnis, gutes Einvernehmen b) freiwillig
- trans_en: 
+ paradigm: <?>
+ trans_de: Einverständnis, gutes Einvernehmen 
+ trans_en: agreement, good understanding 
 -lexeme
- lex: rəfrəfto
- stem: rəfrəfto.
+ lex: rəḏ̣a
+ stem: rəḏ̣a.
+ root: rḍy
+ gramm: ADJ
+ paradigm: <?> 
+ trans_de: freiwillig
+ trans_en: voluntary
+-lexeme
+ lex: rəfrofo
+ stem: rəfrofo.
  root: rpp
- gramm: N,f
- paradigm: N1
- trans_de: Augenzwinkern, Augenblick
- trans_en: 
--lexeme
- lex: rəǧ(ǧ)a
- stem: rəǧ(ǧ)a.
- root: rǧw
- gramm: N,f
- paradigm: N1
- trans_de: Bitte
- trans_en: 
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: Flügelschlagen
+ trans_en: flapping of wings
 -lexeme
  lex: rəǧm
  stem: rəǧm.
  root: rǧm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Steinhaufen, kleine Steine
- trans_en: 
+ trans_en: heap of stones, small stones
 -lexeme
  lex: rəġaye
  stem: rəġaye.|rəġayat.
@@ -33259,15 +33291,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Murmel
- trans_en: 
+ trans_en: marble
 -lexeme
- lex: rəhal
- stem: rəhal.
+ lex: rəhal/rahl
+ stem: rəhal.//rahl.
  root: rhl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Aussteuer, Siebensachen
- trans_en: 
+ trans_en: dowry, belongings
 -lexeme
  lex: rəḥyo
  stem: rəḥyo.|rəḥye.
@@ -33275,15 +33307,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Mühle
- trans_en: 
--lexeme
- lex: rəkaʕ
- stem: rəkaʕ.
- root: rkʕ
- gramm: N,m
- paradigm: N1
- trans_de: Folge von Bewegungen beim Gebet der Muslime
- trans_en: 
+ trans_en: mill
 -lexeme
  lex: rəkən
  stem: rəkən.|rəknat.
@@ -33291,31 +33315,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Grundlage, Grundmauer, Grundstein; fester Wohnsitz eines Herrschers
- trans_en: 
+ trans_en: foundation, foundation wall, foundation stone; permanent residence of a ruler
+-lexeme
+ lex: rəkub
+ stem: rəkub. 
+ root: rkb
+ gramm: N,<?>
+ paradigm: unchangeable
+ trans_de: u zlamano b rəkub yo dieser Mann ist sehr elegant
+ trans_en: u zlamano b rəkub yo that man is very elegant
+-lexeme
+ lex: rəm
+ stem: rəm.
+ root: rm
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geräusch des (vom Pferde) Fallenden
+ trans_en: sound of the (horse) falling
 -lexeme
  lex: rəmade
  stem: rəmade.
  root: rmd
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Asche
- trans_en: 
+ trans_en: ashes
 -lexeme
  lex: rəmadi
- stem: rəmadi.|rəmadiiye.
+ stem: rəmadi.|rəmadiye.
  root: rmd
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
--lexeme
- lex: rəmḥo
- stem: rəmḥo.|rəmaḥ.//id..
- root: rmḥ
- gramm: N,f
- paradigm: N2
- trans_de: Lanze
- trans_en: 
+ trans_de: aschfarben, grau
+ trans_en: ash-coloured, grey
 -lexeme
  lex: rəmoyo
  stem: rəmoyo.|rəmoye.
@@ -33323,55 +33355,103 @@
  gramm: N,m
  paradigm: N2
  trans_de: türkischer Soldat, Gendarm, Polizist
- trans_en: 
+ trans_en: Turkish soldier, gendarme, policeman
+-lexeme
+ lex: rəmrəm
+ stem: rəmrəm.
+ root: rmrm
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: Geräusch der Schritte, etwa im oberen Stockwerk, das man unten hört 
+ trans_en: footsteps sound, for instance in the upper floor, which one can hear below
 -lexeme
  lex: rənčike
  stem: rənčike.
  root: rnč
- gramm: N,f
- paradigm: N1
+ gramm: N,f DIM
+ paradigm: <?>
  trans_de: weibliches Kalb im zweiten Jahre
- trans_en: 
+ trans_en: two year old heifer
 -lexeme
  lex: rəqqeni
  stem: rəqqeni.
  root: rqn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geschrei; Geräusch einer hinfallenden Schale
- trans_en: 
+ trans_en: shouting; sound of a falling shell
 -lexeme
  lex: rəsmal
  stem: rəsmal.
  root: rʔs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kapital, Einkaufspreis
- trans_en: 
+ trans_en: capital, purchase price
+-lexeme
+ lex: rəsmi 
+ stem: rəsmi.
+ root: rsm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: offiziell
+ trans_en: official
+-lexeme
+ lex: rəṣmi
+ stem: rəṣmi.
+ root: rṣm
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: stattlich, wohl aufgebaut
+ trans_en: handsome, well-built
 -lexeme
  lex: rəṣaṣ
  stem: rəṣaṣ.
  root: rṣṣ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Blei, Bleikugel
- trans_en: 
+ trans_en: lead, lead ball
 -lexeme
- lex: rəššayš
- stem: rəššayš.
+ lex: rəšne
+ stem: rəšne.
+ root: ršn
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: schmutziges Wasser vom Waschen
+ trans_en: dirty water left after washing
+-lexeme
+ lex: rəššayš/riššeš
+ stem: rəššayš.//riššeš.
  root: ršyš
  gramm: N,m
- paradigm: N1
- trans_de: a) Pfingsten
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Pfingsten; heftiger Regenguss
+ trans_en: pentecost; heavy rainfall
+-lexeme
+ lex: rəšta
+ stem: rəšta.
+ root: ršt
+ gramm: N,<?>
+ paradigm: unchangeable 
+ trans_de: aus dünnem Teig, der in schmale Streifen geschnitten wird, gemachte Nudeln
+ trans_en: noodles made of thin dough, which is cut into thin strips
+-lexeme
+ lex: rəšto
+ stem: rəšto.
+ root: rš
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: das stumpfe Ende des Eies
+ trans_en: the blunt end of an egg
 -lexeme
  lex: rəšwa
  stem: rəšwa.
  root: ršw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Bestechungsgeschenk
- trans_en: 
+ trans_en: gift given as a bribe
 -lexeme
  lex: rəšwono
  stem: rəšwono.|rəšwone.
@@ -33379,7 +33459,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Packsattel
- trans_en: 
+ trans_en: packsaddle
 -lexeme
  lex: rətam
  stem: rətam.
@@ -33387,15 +33467,15 @@
  gramm: N,m
  paradigm: N1
  trans_de: feiner Staub, wie man ihn aus den Kleidern bürstet; Sandsturm
- trans_en: 
+ trans_en: fine dust which man brushes from the clothes; sandstorm
 -lexeme
- lex: rətəmke
- stem: rətəmke.
+ lex: rətəmke/rəṭəmke/rəṭməke/rəṭṭməke
+ stem: rətəmke.//rəṭəmke.//rəṭməke.//rəṭṭməke.
  root: rtm
  gramm: N,f
  paradigm: N1
- trans_de: zu Staub geworden; Sandsturm
- trans_en: 
+ trans_de: feiner Staub, wie man ihn aus den Kleidern bürstet; Sandsturm
+ trans_en: fine dust which man brushes from the clothes; sandstorm
 -lexeme
  lex: rəṭlo
  stem: rəṭlo.|rəṭle.
@@ -33409,73 +33489,81 @@
  stem: rəzq.
  root: rzq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gott gewährter Lebensunterhalt
- trans_en: 
+ trans_en: livelihood granted by God
+-lexeme
+ lex: rḥəmto
+ stem: rḥəmto.
+ root: rḥm
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Geliebte
+ trans_en: lover
 -lexeme
  lex: rḥimo
- stem: rḥimo.|b·mḏ.
+ stem: rḥimo.|rḥime.
  root: rḥm
  gramm: N,m
  paradigm: N2
- trans_de: Geliebter, Geliebte
- trans_en: 
+ trans_de: Geliebter
+ trans_en: lover
 -lexeme
  lex: rḥimuṯo
  stem: rḥimuṯo.
  root: rḥm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mitgefühl
- trans_en: 
+ trans_en: sympathy
 -lexeme
  lex: riḥo
  stem: riḥo.
  root: rwḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Geruch
- trans_en: 
+ trans_en: smell
 -lexeme
- lex: r(i)keb
- stem: r(i)keb.|r(i)kebat.
+ lex: rikeb/rkeb
+ stem: rikeb.//rkeb.|rikebat.//rkebat.
  root: rkb
  gramm: N,m
  paradigm: N2
  trans_de: Steigbügel
- trans_en: 
+ trans_en: stirrup
 -lexeme
- lex: rikebe
- stem: rikebe.
+ lex: rikebiye/rikebe
+ stem: rikebiye.//rikebe.
  root: rkb
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Steigbügel
- trans_en: 
+ trans_en: stirrup
 -lexeme
- lex: rikebiye
- stem: rikebiye.
- root: rkb
- gramm: N,f
- paradigm: N1
- trans_de: Steigbügel
- trans_en: 
+ lex: rikini
+ stem: rikini.
+ root: rkn
+ gramm: ADJ
+ paradigm: <?>
+ trans_de: zuverlässig, auf den man bauen kann
+ trans_en: reliable, on which one can build
 -lexeme
- lex: rimuno
- stem: rimuno.|rimune.
+ lex: rimuno/remuno
+ stem: rimuno.//remuno.|rimune.//remune.
  root: rmn
  gramm: N,m
  paradigm: N2
- trans_de: a) Granatapfel b) Wange
- trans_en: 
+ trans_de: Granatapfel; Wange
+ trans_en: pomegranate; cheek
 -lexeme
- lex: riṗe
- stem: riṗe.
+ lex: ripe
+ stem: ripe.
  root: rṗ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Trick, Falle
- trans_en: 
+ trans_en: trick, trap
 -lexeme
  lex: riro
  stem: riro.|rire.
@@ -33483,63 +33571,71 @@
  gramm: N,m
  paradigm: N2
  trans_de: Speichel
- trans_en: 
+ trans_en: spittle
 -lexeme
  lex: rišaye
  stem: rišaye.
  root: ršy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schreibfeder
- trans_en: 
+ trans_en: quill
 -lexeme
  lex: rišdayro
  stem: rišdayro.
  root: ršdyr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Abt
- trans_en: 
+ trans_en: abbot
 -lexeme
- lex: rišo
- stem: rišo.|riše.
+ lex: rišo/rešo
+ stem: rišo.//rešo.|riše.//reše.
  root: rš
  gramm: N,m
  paradigm: N2
- trans_de: a) Haupt, Kopf; Ende, Spitze; Straßenende b) kurzer Besuch azze c) (mit und) als Präposition: tux l-
- trans_en: 
+ trans_de: Haupt, Kopf; Ende, Spitze; Straßenende; kurzer Besuch c) (mit und) als Präposition
+ trans_en: head; end, top; road end; short visit; 
 -lexeme
- lex: rišono
- stem: rišono.|rišone.
+ lex: rišono/rešono
+ stem: rišono.///rešono.|rišone.//rešone.
  root: ršn
  gramm: N,m
  paradigm: N2
- trans_de: Vornehmer pl
- trans_en: 
+ trans_de: Vornehmer
+ trans_en: noble
 -lexeme
  lex: roḥumo
  stem: roḥumo.
  root: rḥm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Freund; liebend
- trans_en: 
+ trans_en: friend; loving
+-lexeme
+ lex: roḥumto
+ stem: roḥumto
+ root: rḥm
+ gramm: N,f 
+ paradigm: <?>
+ trans_de: Freund; liebend
+ trans_en: friend; loving
 -lexeme
  lex: romali
  stem: romali.|romaliiye.
  root: rml
  gramm: N,m
  paradigm: N2
- trans_de: iye Romalı m, pl –iye Römer, Byzantiner pl
- trans_en: 
+ trans_de: Römer, Byzantiner
+ trans_en: Romans, Byzantines
 -lexeme
  lex: rozname
  stem: rozname.
  root: rznm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: meteorologischer Bericht
- trans_en: 
+ trans_en: meteorological report
 -lexeme
  lex: rozo
  stem: rozo.|roze.
@@ -33547,7 +33643,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Geheimnis
- trans_en: 
+ trans_en: secret
 -lexeme
  lex: ruʕo
  stem: ruʕo.|ruʕe.
@@ -33555,21 +33651,21 @@
  gramm: N,m
  paradigm: N2
  trans_de: Viertel
- trans_en: 
+ trans_en: quarter
 -lexeme
- lex: ruʕyo/roʕyo
- stem: ruʕyo/roʕyo.|ruʕyo.//roʕye.
+ lex: ruʕyo/roʕyo/rəʕyo
+ stem: ruʕyo.//roʕyo.//rəʕyo.|ruʕyo.//roʕye.//rəʕyo.
  root: rʕy
  gramm: N,m
  paradigm: N2
  trans_de: Hirt
- trans_en: 
+ trans_en: shepherd
 -lexeme
- lex: ruʕyuṯo
- stem: ruʕyuṯo.
+ lex: ruʕyuṯo/rəʕyuṯo
+ stem: ruʕyuṯo.//rəʕyuṯo.
  root: rʕy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Hirtenzeit
  trans_en: 
 -lexeme
@@ -33579,63 +33675,63 @@
  gramm: N,m
  paradigm: N2
  trans_de: wütender Engel, Engel des Zorns; unbarmherzig
- trans_en: 
+ trans_en: angry angel, angel of wrath; merciless
 -lexeme
  lex: ruḥani
  stem: ruḥani.
  root: rwḥ
  gramm: N,m
- paradigm: N1
- trans_de: Geistlicher
- trans_en: 
+ paradigm: <?>
+ trans_de: geistlich, Geistlicher
+ trans_en: spiritual, clergyman
 -lexeme
  lex: ruḥo
  stem: ruḥo.|rəḥwoṯo.//ruḥoṯe.
  root: rwḥ
  gramm: N,f
  paradigm: N2
- trans_de: a) Seele, Geist, Lebensgeist b) statt Reflexivpronomen
- trans_en: 
--lexeme
- lex: ruḥo
- stem: ruḥo.
- root: rwḥ
- gramm: N,f
- paradigm: N1
- trans_de: der Heilige Geist
- trans_en: 
+ trans_de: Seele, Geist, Lebensgeist; der Heilige Geist (ruḥo qadəšto); statt Reflexivpronomen
+ trans_en: soul, spirit; the Holy Spirit (ruḥo qadəšto); instead of reflexive pronouns
 -lexeme
  lex: ruḥqo
  stem: ruḥqo.
  root: rḥq
  gramm: N,m
- paradigm: N1
- trans_de: Ferne, Entfernung m-
- trans_en: 
+ paradigm: <?>
+ trans_de: Ferne, Entfernung
+ trans_en: distance
+-lexeme
+ lex: rum
+ stem: rum
+ root: rm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Rom (rum ilkabira)
+ trans_en: Rome (rum ilkabira)
 -lexeme
  lex: rumati/rumatiye
- stem: rumati/rumatiye.
- root: rmt/rmty
+ stem: rumati.//rumatiye.
+ root: rmty
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Parteilichkeit
- trans_en: 
+ trans_en: prejudice
 -lexeme
- lex: rumḥo
- stem: rumḥo.|id..//rumaḥ.//rumḥoe.
+ lex: rumḥo/rəmḥo
+ stem: rumḥo.//rəmḥo.|rumḥo.//rəmḥo.//rumaḥ.//rəmaḥ.//rumḥe.
  root: rmḥ
  gramm: N,f
  paradigm: N2
  trans_de: Lanze
- trans_en: 
+ trans_en: lance
 -lexeme
  lex: rumoyo
  stem: rumoyo.|rumoye.
  root: rmy
  gramm: N,m
  paradigm: N2
- trans_de: Rumoyo m, pl –e Byzantiner pl
- trans_en: 
+ trans_de: Byzantiner
+ trans_en: Byzantine
 -lexeme
  lex: rumoyo
  stem: rumoyo.|rumoye.
@@ -33643,63 +33739,95 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gendarm
- trans_en: 
+ trans_en: gendarme
 -lexeme
  lex: ruqʕo
  stem: ruqʕo.|ruqʕe.
  root: rqʕ
  gramm: N,m
  paradigm: N2
- trans_de: Fetzen von Tuch, Gewand pl
- trans_en: 
+ trans_de: Fetzen von Tuch, Gewand
+ trans_en: scraps of cloth, robe
 -lexeme
  lex: ruqo
  stem: ruqo.|ruqe.
  root: rqq
  gramm: N,m
  paradigm: N2
- trans_de: Speichel ruqo
- trans_en: 
+ trans_de: Speichel
+ trans_en: spittle
 -lexeme
  lex: ruqto
  stem: ruqto.
  root: rqq
  gramm: N,f
- paradigm: N1
- trans_de: Speichel ruqto
- trans_en: 
+ paradigm: <?>
+ trans_de: Speichel
+ trans_en: spittle
 -lexeme
  lex: rus
  stem: rus.
  root: rs
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Russland, Russen
- trans_en: 
+ trans_en: Russia, Russians
+-lexeme
+ lex: rut
+ stem: rut.
+ root: rt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nackt (Pferd)
+ trans_en: bare (horse)
 -lexeme
  lex: ruxṣa
  stem: ruxṣa.
  root: rxṣ
  gramm: N,f
- paradigm: N1
- trans_de: Erlaubnis nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Erlaubnis
+ trans_en: permission
 -lexeme
  lex: rwiḥo
  stem: rwiḥo.|rwiḥe.
  root: rḥb
  gramm: N,m
  paradigm: N2
- trans_de: geräumig PrS
- trans_en: 
+ trans_de: weit, geräumig
+ trans_en: wide, spacious
+-lexeme
+ lex: ržəkat
+ stem: ržəkat.
+ root: ržk
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: kleine Feigen
+ trans_en: small figs
+-lexeme
+ lex: s/sə/se
+ stem: s./sə./se. 
+ root: s
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: bei
+ trans_en: by
 -lexeme
  lex: sʕarto
  stem: sʕarto.
- root: sʕrt
+ root: sʕr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Gerstenkorn
- trans_en: 
+ trans_en: barleycorn
+-lexeme
+ lex: sʕore
+ stem: sʕore.
+ root: sʕr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Gerste
+ trans_en: barley
 -lexeme
  lex: sʕuno
  stem: sʕuno.|sʕune.
@@ -33707,15 +33835,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Paar Schuhe, Sandalen
- trans_en: 
+ trans_en: pair of shoes, sandals
 -lexeme
  lex: sʕurək
  stem: sʕurək.
  root: sʕrk
- gramm: N,m
- paradigm: N1
+ gramm: N,m DIM
+ paradigm: <?>
  trans_de: Eichhörnchen
- trans_en: 
+ trans_en: squirrel
 -lexeme
  lex: saʕa/saʕaye
  stem: saʕa/saʕaye.|saʕat.//saʕayat.
@@ -33723,7 +33851,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Uhr, Uhrzeit; Stunde
- trans_en: 
+ trans_en: clock, time; hour
+-lexeme
+ lex: sab
+ stem: sab.
+ root: sb
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: sab d mede lo mamṭela? „hat sie von nichts gesprochen?“
+ trans_en: sab d mede lo mamṭela? „did she speak of nothing?“
 -lexeme
  lex: sabʕo
  stem: sabʕo.|sabʕe.
@@ -33731,47 +33867,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: Löwe
- trans_en: 
+ trans_en: lion
 -lexeme
  lex: sabab
- stem: sabab.
+ stem: sabab.|sababe.
  root: sbb
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Grund, Ursache
- trans_en: 
+ trans_en: reason, cause
 -lexeme
  lex: sabbe
  stem: sabbe.
  root: sbb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: gutes Wetter
- trans_en: 
+ trans_en: good weather
 -lexeme
  lex: sabġa
  stem: sabġa.
  root: ṣbġ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Farbe (Material)
- trans_en: 
+ trans_en: color (material)
 -lexeme
  lex: sabil
  stem: sabil.
  root: sbl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Tabakspfeife
- trans_en: 
+ trans_en: tobacco pipe
+-lexeme
+ lex: sabila
+ stem: sabila.
+ root: sbl
+ gramm: <?>
+ paradigm: unchangeable 
+ trans_de: hulan sabila „wir gehen um Gottes Willen“ 
+ trans_en: hulan sabila „we go for the God`s sake“
 -lexeme
  lex: sač
  stem: sač.
  root: sč
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Backblech
- trans_en: 
+ trans_en: baking tray
 -lexeme
  lex: sačmaye
  stem: sačmaye.|sačmayat.
@@ -33779,23 +33923,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Flintenschrot
- trans_en: 
+ trans_en: shot
 -lexeme
- lex: sadaqa
- stem: sadaqa.
+ lex: sada
+ stem: sada.
+ root: sd
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: einfach, bloß; ungezuckert (Kaffee)
+ trans_en: simple, bare; unsweetend (coffee)
+-lexeme
+ lex: sadaqa/sadqa
+ stem: sadaqa.//sadqa.
  root: ṣdq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Almosen
- trans_en: 
+ trans_en: alms
 -lexeme
- lex: sadqa
- stem: sadqa.
+ lex: sadiq
+ stem: sadiq.
  root: ṣdq
- gramm: N,f
- paradigm: N1
- trans_de: Almosen
- trans_en: 
+ gramm: N,m
+ paradigm: <?>
+ trans_de: ehrlich, Freund
+ trans_en: honest, friend
 -lexeme
  lex: safiḥo
  stem: safiḥo.
