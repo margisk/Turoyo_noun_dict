@@ -29158,6 +29158,14 @@
  trans_de: Ausdruck für christliche Geistliche bei den Türken; König im Kartenspiel
  trans_en: expression for clergymen used by Turks; king in cards
 -lexeme
+ lex: papu/pappu
+ stem: pappu.//papu.
+ root: pp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: bedauernswert; armer Kerl!
+ trans_en: miserable! poor guy!
+-lexeme
  lex: papuko
  stem: papuko.|papukat.
  root: ṗṗk
@@ -29172,7 +29180,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Dampfer
- trans_en: 
+ trans_en: steamer, ship
 -lexeme
  lex: paqe
  stem: paqe.|paqat.
@@ -29180,7 +29188,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Oberschenkel
- trans_en: 
+ trans_en: hip
 -lexeme
  lex: paqloq
  stem: paqloq.|paqloqat.
@@ -29188,7 +29196,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Fleischkeule; Mann mit abnormem Schenkel und Knie
- trans_en: 
+ trans_en: column of meat; a man with huge hips and knees
 -lexeme
  lex: paqpaqonke
  stem: paqpaqonke.|paqpaqonkat.
@@ -29196,15 +29204,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bläschen, das auf der Pfütze entsteht, wenn es regnet; Wasserblase; Seifenblase; pl Seifenblasen
- trans_en: 
+ trans_en: bubble which appears on a poodle when it rains; soap bubble
+-lexeme
+ lex: paqqəkat
+ stem: paqqəkat.
+ root: pqq
+ gramm: N
+ paradigm: <?>
+ trans_de: Bläschen auf dem Wasser
+ trans_en: bubbles on water
 -lexeme
  lex: parra
  stem: parra.|parrat.
  root: prr
  gramm: N,f
  paradigm: N2
- trans_de: a) Zweig, Blatt, Schale; ~ b) Flügel c) Feder
- trans_en: 
+ trans_de: Zweig, Blatt, Schale; Flügel; Feder
+ trans_en: branch; leaf, <?>; wing; feather
+-lexeme
+ lex: parakanda
+ stem: parakanda.
+ root: prknd
+ gramm: ADJ
+ praadigm: unchangeable
+ trans_de: arm, in schlechten Vermögensverhältnissen
+ trans_en: poor, in bad <?>
 -lexeme
  lex: parčaye
  stem: parčaye.|parčayat.
@@ -29212,15 +29236,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stück
- trans_en: 
+ trans_en: piece
 -lexeme
  lex: parda
- stem: parda.
+ stem: parda.|pardat.
  root: prd
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Vorhang
- trans_en: 
+ trans_en: curtain
 -lexeme
  lex: parḏuno
  stem: parḏuno.|parḏune.
@@ -29228,79 +29252,142 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krume
- trans_en: 
+ trans_en: crumb
+-lexeme
+ lex: Pares
+ stem: Pares.
+ root: prs
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Paris
+ trans_en: Paris
+-lexeme
+ lex: pareze
+ stem: pareze.
+ root: prz
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Gott schütze! (xude pareze)
+ trans_en: May God protect! (xude pareze)
+-lexeme
+ lex: parišan
+ stem: parišan.
+ root: pršn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: in elendem Zustande, heruntergekommen
+ trans_en: in miserable state, degraded
 -lexeme
  lex: parišaniye
  stem: parišaniye.
  root: pršny
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: elender Zustand
- trans_en: 
+ trans_en: miserable state
 -lexeme
  lex: parpare
  stem: parpare.
  root: prpr
  gramm: N,f
- paradigm: N1
- trans_de: eßbare Pflanze
- trans_en: 
+ paradigm: <?>
+ trans_de: gutschmeckende, eßbare Pflanze
+ trans_en: tasty edible plant
 -lexeme
  lex: parsuwe
  stem: parsuwe.|parsuwat.
  root: prsw
  gramm: N,m
  paradigm: N2
- trans_de: Rippe pl
- trans_en: 
+ trans_de: Rippe
+ trans_en: rib
 -lexeme
  lex: pasto
  stem: pasto.|pase.
  root: pst
  gramm: N,f
  paradigm: N2
- trans_de: pase Lappen
- trans_en: 
+ trans_de: Lappen
+ trans_en: rag
+-lexeme
+ lex: pazapaz
+ stem: pazapaz.
+ root: pzpz
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Geqäke der Säuglinge
+ trans_en: <?>
 -lexeme
  lex: paša
- stem: paša.|pašaawat.//-awiye.
+ stem: paša.|pašawat.//pašawiye.
  root: pš
  gramm: N,m
  paradigm: N2
- trans_de: awiye Pascha
- trans_en: 
+ trans_de: Pascha
+ trans_en: pasha
+-lexeme
+ lex: pašive
+ stem: pašive.
+ root: pšv
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Essen vor Sonnenaufgang im Ramadan (ramazan); leichtes Nachtmahl nach dem Abendessen
+ trans_en: meal before sunrise during Ramadan (ramazan); light night meal after dinner
+-lexeme
+ lex: paškašin
+ stem: paškašin.
+ root: pškšn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: mit dem angefeuchteten Finger jmdn. auf den Nacken schlagen oder ihn damit berühren. Unter Kindern Art Herausforderung. Der Berührte muss kämpfen oder ringen
+ trans_en: to hit or touch somebody's neck with a wet finger. Among the children it is a sort of challenge. The one who was touched must fight back
 -lexeme
  lex: paške
  stem: paške.
  root: pšk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: ein wenig (Flüssigkeit)
- trans_en: 
+ trans_en: a bit (of a liquid)
 -lexeme
  lex: pašriq
  stem: pašriq.
  root: pšrq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Falke, Falco Naumanni
- trans_en: 
+ trans_en: falcon, Falco Naumanni
 -lexeme
  lex: patəsqa
  stem: patəsqa.
  root: ptsq
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: ein gewebtes, farbiges Leinen, Battist
- trans_en: 
+ trans_en: colourful woven linen, <?>
+-lexeme
+ lex: patək
+ stem: patək.
+ root: pt
+ gramm: N
+ paradigm: <?>
+ trans_de: Schädeldecke
+ trans_en: skullcap
 -lexeme
  lex: patke
  stem: patke.
  root: ptk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schädeldecke
- trans_en: 
+ trans_en: skullcap
+-lexeme
+ lex: paṭa
+ stem: paṭa.
+ root: pṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: stalemate, draw; even
 -lexeme
  lex: paṭaṭa
  stem: paṭaṭa.|paṭaṭat.
@@ -29308,79 +29395,158 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kartoffel
- trans_en: 
+ trans_en: potato
 -lexeme
  lex: paṯyo
- stem: paṯyo.
+ stem: paṯyo.|paṯye.
  root: pty
  gramm: N,m
- paradigm: N1
- trans_de: Mi; √pty
- trans_en: 
+ paradigm: N2
+ trans_de: breit
+ trans_en: wide
+-lexeme
+ lex: pay
+ stem: pay.
+ root: py
+ gramm: N
+ paradigm: unchangeable
+ trans_de: er macht mich schlecht, redet gegen mich (komoḥe ʕal pay diḏi)
+ trans_en: <?>, he talks against me
+-lexeme
+ lex: paya
+ stem: paya.|paya.
+ root: py
+ gramm: N
+ paradigm: N2
+ trans_de: zu Fuß, Fußgänger
+ trans_en: by foot, pedestrian
 -lexeme
  lex: payəz
  stem: payəz.
  root: pyz
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Herbst
- trans_en: 
+ trans_en: autumn
 -lexeme
  lex: paytaxt
  stem: paytaxt.
  root: pytxt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hauptstadt
- trans_en: 
+ trans_en: capital
 -lexeme
- lex: peč(a)k(k)e
- stem: peč(a)k(k)e.|peč(a)k(k)at.
- root: pč()k(k)
- gramm: N,f
- paradigm: N2
- trans_de: Windel, Wickel; Wickelkind
- trans_en: 
+ lex: payṭoz
+ stem: payṭoz.
+ root: pyṭz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Feierabend
+ trans_en: <?>
+-lexeme
+ lex: peda
+ stem: peda.
+ root: pd
+ gramm: <?>
+ trans_de: unchangeable
+ trans_de: (nachgestellt) außer
+ trans_en: (in post-position) except
 -lexeme
  lex: pekole
  stem: pekole.
  root: pkl
  gramm: N,f
- paradigm: N1
- trans_de: a) zappelnde Bewegungen mit den Füßen vor dem Sterben; bei Menschen: Bewegungen, um sich von Fesselung zu befreien b) abweisendes, hochmütiges Tun
- trans_en: 
+ paradigm: unchangeable
+ trans_de: zappelnde Bewegungen mit den Füßen vor dem Sterben; bei Menschen: Bewegungen, um sich von Fesselung zu befreien; abweisendes, hochmütiges Tun
+ trans_en: <?> movements of feet before death; about people: movements which one makes to free himself from chains or ropes; <?>
 -lexeme
  lex: pelawan
  stem: pelawan.|pelawanin.
  root: plwn
  gramm: N,m
  paradigm: N2
- trans_de: a) Recke, Held b) Seiltänzer
- trans_en: 
+ trans_de: Recke, Held; Seiltänzer
+ trans_en: hero; tightrope walker
+-lexeme
+ lex: pele
+ stem: pele.
+ root: pl
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Zeit der Jugendkraft
+ trans_en: time of youth
+-lexeme
+ lex: perra
+ stem: perra.
+ root: pr
+ gramm: <?>
+ trans_de: damit, mit einem Male (perra perra)
+ trans_en: with it, all of a sudden
+-lexeme
+ lex: peva
+ stem: peva.
+ root: pv
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: (nachgestellet) außer
+ trans_en: (in post-position) except
+-lexeme
+ lex: perrut
+ stem: perrut.
+ root: prt
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ohne Unterhosen; nackt
+ trans_en: without pants; nacked
+-lexeme
+ lex: pexwarən
+ stem: pexwarən.
+ root: pxwrn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Frühstück
+ trans_en: breakfast
 -lexeme
  lex: pežən
  stem: pežən.
  root: pžn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geräusch, Spur, Kunde
- trans_en: 
+ trans_en: noise; trace; news
 -lexeme
  lex: pəḏro
  stem: pəḏro.|pəḏre.
  root: pḏr
  gramm: N,m
  paradigm: N2
- trans_de: Pflanze mit klebrigen Blättern. Sie wird mit einer Walze zermalmt und ein Brei daraus gemacht. Der wird über eine bienenkorbförmige Form (qalib) getan, wird nach acht Tagen hart, und es ist ein
- trans_en: 
+ trans_de: Pflanze mit klebrigen Blättern. Sie wird mit einer Walze zermalmt und ein Brei daraus gemacht. Der wird über eine bienenkorbförmige Form (qalib) getan, wird nach acht Tagen hart, und es ist ein qaḥfərto genanntes korbartiges Gefäß entstanden, zum Aufbewahren von gesiebtem Getreide
+ trans_en: plant with sticky leaves. It is crunched with a roller and turned into pulp. This pulp is put upon <...> form (qalib), in eight days it becomes hard, and a vessel called qaḥfərto emerges, used for keeping the sieved grain
+-lexeme
+ lex: pək
+ stem: pək.
+ root: pk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: erhabene Schmalseite des Knöchels
+ trans_en: convex side of a knuckle
 -lexeme
  lex: pəlaq
  stem: pəlaq.
  root: plq
  gramm: N,m
- paradigm: N1
- trans_de: Grammophonplatte nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Grammophonplatte
+ trans_en: phonorecord
+-lexeme
+ lex: pəlhəškat
+ stem: pəlhəškat.
+ root: plhšk
+ gramm: N
+ paradigm: <?>
+ trans_de: schlechte, betrügerische Verwendung (von Geld); verleumderisch reden, gegen die guten Sitten
+ trans_en: bad, fraudulent use (of money); talk against good traditions
 -lexeme
  lex: pələng
  stem: pələng.|pələngat.
@@ -29388,15 +29554,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tiger oder Leopard
- trans_en: 
+ trans_en: tiger or leopard
 -lexeme
- lex: pəlṭək
- stem: pəlṭək.
+ lex: pəlṭək/bəlṭək
+ stem: pəlṭək.//bəlṭək.
  root: plṭk
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: heranwachsender Jüngling
- trans_en: 
+ trans_en: grown-up
+-lexeme
+ lex: pənihay
+ stem: pənihay.
+ root: pnhy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ärgerlich, verstimmt
+ trans_en: angry, disappointe
 -lexeme
  lex: pərr
  stem: pərr.|pərrat.
@@ -29404,47 +29578,70 @@
  gramm: N,f
  paradigm: N2
  trans_de: Brücke
- trans_en: 
+ trans_en: bridge
 -lexeme
  lex: pərč
  stem: pərč.
  root: prč
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Haar eines Tieres, Fell, Zotten des Fells
- trans_en: 
+ trans_en: animal hair, fur, skin, <...>
+-lexeme
+ lex: pərčono
+ stem: pərčono.|pərčone.
+ root: prč
+ gramm: ADJ
+ paradigm: N2
+ trans_de: haarig
+ trans_en: hairy
 -lexeme
  lex: pərk
  stem: pərk.
  root: prk
  gramm: N,m
  paradigm: N1
- trans_de: a) Brücke b) Verbindungsholz, das in je ein Loch von Stiel und Deichsel des Hakenpflugs gesteckt wird. Es dient auch dazu, die Pflugschar höher zu stellen
- trans_en: 
+ trans_de: Brücke; Verbindungsholz, das in je ein Loch von Stiel und Deichsel des Hakenpflugs gesteckt wird. Es dient auch dazu, die Pflugschar höher zu stellen
+ trans_en: bridge; binding piece of wood which is put into a hole of a handle and and a shaft of a plough. It serves to raise a plowshare
 -lexeme
  lex: pərme
  stem: pərme.
  root: prm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schimpfwort für dicke, geschwätzige Frauen
- trans_en: 
+ trans_en: swear word for fat and talkative women
 -lexeme
- lex: pərpirike
- stem: pərpirike.
+ lex: pərpirike/pərpərəke/parparəke
+ stem: pərpirike.//pərpərəke.//parparəke.|pərpirikat.//pərpərəkat.//parparəkat.
  root: prprk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schmetterling
- trans_en: 
+ trans_en: butterfly
+-lexeme
+ lex: pərpəzeke
+ stem: pərpəzeke.
+ root: prpzk
+ gramm: N,f
+ paradigm: <?>
+ trans_de: eine Blume
+ trans_en: flower
+-lexeme
+ lex: pərrr
+ stem: pərrr.
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch des Flatterns
+ trans_en: sound of fluttering
 -lexeme
  lex: pərṭal
  stem: pərṭal.
  root: prṭl
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Kleiderstoff
- trans_en: 
+ trans_en: material for clothes
 -lexeme
  lex: pərtaqane
  stem: pərtaqane.|pərtaqanat.
@@ -29452,30 +29649,38 @@
  gramm: N,f
  paradigm: N2
  trans_de: Apfelsine
- trans_en: 
+ trans_en: orange
 -lexeme
  lex: pərtək
  stem: pərtək.|pərtəkat.
  root: prtk
  gramm: N,m
  paradigm: N2
- trans_de: Gefieder pl
- trans_en: 
+ trans_de: Gefieder
+ trans_en: feathering
 -lexeme
- lex: pərt(ə)ke
- stem: pərt(ə)ke.|pərt(ə)kat.
- root: prt()k
+ lex: pərtəke/pərtke
+ stem: pərtəke.//pərtke.|pərtəkat.//pərtkat.
+ root: prtk
  gramm: N,f
  paradigm: N2
  trans_de: Härchen, Federchen, ein kleines Teilchen vom eigenen Leibe, welches das hilfreiche Tier dem Helden gibt, der es auf seiner Pfeife verbrennt und damit den Helfer herbeiruft
- trans_en: 
+ trans_en: hair, feather
 -lexeme
  lex: pərto
  stem: pərto.
  root: prt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schale des Getreides
+ trans_en: hull of grain
+-lexeme
+ lex: pərṭonak/vərṭonak
+ stem: pərṭonak.//vərṭonak.
+ root: prṭ/vrṭ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Sturm
  trans_en: 
 -lexeme
  lex: pəskiwit
