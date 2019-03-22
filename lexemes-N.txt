@@ -33923,21 +33923,13 @@
  trans_de: Gott gewährter Lebensunterhalt
  trans_en: livelihood granted by God
 -lexeme
- lex: rḥəmto
- stem: rḥəmto.
- root: rḥm
- gramm: N,f
- paradigm: <?>
- trans_de: Geliebte
- trans_en: lover
--lexeme
  lex: rḥimo
  stem: rḥimo.|rḥime.
  root: rḥm
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: Geliebter
- trans_en: lover
+ trans_en: loved one
 -lexeme
  lex: rḥimuṯo
  stem: rḥimuṯo.
