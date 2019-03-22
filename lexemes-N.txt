@@ -34036,10 +34036,10 @@
  trans_en: noble
 -lexeme
  lex: roḥumo
- stem: roḥumo.
+ stem: roḥumo.|roḥume.
  root: rḥm
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Freund; liebend
  trans_en: friend; loving
 -lexeme
