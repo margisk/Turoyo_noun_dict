@@ -34222,7 +34222,7 @@
  lex: rwiḥo
  stem: rwiḥo.|rwiḥe.
  root: rḥb
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: weit, geräumig
  trans_en: wide, spacious
