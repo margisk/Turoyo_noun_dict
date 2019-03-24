@@ -86,6 +86,14 @@
  trans_de: Gottesanbeter
  trans_en: worshiper
 -lexeme
+ lex: ʕaboke
+ stem: ʕaboke.//ʕabok.
+ root: ʕb
+ gramm: N
+ paradigm: <?>
+ trans_de: Affenmutter (pir ʕaboke)
+ trans_en: <?>
+-lexeme
  lex: ʕadab
  stem: ʕadab.
  root: ʕdb
@@ -11810,8 +11818,8 @@
  trans_de: sich ein Ansehen geben, sich brüsten, angeben
  trans_en: <?>
 -lexeme
- lex: foṯo
- stem: foṯo.|fətoṯo.//fəṯoṯo.
+ lex: foṯo/poṯo
+ stem: foṯo.//poṯo.|pətoṯe.//pətoṯo.//pəṯoṯe.//pəṯoṯo.//fətoṯo.//fəṯoṯo.
  root: pwt
  gramm: N,f
  paradigm: N2
@@ -29054,6 +29062,14 @@
  trans_de: Geräusch des Zerplatzens
  trans_en: noise of tearing
 -lexeme
+ lex: palat.
+ stem: palat.
+ root: plt
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Weiber (etwas verächtlich) (pir w palat)
+ trans_en: women (a bit scornful) (pir w palat)
+-lexeme
  lex: palawan/paylawan
  stem: palawan.//paylawan.
  root: plwn
@@ -29389,8 +29405,8 @@
  paradigm: unchangeable
  trans_de: stalemate, draw; even
 -lexeme
- lex: paṭaṭa
- stem: paṭaṭa.|paṭaṭat.
+ lex: paṭaṭa/pəṭaṭa
+ stem: paṭaṭa.//pəṭaṭa.|paṭaṭat.//pəṭaṭat.
  root: pṭṭ
  gramm: N,f
  paradigm: N2
@@ -29564,6 +29580,14 @@
  trans_de: heranwachsender Jüngling
  trans_en: grown-up
 -lexeme
+ lex: pənde
+ stem: pənde.|pəndat.
+ root: pnd
+ gramm: N,f
+ paradigm: N2
+ trans_de: Art süßer Kartoffel; die Knolle gibt milchigen Saft von sich, der zu Mastix wird (pir w pənde)
+ trans_en: sort of sweet potatoes; its bulb gives milky juice which turns into mastic (pir w pənde)
+-lexeme
  lex: pənihay
  stem: pənihay.
  root: pnhy
@@ -29681,23 +29705,39 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Sturm
- trans_en: 
+ trans_en: thunder
 -lexeme
- lex: pəskiwit
- stem: pəskiwit.
+ lex: pərwaze
+ stem: pərwaze.
+ root: prwz
+ gramm: N
+ paradigm: <?>
+ trans_de: Sprung; Teil des Halses, der aus dem ausgeschnittenen Kragen heraussteht
+ trans_en: jump; part of the neck which sticks out from a cut out collar
+-lexeme
+ lex: pəskiwit/pəskwit
+ stem: pəskiwit.//pəskwit.
  root: pskwt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Biscuit
- trans_en: 
+ trans_en: biscuit
 -lexeme
  lex: pəsmam
  stem: pəsmam.|pəsmam.
  root: psm
  gramm: N,m
  paradigm: N2
- trans_de: Vetter
- trans_en: 
+ trans_de: Vetter; Vetternschaft, Verwandschaft
+ trans_en: cousin; relatives
+-lexeme
+ lex: pəsqe
+ stem: pəsqe.
+ root: psq
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: schlechte, verdorbene Trauben
+ trans_en: bad, foul grapes
 -lexeme
  lex: pəssik
  stem: pəssik.|pəssikat.
@@ -29705,103 +29745,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kätzchen
- trans_en: 
+ trans_en: cat
 -lexeme
  lex: pəssike
  stem: pəssike.|pəssikat.
  root: pss
  gramm: N,f
  paradigm: N2
- trans_de: Augenwimper pl
- trans_en: 
+ trans_de: Augenwimper
+ trans_en: eyelash
 -lexeme
  lex: pəst
  stem: pəst.
  root: pst
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rollfeld
- trans_en: 
+ trans_en: flying field
+-lexeme
+ lex: pəṣṣ
+ stem: pəṣṣ
+ root: pṣ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: sich zusammenkauern von Kälte, vor Kummer
+ trans_en: curl up from cold or from worrying
 -lexeme
  lex: pəšše
  stem: pəšše.
  root: pšš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Katze
- trans_en: 
+ trans_en: cat
 -lexeme
  lex: pəšk
  stem: pəšk.
  root: pšk
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Los
- trans_en: 
+ trans_en: lot
 -lexeme
  lex: pəšmale
  stem: pəšmale.
  root: pšml
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schürze
- trans_en: 
+ trans_en: apron
 -lexeme
  lex: pəštiye
  stem: pəštiye.
  root: pšt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Rückenlast
- trans_en: 
+ trans_en: back load
 -lexeme
- lex: pəšwiṯo
- stem: pəšwiṯo.|pəšwiṯe.
- root: pšwṯ
- gramm: N,f
- paradigm: N2
- trans_de: Furz
- trans_en: 
+ lex: pəṭpəṭ
+ stem: pəṭpəṭ
+ root: pṭpṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch des Klopfens an Höhle, brüchiger Wand und dergl.; dauernde Vorwürfe
+ trans_en: sound of knocking on cavities, fragile wall and similar things
 -lexeme
- lex: pəṭaṭa
- stem: pəṭaṭa.|pəṭaṭat.
- root: pṭṭ
- gramm: N,f
- paradigm: N2
- trans_de: Kartoffel
- trans_en: 
+ lex: pəxk
+ stem: pəxk.
+ root: pxk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Laut, um einen zu erschrecken
+ trans_en: sound used to scare someone
 -lexeme
- lex: pəṯwo
- stem: pəṯwo.
- root: pty
- gramm: N,m
- paradigm: N1
- trans_de: Breite
- trans_en: 
+ lex: pəzək
+ stem: pəzək.
+ root: pzk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Bläschen, Pickel
+ trans_en: blister
 -lexeme
  lex: pəzruk
  stem: pəzruk.
  root: pzrk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: kleine Regentropfen, Schlossen
- trans_en: 
+ trans_en: small rain drops, <...>
 -lexeme
  lex: pəzruke
  stem: pəzruke.|pəzrukat.
  root: pzr
  gramm: N,f
  paradigm: N2
- trans_de: a) Regentropfen b) Funken
- trans_en: 
+ trans_de: Regentropfen; Funken
+ trans_en: rain drops; sparks
 -lexeme
  lex: pəzrunke
  stem: pəzrunke.
  root: pzrnk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Pustel im Gesicht
- trans_en: 
+ trans_en: blister on face
+-lexeme
+ lex: pəzzane
+ stem: pəzzane.
+ root: pzn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Mastdarm (von Tieren)
+ trans_en: <?>
 -lexeme
  lex: phine
  stem: phine.|phinat.
@@ -29809,23 +29865,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Fußtritt
- trans_en: 
+ trans_en: kick
 -lexeme
  lex: pičučke
  stem: pičučke.
  root: pčč
- gramm: N,f
- paradigm: N1
- trans_de: ein
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: klein
+ trans_en: small
+-lexeme
+ lex: pižaqman
+ stem: pižaqman.
+ root: pžqmn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Bein (im Vogelspiel)
+ trans_en: <?>
 -lexeme
  lex: piže
- stem: piže.|pižeat.//piyaž.
+ stem: piže.|pižat.//piyaž.
  root: pž
  gramm: N,f
  paradigm: N2
- trans_de: piyäj Splitter, kleines Stück
- trans_en: 
+ trans_de: Splitter, kleines Stück
+ trans_en: splinter, small piece
 -lexeme
  lex: pižəkke
  stem: pižəkke.|pižəkkat.
@@ -29833,55 +29897,79 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleines Stückchen
- trans_en: 
+ trans_en: small piece
 -lexeme
- lex: pil(ə)ko
- stem: pil(ə)ko.|pil(ə)koat.
- root: pl()k
+ lex: piləko/pilko
+ stem: piləko.//pilko.|pilkat.//piləkat.
+ root: plk
  gramm: N,m
  paradigm: N2
- trans_de: gültige Münze
- trans_en: 
+ trans_de: nicht mehr gültige Münze
+ trans_en: coin which is not valid anymore
+-lexeme
+ lex: pine
+ stem: pine.
+ root: pn
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Stengelwerk einer Melone, Gurke, Kürbis
+ trans_en: stem of a watermelon, cucumber, pumpkin
 -lexeme
  lex: pipike
  stem: pipike.
  root: ppk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Pfeife zum pfeifen
- trans_en: 
+ trans_en: smoking pipe
 -lexeme
  lex: pipo
  stem: pipo.
  root: pp
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Tabakspfeife
- trans_en: 
+ trans_en: smoking pipe
 -lexeme
- lex: piqab
- stem: piqab.|piqabat.
+ lex: piqab/piqap
+ stem: piqab.//piqap.|piqabat.//piqapat.
  root: pqb
  gramm: N,m
  paradigm: N2
  trans_de: leichtes Lastauto, das auch Personen befördert
- trans_en: 
+ trans_en: light truck, which also transports people
+-lexeme
+ lex: piq/paq
+ stem: piq.//paq.
+ root: pq
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Schenkel
+ trans_en: leg
 -lexeme
  lex: piqe
  stem: piqe.
  root: pq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Oberschenkel
- trans_en: 
+ trans_en: thigh
 -lexeme
  lex: pir
  stem: pir.
  root: pr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: alter Mann; Pir eines Ordens, Heiliger, Pir der Jeziden Pir
- trans_en: 
+ trans_en: old man; the elder of an order; holy person, the elder of Jezidis
+-lexeme
+ lex: pir
+ stem: pir.
+ root: pr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Affenmutter (pir ʕaboke)
+ trans_en: <?>
 -lexeme
  lex: pire
  stem: pire.|pirat.
@@ -29889,135 +29977,183 @@
  gramm: N,f
  paradigm: N2
  trans_de: Frau, alte Frau
- trans_en: 
+ trans_en: woman, old woman; wife
 -lexeme
  lex: pirke
- stem: pirke.
+ stem: pirke.|pirkat.
  root: prk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Hebamme
- trans_en: 
+ trans_en: midwife
 -lexeme
  lex: pir
- stem: pir.|pirat.
+ stem: pir.
  root: pr
- gramm: N,f
- paradigm: N2
- trans_de: Art süßer Kartoffel; die Knolle gibt milchigen Saft von sich, der zu Mastix wird
- trans_en: 
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Weiber (etwas verächtlich) (pir w palat)
+ trans_en: women (a bit scornful) (pir w palat)
+-lexeme
+ lex: pir
+ stem: pir.
+ root: pr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Art süßer Kartoffel; die Knolle gibt milchigen Saft von sich, der zu Mastix wird (pir w pənde)
+ trans_en: sort of sweet potatoes; its bulb gives milky juice which turns into mastic (pir w pənde)
 -lexeme
  lex: pis
  stem: pis.|pisin.
  root: ps
  gramm: N,m
  paradigm: N2
- trans_de: a) schlimm, übel, häßlich, garstig b) verfehlter Knöchelwurf
- trans_en: 
+ trans_de: schlimm, übel, häßlich, garstig
+ trans_en: bad, evil, ugly, nasty
+-lexeme
+ lex: pise
+ stem: pise.
+ root: ps
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: (ich) Mißgeburt (pise kulake)
+ trans_en: (I) ugly creature
 -lexeme
  lex: pisək
  stem: pisək.
  root: psk
- gramm: N,f
- paradigm: N1
- trans_de: An
- trans_en: 
+ gramm: N,f,dim
+ paradigm: unchangeable
+ trans_de: schlecht (Diminutiv von pis und pise)
+ trans_en: bad (diminutive of pis and pise)
 -lexeme
  lex: pisitiye
  stem: pisitiye.
  root: pst
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Garstigkeit; Unrat, Kot
- trans_en: 
+ trans_en: nastiness; garbage, filth, feces
 -lexeme
  lex: pisiye
  stem: pisiye.
  root: psy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: scheußliches Zeug; Kot
- trans_en: 
+ trans_en: awful things; feces
+-lexeme
+ lex: piš
+ stem: piš.//piž.
+ root: pš
+ gramm: N
+ paradigm: unchangeable
+ trans_de: was man irgendwo zu tun, oder nicht zu tun hat
+ trans_en: what one should do or not do somewhere
 -lexeme
  lex: piške
  stem: piške.
  root: pšk
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: unanständiges Betragen; Betrügerei
- trans_en: 
+ trans_en: improper behaviour; fraud, deception
 -lexeme
  lex: pišrraš
  stem: pišrraš.
  root: pšrš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Nichtsnutz, der sich herumtreibt
- trans_en: 
+ trans_en: good-for-nothing, who hangs around
+-lexeme
+ lex: piṭpiṭ
+ stem: piṭpiṭ.
+ root: pṭpṭ
+ gramm: N
+ paradigm: <?>
+ trans_de: Stimmer der Oboe
+ trans_en: hautboy tuner
 -lexeme
  lex: pix
  stem: pix.
  root: px
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grenze, Gebiet
- trans_en: 
+ trans_en: border; area
+-lexeme
+ lex: piyasa
+ stem: piyasa.|piyasat.
+ root: pys
+ gramm: N,f
+ paradigm: N2
+ trans_de: Markt, Geschäft
+ trans_en: market, shop
 -lexeme
  lex: plaž
  stem: plaž.|plažat.
  root: plž
  gramm: N,m
  paradigm: N2
- trans_de: Badestrand pl
- trans_en: 
+ trans_de: Badestrand
+ trans_en: beach
 -lexeme
  lex: plaqa
  stem: plaqa.|plaqat.
  root: plq
  gramm: N,f
  paradigm: N2
- trans_de: a) Plakette (z. B. Kennzeichen am Auto). 	b) Grammophonplatte pl
- trans_en: 
+ trans_de: Plakette (z.B. Kennzeichen am Auto); Grammophonplatte
+ trans_en: plaque (e.g. to mark a vehicle); grammophone record
 -lexeme
- lex: poləs
- stem: poləs.
- root: pls
- gramm: N,m
- paradigm: N1
- trans_de: Polizist
- trans_en: 
+ lex: pola
+ stem: pola.
+ root: pl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Stahl
+ trans_en: steel
 -lexeme
- lex: polis
- stem: polis.|puwelis.//polisin.
+ lex: poləs/polis/polus/puləs/pulis
+ stem: poləs.//polis.//polus.//puləs.//pulis.|puwelis.//puweləs.//polisin.
  root: pls
  gramm: N,m
  paradigm: N2
  trans_de: Polizist
- trans_en: 
+ trans_en: policeman
+-lexeme
+ lex: porike
+ stem: porike.
+ root: pr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: vorderes Haar, Holle
+ trans_en: hair at the front (of the head), <?>
+-lexeme
+ lex: porsuk
+ stem: porsuk.
+ root: prsk
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Dachs
+ trans_en: badger
 -lexeme
  lex: posta
  stem: posta.
  root: pst
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Postkutsche
- trans_en: 
+ trans_en: stagecoach
 -lexeme
  lex: poṣt
  stem: poṣt.
  root: pṣt
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fell; Zauberfell, das Menschen in Tiere verwandelt
- trans_en: 
--lexeme
- lex: poṣṭək
- stem: poṣṭək.|poṣṭəkat.
- root: pṣṭk
- gramm: N,m
- paradigm: N2
- trans_de: Fell; Zauberfell, das Menschen in Tiere verwandelt pl
- trans_en: 
+ trans_en: fur; enchanted fur which turns people into animals
 -lexeme
  lex: poṣṭa
  stem: poṣṭa.|poṣṭat.
@@ -30025,7 +30161,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Post
- trans_en: 
+ trans_en: post, post office, post transport
+-lexeme
+ lex: poṣṭək
+ stem: poṣṭək.|poṣṭəkat.
+ root: pṣṭk
+ gramm: N,m
+ paradigm: N2
+ trans_de: Fell; Zauberfell, das Menschen in Tiere verwandelt
+ trans_en: fur; enchanted fur which turns people into animals
 -lexeme
  lex: poṣtaxane
  stem: poṣtaxane.|poṣtaxanat.
@@ -30033,7 +30177,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Posthaus
- trans_en: 
+ trans_en: post office
 -lexeme
  lex: poše
  stem: poše.|pošat.
@@ -30041,23 +30185,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kopfstoß; Stoß mit den Hörnern
- trans_en: 
+ trans_en: headbutt; hit with horns
 -lexeme
- lex: poṯo
- stem: poṯo.
- root: pṯ
- gramm: N,f
- paradigm: N1
- trans_de: Gesicht
- trans_en: 
+ lex: pošman
+ stem: pošman.
+ root: pšmn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: reuig
+ trans_en: repentant
 -lexeme
  lex: pox
  stem: pox.
  root: px
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: übler Gestank
- trans_en: 
+ trans_en: awful smell
 -lexeme
  lex: poxine
  stem: poxine.
@@ -30065,7 +30209,7 @@
  gramm: N,f
  paradigm: N1
  trans_de: Kichererbsen, die in der Handmühle gemahlen und mit Traubenhonig versetzt werden
- trans_en: 
+ trans_en: chickpeas which are ground in a handmill
 -lexeme
  lex: praṣa
  stem: praṣa.
@@ -30139,7 +30283,7 @@
  trans_de: Polizist
  trans_en: 
 -lexeme
- lex: pŭrut
+ lex: pŭrut/pərut/prut
  stem: pŭrut.|pŭrut.
  root: pŭrt
  gramm: N,m
