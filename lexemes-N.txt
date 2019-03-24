@@ -32600,8 +32600,8 @@
  root: qṭr
  gramm: N,m
  paradigm: N2
- trans_de: Zimmer-)Decke
- trans_en: 
+ trans_de: (Zimmer-)Decke
+ trans_en: (room) ceiling
 -lexeme
  lex: qubbe
  stem: qubbe.
@@ -32615,9 +32615,9 @@
  stem: qubbur.
  root: qbr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Überdachung des Ausgangs der Treppe, die auf das Dach führt
- trans_en: 
+ trans_en: roofing of the exit by the stairs which leads to the roof
 -lexeme
  lex: qubḏo
  stem: qubḏo.|qubḏe.
@@ -32644,12 +32644,12 @@
  trans_en: 
 -lexeme
  lex: qubo
- stem: qubo.
+ stem: qubo.|qube.
  root: qbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kuppelbau
- trans_en: 
+ trans_en: domed building
 -lexeme
  lex: qudke/qudko
  stem: qudke/qudko.
@@ -32688,8 +32688,8 @@
  root: qfl
  gramm: N,m
  paradigm: N2
- trans_de: a) armvoll b) Vorhängeschloss
- trans_en: 
+ trans_de: armvoll; Vorhängeschloss
+ trans_en: armful; padlock
 -lexeme
  lex: qufo
  stem: qufo.|qufe.
@@ -32833,15 +32833,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Körpergröße, Statur, Wuchs, Gestalt
- trans_en: 
+ trans_en: height, stature, growth, shape
 -lexeme
  lex: qunaġ
- stem: qunaġ.
+ stem: qunaġ.|qunaġat.
  root: qnġ
  gramm: N,m
- paradigm: N1
- trans_de: a) großes Haus b) Wegstation, Wegstrecke
- trans_en: 
+ paradigm: N2
+ trans_de: großes Haus; Wegstation, Wegstrecke
+ trans_en: large house; waystation, stretch of road
 -lexeme
  lex: qunakke
  stem: qunakke.
