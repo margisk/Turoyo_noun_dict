@@ -32352,8 +32352,8 @@
  root: qwl
  gramm: N,m
  paradigm: N2
- trans_de: a) Geschrei, Wehgeschrei; Ruf, Stimme b) Kirchenlied pl
- trans_en: 
+ trans_de: Geschrei, Wehgeschrei; Ruf, Stimme; Kirchenlied
+ trans_en: shouting, crying; call, voice; hymn
 -lexeme
  lex: qoltuġ
  stem: qoltuġ.|quletəġ.
@@ -32521,7 +32521,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Dorf
- trans_en: 
+ trans_en: village
 -lexeme
  lex: qrobo
  stem: qrobo.|qrobe.
