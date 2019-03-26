@@ -31540,8 +31540,8 @@
  trans_en: 
 -lexeme
  lex: qaṭən/qaṭun
- stem: qaṭən/qaṭun.
- root: qṭn/qṭn
+ stem: qaṭən.//qaṭun.
+ root: qṭn
  gramm: N,f
  paradigm: N1
  trans_de: Katze
@@ -31551,25 +31551,25 @@
  stem: qaṭiro.
  root: qṭr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Joghurt
- trans_en: 
+ trans_en: yoghurt
 -lexeme
  lex: qaṭlo
- stem: qaṭlo.
+ stem: qaṭlo.|qaṭle.
  root: qṭl
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Tötung
- trans_en: 
+ trans_en: murder
 -lexeme
  lex: qaṭmo
  stem: qaṭmo.
  root: qṭm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Asche
- trans_en: 
+ trans_en: ashes
 -lexeme
  lex: qaṭriyo
  stem: qaṭriyo.
@@ -31588,12 +31588,12 @@
  trans_en: 
 -lexeme
  lex: qaṭuno
- stem: qaṭuno.|prs.
+ stem: qaṭuno.|qaṭune.
  root: qṭn
  gramm: N,m
  paradigm: N2
  trans_de: Kater
- trans_en: 
+ trans_en: cat
 -lexeme
  lex: qavze
  stem: qavze.
@@ -31617,7 +31617,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Auftrag
- trans_en: 
+ trans_en: task
 -lexeme
  lex: qawəne
  stem: qawəne.|qawənat.
@@ -31657,7 +31657,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Grab
- trans_en: 
+ trans_en: grave
 -lexeme
  lex: qawše
  stem: qawše.|qawšat.
@@ -31680,8 +31680,8 @@
  root: qwy
  gramm: N,m
  paradigm: N2
- trans_de: Kf
- trans_en: 
+ trans_de: stark
+ trans_en: strong
 -lexeme
  lex: qaydo
  stem: qaydo.|qayde.
