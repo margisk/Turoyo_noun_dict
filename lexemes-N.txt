@@ -31700,12 +31700,12 @@
  trans_en: 
 -lexeme
  lex: qayiro
- stem: qayiro.
+ stem: qayiro.|qayire.
  root: qyr
- gramm: N,m
- paradigm: N1
- trans_de: ein kalter Mann“; b-lebo qayiro
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: kalt
+ trans_en: cold
 -lexeme
  lex: qayma
  stem: qayma.
@@ -31736,8 +31736,8 @@
  root: qys
  gramm: N,m
  paradigm: N2
- trans_de: a) Holz, Stock b) Bogen
- trans_en: 
+ trans_de: Holz, Stock; Bogen
+ trans_en: wood, stick; bow
 -lexeme
  lex: qaysuso
  stem: qaysuso.|qaysuse.
