@@ -31543,9 +31543,9 @@
  stem: qaṭən.//qaṭun.
  root: qṭn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Katze
- trans_en: 
+ trans_en: cat
 -lexeme
  lex: qaṭiro
  stem: qaṭiro.
