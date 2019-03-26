@@ -11905,7 +11905,7 @@
  paradigm: <?>
  trans_de: Hundszahn, Cynodon dacrylon L., Ausläufer treibendes Gras, das im Mittelmeergebiet unsere Quecke ersetzt, mit sehr tiefgehenden starken Wurzeln
 -lexeme: Bermuda grass, Cynodon dacrylon L.
- lex: fṣiḥuṯo/fṣəḥuṯo/ṣfiḥuṯo
+ lex: fṣiḥuṯo/fṣəḥuṯo/ṣfiḥuṯo/pṣiḥuṯo/pṣəḥuṯo
  stem: fṣiḥuṯo.//fṣəḥuṯo.//pṣiḥuṯo.//pṣəḥuṯo.//ṣfiḥuṯo.
  root: pṣḥ
  gramm: N,f
@@ -30209,183 +30209,167 @@
  gramm: N,f
  paradigm: N1
  trans_de: Kichererbsen, die in der Handmühle gemahlen und mit Traubenhonig versetzt werden
- trans_en: chickpeas which are ground in a handmill
+ trans_en: chickpeas which are ground in a handmill and are then mixed with grape syrup
 -lexeme
  lex: praṣa
  stem: praṣa.
  root: prṣ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Lauch
- trans_en: 
+ trans_en: onion
 -lexeme
- lex: prefesor
- stem: prefesor.
- root: prfsr
- gramm: N,m
- paradigm: N1
- trans_de: Professor
- trans_en: 
+ lex: pratək
+ stem: pratək.
+ root: prtk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: praktisch
+ trans_en: practical
 -lexeme
- lex: profasor
- stem: profasor.|profasorin.
+ lex: profasor/prefesor
+ stem: profasor.//prefesor.|profasorin.//prefesorin.
  root: prfsr
  gramm: N,m
  paradigm: N2
  trans_de: Professor
- trans_en: 
+ trans_en: professor
 -lexeme
  lex: psike
- stem: psike.
+ stem: psike.|psikat.
  root: psk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Katze
- trans_en: 
+ trans_en: cat
 -lexeme
- lex: pṯilo
- stem: pṯilo.
- root: pṯl
- gramm: N,m
- paradigm: N1
- trans_de: Heustrang, Heuwickel, Strang von frischem Gras
- trans_en: 
+ lex: puč
+ stem: puč.
+ root: pč
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: leer
+ trans_en: empty
 -lexeme
  lex: pučke
- stem: pučke.
+ stem: pučke.|pučkat.
  root: pčk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlag mit der flachen Hand, Kopfnuss
- trans_en: 
+ trans_en: blow with palm; flick of the finger on someone's forehead
 -lexeme
- lex: pulaḏ
- stem: pulaḏ.
- root: plḏ
- gramm: N,m
- paradigm: N1
- trans_de: Stahl
- trans_en: 
--lexeme
- lex: puləs
- stem: puləs.|puwelis.
- root: pls
+ lex: purut/pərut/prut
+ stem: purut.//pərut.//prut|pŭrut.//pərut.//prut.
+ root: prt
  gramm: N,m
  paradigm: N2
- trans_de: puwelis Polizist
- trans_en: 
--lexeme
- lex: pŭlus
- stem: pŭlus.
- root: pŭls
- gramm: N,m
- paradigm: N1
- trans_de: Polizist
- trans_en: 
--lexeme
- lex: pŭrut/pərut/prut
- stem: pŭrut.|pŭrut.
- root: pŭrt
- gramm: N,m
- paradigm: N2
- trans_de: Protestant pl
- trans_en: 
+ trans_de: Protestant
+ trans_en: protestant
 -lexeme
  lex: puš
  stem: puš.
  root: pš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: trockenes Gras
- trans_en: 
+ trans_en: dried grass
 -lexeme
  lex: puši
  stem: puši.
  root: pš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: trockenes Gras
- trans_en: 
+ trans_en: dried grass
 -lexeme
  lex: pušiye
  stem: pušiye.
  root: pšy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Zunder
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: puṯe
  stem: puṯe.
  root: pṯ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Färberröte, Krapp, Rubia tinctorum L. nicht
- trans_en: 
+ trans_en: common madder, Rubia tinctorum
 -lexeme
  lex: puzo
  stem: puzo.
  root: pz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schnauze
- trans_en: 
+ trans_en: muzzle
+-lexeme
+ lex: qa/qayṣ
+ stem: qa.//qayṣ.
+ root: qṣ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: soviel, ganz, all
+ trans_en: so much, all, whole
 -lexeme
  lex: qaʕəde
  stem: qaʕəde.|qaʕdat.
  root: qʕd
  gramm: N,f
  paradigm: N2
- trans_de: a) Regel b) Pfeiler
- trans_en: 
+ trans_de: Regel; Pfeiler
+ trans_en: rule; column
 -lexeme
- lex: qabaḥa
- stem: qabaḥa.
+ lex: qabaḥa/qabiḥa
+ stem: qabaḥa.//qabiḥa.
  root: qbḥ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schande, Schuld
- trans_en: 
+ trans_en: shame, guilt
 -lexeme
- lex: qabiḥa
- stem: qabiḥa.
- root: qbḥ
- gramm: N,f
- paradigm: N1
- trans_de: Schande
- trans_en: 
+ lex: qabəl/qebil
+ stem: qabəl.//qebil.
+ root: qbl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: möglich
+ trans_en: possible
 -lexeme
  lex: qabila
- stem: qabila.
- root: qbl
- gramm: N,f
- paradigm: N1
- trans_de: Stamm
- trans_en: 
--lexeme
- lex: qabile
- stem: qabile.|qabail.
+ stem: qabila.//qabile.|qabilat.//qabayəl.
  root: qbl
  gramm: N,f
  paradigm: N2
- trans_de: qabail Stamm (der Araber)
- trans_en: 
+ trans_de: Stamm
+ trans_en: tribe
 -lexeme
  lex: qabiliye
  stem: qabiliye.
  root: qbl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fähigkeit
- trans_en: 
+ trans_en: possibility
+-lexeme
+ lex: qabo
+ stem: qabo.|qabuwat.//qabowat.
+ root: qb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Keller; Kanal
+ trans_en: cellar; canal
 -lexeme
  lex: qabo
  stem: qabo.
  root: qb
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Stoff-Futter
- trans_en: 
+ trans_en: lining material
 -lexeme
  lex: qabqab
  stem: qabqab.|qabqab.
@@ -30393,63 +30377,114 @@
  gramm: N,m
  paradigm: N2
  trans_de: Holzpantoffel
- trans_en: 
+ trans_en: clog
+-lexeme
+ lex: qabqabke
+ stem: qabqabke.|qabqabkat.
 -lexeme
  lex: qabro
  stem: qabro.
  root: qbr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Grab
- trans_en: 
+ trans_en: grave
+-lexeme
+ lex: qačax/qačaġ
+ stem: qačax.//qačaġ.
+ root: qčġ/qčx
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Schmuggel, Schmuggelware
+ trans_en: contraband, smuggling
+-lexeme
+ lex: qačaxčiye
+ stem: qačaxčiye.
+ root: qčx/qčġ
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Schmuggel
+ trans_en: contraband, smuggling
 -lexeme
  lex: qad
  stem: qad.
  root: qdd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Maß
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: qadaḥ
- stem: qadaḥ.
+ stem: qadaḥ.|qadaḥe.
  root: qdḥ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Glas, Becher
- trans_en: 
+ trans_en: glass, cup
 -lexeme
  lex: qadama
  stem: qadama.
  root: qdm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Abtritt, Toilette
- trans_en: 
+ trans_en: <...>, toilette
 -lexeme
  lex: qadamke
  stem: qadamke.
  root: qdm
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: unchangeable
  trans_de: Abtritt, Toilette
- trans_en: 
+ trans_en: <?>
+-lexeme
+ lex: qadar
+ stem: qadar.
+ root: qdr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: ungefähr, eine Weile
+ trans_en: approximately; a while
+-lexeme
+ lex: qadari
+ stem: qadari.
+ root: qdr
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: etwa
+ trans_en: about
 -lexeme
  lex: qaddəm
- stem: qaddəm.|qadedim.//qaddəmat.
+ stem: qaddəm.|qadedəm.//qaddəmat.
  root: qdm
  gramm: N,f
  paradigm: N2
  trans_de: Axt, Beil
- trans_en: 
+ trans_en: axe, hatchet
 -lexeme
  lex: qadəd
  stem: qadəd.
  root: qdd
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: mit Zuckermelonen gekochter Traubenhonig
- trans_en: 
+ trans_en: grape syrup cooked with watermelons
+-lexeme
+ lex: qadife
+ stem: qadife.
+ root: qdf
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Samt
+ trans_en: velvet
+-lexeme
+ lex: qadim
+ stem: qadim.|qadime.
+ root: qdm
+ gramm: ADJ
+ paradigm: N2
+ trans_de: alt, aus alter Zeit
+ trans_en: old, from old times
 -lexeme
  lex: qadəšto
  stem: qadəšto.
