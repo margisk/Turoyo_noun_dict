@@ -31820,20 +31820,20 @@
  trans_en: 
 -lexeme
  lex: qḏolo
- stem: qḏolo.
+ stem: qḏolo.|qḏole.
  root: qḏl
  gramm: N,m
- paradigm: N1
- trans_de: a) Hals b) dünner, schlechter Weizen, Strohstückchen, die beim Sieben auf die Erde fallen
- trans_en: 
+ paradigm: N2
+ trans_de: Hals; dünner, schlechter Weizen, Strohstückchen, die beim Sieben auf die Erde fallen
+ trans_en: neck; thin, bad wheat, pieces of straw that fall to the ground during sieving
 -lexeme
- lex: qelayto
- stem: qelayto.|qelayoṯe.
+ lex: qelayto/qǝlayto
+ stem: qelayto.//qǝlayto.|qelayoṯe.//qǝlayoṯe.
  root: qlyt
  gramm: N,f
  paradigm: N2
  trans_de: Mönchszelle, Kammer
- trans_en: 
+ trans_en: monk cell, chamber
 -lexeme
  lex: qele
  stem: qele.
@@ -31843,13 +31843,13 @@
  trans_de: Euter
  trans_en: 
 -lexeme
- lex: qeməsto
- stem: qeməsto.|qemisyoṯe.
+ lex: qeməsto/qaməsto/qəmisto/qmisto
+ stem: qeməsto.//qaməsto.//qəmisto.//qmisto.|qemisyoṯe.//qmisyoṯo.
  root: qmst
  gramm: N,f
  paradigm: N2
  trans_de: Hemd
- trans_en: 
+ trans_en: shirt
 -lexeme
  lex: qeno
  stem: qeno.|qene.
@@ -31857,7 +31857,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Nest
- trans_en: 
+ trans_en: nest
 -lexeme
  lex: qerowo
  stem: qerowo.
@@ -31872,8 +31872,8 @@
  root: qṣ
  gramm: N,m
  paradigm: N2
- trans_de: Unglück, Heimsuchung pl
- trans_en: 
+ trans_de: Unglück, Heimsuchung
+ trans_en: misfortune, tragedy
 -lexeme
  lex: qəbaḥṯo
  stem: qəbaḥṯo.
@@ -32108,12 +32108,12 @@
  trans_en: 
 -lexeme
  lex: qəṣṣa
- stem: qəṣṣa.|qəṣaṣ.//qəṣṣaat.
+ stem: qəṣṣa.|qəṣaṣ.//qəṣṣat.
  root: qṣṣ
  gramm: N,f
  paradigm: N2
  trans_de: Geschichte
- trans_en: 
+ trans_en: story 
 -lexeme
  lex: qəṣṭaxana
  stem: qəṣṭaxana.
@@ -32132,12 +32132,12 @@
  trans_en: 
 -lexeme
  lex: qəšto
- stem: qəšto.|qəštooṯo.
+ stem: qəšto.|qəštoṯo.
  root: qšt
  gramm: N,f
  paradigm: N2
- trans_de: a) Augenbraue; Bogen b) Gerät zum Entkernen der Baumwolle
- trans_en: 
+ trans_de: Augenbraue; Bogen; Gerät zum Entkernen der Baumwolle
+ trans_en: eyebrow; arc; device for clearing cotton
 -lexeme
  lex: qəṭʕa
  stem: qəṭʕa.
@@ -32196,12 +32196,12 @@
  trans_en: 
 -lexeme
  lex: qimo
- stem: qimo.
+ stem: qimo.|qime.
  root: qwm
- gramm: N,m
- paradigm: N1
- trans_de: senkrecht On
- trans_en: 
+ gramm: ADJ
+ paradigm: N2
+ trans_de: aufrecht; stehend, senkrecht;  angeschwollen (Fleisch)
+ trans_en: upright; standing, vertical; swollen (meant)
 -lexeme
  lex: qinaġa
  stem: qinaġa.|qinaġat.
@@ -32281,7 +32281,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schlüssel
- trans_en: 
+ trans_en: key
 -lexeme
  lex: qləfto
  stem: qləfto.|qləfyoṯo.
@@ -32338,6 +32338,14 @@
  paradigm: N1
  trans_de: schwarzer Sklave
  trans_en: 
+-lexeme
+ lex: qolay
+ stem: qolay.
+ root: kly
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: leicht
+ trans_en: easy
 -lexeme
  lex: qolənǧ
  stem: qolənǧ.
