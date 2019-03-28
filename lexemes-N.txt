@@ -30379,8 +30379,8 @@
  trans_de: Holzpantoffel
  trans_en: clog
 -lexeme
- lex: qabqabke
- stem: qabqabke.|qabqabkat.
+ lex: qabqabke/qapqapke
+ stem: qabqabke.//qapqapke.|qabqabkat.//qapqapkat.
 -lexeme
  lex: qabro
  stem: qabro.
@@ -30486,6 +30486,69 @@
  trans_de: alt, aus alter Zeit
  trans_en: old, from old times
 -lexeme
+ lex: qadro
+ stem: qadro.
+ root: qdr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Ansehen, Wert
+ trans_en: credit, value
+-lexeme
+ lex: qadro
+ stem: qadro.
+ root: qdr
+ gramm: N,m
+ paradigm: <?>
+ trans_de: große irdene Schüssel
+ trans_en: big clay bowl
+-lexeme
+ lex: qadr/qadər
+ stem: qadr.//qadər.
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: gastfreundliche Aufnahme, Ehrung; von Gott verhängtes Geschick
+ trans_en: hospitable reception, honouring; destiny imposed by God
+-lexeme
+ lex: qadre
+ stem: qadre.
+ root: qdr
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Rücken (qadre d ḥaṣe)
+ trans_en: back (qadre d ḥaṣe)
+-lexeme
+ lex: qadər
+ stem: qadər.
+ root: qdr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: allmächtig (Gott)
+ trans_en: almighty (God)
+-lexeme
+ lex: qaduro
+ stem: qaduro.|qadure.
+ root: qdr
+ gramm: N,m
+ paradigm: N2
+ trans_de: irdener Krug mit Tragbügel oder Henkel, 2-3 kg fassend
+ trans_en: clay jar with a <?> or a handle, containing 2-3 kg
+-lexeme
+ lex: qadišo
+ stem: qadišo.|qadiše.
+ root: qdš
+ gramm: ADJ
+ paradigm: N2
+ trans_de: Heiliger; Heiligengrab, Wallfahrtstätte
+ trans_en: saint; saint's grave, places of pilgrimage
+-lexeme
+ lex: qadišuṯo
+ stem: qadišuṯo.
+ root: qdš
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Heiligkeit
+ trans_en: holiness
+-lexeme
  lex: qadəšto
  stem: qadəšto.
  root: qdš
@@ -30494,141 +30557,93 @@
  trans_de: der Heilige Geist (ruḥo qadəšto)
  trans_en: the Holy Spirit (ruḥo qadəšto)
 -lexeme
- lex: qadife
- stem: qadife.
- root: qdf
- gramm: N,f
- paradigm: N1
- trans_de: Samt
- trans_en: 
--lexeme
- lex: qadim
- stem: qadim.|qadime.
- root: qdm
- gramm: N,m
- paradigm: N2
- trans_de: alter Zeit
- trans_en: 
--lexeme
- lex: qadro
- stem: qadro.
- root: qdr
- gramm: N,m
- paradigm: N1
- trans_de: a) Ansehen, Wert b) große irdene Schüssel
- trans_en: 
--lexeme
- lex: qaduro
- stem: qaduro.
- root: qdr
- gramm: N,m
- paradigm: N1
- trans_de: irdener Krug mit Tragbügel oder Henkel
- trans_en: 
--lexeme
- lex: qadišo
- stem: qadišo.|qadiše.
- root: qdš
- gramm: N,m
- paradigm: N2
- trans_de: Heiliger; Heiligengrab, Wallfahrtstätte
- trans_en: 
--lexeme
- lex: qadišuṯo
- stem: qadišuṯo.
- root: qdš
- gramm: N,f
- paradigm: N1
- trans_de: Heiligkeit
- trans_en: 
--lexeme
- lex: qaḍa
- stem: qaḍa.|qaḍaawat.
+ lex: qaḏ̣a/qaḏa
+ stem: qaḏ̣a.//qaḏa.|qaḏ̣awat.//qaḏawat.
  root: qḍy
  gramm: N,m
  paradigm: N2
  trans_de: Kreis(stadt)
- trans_en: 
+ trans_en: district town
 -lexeme
- lex: qaḍame
- stem: qaḍame.
+ lex: qaḏ̣ame/qaḏame
+ stem: qaḏ̣ame.//qaḏame.
  root: qḍm
  gramm: N,f
- paradigm: N1
- trans_de: Kichererbsen gemachtes Gericht mit Schalen
- trans_en: 
+ paradigm: unchangeable
+ trans_de: aus Kichererbsen gemachtes Gericht mit Schalen
+ trans_en: dish made from chick peas, with shells
 -lexeme
- lex: qaḍi
- stem: qaḍi.
- root: qḍy
+ lex: qaḏ̣i/qaḏi/qazi
+ stem: qaḏ̣i.//qaḏi.//qazi.
+ root: qḏ̣y/qḏy
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Richter, Kadi
- trans_en: 
+ trans_en: judge
 -lexeme
- lex: qaḍiye
- stem: qaḍiye.
- root: qḍy
+ lex: qaḏ̣iye/qaḏiye
+ stem: qaḏ̣iye.//qaḏiye.
+ root: qḏ̣y/qḏy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geschehnis, Angelegenheit
- trans_en: 
+ trans_en: incident, event, matter 
 -lexeme
- lex: qaduro
- stem: qaduro.
- root: qdr
- gramm: N,m
- paradigm: N1
- trans_de: Steinkrug (für Butter, Fett, mit Henkeln)
- trans_en: 
+ lex: qaf
+ stem: qaf.
+ root: qf
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verloren (von Menschen und Tieren, Schiffen)
+ trans_en: lost (about people, animals and ships)
 -lexeme
- lex: qafal
- stem: qafal.
+ lex: qafal/qappal
+ stem: qafal.//qappal.
  root: qfl
  gramm: N,f
- paradigm: N1
- trans_de: alte Kleider
- trans_en: 
+ paradigm: unchangeable
+ trans_de: alte Kleider, Lumpenkleid
+ trans_en: old clothes, rag clothes
 -lexeme
  lex: qafas
  stem: qafas.|qafase.
  root: qfs
  gramm: N,m
  paradigm: N2
- trans_de: qafase Käfig
- trans_en: 
+ trans_de: Käfig
+ trans_en: cage
 -lexeme
  lex: qaffe
- stem: qaffe.
+ stem: qaffe.|qaffat.
  root: qff
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schwertschneide, -klinge
- trans_en: 
+ trans_en: scabbard, sword blade
 -lexeme
  lex: qafle
  stem: qafle.|qaflat.
  root: qfl
  gramm: N,f
  paradigm: N2
- trans_de: Schwarm, Streifschar
- trans_en: 
+ trans_de: Schwarm, Streifschar; Abteilung (Soldaten)
+ trans_en: swarm, flock; division (soldiers)
 -lexeme
  lex: qafqarʕo
  stem: qafqarʕo.
  root: qfqrʕ
  gramm: N,m
- paradigm: N1
- trans_de: Hinterkopf nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Hinterkopf
+ trans_en: back of the head
 -lexeme
  lex: qaġo
- stem: qaġo.
+ stem: qaġo.|qaġe.
  root: qġ
  gramm: N,m
  paradigm: N1
  trans_de: Rabe
- trans_en: 
+ trans_en: raven
 -lexeme
  lex: qafqufo
  stem: qafqufo.
@@ -30636,55 +30651,55 @@
  gramm: N,m
  paradigm: N1
  trans_de: Holz- und Strohstückchen auf der Oberfläche des Brunnenwassers
- trans_en: 
+ trans_en: pieces of wood and straw on the surface of water
 -lexeme
- lex: qahwači
- stem: qahwači.|qahwačiiye.
+ lex: qahwači/qaḥwači
+ stem: qahwači.//qaḥwači.|qahwačiye.//qaḥwačiye.
  root: qhwč
  gramm: N,m
  paradigm: N2
- trans_de: iye Kaffeewirt
- trans_en: 
+ trans_de: Kaffeewirt
+ trans_en: person who runs a coffee shop
 -lexeme
- lex: qahwe
- stem: qahwe.|qahwat.
+ lex: qahwe/qaḥwe/qahwa/qaḥwa
+ stem: qahwe.//qaḥwe.//qaḥwa.//qahwa.|qahwat.//qaḥwat.
  root: qhw
  gramm: N,f
  paradigm: N2
- trans_de: Kaffee pl
- trans_en: 
+ trans_de: Kaffee
+ trans_en: coffee
 -lexeme
  lex: qaḥbe/qaḥbo
- stem: qaḥbe/qaḥbo.|qaḥbe.//qaḥboin.
+ stem: qaḥbe.//qaḥbo.|qaḥbin.
  root: qḥb/qḥb
  gramm: N,f
  paradigm: N2
  trans_de: Hure
- trans_en: 
+ trans_en: harlot
 -lexeme
  lex: qaḥfək
  stem: qaḥfək.
  root: qḥfk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: Scherbe
- trans_en: 
+ trans_en: shard
 -lexeme
  lex: qaḥfərto
  stem: qaḥfərto.|qaḥfəryoṯe.
  root: qḥfrt
  gramm: N,f
  paradigm: N2
- trans_de: eine bienenkorbförmige Form gemacht. Darauf wird ein Brei aus
- trans_en: 
+ trans_de: es wird eine bienenkorbförmige Form gemacht. Darauf wird ein Brei aus pəḏre genannten Pflanze getan, und so entsteht ein Gefäß
+ trans_en: <...> form is made. Pulp from the plant called pəḏre is placed on it, and a container is thus made
 -lexeme
  lex: qaḥfo
- stem: qaḥfo.
+ stem: qaḥfo.|qaḥfe.
  root: qḥf
  gramm: N,m
- paradigm: N1
- trans_de: a) Schädel b) Blumentopf, Scherbe c) auch Schimpfwort:
- trans_en: 
+ paradigm: N2
+ trans_de: Schädel; Blumentopf, Scherbe
+ trans_en: skull; flowerpot, shard
 -lexeme
  lex: qaḥfogulo
  stem: qaḥfogulo.|qaḥfogule.
@@ -30692,47 +30707,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schildkröte
- trans_en: 
+ trans_en: turtle
 -lexeme
- lex: qaḥwa/qaḥwe
- stem: qaḥwa/qaḥwe.
- root: qḥw/qḥw
- gramm: N,f
- paradigm: N1
- trans_de: Kaffee
- trans_en: 
+ lex: qaḥilo
+ stem: qaḥilo.|qaḥile.
+ root: qḥl
+ gramm: ADJ
+ paradimg: N2
+ trans_de: dürr; verbrannt (wie Sodom und Gomorrha); zerstört
+ trans_en: arid; burned down (like Sodom and Gomorra); destroyed
 -lexeme
- lex: qaḥqači
- stem: qaḥqači.|qaḥqačiiye.
- root: qḥqč
+ lex: qaḥər/qaḥr/qahər/qahr
+ stem: qaḥər.//qaḥr.//qahər.//qahr.|qahrat.//qaḥrat.
+ root: qḥr/qhr
  gramm: N,m
  paradigm: N2
- trans_de: iye Kaffeewirt
- trans_en: 
+ trans_de: Kummer, Ärger
+ trans_en: worry; anger
 -lexeme
  lex: qaḥwačiye
- stem: qaḥwačiye.
+ stem: qaḥwačiye.//qahwačiye.
  root: qḥwčy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Arbeit des Kaffeewirts
- trans_en: 
+ trans_en: work of a keeper of a coffee shop
 -lexeme
  lex: qalʕo
  stem: qalʕo.
  root: qlʕ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Burg, Festung
- trans_en: 
+ trans_en: fortress, castle
 -lexeme
- lex: qalabaləġ
- stem: qalabaləġ.
+ lex: qalabaləġ/qarabaləġ
+ stem: qalabaləġ.//qarabaləġ
  root: qlblġ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Lärm, Gedränge
- trans_en: 
+ trans_en: noise, crowd
 -lexeme
  lex: qalač
  stem: qalač.|qalače.
@@ -30740,15 +30755,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Grünhang am Rand der Steppe
- trans_en: 
+ trans_en: slope of grass on the border of a steppe
 -lexeme
  lex: qalam
- stem: qalam.|aqlame.
+ stem: qalam.|aqlame.//qalame.
  root: qlm
  gramm: N,m
  paradigm: N2
- trans_de: aqlame Schreibrohr, Federhalter
- trans_en: 
+ trans_de: Schreibrohr, Federhalter
+ trans_en: pen, pencil
 -lexeme
  lex: qalamdar
  stem: qalamdar.|qalamdar.
@@ -30756,111 +30771,119 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schreiber, Sekretär
- trans_en: 
+ trans_en: scribe, secretary
 -lexeme
  lex: qalamko
  stem: qalamko.
  root: qlm
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: kleiner Federhalter
- trans_en: 
+ trans_en: small pen
 -lexeme
  lex: qalamtaraš
  stem: qalamtaraš.
  root: qlm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Federmesser
- trans_en: 
+ trans_en: penknife
 -lexeme
  lex: qalaq
  stem: qalaq.
  root: qlq
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Unruhe, Ungeduld
- trans_en: 
+ trans_en: unrest, impatience
 -lexeme
  lex: qalaw
  stem: qalaw.
  root: qlw
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fett (von Tieren)
- trans_en: 
+ trans_en: animal fat
 -lexeme
  lex: qalawiye
  stem: qalawiye.
  root: qlw
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Fettleibigkeit
- trans_en: 
+ trans_en: obesity
 -lexeme
  lex: qalawiz
  stem: qalawiz.
  root: qlwz
  gramm: N,m
  paradigm: N1
- trans_de: a) Ahle b) Führer nicht
- trans_en: 
+ trans_de: Ahle; Führer
+ trans_en: awl; <?>
 -lexeme
  lex: qale
- stem: qale.
+ stem: qale.|qalat.
  root: ql
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kampf, Streit
- trans_en: 
+ trans_en: argument, fight
 -lexeme
  lex: qaləb
- stem: qaləb.|quwelib.
+ stem: qaləb.|quweləb.
  root: qlb
  gramm: N,m
  paradigm: N2
- trans_de: quwelib a) Form, mit der etwas geformt wird b) Stück Seife
- trans_en: 
+ trans_de: Form, mit der etwas geformt wird; Stück Seife
+ trans_en: <?>
 -lexeme
  lex: qaləke
- stem: qaləke.
+ stem: qaləke.|qaləkat.
  root: qlk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schädeldach
- trans_en: 
+ trans_en: skullcap
+-lexeme
+ lex: qaličke
+ stem: qaličke.
+ root: qlč
+ gramm: <?>
+ paradigm: <?>
+ trans_de: klein <?>
+ trans_en: small <?>
 -lexeme
  lex: qaliyo
  stem: qaliyo.
  root: qly
  gramm: N,m
- paradigm: N1
- trans_de: kleine Fettstücke und die doppelte Menge Fleisch werden etwa
- trans_en: 
+ paradigm: <?>
+ trans_de: kleine Fettstücke und die doppelte Menge Fleisch werden etwa 6 Stunden lang miteinander ohne Wasser gekocht und dann aufgehoben
+ trans_en: small pieces of fat and double-quantity of meat are cooked together without water for 6 hours and then set aside
 -lexeme
- lex: qal(l)ən
- stem: qal(l)ən.|qal(l)ənat.
- root: ql(l)n
+ lex: qallən/qalən/qallun/qalun/qalyun
+ stem: qallən.//qalən.//qallun.//qalun.//qalyun.|qallənat.//qalənat.//qallunat.//qalunat.//qalyunat.
+ root: qln
  gramm: N,m
  paradigm: N2
  trans_de: Tabakspfeife
- trans_en: 
+ trans_en: smoking pipe
 -lexeme
- lex: qal(l)un
- stem: qal(l)un.|qal(l)une.
- root: ql(l)n
- gramm: N,m
- paradigm: N2
- trans_de: Tabakspfeife
- trans_en: 
+ lex: qalləs
+ stem: qalləs.
+ root: qls
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schwächlich (von Pflanzen, die neben einer größeren nicht gedeihen, aber auch von Menschen)
+ trans_en: weakly (about plants, which do not grow close to the big ones, but also can be said about humans)
 -lexeme
  lex: qalluza
  stem: qalluza.
  root: qlz
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Kopfbedeckung der Geistlichen
- trans_en: 
+ trans_en: headpiece of clergy
 -lexeme
  lex: qalmo
  stem: qalmo.|qalme.
@@ -30868,23 +30891,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Laus
- trans_en: 
+ trans_en: louse
 -lexeme
  lex: qalpaġ
  stem: qalpaġ.
  root: qlpġ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Deckel
- trans_en: 
+ trans_en: lid, cover
 -lexeme
  lex: qalqo
  stem: qalqo.|qalqe.
  root: qlq
  gramm: N,m
  paradigm: N2
- trans_de: Kieselstein pl
- trans_en: 
+ trans_de: Kieselstein
+ trans_en: pebble
 -lexeme
  lex: qalto
  stem: qalto.|qaltoṯe.
@@ -30892,71 +30915,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Müll-, Misthaufen
- trans_en: 
+ trans_en: thrash or dung heap
 -lexeme
  lex: qaluṭo
  stem: qaluṭo.|qaluṭe.
  root: qlṭ
  gramm: N,m
  paradigm: N2
- trans_de: AS
- trans_en: 
--lexeme
- lex: qalyun
- stem: qalyun.|qalyunat.
- root: qlyn
- gramm: N,m
- paradigm: N2
- trans_de: Tabakspfeife
- trans_en: 
+ trans_de: habgierig
+ trans_en: greedy
 -lexeme
  lex: qalyun
  stem: qalyun.
  root: qlyn
  gramm: N,m
- paradigm: N1
- trans_de: ein Insekt
- trans_en: 
+ paradigm: <?>
+ trans_de: ein Insekt (qalyun qotte)
+ trans_en: insect (qalyun qotte)
 -lexeme
  lex: qamayto
  stem: qamayto.
  root: qmyt
  gramm: N,f
  paradigm: N1
- trans_de: a) zeitlich: zuerst b) örtlich: b-qamayte
- trans_en: 
+ trans_de: zeitlich: zuerst; 
+ trans_en: <?>
+-lexeme
+ lex: qamar
+ stem: qamar.
+ root: qmr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Druck, Schmerz
+ trans_en: pressure, pain
 -lexeme
  lex: qamari
- stem: qamari.|qamariiye.
+ stem: qamari.|qamariye.
  root: qmr
  gramm: N,m
  paradigm: N2
- trans_de: iye kleines Geldstück, Piaster
- trans_en: 
+ trans_de: kleines Geldstück, Piaster
+ trans_en: small amount of money, piastre
 -lexeme
  lex: qambərto
  stem: qambərto.
  root: qmbrt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Knäuel
- trans_en: 
+ trans_en: ball
+-lexeme
+ lex: qamčəke/qamčke
+ stem: qamčəke.//qamčke.|qamčəkat.//qamčkat.
+ root: qmč
+ gramm: N,f,dim
+ paradigm: N2
+ trans_de: Nacken
+ trans_en: neck
 -lexeme
  lex: qamči
- stem: qamči.|qamčiat.
+ stem: qamči.|qamčiyat.
  root: qmč
  gramm: N,m
  paradigm: N2
  trans_de: Peitsche
- trans_en: 
--lexeme
- lex: qamč(ə)ke
- stem: qamč(ə)ke.|qamč(ə)kat.
- root: qmč()k
- gramm: N,f
- paradigm: N2
- trans_de: Nacken
- trans_en: 
+ trans_en: lash, whip
 -lexeme
  lex: qamčir
  stem: qamčir.|qamčire.
@@ -30964,31 +30987,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Geissel, Reitpeitsche; Gummiknüppel
- trans_en: 
+ trans_en: whip, horsewhip; truncheon
 -lexeme
  lex: qamḥo
  stem: qamḥo.
  root: qmḥ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mehl
- trans_en: 
--lexeme
- lex: qaməsto
- stem: qaməsto.
- root: qmst
- gramm: N,f
- paradigm: N1
- trans_de: Hemd
- trans_en: 
+ trans_en: flour
 -lexeme
  lex: qamoyo
  stem: qamoyo.|qamoye.
  root: qmy
  gramm: N,m
  paradigm: N2
- trans_de: a) zeitlich: früher b) räumlich: erster, an der Spitze, voran
- trans_en: 
+ trans_de: zeitlich: früher; räumlich: erster, an der Spitze, voran
+ trans_en: temporal: earlier, first; spatial: first, on the top, ahead
 -lexeme
  lex: qamṣo
  stem: qamṣo.|qamṣe.
@@ -30996,7 +31011,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Heuschrecke
- trans_en: 
+ trans_en: locust
 -lexeme
  lex: qamuške
  stem: qamuške.|qamuškat.
@@ -31004,15 +31019,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kruste auf Wunde, Brotrinde
- trans_en: 
+ trans_en: scab on a wound; bread crust
 -lexeme
  lex: qamuṯo
  stem: qamuṯo.
  root: qmṯ
  gramm: N,f
  paradigm: N1
- trans_de: a) zeitlich: b) räumlich:
- trans_en: 
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: qamyon
  stem: qamyon.|qamyonat.
@@ -31020,31 +31035,54 @@
  gramm: N,m
  paradigm: N2
  trans_de: Lastauto
- trans_en: 
+ trans_en: lorry, truck
+-lexeme
+ lex: qana
+ stem: qana.
+ root: qn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: damit
+ trans_en: in order that
 -lexeme
  lex: qanaʕa
  stem: qanaʕa.
  root: qnʕ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Überzeugung
- trans_en: 
+ trans_en: persuasion, conviction
+-lexeme
+ lex: qanafe
+ stem: qanafe.|qanafat.
+ root: qnf
+ gramm: N2
+ trans_de: Sitzbank mit Kissen, Kanapee
+ trans_en: bench with pillows; sofa
+-lexeme
+ lex: qančor
+ stem: qančor.
+ root: qnčr
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: qandelo
- stem: qandelo.|sl·mi.
+ stem: qandelo.|qandele.
  root: qndl
  gramm: N,f
  paradigm: N2
  trans_de: Lampe aus Öl und Dochten
- trans_en: 
+ trans_en: lamp with oil and wicks
 -lexeme
  lex: qantin
  stem: qantin.
  root: qntn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kantine
- trans_en: 
+ trans_en: canteen
 -lexeme
  lex: qantoro
  stem: qantoro.|qantore.
@@ -31052,23 +31090,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zentner
- trans_en: 
+ trans_en: centner
 -lexeme
  lex: qanun
- stem: qanun.|quwenin.
+ stem: qanun.|quwenən.
  root: qnn
  gramm: N,m
  paradigm: N2
  trans_de: Gesetz
- trans_en: 
+ trans_en: law
 -lexeme
  lex: qanyo
  stem: qanyo.|qanye.
  root: qny
  gramm: N,m
  paradigm: N2
- trans_de: Leber
- trans_en: 
+ trans_de: Leber; pl. Leber und Lunge
+ trans_en: liver; pl. liver and lungs
 -lexeme
  lex: qanyono
  stem: qanyono.|qanyone.
@@ -31076,39 +31114,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Rind
- trans_en: 
+ trans_en: cattle
 -lexeme
- lex: qapanči
- stem: qapanči.
+ lex: qapanči/qaponči
+ stem: qapanči.//qaponči.|qapančiye.//qapončiye.
  root: qpnč
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wägemeister
- trans_en: 
+ trans_en: weighting master
+-lexeme
+ lex: qaplan
+ stem: qaplan.
+ root: qpln
+ gramm: N
+ paradigm: <?>
+ trans_de: Tiger
+ trans_en: tiger
 -lexeme
  lex: qapono
  stem: qapono.
  root: qpn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schnellwaage
- trans_en: 
--lexeme
- lex: qappal
- stem: qappal.|qappalat.
- root: qpl
- gramm: N,m
- paradigm: N2
- trans_de: Lumpenkleid, altes Kleid
- trans_en: 
--lexeme
- lex: qapqapke
- stem: qapqapke.
- root: qpqpk
- gramm: N,f
- paradigm: N1
- trans_de: kleiner Holzpantoffel
- trans_en: 
+ trans_en: steelyard scale
 -lexeme
  lex: qapṣuno
  stem: qapṣuno.|qapṣune.
@@ -31116,15 +31146,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zündhütchen der Patrone
- trans_en: 
+ trans_en: primer for bullets
 -lexeme
  lex: qaptan
  stem: qaptan.
  root: qptn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kapitän
- trans_en: 
+ trans_en: captain
 -lexeme
  lex: qaput
  stem: qaput.|qaputat.
@@ -31132,15 +31162,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Mantel
- trans_en: 
+ trans_en: coat
 -lexeme
  lex: qaqwo
  stem: qaqwo.
  root: qqw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Dreifuß für große Kessel, unter dem Feuer angemacht wird
- trans_en: 
+ trans_en: tripod for a big cauldron under which a fire is made
 -lexeme
  lex: qaqwono
  stem: qaqwono.|qaqwone.
@@ -31148,6 +31178,14 @@
  gramm: N,m
  paradigm: N2
  trans_de: Steinhuhn, Alectoro graeca
+ trans_en: partridge, Alectoro graeca
+-lexeme
+ lex: qarʕe
+ stem: qarʕe.
+ root: qrʕ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Pfaffenkopf, Kraut mit schwarzer Wurzel, die gegessen wird (qarʕe qaše)
  trans_en: 
 -lexeme
  lex: qarʕəke
