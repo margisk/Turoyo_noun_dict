@@ -32066,37 +32066,13 @@
  trans_de: Geschrei eines gefangen Huhnes; Geschrei des neugeborenen Kindes
  trans_en: cry of a caught chicken; cry of a newborn baby
 -lexeme
- lex: qazma
- stem: qazma.
- root: qzm
- gramm: N,f
- paradigm: N1
- trans_de: Hacke
- trans_en: 
--lexeme
- lex: qazo
- stem: qazo.|qaze.
- root: qz
- gramm: N,f
- paradigm: N2
- trans_de: Gans
- trans_en: 
--lexeme
- lex: qažəke
- stem: qažəke.
- root: qžk
- gramm: N,f
- paradigm: N1
- trans_de: Kaugummi
- trans_en: 
--lexeme
  lex: qdušqudšin
  stem: qdušqudšin.
  root: qdš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Allerheiligstes, Tabernakel
- trans_en: 
+ trans_en: sanctum sanctorum, tabernacle
 -lexeme
  lex: qḏolo
  stem: qḏolo.|qḏole.
@@ -32106,21 +32082,45 @@
  trans_de: Hals; dünner, schlechter Weizen, Strohstückchen, die beim Sieben auf die Erde fallen
  trans_en: neck; thin, bad wheat, pieces of straw that fall to the ground during sieving
 -lexeme
+ lex: qebəl
+ stem: qebəl.
+ root: qbl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: fähig
+ trans_en: capable
+-lexeme
+ lex: qedamto/qedəmto
+ stem: qedamto.//qedəmto.
+ root: qdm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: früh morgens
+ trans_en: early in the morning
+-lexeme
  lex: qelayto/qǝlayto
- stem: qelayto.//qǝlayto.|qelayoṯe.//qǝlayoṯe.
+ stem: qelayto.//qǝlayto.|qelayoṯe.//qǝlayoṯe.//qelayoṯo.//qəlayoṯo.
  root: qlyt
  gramm: N,f
  paradigm: N2
  trans_de: Mönchszelle, Kammer
  trans_en: monk cell, chamber
 -lexeme
+ lex: qelaki
+ stem: qelaki.
+ root: qlk
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: mit geschwollenen Hoden
+ trans_en: with swollen testicles
+-lexeme
  lex: qele
  stem: qele.
  root: ql
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Euter
- trans_en: 
+ trans_en: udder
 -lexeme
  lex: qeməsto/qaməsto/qəmisto/qmisto
  stem: qeməsto.//qaməsto.//qəmisto.//qmisto.|qemisyoṯe.//qmisyoṯo.
@@ -32138,13 +32138,13 @@
  trans_de: Nest
  trans_en: nest
 -lexeme
- lex: qerowo
- stem: qerowo.
+ lex: qerowo/qərowo
+ stem: qerowo.//qərowo.
  root: qrb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Messe, Messopfer
- trans_en: 
+ trans_en: mass, the Sacrifice of the Mass
 -lexeme
  lex: qeṣo
  stem: qeṣo.|qeṣe.
@@ -32160,15 +32160,15 @@
  gramm: N,f
  paradigm: N1
  trans_de: Stirnbinde für Mönche, Patriarchen, Metropoliten, Tuch mit weißen Kreuzen. Darüber trägt man den Hut. Das Ende kommt unter den Mantel
- trans_en: 
+ trans_en: head bands of monks, patriarchs, metropolitans, headcloth with white crosses. A hat is worn above it. The end goes down under the cloak.
 -lexeme
  lex: qəbba
- stem: qəbba.
+ stem: qəbba.//qubbe.|qəbbat.//qubbat.
  root: qbb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kuppel
- trans_en: 
+ trans_en: dome
 -lexeme
  lex: qəbbala
  stem: qəbbala.|qəbbalat.
@@ -32176,15 +32176,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wandnische zum Abstellen kleiner Gegenstände, Wandschrank; Schublade
- trans_en: 
+ trans_en: niche in a wall for placement of small objects; wall cupboard; drawer
 -lexeme
  lex: qəble
  stem: qəble.
  root: qbl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Süden
- trans_en: 
+ trans_en: south
+-lexeme
+ lex: qəbli
+ stem: qəbli.
+ root: qbl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: südlich, nach Süden
+ trans_en: southern, towards south
+-lexeme
+ lex: qič
+ stem: qič.
+ root: qč
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: abgemagert; sehr geizig
+ trans_en: emaciated; very stingy
 -lexeme
  lex: qədaḥ
  stem: qədaḥ.
@@ -32198,17 +32214,17 @@
  stem: qəddaḥa.
  root: qdḥ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Steinfeuerzeug
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: qədde
  stem: qədde.|qəddat.
  root: qdd
  gramm: N,f
  paradigm: N2
- trans_de: Riemen (am Pflug) pl
- trans_en: 
+ trans_de: Riemen (am Pflug)
+ trans_en: belt <...>
 -lexeme
  lex: qəfafe
  stem: qəfafe.|qəfafat.
@@ -32216,7 +32232,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bruthenne
- trans_en: 
+ trans_en: sitting hen
+-lexeme
+ lex: qəlaybat
+ stem: qəlaybat.
+ root: qlb
+ gramm: N
+ paradigm: <?>
+ trans_de: Purzelbaum
+ trans_en: somersault
 -lexeme
  lex: qəlayto
  stem: qəlayto.
@@ -32226,45 +32250,37 @@
  trans_de: Mönchszelle
  trans_en: 
 -lexeme
- lex: qəlčək
- stem: qəlčək.
+ lex: qəlčək/qəlčke/ʕəlčke
+ stem: qəlčək.//qəlčke.//ʕəlčke.
  root: qlčk
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Eichenstock, der an einem Ende abgeplattet wird. Die Hirten heben damit Pflanzen aus dem Boden aus.
- trans_en: 
--lexeme
- lex: qəlčke
- stem: qəlčke.//ʕəlčke.
- root: qlč
- gramm: N,f
- paradigm: N1
- trans_de: kurzer Stock mit dem die Hirten Pflanzen aus dem Boden herausheben
- trans_en: 
+ trans_en: oak-stick which is flattened out at one end. Shepherds lift up plants from the ground with it
 -lexeme
  lex: qəlf
  stem: qəlf.
  root: qlf
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Etui
- trans_en: 
+ trans_en: case
 -lexeme
  lex: qəlqəžanike
  stem: qəlqəžanike.
  root: qlqžnk
  gramm: N,f
- paradigm: N1
- trans_de: grauschwarzer Vogel. Bringt angeblich
- trans_en: 
+ paradigm: <?>
+ trans_de: grauschwarzer Vogel. Bringt angeblich 40 Steine in sein Nest
+ trans_en: grey-black bird. Allegedly brings 40 stones into its nest
 -lexeme
  lex: qəməndar
- stem: qəməndar.
+ stem: qəməndar.//qumindar.
  root: qmndr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kommandant
- trans_en: 
+ trans_en: commander
 -lexeme
  lex: qənne
  stem: qənne.|qənnat.
@@ -32272,127 +32288,143 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ameisenlöwe
- trans_en: 
+ trans_en: ant lion
 -lexeme
  lex: qəpqap
- stem: qəpqap.|qəpeqəb.//qəpqapat.
+ stem: qəpqap.|qəpeqəb.//qəpqapat.//qəpqaqe.
  root: qpqp
  gramm: N,m
  paradigm: N2
  trans_de: Holzpantoffel
- trans_en: 
+ trans_en: clog
 -lexeme
- lex: qərar
- stem: qərar.
- root: qrr
- gramm: N,m
- paradigm: N1
- trans_de: Entschluß, Beschluß
- trans_en: 
+ lex: qərat
+ stem: qərat.
+ root: qrt
+ gramm: N
+ paradigm: unchangeable
+ trans_de: hetzen
+ trans_en: rush
 -lexeme
  lex: qərbač
  stem: qərbač.|qərbačat.
  root: qrbč
  gramm: N,m
  paradigm: N2
- trans_de: Peitsche, Peitschenschlag pl
- trans_en: 
+ trans_de: Peitsche, Peitschenschlag
+ trans_en: whip, lashing
 -lexeme
  lex: qərež
  stem: qərež.
  root: qrž
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schmutz, der sich unter den Nägeln, am Rande der Pfeife usw. absetzt
- trans_en: 
+ trans_en: dirt which settles under nails, on the edge of a pipe
 -lexeme
- lex: qərrək(k)e
- stem: qərrək(k)e.
- root: qrk(k)
+ lex: qərrəkke
+ stem: qərrəkke.|qərrəkkat.
+ root: qrk
  gramm: N,f
- paradigm: N1
- trans_de: a) Kehle b) Krähe, Unglücksrabe c) rabenschwarz
- trans_en: 
+ paradigm: N2
+ trans_de: Kehle; Krähe, Unglücksrabe; rabenschwarz
+ trans_en: throat; crow; unlucky person; black as a raven
 -lexeme
  lex: qərmiḏo
- stem: qərmiḏo.|qərmiḏe.
+ stem: qərmiḏo.//qurmiḏo.|qərmiḏe.//qurmiḏe.
  root: qrmḏ
  gramm: N,m
  paradigm: N2
  trans_de: Ziegel
- trans_en: 
+ trans_en: bricks
 -lexeme
- lex: qərowo
- stem: qərowo.
- root: qrb
- gramm: N,m
- paradigm: N1
- trans_de: Messe, Messopfer
- trans_en: 
+ lex: qərr
+ stem: qərr.
+ root: qr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: eisig, kalt
+ trans_en: icy, cold
 -lexeme
  lex: qərran
  stem: qərran.
  root: qrn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schah
- trans_en: 
+ trans_en: shah
+-lexeme
+ lex: qərruč
+ stem: qərruč.
+ root: qrč
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: geizig; nur nehmend, nichts gebend
+ trans_en: stingy; only taking, not giving
 -lexeme
  lex: qərš
- stem: qərš.|qəršat.
+ stem: qərš.//qurš.|qəršat.//quršat.
  root: qrš
  gramm: N,m
  paradigm: N2
  trans_de: Groschen, Piaster
- trans_en: 
+ trans_en: penny, piastre
 -lexeme
  lex: qəršəkvan
  stem: qəršəkvan.
  root: qrškvn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Brennstoffwart
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: qərško
- stem: qərško.|qərškoat.
+ stem: qərško.|qərškat.
  root: qršk
  gramm: N,m
  paradigm: N2
  trans_de: Kehricht
- trans_en: 
+ trans_en: rubbish
 -lexeme
- lex: qəs(ə)m
- stem: qəs(ə)m.
+ lex: qəryal
+ stem: qəryal.
+ root: qryl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Bettstelle
+ trans_en: bedstead
+-lexeme
+ lex: qəsəm/qəsm
+ stem: qəsəm.//qəsm.
  root: qsm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Teil
- trans_en: 
+ trans_en: part
 -lexeme
  lex: qəsma
- stem: qəsma.|qəsmat.
+ stem: qəsma.//qəsme.|qəsmat.
  root: qsm
  gramm: N,f
  paradigm: N2
  trans_de: Teil, was zuteil wird
- trans_en: 
+ trans_en: part, share
 -lexeme
- lex: qəsme
- stem: qəsme.
- root: qsm
- gramm: N,f
- paradigm: N1
- trans_de: PrS
- trans_en: 
--lexeme
- lex: qəṣd
- stem: qəṣd.
+ lex: qəṣd/qəzd
+ stem: qəṣd.//qəzd.
  root: qṣd
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ziel, Absicht
- trans_en: 
+ trans_en: goal, intention
+-lexeme
+ lex: qəṣqarʕo
+ stem: qəṣqarʕo.
+ root: qṣqrʕ
+ gramm: N
+ paradigm: <?>
+ trans_de: mit geschorenem Kopf (Frau)
+ trans_en: with shaved head (woman)
 -lexeme
  lex: qəṣṣa
  stem: qəṣṣa.|qəṣaṣ.//qəṣṣat.
@@ -32402,24 +32434,24 @@
  trans_de: Geschichte
  trans_en: story 
 -lexeme
- lex: qəṣṭaxana
- stem: qəṣṭaxana.
+ lex: qəṣṭaxana/xastaxane
+ stem: qəṣṭaxana.//xastaxana.|qəṣṭaxanat.//xastaxanat.
  root: qṣṭxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Krankenhaus
- trans_en: 
+ trans_en: hospital
 -lexeme
  lex: qəšla
- stem: qəšla.
+ stem: qəšla.|qəšlat.
  root: qšl
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kaserne
- trans_en: 
+ trans_en: barracks
 -lexeme
  lex: qəšto
- stem: qəšto.|qəštoṯo.
+ stem: qəšto.|qəštoṯo.//qəštoṯe.
  root: qšt
  gramm: N,f
  paradigm: N2
@@ -32427,20 +32459,20 @@
  trans_en: eyebrow; arc; device for clearing cotton
 -lexeme
  lex: qəṭʕa
- stem: qəṭʕa.
+ stem: qəṭʕa.|qəṭʕat.
  root: qṭʕ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Truppenteil
- trans_en: 
+ trans_en: unit
 -lexeme
  lex: qəṭṭaye
- stem: qəṭṭaye.|qəṭṭayeayat.
+ stem: qəṭṭaye.|qəṭṭayat.
  root: qṭṭ
  gramm: N,f
  paradigm: N2
- trans_de: Flughuhn (schmeckt gut) pl
- trans_en: 
+ trans_de: Flughuhn (schmeckt gut) 
+ trans_en: sand grouse
 -lexeme
  lex: qəž(ž)əkke
  stem: qəž(ž)əkke.
