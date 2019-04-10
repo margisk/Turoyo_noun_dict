@@ -32090,8 +32090,8 @@
  trans_de: fähig
  trans_en: capable
 -lexeme
- lex: qedamto/qedəmto
- stem: qedamto.//qedəmto.
+ lex: qedamto/qedəmto/qudəmto/qudumto
+ stem: qedamto.//qedəmto.//qudəmto.//qudumto.
  root: qdm
  gramm: N
  paradigm: unchangeable
@@ -32122,8 +32122,8 @@
  trans_de: Euter
  trans_en: udder
 -lexeme
- lex: qeməsto/qaməsto/qəmisto/qmisto
- stem: qeməsto.//qaməsto.//qəmisto.//qmisto.|qemisyoṯe.//qmisyoṯo.
+ lex: qeməsto/qaməsto/qəmisto/qmisto/qməsto
+ stem: qeməsto.//qaməsto.//qəmisto.//qmisto.//qməsto.|qemisyoṯe.//qmisyoṯo.//qməsyoṯo.//qmisyoṯe.//qməsyoṯe.
  root: qmst
  gramm: N,f
  paradigm: N2
@@ -32187,7 +32187,7 @@
  trans_en: south
 -lexeme
  lex: qəbli
- stem: qəbli.
+ stem: qəbli.//qubli.
  root: qbl
  gramm: ADJ
  paradigm: unchangeable
@@ -32274,8 +32274,8 @@
  trans_de: grauschwarzer Vogel. Bringt angeblich 40 Steine in sein Nest
  trans_en: grey-black bird. Allegedly brings 40 stones into its nest
 -lexeme
- lex: qəməndar
- stem: qəməndar.//qumindar.
+ lex: qəməndar/quməndar/qumindar
+ stem: qəməndar.//quməndar.//qumindar.
  root: qmndr
  gramm: N,m
  paradigm: <?>
@@ -32442,8 +32442,8 @@
  trans_de: Krankenhaus
  trans_en: hospital
 -lexeme
- lex: qəšla
- stem: qəšla.|qəšlat.
+ lex: qəšla/qəžla
+ stem: qəšla.//qəžla.|qəšlat.
  root: qšl
  gramm: N,f
  paradigm: N2
@@ -32474,45 +32474,45 @@
  trans_de: Flughuhn (schmeckt gut) 
  trans_en: sand grouse
 -lexeme
- lex: qəž(ž)əkke
- stem: qəž(ž)əkke.
- root: qž(ž)k
+ lex: qəzəlqurt/quzurqurt/quzurqut
+ stem: qəzəlqurt.//quzurqurt.//quzurqut.
+ root: qzlqrt
+ gramm: N
+ paradigm: <?>
+ trans_de: Wurm, der sich ganz in Gras einwickelt und nicht zu sehen ist. Wenn das Vieh davon frisst, krepiert es; Schimpfwort
+ trans_en: worm which wraps itself in grass and cannot be seen. When the cattle eats it, it dies; swear word
+-lexeme
+ lex: qəžək
+ stem: qəžək.
+ root: qž
+ gramm: N
+ paradigm: <?>
+ trans_de: Elster Pica pica
+ trans_en: Eurasian magpie
+-lexeme
+ lex: qəžžəkke/qəžəkke
+ stem: qəžžəkke.//qəžəkke.|qəžžəkkat.//qəžəkkat.
+ root: qžž
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Elster, Rabe (schwarz)
- trans_en: 
+ trans_en: magpie, raven (black)
 -lexeme
- lex: qəžla
- stem: qəžla.
- root: qžl
- gramm: N,f
- paradigm: N1
- trans_de: Kaserne
- trans_en: 
--lexeme
- lex: qəžžəkke
- stem: qəžžəkke.
- root: qžk
- gramm: N,f
- paradigm: N1
- trans_de: Rabe
- trans_en: 
--lexeme
- lex: qima
- stem: qima.
+ lex: qima/qime
+ stem: qima.//qime.
  root: qwm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wert
- trans_en: 
+ trans_en: value
 -lexeme
- lex: qime
- stem: qime.
+ lex: qimatli
+ stem: qimatli.
  root: qwm
- gramm: N,f
- paradigm: N1
- trans_de: Wert
- trans_en: 
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: wertvoll
+ trans_en: valuable
 -lexeme
  lex: qimo
  stem: qimo.|qime.
@@ -32520,7 +32520,7 @@
  gramm: ADJ
  paradigm: N2
  trans_de: aufrecht; stehend, senkrecht;  angeschwollen (Fleisch)
- trans_en: upright; standing, vertical; swollen (meant)
+ trans_en: upright; standing, vertical; swollen (meat)
 -lexeme
  lex: qinaġa
  stem: qinaġa.|qinaġat.
@@ -32528,23 +32528,39 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schutzfingerhut, der beim Mähen mit der Sichel aufgesteckt wird, um sie zu schonen, und die etwas über die Finger hinausragen
- trans_en: 
+ trans_en: thimble which <...>
+-lexeme
+ lex: qirr
+ stem: qirr.
+ root: qr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Ruf
+ trans_en: cry, shout
 -lexeme
  lex: qiro
  stem: qiro.
  root: qr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Pech
- trans_en: 
+ trans_en: resin
+-lexeme
+ lex: qirqir
+ stem: qirqir.
+ root: qrqr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geschrei eines Geprügelten, Schrei bei plötzlichem Schmerz
+ trans_en: scream of someone who is beaten, cry of sudden pain
 -lexeme
  lex: qiṣo
- stem: qiṣo.
+ stem: qiṣo.|qiṣe.
  root: qṣ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: mit Hühneraugen, Blasen
- trans_en: 
+ trans_en: with corns, blisters
 -lexeme
  lex: qišoro
  stem: qišoro.|qišore.
@@ -32552,47 +32568,55 @@
  gramm: N,m
  paradigm: N2
  trans_de: etwas ölige Pflanze, die zum Brennen taugt, Teucrium spec.
- trans_en: 
+ trans_en: a bit oily plant which is good for burning, Teucrium spec.
 -lexeme
- lex: qišqiš
- stem: qišqiš.
+ lex: qišqiš/qižqiž
+ stem: qišqiš.//qižqiž.
  root: qšqš
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gackern der Hühner
- trans_en: 
+ trans_en: crowing, cackle of chickens; cry of a small child
+-lexeme
+ lex: qiṭan
+ stem: qiṭan.
+ root: qṭn
+ gramm: N
+ paradigm: <?>
+ trans_de: Schnürsenkel
+ trans_en: shoelace
 -lexeme
  lex: qiyade
  stem: qiyade.
  root: qwd
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Truppenführung
- trans_en: 
+ trans_en: military commandment
 -lexeme
  lex: qize
  stem: qize.
  root: qz
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Dame im Kartenspiel
- trans_en: 
+ trans_en: queen in card game
 -lexeme
- lex: qlafto
- stem: qlafto.
+ lex: qlafto/qləfto
+ stem: qlafto.//qləfto.|qlafyoṯo.//qlafyoṯe.//qləfyoṯo.//qləfyoṯe.
  root: qlf
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schale des Getreides
- trans_en: 
+ trans_en: chaff
 -lexeme
  lex: qlawuz
  stem: qlawuz.
  root: qlwz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Führer
- trans_en: 
+ trans_en: leader
 -lexeme
  lex: qliḏo
  stem: qliḏo.|qliḏe.
@@ -32602,37 +32626,37 @@
  trans_de: Schlüssel
  trans_en: key
 -lexeme
- lex: qləfto
- stem: qləfto.|qləfyoṯo.
- root: qlf
- gramm: N,f
- paradigm: N2
- trans_de: Schale (des Apfels und dergl.)
- trans_en: 
--lexeme
- lex: q(ə)misto
- stem: q(ə)misto.|qmisyoṯo.
- root: q()mst
- gramm: N,f
- paradigm: N2
- trans_de: Hemd
- trans_en: 
--lexeme
  lex: qmoṣo
  stem: qmoṣo.
  root: qmṣ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Handvoll
- trans_en: 
+ trans_en: handful
 -lexeme
  lex: qoʕəlto
- stem: qoʕəlto.|qoʕəlyoṯe.
+ stem: qoʕəlto.|qoʕəlyoṯe.//qoʕəlyoṯo.
  root: qʕlt
  gramm: N,f
  paradigm: N2
  trans_de: dreieckige Traghölzer
- trans_en: 
+ trans_en: triangle <...>
+-lexeme
+ lex: qodəšyoṯe
+ stem: qodəšyoṯe.
+ root: qdš
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: grösste Traubenart
+ trans_en: the largest type of grapes
+-lexeme
+ lex: qoḏ̣e/qoḏe
+ stem: qoḏ̣e.//qoḏe.
+ root: qḏ̣y/qḏy
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Richter
+ trans_en: judge
 -lexeme
  lex: qoǧuǧo
  stem: qoǧuǧo.|qoǧuǧe.
@@ -32640,23 +32664,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Giesser für Ersatzwein in der Kirche
- trans_en: 
--lexeme
- lex: qoḍe
- stem: qoḍe.
- root: qḍy
- gramm: N,m
- paradigm: N1
- trans_de: Richter
- trans_en: 
+ trans_en: <...> for wine substitute in the church
 -lexeme
  lex: qol
  stem: qol.
  root: ql
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: schwarzer Sklave
- trans_en: 
+ trans_en: black slave
+-lexeme
+ lex: qolaġasiye
+ stem: qolaġasiye.
+ root: qlġs
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Obersten (mil.)
+ trans_en: military chiefs
 -lexeme
  lex: qolay
  stem: qolay.
@@ -32670,9 +32694,9 @@
  stem: qolənǧ.
  root: qlnǧ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kolik
- trans_en: 
+ trans_en: colic
 -lexeme
  lex: qolo
  stem: qolo.|qole.
@@ -32682,37 +32706,53 @@
  trans_de: Geschrei, Wehgeschrei; Ruf, Stimme; Kirchenlied
  trans_en: shouting, crying; call, voice; hymn
 -lexeme
+ lex: qolordi
+ stem: qolordi.
+ root: qlrd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Corpskommandeur (qolordi qumandani)
+ trans_en: corps commander (qolordi qumandani)
+-lexeme
  lex: qoltuġ
- stem: qoltuġ.|quletəġ.
+ stem: qoltuġ.|quletəġ.//qoltuġat.
  root: qltġ
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ/
- trans_en: 
+ trans_de: Sessel, Lehnstuhl
+ trans_en: chair, armchair
 -lexeme
- lex: qoməsḥo
- stem: qoməsḥo.
+ lex: qoməsḥo/quməsḥo/qəməsḥo
+ stem: qoməsḥo.//quməsḥo.//qəməsḥo.
  root: qmsḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Wärterhäuschen im Weingarten u. ä.
- trans_en: 
+ trans_en: attendant's hut in a vineyard
 -lexeme
- lex: qonaġ
- stem: qonaġ.
+ lex: qonaġ/qunaġ
+ stem: qonaġ.//qunaġ.
  root: qnġ
  gramm: N,m
  paradigm: N1
- trans_de: a) Konak, Villa b) Wegstation, Wegstrecke
- trans_en: 
+ trans_de: Konak, Villa; Wegstation, Wegstrecke
+ trans_en: konak, villa; station along the way
 -lexeme
- lex: qonser
- stem: qonser.
+ lex: qonser/qənṣər
+ stem: qonser.//qənṣər.
  root: qnsr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Konsul
- trans_en: 
+ trans_en: consul
+-lexeme
+ lex: qonsoloṣ
+ stem: qonsoloṣ.
+ root: qnsls
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Konsul
+ trans_en: consul
 -lexeme
  lex: qonuno
  stem: qonuno.|qonune.
@@ -32720,7 +32760,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gesetz
- trans_en: 
+ trans_en: law
 -lexeme
  lex: qorke
  stem: qorke.
@@ -32728,31 +32768,39 @@
  gramm: N,f
  paradigm: N1
  trans_de: Schwanzteil des Steißes, Kreuz, oberer Hinterteil des Leibes (bei Tieren und Menschen)
- trans_en: 
+ trans_en: tail part of the buttocks, <...>, upper back part of body (of animals and humans)
 -lexeme
  lex: qorna
- stem: qorna.|s·mḏ.
+ stem: qorna.
  root: qrn
  gramm: N,f
  paradigm: N2
  trans_de: Autohupe, Dampferpfeife
- trans_en: 
+ trans_en: car horn, steamboat pipe
+-lexeme
+ lex: qoro
+ stem: qoro.|qore.
+ root: qr
+ gramm: N,m
+ paradigm: N2
+ trans_de: großer Fadenknäuel oder Knäuel von Tuchstreifen
+ trans_en: big ball of threads or ball of cloth strips
 -lexeme
  lex: qorqor
  stem: qorqor.
  root: qrqr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Knurren des Magens bei Hunger und Weinen
- trans_en: 
+ trans_en: rumbling of stomach during hunger and weeping
 -lexeme
  lex: qoruyo
  stem: qoruyo.
  root: qry
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: dritter Rang der Diakone
- trans_en: 
+ trans_en: third rank of deacons
 -lexeme
  lex: qoso
  stem: qoso.|qose.
@@ -32760,23 +32808,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: mit den Händen flachgeschlagenes, dreieckiges Stück trockenen Ayrans
- trans_en: 
+ trans_en: triangular piece of dried ayran flattened with hands
 -lexeme
  lex: qoše
- stem: qoše.
+ stem: qoše.|qošat.
  root: qš
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gurt für Esel, über den Leib und das Hinterteil
- trans_en: 
+ trans_en: belt for donkeys, going over the body and the rear part
 -lexeme
- lex: qoš(ə)xane
- stem: qoš(ə)xane.|qoš(ə)xanat.
- root: qš()xn
+ lex: qošəxane/qošxane
+ stem: qošəxane.//qošxane.|qošəxanat.//qošxanat.
+ root: qšxn
  gramm: N,f
  paradigm: N2
  trans_de: Kochtopf
- trans_en: 
+ trans_en: cooking pot
 -lexeme
  lex: qotike
  stem: qotike.|qotikat.
@@ -32784,7 +32832,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kästchen, Schachtel
- trans_en: 
+ trans_en: box, small box
 -lexeme
  lex: qotiye
  stem: qotiye.|qotiyat.
@@ -32792,47 +32840,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schachtel, Kasten
- trans_en: 
+ trans_en: box, crate
 -lexeme
- lex: qoṭ(ə)ke
- stem: qoṭ(ə)ke.
- root: qṭ()k
+ lex: qoṭəke
+ stem: qoṭəke.
+ root: qṭ
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: tödliche Krankheit (von Menschen und Vieh)
- trans_en: 
+ trans_en: deadly illness (of animals and humans)
 -lexeme
  lex: qoṭulo
  stem: qoṭulo.|qoṭule.
  root: qṭl
  gramm: N,m
  paradigm: N2
- trans_de: derisch pl
- trans_en: 
+ trans_de: mörderisch
+ trans_en: murderous
 -lexeme
  lex: qrayto
  stem: qrayto.
  root: qrʔ
  gramm: N,f
- paradigm: N1
- trans_de: lesen PrS
- trans_en: 
+ paradigm: unchangeable
+ trans_de: lesen
+ trans_en: reading
+-lexeme
+ lex: qran
+ stem: qran.
+ root: qrn
+ gramm: N
+ paradigm: <?>
+ trans_de: Altersgenosse
+ trans_en: contemporary
 -lexeme
  lex: qrar
  stem: qrar.|qrarat.
- root: qrr
+ root: qrr
  gramm: N,m
  paradigm: N2
  trans_de: Versprechen (an)
- trans_en: 
+ trans_en: promise 
 -lexeme
  lex: qraye
  stem: qraye.
  root: qrʔ
  gramm: N,f
- paradigm: N1
- trans_de: Mḏ
- trans_en: 
+ paradigm: unchangeable
+ trans_de: lesen
+ trans_en: reading
+-lexeme
+ lex: qreb
+ stem: qreb.
+ root: qrb
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: beinahe, etwa
+ trans_en: almost, around
+-lexeme
+ lex: qrəfḥaṣo
+ stem: qrəfḥaṣo.
+ root: qrfḥṣ
+ gramm: <?>
+ paradigm: <?>
+ trans_de: mit gebrochenem Rücken
+ trans_en: with broken back
 -lexeme
  lex: qrəmto
  stem: qrəmto.|qrəmyoṯe.
@@ -32840,7 +32912,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Art Pfannekuchen. Auf dem Herd wird Öl zum Sieden gebracht. Da hinein wird vorher bereiteter dünner Mehlteig, immer eine Handvoll hineingetan. So entstehen Pfannekuchen
- trans_en: 
+ trans_en: type of pancakes. Oil is boiled on a stove. A handful of thin flour dough is put on it. This way pancakes appear.
 -lexeme
  lex: qriṯo
  stem: qriṯo.|qəryawoṯe.//qəryawoṯo.
@@ -32856,31 +32928,31 @@
  gramm: N,m
  paradigm: N2
  trans_de: Krieg
- trans_en: 
+ trans_en: war
 -lexeme
  lex: qroṭən
  stem: qroṭən.
  root: qrṭn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Frühstück (besteht meist aus Linsen, Brot, Käse, Joghurt)
- trans_en: 
+ trans_en: breakfast (usually consists of lentils, bread, cheese, youghurt)
 -lexeme
  lex: qroṭo
  stem: qroṭo.
  root: qrṭ
  gramm: N,f
- paradigm: N1
- trans_de: Frühstück simme
- trans_en: 
+ paradigm: <?>
+ trans_de: Frühstück
+ trans_en: breakfast
 -lexeme
  lex: qrupṣo
  stem: qrupṣo.
  root: qrpṣ
  gramm: N,m
- paradigm: N1
- trans_de: Kolik Raite; nicht
- trans_en: 
+ paradigm: <?>
+ trans_de: Kolik
+ trans_en: colic
 -lexeme
  lex: qruš
  stem: qruš.|qrušat.
@@ -32888,39 +32960,39 @@
  gramm: N,m
  paradigm: N2
  trans_de: Groschen, Piaster
- trans_en: 
+ trans_en: penny, piastre
 -lexeme
  lex: qṣara
  stem: qṣara.
  root: qṣr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Wäsche waschen
- trans_en: 
+ trans_en: doing laundry
 -lexeme
- lex: qṣur
- stem: qṣur.
+ lex: qṣur/quṣur
+ stem: qṣur.//quṣur.
  root: qṣr
  gramm: N,m
- paradigm: N1
- trans_de: Versehen, Nachlässigkeit lo
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Versehen, Nachlässigkeit
+ trans_en: oversight, negligence
 -lexeme
  lex: qṣuriye
  stem: qṣuriye.
  root: qṣr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mangel, Fehler
- trans_en: 
+ trans_en: defect, lack, mistake
 -lexeme
  lex: qšaša
  stem: qšaša.
  root: qšš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: schlechte Getreideteile, die im Wasser hochsteigen
- trans_en: 
+ trans_en: bad pieces of grain which soar in water
 -lexeme
  lex: qṭoro
  stem: qṭoro.|qṭore.
@@ -32929,14 +33001,6 @@
  paradigm: N2
  trans_de: (Zimmer-)Decke
  trans_en: (room) ceiling
--lexeme
- lex: qubbe
- stem: qubbe.
- root: qbb
- gramm: N,f
- paradigm: N1
- trans_de: Kuppel
- trans_en: 
 -lexeme
  lex: qubbur
  stem: qubbur.
@@ -32952,23 +33016,23 @@
  gramm: N,m
  paradigm: N2
  trans_de: Igel
- trans_en: 
+ trans_en: hedgehog
 -lexeme
  lex: qubla
  stem: qubla.
  root: qbl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gebetsrichtung
- trans_en: 
+ trans_en: direction of prayer
 -lexeme
  lex: qublo
  stem: qublo.
  root: qbl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Süden
- trans_en: 
+ trans_en: south
 -lexeme
  lex: qubo
  stem: qubo.|qube.
@@ -32978,13 +33042,21 @@
  trans_de: Kuppelbau
  trans_en: domed building
 -lexeme
+ lex: qud
+ stem: qud.
+ root: qd
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: bis
+ trans_en: until
+-lexeme
  lex: qudke/qudko
- stem: qudke/qudko.
- root: qdk/qdk
- gramm: N,m
- paradigm: N1
+ stem: qudke.//qudko.
+ root: qdk
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: Igel
- trans_en: 
+ trans_en: hedgehog
 -lexeme
  lex: qudošo
  stem: qudošo.
@@ -32992,7 +33064,7 @@
  gramm: N,m
  paradigm: N1
  trans_de: Consecratio der Hostie
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: qudra
  stem: qudra.|qudrat.
@@ -33000,15 +33072,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Allmacht Gottes
- trans_en: 
+ trans_en: God's omnipotence
 -lexeme
- lex: qŭdum
- stem: qŭdum.
- root: qŭdm
+ lex: qudum
+ stem: qudum.
+ root: qdm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: schlechte Laune
- trans_en: 
+ trans_en: bad mood
+-lexeme
+ lex: quduz
+ stem: quduz.
+ root: qdz
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Tollwut
+ trans_en: rabies
+-lexeme
+ lex: qufe
+ stem: qufe.
+ root: qf
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Hiebe mit flachen Schwertklingen
+ trans_en: <?>
 -lexeme
  lex: quflo
  stem: quflo.|qufle.
@@ -33024,7 +33112,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Affe
- trans_en: 
+ trans_en: ape
 -lexeme
  lex: qufra
  stem: qufra.|qufrat.
@@ -33032,63 +33120,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: steiniges Feldstück, das man mit der Hacke bearbeiten muss
- trans_en: 
+ trans_en: rocky piece of field which is tilled with a pick
 -lexeme
  lex: quḥo
  stem: quḥo.
  root: qḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rolle von Wolle, die die Frauen über den Arm streifen, um sie zu spinnen
- trans_en: 
+ trans_en: roll of wool which women <...> over the arm to spin it
 -lexeme
  lex: qul
  stem: qul.
  root: ql
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Loch
- trans_en: 
+ trans_en: hole
 -lexeme
  lex: qule
- stem: qule.
+ stem: qule.|qulat.
  root: ql
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Turm
- trans_en: 
+ trans_en: tower
 -lexeme
  lex: quləng
  stem: quləng.|quləng.
  root: qlng
  gramm: N,m
  paradigm: N2
- trans_de: Kranich pl
- trans_en: 
+ trans_de: Kranich
+ trans_en: crane
 -lexeme
  lex: qulluko
  stem: qulluko.
  root: qlk
- gramm: N,m
+ gramm: N,m,dim
  paradigm: N1
  trans_de: kleines Loch
- trans_en: 
+ trans_en: small hole
 -lexeme
  lex: qulpke
- stem: qulpke.
+ stem: qulpke.|qulpkat.
  root: qlp
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Knopfloch
- trans_en: 
+ trans_en: buttonhole
 -lexeme
  lex: qum
  stem: qum.
  root: qm
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sand
- trans_en: 
+ trans_en: sand
+-lexeme
+ lex: qumandani
+ stem: qumandani.
+ root: qmnd
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Corpskommander (qolordi qumandani)
+ trans_en: corps commander (qolordi qumandani)
 -lexeme
  lex: qumʕo
  stem: qumʕo.|qumʕe.
@@ -33096,7 +33192,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Trichter
- trans_en: 
+ trans_en: hopper, funnel
 -lexeme
  lex: qumandan
  stem: qumandan.|qumandanin.
@@ -33104,7 +33200,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kommandant
- trans_en: 
+ trans_en: commander
 -lexeme
  lex: qumaniye
  stem: qumaniye.
