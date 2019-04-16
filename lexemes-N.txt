@@ -33654,33 +33654,65 @@
  stem: raʕbe.
  root: rʕb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Schrecken
- trans_en: 
+ trans_en: horror, fright
 -lexeme
  lex: raʕweni
- stem: raʕweni.
+ stem: raʕweni.|raʕweniye.
  root: rʕwn
  gramm: N,m
- paradigm: N1
- trans_de: a) Bummler, Arbeitsloser b) Tier, mit dem man nicht pflügt
- trans_en: 
+ paradigm: N2
+ trans_de: Bummler, Arbeitsloser; Tier, mit dem man nicht pflügt
+ trans_en: drifter, unemployed; animal with which one can not plough
+-lexeme
+ lex: raʕyo
+ stem: raʕyo.|raʕye.
+ root: rʕy
+ gramm: ADJ
+ paradigm: N2
+ trans_de: abgeweidet
+ trans_en: grazed
+-lexeme
+ lex: rab
+ stem: rab.
+ root: rbb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Herrgott (ya rab!)
+ trans_en: Lord! (ya rab!)
+-lexeme
+ lex: rabbi
+ stem: rabbi.
+ root: rbb
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Herrgott (ya rabbi!)
+ trans_en: Lord! (ya rabbi!)
+-lexeme
+ lex: rabbano/rabano
+ stem: rabbano.//rabano.
+ root: rbn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: arm, bedauernswert
+ trans_en: poor, miserable
 -lexeme
  lex: rabəʕ
  stem: rabəʕ.
  root: rbʕ
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Frühling, Frühlingsweide, Frühlingsgras
- trans_en: 
+ trans_en: spring; spring grass, spring pasture
 -lexeme
  lex: rabo
  stem: rabo.|rabe.
- root: rbw
- gramm: N,m
+ root: rbb
+ gramm: ADJ
  paradigm: N2
- trans_de: Jahren; Vorgesetzter, Herr, Notabler
- trans_en: 
+ trans_de: groß, alt an Jahren; Vorgesetzter, Herr, Notabler
+ trans_en: big, old; superior, lord, noble 
 -lexeme
  lex: rabono
  stem: rabono.|rabone.
@@ -33688,15 +33720,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stolz
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: rabuṯo
  stem: rabuṯo.
  root: rbb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Herrenstellung
- trans_en: 
+ trans_en: majority; older age; leadership
 -lexeme
  lex: račal
  stem: račal.|račalat.
@@ -33704,7 +33736,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Marmelade
- trans_en: 
+ trans_en: jam
+-lexeme
+ lex: račaʕv
+ stem: račaʕv.
+ root: rčʕv
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Richtungspunkt; zielen
+ trans_en: direction point; aiming
 -lexeme
  lex: račeta
  stem: račeta.|račetat.
@@ -33712,23 +33752,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Rezept
- trans_en: 
+ trans_en: recipe
 -lexeme
- lex: raf/raf
- stem: raf/raf.|raf.//rafe.
+ lex: raday
+ stem: raday.
+ root: rdy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ernst, ruhig
+ trans_en: earnest, calm
+-lexeme
+ lex: raf
+ stem: raf.|rafe.
  root: rpp
  gramm: N,m
  paradigm: N2
- trans_de: Schwarm (von Vögeln) raf w
- trans_en: 
+ trans_de: Schwarm (von Vögeln) 
+ trans_en: flock of birds
 -lexeme
  lex: rafiʕo
  stem: rafiʕo.|rafiʕe.
  root: rfʕ
  gramm: N,m
  paradigm: N2
- trans_de: X
- trans_en: 
+ trans_de: schmal, dünn
+ trans_en: slender, thin
 -lexeme
  lex: rafke
  stem: rafke.|rafkat.
@@ -33736,15 +33784,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wandbrett
- trans_en: 
+ trans_en: wall shelf
 -lexeme
  lex: rafo
  stem: rafo.|rafe.
  root: rf
  gramm: N,m
  paradigm: N2
- trans_de: Gestell; Hutablage S
- trans_en: 
+ trans_de: Gestell; Hutablage
+ trans_en: rack; parcel shelf
 -lexeme
  lex: rafo
  stem: rafo.|rafe.
@@ -33752,7 +33800,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schwarm von Vögeln
- trans_en: 
+ trans_en: flock of birds
 -lexeme
  lex: rafrafto/rəfrəfto
  stem: rafrafto.//rəfrəfto.
@@ -33763,28 +33811,28 @@
  trans_en: wink, moment
 -lexeme
  lex: rafso
- stem: rafso.
+ stem: rafso.|rafse.
  root: rps
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Fußtritt, Huftritt
- trans_en: 
+ trans_en: kick
 -lexeme
  lex: rafuno
- stem: rafuno.
+ stem: rafuno.|rafune.
  root: rfn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wandbrett, Regal
- trans_en: 
+ trans_en: wall shelf
 -lexeme
  lex: rafyo
  stem: rafyo.|rafye.
  root: rpy
  gramm: N,m
  paradigm: N2
- trans_de: schlaff PrS
- trans_en: 
+ trans_de: schlaff, lose
+ trans_en: limp, slack, loose
 -lexeme
  lex: raǧa/rəǧa/rəǧǧa
  stem: raǧa.//rəǧa.//rəǧǧa.|raǧawat.
@@ -33794,77 +33842,133 @@
  trans_de: Bitte
  trans_en: request
 -lexeme
+ lex: raǧfake
+ stem: raǧfake.
+ root: rǧf
+ gramm: N,f
+ paradigm: <?>
+ trans_de: plötzlicher Schrecken, erschrocken, aufwachen aus bösem Traum
+ trans_en: sudden horror, shock, awakening from a bad dream
+-lexeme
  lex: raġlo
- stem: raġlo.|raġloe.//-oṯe.//-oṯo.
+ stem: raġlo.|raġle.//raġloṯe.//raġloṯo.
  root: rġl
  gramm: N,f
  paradigm: N2
- trans_de: a) Fuß b)
- trans_en: 
+ trans_de: Fuß
+ trans_en: leg, foot
 -lexeme
- lex: rahin
- stem: rahin.|rahinat.
+ lex: raġyo
+ stem: raġyo.|raġye.
+ root: rġy
+ gramm: ADJ
+ paradigm: N2
+ trans_de: frisch, ungekocht, roh (Fleisch)
+ trans_en: fresh, uncooked, raw (meat)
+-lexeme
+ lex: rahin/rahine
+ stem: rahin.//rahine.|rahinat.
  root: rhn
  gramm: N,m
  paradigm: N2
  trans_de: Geisel
- trans_en: 
+ trans_en: hostage
+-lexeme
+ lex: rahl
+ stem: rahl.
+ root: rhl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Hausgerät, Aussteuer
+ trans_en: household utensil, household furnishing
+-lexeme
+ lex: rahwal
+ stem: rahwal.
+ root: rhwl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schnell gehend (Mensch, Pferd)
+ trans_en: going fast (human, horse)
 -lexeme
  lex: raḥa
  stem: raḥa.
- root: rwḥ
+ root: rwḥ/ryḥ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Ruhe
- trans_en: 
+ trans_en: peace, calm
+-lexeme
+ lex: raḥal/raḥəl
+ stem: raḥal.//raḥəl.
+ root: rḥl
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Aussteuer, Gerätschaften, Hausrat
+ trans_en: house furnishings, equipment, household goods
+-lexeme
+ lex: raḥat
+ stem: raḥat.
+ root: rḥy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: ruhig, bequem, gesund
+ trans_en: calm, comfortable, healthy
 -lexeme
  lex: raḥatiye
  stem: raḥatiye.
  root: rḥw
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Gutgehen
- trans_en: 
+ trans_en: go well, pass well
 -lexeme
- lex: raḥəl
- stem: raḥəl.
- root: rḥl
- gramm: N,m
- paradigm: N1
- trans_de: Aussteuer
- trans_en: 
+ lex: raḥatsəz
+ stem: raḥatsəz.
+ root: rḥw/rḥy
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: unruhig, gestört
+ trans_en: restless, disturbed
 -lexeme
  lex: raḥil
  stem: raḥil.
  root: rḥl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Aufbruch, Reise
- trans_en: 
+ trans_en: departure, journey
+-lexeme
+ lex: raḥlo
+ stem: raḥlo.
+ root: rḥl
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Hausgerät, Aussteuer
+ trans_en: house utensil, house furnishing
 -lexeme
  lex: raḥme
  stem: raḥme.|raḥmat.
  root: rḥm
  gramm: N,f
  paradigm: N2
- trans_de: a) Barmherzigkeit b) Regen
- trans_en: 
+ trans_de: Barmherzigkeit; Regen
+ trans_en: mercy, compassion; rain
 -lexeme
  lex: raḥmuṯo
  stem: raḥmuṯo.
  root: rḥm
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Mitgefühl
- trans_en: 
+ trans_en: compassion, sympathy
 -lexeme
  lex: raḥuqo
  stem: raḥuqo.|raḥuqe.
  root: rḥq
  gramm: N,m
  paradigm: N2
- trans_de: Mḏ
- trans_en: 
+ trans_de: weit, entfernt
+ trans_en: far
 -lexeme
  lex: raḥyo
  stem: raḥyo.|raḥye.
@@ -33872,23 +33976,31 @@
  gramm: N,f
  paradigm: N2
  trans_de: Mühle
- trans_en: 
+ trans_en: mill
+-lexeme
+ lex: ray
+ stem: ray.
+ root: ry
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Ratschluß, Meinung
+ trans_en: conclusion, opinion
 -lexeme
  lex: rayḥan
  stem: rayḥan.
  root: ryḥn
  gramm: N,m
- paradigm: N1
- trans_de: grünes Kraut; entsteht in Brunnen, die kein Wasser haben, aber noch feucht sind.
- trans_en: 
+ paradigm: unchangeable
+ trans_de: grünes Kraut; entsteht in Brunnen, die kein Wasser haben, aber noch feucht sind. 20-30 cm lang, sehr grün. Venushaarfarn, Adiantum abillus veneris L.
+ trans_en: green grass; appears in wells which have no water, but are still damp. 20-30 cm long, very green. Himalayan maidenhair, Adiantum abillus veneris L.
 -lexeme
  lex: raʔis
  stem: raʔis.
  root: rʔs
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Kommandeur
- trans_en: 
+ trans_en: commander
 -lexeme
  lex: raka/rəkaʕ
  stem: raka.//rəkaʕ.
@@ -33899,60 +34011,84 @@
  trans_en: prostration during Muslim prayer 
 -lexeme
  lex: rakkiye
- stem: rakkiye.
+ stem: rakkiye.|rakkiyat.
  root: rkk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: kleine Steine, Mörtel, mit dem man den Raum zwischen den Grundmauern eines Neubaus ausfüllt
- trans_en: 
+ trans_en: small stones, mortar with which one fills the space between the foundation walls
 -lexeme
- lex: rakah
- stem: rakah.|rakahe.//rakahat.
+ lex: rakah/rakəh
+ stem: rakah.//rakəh.|rakahe.//rakahat.//rakəhat.
  root: rkh
  gramm: N,m
  paradigm: N2
  trans_de: Käfig
- trans_en: 
+ trans_en: cage
 -lexeme
  lex: rakixo
  stem: rakixo.|rakixe.
  root: rkk
  gramm: N,m
  paradigm: N2
- trans_de: weich PrS
- trans_en: 
+ trans_de: weich
+ trans_en: soft
 -lexeme
- lex: ram(ə)l
- stem: ram(ə)l.
+ lex: ramḥəl/ramḥul
+ stem: ramḥəl.//ramḥul.
+ root: rmḥl
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: morgen
+ trans_en: tomorrow
+-lexeme
+ lex: raməl/raml
+ stem: raməl.//raml.
  root: rml
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Sand
- trans_en: 
+ trans_en: sand
 -lexeme
  lex: raməlčiya
  stem: raməlčiya.
  root: rml
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sandwahrsagerin
- trans_en: 
+ trans_en: sand fortune teller
 -lexeme
  lex: ramlo
  stem: ramlo.
  root: rml
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Sand
- trans_en: 
+ trans_en: sand
 -lexeme
- lex: ranǧbar
- stem: ranǧbar.
+ lex: bramšəl
+ stem: bramšəl.
+ root: rmš
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: gestern Abend
+ trans_en: yesterday at night
+-lexeme
+ lex: ramšo
+ stem: ramšo.
+ root: rmš
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Abend
+ trans_en: evening
+-lexeme
+ lex: ranǧbar/renǧbar
+ stem: ranǧbar.//renǧbar.
  root: rnǧbr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Handarbeiter, Landarbeiter
- trans_en: 
+ trans_en: manual worker, farm worker
 -lexeme
  lex: rang
  stem: rang.|rangat.//arnag.
@@ -33960,7 +34096,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Farbe
- trans_en: 
+ trans_en: colour
 -lexeme
  lex: rapse
  stem: rapse.|rapsat.
