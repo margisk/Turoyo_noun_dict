@@ -34098,85 +34098,181 @@
  trans_de: Farbe
  trans_en: colour
 -lexeme
+ lex: rangi
+ stem: rangi.
+ root: rng
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: bunt
+ trans_en: colourful
+-lexeme
+ lex: rap
+ stem: rap.
+ root: rp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
  lex: rapse
- stem: rapse.|rapsat.
+ stem: rapse.//rapṣe.|rapsat.//rapṣat.
  root: rps
  gramm: N,f
  paradigm: N2
  trans_de: Fußtritt eines Esels oder Pferdes oder Menschen
- trans_en: 
+ trans_en: kick of a donkey, horse or a human
 -lexeme
  lex: rapso
  stem: rapso.
  root: rps
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Fußtritt
- trans_en: 
+ trans_en: kick
+-lexeme
+ lex: raq
+ stem: raq.
+ root: rq
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch, das ein Tier beim Aufspringen oder beim sich zum Schlafen legen auf die Erde macht; Geräusch der Hand, wenn sie auf die Erde schlägt
+ trans_en: sound which an animal produces when jumping up or by lying down on the ground to sleep; sound of the hand hitting the ground
+-lexeme
+ lex: raqame
+ stem: raqame.
+ root: rqb
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Nacken
+ trans_en: neck
+-lexeme
+ lex: raqarraq
+ stem: raqarraq.
+ root: rqrq
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Klirren der Schwerter
+ trans_en: clinking of swords
 -lexeme
  lex: raqḏo
- stem: raqḏo.
+ stem: raqḏo.|raqḏe.
  root: rqd
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Tanz
- trans_en: 
+ trans_en: dance
 -lexeme
  lex: raqəke
  stem: raqəke.
  root: rqk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Insekt, das die Ähren aussaugt, Getreidewanze
- trans_en: 
+ trans_en: insect which sucks out ears of the grain, wheat bug
 -lexeme
  lex: raqiqo
  stem: raqiqo.|raqiqe.
  root: rqq
  gramm: N,m
  paradigm: N2
- trans_de: Häutchen)
- trans_en: 
+ trans_de: dünn
+ trans_en: thin
 -lexeme
- lex: ras(ə)m
- stem: ras(ə)m.
+ lex: raqqeni
+ stem: raqqeni.
+ root: rqn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch des auf die Erde geworfenen Gegenstandes
+ trans_en: noise of an object thrown on the ground
+-lexeme
+ lex: rasar
+ stem: rasar.
+ root: rsr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: oben, darauf
+ trans_en: above, on something
+-lexeme
+ lex: rasəm/rasm
+ stem: rasəm.//rasm.
  root: rsm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zeichnung, Muster (eines Armbandes)
- trans_en: 
+ trans_en: sketch, model
 -lexeme
  lex: rasm
  stem: rasm.
  root: rsm
  gramm: N,m
- paradigm: N1
- trans_de: Vorschrift rasmi ǧamhuri räsmi cämhuri „(republikanische Vorschrift)“
- trans_en: 
+ paradigm: <?>
+ trans_de: Vorschrift 
+ trans_en: provision, regulation
+-lexeme
+ lex: rasmi
+ stem: rasmi.
+ root: rsm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: offiziell
+ trans_en: official
 -lexeme
  lex: rasul
  stem: rasul.
  root: rsl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bote, Abgesandter
- trans_en: 
+ trans_en: messenger, envoy
+-lexeme
+ lex: raṣan
+ stem: raṣan.
+ root: rṣn
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: direkt
+ trans_en: direct
+-lexeme
+ lex: raṣm
+ stem: raṣm.
+ root: rṣm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Zauber
+ trans_en: magic, charm
+-lexeme
+ lex: raṣṭ
+ stem: raṣṭ
+ root: rṣṭ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: geradewegs; flach, eben
+ trans_en: straight, direct; flat
 -lexeme
  lex: raṣṭiye
  stem: raṣṭiye.
  root: rṣṭ
  gramm: N,f
- paradigm: N1
- trans_de: a) Wahrheit b) Ehrlichkeit
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Wahrheit; Ehrlichkeit
+ trans_en: truth; honesty
+-lexeme
+ lex: raš
+ stem: raš.
+ root: rš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schwarz
+ trans_en: black
 -lexeme
  lex: rašiye
- stem: rašiye.
+ stem: rašiye.|rašiyat.
  root: ršy
  gramm: N,f
- paradigm: N1
- trans_de: dunkler Fleck, dunkle Stelle
- trans_en: 
+ paradigm: N2
+ trans_de: dunkler Fleck, dunkle Stelle; (fig.) dunkles Elend (eines Blinden)
+ trans_en: dark spot, dark place; (fig.) dark misery (of a blind person)
 -lexeme
  lex: rašme
  stem: rašme.|rašmat.
@@ -34184,39 +34280,71 @@
  gramm: N,f
  paradigm: N2
  trans_de: Halfter
- trans_en: 
+ trans_en: halter, holster
+-lexeme
+ lex: raššale
+ stem: raššale.
+ root: ršl
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Pflanze, die etwas bitteren Blätter werden gegessen
+ trans_en: plant with a bit bitter leaves, which are edible
 -lexeme
  lex: raššola
  stem: raššola.
  root: ršl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Star
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: raṭlo
  stem: raṭlo.|raṭle.
  root: rṭl
  gramm: N,f
  paradigm: N2
- trans_de: Maßeinheit, etwa
- trans_en: 
+ trans_de: Maßeinheit, etwa 8-10 kg
+ trans_en: unit of mass, 8-10 kg
+-lexeme
+ lex: rawʕaḏ
+ stem: rawʕaḏ.
+ root: rwʕḏ
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: vor drei Jahren
+ trans_en: three years ago
 -lexeme
  lex: rawa
  stem: rawa.
  root: rwy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bodenfeuchtigkeit, in Pflanzen und Bäumen aufsteigender Saft
- trans_en: 
+ trans_en: soil moisture, sap coming up in trees and plants
+-lexeme
+ lex: rawaḥ
+ stem: rawaḥ.
+ root: rwḥ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Breite
+ trans_en: width
+-lexeme
+ lex: rawayəḥ
+ stem: rawayəḥ.
+ root: rwḥ
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Wohlgerüche
+ trans_en: scents, perfumes
 -lexeme
  lex: rawbe
  stem: rawbe.
  root: rwb
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Joghurtpilz, womit man den Joghurt ansetzt, Joghurtkultur
- trans_en: 
+ trans_en: milk mushroom, with which one makes a yogurt, yogurt cultures
 -lexeme
  lex: rawixo
  stem: rawixo.|rawixe.
@@ -34224,47 +34352,47 @@
  gramm: N,m
  paradigm: N2
  trans_de: Reiter
- trans_en: 
+ trans_en: horseman, rider
 -lexeme
  lex: rawixuṯo
  stem: rawixuṯo.
  root: rkb
  gramm: N,f
- paradigm: N1
- trans_de: Reitkunst b-
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Reitkunst
+ trans_en: art of riding
 -lexeme
  lex: rawmo
- stem: rawmo.
+ stem: rawmo.|rawmoṯe.//rawmoṯo.
  root: rwm
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Teich, See
- trans_en: 
+ trans_en: pond, lake
 -lexeme
  lex: rawoxo
  stem: rawoxo.|rawoxe.
  root: rkb
  gramm: N,m
  paradigm: N2
- trans_de: Reiter pl ~ d-
- trans_en: 
+ trans_de: Reiter
+ trans_en: horseman, rider
 -lexeme
  lex: rawšək
  stem: rawšək.
  root: rwšk
- gramm: N,m
- paradigm: N1
- trans_de: eine, eiserne Schaufel am Ochsenstachel zum Reinigen der Pflugschar
- trans_en: 
+ gramm: N,m,dim
+ paradigm: <?>
+ trans_de: kleine, eiserne Schaufel am Ochsenstachel zum Reinigen der Pflugschar
+ trans_en: small iron shovel on a sharp stick used to drive oxen, for cleaning the of ploughshare 
 -lexeme
  lex: rawšo
  stem: rawšo.
  root: rwš
  gramm: N,m
- paradigm: N1
- trans_de: a) Schaufel b) Schulterblatt
- trans_en: 
+ paradigm: <?>
+ trans_de: Schaufel; Schulterblatt
+ trans_en: shovel; shoulder blade
 -lexeme
  lex: rawṭo
  stem: rawṭo.|rawṭe.
@@ -34272,55 +34400,78 @@
  gramm: N,m
  paradigm: N2
  trans_de: Gerte, Rute
- trans_en: 
+ trans_en: whip, rod
+-lexeme
+ lex: rax
+ stem: rax.
+ root: rx
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Seite (eines Zimmers)
+ trans_en: side (of a room)
+-lexeme
+ lex: raxawe
+ stem: raxawe.
+ root: rxw
+ gramm: unchangeable
+ trans_de: Schlaffheit
+ trans_en: slackness
+-lexeme
+ lex: raxiṣ
+ stem: raxiṣ.
+ root: rxṣ
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: billig
+ trans_en: cheap
 -lexeme
  lex: raxiṣiye
  stem: raxiṣiye.
  root: rxṣ
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Billigsein, Gegensatz zu Teuerung
- trans_en: 
+ trans_en: cheapness
 -lexeme
  lex: rayaġa
  stem: rayaġa.
  root: rgg
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Begehren, Lust
- trans_en: 
+ trans_en: desire
 -lexeme
  lex: rayyis
  stem: rayyis.
  root: rʔs
  gramm: N,m
- paradigm: N1
- trans_de: Oberster im Reich
- trans_en: 
+ paradigm: <?>
+ trans_de: Oberster im Reich; Anführer der Armee; Staatspräsident
+ trans_en: leader of a country; army commander; president
 -lexeme
  lex: razale
  stem: razale.
  root: rḏl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: schimpfliches Handeln, schimpfliche Lage
- trans_en: 
+ trans_en: shameful actions, miserable state
 -lexeme
  lex: razil
  stem: razil.|razilin.
  root: rḏl
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
- trans_de: Kf
- trans_en: 
+ trans_de: elend, heruntergekommen
+ trans_en: miserable, decrepit
 -lexeme
  lex: raziltiye
  stem: raziltiye.
  root: rḏl
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: schimpfliche Lage
- trans_en: 
+ trans_en: miserable state
 -lexeme
  lex: reč
  stem: reč.
