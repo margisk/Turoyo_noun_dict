@@ -10,7 +10,7 @@
  lex: ʕabake
  stem: ʕabake.|ʕabakat.
  root: ʕbʔ
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kurzer Mantel
  trans_en: short coat
@@ -23,16 +23,16 @@
  trans_de: Jacke ohne Knöpfe, aus grobem Stoff (etwa Ziegenhaar); Mantel
  trans_en: wool jacket, wool coat
 -lexeme
- lex: ʕabbasiye
- stem: ʕabbasiye.//ʕəbbasiye|ʕabbasiyat.//ʕəbbasiyat
+ lex: ʕabbasiye/ʕəbbasiye
+ stem: ʕabbasiye.//ʕəbbasiye.|ʕabbasiyat.//ʕəbbasiyat.
  root: ʕbsy
  gramm: N,f
  paradigm: N2
- trans_de: eine Münze
+ trans_de: Münze
  trans_en: coin
 -lexeme
  lex: ʕabd
- stem: ʕabd./ʕabdin.
+ stem: ʕabd.//ʕabdin.
  root: ʕbd
  gramm: N,m
  paradigm: N2
@@ -45,31 +45,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: schwarze Sklavin
- trans_en: female slave
+ trans_en: black female slave
 -lexeme
  lex: ʕabdo
  stem: ʕabdo.|ʕabde.
  root: ʕbd
  gramm: N,m
  paradigm: N2
- trans_de: Knecht pl
+ trans_de: Knecht
  trans_en: servant
--lexeme
- lex: ʕabəd ṣanam
- stem: ʕabəd.
- root: ʕbd
- gramm: N,m
- paradigm: N1
- trans_de: Götzendiener
- trans_en: <поправить>
 -lexeme
  lex: ʕabid//ʕabəd
  stem: ʕabid.//ʕabəd|ʕabidin.//ʕabdin.
  root: ʕbd
  gramm: N,m
  paradigm: N2
- trans_de: a) Sklave, Knecht, Leibgardist; b) Unhold, Ungeheuer 
- trans_en: servant
+ trans_de: Sklave, Knecht, Leibgardist; Unhold, Ungeheuer; Götzendiener (ʕabəd ṣanam)
+ trans_en: servant, slave; giant, monster; idolater (ʕabəd ṣanam)
 -lexeme
  lex: ʕabide
  stem: ʕabide.|ʕabidat.
@@ -84,7 +76,7 @@
  root: ʕbd
  gramm: N,m
  trans_de: Gottesanbeter
- trans_en: worshiper
+ trans_en: worshipper
 -lexeme
  lex: ʕaboke
  stem: ʕaboke.//ʕabok.
@@ -92,7 +84,7 @@
  gramm: N
  paradigm: <?>
  trans_de: Affenmutter (pir ʕaboke)
- trans_en: <?>
+ trans_en: mother monkey (pir ʕaboke)
 -lexeme
  lex: ʕadab
  stem: ʕadab.
@@ -135,7 +127,7 @@
  trans_en: just
 -lexeme
  lex: ʕadəm
- stem: ʕadəm.|ʕadmat
+ stem: ʕadəm.//ʕadm.|ʕadmat.
  root: ʕdm
  gramm: N,m
  paradigm: N2
@@ -152,34 +144,18 @@
 -lexeme
  lex: ʕadu din
  stem: ʕadu din.
- root: <???>
- gramm: <???>
- paradigm: Empty
- trans_de: Feind der Religion
- trans_en: <???>
+ root: ʕdw
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Feind der Religion (ʕadu din)
+ trans_en: enemy of the religion (ʕadu din)
 -lexeme
- lex: ʕaḏab
- stem: ʕaḏab.|ʕaḏabat.
+ lex: ʕaḏab/ʕaḏabe/ʕaḏabiye
+ stem: ʕaḏab.//ʕaḏabe.//ʕaḏabiye.|ʕaḏabat.//ʕaḏabiyat.
  root: ʕḏb
  gramm: N,m
  paradigm: N2
  trans_de: Qual, Quälerei
- trans_en: torture, pain, suffering
--lexeme
- lex: ʕaḏabe
- stem: ʕaḏabe.|ʕaḏabat.
- root: ʕḏb
- gramm: N,f
- paradigm: N2
- trans_de: Qual
- trans_en: torture, pain, suffering
--lexeme
- lex: ʕaḏabiye
- stem: ʕaḏabiye.|ʕaḏabiyat.
- root: ʕḏb
- gramm: N,f
- paradigm: N2
- trans_de: Qual
  trans_en: torture, pain, suffering
 -lexeme
  lex: ʕaḏ̣im
@@ -219,7 +195,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Schimmel (verschimmelter Gegenstände)
- trans_en: mould
+ trans_en: mould (mouldy objects)
 -lexeme
  lex: ʕafoye
  stem: ʕafoye.|ʕafoyat.
@@ -234,7 +210,7 @@
  root: ʕfr
  gramm: N,m
  paradigm: N2
- trans_de: a) Staub, Erdreich b) Grund und Boden, Gebiet
+ trans_de: Staub, Erdreich; Grund und Boden, Gebiet
  trans_en: soil, earth; land
 -lexeme
  lex: ʕafre
@@ -253,8 +229,8 @@
  trans_de: Unhold 
  trans_en: giant, monster
 -lexeme
- lex: ʕafṣo
- stem: ʕafṣo.|ʕafṣe.
+ lex: ʕafṣo/ʕapṣo
+ stem: ʕafṣo.//ʕapṣo.|ʕafṣe.//ʕapṣo.
  root: ʕfṣ
  gramm: N,m
  paradigm: N2
@@ -304,18 +280,18 @@
  lex: ʕaǧab
  stem: ʕaǧab.
  root: ʕǧb
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
- trans_de: a) etwa? wohl?; b) etwas Ersaunliches
- trans_en: a) <?>; b) something unusual
+ trans_de: etwa? wohl?; etwas Ersaunliches
+ trans_en: <?>; something unusual
 -lexeme
  lex: ʕaǧaba
  ste: ʕaǧaba.
  root: ʕǧb
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: Fragepartikel
- trans_en: <?>
+ trans_en: question marker
 -lexeme
  lex: ʕaǧaǧ/ʕəǧaǧ
  stem: ʕaǧaǧ.//ʕəǧaǧ.|ʕaǧaǧat.//ʕəǧaǧat.
@@ -331,23 +307,23 @@
  gramm: N,f
  paradigm: N2
  trans_de: Eile; eiligst (ʕalal ʕaǧala)
- trans_en: hurry; quickly; quick (?); 
+ trans_en: hurry; in a hurry (ʕalal ʕaǧala) 
 -lexeme
  lex: ʕaǧam
  stem: ʕaǧam.
  root: ʕǧm
  gramm: N,m
  paradigm: unchangeable
- trans_de: a) Persien; b) Perser
- trans_en: a) Persia; b) Persian 
+ trans_de: Persien; Perser
+ trans_en: Persia; Persian
 -lexeme
  lex: ʕaǧami
  stem: ʕaǧami.|ʕaǧamiye.
  root: ʕǧm
  gramm: N,m
  paradigm: N2
- trans_de: a) persisch; b) Anfänger
- trans_en: a) persian; b) beginner
+ trans_de: persisch; Anfänger
+ trans_en: persian; beginner
 -lexeme
  lex: ʕaǧaq
  stem: ʕaǧaq.|ʕaǧaqat.
@@ -360,10 +336,10 @@
  lex: ʕaǧeb//ʕaǧayəb//ʕaǧib
  stem: ʕaǧeb.//ʕaǧayəb.//ʕaǧib.
  root: ʕǧb
- gramm: <?>
+ gramm: N,pl
  paradigm: unchangeable
  trans_de: Wunder, sonderbar
- trans_en: astonishing, amazing
+ trans_en: marvel; astonishing, amazing
 -lexeme
  lex: ʕaǧebmayi
  stem: ʕaǧebmayi.
@@ -379,7 +355,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hacke mit zwei Schneiden und langem Stiel
- trans_en: axe
+ trans_en: axe with two edges and a long handle
 -lexeme
  lex: ʕaǧiqo/ʕǧiqo/ǧʕiqo
  stem: ʕaǧiqo.//ʕǧiqo.//ǧʕiqo.|ʕaǧiqe.//ʕǧiqe.//ǧʕiqe.
@@ -395,7 +371,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: mit Holschlägel klein geschlagenes, dann mit feiner Weizengrütze gemischtes Fleisch, roh gegessen
- trans_en: meatball (?)
+ trans_en: meat, pounded finely with a wooden beater, then mixed with fine bulgur
 -lexeme
  lex: ʕaǧəz
  stem: ʕaǧəz.
@@ -425,7 +401,7 @@
  stem: ʕakar.//ʕkara.
  root: ʕkr
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Bodensatz (auch der Bevölkerung)
  trans_en: residue
 -lexeme
@@ -434,8 +410,8 @@
  root: ʕkf
  gramm: N,f
  paradigm: N2
- trans_de: a) Strick zum Halten des Kopftuches b) geschmückter Gürtel c) Dolch
- trans_en: a) cord for holding the headdress in place; b) decorated belt; c) dagger
+ trans_de: Strick zum Halten des Kopftuches; geschmückter Gürtel; Dolch
+ trans_en: cord for holding the headdress in place; decorated belt; dagger
 -lexeme
  lex: ʕakrud
  stem: ʕakrud.
@@ -443,7 +419,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Kuppler
- trans_en: a pander
+ trans_en: pander
 -lexeme
  lex: ʕaksuno
  stem: ʕaksuno.|ʕaksune.
@@ -464,7 +440,7 @@
  lex: ʕala
  stem: ʕala.
  root: ʕly
- gramm: ADV
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: sehr gut
  trans_en: very good
@@ -473,15 +449,15 @@
  stem: ʕalaf.
  root: ʕlf
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Futter
  trans_en: fodder
 -lexeme
  lex: ʕalaktrike
- stem: ʕalaktrike.//ʕalatrike.//ʕalaltrike.//ʕantrike.
+ stem: ʕalaktrike.//ʕalatrike.//ʕalaltrike.//ʕantrike.|ʕalktrikat.//ʕalatrikat.//ʕalaltrikat.//ʕantrikat.
  root: ʕlktrk
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N2
  trans_de: elektrische Taschenlampe
  trans_en: lamp
 -lexeme
@@ -494,7 +470,7 @@
  trans_en: in a hurry
 -lexeme
  lex: ʕalame/ʕəlame
- stem: ʕalame.//ʕəlame.//ʕlama|ʕalamat.//ʕəlamat.//ʕlamat
+ stem: ʕalame.//ʕəlame.//ʕlama.|ʕalamat.//ʕəlamat.//ʕlamat.
  root: ʕlm
  gramm: N,f
  paradigm: N2
@@ -518,7 +494,7 @@
  trans_en: turkey cock
 -lexeme
  lex: ʕalofo
- stem: ʕalofo.//ʕəlofo.//ʕlofo.|ʕalofe.//ʕəlofe.//ʕlofe
+ stem: ʕalofo.//ʕəlofo.//ʕlofo.|ʕalofe.//ʕəlofe.//ʕlofe.
  root: ʕlf
  gramm: N,m
  paradigm: N2
@@ -546,8 +522,8 @@
  root: ʕlq
  gramm: N,f
  paradigm: N2
- trans_de: a) kleines Hölzchen zum Feueranmachen b) kleine Tierchen, die im Brunnen leben und herausgesiebt werden müssen
- trans_en: a) small piece of wood for making up the fire; b) a small insect (?) that lives in wells and must be filtered off 
+ trans_de: kleines Hölzchen zum Feueranmachen; kleine Tierchen, die im Brunnen leben und herausgesiebt werden müssen
+ trans_en: small piece of wood for making up the fire; a small insect (?) that lives in wells and must be filtered off 
 -lexeme
  lex: ʕalqo
  stem: ʕalqo.|ʕalqe.
@@ -570,16 +546,16 @@
  root: ʕmy
  gramm: INTERJ
  paradigm: unchangeable
- trans_de: Blindheit! Zum Kuckuck!
- trans_en: damn it!
+ trans_de: Blindheit! Zum Kuckuck! (l ʕama)
+ trans_en: damn it! (l ʕama)
 -lexeme
  lex: ʕamal
  stem: ʕamal.
  root: ʕml
  gramm: N,m
- paradigm: N1
- trans_de: a) Verrichtung, Tun, Werk, Arbeit b) Stuhlgang
- trans_en: a) work, deed; execution; b) defecation
+ paradigm: <?>
+ trans_de: Verrichtung, Tun, Werk, Arbeit; Stuhlgang
+ trans_en: work, deed; execution; defecation
 -lexeme
  lex: ʕamaliye
  stem: ʕamaliye.|ʕamaliyat.
@@ -629,14 +605,6 @@
  trans_de: belebt, gebaut, bebaut, wohlbestellt
  trans_en: inhabitated, populated; built
 -lexeme
- lex: ʕamko
- stem: ʕamko.
- root: ʕmm
- gramm: N,m
- paradigm: N1
- trans_de: lieber Oheim!, lieber Onkel!
- trans_en: 
--lexeme
  lex: ʕamle
  stem: ʕamle.|ʕamlat.
  root: ʕml
@@ -665,7 +633,7 @@
  stem: ʕamme.
  root: ʕmm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Tante!
  trans_en: aunt!
 -lexeme
@@ -722,8 +690,8 @@
  root: ʕmd
  gramm: N,m
  paradigm: N2
- trans_de: a) Säule, Pfeiler d. elektrischen Leitung. b) lange, dicke Kerze in der Kirche. c) Licht, das Ostern in der Grabeskirche erscheint
- trans_en: a) pillar, pole, post; b) a massive prayer candle; c) <?>
+ trans_de: Säule, Pfeiler d. elektrischen Leitung; lange, dicke Kerze in der Kirche 
+ trans_en: pillar, pole, post; a massive prayer candle 
 -lexeme
  lex: ʕamuqo
  stem: ʕamuqo.|ʕamuqe.
@@ -753,7 +721,7 @@
  stem: ʕangus.//ʕanguz.//angus.|ʕangusin.//ʕanguzin.//angusin.
  root: ʕngs
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Keule
  trans_en: club, cudgel
 -lexeme
@@ -768,7 +736,7 @@
  lex: ʕAnqara
  stem: ʕAnqara.
  root: ʕnqr
- gramm: ?
+ gramm: N
  paradigm: unchangeable
  trans_de: Ankara
  trans_en: Ankara
@@ -786,8 +754,8 @@
  root: ʕnṭl
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: langsam arbeitend, essend usw. (b ʕanṭala)
+ trans_en: slowly eating, working and so on (b ʕanṭala)
 -lexeme
  lex: ʕaqar/aqar
  stem: ʕaqar.//aqar.|ʕaqarat.//aqarat.
@@ -9609,6 +9577,14 @@
  paradigm: unchangeable
  trans_de: Herzkrankheit, Herzanfall
  trans_en: heart pain, heart attack
+-lexeme
+ lex: din
+ stem: din.
+ root: dyn
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Feind der Religion (ʕadu din)
+ trans_en: enemy of the religion (ʕadu din)
 -lexeme
  lex: dinar
  stem: dinar.
@@ -37849,6 +37825,14 @@
  paradigm: N2
  trans_de: sehr heiß
  trans_en: very hot
+-lexeme
+ lex: ṣanam
+ stem: ṣanam.
+ root: ṣnm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Götzendiener (ʕabəd ṣanam)
+ trans_en: idolater (ʕabəd ṣanam)
 -lexeme
  lex: ṣanəʕ
  stem: ṣanəʕ.|ṣanəʕin.
