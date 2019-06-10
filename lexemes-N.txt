@@ -2490,8 +2490,8 @@
  root: ʕql
  gramm: ADJ
  paradigm: unchangeable
- trans_de: gehörig, tüchtig (adam ʕaqələ)
- trans_en: proper; capable, smart (adam ʕaqələ)
+ trans_de: gehörig, tüchtig (adam ʕaqələ); Adamssöhne, Menschen (bani adam)
+ trans_en: proper; capable, smart (adam ʕaqələ); Adam's children, humans (bani adam)
 -lexeme
  lex: adlalyo
  stem: adlalyo.
@@ -3931,6 +3931,14 @@
  trans_de: Apotheke
  trans_en: drugstore
 -lexeme
+ lex: azyad
+ stem: azyad.
+ root: zyd
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: viel mehr (bal azyad)
+ trans_en: a lot more (bal azyad)
+-lexeme
  lex: ažir
  stem: ažir.
  root: ʔǧr
@@ -4235,7 +4243,7 @@
  trans_en: light; lamp, lantern, lighthouse
 -lexeme
  lex: bahtmay
- stem: bahtmay.//behətmayi.//behtmayi
+ stem: bahtmay.//behətmayi.//behtmayi.//bahtmayi.
  root: bhtmy
  gramm: ADJ
  paradigm: unchangeable
@@ -4274,6 +4282,14 @@
  trans_de: Meer, See
  trans_en: see, lake
 -lexeme
+ lex: baḥr
+ stem: baḥr.
+ root: bḥr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Anteil und Bruder (baḥr w bra)
+ trans_en: <?>
+-lexeme
  lex: baḥri
  stem: baḥri.|baḥriye.
  root: bḥr
@@ -4283,7 +4299,7 @@
  trans_en: sea-, sailor
 -lexeme
  lex: baḥs
- stem: baḥs.
+ stem: baḥs.//baḥəs.
  root: bḥs
  gramm: N,m
  paradigm: unchangeable
@@ -4321,6 +4337,22 @@
  paradigm: unchangeable
  trans_de: mit Erhöhung in der Mitte und etwas herausstehend, auch von krummer Nase
  trans_en: with raising in the middle and somewhat sticking out, also about a curved nose
+-lexeme
+ lex: bal
+ stem: bal.
+ root: bl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: mach die Augen auf! (bal bəliš)
+ trans_en: open your eyes! (bal bəliš)
+-lexeme
+ lex: bal
+ stem: bal.
+ root: bl
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: viel mehr (bal azyad)
+ trans_en: a lot more (bal azyad)
 -lexeme
  lex: bala
  stem: bala.|bəlawat.//balawat.
@@ -4378,19 +4410,11 @@
  trans_de: umsonst
  trans_en: free of charge
 -lexeme
- lex: bal azyad
- stem: bal azyad.
- root: zyd
- gramm: ADV
- paradigm: unchangeable
- trans_de: viel mehr
- trans_en: much more
--lexeme
  lex: balga
  stem: balga.//balgəh.|balgat.
  root: blg
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gebiet, Zone
  trans_en: area, zone
 -lexeme
@@ -4469,7 +4493,7 @@
  lex: baltke
  stem: baltke.|baltkat.
  root: blt
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: Wandnische; kleiner Felsen, der aus dem Boden heraussteht
  trans_en: niche in a wall; small rock which sticks out from the ground
@@ -4494,7 +4518,7 @@
  stem: balwa.
  root: blw
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: das plage, das schöne Mädchen
  trans_en: disaster; beautiful girl
 -lexeme
@@ -4534,9 +4558,9 @@
  stem: bandak.
  root: bnd
  gramm: N,m
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: gewebter Teppich aus Ziegenhaar oder Wolle, der gefaltet und an der Schmalseite zusammengehängt wird, so dass ein Sack mit offener Längsseite entsteht; dient zum Transport von Getreide auf Eselrücken
- trans_en: weaved rug made of goathair or wool
+ trans_en: weaved rug made of goathair or wool. It is folded and put together on its narrow side, so that it turns into a bag with a long side; it serves for transporting the grain on donkeys
 -lexeme
  lex: bando
  stem: bando.|bande.
@@ -4570,13 +4594,13 @@
  trans_de: Millionär, Bankbesitzer
  trans_en: millionaire, banker
 -lexeme
- lex: bani adam
- stem: bani adam.
+ lex: bani
+ stem: bani.
  root: bnydm
  gramm: N
  paradigm: unchangeable
- trans_de: Adamssöhne, Menschen
- trans_en: humans
+ trans_de: Adamssöhne, Menschen (bani adam)
+ trans_en: humans (bani adam)
 -lexeme
  lex: banəʕmoyo
  stem: banəʕmoyo.//banəʕmoye.
@@ -4592,7 +4616,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: große, zwieschen zwei Bergen liegende Terrasse zum Anbau von Getreide und dergl.
- trans_en: big terrace for sowing crops and such things between two mountains
+ trans_en: big terrace for sowing crops and similar things between two mountains
 -lexeme
  lex: bannəke
  stem: bannəke.|bannəkat.
@@ -4634,8 +4658,8 @@
  trans_de: endlich
  trans_en: finally, at last
 -lexeme
- lex: baqča
- stem: baqča.|baqčat.
+ lex: baqča/baxča
+ stem: baqča.//baxča.|baqčat.//baxčat.
  root: bqč
  gramm: N,f
  paradigm: N2
@@ -4662,7 +4686,7 @@
  stem: baqlawa.|baqlawat.
  root: bqlw
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Bohne, Vicis faba
  trans_en: sweets <?>, Vicis faba
 -lexeme
@@ -4686,7 +4710,7 @@
  stem: baqoruṯo.
  root: bqr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geschäft des Rinderhirten
  trans_en: herdsman profession
 -lexeme
@@ -4694,7 +4718,7 @@
  stem: baqqaltiye.
  root: bql
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Geschäft eines Krämers
  trans_en: trader profession
 -lexeme
@@ -4773,8 +4797,8 @@
  lex: baranko
  stem: baranko.
  root: brnk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: aus Hölzchen gemachter kleiner Hammel, mit einer Schnur oben, den man in den heißen Traubensirup taucht; Spielzeug der Kinder
  trans_en: small ram made from logs, with a rope on top, which is dipped in hot grape syrup; toy for children
 -lexeme
@@ -4918,7 +4942,7 @@
  stem: barḥəme.//barḥme.
  root: brḥm
  gramm: N,m
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Schwager
  trans_en: brother-in-law
 -lexeme
@@ -5021,7 +5045,7 @@
  lex: baroyo
  stem: baroyo.|baroye.
  root: bry
- gramm: N,m
+ gramm: ADJ
  paradigm: N2
  trans_de: äußerer
  trans_en: outward
@@ -5110,7 +5134,7 @@
  stem: barx.
  root: brx
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: einjähriges Ziegenböckchen
  trans_en: one year kid
 -lexeme
@@ -5118,9 +5142,9 @@
  stem: barxane.|barxanat.
  root: brxn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Gepäckkarawane
- trans_en: caravan with bags <?>
+ trans_en: caravan with bags (?)
 -lexeme
  lex: barxurke
  stem: barxurke.
@@ -5134,7 +5158,7 @@
  stem: barzayno.//bərzayno.|barzayne.//bərzayne.
  root: brzyn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Graslaube auf dem Dach
  trans_en: <?>
 -lexeme
@@ -5231,13 +5255,13 @@
  root: bṣmbr
  gramm: N,m
  paradigm: unchangeable
- trans_de: 25 März, Tag der Ankündigung Mariae; rot-weißer Faden, der am Tag von Mariae Verkündigung überall angebracht wird. Er wird am Ostermontag vom Pfarrer gesegnet und dann abgenommen. Auch als Brautkrone verwendet
- trans_en: 25 March, Annunciation Day; red-white thread which is installed everywhere on the day of Annunciation. It is blessed by a priest on Bright Monday and is then removed. It is also used as a bride's diadem
+ trans_de: 25 März, Tag der Ankündigung Mariae; rot-weißer Faden, der am Tag von Mariae Verkündigung überall angebracht wird. Er wird am Ostermontag vom Pfarrer gesegnet und dann abgenommen. Auch als Brautkrone verwendet.
+ trans_en: 25 March, Annunciation Day; red-white thread which is installed everywhere on the day of Annunciation. It is blessed by a priest on Bright Monday and is then removed. It is also used as a bride's diadem.
 -lexeme
  lex: baṣiṭ
  stem: baṣiṭ.
  root: bsṭ
- gramm: N,m
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: einfach, harmlos, einfältig
  trans_en: simple, harmless, naive
@@ -5248,7 +5272,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zwiebel
- trans_en: onion
+ trans_en:onion
 -lexeme
  lex: baṣro
  stem: baṣro.|baṣrone.
@@ -5294,7 +5318,7 @@
  stem: baš.
  root: bš
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schaf mit Blesse auf der Stirn
  trans_en: sheep with a white fleck on its forehead
 -lexeme
@@ -5326,7 +5350,7 @@
  stem: bašgidəkli.
  root: bšgdkl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Polizeimeister; höchster Rang der Subalternoffiziere
  trans_en: city-provost (?); the highest rank of low-level police ranks
 -lexeme
@@ -5357,23 +5381,23 @@
  stem: bašše.
  root: bšš
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Blesse, weißer Stirnfleck der Pferde; Stute
  trans_en: fleck, white fleck on forehead of a horse, of a mare
 -lexeme
- lex: baš-tiǧǧar
- stem: baš-tiǧǧar.
+ lex: baštəǧǧar
+ stem: baštəǧǧar.
  root: bštǧr
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Oberster der Kaufleute
  trans_en: head of traders
 -lexeme
- lex: baš-ṭabib
- stem: baš-ṭabib.
+ lex: bašṭabib
+ stem: bašṭabib.
  root: bšṭb
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Oberster der Ärzte
  trans_en: head of doctors
 -lexeme
@@ -5414,8 +5438,16 @@
  root: bṭl
  gramm: N,m
  paradigm: N2
- trans_de: groß und dick, hünenhaft, Recke; Ermüdung
- trans_en: big and fat, mighty, hero; tiredness
+ trans_de: groß und dick, hünenhaft, Recke
+ trans_en: big and fat, mighty, hero
+-lexeme
+ lex: baṭlo
+ stem: baṭlo.|baṭle.
+ root: bṭl
+ gramm: N,m
+ paradigm: N2
+ trans_de: Ermüdung
+ trans_en: tiredness
 -lexeme
  lex: baṭlono
  stem: baṭlono.|baṭlone.
@@ -5453,7 +5485,7 @@
  stem: baṭṭaniye.|baṭṭaniyat.
  root: bṭn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Wolldecke
  trans_en: wool blanket
 -lexeme
@@ -5463,7 +5495,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: appelliert an die Einsicht des Anderen, um Verständnis werbend: mein Lieber, nun denn
- trans_en:
+ trans_en: appealing to the understanding of someone else; my dear, now
 -lexeme
  lex: bawarəd
  stem: bawarəd.
@@ -5502,8 +5534,8 @@
  root: bxč
  gramm: N,f
  paradigm: N2
- trans_de: garden; clothes parcel
- trans_en: 
+ trans_de: Garten
+ trans_en: garden
 -lexeme
  lex: baxčači
  stem: baxčači.|baxčačiye.
@@ -5542,16 +5574,8 @@
  root: bxt
  gramm: N,m
  paradigm: unchangeable
- trans_de: Ehrenwort, Ehr und Gewissen
- trans_en: honest word, <?>
--lexeme
- lex: baxto
- stem: baxto.
- root: bxt
- gramm: N,m
- paradigm: N1
- trans_de: a) Ehrenwort, Ehr und Gewissen, Treu und Glauben; b) Waffenstillstand
- trans_en: 
+ trans_de: Ehrenwort, Ehr und Gewissen, Treu und Glauben
+ trans_en: honest word, honesty and conscience (?); good faith
 -lexeme
  lex: baxyo
  stem: baxyo.
@@ -5560,6 +5584,22 @@
  paradigm: N1
  trans_de: unchangeable
  trans_en: crying
+-lexeme
+ lex: bay
+ stem: bay.
+ root: by
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Luft-
+ trans_en: air-
+-lexeme
+ lex: bayʕ
+ stem: bayʕ.
+ root: byʕ
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Verkauf und Kauf (bayʕ w šire)
+ trans_en: buying and selling (bayʕ w šire)
 -lexeme
  lex: bayan
  stem: bayan.
@@ -5570,10 +5610,10 @@
  trans_en: clear, obvious
 -lexeme
  lex: baybənto/baybunto
- stem: baybənto.//baybunto.
+ stem: baybənto.//baybunto.|baybune.
  root: bybn
  gramm: N,f
- paradigm: unchangeable
+ paradigm: N2
  trans_de: eine Blume
  trans_en: a type of flower
 -lexeme
@@ -5581,13 +5621,13 @@
  stem: baybunəč.
  root: bybnč
  gramm: N,m
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: strahlenlose Kamille (aus der man Tee macht), Matricaria matricarnoides
  trans_en: pineappleweed (from which tea is made), Matricari matricarnoides
 -lexeme
- lex: bayġar
- stem: bayġar.
- root: byġr
+ lex: bayǧar
+ stem: bayǧar.
+ root: byǧr
  gramm: N
  paradigm: unchangeable
  trans_de: ähnliche Pflanze wie tayyil, aber mit breiteren Blättern
@@ -5612,7 +5652,7 @@
  lex: baytək
  stem: baytək.
  root: bytk
- gramm: N,m
+ gramm: N,m,dim
  paradigm: <?>
  trans_de: kleiner, schöner, bunter Vogel
  trans_en: small beautiful variegated bird
@@ -5620,7 +5660,7 @@
  lex: baytəko
  stem: baytəko.
  root: byt
- gramm: N,m
+ gramm: N,m,dim
  paradigm: <?>
  trans_de: kleines Haus
  trans_en: small house
@@ -5647,12 +5687,12 @@
  gramm: N,m
  paradigm: N2
  trans_de: Familienangehöriger, oder als solcher gerechnet
- trans_en: family members or those reckoned in
+ trans_en: family members or those reckoned as such
 -lexeme
  lex: baytunke
  stem: baytunke.
  root: byt
- gramm: N,f
+ gramm: N,f,dim
  paradigm: <?>
  trans_de: Häuschen
  trans_en: small house
@@ -5663,7 +5703,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Falke
- trans_en: falcon
+ trans_en: hawk
 -lexeme
  lex: bazar
  stem: bazar.
@@ -5676,7 +5716,7 @@
  lex: bazarkat
  stem: bazarke.|bazarkat.
  root: bzr
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kleines Handelsgeschäft
  trans_en: small shop
@@ -5697,11 +5737,19 @@
  trans_de: aschblond
  trans_en: ash-blond
 -lexeme
+ lex: bazəḥ
+ stem: bazək.
+ root: bzḥ
+ gramm: N,m,dim
+ paradigm: <?>
+ trans_de: Falke
+ trans_en: hawk
+-lexeme
  lex: bazine
  stem: bazine.
  root: bzn
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Ziege mit kleiner Blesse auf der Stirn
  trans_en: goat with a small fleck on its forehead
 -lexeme
@@ -5767,7 +5815,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: guter, stattlicher Wuchs, gut aussehend
- trans_en: height
+ trans_en: (?)
 -lexeme
  lex: bḏ̣aʕa
  stem: bḏ̣aʕa.
@@ -5817,14 +5865,6 @@
  trans_de: Pyjama, Schlafanzug
  trans_en: pyjamas, night gown
 -lexeme
- lex: behtmayi
- stem: behtmayi.//bəhtmayi.//bahtmayi.
- root: bhtmy
- gramm: ADJ
- paradigm: unchangeable
- trans_de: erstaunt, verblüfft
- trans_en: astounded, perplexed
--lexeme
  lex: behvan
  stem: behvan.
  root: bhv
@@ -5841,6 +5881,14 @@
  trans_de: nicht süße Traubenart
  trans_en: sort of grapes which is not sweet
 -lexeme
+ lex: bele
+ stem: bele.
+ root: bl
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de: ja doch, gewiß, freilich
+ trans_en: yes, of course; indeed; certainly
+-lexeme
  lex: beluk
  stem: beluk.|belukat.
  root: blk
@@ -5853,7 +5901,7 @@
  stem: beriye.
  root: bry
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Sehnsucht; kleines Viehgehege im Freien
  trans_en: 
 -lexeme
@@ -5863,7 +5911,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Poleigamander, Teucrium plicum L.
- trans_en: <?>, Teucrium plicum L.
+ trans_en: germander, Teucrium plicum L.
 -lexeme
  lex: beš
  stem: beš.
@@ -5879,7 +5927,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Funken
- trans_en: sparkle
+ trans_en: spark
+-lexeme
+ lex: beṯ
+ stem: beṯ.
+ root: byt
+ gramm: N
+ paradigm: unchangeable
+ trans_de: "Schatzhaus", Titel eines kirchlichen Gesangbuches (beṯ gazo)
+ trans_en: treasury, title of a church book of hymns (beṯ gazo)
 -lexeme
  lex: bezo
  stem: bezo.|bəzone.//bezone.
@@ -5914,9 +5970,9 @@
  trans_en: ugly appearance
 -lexeme
  lex: bəčučke
- stem: bəčučke.|bəčučkat.
+ stem: bəčučke.//pišuške.|bəčučkat.
  root: bčč
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: kleines Junge
  trans_en: small boy
@@ -5969,13 +6025,21 @@
  trans_de: Nachtigall
  trans_en: nightingale
 -lexeme
- lex: bəlbəlhazar
+ lex: bələbəlhazar
  stem: bələbəlhazar.
  root: blblhzr
  gramm: N,m
  paradigm: <?>
  trans_de: Nachtigall
  trans_en: nightingale
+-lexeme
+ lex: bəlbəzekat
+ stem: bəlbəzekat.
+ root: blbz
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: zwei Blumenarten <...>
+ trans_en: two flower types <...>
 -lexeme
  lex: bəlbəzeki
  stem: bəlbəzeki
@@ -5985,8 +6049,8 @@
  trans_de: Traubenart, lang und dickschalig
  trans_en: sort of grapes, long and with thick peel
 -lexeme
- lex: bəl-ḥaǧe
- stem: bəl-ḥaǧe.
+ lex: bəlḥaǧe
+ stem: bəlḥaǧe.
  root: blḥǧ
  gramm: ADJ
  paradigm: unchangeable
@@ -5996,13 +6060,13 @@
  lex: bəlḥuḏe
  stem: bəlḥuḏe.
  root: blḥḏ
- gramm: <?>
+ gramm: ADV
  paradigm: unchangeable
  trans_de: allein
  trans_en: alone
 -lexeme
- lex: bələnd-ǧəh
- stem: bələnd-ǧəh.
+ lex: bələndǧəh
+ stem: bələndǧəh.
  root: blndǧh
  gramm: N
  paradigm: unchangeable
@@ -6016,6 +6080,14 @@
  paradigm: N2
  trans_de: dreijähriges Ziegenlamm
  trans_en: three-year old goat kid
+-lexeme
+ lex: bəliš
+ stem: bəliš.
+ root: blš
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: mach die Augen auf! (bal bəliš)
+ trans_en: open your eyes! (bal bəliš)
 -lexeme
  lex: bəllur
  stem: bəllur.
@@ -6047,7 +6119,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Murmel
- trans_en: 
+ trans_en: marble
 -lexeme
  lex: bembašt
  stem: bembašt.|bembaštiye.
@@ -6078,8 +6150,8 @@
  root: bndn
  gramm: N
  paradigm: <?>
- trans_de: Bodensatz des Fasses; Hausfraut
- trans_en: <?>
+ trans_de: Bodensatz des Fasses; Hausfrau
+ trans_en: sediment of a barrel; housewife
 -lexeme
  lex: bəndar
  stem: bəndar.
@@ -6097,6 +6169,14 @@
  trans_de: Haselnuss
  trans_en: hazelnut
 -lexeme
+ lex: bənədewi
+ stem: bənədewi.
+ root: bndw
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Feigenart
+ trans_en: sort of figs
+-lexeme
  lex: bəng
  stem: bəng.
  root: bng
@@ -6111,10 +6191,10 @@
  gramm: N,m
  paradigm: <?>
  trans_de: das zusammengebogene und unten zusammengebundene Holz, das mit Stricken in der Mitte des Jochs festgemacht ist.
- trans_en: pieces (?) of wood, bent and tied together, tied to the middle of a yoke with a rope
+ trans_en: piece of wood bent and tied together, attached to the middle of a yoke with a rope
 -lexeme
  lex: bərawo
- stem: bərawo.
+ stem: bərawo.//brawo.
  root: bry
  gramm: INTERJ
  paradigm: unchangeable
@@ -6191,7 +6271,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bassin, Teich, Wasserbecken; leicht knieartig gekrümmtes Holz, durch dessen dickeres Ende ein Loch des sayfo (Handhabe des Pfluges) geht. Zwischen der Krümmung und diesem Loch ist ein Pflock, der mit einem pərk (Brücke) genannten Holz mit dem sayfo verbunden ist. Das dünnere Ende is an die Deichsel (mašono) angenietet
- trans_en: pool, pond, water-reservoire; light <?> curved piece of wood, through its thick end goes a hold of sayfo (a handle of a plough). Between the place where it bends (?) and this hole there is a peg which is tied up to sayfo with a piece of wood called pərk (bridge). The thinner end is clinched to a shaft (mašono)
+ trans_en: pool, pond, water-reservoire; light (?) curved piece of wood, through its thick end goes a hold of sayfo (a handle of a plough). Between the place where it bends (?) and this hole there is a peg which is tied up to sayfo with a piece of wood called pərk (bridge). The thinner end is clinched to a shaft (mašono)
 -lexeme
  lex: bərlə
  stem: bərlə.
@@ -6245,7 +6325,7 @@
  stem: bərzono.
  root: brzn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Rasen, Wiese
  trans_en: grass canopy, meadow
 -lexeme
@@ -6295,15 +6375,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: frohe Kunde, frohe Botschaft
- trans_en: good news, Gospel (?)
+ trans_en: good news, Gospel
 -lexeme
  lex: bəššolo
- stem: bəššolo.
+ stem: bəššolo.//bəšolo.//bšolo.|bšolone.
  root: bšl
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: gekochtes Essen
- trans_en: 
+ trans_en: cooked food
 -lexeme
  lex: bəšto
  stem: bəšto.|bəštoṯo.//bəštoṯe.
@@ -6319,7 +6399,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: luxuriöses Leben
- trans_en: luxurious life; indulgence; arrogance, impertinence
+ trans_en: luxurious life
 -lexeme
  lex: bəṭṭər
  stem: bəṭṭər.
@@ -6327,7 +6407,15 @@
  gramm: N,m
  paradigm: <?>
  trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf
- trans_en: 
+ trans_en: such a person makes a lot of unnecessary expenses, lives in luxury and shows himself off before others
+-lexeme
+ lex: bəṯṯər
+ stem: bəṯṯər.//bəṯr.
+ root: ʔṯr
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: nach, hinter (zeitlich); nach, hinter (räumlich)
+ trans_en: after (temporal); after, behind (spatial)
 -lexeme
  lex: bəzdəm
  stem: bəzdəm.
@@ -6385,6 +6473,14 @@
  trans_de: Mülleimer
  trans_en: garbage can
 -lexeme
+ lex: biǧək
+ stem: biǧək.
+ root: bǧ
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: auf der Stelle
+ trans_en: at the place (?)
+-lexeme
  lex: biǧuz
  stem: biǧuz.
  root: bǧz
@@ -6410,12 +6506,20 @@
  trans_en: even
 -lexeme
  lex: bəllaxaṣ
- stem: bəllaxaṣ.
+ stem: bəllaxaṣ.//bilaxaṣ.
  root: xṣṣ
  gramm: ADV
  paradigm: unchangeable
  trans_de: besonders
  trans_en: especially
+-lexeme
+ lex: bila
+ stem: bila.
+ root: bl
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: ohne; ohne Ausnahme (bila əstisna)
+ trans_en: without; without exception (bila əstisna)
 -lexeme
  lex: bin
  stem: bin.
@@ -6470,6 +6574,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: schwarzer Punkt, der auf der Haut entsteht
+ trans_en: black dot which appears on skin
 -lexeme
  lex: bišo
  stem: bišo.|biše.
@@ -6501,7 +6606,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zahl
- trans_en: 
+ trans_en: number
 -lexeme
  lex: bodara
  stem: bodara.|bodarat.
@@ -6587,9 +6692,9 @@
  stem: bra.
  root: br
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bruder
- trans_en: 
+ trans_en: brother; Anteil und Bruder (baḥr w bra)
 -lexeme
  lex: bratiye
  stem: bratiye.
@@ -6632,7 +6737,7 @@
  trans_en: brother's daughter, niece
 -lexeme
  lex: Brazil/Brazilya
- stem: Brazil/Brazilya.
+ stem: Brazil.//Brazilya.
  root: brzl
  gramm: N
  paradigm: unchangeable
@@ -6693,7 +6798,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: herausfordernder Ausruf
- trans_en:
+ trans_en: <?>
 -lexeme
  lex: brukṯo/brəkṯo
  stem: brukṯo.//brəkṯo.//burukṯo.|burkoṯe.//brəkwoṯo.//burukyoṯo.//burukyoṯe.
@@ -6711,29 +6816,21 @@
  trans_de: Funke, die beim Zusammenschlagen von Steinen entstehen; plötzlich verschwindenes Licht; Wetterleuchten; plötzlich aufflammendes mit Regen; plötzlicher Schmerz
  trans_en: spark which appears from hitting two stones together; suddenly disappearing light; heat lightning; light of a canon suddenly flaring up; thunder with rain; sudden pain
 -lexeme
- lex: b-sarhatke
- stem: b-sarhatke.
- root: b-srhtk
+ lex: bsarhatke
+ stem: bsarhatke.
+ root: bsrhtk
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Erlebnis (Frauensprache)
- trans_en: 
+ trans_en: experience (women's speech)
 -lexeme
  lex: bṣito
  stem: bṣito.
  root: bṣt
- gramm: N,m
+ gramm: ADJ
  paradigm: <?>
  trans_de: gut eingerichtet (Haus)
  trans_en: well-furnished (house)
--lexeme
- lex: bšolo
- stem: bšolo.|bšolone.
- root: bšl
- gramm: N,m
- paradigm: N2
- trans_de: warmes Essen, Speise
- trans_en: 
 -lexeme
  lex: bṯulto
  stem: bṯulto.|bṯule.
@@ -6754,7 +6851,7 @@
  lex: buġurko
  stem: bŭġurko.|buġurkat.
  root: bgr
- gramm: N,m
+ gramm: N,m,dim
  paradigm: N2
  trans_de: kleines Steinchen
  trans_en: small stone
@@ -6823,8 +6920,16 @@
  trans_de: selber, persönlich
  trans_en: personally, self
 -lexeme
+ lex: buyurun
+ stem: buyurun.
+ root: byr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: bitte schön! (buyurun efendim)
+ trans_en: please! (buyurun efendim)
+-lexeme
  lex: buzarʕo
- stem: buzarʕo.//bizarʕo.//bzarʕo|buzarʕe.//bizarʕe.//bzarʕe.
+ stem: buzarʕo.//bizarʕo.//bzarʕo.|buzarʕe.//bizarʕe.//bzarʕe.
  root: zrʕ
  gramm: N,m
  paradigm: N2
@@ -6843,7 +6948,7 @@
  stem: byaḏa.
  root: byḏ
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Verzinnung, Handwerk des Verzinners
  trans_en: tinning, work of a tinsmith
 -lexeme
@@ -6851,9 +6956,9 @@
  stem: bzad.
  root: bzd
  gramm: N,f
- paradigm: N1
- trans_de: Ziege, die auch im
- trans_en: 
+ paradigm: unchangeable
+ trans_de: Ziege, die auch im 2. oder 3. Jahr nicht geworfen hat (bzad tištire)
+ trans_en: goat which did not give birth in her second or third year (bzad tištire)
 -lexeme
  lex: čaʕčoʕin
  stem: čaʕčoʕin.
@@ -10343,8 +10448,8 @@
  root: fndm
  gramm: <?>
  paradigm: unchangeable
- trans_de:
- trans_en:
+ trans_de: bitte schön! (buyurun efendim)
+ trans_en: please! (buyurun efendim)
 -lexeme
  lex: efəsqufo/efisqufo
  stem: efəsqufo.//efisqufo.|efəsqufe.//efisqufe.
@@ -18974,6 +19079,14 @@
  paradigm: <?>
  trans_de: Ausruhen, Ruhepause
  trans_en: rest, resting pause
+-lexeme
+ lex: istisna
+ stem: istisna.//əstisna.
+ root: ṯny
+ gramm: N
+ paradigm: unchangeable
+ trans_de: ohne Ausnahme (bila əstisna)
+ trasn_en: without exception (bila əstisna)
 -lexeme
  lex: Išwač
  stem: Išwač.
@@ -40196,6 +40309,14 @@
  trans_de: Ratgeber
  trans_en: advisor
 -lexeme
+ lex: šire
+ stem: šire.
+ root: šr
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Verkauf und Kauf (bayʕ w šire)
+ trans_en: buying and selling (bayʕ w šire)
+-lexeme
  lex: širəz
  stem: širəz.|širəzat.
  root: šrz
@@ -42571,6 +42692,14 @@
  paradigm: unchangeable
  trans_de: Spielzeug, Vergnügen
  trans_en: toys, pleasure
+-lexeme
+ lex: tištire
+ stem: tištire.
+ root: tštr
+ gramm: N,f
+ paradigm: <?>
+ trans_de: Ziege, die auch im 2. oder 3. Jahr nicht geworfen hat (bzad tištire)
+ trans_en: goat which did not give birth in her second or third year (bzad tištire)
 -lexeme
  lex: tfaḏ̣ḏ̣al
  stem: tfaḏ̣ḏ̣al.
