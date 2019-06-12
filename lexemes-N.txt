@@ -7006,7 +7006,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: bestimmte Zeit, die Zeit für…
- trans_en: specified (?) time, time for...
+ trans_en: specified time, time for...
 -lexeme
  lex: čak
  stem: čak.|čakat.
@@ -7028,7 +7028,7 @@
  stem: čaketa.|čaketat.
  root: čkt
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Wollweste
  trans_en: wool vest
 -lexeme
@@ -7073,7 +7073,7 @@
  trans_en: sound of a trap snapping shut
 -lexeme
  lex: čal/čalo
- stem: čal./čalo.
+ stem: čal.//čalo.
  root: čl
  gramm: N,m
  paradigm: <?>
@@ -7126,15 +7126,15 @@
  gramm: N,f
  paradigm: N2
  trans_de: Mappe, Handtasche
- trans_en: 
+ trans_en: bag, handbag
 -lexeme
  lex: čalṭka
- stem: čalṭka.
+ stem: čalṭka.|čalṭkat.
  root: člṭk
- gramm: N,f
- paradigm: N1
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: kleine Handtasche
- trans_en: 
+ trans_en: small handbag
 -lexeme
  lex: čam
  stem: čam.
@@ -7142,13 +7142,13 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Fichte
- trans_en: fir (?)
+ trans_en: spruce
 -lexeme
  lex: čam
  stem: čam.
  root: čm
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Bach
  trans_en: stream
 -lexeme
@@ -7163,10 +7163,10 @@
  lex: čamək
  stem: čamək.
  root: čmk
- gramm: N,m
- paradigm: N1
+ gramm: N,m,dim
+ paradigm: <?>
  trans_de: Bächlein, kleiner Bach
- trans_en: 
+ trans_en: small stream
 -lexeme
  lex: čamme
  stem: čamme.|čammat.
@@ -7179,7 +7179,7 @@
  lex: čamməke/čamke
  stem: čamke.//čamməke.|čamkat.
  root: čmk
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: Stock, Schlagholz beim Spiel
  trans_en: stick, club for a game
@@ -7207,6 +7207,14 @@
  paradigm: N2
  trans_de: Mappe; Handtasche
  trans_en: bag
+-lexeme
+ lex: čap
+ stem: čap.
+ root: čp
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: links
+ trans_en: left
 -lexeme
  lex: čapal
  stem: čapal.
@@ -7236,7 +7244,7 @@
  stem: čapan.
  root: čpn
  gramm: N,m
- paradigm: N1
+ paradigm: unchangeable
  trans_de: amerikanisches Leinen
  trans_en: American canvas (?)
 -lexeme
@@ -7244,7 +7252,7 @@
  stem: čapke.|čapkat.
  root: čpk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Klatschen mit der Hand
  trans_en: handclap, handslap
 -lexeme
@@ -7260,7 +7268,7 @@
  stem: čappe.//čape.
  root: čp
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Linke
  trans_en: left hand; left
 -lexeme
@@ -7270,15 +7278,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: Linker
- trans_en:
+ trans_en: <?>
 -lexeme
  lex: čappiye
  stem: čappiye.
  root: čp
  gramm: ADJ
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Linke, linker Fuß
- trans_en: left
+ trans_en: left hand, left foot
 -lexeme
  lex: čaq
  stem: čaq.//čaqe.|čaqat.
@@ -7300,7 +7308,7 @@
  stem: čaqačor.
  root: čqčr
  gramm: N
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Gedränge, Durcheinander
  trans_en: mess, crowd
 -lexeme
@@ -7318,7 +7326,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Pippau (Pflanze) Crepis spec. oder Wirzelferkelkraut, Hypochoeris radicata; aus dem etwa 3 1/2 cm dicken Stengel der Hirsestaude wird ein längeres Stück geschnitten und dann so gespalten, dass ein Handbreit ungespalten bleibt. Das gibt eine Art Pritsche oder Klapper für die Kinder; (fig.) zappelig, überlebfhaft
- trans_en: hawksbeard, Crepis spec. or cat's-ear, Hypochoeris radicata; a long piece is cut out of approximately 3.5 cm long <Hirsestaude> stem and then <split> in such a way that a hand's width remains. This is a type of <rattle> for kids; fig. <?>
+ trans_en: hawksbeard, Crepis spec. or cat's-ear, Hypochoeris radicata; a long piece is cut out of approximately 3.5 cm long <Hirsestaude> stem and then <split> in such a way that a hand's width remains. This is a type of <rattle> for kids; fig. restless, fidgety
 -lexeme
  lex: čaqəlmaste
  stem: čaqəlmaste.
@@ -7344,6 +7352,14 @@
  trans_de: Kies
  trans_en: gravel
 -lexeme
+ lex: čar
+ stem: čar.
+ root: čr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vier
+ trans_en: four
+-lexeme
  lex: čara
  stem: čara.|čarat.
  root: čr
@@ -7366,7 +7382,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Rahmen
- trans_en: <frame>
+ trans_en: frame (?)
 -lexeme
  lex: čarčək
  stem: čarčək.
@@ -7383,6 +7399,14 @@
  paradigm: N2
  trans_de: Markt
  trans_en: market
+-lexeme
+ lex: čardah
+ stem: čardah.
+ root: čr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vierzehn; vierzehn-jährig (čardah sali)
+ trans_en: fourteen; of fourteen years old (čardah sali)
 -lexeme
  lex: čarik
  stem: čarik.
@@ -7422,7 +7446,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schleifer
- trans_en: <grinder>
+ trans_en: grinder
 -lexeme
  lex: čarpallək
  stem: čarpallək.
@@ -7592,6 +7616,14 @@
  trans_de: Wohltat
  trans_en: good deed
 -lexeme
+ lex: čə
+ stem: čə.
+ root: č
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: was für ein
+ trans_en: what
+-lexeme
  lex: čəčəlaṣko
  stem: čəčəlaṣko.|čəčəlaṣkat.
  root: člṣk
@@ -7633,7 +7665,7 @@
  trans_en: concave side of a knuckle used for games, both of the narrow and broad part of a knuckle; vertical
 -lexeme
  lex: čikənto
- stem: čikənto./čikənyoṯe.//čikənyoṯo.
+ stem: čikənto.//čəkito.//čkito.|čikənyoṯe.//čikənyoṯo.
  root: čk
  gramm: N,f
  paradigm: N2
@@ -7699,7 +7731,7 @@
  lex: čəlləke/čəlke
  stem: čəlləke.//čəlke.|čəlləkat.//čəlkat.
  root: čl
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: 3 ʕulbo, 65 kg
  trans_en: 3 ʕulbo, 65 kg
@@ -7710,7 +7742,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Verschlussstange aus dickem Holz
- trans_en: <?>
+ trans_en: locking rod made of thick wood
 -lexeme
  lex: čəm
  stem: čəm.
@@ -7740,7 +7772,7 @@
  stem: čəmənto.//čmənto.
  root: čmnt
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Zement
  trans_en: concrete
 -lexeme
@@ -7758,7 +7790,7 @@
  gramm: N
  paradigm: <?>
  trans_de: Geräusch des schleifenden Schwertes
- trans_en: sound of <?> sword
+ trans_en: sound of a grinding sword
 -lexeme
  lex: čənnar
  stem: čənnar.
@@ -7830,7 +7862,7 @@
  gramm: ADJ
  paradigm: N2
  trans_de: sehr geizig; schön redend, aber gelogen
- trans_en: very stingy; <?>; small, pitiful, scant, lean, barren
+ trans_en: very stingy; talking nicely, but having lied (?)
 -lexeme
  lex: čərre
  stem: čərre.
@@ -7844,7 +7876,7 @@
  stem: čərre.
  root: črr
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: erste Milch, die beim Melken aus dem Euter fließt und besonders weiß ist
  trans_en: first milk, which pours down from an udder and is especially white
 -lexeme
@@ -7880,6 +7912,14 @@
  trans_de: Kücklein, das eben ausgeschlüpft ist
  trans_en: chicken which has just hatched
 -lexeme
+ lex: čika
+ stem: čika.
+ root: čk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Stück der Sintflut (čika ṭofane)
+ trans_en: <?> (čika ṭofane)
+-lexeme
  lex: čike
  stem: čike.|čikat.
  root: čk
@@ -7901,8 +7941,8 @@
  root: čkčk
  gramm: N
  paradigm: <?>
- trans_de:
- trans_en:
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: čin
  stem: čin.
@@ -7920,11 +7960,19 @@
  trans_de: Chinese, chinesisch
  trans_en: Chinese, a Chinese
 -lexeme
+ lex: čiqen
+ stem: čiqen.
+ root: čqn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: heftige Hitze (čiqen du ḥemo)
+ trans_en: searing heat (čiqen du ḥemo)
+-lexeme
  lex: čirren
  stem: čirren.
  root: črn
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: kreischendes Geräusch beim Drücken und Schieben
  trans_en: screeching sound produced by pressing and moving (something)
 -lexeme
@@ -8000,6 +8048,14 @@
  trans_de: Stock mit rundem Griff
  trans_en: stick with a round handle
 -lexeme
+ lex: čuke
+ stem: čuke.
+ root: čk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: kleiner Vogel, der sich nicht greifen lässt, zwischen den Beinen der Tiere herumläuft und nicht zu fassen ist (Parus ater?) (čuke šayṭanok)
+ trans_en: small bird which does not get caught easily and flies around the legs of animals (Parus ater?) (čuke šayṭanok)
+-lexeme
  lex: čuko
  stem: čuko.|čuke.
  root: čk
@@ -8017,9 +8073,9 @@
  trans_en: because
 -lexeme
  lex: čuqlike
- stem: čuklike.|čuklikat.
+ stem: čuqlike.|čuqlikat.
  root: čql
- gramm: N,f
+ gramm: N,f,dim
  paradigm: N2
  trans_de: Zweig
  trans_en: branch
@@ -8094,7 +8150,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Hochzeit
- trans_en: 
+ trans_en: wedding
 -lexeme
  lex: daʕwiṯo/dəʕwiṯo/duʕwiṯo/dəwiṯo
  stem: daʕwiṯo.//dəʕwiṯo.//duʕwiṯo.//dəwiṯo.|daʕwoṯe.//dəʕwoṯe.//dəʕwitoṯe.//daʕwoṯo.//dəʕwoṯo.//dəʕwitoṯo.//duʕwoṯe.//duʕwoṯo.
@@ -8121,10 +8177,10 @@
  trans_en: invited guest
 -lexeme
  lex: dabara
- stem: dabara.//dabarat.
+ stem: dabara.//dabariye.//dabarat.
  root: dbr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: fertig werden mit
  trans_en: dealing with someone; management, administration, board, regime
 -lexeme
@@ -8144,8 +8200,8 @@
  trans_de: Biene
  trans_en: bee
 -lexeme
- lex: dabbus/dalbuz
- stem: dabbus.//dalbuz.
+ lex: dabbus/dalbuz/dabbuz
+ stem: dabbus.//dalbuz.//dabbuz.
  root: dbs/dlbz
  gramm: N,m
  paradigm: <?>
@@ -8177,7 +8233,7 @@
  trans_en: address to mother-in-law; also for uncle's wife (aunt) and for elderly women
 -lexeme
  lex: dado
- stem: dado.//dadoṯo.
+ stem: dado.//dadoṯo.//dadoṯe.
  root: dd
  gramm: N,f
  paradigm: N2
@@ -8214,7 +8270,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Stoß mit Hörnern
- trans_en: poking at with horns
+ trans_en: poking at smth./smb. with horns
 -lexeme
  lex: daftar
  stem: daftar.|dəfetər.//dafetir.//daftare.
@@ -8225,18 +8281,18 @@
  trans_en: notebook; pl. documents
 -lexeme
  lex: dafṯo
- stem: dafṯo.|dafoṯo.//dafe.
+ stem: dafṯo.|dafoṯo.//dafe.//dafoṯe.
  root: dfṯ
  gramm: N,f
  paradigm: N2
- trans_de: dafe Brett
- trans_en: 
+ trans_de: Brett
+ trans_en: board, plank
 -lexeme
  lex: dagal
  stem: dagal.
  root: dgl
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: freie, furchtlose Rede, auch vor dem Richter
  trans_en: free, fearless speech, also before a judge
 -lexeme
@@ -8262,7 +8318,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Gericht aus Kichererbsen, die durch Hitze vorbereitet werden
- trans_en: dish from chickpea which is prepared with the help of the heat (?)
+ trans_en: dish from chickpea which gets cooked by heat
 -lexeme
  lex: dah
  stem: dah.
@@ -8328,14 +8384,6 @@
  trans_de: Zehnter, Steuer
  trans_en: tithe, tax
 -lexeme
- lex: daḥfe
- stem: daḥfe.
- root: dḥf
- gramm: N,f
- paradigm: N1
- trans_de: Stoß, Tritt
- trans_en: 
--lexeme
  lex: Daḥḥo
  stem: Daḥḥo.
  root: dḥḥ
@@ -8365,8 +8413,8 @@
  root: dḥn
  gramm: N,m
  paradigm: N2
- trans_de: Hirse, Negerhirse
- trans_en: millet, African millet
+ trans_de: Hirse, Negerhirse; Mais (daḥno sṭambuli)
+ trans_en: millet, African millet; maize (daḥno sṭambuli)
 -lexeme
  lex: daḥšəke/daḥške
  stem: daḥšəke.//daḥške.|daḥšəkat.//daḥškat.
@@ -8399,6 +8447,14 @@
  paradigm: unchangeable
  trans_de: schön; arm, bedauernswert
  trans_en: beautiful, poor, miserable
+-lexeme
+ lex: dalale
+ stem: dalale.
+ root: dll
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: sich zierend
+ trans_en: making a fuss (?)
 -lexeme
  lex: dalav
  stem: dalav.
@@ -8436,7 +8492,7 @@
  stem: dalġa.|dalġat.
  root: dlġ
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Radiowelle
  trans_en: radiowave
 -lexeme
@@ -8484,9 +8540,9 @@
  stem: dalq.
  root: dlq
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Zauberhaut, mit der sich etwa Menschen in Tiere verwandeln können
- trans_en: <?>
+ trans_en: enchanted skin with which a person can turn himself in animals
 -lexeme
  lex: dalqo
  stem: dalqo.|dalqe.
@@ -8494,7 +8550,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zauberhaut, mit der sich etwa Menschen in Tiere verwandeln können
- trans_en: 
+ trans_en: enchanted skin with which a person can turn himself in animals
 -lexeme
  lex: dalular
  stem: dalular.
@@ -8549,8 +8605,8 @@
  root: dmnč/dmnčy
  gramm: N,f
  paradigm: N2
- trans_de: Pistole
- trans_en: pistol
+ trans_de: Pistole; Spielpistole (damanča darwin)
+ trans_en: pistol; toy-pistol (damanča darwin)
 -lexeme
  lex: damar
  stem: damar.|damare.
@@ -8580,9 +8636,17 @@
  stem: damir.
  root: dmr
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Gewissen
  trans_en: conscience
+-lexeme
+ lex: damixo
+ stem: damixo.|damixe.
+ root: dmx
+ gramm: ADJ
+ paradigm: N2
+ trans_de: schlafend; waagrecht
+ trans_en: sleeping; horizontal
 -lexeme
  lex: damṯo
  stem: damṯo.|damoṯe.
@@ -8974,6 +9038,14 @@
  paradigm: N2
  trans_de: Derwisch
  trans_en: dervish
+-lexeme
+ lex: darwin
+ stem: darwin.
+ root: drw
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: Spielpistole (damanča darwin)
+ trans_en: toy-pistol (damanča darwin)
 -lexeme
  lex: darze
  stem: darze.|darzat.
@@ -10253,7 +10325,7 @@
  trans_en: sacrifice
 -lexeme 
  lex: ḏalil
- stem: ḏalil.//ḏalilin.
+ stem: ḏalil.//dalil.//ḏalilin.
  root: ḏll
  gramm: ADJ
  paradigm: N2
@@ -10284,8 +10356,8 @@
  trans_de: elender, niedriger Zustand
  trans_en: miserable condition
 -lexeme
- lex: ḏ̣aʕif/ḏaʕif/zaʕif
- stem: ḏ̣aʕif.//ḏaʕif.//zaʕif.
+ lex: ḏ̣aʕif/ḏaʕif/zaʕif/daʕif
+ stem: ḏ̣aʕif.//ḏaʕif.//zaʕif.//daʕif.//ḍaʕif.
  root: ḏʕf/ḏ̣ʕf/zʕf
  gramm: ADJ
  paradigm: unchangeable
@@ -17686,8 +17758,8 @@
  root: ḥmy
  gramm: N,m
  paradigm: N2
- trans_de: Hitze
- trans_en: heat
+ trans_de: Hitze; heftige Hitze (čiqen du ḥemo)
+ trans_en: heat; searing heat (čiqen du ḥemo)
 -lexeme
  lex: ḥemo
  stem: ḥemo.
@@ -37470,6 +37542,14 @@
  trans_de: Bahnhof
  trans_en: railway station
 -lexeme
+ lex: sṭambuli
+ stem: sṭambuli.
+ root: sṭmbl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Mais (daḥno sṭambuli)
+ trans_en: maize (daḥno sṭambuli)
+-lexeme
  lex: ste/sti/stine 
  stem: ste.//sti.//stine  
  root: st
@@ -39811,8 +39891,8 @@
  root: šyṭnk
  gramm: N,m
  paradigm: <?>
- trans_de: Schnecke
- trans_en: snail
+ trans_de: Schnecke; kleiner Vogel, der sich nicht greifen lässt, zwischen den Beinen der Tiere herumläuft und nicht zu fassen ist (Parus ater?) (čuke šayṭanok)
+ trans_en: snail; small bird which does not get caught easily and flies around the legs of animals (Parus ater?) (čuke šayṭanok)
 -lexeme
  lex: šeḥono
  stem: šeḥono.
@@ -44180,6 +44260,14 @@
  paradigm: N2
  trans_de: Floß
  trans_en: float
+-lexeme
+ lex: ṭofane
+ stem: ṭofane.
+ root: ṭfn
+ gramm: N
+ paradigm: <?>
+ trans_de: Stück der Sintflut (čika ṭofane)
+ trans_en: <?> (čika ṭofane)
 -lexeme
  lex: ṭoləke
  stem: ṭoləke.|ṭoləkat.
