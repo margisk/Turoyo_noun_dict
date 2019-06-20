@@ -6693,8 +6693,8 @@
  root: br
  gramm: N,m
  paradigm: <?>
- trans_de: Bruder
- trans_en: brother; Anteil und Bruder (baḥr w bra)
+ trans_de: Bruder; Anteil und Bruder (baḥr w bra); verbrüdert (dast w bra)
+ trans_en: brother; <?> (baḥr w bra); fraternized (?) (dast w bra) 
 -lexeme
  lex: bratiye
  stem: bratiye.
@@ -8649,7 +8649,7 @@
  trans_en: sleeping; horizontal
 -lexeme
  lex: damṯo
- stem: damṯo.|damoṯe.
+ stem: damṯo.|damoṯe.//damoṯo.
  root: dmṯ
  gramm: N,f
  paradigm: N2
@@ -8724,7 +8724,7 @@
  stem: danoke.|danokat.
  root: dnk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: gekochter dabei geqollener Weizen
  trans_en: cooked wheat whose size has increased (as the result of cooking)
 -lexeme
@@ -8781,8 +8781,8 @@
  root: dqn
  gramm: N,f
  paradigm: N2
- trans_de: Bart
- trans_en: beard
+ trans_de: Bart; Ziegenbocksbart, Cistus, Hypocistus (für den Salat gebraucht) (daqne d tayse)
+ trans_en: beard; <?>, cistus, hypocistus (used for salad) (daqne d tayse)
 -lexeme
  lex: daqnono
  stem: daqnono.|daqnone.
@@ -8820,7 +8820,7 @@
  stem: dar.
  root: dr
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: (Leibes)-Umfang
  trans_en: type of bodyshape
 -lexeme
@@ -8836,7 +8836,7 @@
  stem: daraġ.
  root: drġ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Steinhacke mit Zähnen an der einen Seite, zum Zurechtschlagen eines Steines
  trans_en: pick with spikes on one side, to trim stones
 -lexeme
@@ -8851,10 +8851,10 @@
  lex: daramke
  stem: daramke.
  root: drm
- gramm: N,f
- paradigm: N1
- trans_de: kleines Gewicht; lu-
- trans_en: 
+ gramm: N,f,dim
+ paradigm: unchangeable
+ trans_de: sehr kleines Gewicht
+ trans_en: very small weight
 -lexeme
  lex: darang
  stem: darang.
@@ -8865,10 +8865,10 @@
  trans_en: late
 -lexeme
  lex: darbo/ḏ̣arbo
- stem: darbo.//ḏ̣arbo.|darbat.//ḏ̣arbat.
+ stem: darbo.//ḏ̣arbo.//ḍarbo.|darbat.//ḏ̣arbat.//ḍarbat.
  root: ḍrb
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Schlag, Streich
  trans_en: hit, strike
 -lexeme
@@ -8926,7 +8926,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Torverschluß aus Zweigen und Ruten
- trans_en: 
+ trans_en: door lock from branches and sticks
 -lexeme
  lex: dargəšto
  stem: dargəšto.//dargušto.|dargəšyoṯe.//dargəšyoṯo.
@@ -8942,6 +8942,7 @@
  gramm: N,pl
  paradigm: <?>
  trans_de: Absätze, Treppen beim Haareschneiden
+ trans_en: <?>
 -lexeme
  lex: darġo
  stem: darġo.|darġe.
@@ -8960,20 +8961,12 @@
  trans_en: immediately
 -lexeme
  lex: darizan
- stem: darizan.
+ stem: darizan.//darizane.
  root: drzn
  gramm: N,m
  paradigm: <?>
  trans_de: Empfangshalle, Inneres des Hauses
  trans_en: hall, inner parts of a house
--lexeme
- lex: darizane
- stem: darizane.
- root: drzn
- gramm: N,f
- paradigm: N1
- trans_de: S
- trans_en: 
 -lexeme
  lex: darko
  stem: darko.|darke.
@@ -8998,6 +8991,14 @@
  paradigm: N2
  trans_de: Mastvieh
  trans_en: mast-fed cattle
+-lexeme
+ lex: darmane
+ stem: darmane.
+ root: drmn
+ gramm: N
+ paradigm: <?>
+ trans_de: schwarzer Pfeffer (darmane garm)
+ trans_en: black pepper (darmane garm)
 -lexeme
  lex: darmono
  stem: darmono.|darmone.
@@ -9051,7 +9052,7 @@
  stem: darze.|darzat.
  root: drz
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Naht
  trans_en: seam
 -lexeme
@@ -9081,7 +9082,7 @@
 -lexeme
  lex: dastəke/dastke
  stem: dastəke.//dastke.|dastəkat.//dastkat.
- root: dst()k
+ root: dstk
  gramm: N,f
  paradigm: N2
  trans_de: Griff der Handtasche; Griff der Handmühle
@@ -9092,8 +9093,8 @@
  root: dstǧġ
  gramm: N,m
  paradigm: <?>
- trans_de:
- trans_en: 
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: dastkaš
  stem: dastkaš
@@ -9109,10 +9110,11 @@
  gramm: N,f
  paradigm: N2
  trans_de: mit den Händen im Streit fuchteln, bei Katern mit den Pfoten
- trans_en: 
+ trans_en: flail arms or paws (for cats) in an argument, fight
 -lexeme
  lex: dastnimež
  stem: dastnimež.
+ root: dstnmž
  gramm: N,m
  paradigm: <?>
  trans_de: Gebetswaschung
@@ -9134,6 +9136,30 @@
  paradigm: N2
  trans_de: Erlaubnis
  trans_en: permission
+-lexeme
+ lex: dast
+ stem: dast.
+ root: dst
+ gramm: N
+ paradigm: unchangeable
+ trans_de: verbrüdert (dast w bra)
+ trans_en: fraternized (?) (dast w bra)
+-lexeme
+ lex: dastbəra
+ stem: dastbəra.
+ root: dstbr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: verbrüdert
+ trans_en: fraternized (?)
+-lexeme
+ lex: dasturdan/daṣṭərdan
+ stem: dasturdan.//daṣṭərdan.
+ root: dṣṭr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Erlaubnis (geben)
+ trans_en: (give) a permission
 -lexeme
  lex: daṣi
  stem: daṣi.
@@ -9158,6 +9184,14 @@
  paradigm: <?>
  trans_de: Ebene
  trans_en: plain
+-lexeme
+ lex: dav
+ stem: dav.
+ root: dv
+ gramm: <?>
+ paradigm: <?>
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: davdavko
  stem: davdavko.
@@ -9247,6 +9281,14 @@
  trans_de: Glück
  trans_en: happiness
 -lexeme
+ lex: dawlat
+ stem: dawlat.
+ root: dwl
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Staatschef (dawlat reyisi)
+ trans_en: head of state (dawlat reyisi)
+-lexeme
  lex: dawlatli
  stem: dawlatli.
  root: dwl
@@ -9259,7 +9301,7 @@
  stem: dawləko.|dawləke.
  root: dwlk
  gramm: N,m,dim
- paradigm: N1
+ paradigm: N2
  trans_de: kleiner Ledereimer
  trans_en: small leather bucket
 -lexeme
@@ -9315,7 +9357,7 @@
  stem: dawriye.|dawriyat.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kontrollgang
  trans_en: inspection round
 -lexeme
@@ -9338,7 +9380,7 @@
  lex: dawsgarren
  stem: dawsgarren.
  root: dws
- gramm: N,m
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: Fußspuren erkennnend, aufspürend
  trans_en: one who recognizes footprints, tracking down
@@ -9367,6 +9409,14 @@
  trans_de: honigfarben, braun
  trans_en: honey-coloured, brown
 -lexeme
+ lex: dawu
+ stem: dawu.
+ root: dw
+ gramm: N
+ paradigm: <?>
+ trans_de: Gewandsaum
+ trans_en: <?>
+-lexeme
  lex: daxil
  stem: daxil.
  root: dxl
@@ -9379,7 +9429,7 @@
  stem: daxl.
  root: dxl
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Getreide
  trans_en: corn
 -lexeme
@@ -9389,7 +9439,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Penis vom 18. bis zum 40. Jahre
- trans_en: penis
+ trans_en: penis from 18 to 40 years old
 -lexeme
  lex: daydiye
  stem: daydiye.|daydiyat.
@@ -9403,7 +9453,7 @@
  stem: dayine.|dayinat.
  root: dyn
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Amme
  trans_en: wet nurse
 -lexeme
@@ -9455,6 +9505,14 @@
  trans_de: Mönch
  trans_en: monk
 -lexeme
+ lex: dayrayto
+ stem: dayrayto.//darrayto.|dayrayoṯo.//dayrayoṯe.
+ root: dyr
+ gramm: N,f
+ paradigm: N2
+ trans_de: Nonne
+ trans_en: nun
+-lexeme
  lex: dayroyuṯo
  stem: dayroyuṯo.
  root: dwr
@@ -9467,7 +9525,7 @@
  stem: daywəz.//dayuz.//dayyuz.
  root: dywz
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Hahnrei
  trans_en: capon
 -lexeme
@@ -9488,12 +9546,12 @@
  trans_en: crazy, insane, mad
 -lexeme
  lex: dazkara
- stem: dazkara.
+ stem: dazkara.//daskara.
  root: ḏkr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: amtliches Schreiben
- trans_en: 
+ trans_en: official letter
 -lexeme
  lex: dazga
  stem: dazga.|dazgat.
@@ -9548,7 +9606,15 @@
  root: dr
  gramm: ADJ
  paradigm: unchangeable
- trans_de: 
+ trans_de: nächster
+ trans_en: next
+-lexeme
+ lex: dertər/dertə
+ stem: dertər.//dertə.
+ root: dr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: nächster
  trans_en: next
 -lexeme
  lex: deve
@@ -9564,8 +9630,8 @@
  root: dw
  gramm: N,m
  paradigm: N2
- trans_de: Wolf
- trans_en: wolf
+ trans_de: Wolf; der schwarze Wolf (dewe raš); der rote Dämon (als richtiger Wolf aufgefasst) (dewe ṣor)
+ trans_en: wolf; black wolf (dewe raš); red demon (understood as a wolf) (dewe ṣor)
 -lexeme
  lex: dexono
  stem: dexono.//dəxono.//duxono.|dexone.//dəxone.//duxone.
@@ -9627,7 +9693,7 @@
  stem: dəfra.
  root: dfr
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Eitelkeit, sich herausputzen, modisch kleiden
  trans_en: showing off, dressing oneself, dressing fashionably
 -lexeme
@@ -9663,6 +9729,14 @@
  trans_de: Glasscherbe
  trans_en: shard of glass
 -lexeme
+ lex: dənḥe
+ stem: dənḥe.
+ root: dnḥ
+ gramm: N,pl
+ paradigm: unchangeable
+ trans_de: Fest der Taufe Christi (Epiphanias)
+ trans_en: the feast of Baptism of Christ (Epiphany)
+-lexeme
  lex: dəkke
  stem: dəkke.|dəkkat.
  root: dkk
@@ -9672,12 +9746,12 @@
  trans_en: stonework
 -lexeme
  lex: dəkomo
- stem: dəkomo.|dəkome.
+ stem: dəkomo.//dokumo.|dəkome.//dokume.
  root: dkm
  gramm: N,m
  paradigm: N2
  trans_de: Faust
- trans_en: 
+ trans_en: fist
 -lexeme
  lex: dəkronoyo/dukronoyo
  stem: dəkronoyo.//dukronoyo.|dukronoye.//dəkronoye.
@@ -9695,13 +9769,21 @@
  trans_de: Nachtragen, Übelnehmen
  trans_en: having a grievance
 -lexeme
+ lex: dəlme
+ stem: dəlme.
+ root: dlm
+ gramm: <?>
+ paradigm: <?>
+ trans_de: weichgekochtes Ei (bəḥto dəlme)
+ trans_en: soft boiled egg (bəḥto dəlme)
+-lexeme
  lex: dəmadəm/dəmdəm
  stem: dəmadəm.//dəmdəm.
  root: dmdm
  gramm: N
  paradigm: <?>
  trans_de: Geräusch der Trommeln usw.; Geräusch des Aufschlagens auf Unterlage; Geräusch des brennenden Feuers; Murmeln des Gebetes
- trans_en: sound of drums and so on; sound of striking on <...>; sound of burning fire; murmuring of a prayer
+ trans_en: sound of drums and so on; sound of striking on a pad (?); sound of burning fire; murmuring of a prayer
 -lexeme
  lex: dəngadəng
  stem: dəngadəng.
@@ -12580,6 +12662,14 @@
  paradigm: N2
  trans_de: Band, das man um den Hals kleiner Kälber, Hunde und Katzen tut; scherzhaft: Krawatte
  trans_en: strap which one puts on the neck of small calves, dogs and cats; jokingly: tie
+-lexeme
+ lex: garm
+ stem: garm.
+ root: grm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: schwarzer Pfeffer (darmane garm)
+ trans_en: black pepper (darmane garm)
 -lexeme
  lex: garmiyan
  stem: garmiyan.|garmiyanat.
@@ -34524,8 +34614,8 @@
  root: rš
  gramm: ADJ
  paradigm: unchangeable
- trans_de: schwarz
- trans_en: black
+ trans_de: schwarz; der schwarze Wolf (dewe raš)
+ trans_en: black; black wolf (dewe raš)
 -lexeme
  lex: rašiye
  stem: rašiye.|rašiyat.
@@ -34773,6 +34863,14 @@
  paradigm: N2
  trans_de: Pfad, der fast nicht zu sehen ist
  trans_en: path that is almost invisible
+-lexeme
+ lex: reyisi
+ stem: reyisi.
+ root: rys
+ gramm: N,m
+ paradigm: <?>
+ trans_de: Staatschef (dawlat reyisi)
+ trans_en: head of state (dawlat reyisi)
 -lexeme
  lex: rez
  stem: rez.|rezat.
@@ -38557,6 +38655,14 @@
  paradigm: <?>
  trans_de: roter Stein, aus dem man Tinte macht und damit Tiere und Kinder bestreicht gegen den bösen Blick
  trans_en: red stone, from which one makes ink and thus protects animals and children from evil eye
+-lexeme
+ lex: ṣor
+ stem: ṣor.
+ root: ṣr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: der rote Dämon (als richtiger Wolf aufgefasst) (dewe ṣor)
+ trans_en: red demon (understood as a wolf) (dewe ṣor)
 -lexeme
  lex: ṣoṭono
  stem: ṣoṭono.
@@ -42402,8 +42508,8 @@
  root: tys
  gramm: N,m
  paradigm: N2
- trans_de: Ziegenbock
- trans_en: he-goat
+ trans_de: Ziegenbock; Ziegenbocksbart, Cistus, Hypocistus (für den Salat gebraucht) (daqne d tayse)
+ trans_en: he-goat; <?>, cistus, hypocistus (used for salad) (daqne d tayse)
 -lexeme
  lex: tazdiqnama
  stem: tazdiqnama.
