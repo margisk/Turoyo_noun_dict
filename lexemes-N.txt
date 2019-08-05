@@ -6856,6 +6856,14 @@
  trans_de: kleines Steinchen
  trans_en: small stone
 -lexeme
+ lex: bumbum
+ stem: bumbum.
+ root: bmbm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch von Trommeln, von Leuten, die auf dem Dach gehen und es walzen (dərma dərma bumbum)
+ trans_en: sound of drums, of people who go to the roof and roll it (?) (dərma dərma bumbum)
+-lexeme
  lex: bumo
  stem: bumo.|bume.
  root: bm
@@ -9817,6 +9825,14 @@
  trans_de: Geknärwele, dauernd jammern, kritisieren
  trans_en: <?>, lament over something for a long time, to criticize
 -lexeme
+ lex: dərma
+ stem: dərma.
+ root: drm
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Geräusch von Trommeln, von Leuten, die auf dem Dach gehen und es walzen (dərma dərma bumbum)
+ trans_en: sound of drums, of people who go to the roof and roll it (?) (dərma dərma bumbum)
+-lexeme
  lex: dərraye
  stem: dərraye.|dərrayat.
  root: drr
@@ -9831,7 +9847,7 @@
  gramm: N
  paradigm: N2
  trans_de: Dorn(strauch)
- trans_en: thorn <?>
+ trans_en: thorn(shrub)
 -lexeme
  lex: dərto
  stem: dərto.//durto.|dərtoṯe.//dəroṯo.//dərtawoṯe.//doroṯe.//dərtoṯo.//dəroṯe.//dərtawoṯo.//durtoṯe.//durtoṯo.//durtawoṯe.//durtawoṯo.
@@ -9841,16 +9857,8 @@
  trans_de: Hof
  trans_en: yard
 -lexeme
- lex: dəsmal
- stem: dəsmal.
- root: dsml
- gramm: N,m
- paradigm: N1
- trans_de: Tuch, Kopftuch, Taschentuch
- trans_en: 
--lexeme
- lex: dəsmale
- stem: dəsmale.|dəsmalat.
+ lex: dəsmale/dəsmal
+ stem: dəsmale.//dəsmal.|dəsmalat.
  root: dsml
  gramm: N,f
  paradigm: N2
@@ -9884,7 +9892,7 @@
  lex: dəžwar
  stem: dəžwar.
  root: džwr
- gramm: N,m
+ gramm: ADJ
  paradigm: <?>
  trans_de: sehr stark (Getränk); starke Augen; bösartig (Schlange)
  trans_en: very strong (drink); strong eyes; angry (snake)
@@ -9896,6 +9904,14 @@
  paradigm: N2
  trans_de: Traubenhonig, Traubensirup
  trans_en: grape syrup
+-lexeme
+ lex: dik
+ stem: dik.
+ root: dk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Hahn und Henne, ein Knabenspiel (dik w mərišk)
+ trans_en: rooster and hen, childrens' game (dik w mərišk)
 -lexeme
  lex: diko
  stem: diko.|dike.
@@ -9925,7 +9941,7 @@
  stem: dinar.
  root: dnr
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Karo im Kartenspiel
  trans_en: diamonds
 -lexeme
@@ -9981,17 +9997,17 @@
  stem: diyar.
  root: dwr
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Land, Wohnstätte
- trans_en: 
+ trans_en: country, dwelling places
 -lexeme
  lex: dlela
  stem: dlela.
  root: dll
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Trödel (?)
- trans_en: rags
+ trans_en: rummage
 -lexeme
  lex: dmoxoṯe
  stem: dmoxoṯe.
@@ -10007,7 +10023,7 @@
  gramm: N
  paradigm: <?>
  trans_de: dicker Kerl
- trans_en: fat guy
+ trans_en: fat boy
 -lexeme
  lex: doġri/duġri
  stem: doġri.//duġri.
@@ -10029,6 +10045,7 @@
  stem: doġuzbaš.
  root: dġzbš
  gramm: N,m
+ paradigm: <?>
  trans_de: Geschwulst im Halse, an der ein Tier erstickt
  trans_en: swelling on a neck, from which an animal suffocates
 -lexeme
@@ -10036,6 +10053,7 @@
  stem: dolamand.
  root: dlmnd
  gramm: ADJ
+ paradigm: unchangeable
  trans_de: reich
  trans_en: rich
 -lexeme
@@ -10068,8 +10086,8 @@
  root: dndn
  gramm: N,m
  paradigm: unchangeable
- trans_de:
- trans_en:
+ trans_de: <?>
+ trans_en: <?>
 -lexeme
  lex: doquqto
  stem: doquqto.
@@ -10077,7 +10095,7 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Stößel
- trans_en: flat spot (?)
+ trans_en: pestle (?)
 -lexeme
  lex: doro
  stem: doro.|dore.
@@ -10131,7 +10149,7 @@
  stem: dotmam.
  root: dtm
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Base, Kusine
  trans_en: cousine
 -lexeme
@@ -10152,7 +10170,7 @@
  trans_en: purse, wallet
 -lexeme
  lex: dozdoġri
- stem: dozdoġri.
+ stem: dozdoġri.//duzdoġri.
  root: dzdġr
  gramm: ADV
  paradigm: unchangeable
@@ -10171,7 +10189,7 @@
  stem: druben.
  root: drbn
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Fernrohr
  trans_en: telescope
 -lexeme
@@ -10187,9 +10205,9 @@
  stem: dubḥo.
  root: ḏbḥ
  gramm: N,m
- paradigm: N1
+ paradigm: <?>
  trans_de: Schlachtopfer
- trans_en: 
+ trans_en: sacrifice
 -lexeme
  lex: dubla
  stem: dubla.|dublat.
@@ -10213,7 +10231,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Wespe
- trans_en: 
+ trans_en: wasp
 -lexeme
  lex: duduke
  stem: duduke.|dudukat.
@@ -10236,15 +10254,16 @@
  root: dġm
  gramm: N,f
  paradigm: unchangeable
- trans_de: heimlicher <?>
+ trans_de: heimlicher, unbemerkter Streich
+ trans_en: covert, unnoticed strike
 -lexeme
  lex: duġma/ṭuġma
  stem: duġma.//ṭuġma.
  root: dġm
- gramm: <?>
+ gramm: N,f
  paradigm: <?>
- trans_de: <?>
- trans_en: <?>
+ trans_de: Art gefährlicher, heimlicher Streich
+ trans_en: a type of covert, unnoticed strike
 -lexeme
  lex: duġriye/doġriye
  stem: duġriye.//doġriye.
@@ -10263,7 +10282,7 @@
  trans_en: oil, fat
 -lexeme
  lex: dukkano
- stem: dukkano.|dukkane.
+ stem: dukkano.//dukano.|dukkane.//dukane.
  root: dkk
  gramm: N,m
  paradigm: N2
@@ -10292,7 +10311,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Spinnrad, Haspel; Welle zum Heraufziehen von Wasser aus dem Brunnen
- trans_en: spinning wheel, reel; <?>
+ trans_en: spinning wheel, reel; <...> for pulling the water out of a well
 -lexeme
  lex: dulalat
  stem: dulalat.
@@ -10350,16 +10369,8 @@
  trans_de: Feind
  trans_en: enemy
 -lexeme
- lex: duv
- stem: duv.
- root: dv
- gramm: N,m
- paradigm: <?>
- trans_de: (Fett)Schwanz
- trans_en: tail, fat tail
--lexeme
  lex: duve
- stem: duve.|duvat.
+ stem: duve.//duv.|duvat.
  root: dv
  gramm: N,f
  paradigm: N2
@@ -10382,6 +10393,14 @@
  trans_de: Nationen
  trans_en: nations
 -lexeme
+ lex: dvərra
+ stem: dvərra.
+ root: dvr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: hier und dort (man redete von diesem und jenem) (dvərra w dwerra)
+ trans_en: here and there (when one talks about this and that) (dvərra w dwerra)
+-lexeme
  lex: duwayye/dwayye
  stem: duwayye.//dwayye.|duwayyat.//dwayyat.
  root: dwy
@@ -10397,6 +10416,14 @@
  paradigm: <?>
  trans_de: dünner Lederriemen
  trans_en: thin leather belt
+-lexeme
+ lex: dwerra
+ stem: dwerra.
+ root: dwr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: hier und dort (man redete von diesem und jenem)
+ trans_en: here and there (when one talks about this and that) (dvərra w dwerra)
 -lexeme
  lex: ḏabiḥa
  stem: ḏabiḥa.|ḏabayəḥ.
@@ -10513,6 +10540,7 @@
  lex: ḏ̣arar/ḏarar
  stem: ḏ̣arar.//ḏarar.
  root: ḏ̣rr/ḏrr
+ gramm: N,m
  paradigm: unchangeable
  trans_de: Schaden
  trans_en: damage
@@ -10526,7 +10554,7 @@
  trans_en: necessary
 -lexeme
  lex: ḏ̣iʕan/ḏiʕan
- stem: ḏ̣iʕan.//ḏiʕan.
+ stem: ḏ̣iʕan.//ḏiʕan.//diʕan.
  root: ḏ̣ʕn/ḏʕn
  gramm: <?>
  paradigm: unchangeable
@@ -10609,7 +10637,7 @@
  stem: efəsqufo.//efisqufo.|efəsqufe.//efisqufe.
  root: fsqf
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Bischof, war verheiratet, ist aber nicht mehr verheiratet
  trans_en: bishop, was married, but not married anymore
 -lexeme
@@ -10664,7 +10692,7 @@
  lex: ema
  stem: ema
  root: m
- gramm: <?>
+ gramm: PRN
  paradigm: unchangeable
  trans_de: wann?
  trans_en: when?
@@ -10742,7 +10770,7 @@
  trans_en: if, whether
 -lexeme
  lex: ənzəbaṭ
- stem: ənzəbaṭ.
+ stem: ənzəbaṭ.//ənzibaṭ.
  root: nzbṭ
  gramm: N,m
  paradigm: <?>
@@ -25907,6 +25935,14 @@
  paradigm: N1
  trans_de: Freundschaft, Verschwägerung
  trans_en: 
+-lexeme
+ lex: mərišk
+ stem: mərišk.
+ root: mršk
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Hahn und Hehne, ein Knabenspiel (dik w mərišk)
+ trans_en: rooster and hen, childrens' game (dik w mərišk)
 -lexeme
  lex: mərmərke
  stem: mərmərke.
