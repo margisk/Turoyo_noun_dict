@@ -4754,6 +4754,14 @@
  trans_de: Bar, Schankhaus
  trans_en: bar
 -lexeme
+ lex: bar
+ stem: bar.
+ root: br
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Erbarmen (ǧar bar)
+ trans_en: have mercy! (ǧar bar)
+-lexeme
  lex: barr
  stem: barr.//bar.|barrat.
  root: br
@@ -14444,7 +14452,7 @@
  stem: ǧabriye.
  root: ǧbr
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Gewalt
  trans_en: force, power
 -lexeme
@@ -14476,7 +14484,7 @@
  stem: ǧaǧəq.
  root: ǧǧq
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: im Beutel abgetropfter Ayran
  trans_en: ayran which dripped into a sack
 -lexeme
@@ -14532,7 +14540,7 @@
  stem: ǧallad.//ǧallat.
  root: ǧld
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Scharfrichter
  trans_en: executioner
 -lexeme
@@ -14556,7 +14564,7 @@
  stem: ǧaloṭo.|ǧaloṭe.
  root: ǧlṭ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Schinder
  trans_en: slaughterer
 -lexeme
@@ -14617,7 +14625,7 @@
  trans_en: gallantry, generosity
 -lexeme
  lex: ǧaməʕ/ǧeməʕ
- stem: ǧaməʕ.//ǧeməʕ.//ǧuweməʕ.//ǧeməʕat.
+ stem: ǧaməʕ.//ǧeməʕ.|ǧuweməʕ.//ǧeməʕat.//ǧəweməʕ.
  root: ǧmʕ
  gramm: N,m
  paradigm: N2
@@ -14628,14 +14636,14 @@
  stem: ǧamhuri.
  root: ǧmhr
  gramm: ADJ
- paradigm: unchangeable
+ paradigm: N2
  trans_de: republikanisch
  trans_en: republican
 -lexeme
  lex: ǧamiʕ
  stem: ǧamiʕ.|ǧamiʕ.
  root: ǧmʕ
- gramm: <?>
+ gramm: ADJ
  paradigm: N2
  trans_de: alle
  trans_en: all
@@ -14676,7 +14684,7 @@
  stem: ǧan.
  root: ǧn
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Seele, Leben
  trans_en: soul, life
 -lexeme
@@ -14686,7 +14694,7 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Geist
- trans_en: guest
+ trans_en: ghost
 -lexeme
  lex: ǧanaza/ǧənaze
  stem: ǧanaza.//ǧənaze.|ǧanazat.//ǧənazat.
@@ -14734,13 +14742,21 @@
  gramm: N,f
  paradigm: N2
  trans_de: Augenschmalz
- trans_en: 
+ trans_en: eye goo
+-lexeme
+ lex: ǧar
+ stem: ǧar.
+ root: ǧr
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Erbarmen (ǧar bar)
+ trans_en: have mercy! (ǧar bar)
 -lexeme
  lex: ǧarabun/ǧarabune
  stem: ǧarabun.//ǧarabune.
  root: ǧrb
  gramm: N
- paradigm: <?>
+ paradigm: N2
  trans_de: Probe, Versuch
  trans_en: attempt, try
 -lexeme
@@ -14764,9 +14780,9 @@
  stem: ǧara.
  root: ǧr
  gramm: N
- paradigm: <?>
- trans_de: manchmal
- trans_en: sometimes
+ paradigm: unchangeable
+ trans_de: manchmal; niemals (tə ǧara)
+ trans_en: sometimes; never (tə ǧara)
 -lexeme
  lex: ǧari
  stem: ǧari.
@@ -14796,7 +14812,7 @@
  stem: ǧarḥoniye.
  root: ǧrḥ
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Verletzung
  trans_en: injury
 -lexeme
@@ -14841,7 +14857,7 @@
  trans_en: small skin
 -lexeme
  lex: ǧawhar/ǧahwar
- stem: ǧawhar.|ǧawahər.
+ stem: ǧawhar.//ǧahwar.|ǧawahər.
  root: ǧwhr
  gramm: N,m
  paradigm: N2
@@ -14869,8 +14885,8 @@
  root: ǧwrk
  gramm: N,m
  paradigm: N2
- trans_de: junger Hund; Löwe (?)
- trans_en: puppy; lion (?)
+ trans_de: junger Hund; Löwe
+ trans_en: puppy; lion
 -lexeme
  lex: ǧaza/ǧiza/ǧəza/ǧəzza
  stem: ǧaza.//ǧiza.//ǧəza.//ǧəzza.|ǧazat.//ǧizat.//ǧəzat.//ǧəzzat.
@@ -14892,7 +14908,7 @@
  stem: ǧazma.//ǧazme.//ǧəzma.//ǧuzma.|ǧazmat.//ǧazamt.//ǧuzmat.//ǧəzmat.
  root: ǧzm/ǧzm
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Paar Stiefel
  trans_en: pair of boots
 -lexeme
@@ -14900,7 +14916,7 @@
  stem: ǧdid.
  root: ǧdd
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Hin- und Hergehen, Reiten
  trans_en: coming and going, riding
 -lexeme
@@ -14919,14 +14935,6 @@
  paradigm: N2
  trans_de: Dienerin, Sklavin
  trans_en: female servant, female slave
--lexeme
- lex: ǧenenči
- stem: ǧenenči.|ǧenenčiye.
- root: ǧnn
- gramm: N,m
- paradigm: N2
- trans_de: Gärtner
- trans_en: gardener
 -lexeme
  lex: ǧewi
  stem: ǧewi.|ǧewikat.
@@ -15046,7 +15054,7 @@
  gramm: N,m
  paradigm: <?>
  trans_de: Geistermann
- trans_en: 
+ trans_en: <?>
 -lexeme
  lex: ǧənni
  stem: ǧənni.|ǧənniye.
@@ -15091,7 +15099,7 @@
  lex: ǧərʕaḏab
  stem: ǧərʕaḏab.
  root: ǧrʔ
- gramm: N,m
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: mutig, Schmerz aushaltend
  trans_en: brave; enduring pain
@@ -15108,7 +15116,7 @@
  stem: ǧəsər.
  root: ǧsr
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Brücke
  trans_en: bridge
 -lexeme
@@ -15172,7 +15180,7 @@
  stem: ǧibar.
  root: ǧbr
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Paste aus Baumwolle und Kalk zum Reparieren von zerbrochenen Gefäßen
  trans_en: paste made from cotton and lime for repairing broken vessels
 -lexeme
@@ -15232,8 +15240,8 @@
  trans_de: Garten
  trans_en: garden
 -lexeme
- lex: ǧinanči/ǧinenǧi
- stem: ǧinanči.//ǧinenǧi.|ǧinančiye.//ǧinenǧiye.
+ lex: ǧinanči/ǧinenǧi/ǧenenči
+ stem: ǧinanči.//ǧinenǧi.//ǧenenči.|ǧinančiye.//ǧinenǧiye.//ǧenenčiye.
  root: ǧnn
  gramm: N,m
  paradigm: N2
@@ -15252,7 +15260,7 @@
  stem: ǧineni.
  root: ǧnn
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Gärtner
  trans_en: gardener
 -lexeme
@@ -15268,7 +15276,7 @@
  stem: ǧiqe.
  root: ǧq
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Augenschmalz
  trans_en: eye discharge
 -lexeme
@@ -15281,10 +15289,10 @@
  trans_en: Neighbour
 -lexeme
  lex: ǧivan/živan
- stem: ǧivan.|živan.
+ stem: ǧivan.//živan.
  root: ǧvn
  gramm: N,m
- paradigm: N2
+ paradigm: <?>
  trans_de: verabredete Zusammenkunft, Stelldichein
  trans_en: arranged meeting, tryst
 -lexeme
@@ -15292,7 +15300,7 @@
  stem: ǧivate.//ǧəvate.
  root: ǧvt
  gramm: N,f
- paradigm: unchangeable
+ paradigm: <?>
  trans_de: Versammlung, Zusammenkunft
  trans_en: gathering, meeting, conversation
 -lexeme
@@ -15329,10 +15337,10 @@
  trans_en: furrow which is hewn with šawko on a piece of stone which is to be loosened in order for a sifo (slab) to be hewn out; drainpipe in the ground
 -lexeme
  lex: ǧoke
- stem: ǧoke.
+ stem: ǧoke.|ǧokat.
  root: ǧk
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Kanalabflußrohr; Arschfurche
  trans_en: kanal drainpipe; wrinkle on buttocks
 -lexeme
@@ -15372,7 +15380,7 @@
  stem: ǧraḥto.
  root: ǧrḥ
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Verletzung, Verwundung
  trans_en: injury
 -lexeme
@@ -15400,6 +15408,14 @@
  trans_de: Übergewand des Pfarrers
  trans_en: upper garments of a priest
 -lexeme
+ lex: Ǧuǧ
+ stem: Ǧuǧ.
+ root: gǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Zwergenvolk (Ǧuǧ w Maguǧ)
+ trans_en: dwarves (Ǧuǧ w Maguǧ)
+-lexeme
  lex: ǧuhtək
  stem: ǧuhtək.
  root: ǧhtk
@@ -15410,9 +15426,6 @@
 -lexeme
  lex: ǧuhu
  stem: ǧuhu.|ǧuhu.
- paradigm: N2
- trans_de: Jude
- trans_en: jew
  root: ǧh
  gramm: N,m
  paradigm: N2
@@ -15434,6 +15447,14 @@
  paradigm: N2
  trans_de: Satz
  trans_en: sentence
+-lexeme
+ lex: ǧumle
+ stem: ǧumle.
+ root: ǧml
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: dabei, unter anderen, unter den Anderen (min ǧumle)
+ trans_en: at the same time; among other things
 -lexeme
  lex: ǧunub
  stem: ǧunub.
@@ -15488,8 +15509,16 @@
  root: ǧwn
  gramm: N,f
  paradigm: unchangeable
- trans_de: Jugend; weibliches Fohlen
- trans_en: youth; she-folly
+ trans_de: Jugend 
+ trans_en: youth 
+-lexeme
+ lex: ǧuwaniye/ǧwaniye/ǧwani
+ stem: ǧuwaniye.//ǧwaniye.//ǧwani.|ǧuwaniyat.//ǧwaniyat.
+ root: ǧwn
+ gramm: N,f
+ paradigm: N2
+ trans_de: weibliches Fohlen
+ trans_en: she-folly
 -lexeme
  lex: ǧuwe
  stem: ǧuwe.|ǧuwat.
@@ -15506,14 +15535,6 @@
  paradigm: N2
  trans_de: Edelmann, freigebig
  trans_en: nobleman; generous
--lexeme
- lex: ǧwani
- stem: ǧwani.
- root: ǧwn
- gramm: N,f
- paradigm: <?>
- trans_de: weibliches Fohlen
- trans_en: she-folly
 -lexeme
  lex: ǧwanəke/ǧuwanəke/ǧwanike/ǧuwanike
  stem: ǧwanəke.//ǧuwanəke.//ǧwanike.//ǧuwanike.|ǧwanəkat.//ǧuwanəkat.//ǧwanikat.//ǧuwanikat.
@@ -15540,12 +15561,20 @@
  trans_en: sudden fright
 -lexeme
  lex: hačəke/hačke
- stem: hačəke.//hačke.|hačəkat.//hačkat.
+ stem: hačəke.//hačke.
  root: hč
- gramm: N,f
- paradigm: N2
+ gramm: INTERJ
+ paradigm: unchangeable
  trans_de: Ruf für Ziegen
  trans_en: call for goats
+-lexeme
+ lex: hadana
+ stem: hadana.
+ root: hdn
+ gramm: N,f
+ paradigm: unchangeable
+ trans_de: Ruhe, Geduld
+ trans_en: calm; patience
 -lexeme
  lex: haddiye/hadiye
  stem: haddiye.//hadiye.|haddiyat.//hadiyat.
@@ -15567,7 +15596,7 @@
  stem: hafṣoro.
  root: hfṣr
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Halfter
  trans_en: horse collar
 -lexeme
@@ -15619,6 +15648,30 @@
  trans_de: überraschter Ausruf; auf einmal; Aha!
  trans_en: exclamation of surprise; at once; aha!
 -lexeme
+ lex: haha
+ stem: haha.
+ root: hh
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: dass ja nicht
+ trans_en: <?>
+-lexeme
+ lex: haha
+ stem: haha.
+ root: hh
+ gramm: <?>
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
+ lex: haha
+ stem: haha.
+ root: hh
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: schnell, flink, gleich
+ trans_en: quickly, immediately
+-lexeme
  lex: hahake
  stem: hahake.
  root: hhk
@@ -15635,26 +15688,42 @@
  trans_de: Ausdruck der Verwunderung; Oh weh!
  trans_en: exclamation of astonishment; woe!
 -lexeme
- lex: haka/hakka
- stem: haka.//hakka.
+ lex: haka/hakka/hakkan
+ stem: haka.//hakka.//hakkan.
  root: hk
  gramm: CONJ
  paradigm: unchangeable
  trans_de: wenn
  trans_en: if
 -lexeme
+ lex: hala
+ stem: hala.
+ root: hl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Verzeihung! (Selbstverbesserung, wenn man sich versprochen hat)
+ trans_en: pardon! (self-improvement when one has misspoken)
+-lexeme
+ lex: hala
+ stem: hala.
+ root: hl
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: doch
+ trans_en: after all
+-lexeme
  lex: halak
  stem: halak.
  root: hlk
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Verderben
- trans_en: ruin
+ trans_en: ruining, spoiling
 -lexeme
  lex: halbat/albat
  stem: halbat.//albat.
  root: hlb
- gramm: ADV
+ gramm: INTERJ
  paradigm: unchangeable
  trans_de: sicher, natürlich
  trans_en: certainly, of course
@@ -15672,8 +15741,8 @@
  root: hll
  gramm: INTERJ
  paradigm: unchangeable
- trans_de: Hallo!
- trans_en: wow!
+ trans_de: Hallo! Tumult, Lärm, wenn etwas ungewöhnliches geschieht
+ trans_en: wow! commotion, noise when something unusual happens
 -lexeme
  lex: ham
  stem: ham.
@@ -23539,6 +23608,14 @@
  paradigm: N2
  trans_de: Messer zum Abschneiden von Holz
  trans_en: knife for cutting wood and leaves
+-lexeme
+ lex: Maguǧ
+ stem: Maguǧ.
+ root: mgǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Zwergenvolk (Guǧ w Maguǧ)
+ trans_en: dwarves (Guǧ w Maguǧ)
 -lexeme
  lex: magzuno
  stem: magzuno.|magzune.
@@ -49117,7 +49194,7 @@
  trans_en: except
 -lexeme
  lex: žġer/ǧġer
- stem: žġer./ǧġer.
+ stem: žġer.//ǧġer.
  root: žġr
  gramm: prep
  paradigm: unchangeable
