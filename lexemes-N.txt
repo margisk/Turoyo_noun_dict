@@ -15747,7 +15747,7 @@
  lex: ham
  stem: ham.
  root: hm
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: auch
  trans_en: also
@@ -15761,7 +15761,7 @@
  trans_en: umph, hem
 -lexeme
  lex: hama
- stem: hama.
+ stem: hama.//hamma.
  root: hm
  gramm: INTERJ
  paradigm: unchangeable
@@ -15781,8 +15781,8 @@
  root: hmn
  gramm: ADV
  paradigm: unchangeable
- trans_de: (so)gleich
- trans_en: immediately
+ trans_de: (so)gleich (l hamanke)
+ trans_en: immediately (l hamanke)
 -lexeme
  lex: hamnixo
  stem: hamnixo.|hamnixe.
@@ -15804,7 +15804,7 @@
  stem: hana.
  root: hn
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Hilfe
  trans_en: help
 -lexeme
@@ -15827,7 +15827,7 @@
  lex: hal
  stem: hal.
  root: hl
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: Fragepartikel
  trans_en: question particle
@@ -15838,7 +15838,7 @@
  gramm: ADV
  paradigm: unchangeable
  trans_de: so oft auch, so sehr auch
- trans_en:
+ trans_en: as much as
 -lexeme
  lex: har
  stem: har.
@@ -15847,6 +15847,14 @@
  paradigm: unchangeable
  trans_de: Anrufpartikel
  trans_en: particle of address
+-lexeme
+ lex: harre
+ stem: harre.
+ root: hr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja
+ trans_en: yes
 -lexeme
  lex: harke
  stem: harke.
@@ -15864,8 +15872,8 @@
  trans_de: Ausruf, um auf etwas Geschenes, Schlimmes aufmerksam zu machen
  trans_en: exclamation to bring attention to some event or something bad
 -lexeme
- lex: harrasiyat
- stem: harrasiyat.
+ lex: harrašiyat
+ stem: harrašiyat.
  root: hrs
  gramm: N,pl
  paradigm: <?>
@@ -15876,7 +15884,7 @@
  stem: hasani.
  root: hsn
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Leichtigkeit
  trans_en: easiness
 -lexeme
@@ -15889,12 +15897,12 @@
  trans_en: ship staffer; scaffolding
 -lexeme
  lex: hastəfke
- stem: hastəfke.|hastəfkat.
+ stem: hastəfke.//hastifke.|hastəfkat.//hastifkat.
  root: hstfk
  gramm: N,f
  paradigm: N2
  trans_de: Schüreisen; Löffel zum Teigheben
- trans_en: poker; spoon ...
+ trans_en: poker; spoon for lifting the dough (?)
 -lexeme
  lex: hašt
  stem: hašt.
@@ -15933,13 +15941,13 @@
  root: hvn
  gramm: N
  paradigm: <?>
- trans_de: eigentl. Sauerteig; das, womit man Joghurt ansetz; männlicher Samen
- trans_en: actually leaven; something which is mixed in yogurt; sperm
+ trans_de: eigentl. Sauerteig; in neg. Sätzen: gar nichts, keine Spur; das, womit man Joghurt ansetz; männlicher Samen
+ trans_en: actually leaven; in negative sentences: nothing at all, no trace; something which is mixed in yogurt; sperm
 -lexeme
  lex: haw
  stem: haw.
  root: hw
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: nicht mehr
  trans_en: not anymore, no longer
@@ -15996,7 +16004,7 @@
  stem: hawən.//hawun.
  root: hwn
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Mörser
  trans_en: mortar
 -lexeme
@@ -16032,6 +16040,14 @@
  trans_de: Verstand, Überlegungsfähigkeit, Bewusstsein
  trans_en: understanding, awareness, consciousness, reflection capability
 -lexeme
+ lex: hawuz
+ stem: hawuz.|hawuzat.
+ root: hwz
+ gramm: N,m
+ paradigm: N2
+ trans_de: (Wasser)becken
+ trans_en: (water)-basin
+-lexeme
  lex: hawxa
  stem: hawxa.
  root: hwx
@@ -16053,7 +16069,7 @@
  gramm: N,f
  paradigm: <?>
  trans_de: Aufzug, Geprängen, Aussehen, Auftreten
- trans_en: <...>, splendour; appearance
+ trans_en: procession; splendour; appearance
 -lexeme
  lex: hayaǧan
  stem: hayaǧan.
@@ -16082,7 +16098,7 @@
  lex: hayamke
  stem: hayamke.
  root: hym
- gramm: <?>
+ gramm: ADV
  paradigm: unchangeable
  trans_de: neulich
  trans_en: lately
@@ -16106,7 +16122,7 @@
  lex: hayde/haydi
  stem: hayde.//haydi.
  root: hyd
- gramm: INTERJ
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: vor Imperativ
  trans_en: before imperative
@@ -16162,7 +16178,7 @@
  lex: hayminan
  stem: hayminan.
  root: hymn
- gramm: <?>
+ gramm: INTERJ
  paradigm: unchangeable
  trans_de: wir glauben; Glaubensbekenntnis
  trans_en: we believe; creed
@@ -16174,6 +16190,14 @@
  paradigm: unchangeable
  trans_de: Glaube, Gläubigkeit, Frömmigkeit
  trans_en: belief; piety
+-lexeme
+ lex: hayn
+ stem: hayn.
+ root: hyn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: leicht zu tun (hayn w hayn)
+ trans_en: easy to do (hayn w hayn)
 -lexeme
  lex: hayya/hayye/haya/haye
  stem: hayya.//hayye.//haye.//haya.|hayyat.
@@ -16220,8 +16244,8 @@
  root: hžž
  gramm: N,f
  paradigm: N2
- trans_de: lange Spiere
- trans_en: long mast
+ trans_de: <?>
+ trans_en: small wooden piece
 -lexeme
  lex: hedi
  stem: hedi.
@@ -16234,10 +16258,10 @@
  lex: hedika
  stem: hedika.
  root: hd
- gramm: <?>
+ gramm: ADV
  paradigm: unchangeable
  trans_de: vorsichtig, sacht
- trans_en: careful, slow
+ trans_en: careful, slow; then
 -lexeme
  lex: hehe/ehe
  stem: hehe.//ehe.
@@ -16259,7 +16283,7 @@
  stem: hela.
  root: hl
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Vogeljagd (im Winter)
  trans_en: fowling, hunt (in winter)
 -lexeme
@@ -16319,8 +16343,8 @@
  trans_de: Gefangener
  trans_en: captured, prisoner
 -lexeme
- lex: heš/hež/iš
- stem: heš.//hež.//iš.
+ lex: heš/hež/iš/he
+ stem: heš.//hež.//iš.//he.
  root: hš
  gramm: ADV
  paradigm: unchangeable
@@ -16339,7 +16363,7 @@
  stem: heviye.
  root: hvy
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Erwartung, Hoffnung, Bitte 
  trans_en: awaiting; hope; request
 -lexeme
@@ -16427,7 +16451,7 @@
  stem: həmma.//humma.
  root: hmm
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Kraft des Getreides, die durch Unkraut vermindert wird; die Kraft, die der Pflanze aus der Erde zufließt
  trans_en: strength of corn which is diminished by weeds; strength which flows to a plant from earth
 -lexeme
@@ -16464,15 +16488,15 @@
  trans_en: an Indian, indian
 -lexeme
  lex: həngəle
- stem: həngəle.|həngalat.
+ stem: həngəle.|həngəlat.
  root: hngl
  gramm: N,f
  paradigm: N2
  trans_de: Henkel am Krug
  trans_en: handle on a pitcher
 -lexeme
- lex: həngi
- stem: həngi.
+ lex: həngi/ḥəngi
+ stem: həngi.//ḥəngi.
  root: hng
  gramm: CONJ
  paradigm: unchangeable
@@ -16515,9 +16539,9 @@
  stem: həruro.//həroro.//huroro.//horuro.
  root: hrr
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: schärpenartiges Rangabzeichen für Diakone
- trans_en: <...> insignia for deacons
+ trans_en: a sash-like insignia for deacons
 -lexeme
  lex: hərzat
  stem: hərzat.
@@ -16555,7 +16579,7 @@
  stem: hič.
  root: hč
  gramm: N
- paradigm: <?>
+ paradigm: N2
  trans_de: von Durst wahnsinniges Kamel
  trans_en: camel in frenzy from thirst
 -lexeme
@@ -16570,7 +16594,7 @@
  lex: hič/hiš
  stem: hič.//hiš.
  root: hč
- gramm: <?>
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: in neg. Sätzen: gar nicht
  trans_en: in negative clauses: not at all
@@ -16623,6 +16647,30 @@
  trans_de: oh; oho
  trans_en: oh! oh wow
 -lexeme
+ lex: ho
+ stem: ho.
+ root: h
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: da
+ trans_en: there
+-lexeme
+ lex: ho
+ stem: ho.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Geräusch des Furzes
+ trans_en: noise of a fart
+-lexeme
+ lex: ho
+ stem: ho.
+ root: h
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ho ho ho
+ trans_en: ho ho ho
+-lexeme
  lex: hoh
  stem: hoh.
  root: hh
@@ -16643,9 +16691,9 @@
  stem: hole.
  root: hl
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Schlagspiel mit dem Horn
- trans_en: <...> with a horn
+ trans_en: game with a horn
 -lexeme
  lex: hollanda
  stem: hollanda.
@@ -16666,7 +16714,7 @@
  lex: hone
  stem: hone.
  root: hn
- gramm: <?>
+ gramm: ADV
  paradigm: unchangeable
  trans_de: hier, da; dort
  trans_en: hier, there
@@ -16674,7 +16722,7 @@
  lex: honike
  stem: honike.
  root: hnk
- gramm: <?>
+ gramm: ADV
  paradigm: unchangeable
  trans_de: dort (in Deuteweite)
  trans_en: there (in <...>)
@@ -16710,6 +16758,14 @@
  paradigm: N2
  trans_de: Meister
  trans_en: owner, master
+-lexeme
+ lex: hoš
+ stem: hoš
+ root: hš
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: Willkommen (hoš geldin)
+ trans_en: welcome (hoš geldin)
 -lexeme
  lex: hučke
  stem: hučke.|hučkat.
@@ -16751,8 +16807,16 @@
  trans_de: bis, ehe, solange
  trans_en: until, before, as long as
 -lexeme
+ lex: hul
+ stem: hul.
+ root: hl
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: voll ausgerüstet, mit allem drum und dran (hul w mul)
+ trans_en: fully equipped; with every bell and whistle (hul w mul)
+-lexeme
  lex: hun
- stem: hun.
+ stem: hun.//hən.
  root: hn
  gramm: PRN
  paradigm: unchangeable
@@ -16766,6 +16830,14 @@
  paradigm: unchangeable
  trans_de: kleinkörnig, fein; schmächtig, kurz und schmal
  trans_en: finely grained, thin; slender, short and narrow
+-lexeme
+ lex: hur
+ stem: hur.
+ root: hr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kleines und großes, alles (hur w mur)
+ trans_en: small and big, everything (hur w mur)
 -lexeme
  lex: huryo
  stem: huryo.|hurye.
@@ -27352,6 +27424,14 @@
  trans_de: übergelaunt
  trans_en: in bad mood
 -lexeme
+ lex: mul
+ stem: mul.
+ root: ml
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: voll ausgerüstet, mit allem drum und dran (hul w mul)
+ trans_en: fully equipped; with every bell and whistle (hul w mul)
+-lexeme
  lex: mulayḏe
  stem: mulayḏe.
  root: mlyḏ
@@ -27423,6 +27503,14 @@
  paradigm: unchangeable
  trans_de: Eigelb
  trans_en: yolk
+-lexeme
+ lex: mur
+ stem: mur.
+ root: mr
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: kleines und großes, alles (hur w mur)
+ trans_en: small and big, everything (hur w mur)
 -lexeme
  lex: muraqaba
  stem: muraqaba.
