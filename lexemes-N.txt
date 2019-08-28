@@ -2900,7 +2900,7 @@
  trans_en: thousand
 -lexeme
  lex: alḥamdəlla
- stem: alḥamdəlla.
+ stem: alḥamdəlla.//lḥamdəlla.
  root: ḥmdl
  gramm: INTERJ
  paradigm: unchangeable
@@ -5590,8 +5590,8 @@
  root: bxt
  gramm: N,m
  paradigm: unchangeable
- trans_de: Ehrenwort, Ehr und Gewissen, Treu und Glauben
- trans_en: honest word, honesty and conscience (?); good faith
+ trans_de: Ehrenwort, Ehr und Gewissen, Treu und Glauben; gut Glück (ḥaḏ̣ w baxt)
+ trans_en: honest word, honesty and conscience (?); good faith; good luck (ḥaḏ̣ w baxt)
 -lexeme
  lex: baxyo
  stem: baxyo.
@@ -16899,7 +16899,7 @@
  stem: ḥabbərman.
  root: ḥbrmn
  gramm: N,pl
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: getrocknete Granatapfelkerne, zum Würzen von Suppen
  trans_en: dried pomegranate seeds, (used) as a seasoning for soups
 -lexeme
@@ -16931,9 +16931,9 @@
  stem: ḥabo.
  root: ḥb
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Pestbeule; leichte Verwünschung, die die Mutter für das unartige Kind gebraucht
- trans_en: pestilential bubo; light curse which a mother uses for a naughty child
+ trans_en: pestilential swelling; light curse which a mother uses for a naughty child
 -lexeme
  lex: ḥabra
  stem: ḥabra.|ḥabrat.
@@ -17003,25 +17003,17 @@
  stem: ḥadidaye.
  root: ḥdd
  gramm: N,f
- paradigm: <?>
+ paradigm: N2
  trans_de: Gerät mit verschiedenen großen Löchern um Draht zu ziehen
- trans_en: <?>
+ trans_en: tool with various big holes to put a wire through it (?)
 -lexeme
  lex: ḥadisa/ḥadiṯa
- stem: ḥadisa.//ḥadiṯa.|ḥadisat.//ḥadiṯat.//ḥawadəṯ.//ḥawadiṯat.
+ stem: ḥadisa.//ḥadiṯa.//ḥadiṯ.|ḥadisat.//ḥadiṯat.//ḥawadəṯ.//ḥawadiṯat.
  root: ḥds
  gramm: N,f
  paradigm: N2
  trans_de: Geschichte; Angelegenheit
  trans_en: story; thing, matter
--lexeme
- lex: ḥadiṯ
- stem: ḥadiṯ.
- root: ḥḏt
- gramm: N,m
- paradigm: <?>
- trans_de: Geschichte, Sache
- trans_en: story, thing
 -lexeme
  lex: ḥadodo
  stem: ḥadodo.|ḥadode.
@@ -17031,11 +17023,19 @@
  trans_de: Schmied
  trans_en: blacksmith
 -lexeme
+ lex: ḥaḏ̣
+ stem: ḥaḏ̣
+ root: ḥḏ̣
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: gut Glück (ḥaḏ̣ w baxt)
+ trans_en: good luck (ḥaḏ̣ w baxt)
+-lexeme
  lex: ḥaḏ̣aʔər/ḥaḏ̣ayər/ḥaḏaʔər/ḥaḏayər
  stem: ḥaḏ̣aʔər.//ḥaḏ̣ayər.//ḥaḏaʔər.//ḥaḏayər.
  root: ḥḏ̣r/ḥḏr
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Anwesende
  trans_en: present
 -lexeme
@@ -17051,7 +17051,7 @@
  stem: ḥaḏ̣ər.//ḥaḏər.|ḥəḏ̣ḏ̣ar.//ḥəḏḏar.
  root: ḥḏ̣r/ḥḏr
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: zugegen, anwesend
  trans_en: present
 -lexeme
@@ -17083,7 +17083,7 @@
  stem: ḥafriyat.
  root: ḥfr
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Ausschachtungen, Ausbaggerungen
  trans_en: excavations
 -lexeme
@@ -17101,7 +17101,15 @@
  gramm: N,m
  paradigm: N2
  trans_de: spargelähnliche Pflanze, die gegessen wird
- trans_en: <...> plant which can be eaten
+ trans_en: plant similar to asparagus, which can be eaten
+-lexeme
+ lex: ḥaft
+ stem: ḥaft.
+ root: ḥft
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: siebenmal so viel (ḥaft qat)
+ trans_en: seven times as much (ḥaft qat)
 -lexeme
  lex: ḥaftiye
  stem: ḥaftiye.|ḥaftiyat.
@@ -17150,6 +17158,14 @@
  paradigm: N2
  trans_de: Mekkapilgerin
  trans_en: female Mecca pilgrim
+-lexeme
+ lex: Ḥaǧuǧ
+ stem: Ḥaǧuǧ.
+ root: ḥǧǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Gog und Magog, Zwergenvolk (Ḥaǧuǧ w Maǧuǧ)
+ trans_en: Gog and Magog, dwarve people (Ḥaǧuǧ w Maǧuǧ)
 -lexeme
  lex: ḥakəm
  stem: ḥakəm.|ḥakəmin.
@@ -17248,7 +17264,7 @@
  trans_en: sweet, halva
 -lexeme
  lex: ḥalawči
- stem: ḥalawči.
+ stem: ḥalawči.|ḥalawčiye.
  root: ḥlw
  gramm: N,m
  paradigm: N2
@@ -17299,7 +17315,7 @@
  stem: ḥaloqo.
  root: ḥlq
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Kreis
  trans_en: circle
 -lexeme
@@ -17347,7 +17363,7 @@
  stem: ḥamak.
  root: ḥmk
  gramm: N
- paradigm: <?>
+ paradigm: N2
  trans_de: Hängematte
  trans_en: hammock
 -lexeme
@@ -17415,7 +17431,7 @@
  trans_de: Wein
  trans_en: wine
 -lexeme
- lex: ḥamušo
+ lex: ḥamuṣo
  stem: ḥamuṣo.|ḥamuṣe.
  root: ḥmṣ
  gramm: ADJ
@@ -17432,10 +17448,10 @@
  trans_en: fun, joke
 -lexeme
  lex: ḥanakči
- stem: ḥanakči.
+ stem: ḥanakči.|ḥanakčiye.
  root: ḥnk
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: zu Späßen aufgelegt, Spaßvogel
  trans_en: joker, banterer
 -lexeme
@@ -17555,7 +17571,7 @@
  stem: ḥaram.
  root: ḥrm
  gramm: ADJ
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: (gesetzlich) verboten
  trans_en: forbidden by law
 -lexeme
@@ -17579,7 +17595,7 @@
  stem: ḥaramtiye.
  root: ḥrm
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Räuberhandwerk
  trans_en: marauding
 -lexeme
@@ -17592,10 +17608,10 @@
  trans_en: war, fight
 -lexeme
  lex: ḥarbači
- stem: ḥarbači.
+ stem: ḥarbači.|ḥarbačiye.
  root: ḥrb
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Kriegsmann
  trans_en: warrior
 -lexeme
@@ -23776,6 +23792,14 @@
  paradigm: <?>
  trans_de: lange Stange mit Querholz am Ende, um Kalk und Mörtel umzurühren
  trans_en: long stick with a bolster at the end, to mix lime and mortar
+-lexeme
+ lex: Maǧuǧ
+ stem: Maǧuǧ.
+ root: mǧǧ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Gog und Magog, Zwergenvolk (Ḥaǧuǧ w Maǧuǧ)
+ trans_en: Gog and Magog, dwarve people (Ḥaǧuǧ w Maǧuǧ)
 -lexeme
  lex: maġrafto
  stem: maġrafto.|maġrafyoṯe.//maġrafyoṯo.
@@ -32453,6 +32477,14 @@
  paradigm: N2
  trans_de: Stockwerk, Etage
  trans_en: storey, floor
+-lexeme
+ lex: qat
+ stem: qat.
+ root: qt
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: siebenmal so viel (ḥaft qat)
+ trans_en: seven times as much (ḥaft qat)
 -lexeme
  lex: qatakiri
  stem: qatakiri.
