@@ -2928,8 +2928,8 @@
  root: ll
  gramm: N
  paradigm: unchangeable
- trans_de: Gott ist sachwalter, Gott steh mir bei, so wahr uns Gott helfe (alla wakil); um Gottes Willen! (ʕweḏ/ʕweḏət alla)
- trans_en: in God we trust, may God help me, help me God (alla wakil), for God's sake (ʕweḏ/ʕweḏət alla)
+ trans_de: Gott ist sachwalter, Gott steh mir bei, so wahr uns Gott helfe (alla wakil); um Gottes Willen! (ʕweḏ/ʕweḏət alla); Gott grüße euch! (ḥayaykum alla!)
+ trans_en: in God we trust, may God help me, help me God (alla wakil), for God's sake (ʕweḏ/ʕweḏət alla); greetings! (ḥayaykum alla!)
 -lexeme 
  lex: allahu
  stem: allahu.
@@ -6889,7 +6889,7 @@
  trans_en: owl
 -lexeme
  lex: buməḥreno
- stem: buməḥreno.
+ stem: buməḥreno.//bumuḥreno.
  root: ywmḥrn
  gramm: ADV
  paradigm: unchangeable
@@ -10344,6 +10344,14 @@
  paradigm: N2
  trans_de: wunderbare, seltsame Sache
  trans_en: wonderful, remarkable, rare thing
+-lexeme
+ lex: dumuḥreno
+ stem: dumuḥreno.//duməḥreno.
+ root: ʔḥr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: übermorgen
+ trans_en: the day after tomorrow
 -lexeme
  lex: duqayto
  stem: duqayto.
@@ -16850,10 +16858,10 @@
  lex: ḥa/ḥə
  stem: ḥa.//ḥə.
  root: ḥ
- gramm: <?>
+ gramm: INTERJ
  paradigm: unchangeable
- trans_de: (beim) Leben
- trans_en: <?>
+ trans_de: (beim) Leben (ḥa d X)
+ trans_en: I swear (ḥa d X)
 -lexeme
  lex: ḥa
  stem: ḥa.
@@ -17272,7 +17280,7 @@
  trans_en: seller of sweets
 -lexeme
  lex: ḥalile
- stem: ḥalile.|ḥalilat.
+ stem: ḥalile.//ḥarire.|ḥalilat.//ḥarirat.
  root: ḥll
  gramm: N,f
  paradigm: N2
@@ -17655,14 +17663,6 @@
  trans_de: Seide
  trans_en: silk
 -lexeme
- lex: ḥarire
- stem: ḥarire.|ḥarirat.
- root: ḥll
- gramm: N,f
- paradigm: N2
- trans_de: mit Mehl verdickter Traubenmost
- trans_en: grape juice thickened with the help of flour
--lexeme
  lex: ḥarošo
  stem: ḥarošo.|ḥaroše.
  root: ḥrš
@@ -17732,8 +17732,8 @@
  root: ḥsb
  gramm: N,m
  paradigm: unchangeable
- trans_de: Rechnung
- trans_en: counting, account
+ trans_de: Rechnung; gemäß (ḥasab d-)
+ trans_en: counting, account; according to (ḥasab d-)
 -lexeme
  lex: ḥasani
  stem: ḥasani.
@@ -17742,6 +17742,14 @@
  paradigm: unchangeable
  trans_de: runde Weinbeere
  trans_en: round grapes
+-lexeme
+ lex: ḥasb
+ stem: ḥasb.//ḥəsb.
+ root: ḥsb
+ gramm: N
+ paradigm: <?>
+ trans_de: Rechnen
+ trans_en: counting
 -lexeme
  lex: ḥasqiye
  stem: ḥasqiye.|ḥasqiyat.
@@ -17788,8 +17796,8 @@
  root: ḥṣl
  gramm: N,f
  paradigm: N2
- trans_de: Tribut, Zehnter
- trans_en: tribute, tithe
+ trans_de: Tribut, Zehnter; also, nun, kurz (l ḥaṣlo)
+ trans_en: tribute, tithe; so, now, in short (l ḥaṣlo)
 -lexeme
  lex: ḥaṣo
  stem: ḥaṣo.|ḥaṣe.
@@ -17844,8 +17852,8 @@
  root: ḥšš
  gramm: N,m
  paradigm: N2
- trans_de: <?>
- trans_en: suffering
+ trans_de: <?>; die Karwoche (i šabṯo du ḥašo)
+ trans_en: suffering; the Holy Week (i šabṯo du ḥašo)
 -lexeme
  lex: ḥašri
  stem: ḥašri.
@@ -17854,6 +17862,14 @@
  paradigm: unchangeable
  trans_de: Zuruf an Tier, um es zu verscheuchen
  trans_en: shout at an animal, to scare it away
+-lexeme
+ lex: ḥaššarək
+ stem: ḥaššarək.
+ root: ḥšr
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Scheuchruf für Hühner
+ trans_en: shout to shoo away the chickens
 -lexeme
  lex: ḥašyo
  stem: ḥašyo.|ḥašye.
@@ -17914,8 +17930,16 @@
  lex: ḥawǧa/ḥaǧa/ḥaža/ḥayǧa/ḥaǧe/ḥaže
  stem: ḥawǧa.//ḥaǧa.//ḥaža.//ḥayǧa.//ḥaǧe.//ḥaže.
  root: ḥwǧ
- gramm: <?>
- paradigm: <?>
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Bedürfnis
+ trans_en: need
+-lexeme
+ lex: ḥawǧa/ḥaǧa/ḥaža/ḥayǧa/ḥaǧe/ḥaže
+ stem: ḥawǧa.//ḥaǧa.//ḥaža.//ḥayǧa.//ḥaǧe.//ḥaže.
+ root: ḥwǧ
+ gramm: ADJ
+ paradigm: unchangeable
  trans_de: Bedürfnis, bedürfend, nötig
  trans_en: need; one in need; necessary
 -lexeme
@@ -17930,10 +17954,10 @@
  lex: ḥawləlbala
  stem: ḥawləlbala.
  root: ḥwlbl
- gramm: <?>
+ gramm: INTERJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: was für eine unablässige Plage (weil sie immer um einen herum ist); Ach du liebe Zeit (ya ḥawləlbala)
+ trans_en: what a nuisance! oh dear!
 -lexeme
  lex: ḥawlo
  stem: ḥawlo.|ḥawle.
@@ -17963,7 +17987,7 @@
  stem: ḥawṭ.
  root: ḥwṭ
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Wasserbecken
  trans_en: water tank
 -lexeme
@@ -17973,7 +17997,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: napfgroße Grube im Hōle-Spiel, in der die sog. "Mutter", ein 15 cm langes Stück Horn, untergebracht werden soll
- trans_en: <...> pit in Hōle game in which the so-called "mother", 15 cm long horn, <...>
+ trans_en: a cup-sized pit in Hōle game in which the so-called "mother", 15 cm long horn, must be placed
 -lexeme
  lex: ḥawwetiye/ḥawetiye
  stem: ḥawwetiye.//ḥawetiye.
@@ -17984,10 +18008,10 @@
  trans_en: housing- or asylum possibility
 -lexeme
  lex: ḥawyo/ḥaywo
- stem: ḥawyo.//ḥaywo.
+ stem: ḥawyo.//ḥaywo
  root: ḥwy
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: männliche Schlange
  trans_en: male snake
 -lexeme
@@ -18011,7 +18035,7 @@
  stem: ḥawuz.
  root: ḥwz
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Wasserbecken
  trans_en: water tank
 -lexeme
@@ -18019,7 +18043,7 @@
  stem: ḥaya.
  root: ḥyy
  gramm: N,f
- paradigm: N1
+ paradigm: unchangeable
  trans_de: Scham
  trans_en: shame
 -lexeme
@@ -18059,7 +18083,7 @@
  stem: ḥayfiye.
  root: ḥyf
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Wert
  trans_en: value
 -lexeme
@@ -18074,10 +18098,10 @@
  lex: ḥayḥo
  stem: ḥayḥo.
  root: ḥyḥ
- gramm: <?>
- paradigm: <?>
+ gramm: INTERJ
+ paradigm: unchangeable
  trans_de: Alarmruf
- trans_en: alert
+ trans_en: alarm call
 -lexeme
  lex: ḥaylo
  stem: ḥaylo.|ḥaylawoṯe.//ḥaylawoṯo.
@@ -18151,6 +18175,14 @@
  trans_de: Schlange
  trans_en: snake
 -lexeme
+ lex: ḥayaykum
+ stem: ḥayaykum.
+ root: ḥyy
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: Gott grüße euch! (ḥayaykum alla!)
+ trans_en: greetings! (ḥayaykum alla!)
+-lexeme
  lex: ḥaz
  stem: ḥaz.
  root: ḥz
@@ -18195,7 +18227,7 @@
  stem: ḥḏayrat.
  root: ḥzr
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Ratsel
  trans_en: riddle
 -lexeme
@@ -18223,6 +18255,14 @@
  trans_de: Singular
  trans_en: singular
 -lexeme
+ lex: ḥḏ̣or/ḥeḏ̣ar/ḥeḏ̣ər/ḥeḏ̣or
+ stem: ḥḏ̣or.//ḥḏor.//ḥeḏ̣ar.//ḥeḏar.//ḥeḏ̣ər.//ḥeḏər.//ḥeḏ̣or.//ḥeḏor.
+ root: ḥḏ̣r
+ gramm: PRP
+ paradigm: unchangeable
+ trans_de: um ... herum
+ trans_en: around
+-lexeme
  lex: ḥemi
  stem: ḥemi.
  root: ḥm
@@ -18244,8 +18284,16 @@
  root: ḥmy
  gramm: ADJ
  paradigm: unchangeable
- trans_de heiß
+ trans_de: heiß
  trans_en: hot
+-lexeme
+ lex: ḥemo
+ stem: ḥemo.
+ root: ḥmy
+ gramm: N,m
+ paradigm: unchangeable
+ trans_de: Hitze
+ trans_en: heat
 -lexeme
  lex: ḥeno
  stem: ḥeno.|ḥenone.
@@ -18256,12 +18304,20 @@
  trans_en: henna (for painting hands and so on)
 -lexeme
  lex: ḥeqəlke
- stem: ḥeqəlke.|ḥeqəlkat.
+ stem: ḥeqəlke.
  root: ḥql
  gramm: N,f
- paradigm: N2
+ paradigm: <?>
  trans_de: Haschespiel auf einem Bein
  trans_en: <?>
+-lexeme
+ lex: ḥeram
+ stem: ḥeram.
+ root: ḥrm
+ gramm: N,pl
+ paradigm: <?>
+ trans_de: Frauen
+ trans_en: women
 -lexeme
  lex: ḥešiye
  stem: ḥešiye.|ḥešiyat.
@@ -18277,7 +18333,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Weizenkorn; pl. Weizen
- trans_en: wheat grain; wheat
+ trans_en: wheat grain; pl. wheat
 -lexeme
  lex: ḥeworo/ḥəworo/ḥuworo
  stem: ḥeworo.//ḥəworo.//ḥuworo.|ḥewore.//ḥəwore.//ḥuwore.
@@ -18294,6 +18350,8 @@
  paradigm: <?>
  trans_de: Handvoll
  trans_en: handful
+-lexeme
+ lex: ḥə/ḥəh
 -lexeme
  lex: ḥəbro
  stem: ḥəbro.
@@ -18317,7 +18375,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schröpfkopf
- trans_en: wet cup
+ trans_en: cupping glass
 -lexeme
  lex: ḥəǧǧa
  stem: ḥəǧǧa.|ḥəǧǧat.
@@ -18339,7 +18397,7 @@
  stem: ḥəḏ̣ur.//ḥəḏur.//ḥuḏ̣ur.//ḥuḏur.
  root: ḥḏ̣r/ḥḏr
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Gegenwart
  trans_en: presence
 -lexeme
@@ -18396,8 +18454,8 @@
  root: ḥl
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: missliche Lage (ḥəl w ḥaye)
+ trans_en: unfortunate situation (ḥəl w ḥaye)
 -lexeme
  lex: ḥəlle
  stem: ḥəlle.|ḥəllat.
@@ -18419,15 +18477,15 @@
  stem: ḥəllək.
  root: ḥlk
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Ziegenart mit dickem, kurzem Schwanz und runden, nach hinten liegenden Hörnern
  trans_en: type of goats with a fat and short tail and round and backwards pointing horns
 -lexeme
  lex: ḥəlləkke
- stem: ḥəlləkke.|ḥəlləkkat.
+ stem: ḥəlləkke.
  root: ḥlk
  gramm: N,f
- paradigm: N2
+ paradigm: <?>
  trans_de: <?>
  trans_en: <?>
 -lexeme
@@ -18463,11 +18521,19 @@
  trans_de: Pflanze (Eigenname)
  trans_en: plant (proper name)
 -lexeme
+ lex: ḥəmamiš
+ stem: ḥəmamiš.
+ root: ḥmm
+ gramm: ADJ
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
  lex: ḥəmaye
  stem: ḥəmaye.
  root: ḥmy
  gramm: N,f
- paradigm: N1
+ paradigm: <?>
  trans_de: Schutz, Verfügung
  trans_en: protection; decree
 -lexeme
@@ -18475,7 +18541,7 @@
  stem: ḥəmgeliyo.
  root: ḥmgly
  gramm: N,m
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Brummen beim Spiel
  trans_en: buzzing while playing
 -lexeme
@@ -18491,7 +18557,7 @@
  stem: ḥəmḥəm.//ḥəmaḥəm.
  root: ḥmḥm
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Geräusch des leisen Lachens der Frauen
  trans_en: sound of soft women's laughter
 -lexeme
@@ -18499,7 +18565,7 @@
  stem: ḥəmmal.
  root: ḥml
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Lastträger
  trans_en: loader
 -lexeme
@@ -18512,10 +18578,10 @@
  trans_en: bath, steam bath
 -lexeme
  lex: ḥəmmamči
- stem: ḥəmmamči.
+ stem: ḥəmmamči.|ḥəmmamčiye.
  root: ḥmm
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Badewärter
  trans_en: bath attendant
 -lexeme
@@ -18533,7 +18599,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Energie, Schwung
- trans_en: energy, <...>
+ trans_en: energy, momentum
 -lexeme
  lex: ḥəmra
  stem: ḥəmra.
@@ -18575,6 +18641,14 @@
  trans_de: Schwiegervater
  trans_en: father-in-law
 -lexeme
+ lex: ḥəngi
+ stem: ḥəngi.
+ root: ḥng
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_de: weil, so sehr (ḥəngi d-)
+ trans_en: because, so much (ḥəngi d-)
+-lexeme
  lex: ḥənniye
  stem: ḥənniye.
  root: ḥnn
@@ -18587,7 +18661,7 @@
  stem: ḥəntiye.
  root: ḥnt
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: dicke Suppe aus Weizen und Fleisch
  trans_en: thick soup from wheat and meat
 -lexeme
@@ -18603,7 +18677,7 @@
  stem: ḥərara.
  root: ḥrr
  gramm: N,f
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Schlamm im Brunnen oder Teich
  trans_en: mud, ooze in a well or a lake
 -lexeme
@@ -18671,14 +18745,6 @@
  trans_de: Stimme, Ton, Geräusch, Klang
  trans_en: sound, voice, noise, tone
 -lexeme
- lex: ḥəsb
- stem: ḥəsb.
- root: ḥsb
- gramm: N
- paradigm: <?>
- trans_de: <?>
- trans_en: <?>
--lexeme
  lex: ḥəsbe
  stem: ḥəsbe.|ḥəsbat.
  root: ḥsb
@@ -18688,10 +18754,10 @@
  trans_en: number; counting
 -lexeme
  lex: ḥəsesi
- stem: ḥəsesi.
+ stem: ḥəsesi.|ḥəsesiye.
  root: ḥss
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: Spion
  trans_en: spy
 -lexeme
@@ -18708,8 +18774,8 @@
  root: ḥsn
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: im Guten, auf freundliche Weise (b ḥəsn w rəḏ̣ḏ̣a)
+ trans_en: amicably, in a friendly manner (b ḥəsn w rəḏ̣ḏ̣a)
 -lexeme
  lex: ḥəssasiye
  stem: ḥəssasiye.
@@ -18735,6 +18801,14 @@
  trans_de: Sonntag 
  trans_en: Sunday
 -lexeme
+ lex: ḥəšbono
+ stem: ḥəšbono.//ḥəžbono.//ḥəšbolo.|ḥəšbone.//ḥəžbone.//ḥəšbole.
+ root: ḥšb
+ gramm: N,m
+ paradigm: N2
+ trans_de: Vermutung
+ trans_en: guess, thought
+-lexeme
  lex: ḥəššar
  stem: ḥəššar.
  root: ḥšr
@@ -18758,6 +18832,14 @@
  paradigm: <?>
  trans_de: Einwendung
  trans_en: objection
+-lexeme
+ lex: ḥət
+ stem: ḥət.
+ root: ḥt
+ gramm: N
+ paradigm: unchangeable
+ trans_de: sofort, auf der Stelle, ohne Bedingung (ḥət w nəṭ); Verhandlung, Streitigkeit (ḥət w nəṭ)
+ trans_en: immediately, right away; without restriction (ḥət w nəṭ); dispute, quarrel (ḥət w nəṭ)
 -lexeme
  lex: ḥətyaǧ/ḥətyaž/ḥtəyaž/ḥtəyaǧ
  stem: ḥətyaǧ.//ḥətyaž.//ḥtəyaǧ.//ḥtəyaž.
@@ -18827,9 +18909,9 @@
  stem: ḥəzzaqa.
  root: ḥzq
  gramm: N,f
- paradigm: N1
+ paradigm: N2
  trans_de: Strumpfband aus Gummi; wollener Teil des über den ersten gezogenen Überstrumpfes
- trans_en: garter made of rubber; <?>
+ trans_en: garter made of rubber; woolen part of the second sock which is pulled over the first sock
 -lexeme
  lex: ḥila/ḥile
  stem: ḥila.//ḥile.|ḥilat.//ḥiyal.
@@ -18851,7 +18933,7 @@
  stem: ḥiraḥir.
  root: ḥrḥr
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Wiehern
  trans_en: neighing
 -lexeme
@@ -18867,7 +18949,7 @@
  stem: ḥit.
  root: ḥt
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: Ziegenrasse, mit dicken, starken Haaren, aus denen Titik gemacht wird
 -lexeme
  lex: ḥize
@@ -18996,7 +19078,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Onkeleigenschaft, Onkelschaft
- trans_en: <?>
+ trans_en: uncleship
 -lexeme
  lex: ḥopḥop
  stem: ḥophop.
@@ -19026,7 +19108,7 @@
  stem: ḥowuṭo.
  root: ḥbṭ
  gramm: N,m
- paradigm: N1
+ paradigm: N2
  trans_de: Wäscheschlagholz
  trans_en: bat for clothes
 -lexeme
@@ -19034,7 +19116,7 @@
  stem: ḥrarat.
  root: ḥrr
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Transportsäcke
  trans_en: bags for transportation
 -lexeme
@@ -19058,7 +19140,7 @@
  stem: ḥrube.//ḥrubat.
  root: ḥrb
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Kriege, Kämpfe
  trans_en: war; fight
 -lexeme
@@ -19071,10 +19153,10 @@
  trans_en: counting, account
 -lexeme
  lex: ḥsomo
- stem: ḥsomo.|ḥsome.
+ stem: ḥsomo.
  root: ḥsm
  gramm: N,m
- paradigm: N2
+ paradigm: unchangeable
  trans_de: Missgunst
  trans_en: ill will
 -lexeme
@@ -19085,6 +19167,14 @@
  paradigm: N2
  trans_de: Abendessen
  trans_en: dinner
+-lexeme
+ lex: ḥširo
+ stem: ḥširo.|ḥšire.
+ root: ḥšr
+ gramm: ADJ
+ paradigm: N2
+ trans_de: eingezwängt
+ trans_en: <?>
 -lexeme
  lex: ḥtəraḏ
  stem: ḥtəraḏ.
@@ -19132,7 +19222,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: eine Spanne lange, etwas dickliche Eidechse, Agama srellio
- trans_en: one span long, a bit fat lizard, Agama srellio
+ trans_en: one span long a bit fat lizard, Agama srellio
 -lexeme
  lex: ḥuldo
  stem: ḥuldo.|ḥulde.
@@ -19162,7 +19252,7 @@
  stem: ḥurako.
  root: ḥrk
  gramm: N,m
- paradigm: <?>
+ paradigm: N2
  trans_de: runder Stein zum Zermalmen von Kräutern, z. B. des piḏre
  trans_en: round stone for crunching the herbs, for example piḏre
 -lexeme
@@ -19170,7 +19260,7 @@
  stem: ḥurmaḥurm.//ḥurmḥurm.
  root: ḥrmḥrm
  gramm: N
- paradigm: <?>
+ paradigm: unchangeable
  trans_de: leise lachen
  trans_en: silent laughter
 -lexeme
@@ -19186,12 +19276,12 @@
  stem: ḥurras.
  root: ḥrs
  gramm: N,pl
- paradigm: <?>
+ paradigm: N2
  trans_de: Wächter, Wachen
  trans_en: guard; watch
 -lexeme
  lex: ḥut
- stem: ḥut.|ḥute.
+ stem: ḥut.
  root: ḥt
  gramm: N,m
  paradigm: N2
@@ -26152,6 +26242,14 @@
  trans_de: Liebe
  trans_en: 
 -lexeme
+ lex: məḥləf
+ stem: məḥləf.//məḥlaf.//məḥlof.
+ root: ḥlf
+ gramm: PRP
+ paradigm: unchangeable
+ trans_de: anstatt, anstelle
+ trans_en: instead of
+-lexeme
  lex: məḥtarmo
  stem: məḥtarmo.
  root: ḥrm
@@ -29087,6 +29185,15 @@
  paradigm: N2
  trans_de: Buchstabe
  trans_en: letter
+-lexeme
+ lex: nəṭ
+ stem: nəṭ.
+ root: nṭ
+ gramm: N
+ paradigm: unchangeable
+ trans_de: sofort, auf der Stelle, ohne Bedingung (ḥət w nəṭ); Verhandlung, Streitigkeit (ḥət w nəṭ)
+ trans_en: immediately, right away; without restriction (ḥət w nəṭ); dispute, quarrel (ḥət w nəṭ)
+-lexeme
 -lexeme
  lex: nəṭəq
  stem: nəṭəq.
@@ -39401,8 +39508,8 @@
  root: šbṯ
  gramm: N,f
  paradigm: N2
- trans_de: Woche
- trans_en: week
+ trans_de: Woche; die Karwoche (i šabṯo du ḥašo)
+ trans_en: week; the Holy Week (i šabṯo du ḥašo)
 -lexeme
  lex: šadi
  stem: šadi.|šadiye.
