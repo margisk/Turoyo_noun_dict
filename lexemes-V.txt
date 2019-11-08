@@ -5,6 +5,7 @@
  gramm: V
  paradigm: V_I
  trans_de: studieren, arbeiten;
+ trans_en: to study; to work
 -lexeme
  lex: čǝlle/čoyǝr
  stem: .č.y.r.|.č.r.
@@ -12,6 +13,7 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: 1) zerreissen, einreissen; 2) zur Verzweiflung bringen (???);
+ trans_en: to tear, rip
 -lexeme
  lex: mdaʕdakle/mdaʕdǝk
  stem: .d.ʕd.k.
@@ -19,6 +21,7 @@
  gramm: V
  paradigm: V_I
  trans_de: niedertreten, zertrampeln, zerknittern;
+ trans_en: to trample down
 -lexeme
  lex: dʕǝfle/doʕǝf
  stem: .d.ʕ.f.
@@ -26,6 +29,7 @@
  gramm: V
  paradigm: V_I
  trans_de: stossen, schieben;
+ trans_en: to push
 -lexeme
  lex: dʕǝkle/doʕǝk
  stem: .d.ʕ.k.
@@ -33,6 +37,7 @@
  gramm: V
  paradigm: V_I
  trans_de: trampeln;
+ trans_en: to trample
 -lexeme
  lex: daʕǝr/doʕǝr
  stem: .d.ʕ.r.
@@ -40,6 +45,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) zurückkehren, wiederkommen, zurückkommen; 2) wieder (zurückverwandelt) werden; 3) inchoative; 4) (b-, m-) von (seinem Wort) zurücktreten, es brechen; 5) (m-) stehen, im Stich lassen, verzichten auf, ablassen von; 6) to repent (one’s sins b-)
+ trans_en: to return
 -lexeme
  lex: daʕǝṯ/doʕǝṯ
  stem: .d.ʕ.ṯ.
@@ -47,6 +53,7 @@
  gramm: V
  paradigm: V_I
  trans_de: schwitzen, verschwitzt werden;
+ trans_en: to sweat
 -lexeme
  lex: dʕele/doʕe
  stem: .d.ʕ.y.|.d.ʕ.
@@ -54,13 +61,15 @@
  gramm: V
  paradigm: V_I_3y
  trans_de: beten, Segenswünsche sprechen, (ʕal) Verwünschungen aussprechen; einladen?
+ trans_en: to pray, to beseech
 -lexeme
  lex: mdabaqle/mdabǝq
  stem: .d.b.q.
  root: dbq
  gramm: V
  paradigm: V_II
- trans_de: klebrig machen;
+ trans_de: klebrig machen
+ trans_en: make sticky
 -lexeme
  lex: mdaballe/mdabǝr
  stem: .d.b.r.
@@ -68,6 +77,7 @@
  gramm: V
  paradigm: V_II
  trans_de: 1) verwalten; 2) bewerkstelligen, fertig werden mit, fertigbringen; 3) arrangieren, Anstalten machen; 4) heraushelfen, auf die Sprünge helfen; 5) verschaffen, besorgen; 6) (mit ruḥo);
+ trans_en: to administer; to achieve, manage; to arrange; to provide
 -lexeme
  lex: dfǝʕle/dofǝʕ
  stem: .d.f.ʕ.
@@ -75,13 +85,15 @@
  gramm: V
  paradigm: V_I
  trans_de: verteidigen, abwehren;
+ trans_en: to protect
 -lexeme
  lex: dfn
  stem: .d.f.n.
  root: dfn
  gramm: V
  paradigm: V_I
- trans_de: Detransitive
+ trans_de: begraben
+ trans_en: to bury
 -lexeme
  lex: mdagele/mdagǝl
  stem: .d.g.l.
@@ -89,6 +101,7 @@
  gramm: V
  paradigm: V_II
  trans_de: 1) lügen, belügen (ʕal); 2) versprechen (ʕam);
+ trans_en: to lie; to promise
 -lexeme
  lex: mdagǝš/midagǝš
  stem: .d.g.š.
@@ -96,13 +109,15 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) wechseln;
+ trans_en: to change
 -lexeme
  lex: mdaġdaġle/mdaġdǝġ
  stem: .d.ġd.ġ.
  root: dġdġ
  gramm: V
  paradigm: V_I
- trans_de: kitzeln;
+ trans_de: kitzeln
+ trans_en: to tingle
 -lexeme
  lex: dġǝlle/doġǝr
  stem: .d.ġ.r.
@@ -110,6 +125,7 @@
  gramm: V
  paradigm: V_I
  trans_de: (hinein)stecken;
+ trans_en: to insert
 -lexeme
  lex: mdaġele/mdaġe
  stem: .d.ġ.y.|.d.ġ.
@@ -117,6 +133,7 @@
  gramm: V
  paradigm: V_II_3y
  trans_de: Brandmal aufdrücken;
+ trans_en: to impress a seal
 -lexeme
  lex: mdahǝb/midahǝb
  stem: .d.h.b.
@@ -124,6 +141,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) zerstreuen, verloren gehen lassen;
+ trans_en: <?>
 -lexeme
  lex: mdahdalle/mdahdǝr
  stem: .d.hd.r.
@@ -131,62 +149,71 @@
  gramm: V
  paradigm: V_I
  trans_de: auseinandertreiben;
+ trans_en: to drive apart
 -lexeme
  lex: dḥile/doḥǝl
  stem: .d.ḥ.l.
  root: dḥl
  gramm: V
  paradigm: V_I
- trans_de: fürchten;
+ trans_de: fürchten
+ trans_en: to fear
 -lexeme
  lex: mdaḥašle/mdaḥǝš
  stem: .d.ḥ.š.
  root: dḥš
  gramm: V
  paradigm: V_II
- trans_de: sich balgen;
+ trans_de: sich balgen
+ trans_en: to scrap
 -lexeme
  lex: mdaldašle/mdaldǝš
  stem: .d.ld.š.
  root: dldš
  gramm: V
  paradigm: V_I
- trans_de: mit den Füssen zertreten;
+ trans_de: mit den Füssen zertreten
+ trans_en: to trample
 -lexeme
  lex: dalǝf/dolǝf
  stem: .d.l.f.
  root: dlf
  gramm: V
  paradigm: V_I
- trans_de: lecken;
+ trans_de: lecken
+ trans_en: to leak
 -lexeme
  lex: dlǝkle/dolǝk
  stem: .d.l.k.
  root: dlk
  gramm: V
  paradigm: V_I
- trans_de: verwalken, verprügeln;
+ trans_de: verwalken, verprügeln
+ trans_en: to beat up
 -lexeme
  lex: mdalele/mdalǝl
  stem: .d.l.l.
  root: dll
  gramm: V
  paradigm: V_II
- trans_de: verwöhnen;
+ trans_de: verwöhnen
+ trans_en: to spoil
 -lexeme
  lex: mdalele/mdalǝl
  stem: .d.l.l.
  root: dll
  gramm: V
  paradigm: V_I
- trans_de: verkünden;
+ trans_de: verkünden
+ trans_en: to announce
 -lexeme
  lex: dalǝq/dolǝq
  stem: .d.l.q.
  root: dlq
  gramm: V
  paradigm: V_I
- trans_de: Preterit Intransitive
+ trans_de: <?>
+ trans_en: to burn
 -lexeme
  lex: dmǝʕle/domǝʕ
  stem: .d.m.ʕ.
