@@ -74,7 +74,8 @@
  lex: ʕabodo
  stem: ʕabodo.|ʕabode.
  root: ʕbd
- gramm: N,m
+ gramm: N
+ paradigm: N_mf
  trans_de: Gottesanbeter
  trans_en: worshipper
 -lexeme
@@ -178,6 +179,7 @@
  stem: ʕafino.|ʕafənto.|ʕafine.
  root: ʕfn
  gramm: ADJ
+ paradigm: N_mf
  trans_de: stinkig
  trans_en: stinky
 -lexeme
@@ -897,6 +899,7 @@
  stem: ʕarabana.|ʕarabanat.
  root: ʕrbn
  gramm: N,f
+ paradigm: N2
  trans_de: von Tieren gezogener Wagen
  trans_en: cart pulled by animals
 -lexeme
@@ -1772,6 +1775,7 @@
  stem: ʕəraqvaxwari.
  root: ʕrq
  gramm: ADJ
+ paradigm: unchangeable
  trans_de: von Schnaps betrunken
  trans_en: drunk from schnapps, vodka
 -lexeme
@@ -2572,6 +2576,7 @@
  paradigm: unchangeable
  trans_de: Leistungen, Taten
  trans_en: accomplished work, deeds
+-lexeme
  lex: afaṭiye
  stem: afaṭiye.
  root: fṭy
@@ -2832,6 +2837,7 @@
  stem: ala./hala.
  root: lh
  gramm: INTERJ
+ paradigm: unchangeable
  trans_de: Partikel zur Selbstverbesserung
  trans_en: particle used for correcting oneself
 -lexeme
@@ -4926,7 +4932,7 @@
  stem: bardəm.
  root: brdm
  gramm: INTERJ
- pardigm: unchangeable
+ paradigm: unchangeable
  trans_de: ich lasse los! (Zauberwort)
  trans_en: I let you go (spell)
 -lexeme
@@ -5069,8 +5075,8 @@
  lex: baroške
  stem: baroške.|baroškat.
  root: brš
- gramm: N,f
- paradigm: N,f,dim
+ gramm: N,f,dim
+ paradigm: N2
  trans_de: kleiner Kochtopf
  trans_en: small cooking pot
 -lexeme
@@ -7149,7 +7155,7 @@
  stem: čalabi.
  root: člb
  gramm: ADJ
- pardigm: unchangeable
+ paradigm: unchangeable
  trans_de: schön
  trans_en: beautiful
 -lexeme
@@ -9485,8 +9491,8 @@
  lex: daxil
  stem: daxil.
  root: dxl
- gramm: N,m
- paradimg: unchangeable
+ gramm: INTERJ
+ paradigm: unchangeable
  trans_de: Um Gottes Willen! Erbarmen! Schutz!
  trans_en: for God's sake! have mercy! protect (me)!
 -lexeme
@@ -12677,7 +12683,7 @@
  lex: galo
  stem: galo.
  root: gl
- gramm: 
+ gramm: PRTCL
  paradigm: unchangeable
  trans_de: Fragepartikel
  trans_en: question partikel
@@ -14230,6 +14236,7 @@
  stem: ġayəb.//ġayb.
  root: ġyb
  gramm: ADJ
+ paradigm: unchangeable
  trans_de: verloren, verschwunden (Schiffe)
  trans_en: lost, gone (ships)
 -lexeme
@@ -14850,10 +14857,10 @@
  trans_en: regular
 -lexeme
  lex: ǧaridat
- stem: ǧaridat.
+ stem: NONE.|ǧaridat.
  root: ǧrd
- gramm: N,pl
- paradgim: <?>
+ gramm: N
+ paradigm: N2
  trans_de: Wurfspeere
  trans_en: javelins
 -lexeme
@@ -17449,7 +17456,7 @@
  trans_en: intention, knowledge
 -lexeme
  lex: ḥammamčiye
- root: ḥammamčiye.|ḥammamčiyat.
+ stem: ḥammamčiye.|ḥammamčiyat.
  root: ḥmm
  gramm: N,f
  paradigm: N2
@@ -18407,8 +18414,6 @@
  paradigm: N2
  trans_de: Handvoll
  trans_en: handful
--lexeme
- lex: ḥə/ḥəh
 -lexeme
  lex: ḥəbro
  stem: ḥəbro.|UNKNOWN.
@@ -23531,7 +23536,7 @@
  trans_en: helper
 -lexeme
  lex: mʕawqo
- root: mʕawqo.|mʕawaqto.|mʕawqe.
+ stem: mʕawqo.|mʕawaqto.|mʕawqe.
  root: ʕwq
  gramm: ADJ
  paradigm: N2
@@ -25727,7 +25732,7 @@
  stem: maštyo.
  root: šty
  gramm: N,m
- paradidgm: N2
+ paradigm: N2
  trans_de: Getränk
  trans_en: drink
 -lexeme
@@ -27031,7 +27036,7 @@
  stem: məṯəl
  root: mṯl
  gramm: <?>
- pardigm: unchangeable
+ paradigm: unchangeable
  trans_de: <?>
  trans_en: <?>
 -lexeme
@@ -29534,7 +29539,7 @@
  stem: nəha.
  root: nh
  gramm: ADV
- paradgim: unchangeable
+ paradigm: unchangeable
  trans_de: jetzt
  trans_en: now
 -lexeme
@@ -30655,7 +30660,7 @@
  stem: parakanda.
  root: prknd
  gramm: ADJ
- praadigm: unchangeable
+ paradigm: unchangeable
  trans_de: arm, in schlechten Vermögensverhältnissen
  trans_en: poor, in bad financial situation
 -lexeme
@@ -30886,7 +30891,7 @@
  stem: peda.
  root: pd
  gramm: <?>
- trans_de: unchangeable
+ paradigm: unchangeable
  trans_de: (nachgestellt) außer
  trans_en: (in post-position) except
 -lexeme
@@ -30910,6 +30915,7 @@
  stem: perra.
  root: pr
  gramm: ADV
+ paradigm: unchangeable
  trans_de: damit, mit einem Male (perra perra)
  trans_en: with it, all of a sudden (perra perrra)
 -lexeme
@@ -31611,7 +31617,7 @@
  lex: poṭine
  stem: poṭine.
  root: pṭn
- gramm :N
+ gramm: N
  paradigm: <?>
  trans_de: Paar Soldatenstiefel
  trans_en: a pair of soldier boots
@@ -32164,7 +32170,7 @@
  stem: qaḥilo.|qaḥəlto.|qaḥile.
  root: qḥl
  gramm: ADJ
- paradimg: N2
+ paradigm: N_mf
  trans_de: dürr; verbrannt (wie Sodom und Gomorrha); zerstört
  trans_en: arid; burned down (like Sodom and Gomorra); destroyed
 -lexeme
@@ -35867,7 +35873,8 @@
  lex: raxawe
  stem: raxawe.
  root: rxw
- gramm: unchangeable
+ gramm: N
+ paradigm: unchangeable
  trans_de: Schlaffheit
  trans_en: slackness
 -lexeme
