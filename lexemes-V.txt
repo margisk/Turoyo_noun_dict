@@ -221,6 +221,7 @@
  gramm: V
  paradigm: V_I
  trans_de: tränen
+ trans_en: to tear (eyes)
 -lexeme
  lex: mdamdamle/mdamdǝm
  stem: .d.md.m.
@@ -228,6 +229,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) murmeln, murren; 2) (Detrans.) glühend heiss werden (voller Ofen)
+ trans_en: murmur, mutter
 -lexeme
  lex: dmǝġle/domǝġ
  stem: .d.m.ġ.
@@ -235,6 +237,7 @@
  gramm: V
  paradigm: V_I
  trans_de: stempeln
+ trans_en: to stamp
 -lexeme
  lex: mdamalle/mdamǝn
  stem: .d.m.n.
@@ -242,6 +245,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Arbeiten, Bauten) übernehmen
+ trans_en: to overtake (job, building work)
 -lexeme
  lex: mdamalle/mdamǝr
  stem: .d.m.r.
@@ -249,6 +253,7 @@
  gramm: V
  paradigm: V_II
  trans_de: staunen, verblüfft werden
+ trans_en: to be astonished
 -lexeme
  lex: mdamǝš/midamǝš
  stem: .d.m.š.
@@ -256,6 +261,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) klebrig werden
+ trans_en: to become sticky
 -lexeme
  lex: damǝx/domǝx
  stem: .d.m.x.
@@ -263,6 +269,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) to sleep, to go to sleep (ʕam ḥḏoḏe) to have sexual intercourse ???; 2) to lie, to rest, to lie down
+ trans_en: to sleep; to lie down
 -lexeme
  lex: dmele/dome
  stem: .d.m.y.|.d.m.
@@ -270,6 +277,7 @@
  gramm: V
  paradigm: V_I_3y
  trans_de: ähneln
+ trans_en: to resemble
 -lexeme
  lex: dnǝgle/donǝg
  stem: .d.n.g.
@@ -277,6 +285,7 @@
  gramm: V
  paradigm: V_I
  trans_de: vollschlagen
+ trans_en: to fill the stomach full
 -lexeme
  lex: mdapdaple/mdapdǝp
  stem: .d.pd.p.
@@ -284,6 +293,7 @@
  gramm: V
  paradigm: V_I
  trans_de: stark heizen
+ trans_en: to heat strongly
 -lexeme
  lex: mdaqdaqle/mdaqdǝq
  stem: .d.qd.q.
@@ -291,6 +301,7 @@
  gramm: V
  paradigm: V_I
  trans_de: verprügeln, begatten
+ trans_en: to beat, to strike
 -lexeme
  lex: mdaqalle/mdaqǝr
  stem: .d.q.r.
@@ -298,6 +309,7 @@
  gramm: V
  paradigm: V_II
  trans_de: stemmen
+ trans_en: <?>
 -lexeme
  lex: mdarbasle/mdarbǝs
  stem: .d.rb.s.
@@ -305,6 +317,7 @@
  gramm: V
  paradigm: V_I
  trans_de: ordentlich, gründlich machen (Arbeit)
+ trans_en: to make thoroughly (work)
 -lexeme
  lex: mdarǝd/midarǝd
  stem: .d.r.d.
@@ -312,6 +325,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) sich abquälen
+ trans_en: <?>
 -lexeme
  lex: mdardamle/ mdardǝm
  stem: .d.rd.m.
@@ -319,6 +333,7 @@
  gramm: V
  paradigm: V_I
  trans_de: mit Bitten quälen
+ trans_en: <?>
 -lexeme
  lex: mdaraǧle/mdarǝǧ
  stem: .d.r.ǧ.
@@ -326,6 +341,7 @@
  gramm: V
  paradigm: V_II
  trans_de: verkaufen, an den Mann bringen
+ trans_en: to sell
 -lexeme
  lex: mdarkamle/mdarkǝm
  stem: .d.rk.m.
@@ -333,6 +349,7 @@
  gramm: V
  paradigm: V_I
  trans_de: mit Fäusten schlagen, kämpfen
+ trans_en: to hit with fists; to fight
 -lexeme
  lex: mdarmalle/mdarmǝn
  stem: .d.rm.n.
@@ -340,6 +357,7 @@
  gramm: V
  paradigm: V_I
  trans_de: mit Heilmitteln behandeln, beimischen (einer Flüssigkeit), sie versetzen mit
+ trans_en: to treat with medicine; to add (to a liquid)
 -lexeme
  lex: drǝlle/dorǝn
  stem: .d.r.n.
@@ -347,6 +365,7 @@
  gramm: V
  paradigm: V_I
  trans_de: mit dem schwarzen, glatten Stein dōrūno glätten (getünchte Wand)
+ trans_en: <?>
 -lexeme
  lex: drǝxle/dorǝx
  stem: .d.r.х.
@@ -354,6 +373,7 @@
  gramm: V
  paradigm: V_I
  trans_de: ranken, ohne sie abzuschneiden, unter der Erde herführen und einpflanzen
+ trans_en: <?>
 -lexeme
  lex: drele/dore
  stem: .d.r.y.|.d.r.
@@ -361,6 +381,7 @@
  gramm: V
  paradigm: V_I_3y
  trans_de: 1) zur Erde niederwerfen, fallen lassen; 2) (šlomo) grüssen, den Gruss entbieten; 3) ertönen lassen, erheben  4) hineingeben, hinzufügen jl S. 143; 5) verlieren (???)
+ trans_en: to bring down to the ground; to greet (dore šlomo)
 -lexeme
  lex: drǝzle/dorǝz
  stem: .d.r.z.
@@ -368,6 +389,7 @@
  gramm: V
  paradigm: V_I
  trans_de: für die Schule arbeiten, studieren
+ trans_en: to study
 -lexeme
  lex: drǝzle/dorǝz
  stem: .d.r.z.
@@ -375,6 +397,7 @@
  gramm: V
  paradigm: V_I
  trans_de: eine Engmaschige naht machen
+ trans_en: to sew up
 -lexeme
  lex: mdašdašle/mdašdǝš
  stem: .d.šd.š.
@@ -382,6 +405,7 @@
  gramm: V
  paradigm: V_I
  trans_de: herumtrampeln, drängen, stossen
+ trans_en: to stamp around, to trample, to push
 -lexeme
  lex: mdawdaḥle/mdawdǝḥ
  stem: .d.wd.ḥ.
@@ -389,6 +413,7 @@
  gramm: V
  paradigm: V_I
  trans_de: schnell hinunterlassen
+ trans_en: to let smth. fall down
 -lexeme
  lex: mdawdǝl/midawdǝl
  stem: .d.wd.l.
@@ -396,6 +421,7 @@
  gramm: V
  paradigm: V_I
  trans_de: (Detrans.) baumeln, pendeln
+ trans_en: to dangle
 -lexeme
  lex: dwǝġle/dowǝġ
  stem: .d.w.ġ.|.d.ġ.
@@ -403,6 +429,7 @@
  gramm: V
  paradigm: V_I_2w
  trans_de: ein Brandmal aufdrücken, kauterisieren
+ trans_en: to brand; to cauterize
 -lexeme
  lex: mdawhalle/mdawhǝr
  stem: .d.wh.r.
@@ -410,6 +437,7 @@
  gramm: V
  paradigm: V_I
  trans_de: verloren gehen lassen
+ trans_en: to dispose of smb.
 -lexeme
  lex: mdawlable/mdawlǝb
  stem: .d.wl.b.
@@ -417,6 +445,7 @@
  gramm: V
  paradigm: V_I
  trans_de: vorstehen, verwalten, die Arbeit verteilen
+ trans_en: <?>
 -lexeme
  lex: mdawamle/mdawǝm
  stem: .d.w.m.|.d.m.
@@ -424,6 +453,7 @@
  gramm: V
  paradigm: V_II_2w
  trans_de: fortfahren, fortsetzen, weitergehen, andauern
+ trans_en: to continue (intr.); to continue doing smth.
 -lexeme
  lex: mdawmǝr/midawmǝr
  stem: .d.wm.r.
@@ -431,6 +461,7 @@
  gramm: V
  paradigm: V_I
  trans_de: (Detrans.) auf's höchste Erstaunt, verblüfft sein
+ trans_en: to be astonished, to be amazed
 -lexeme
  lex: dwǝqle/dowǝq
  stem: .d.w.q.|.d.q.
@@ -438,6 +469,7 @@
  gramm: V
  paradigm: V_I_2w
  trans_de: den Teig für das Fladenbrot an der Innenseite des Backofens festkleben, Fladenbrot backen
+ trans_en: to bake pitas; to stick the dough for pitas to the inside wall of the baking oven
 -lexeme
  lex: dwǝlle/dowǝr
  stem: .d.w.r.|.d.r.
@@ -445,6 +477,7 @@
  gramm: V
  paradigm: V_I_2w
  trans_de: ackern, pflügen (mit ʕal), speziell das zweite Ackern nach dem krōwo, dem Aufackern des Brachlandes, mit den Furchen senkrecht zu dem krowo
+ trans_en: to plough, to till
 -lexeme
  lex: mdawalle/mdawǝr
  stem: .d.w.r.|.d.r.
@@ -452,6 +485,7 @@
  gramm: V
  paradigm: V_II_2w
  trans_de: eine Wand aufrichten rings über der Decke (qṭoro) des Hauses, das gegiebelte Dachwerk rings auffüllen
+ trans_en: <?>
 -lexeme
  lex: mdawasle/mdawǝs
  stem: .d.w.s.|.d.s.
@@ -459,6 +493,7 @@
  gramm: V
  paradigm: V_II_2w
  trans_de: hineinstopfen (wolle in einen Sack, Tabak in eine Pfeife), feststopfen, mit dem Fusse niedertreten
+ trans_en: to tread down
 -lexeme
  lex: dwǝṣle/dowǝṣ
  stem: .d.w.ṣ.|.d.ṣ.
@@ -466,6 +501,7 @@
  gramm: V
  paradigm: V_I_2w
  trans_de: stechen, beissen (Schlange, Skorpion, Insekt)
+ trans_en: to sting
 -lexeme
  lex: mdawele/mdawe
  stem: .d.w.y.|.d.w.|.d.y.
@@ -473,6 +509,7 @@
  gramm: V
  paradigm: V_II_2w_3y
  trans_de: betrügen, bevorteilen
+ trans_en: <?>
 -lexeme
  lex: mdaxele/mdaxǝl
  stem: .d.x.l.
@@ -480,6 +517,7 @@
  gramm: V
  paradigm: V_II
  trans_de: 1) einmischen; 2) um Gnade bitten
+ trans_en: to beg for mercy
 -lexeme
  lex: dǝfle/doyǝf
  stem: .d.y.f.|.d.f.
@@ -487,6 +525,7 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: bestreichen
+ trans_en: to coat
 -lexeme
  lex: madile/madǝl
  stem: .d.y.l.|.d.l.
@@ -494,6 +533,7 @@
  gramm: V
  paradigm: V_III_2y
  trans_de: (an)zeigen, Zeichen machen, Hinweis geben
+ trans_en: to show
 -lexeme
  lex: madǝmle/madǝm
  stem: .d.y.m.|.d.m.
@@ -501,6 +541,7 @@
  gramm: V
  paradigm: V_III_2y
  trans_de: dauern lassen, durchhalten; dauern, andauern jl 20.5
+ trans_en: to prolong; to keep doing smth.; to last
 -lexeme
  lex: mdayalle/mdayǝn
  stem: .d.y.n.|.d.n.
@@ -508,6 +549,7 @@
  gramm: V
  paradigm: V_II_2y
  trans_de: entleihen, ein Darlehen aufnehmen, ausleihen, borgen
+ trans_en: to lend
 -lexeme
  lex: mdayalle/mdayǝn
  stem: .d.y.n.|.d.n.
@@ -515,13 +557,15 @@
  gramm: V
  paradigm: V_II_2y
  trans_de: sich anlehnen
+ trans_en: to borrow
 -lexeme
  lex: dǝqle/doyǝq
- stem: .c.f...
- root: cf.
+ stem: .d.y.q.|.d.q.
+ root: dyq
  gramm: V
  paradigm: V_I
  trans_de: 1) klopfen (an Tür) (akk. ʕal, b-); 2) einrahmen, einstossen, (mit dem Hammer) schlagen; 3) drücken, aufdrücken, stempeln; 4) Berühren anfassen, anrühren; 5) spielen (Karten u.a.); 6) spielen (Musikinstrument); 7) (ʕal) anzeigen (bei der Polizei); 8) (Detrans.) berühren, treffen auf, fallen auf (ʕal, b-); 9) pound, grind
+ trans_en: to beat; to knock (on the door); to pound, to grind; to play (a musical instrument); to touch
 -lexeme
  lex: madǝqle/madǝq
  stem: .d.y.q.|.d.q.
@@ -529,6 +573,7 @@
  gramm: V
  paradigm: V_III_2y
  trans_de: schauen
+ trans_en: to watch
 -lexeme
  lex: dǝšle/doyǝš
  stem: .d.y.š.|.d.š.
@@ -536,6 +581,7 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: auf(treten); überfahren
+ trans_en: to tread; to run over
 -lexeme
  lex: mdayšalle/mdayšǝn
  stem: .d.yš.n.
@@ -543,6 +589,7 @@
  gramm: V
  paradigm: V_I
  trans_de: anfangen (zu — ʕal, b-, l-)
+ trans_en: to begin
 -lexeme
  lex: mdaywalle/mdaywǝn
  stem: .d.yw.n.
@@ -550,6 +597,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) wahnsinnig, rasend machen, (Intrans.) wahnsinnig werden; 2) (Detrans.) wahnsinnig, rasend werden
+ trans_en: to become mad, to go crazy
 -lexeme
  lex: madǝxle/madǝx
  stem: .d.y.x.|.d.x.
@@ -557,6 +605,7 @@
  gramm: V
  paradigm: V_III_2y
  trans_de: betäuben
+ trans_en: to stun
 -lexeme
  lex: maḏǝble/maḏǝb
  stem: .ḏ.y.b.|.ḏ.b.
@@ -564,6 +613,7 @@
  gramm: V
  paradigm: V_III_2y
  trans_de: schmelzen lassen, zum Schmelzen bringen
+ trans_en: <?>
 -lexeme
  lex: ḏǝmle/ḏoyǝm
  stem: .ḏ.y.m.|.ḏ.m.
@@ -571,6 +621,7 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: kritisieren
+ trans_en: to criticize
 -lexeme
  lex: ḏǝqle/ḏoyǝq
  stem: .ḏ.y.q.|.ḏ.q.
@@ -578,6 +629,7 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: schmecken, kosten
+ trans_en: to taste
 -lexeme
  lex: d̞aʕǝf/d̞oʕǝf
  stem: .d.̞ʕ.f.
@@ -585,6 +637,7 @@
  gramm: V
  paradigm: V_I
  trans_de: schwach werden, abmagern
+ trans_en: to become weak, emaciated
 -lexeme
  lex: md̞aḥele/md̞aḥe
  stem: .d.̞ḥ.y.
@@ -592,6 +645,7 @@
  gramm: V
  paradigm: V_II
  trans_de: aufopfern
+ trans_en: <?>
 -lexeme
  lex: d̞lǝmle/d̞olǝm
  stem: .d.̞l.m.
@@ -599,6 +653,7 @@
  gramm: V
  paradigm: V_I
  trans_de: Unrecht tun
+ trans_en: to do wrong
 -lexeme
  lex: md̞ayaʕle/md̞ayǝʕ
  stem: .d.̞y.ʕ.
@@ -606,6 +661,7 @@
  gramm: V
  paradigm: V_II
  trans_de: verlieren, zum Verschwinden bringen, vernichten, vertuschen, in Vergessenheit geraten lassen
+ trans_en: to lose
 -lexeme
  lex: d̞ayǝf/d̞oyǝf
  stem: .d.̞y.f.
@@ -613,13 +669,15 @@
  gramm: V
  paradigm: V_I
  trans_de: zu Gaste sein
+ trans_en: to stay as a guest
 -lexeme
  lex: mad̞ǝlle/mad̞ǝr
  stem: .d.̞y.r.
  root: d̞yr
  gramm: V
  paradigm: V_III
- trans_de: (ʕal) das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
+ trans_de: das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
+ trans_en: to put an animal kid under its mother, so that the mother gives milk
 -lexeme
  lex: mad̞ǝlle/mad̞ǝr
  stem: .d.̞y.r.
@@ -627,6 +685,7 @@
  gramm: V
  paradigm: V_III
  trans_de: schaden
+ trans_en: to harm
 -lexeme
  lex: fʕile/foʕǝl
  stem: .f.ʕ.l.
@@ -634,6 +693,7 @@
  gramm: V
  paradigm: V_I
  trans_de: anstellen
+ trans_en: <?>
 -lexeme
  lex: fčǝxle/fočǝx
  stem: .f.č.x.
@@ -641,6 +701,7 @@
  gramm: V
  paradigm: V_I
  trans_de: in zwei Teile auseinanderreissen, spreizen (Beine)
+ trans_en: <?>
 -lexeme
  lex: fdele/fode
  stem: .f.d.y.|.f.d.
@@ -648,6 +709,7 @@
  gramm: V
  paradigm: V_I_3y
  trans_de: opfern
+ trans_en: to sacrifice
 -lexeme
  lex: mafd̞aḥle/mafd̞ǝḥ
  stem: .f.d̞.ḥ.
@@ -655,6 +717,7 @@
  gramm: V
  paradigm: V_III
  trans_de: beschämen
+ trans_en: to put to shame
 -lexeme
  lex: fad̞ǝl/fod̞ǝl
  stem: .f.d̞.l.
@@ -662,6 +725,7 @@
  gramm: V
  paradigm: V_I
  trans_de: reichlich vorhanden
+ trans_en: <?>
 -lexeme
  lex: mfaǧaʕle/mfaǧǝʕ
  stem: .f.ǧ.ʕ.
@@ -669,6 +733,7 @@
  gramm: V
  paradigm: V_II
  trans_de: verkaufen, an den Mann bringen
+ trans_en: to sell
 -lexeme
  lex: fhǝmle/fohǝm
  stem: .f.h.m.
@@ -676,6 +741,7 @@
  gramm: V
  paradigm: V_I
  trans_de: merken, begreifen, verstehen
+ trans_en: to understand, to realize
 -lexeme
  lex: mfahǝr/mifahǝr
  stem: .f.h.r.
@@ -683,6 +749,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) gähnen
+ trans_en: to yawn
 -lexeme
  lex: mfaḥele/mfaḥǝl
  stem: .f.ḥ.l.
@@ -690,6 +757,7 @@
  gramm: V
  paradigm: V_II
  trans_de: verzeihen, als ḥalāl betrachten
+ trans_en: to forgive
 -lexeme
  lex: mfaḥamle/mfaḥǝm
  stem: .f.ḥ.m.
@@ -697,6 +765,7 @@
  gramm: V
  paradigm: V_II
  trans_de: sich ärgern
+ trans_en: to become angry
 -lexeme
  lex: fḥǝṣle/foḥǝṣ
  stem: .f.ḥ.ṣ.
@@ -704,6 +773,15 @@
  gramm: V
  paradigm: V_I
  trans_de: untersuchen
+ trans_en: to investigate
+-lexeme
+ lex: mfaḥəṣ/mfaḥaṣle
+ stem: .f.ḥ.ṣ.
+ root: fḥṣ
+ gramm: V
+ paradigm: V_II
+ trans_de: untersuchen
+ trans_en: to investigate
 -lexeme
  lex: mfaḥašle/mfaḥǝš
  stem: .f.ḥ.š.
@@ -711,6 +789,7 @@
  gramm: V
  paradigm: V_II
  trans_de: lockeres Leben führen
+ trans_en: <?>
 -lexeme
  lex: mfakfakle/mfakfǝk
  stem: .f.kf.k.
@@ -718,6 +797,7 @@
  gramm: V
  paradigm: V_I
  trans_de: lösen, losmachen; bissen, Stück Brot brocken
+ trans_en: to loosen, to detach
 -lexeme
  lex: mfakǝr/mifakǝr
  stem: .f.k.r.
@@ -725,6 +805,7 @@
  gramm: V
  paradigm: V_II
  trans_de: (Detrans.) stecken, eingeklemmt bleiben
+ trans_en: to get stuck
 -lexeme
  lex: mfakalle/mfakǝr
  stem: .f.k.r.
@@ -732,6 +813,7 @@
  gramm: V
  paradigm: V_II
  trans_de: denken, nachdenken
+ trans_en: to think, to ponder
 -lexeme
  lex: flǝġle/folǝġ
  stem: .f.l.ġ.
@@ -739,6 +821,7 @@
  gramm: V
  paradigm: V_I
  trans_de: teilen
+ trans_en: 
 -lexeme
  lex: ftǝḥle/fotǝḥ
  stem: .f.l.ḥ.
