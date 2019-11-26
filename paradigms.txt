@@ -30,65 +30,65 @@
  # Present
  -flex: .o.ə.
   gramm: prs,3,sg,m
- -flex: .ə..ət
+ -flex: .ə..ət//.u..ət//.ə..at//.u..at
   gramm: prs,2,sg,m
- -flex: .o.a.no
+ -flex: .o.a.no//.u.a.no
   gramm: prs,1,sg,m
- -flex: .ə..o
+ -flex: .ə..o//.u..o
   gramm: prs,3,sg,f
- -flex: .ə..at
+ -flex: .ə..at//.ə..ət//.u..ət//.u..at
   gramm: prs,2,sg,f
- -flex: .ə..ono
+ -flex: .ə..ono//.u..ono
   gramm: prs,1,sg,f
- -flex: .ə..i
+ -flex: .ə..i//.u..i
   gramm: prs,3,pl
- -flex: .ə..utu
+ -flex: .ə..utu//.u..itu//.ə..itu//.u..utu
   gramm: prs,2,pl
- -flex: .ə..ina
+ -flex: .ə..ina//.u..ina
   gramm: prs,1,pl
 
  # Present+ko
- -flex: ko.o.ə.//k.o.ə.//kə.o.ə.
+ -flex: ko.o.ə.//k.o.ə.
   gramm: prs,dur,3,sg,m
- -flex: ko.ə..ət//k.ə..ət//kə.ə..ət
+ -flex: ko.ə..ət//k.ə..ət//k.u..ət//ko.u..ət//ko.ə..at//k.ə..at//ko.u..at//k.u..at
   gramm: prs,dur,2,sg,m
- -flex: ko.o.a.no//k.o.a.no//kə.o.a.no
+ -flex: ko.o.a.no//k.o.a.no//k.u.a.no//k.ə.a.no
   gramm: prs,dur,1,sg,m
- -flex: ko.ə..o//k.ə..o//kə.ə..o
+ -flex: ko.ə..o//k.ə..o//ko.u..o//k.u..o
   gramm: prs,dur,3,sg,f
- -flex: ko.ə..at//k.ə..at//kə.ə..at
+ -flex: ko.ə..at//k.ə..at//ko.u..at//k.u..at//ko.ə..ət//k.ə..ət//ko.u..ət//k.u..ət
   gramm: prs,dur,2,sg,f
- -flex: ko.ə..ono//k.ə..ono//kə.ə..ono
+ -flex: ko.ə..ono//k.ə..ono//ko.u..ono//k.u..ono
   gramm: prs,dur,1,sg,f
- -flex: ko.ə..i//k.ə..i//kə.ə..i
+ -flex: ko.ə..i//k.ə..i//ko.u..i//k.u..i
   gramm: prs,dur,3,pl
- -flex: ko.ə..utu//k.ə..utu//kə.ə..utu
+ -flex: ko.ə..utu//k.ə..utu//ko.ə..itu//k.ə..itu//ko.u..utu//k.u..utu//ko.u..itu//k.u..itu
   gramm: prs,dur,2,pl
- -flex: ko.ə..ina//k.ə..ina//kə.ə..ina
+ -flex: ko.ə..ina//k.ə..ina//ko.u..ina//k.u..ina
   gramm: prs,dur,1,pl
 
  # Future
- -flex: gəd.o.ə.//gd.o.ə.//gə.o.ə.//g.o.ə.
+ -flex: gəd.o.ə.//g.o.ə.
   gramm: fut,3,sg,m
- -flex: gəd.ə..ət//gd.ə..ət//gə.ə..ət//g.ə..ət
+ -flex: gəd.ə..ət//g.ə..ət//gəd.u..ət//g.u..ət//gəd.ə..at//g.ə..at//gəd.u..at//g.u..at
   gramm: fut,2,sg,m
- -flex: gəd.o.a.no//gd.o.a.no//gə.o.a.no//g.o.a.no
+ -flex: gəd.o.a.no//g.o.a.no//gəd.u.a.no//gəd.ə.a.no//g.u.a.no//g.ə.a.no
   gramm: fut,1,sg,m
- -flex: gəd.ə..o//gd.ə..o//gə.ə..o//g.ə..o
+ -flex: gəd.ə..o//gəd.u..o//g.ə..o//g.u..o
   gramm: fut,3,sg,f
- -flex: gəd.ə..at//gd.ə..at//gə.ə..at//g.ə..at
+ -flex: gəd.ə..at//g.ə..at//gəd.u..at//g.u..at//gəd.ə..ət//g.ə..ət//gəd.u..ət//g.u..ət
   gramm: fut,2,sg,f
- -flex: gəd.ə..ono//gd.ə..ono//gə.ə..ono//g.ə..ono
+ -flex: gəd.ə..ono//gəd.u..ono//g.ə..ono//g.u..ono
   gramm: fut,1,sg,f
- -flex: gəd.ə..i//gd.ə..i//gə.ə..i//g.ə..i
+ -flex: gəd.ə..i//gəd.u..i//g.ə..i//g.u..i
   gramm: fut,3,pl
- -flex: gəd.ə..utu//gd.ə..utu//gə.ə..utu//g.ə..utu
+ -flex: gəd.ə..utu//g.ə..utu//gəd.u..utu//g.u..utu//gəd.ə..itu//g.ə..itu//gəd.u..itu//g.u..itu
   gramm: fut,2,pl
- -flex: gəd.ə..ina//gd.ə..ina//gə.ə..ina//g.ə..ina
+ -flex: gəd.ə..ina//gəd.u..ina//g.ə..ina//g.u..ina
   gramm: fut,1,pl
  
  # Imperfect
- -flex: .o.a.wa
+ -flex: .o.a.wa//ko.o.a.wa//k.o.a.wa//g.o.a.wa//gəd.o.a.wa//.o.a.wo//ko.o.a.wo//k.o.a.wo//g.o.a.wo//gəd.o.a.wo//.u.a.wo//ko.u.a.wo//k.u.a.wo//g.u.a.wo//gəd.u.a.wo
   gramm: ipf,3,sg,m
  -flex: .ə..ətwa
   gramm: ipf,2,sg,m
@@ -1079,3 +1079,5 @@
   gramm: pst,2,pl,3pl.o
  -flex: m.a..ilan
   gramm: pst,1,pl,3pl.o
+  
+  # Infectum-wa
