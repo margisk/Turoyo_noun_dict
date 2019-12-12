@@ -7356,32 +7356,44 @@
  trans_de: prahlen mit Reden (etwa vor dem Kampf), ausschelten, drohen
 -lexeme
  lex: mzarzǝl/mizarzǝl
- stem: .z.rz.l.
+ stem: .z.rz.l.|.z.rz.
  root: zrzl
  gramm: V
- paradigm: V_I
+ paradigm: V_Q_3l
  trans_de: (Detrans.) zerlumpen
+ trans_en: to tatter
 -lexeme
  lex: zwǝlle/zowǝn
- stem: .z.w.n.|.z.n.
+ stem: .z.w.n.|.z.w.l.|.z.n.
  root: zwn
  gramm: V
- paradigm: V_I_2w
+ paradigm: V_I_2w_3n
  trans_de: 1) kaufen; 2) (mit und ohne lebo) Herz gewinnen
+ trans_en: to buy; (with and without lebo) to win someone`s heart
+-lexeme
+ lex: mzawalle/mzawən
+ stem: .z.w.n.|.z.w.l.
+ root: zwn
+ gramm: V
+ paradigm: V_II_3n
+ trans_de: verkaufen
+ trans_en: to sell
 -lexeme
  lex: mzawaqle/mzawǝq
- stem: .z.w.q.|.z.q.
+ stem: .z.w.q.
  root: zwq
  gramm: V
- paradigm: V_II_2w
+ paradigm: V_II
  trans_de: durch Herunterrieseln reinigen 
+ trans_en: to clean with droplets
 -lexeme
  lex: mzawzǝq/mixawzǝq
  stem: .z.wz.q.
  root: zwzq
  gramm: V
- paradigm: V_I
+ paradigm: V_Qp
  trans_de: (Detrans.) sich anhängen
+ trans_en: to stick <?>
 -lexeme
  lex: zayǝʕ/zoyǝʕ
  stem: .z.y.ʕ.|.z.ʕ.
@@ -7389,13 +7401,23 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: Angst, Schrecken bekommen, fürchten
+ trans_en: to get scared, afraid, to fear
+-lexeme
+ lex: zayǝʕ/zoyǝʕ
+ stem: .z.y.ʕ.|.z.ʕ.
+ root: zyʕ
+ gramm: V
+ paradigm: V_III_2y
+ trans_de: Angst machen
+ trans_en: to scare
 -lexeme
  lex: mzayʕafle/mzayʕǝf
  stem: .z.yʕ.f.
  root: zyʕf
  gramm: V
- paradigm: V_I
+ paradigm: V_Q
  trans_de: schwach, mager werden
+ trans_en: to become weak, thin
 -lexeme
  lex: zayǝd/zoyǝd
  stem: .z.y.d.|.z.d.
@@ -7403,34 +7425,55 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: zunehmen, mehr werden
+ trans_en: to increase
+-lexeme
+ lex: mazədle/mazəd
+ stem: .z.y.d.|.z.d.
+ root: zyd
+ gramm: V
+ paradigm: V_III_2y
+ trans_de: zunehmen, mehr werden
+ trans_en: to multiply
 -lexeme
  lex: zile/zoyǝl
- stem: .z.y.l.|.z.l.
+ stem: .z.y.l.|.z.l.|.z.y.
  root: zyl
  gramm: V
- paradigm: V_I_2y
+ paradigm: V_I_2y_3l
  trans_de: Beimischungen absetzen
+ trans_en: to remove impurities
 -lexeme
  lex: mzayalle/mzayǝn
- stem: .z.y.n.|.z.n.
+ stem: .z.y.n.|.z.y.l.
  root: zyn
  gramm: V
- paradigm: V_II
+ paradigm: V_II_3n
  trans_de: schmücken
+ trans_en: to decorate
 -lexeme
  lex: zǝlle/zoyǝr
+ stem: .z.y.r.|.z.y.l.|.z.y.n.|.z.r.
+ root: zyr
+ gramm: V
+ paradigm: V_I_2y_3r
+ trans_de: besuchen
+ trans_en: to visit
+-lexeme
+ lex: zayǝr/zoyǝr
  stem: .z.y.r.|.z.r.
  root: zyr
  gramm: V
- paradigm: V_I_2y
- trans_de: besuchen
+ paradigm: V_I_2y_3r
+ trans_de: <?>
+ trans_en: to become fat
 -lexeme
- lex: žbīr/mǝžbǝr
+ lex: žbir/mǝžbǝr
  stem: .ž.b.r.
  root: žbr
  gramm: V
- paradigm: V_I
+ paradigm: V_Ip_3r
  trans_de: (Detrans.) zwingen
+ trans_en: to force
 -lexeme
  lex: abǝʕ/obǝʕ
  stem: ..b.ʕ.
