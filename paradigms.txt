@@ -170,11 +170,11 @@
   gramm: prs,3,pl,3pl.o
  -flex: .u..ənxu//.u..ənxun//.ə..ənxu//.ə..ənxun//.u..əxxu//.ə..əxxu
   gramm: prs,3,pl,2pl.o
- -flex: .u..ilan
+ -flex: .u..ilan//.ə..ilan
   gramm: prs,3,pl,1pl.o
  -flex: .u..itulle//.ə..itulle//.u..utəlle//.ə..utəlle//.ə..utle//.u..utle
   gramm: prs,2,pl,3sg.m.o
- -flex: .u..itulla//.ə..itulla//.u..utəlla//.ə..utəlla//.ə..utla//.ə..utla
+ -flex: .u..itulla//.ə..itulla//.u..utəlla//.ə..utəlla//.u..utla//.ə..utla
   gramm: prs,2,pl,3sg.f.o
  -flex: .u..itulli//.ə..itulli//.u..utəlli//.ə..utəlli
   gramm: prs,2,pl,1sg.o
@@ -182,7 +182,7 @@
   gramm: prs,2,pl,3pl.o
  -flex: .u..itunxu//.u..itunxun//.ə..itunxu//.ə..itunxun//.u..utunxu//.u..utunxun//.ə..utunxu//.ə..utunxun//.u..ituxxu//.u..ituxxun//.ə..ituxxu//.ə..ituxxun
   gramm: prs,2,pl,2pl.o
- -flex: .u..itullan//.ə..itullan
+ -flex: .u..itullan//.ə..itullan//.u..utəllan//.ə..utəllan
   gramm: prs,2,pl,1pl.o
  -flex: .u..inale//.ə..inale
   gramm: prs,1,pl,3sg.m.o
@@ -218,6 +218,158 @@
   gramm: prs,dur,2,pl
  -flex: ko.ə..ina//k.ə..ina//ko.u..ina//k.u..ina
   gramm: prs,dur,1,pl
+  
+ # Present + ko + obj./dat. suffixes
+ -flex: k.u.a.le//ko.o.a.le
+  gramm: prs,dur,3,sg,m,3sg.m.o
+ -flex: k.u.a.la//ko.o.a.la
+  gramm: prs,dur,3,sg,m,3sg.f.o
+ -flex: k.u.a.lox//ko.o.a.lux
+  gramm: prs,dur,3,sg,m,2sg.m.o
+ -flex: k.u.a.ləx//ko.o.a.lax
+  gramm: prs,dur,3,sg,m,2sg.f.o
+ -flex: k.u.a.li//ko.o.a.li
+  gramm: prs,dur,3,sg,m,1sg.o
+ -flex: k.u.a..e//ko.o.a..e
+  gramm: prs,dur,3,sg,m,3pl.o
+ -flex: k.u.a.xu//k.u.a.xun//ko.o.a.xu//ko.o.a.xun
+  gramm: prs,dur,3,sg,m,2pl.o
+ -flex: k.u.a.lan//ko.o.a.lan
+  gramm: prs,dur,3,sg,m,1pl.o 
+ -flex: k.u..atle//k.ə..atle//ko.u..atle//ko.ə..atle
+  gramm: prs,dur,2,sg,3sg.m.o
+ -flex: k.u..atla//k.ə..atla//ko.u..atla//ko.ə..atla
+  gramm: prs,dur,2,sg,3sg.f.o
+ -flex: k.u..atlox//k.ə..atlox//ko.u..atlux//ko.ə..atlux
+  gramm: prs,dur,2,sg,2sg.m.o
+ -flex: k.u..atləx//k.ə..atləx//ko.u..atlax//ko.ə..atlax
+  gramm: prs,dur,2,sg,2sg.f.o
+ -flex: k.u..atli//k.ə..atli//ko.u..atli//ko.ə..atli
+  gramm: prs,dur,2,sg,1sg.o
+ -flex: k.u..atte//k.ə..atte//ko.u..atte//ko.ə..atte
+  gramm: prs,dur,2,sg,3pl.o
+ -flex: k.u..atxu//k.u..atxun//k.ə..atxu//k.ə..atxun//ko.u..atxu//ko.u..atxun//ko.ə..atxu//ko.ə..atxun
+  gramm: prs,dur,2,sg,2pl.o
+ -flex: k.u..atlan//k.ə..atlan//ko.u..atlan//ko.ə..atlan
+  gramm: prs,dur,2,sg,1pl.o
+ -flex: ko.u..atle//ko.ə..atle
+  gramm: prs,dur,2,sg,f,3sg.m.o
+ -flex: ko.u..atla//ko.ə..atla
+  gramm: prs,dur,2,sg,f,3sg.f.o
+ -flex: ko.u..atlax//ko.ə..atlax
+  gramm: prs,dur,2,sg,f,2sg.f.o
+ -flex: ko.u..atli//ko.ə..atli
+  gramm: prs,dur,2,sg,f,1sg.o
+ -flex: ko.u..atte//ko.ə..atte
+  gramm: prs,dur,2,sg,f,3pl.o
+ -flex: ko.u..atxu//ko.u..atxun//ko.ə..atxu//ko.ə..atxun
+  gramm: prs,dur,2,sg,f,2pl.o
+ -flex: ko.u..atlan//ko.ə..atlan
+  gramm: prs,dur,2,sg,f,1pl.o
+  -flex: ko.u..ətle//ko.ə..ətle
+  gramm: prs,dur,2,sg,m,3sg.m.o
+ -flex: ko.u..ətla//ko.ə..ətla
+  gramm: prs,dur,2,sg,m,3sg.f.o
+ -flex: ko.u..ətlux//ko.ə..ətlux
+  gramm: prs,dur,2,sg,m,2sg.m.o
+ -flex: ko.u..ətli//ko.ə..ətli
+  gramm: prs,dur,2,sg,m,1sg.o
+ -flex: ko.u..ətte//ko.ə..ətte
+  gramm: prs,dur,2,sg,m,3pl.o
+ -flex: ko.u..ətxu//ko.u..ətxun//ko.ə..ətxu//ko.ə..ətxun
+  gramm: prs,dur,2,sg,m,2pl.o
+ -flex: ko.u..ətlan//ko.ə..ətlan
+  gramm: prs,dur,2,sg,m,1pl.o
+ -flex: k.u.a.nole//k.u.a.ne//ko.o.a.ne
+  gramm: prs,dur,1,sg,m,3sg.m.o
+ -flex: k.u.a.nola//k.u.a.na//ko.o.a.na
+  gramm: prs,dur,1,sg,m,3sg.f.o
+ -flex: k.u.a.nolox//k.u.a.nox//ko.o.a.nux
+  gramm: prs,dur,1,sg,m,2sg.m.o
+ -flex: k.u.a.noləx//k.u.a.nəx//ko.o.a.nax
+  gramm: prs,dur,1,sg,m,2sg.f.o
+ -flex: k.u.a.noli//k.u.a.ni//ko.o.a.ni
+  gramm: prs,dur,1,sg,m,1sg.o
+ -flex: k.u.a.nolən//k.u.a.nulle//k.u.a.nən//ko.o.a.nanne//ko.o.a.nənne//ko.o.a.nalle
+  gramm: prs,dur,1,sg,m,3pl.o
+ -flex: k.u.a.nulxu//k.u.a.nulxun//ko.o.a.nanxu//ko.o.a.nanxun//ko.o.a.nalxu//ko.o.a.nalxun//ko.o.a.nuxxu//ko.o.a.nuxxun
+  gramm: prs,dur,1,sg,m,2pl.o
+ -flex: k.u.a.nolan//ko.o.a.nolan
+  gramm: prs,dur,1,sg,m,1pl.o
+ -flex: k.u..ole//k.ə..ole//ko.u..ole//ko.ə..ole
+  gramm: prs,dur,3,sg,f,3sg.m.o
+ -flex: k.u..ola//k.ə..ola//ko.u..ola//ko.ə..ola
+  gramm: prs,dur,3,sg,f,3sg.f.o
+ -flex: k.u..olox//k.ə..olox//ko.ə..olux//ko.u..olux
+  gramm: prs,dur,3,sg,f,2sg.m.o
+ -flex: k.u..oləx//k.ə..oləx//ko.u..olax//ko.ə..olax
+  gramm: prs,dur,3,sg,f,2sg.f.o
+ -flex: k.u..oli//k.ə..oli//ko.u..oli//ko.ə..oli
+  gramm: prs,dur,3,sg,f,1sg.o
+ -flex: k.u..olən//k.ə..olən//ko.u..alle//ko.ə..alle//ko.u..ulle//ko.ə..ulle//ko.u..əlle//ko.ə..əlle
+  gramm: prs,dur,3,sg,f,3pl.o
+ -flex: k.u..ulxu//k.u..ulxun//k.ə..ulxu//k.ə..ulxun//ko.u..alxu//ko.u..alxun//ko.ə..alxu//ko.ə..alxun//ko.u..əlxu//ko.u..əlxu//ko.ə..əlxu//ko.ə..əlxun
+  gramm: prs,dur,3,sg,f,2pl.o
+ -flex: k.u..olan//k.ə..olan//ko.u..olan//ko.ə..olan
+  gramm: prs,dur,3,sg,f,1pl.o
+ -flex: k.u..onole//k.u..alle//k.ə..onole//k.ə..alle//ko.u..alle//ko.ə..alle
+  gramm: prs,dur,1,sg,f,3sg.m.o
+ -flex: k.u..onola//k.u..alla//k.ə..onola//k.ə..alla//ko.u..alla//ko.ə..alla
+  gramm: prs,dur,1,sg,f,3sg.f.o
+ -flex: k.u..onolox//k.u..allox//k.ə..onolox//k.ə..allox//ko.u..allux//ko.ə..allux
+  gramm: prs,dur,1,sg,f,2sg.m.o
+ -flex: k.u..onoləx//k.u..alləx//k.ə..onoləx//k.ə..alləx//ko.u..allax//ko.ə..allax
+  gramm: prs,dur,1,sg,f,2sg.f.o
+ -flex: k.u..alli//k.ə..alli//ko.u..alli//ko.ə..alli
+  gramm: prs,dur,1,sg,f,1sg.o
+ -flex: k.u..onolən//k.u..anne//k.ə..onolən//k.ə..anne//ko.u..anne//ko.ə..anne
+  gramm: prs,dur,1,sg,f,3pl.o
+ -flex: k.u..onulxu//k.u..onulxun//k.u..anxu//k.u..anxun//k.ə..onulxu//k.ə..onulxun//k.ə..anxu//k.ə..anxun//ko.u..axxu//ko.u..axxun//ko.ə..axxu//ko.ə..axxun//ko.u..anxu//ko.u..anxun//ko.ə..anxu//ko.ə..anxun
+  gramm: prs,dur,1,sg,f,2pl.o
+ -flex: k.u..allan//k.ə..allan//ko.u..allan//ko.ə..allan
+  gramm: prs,dur,1,sg,f,1pl.o
+ -flex: k.u..ile//k.ə..ile//ko.u..ile//ko.ə..ile
+  gramm: prs,dur,3,pl,3sg.m.o
+ -flex: k.u..ila//k.ə..ila//ko.u..ila//ko.ə..ila
+  gramm: prs,dur,3,pl,3sg.f.o
+ -flex: k.u..ilox//k.ə..ilox//ko.u..ilux//ko.ə..ilux
+  gramm: prs,dur,3,pl,2sg.m.o
+ -flex: k.u..iləx//k.ə..iləx//ko.u..ilax//ko.ə..ilax
+  gramm: prs,dur,3,pl,2sg.f.o
+ -flex: k.u..ili//k.ə..ili//ko.u..ili//ko.ə..ili
+  gramm: prs,dur,3,pl,1sg.o
+ -flex: k.u..ənne//k.ə..ənne//ko.u..ənne//ko.ə..ənne
+  gramm: prs,dur,3,pl,3pl.o
+ -flex: k.u..ənxu//k.u..ənxun//k.ə..ənxu//k.ə..ənxun//ko.u..əxxu//ko.ə..əxxu//ko.u..ənxu//ko.u..ənxun//ko.ə..ənxu//ko.ə..ənxun
+  gramm: prs,dur,3,pl,2pl.o
+ -flex: k.u..ilan//k.ə..ilan//ko.u..ilan//ko.ə..ilan
+  gramm: prs,dur,3,pl,1pl.o
+ -flex: k.u..itulle//k.ə..itulle//ko.u..utəlle//ko.ə..utəlle//ko.ə..utle//ko.u..utle//ko.u..itulle//ko.ə..itulle
+  gramm: prs,dur,2,pl,3sg.m.o
+ -flex: k.u..itulla//k.ə..itulla//ko.u..utəlla//ko.ə..utəlla//ko.u..utla//ko.ə..utla//ko.u..itulla//ko.ə..itulla
+  gramm: prs,dur,2,pl,3sg.f.o
+ -flex: k.u..itulli//k.ə..itulli//ko.u..utəlli//ko.ə..utəlli//ko.u..itulli//ko.ə..itulli
+  gramm: prs,dur,2,pl,1sg.o
+ -flex: k.u..itunne//k.ə..itunne//ko.u..utənne//ko.ə..utənne//ko.u..utne//ko.ə..utne//ko.u..itunne//ko.ə..itunne
+  gramm: prs,dur,2,pl,3pl.o
+ -flex: k.u..itunxu//k.u..itunxun//k.ə..itunxu//k.ə..itunxun//ko.u..utunxu//ko.u..utunxun//ko.ə..utunxu//ko.ə..utunxun//ko.u..ituxxu//ko.u..ituxxun//ko.ə..ituxxu//ko.ə..ituxxun
+  gramm: prs,dur,2,pl,2pl.o
+ -flex: k.u..itullan//k.ə..itullan//ko.u..utəllan//ko.ə..utəllan//ko.u..itullan//ko.ə..itullan
+  gramm: prs,dur,2,pl,1pl.o
+ -flex: k.u..inale//k.ə..inale//ko.u..inale//ko.ə..inale
+  gramm: prs,dur,1,pl,3sg.m.o
+ -flex: k.u..inala//k.ə..inala//ko.u..inala//ko.ə..inala
+  gramm: prs,dur,1,pl,3sg.f.o
+ -flex: k.u..inalox//k.ə..inalox//ko.u..inalux//ko.ə..inalux
+  gramm: prs,dur,1,pl,2sg.m.o
+ -flex: k.u..inaləx//k.ə..inaləx//ko.u..inalax//ko.ə..inalax
+  gramm: prs,dur,1,pl,2sg.f.o
+ -flex: k.u..inalən//k.u..inalle//k.ə..inalən//k.ə..inalle//ko.u..inanne//ko.ə..inanne//ko.u..inalle//ko.ə..inalle
+  gramm: prs,dur,1,pl,3pl.o
+ -flex: k.u..inalxu//k.u..inalxun//k.ə..inalxu//k.ə..inalxun//ko.u..inanxu//ko.u..inanxun//ko.ə..inanxu//ko.ə..inanxun//ko.u..inaxxu//ko.u..inaxxun//ko.ə..inaxxu//ko.ə..inaxxun//ko.u..inalxu//ko.u..inalxun//ko.ə..inalxu//ko.ə..inalxun
+  gramm: prs,dur,1,pl,2pl.o
+ -flex: k.u..inalan//k.ə..inalan//ko.u..inalan//ko.ə..inalan
+  gramm: prs,dur,1,pl,1pl.o
 
  # Future
  -flex: gəd.o.ə.//g.o.ə.
