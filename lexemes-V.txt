@@ -912,7 +912,7 @@
  trans_en: to loosen, to detach
 -lexeme
  lex: mfakǝr/mifakǝr
- stem: .f.k.r.|.f.k.n.
+ stem: .f.k.r.|.f.k.n.|.f.k.l.|.p.k.r.|.p.k.n.|.p.k.l.
  root: fkr
  gramm: V
  paradigm: V_IIp_3r
@@ -928,7 +928,7 @@
  trans_en: to think, to ponder
 -lexeme
  lex: flǝġle/folǝġ
- stem: .f.l.ġ.
+ stem: .f.l.ġ.|.p.l.ġ.
  root: flġ
  gramm: V
  paradigm: V_I
@@ -936,7 +936,7 @@
  trans_en: to share, to split
 -lexeme
  lex: mfalaġle/mfaləġ
- stem: .f.l.ġ.
+ stem: .f.l.ġ.|.p.l.ġ.
  root: flġ
  gramm: V
  paradigm: V_II
@@ -1031,7 +1031,7 @@
  trans_en: to crumble (intr.)
 -lexeme
  lex: mfaradle/mfarəd
- stem: .f.r.d.
+ stem: .f.r.d.|.p.r.d.|.p.r.ḏ.
  root: frd
  gramm: V
  paradigm: V_II
@@ -1183,7 +1183,7 @@
  trans_en: to be glad, to rejoice
 -lexeme
  lex: mafṣaḥle/mafṣəḥ
- stem: .f.ṣ.ḥ.
+ stem: .f.ṣ.ḥ.|.p.ṣ.ḥ.
  root: fṣḥ
  gramm: V
  paradigm: V_III
@@ -1271,7 +1271,7 @@
  trans_en: to open; to establish
 -lexeme
  lex: mfataḥle/mfatəḥ
- stem: .f.t.ḥ.
+ stem: .f.t.ḥ.|.p.t.ḥ.
  root: ftḥ
  gramm: V
  paradigm: V_II
@@ -1311,7 +1311,7 @@
  trans_en: to become lukewarm
 -lexeme
  lex: mfatašle/mfatǝš
- stem: .f.t.š.
+ stem: .f.t.š.|.p.t.š.
  root: ftš
  gramm: V
  paradigm: V_II
@@ -1343,7 +1343,7 @@
  trans_en: to suffocate, to choke
 -lexeme
  lex: faṯi/foṯe
- stem: .f.ṯ.y.|.f.ṯ.
+ stem: .f.ṯ.y.|.f.ṯ.|.p.ṯ.y.|.p.ṯ.
  root: fṯy
  gramm: V
  paradigm: V_I_3y
@@ -1367,16 +1367,16 @@
  trans_en: to wash (the dishes)
 -lexeme
  lex: mfayadle/mfayǝd
- stem: .f.y.d.
- root: fyd
+ stem: .f.y.d.|.p.y.d.
+ root: fyd/pyd
  gramm: V
  paradigm: V_II
  trans_de: herbeischaffen, Zur Stelle schaffen, auftreiben, finden
  trans_en: to find; to get, to acquire
 -lexeme
  lex: fayǝd̞/foyǝd̞
- stem: .f.y.ḏ̣.
- root: fyd̞
+ stem: .f.y.ḏ̣.|.p.y.ḏ̣.|.f.ḏ̣.|.p.ḏ̣.
+ root: fyḏ̣/pyḏ̣
  gramm: V
  paradigm: V_I_2y
  trans_de: strömen (Licht)
@@ -4535,12 +4535,1267 @@
  trans_de: anheften
  trans_en: to attach
 -lexeme
+ lex: mʕəlle/moʕər
+ stem: .m.ʕ.r.|.m.ʕ.l.|.m.ʕ.n.
+ root: mʕr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: mit einem Schlag zermalmen, zerschlagen
+ trans_en: to crush
+-lexeme
+ lex: mʕiš/məmʕəš
+ stem: .m.ʕ.š.
+ root: mʕš
+ gramm: V
+ paradigm: V_Ip
+ trans_de: keine Lust haben
+ trans_en: have no desire
+-lexeme
+ lex: mḏ̣ele/moḏ̣e
+ stem: .m.ḏ̣.y.|.m.ḏ̣.
+ root: mḏ̣y
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: unterschreiben
+ trans_en: to sign
+-lexeme
+ lex: maġele/maġəl
+ stem: .m.ġ.l.|.m.ġ.
+ root: mġl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: sich niederlegen, niederkauern (Tier), das Vieh lagern lassen; sich lagern
+ trans_en: to lie down; to crouch down (animals); to make livestock lie, rest
+-lexeme
+ lex: mahele/mahəl
+ stem: .m.h.l.|.m.h.
+ root: mhl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: verlängern, Frist geben
+ trans_en: to prolong; to give time
+-lexeme
+ lex: mhəlle/mohər
+ stem: .m.h.r.|.m.h.l.|.m.h.n.
+ root: mhr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: antrauen, verheiraten mit (ʕal)
+ trans_en: to marry smb. to (ʕal) smb.
+-lexeme
+ lex: mhəlle/mohər
+ stem: .m.h.r.|.m.h.l.|.m.h.n.
+ root: mhr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: siegeln, wählen (Kandidaten für einen Posten)
+ trans_en: to seal; to choose
+-lexeme
+ lex: maḥasle/maḥəs
+ stem: .ḥ.s.
+ root: mḥs
+ gramm: V
+ paradigm: V_II
+ trans_de: striegeln
+ trans_en: to groom
+-lexeme
+ lex: maḥatle/maḥət
+ stem: .ḥ.t.
+ root: mḥt
+ gramm: V
+ paradigm: V_III
+ trans_de: stellen, legen, setzen, (hinein)tun, -giessen, vorsetzen, bezahlen; sich niederlassen, Halt machen auf die Marsche, sich lagern, sich niedersetzen (Vogel); lagern lassen; (ʕal) sich über jemandem hermachen; einsetzen, bestimmen; veranstalten; unterbringen, tun
+ trans_en: to put; to pour; to lie down (intr.); to pounce on (ʕal) smb. or smth.; to arrange; to appoint
+-lexeme
+ lex: mḥele/moḥe
+ stem: .m.ḥ.y.|.m.ḥ.
+ root: mḥy
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: schlagen; werfen; einstecken; berühren; gehen, reiten, sich richten auf, (weg)treiben; anziehen; (mḥaṭo) impfen; richten; abbeissen; graben; schiessen; stemmen
+ trans_en: to hit; to beat; to throw; to insert; to touch; to go; to set off; to wear; to shoot
+-lexeme
+ lex: maḥele/maḥe
+ stem: .ḥ.y.|.ḥ.
+ root: mḥy
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: vernichten
+ trans_en: to destroy
+-lexeme
+ lex: malaḥle/maləḥ
+ stem: .l.ḥ.
+ root: mlḥ
+ gramm: V
+ paradigm: V_II
+ trans_de: <?>
+ trans_en: to pickle, to salt
+-lexeme
+ lex: mləkle/molək
+ stem: .m.l.k.
+ root: mlk
+ gramm: V
+ paradigm: V_I
+ trans_de: herrschen, die Herrschaft antreten
+ trans_en: to rule
+-lexeme
+ lex: mləsle/moləs
+ stem: .m.l.s.
+ root: mls
+ gramm: V
+ paradigm: V_I
+ trans_de: glätten
+ trans_en: <?>
+-lexeme
+ lex: malasle/maləs
+ stem: .l.s.
+ root: mls
+ gramm: V
+ paradigm: V_II
+ trans_de: kauernd sitzen
+ trans_en: to sit in a squatting position
+-lexeme
+ lex: mləxle/moləx
+ stem: .m.l.x.
+ root: mlx
+ gramm: V
+ paradigm: V_I
+ trans_de: herrschen
+ trans_en: to rule
+-lexeme
+ lex: mamlaxle/mamləx
+ stem: .m.l.x.
+ root: mlx
+ gramm: V
+ paradigm: V_III
+ trans_de: herrschen
+ trans_en: to rule
+-lexeme
+ lex: mlele/mole
+ stem: .m.l.y.|.m.l.
+ root: mly
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: füllen, stopfen
+ trans_en: to fill
+-lexeme
+ lex: manaʕle/manəʕ
+ stem: .n.ʕ.
+ root: mnʕ
+ gramm: V
+ paradigm: V_II
+ trans_de: verhindern, verbieten; abmagern
+ trans_en: to prevent, to hinder
+-lexeme
+ lex: manəʕ/mimanəʕ
+ stem: .n.ʕ.|.m.n.ʕ.
+ root: mnʕ
+ gramm: V
+ paradigm: V_IIp
+ trans_de: mager werden
+ trans_en: to become thin, emaciated
+-lexeme
+ lex: mamnaʕle/mamnəʕ
+ stem: .m.n.ʕ.
+ root: mnʕ
+ gramm: V
+ paradigm: V_III
+ trans_de: hindern
+ trans_en: to prevent, to hinder
+-lexeme
+ lex: mrədle/morəd
+ stem: .m.r.d.
+ root: mrd
+ gramm: V
+ paradigm: V_I
+ trans_de: mit der Hand Wasser herauspressen
+ trans_en: to squeeze out water by hand
+-lexeme:
+ lex: margaʕle/margəʕ
+ stem: .r.g.ʕ.
+ root: rgʕ
+ gramm: V
+ paradigm: V_III
+ trans_de: sich auf der Erde wälzen (Esel)
+ trans_en: <?>
+-lexeme
+ lex: marḥable/marḥəb
+ stem: .r.ḥ.b.
+ root: rḥb
+ gramm: V
+ paradigm: V_III
+ trans_de: begrüssen
+ trans_en: to greet
+-lexeme
+ lex: mrəsle/morəs
+ stem: .m.r.s.
+ root: mrs
+ gramm: V
+ paradigm: V_I
+ trans_de: lutschen
+ trans_en: to suck
+-lexeme:
+ lex: msəkle/mosək
+ stem: .m.s.k.
+ root: msk
+ gramm: V
+ paradigm: V_I
+ trans_de: einnehmen, fangen
+ trans_en: to catch, to seize
+-lexeme
+ lex: mšəḥle/mošəḥ
+ stem: .m.š.ḥ.
+ root: mšḥ
+ gramm: V
+ paradigm: V_I
+ trans_de: salben
+ trans_en: to anoint
+-lexeme
+ lex: mašmašle/mašməš
+ stem: .š.m.š.
+ root: šmš
+ gramm: V
+ paradigm: V_III
+ trans_de: abtasten, durch Abtasten untersuchen (ʕal)
+ trans_en: to touch, to feel
+-lexeme
+ lex: mšele/moše
+ stem: .m.š.y.|.m.š.
+ root: mšy
+ gramm: V
+ paradigm: V_I
+ trans_de: geschtrichen voll machen
+ trans_en: <?>
+-lexeme
+ lex: maṭi/moṭe
+ stem: .m.ṭ.y.|.m.ṭ.
+ root: mṭy
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: gelangen, ankommen, erreichen; heranreichen, reifen
+ trans_en: to reach smth. or smb. (l-); to become ripe
+-lexeme
+ lex: mamṭele/mamṭe
+ stem: .m.ṭ.y.|.m.ṭ.
+ root: mṭy
+ gramm: V
+ paradigm: V_III_3y
+ trans_de: holen, bringen; zum Gatten nehmen
+ trans_en: to bring; to get a wife, to marry
+-lexeme
+ lex: mṭele/moṭe
+ stem: .m.ṭ.y.|.m.ṭ.
+ root: mṭy
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: holen, bringen
+ trans_en: to bring; to get a wife, to marry
+-lexeme
+ lex: mxele/moxe
+ stem: .m.x.y.|.m.x.
+ root: mxy
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: ziehen (wie ein Gummiband), herausziehen
+ trans_en: to pull out
+-lexeme
+ lex: məʕle/moyəʕ
+ stem: .m.y.ʕ.|.m.ʕ.
+ root: myʕ
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: buttern
+ trans_en: to churn butter
+-lexeme
+ lex: mədle/moyəd
+ stem: .m.y.d.|.m.d.
+ root: myd
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: greifen, nehmen, mit der Hand fassen
+ trans_en: to take smth. or smb. (l-)
+-lexeme
+ lex: mayele/mayəl
+ stem: .y.l.|.y.
+ root: myl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: j-n/etwas auf die Seite biegen, auf die Seite legen, wegnehmen (trans.); abweichen, Richtung ändern, sich verstecken, weggehene, verschwinden (intrans.)
+ trans_en: to turn (trans.); to turn, to turn aside (intr.)
+-lexeme
+ lex: mayər/moyər
+ stem: .m.y.r.|.m.r.|.m.n.|.m.y.n.|.m.y.l.|.m.l.
+ root: myr
+ gramm: V
+ paradigm: V_I_2y_3r
+ trans_de: bitter werden
+ trans_en: to become bitter; to become intoxicated
+-lexeme
+ lex: məṣle/moyəṣ
+ stem: .m.y.ṣ.|.m.ṣ.
+ root: myṣ
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: saugen
+ trans_en: to suck
+-lexeme
+ lex: maməṣle/maməṣ
+ stem: .m.ṣ.
+ root: myṣ
+ gramm: V
+ paradigm: V_III_2y
+ trans_de: säugen, saugen lassen, stillen, stillen lassen
+ trans_en: to suckle
+-lexeme
+ lex: mayəṯ/moyəṯ
+ stem: .m.y.ṯ.|.m.ṯ.
+ root: myṯ
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: sterben, verrecken, krepieren; (ʕal) sich verlieben
+ trans_en: to die
+-lexeme
+ lex: mazmazle/mazməz
+ stem: .z.m.z.
+ root: zmz
+ gramm: V
+ paradigm: V_III
+ trans_de: grossen Appetit haben (mit lebo)
+ trans_en: to have a good appetite (with lebo)
+-lexeme
+ lex: mžədle/možəd
+ stem: .m.ž.d.
+ root: mžd
+ gramm: V
+ paradigm: V_I
+ trans_de: ausstrecken
+ trans_en: to stretch; to spread
+-lexeme
+ lex: manʕele/manʕəl
+ stem: .n.ʕ.l.|.n.ʕ.
+ root: nʕl
+ gramm: V
+ paradigm: V_III_3l
+ trans_de: verfluchen
+ trans_en: to curse
+-lexeme
+ lex: mnaʕele/mnaʕəl
+ stem: .n.ʕ.l.|.n.ʕ.
+ root: nʕl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: beschlagen
+ trans_en: to shoe
+-lexeme
+ lex: mnaʕamle/mnaʕəm
+ stem: .n.ʕ.m.
+ root: nʕm
+ gramm: V
+ paradigm: V_II
+ trans_de: zerkleinern
+ trans_en: to reduce to fragments
+-lexeme
+ lex: mnaʕnəʕ/minaʕnəʕ
+ stem: .n.ʕn.ʕ.
+ root: nʕnʕ
+ gramm: V
+ paradigm: V_Qp
+ trans_de: zu Schanden schlagen, als ob man ihm die Knochen im Leibe zerschlüge
+ trans_en: to become broken (bones)
+-lexeme
+ lex: nʕəlle/noʕər
+ stem: .n.ʕ.r.|.n.ʕ.l.|.n.ʕ.n.
+ root: nʕr
+ gramm: V
+ trans_de: dröhnen
+ trans_de: to neigh; to buzz
+-lexeme
+ lex: naʕəs/noʕəs
+ stem: .n.ʕ.s.
+ root: nʕs
+ gramm: V
+ paradigm: V_I
+ trans_de: schläfrig werden
+ trans_en: to become sleepy
+-lexeme
+ lex: mnaʕwaṣle/mnaʕwəṣ
+ stem: .n.ʕw.ṣ.
+ root: nʕwṣ
+ gramm: V
+ paradigm: V_Q
+ trans_de: winseln, heulen
+ trans_en: to yelp
+-lexeme
+ lex: mnabable/mnabəb
+ stem: .n.b.b.
+ root: nbb
+ gramm: V
+ paradigm: V_II
+ trans_de: haspeln, (fig. ʕal iḏe) jm. gewachsen sein
+ trans_en: to reel; <?>
+-lexeme
+ lex: manbahle/manbəh
+ stem: .n.b.h.
+ root: nbh
+ gramm: V
+ paradigm: V_III
+ trans_de: merken, bemerken, aufpassen auf, beobachten; merken, bemerken, sich umschauen, aufpassen auf, beobachten
+ trans_en: to notice; to observe; to look attentively
+-lexeme
+ lex: mabəhle/mabəh
+ stem: .b.h.
+ root: byh
+ gramm: V
+ paradigm: V_III_2y
+ trans_de: merken, bemerken, aufpassen auf, beobachten; merken, bemerken, sich umschauen, aufpassen auf, beobachten
+ trans_en: to notice; to observe; to look attentively
+-lexeme
+ lex: mnabele/mnabe
+ stem: .n.b.y.|.n.b.
+ root: nby
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: verkündigen, verkünden, prophezeien
+ trans_en: to proclaim
+-lexeme
+ lex: mandamle/mandəm
+ stem: .n.d.m.
+ root: ndm
+ gramm: V
+ paradigm: V_III
+ trans_de: bereuen
+ trans_en: to repent
+-lexeme
+ lex: mandalle/mandər
+ stem: .n.d.r.|.n.d.l.|.n.d.n.
+ root: ndr
+ gramm: V
+ paradigm: V_III_3r
+ trans_de: walzen (Dach)
+ trans_en: to roll (a roof)
+-lexeme
+ lex: mnadele/mnade
+ stem: .n.d.y.|.n.d.
+ root: ndy
+ gramm: V
+ paradigm: V_III_3y
+ trans_de: rufen
+ trans_en: to call
+-lexeme
+ lex: nḏəlle/noḏər
+ stem: .n.ḏ.r.|.n.ḏ.l.|.n.ḏ.n.
+ root: nḏr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: <?>
+ trans_en: to vow
+-lexeme
+ lex: naḏ̣əf/noḏ̣əf
+ stem: .n.ḏ̣.f.
+ root: nḏ̣f
+ gramm: V
+ paradigm: V_I
+ trans_de: sauber werden
+ trans_en: to become clean
+-lexeme
+ lex: mnaḏ̣afle/mnaḏ̣əf
+ stem: .n.ḏ̣.f.
+ root: nḏ̣f
+ gramm: V
+ paradigm: V_II
+ trans_de: säubern
+ trans_en: to clean
+-lexeme
+ lex: manḏ̣afle/manḏ̣əf
+ stem: .n.ḏ̣.f.
+ root: nḏ̣f
+ gramm: V
+ paradigm: V_III
+ trans_de: säubern
+ trans_en: to clean
+-lexeme
+ lex: naḏ̣ər/noḏ̣ər
+ stem: .n.ḏ̣.r.|.n.ḏ̣.l.|.n.ḏ̣.n.
+ root: nḏ̣r
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: erblicken, sehen, anschauen
+ trans_en: to look
+-lexeme
+ lex: mnaḏ̣ele/mnaḏ̣e
+ stem: .n.ḏ̣.y.|.n.ḏ̣.
+ root: nḏ̣y
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: beten (Muslime); zum Gebet rufen (Muslime)
+ trans_en: to pray (about muslims); to call to prayer (about muslims)
+-lexeme
+ lex: manfaʕle/manfəʕ
+ stem: .n.f.ʕ.|.n.p.ʕ.
+ root: nfʕ
+ gramm: V
+ paradigm: V_III
+ trans_de: nützen
+ trans_en: to be use to (l-) smb. or smth.
+-lexeme
+ lex: nfəḥle/nofəḥ
+ stem: .n.f.ḥ.|.n.p.ḥ.
+ root: nfḥ
+ gramm: V
+ paradigm: V_I
+ trans_de: blasen, anblasen, aufblasen, schnaufen, anschwellen lasenn; anschwellen
+ trans_en: to blow; to inflate
+-lexeme
+ lex: nafəl/nofəl
+ stem: .n.f.l.|.n.f.|.n.f.n.|.n.p.l.|.n.p.|.n.p.n.
+ root: nfl
+ gramm: V
+ paradigm: V_I_3l
+ trans_de: fallen; abfallen, verfallen (an Kraft); fallen (belagerte Stadt); (geographisch) liegen; zufallen, zuteil werden (l-, ʕal); sich schnell heranmachen; geraten in (von pathologischen Zuständen); ertönen; weit beschreit, berühmt werden; sich verlieben in (with lebo); geloben, sich verpflichten (with ahd/waʕd); verstehen (qum); Leid tun um (qum); sich in Ordnung bringen (qum ruḥ-); entstehen; angreifen, streiten
+ trans_en: to fall; to lie (geographically); to fall to one's share; to start doing smth. (b-) quickly; to be ill with an illness; to resound; to attack smb. or smth. (ʕal)
+-lexeme
+ lex: nafəq/nofəq
+ stem: .n.f.q.
+ root: nfq
+ gramm: V
+ paradigm: V_I
+ trans_de: herausgehen, herauskommen, hervorkommen; aufgehen (Sonne); wachsen (über Pflanzen); einem von der Hand gehen (b iḏe, m iḏe), fertig werden mit (m ḥaq d-); (neg.) nichts mehr machen können; bekannt, berühmt werden (əšmo); sich herausstellen als, sich erweisen als; beim Spiel gewinnen; zufallen, zuteil werden
+ trans_de: to go out; to grow (plants); to turn out (to be); to fall to one's share
+-lexeme
+ lex: mawfaqle/mawfəq
+ stem: .w.f.q.|.f.q.|.w.p.q.|.p.q.
+ root: nfq
+ gramm: V
+ paradigm: V_III
+ trans_de: hinausgehen lassen, herausbringen; (b-) etwas merken, herausfinden; verdienen; vermitteln
+ trans_en: to bring out; to find out (b-) smth.; to earn; to transmit, to communicate
+-lexeme
+ lex: mnafasle/mnafəs
+ stem: .n.f.s
+ root: nfs
+ gramm: V
+ paradigm: V_II
+ trans_de: <?>
+ trans_en: to breathe
+-lexeme
+ lex: nfəṣle/nofəṣ
+ stem: .n.f.ṣ.|.n.p.ṣ.
+ root: nfṣ
+ gramm: V
+ paradigm: V_I
+ trans_de: schütteln, stossen, ausklopfen
+ trans_en: to shake
+-lexeme
+ lex: mnaqable/mnaqəb
+ stem: .n.q.b.
+ root: nqb
+ gramm: V
+ paradigm: V_II
+ trans_de: durchfurchen
+ trans_en: to pierce
+-lexeme
+ lex: mnagele/mnagəl
+ stem: .n.g.l.|.n.g.
+ root: ngl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: säubern, fortschaffen
+ trans_en: to clean; to dispose of
+-lexeme
+ lex: nǧəfle/noǧəf
+ stem: .n.ǧ.f.
+ root: nǧf
+ gramm: V
+ paradigm: V_I
+ trans_de: entschlammen
+ trans_en: <?>
+-lexeme
+ lex: naǧəḥ/noǧəḥ
+ stem: .n.ǧ.ḥ.
+ root: nǧḥ
+ gramm: V
+ paradigm: V_I
+ trans_de: gewinnen (Wettkampf); bestehen (Examen)
+ trans_en: to win; to pass (an exam); to achieve success
+-lexeme
+ lex: nǧile/noǧəl
+ stem: .n.ǧ.l.|.n.ǧ.
+ root: nǧl
+ gramm: V
+ paradigm: V_I_3l
+ trans_de: entreissen, ausreissen
+ trans_en: to snatch; to tear out
+-lexeme
+ lex: nǧəlle/noǧər
+ stem: .n.ǧ.r.|.n.ǧ.l.|.n.ǧ.n.
+ root: nǧr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: abhobeln
+ trans_en: to pare down
+-lexeme
+ lex: mnaǧalle/mnaǧər
+ stem: .n.ǧ.r.|.n.ǧ.l.|.n.ǧ.n.
+ root: nǧr
+ gramm: V
+ paradigm: V_II_3r
+ trans_de: hobeln, zimmern
+ trans_en: to plane; to work as a carpenter
+-lexeme
+ lex: mnaǧele/mnaǧe
+ stem: .n.ǧ.y.|.n.ǧ.
+ root: nǧy
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: retten
+ trans_en: to save
+-lexeme
+ lex: manhable/manhəb
+ stem: .n.h.b.
+ root: nhb
+ gramm: V
+ paradigm: V_III
+ trans_de: ausplündern
+ trans_en: to plunder
+-lexeme
+ lex: nhəmle/nohəm
+ stem: .n.h.m.
+ root: nhm
+ gramm: V
+ paradigm: V_I
+ trans_de: anbrüllen
+ trans_en: to roar
+-lexeme
+ lex: nahər/nohər
+ stem: .n.h.r.|.n.h.l.|.n.h.n.
+ root: nhr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: tagen; hell werden
+ trans_en: to dawn; to become light
+-lexeme
+ lex: nḥile/noḥəl
+ stem: .n.ḥ.l.|.n.ḥ.
+ root: nḥl
+ gramm: V
+ paradigm: V_I_3l
+ trans_de: sieben
+ trans_en: to sieve
+-lexeme
+ lex: mnaḥaqle/mnaḥəq
+ stem: .n.ḥ.q.
+ root: nḥq
+ gramm: V
+ paradigm: V_II
+ trans_de: unrecht geben
+ trans_en: to consider smb. or smth. wrong
+-lexeme
+ lex: nḥəlle/noḥər
+ stem: .n.ḥ.r.|.n.ḥ.l.|.n.ḥ.n.
+ root: nḥr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: schlachten
+ trans_en: to slaughter
+-lexeme
+ lex: naḥət/noḥət
+ stem: .n.ḥ.t.|.n.ḥ.n.
+ root: nḥt
+ gramm: V
+ paradigm: V_I
+ trans_de: 1) herab-, hinab, ab-, aussteigen; 2) auf freien Platz, freies Feld hervortreten, hinausziehen, auf den Kampfplatz treten, zum Kampfe antreten; 3) ausspielen (Schachfigur, Spielkarte), einen Zug machen; 4) fallen (der Regen; 5) laufen, strömen, rieseln (die Erde, das Wasser, die Tränen); 6) losgehen auf (l-); 7) absteigen (останавливаться на ночлег)
+ trans_en: to go down, to descend; to fall (rain); to run (tears), to be spilled (blood)
+-lexeme
+ lex: nḥətle/noḥət
+ stem: .n.ḥ.t.
+ root: nḥt
+ gramm: V
+ paradigm: V_I
+ trans_de: <?>
+ trans_en: to hew (stones)
+-lexeme
+ lex: mnakəf/minakəf
+ stem: .n.k.f.
+ root: nkf
+ gramm: V
+ paradigm: V_IIp
+ trans_de: sich schämen
+ trans_en: to feel ashamed; to feel shy
+-lexeme
+ lex: mnakaḥle/mnakəḥ
+ stem: .n.k.ḥ.
+ root: nkḥ
+ gramm: V
+ paradigm: V_II
+ trans_de: heiraten
+ trans_en: to marry
+-lexeme
+ lex: mankalle/mankər
+ stem: .n.k.r.|.n.k.l.|.n.k.n.
+ root: nkr
+ gramm: V
+ paradigm: V_III_3r
+ trans_de: (ver)leugnen
+ trans_en: to deny; to reject
+-lexeme
+ lex: nkətle/nokət
+ stem: .n.k.t.
+ root: nkt
+ gramm: V
+ paradigm: V_I
+ trans_de: beissen
+ trans_en: to bite
+-lexeme
+ lex: mankatle/mankət
+ stem: .n.k.t.
+ root: nkt
+ gramm: V
+ paradigm: V_III
+ trans_de: in seine Schranken zurückweisen, kleinkriegen
+ trans_en: to overcome
+-lexeme
+ lex: mnakazle/mnakəz
+ stem: .n.k.z.
+ root: nkz
+ gramm: V
+ paradigm: V_II
+ trans_de: zuspitzen
+ trans_en: to sharpen
+-lexeme
+ lex: mnamnamle/mnamnəm
+ stem: .n.mn.m.
+ root: nmnm
+ gramm: V
+ paradigm: V_Q
+ trans_de: undeutlich und ängstlich sprechen, murmeln, muscheln, eine Melodie vor sich hinbrummen
+ trans_en: <?>
+-lexeme
+ lex: nqəḥle/noqəḥ
+ stem: .n.q.ḥ.
+ root: nqḥ
+ gramm: V
+ paradigm: V_I
+ trans_de: schnupfen, einatmen, wittern
+ trans_en: to sniff; to breathe in; to smell
+-lexeme
+ lex: nqile/noqəl
+ stem: .n.q.l.|.n.q.
+ root: nql
+ gramm: V
+ paradigm: V_I_3l
+ trans_de: wegschaffen, verlegen, schleppen
+ trans_en: to move; to relocate
+-lexeme
+ lex: nqəlle/noqər
+ stem: .n.q.r.|.n.q.l.|.n.q.n.
+ root: nqr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: hacken, anpicken (Vogel); ein Loch machen, das nicht zur anderen Seite durchgeht; gegen jemandem werfen, hinknallen
+ trans_en: to slam; to crack
+-lexeme
+ lex: naqər/noqər
+ stem: .n.q.r.|.n.q.l.|.n.q.n.
+ root: nqr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: heftig schmerzen, weh tun
+ trans_en: to hurt (intr.)
+-lexeme
+ lex: naqəṣ/noqəṣ
+ stem: .n.q.ṣ.
+ root: nqṣ
+ gramm: V
+ paradigm: V_I
+ trans_de: wenig, knapp werden
+ trans_en: to become scarce, few
+-lexeme
+ lex: nqəšle/noqəš
+ stem: .n.q.š.
+ root: nqš
+ gramm: V
+ paradigm: V_I
+ trans_de: sticken, bemalen, schminken
+ trans_en: to decorate; to paint
+-lexeme
+ lex: mnaqašle/mnaqəš
+ stem: .n.q.š.
+ root: nqš
+ gramm: V
+ paradigm: V_II
+ trans_de: schmücken, verzieren
+ trans_en: to decorate
+-lexeme
+ lex: naqəṭ/noqəṭ
+ stem: .n.q.ṭ.
+ root: nqṭ
+ gramm: V
+ paradigm: V_I
+ trans_de: tropfen
+ trans_en: to drop; to drip
+-lexeme
+ lex: nqule/noqu
+ stem: .n.q.|n.q.w.
+ root: nqw
+ gramm: V
+ paradigm: V_I_3w
+ trans_de: durchlöchern
+ trans_en: to pierce
+-lexeme
+ lex: mnaqwalle/mnaqwər
+ stem: .n.qw.r.|.n.qw.l.|.n.qw.n.|.n.q.r.
+ root: nqwr
+ gramm: V
+ paradigm: V_Q_2w_3r
+ trans_de: aushöhlen
+ trans_en: to hollow out
+-lexeme
+ lex: mnaqele/mnaqe
+ stem: .n.q.y.|.n.q.
+ root: nqy
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: aussuchen, auslesen, aufsammeln
+ trans_en: to choose
+-lexeme
+ lex: nqəzle/noqəz
+ stem: .n.q.z.
+ root: nqz
+ gramm: V
+ paradigm: V_I
+ trans_de: picken
+ trans_en: to pick
+-lexeme
+ lex: mnarnalle/mnarnər
+ stem: .n.rn.r.|.n.rn.l.|.n.rn.n.
+ root: nrnr
+ gramm: V
+ paradigm: V_Q
+ trans_de: schnurren wie ein Kater, nuscheln, undeutlich reden
+ trans_en: to purr like a cat; to mumble; to speak unclearly
+-lexeme
+ lex: nsəfle/nosəf
+ stem: .n.s.f.
+ root: nsf
+ gramm: V
+ paradigm: V_I
+ trans_de: zupfen
+ trans_en: <?>
+-lexeme
+ lex: nṣəble/noṣəb
+ stem: .n.ṣ.b.
+ root: nṣb
+ gramm: V
+ paradigm: V_I
+ trans_de: aufschlagen
+ trans_en: to pitch
+-lexeme
+ lex: nṣəfle/noṣəf
+ stem: .n.ṣ.f.
+ root: nṣf
+ gramm: V
+ paradigm: V_I
+ trans_de: schütteln um sauber zu kriegen; sich stürzen auf; die Uhr aufziehen
+ trans_en: <?>
+-lexeme
+ lex: nṣile/noṣəl
+ stem: .n.ṣ.l.|.n.ṣ.|.n.ṣ.n.
+ root: nṣl
+ gramm: V
+ paradigm: V_I_3l
+ trans_de: tropfen
+ trans_en: to drop
+-lexeme
+ lex: mnaṣnaṣle/mnaṣnəṣ
+ stem: .n.ṣn.ṣ.
+ root: nṣnṣ
+ gramm: V
+ paradigm: V_Q
+ trans_de: kläglich winseln, heulen
+ trans_en: to yelp
+-lexeme
+ lex: našəf/nošəf
+ stem: .n.š.f.
+ root: nšf
+ gramm: V
+ paradigm: V_I
+ trans_de: trocken werden, erstarren
+ trans_en: to become dry
+-lexeme
+ lex: mnašafle/mnašəf
+ stem: .n.š.f.
+ root: nšf
+ gramm: V
+ paradigm: V_II
+ trans_de: trocknen
+ trans_en: to dry (tr.)
+-lexeme
+ lex: manšafle/manšəf
+ stem: .n.š.f.
+ root: nšf
+ gramm: V
+ paradigm: V_III
+ trans_de: trocknen
+ trans_en: to dry (tr.)
+-lexeme
+ lex: nšəmle/nošəm
+ stem: .n.š.m.
+ root: nšm
+ gramm: V
+ paradigm: V_I
+ trans_de: einatmen, riechen
+ trans_en: to smell; to breathe in
+-lexeme
+ lex: nšəqle/nošəq
+ stem: .n.š.q.
+ root: nšq
+ gramm: V
+ paradigm: V_I
+ trans_de: küssen
+ trans_en: to kiss
+-lexeme
+ lex: nšəlle/nošər
+ stem: .n.š.r.|.n.š.l.|.n.š.n.
+ root: nšr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: (auseinander)sägen
+ trans_en: to saw
+-lexeme
+ lex: mantaǧle/mantəǧ
+ stem: .n.t.ǧ.
+ root: ntǧ
+ gramm: V
+ paradigm: V_III
+ trans_de: herausarbeiten
+ trans_en: to work out
+-lexeme
+ lex: natən/notən
+ stem: .n.t.n.|.n.t.l.
+ root: ntn
+ gramm: V
+ paradigm: V_I
+ trans_de: stinken
+ trans_en: to stink
+-lexeme
+ lex: ntəlle/notər
+ stem: .n.t.r.|.n.t.l.|.n.t.n.
+ root: ntr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: schleudern, wegreissen
+ trans_en: <?>
+-lexeme
+ lex: ntəšle/notəš
+ stem: .n.t.š.
+ root: ntš
+ gramm: V
+ paradigm: V_I
+ trans_de: abreissen, wegreissen, entreissen, schnell wegnehmen, wegschnappen, entführen
+ trans_en: to snatch; to swoop; to take away
+-lexeme
+ lex: manṭaqle/manṭəq
+ stem: .n.ṭ.q.
+ root: nṭq
+ gramm: V
+ paradigm: V_III
+ trans_de: reden
+ trans_en: to talk
+-lexeme
+ lex: nṭəlle/noṭər
+ stem: .n.ṭ.r.|.n.ṭ.l.|.n.ṭ.n.
+ root: nṭr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: warten auf, abwarten, erwarten; bewachen, Wache halten, aufpassen auf
+ trans_en: to wait for; to watch; to guard; to pay attention to
+-lexeme
+ lex: mnaṭalle/mnaṭər
+ stem: .n.ṭ.r.|.n.ṭ.l.|.n.ṭ.n.
+ root: nṭr
+ gramm: V
+ paradigm: V_II_3r
+ trans_de: bewahren, warten
+ trans_en: to preserve; to wait
+-lexeme:
+ lex: naṯər/noṯər
+ stem: .n.ṯ.r.
+ root: nṯr
+ gramm: V
+ paradigm: V_I
+ trans_de: (aus)fallen
+ trans_en: to fall out (hair)
+-lexeme
+ lex: mnawhalle/mnawhər
+ stem: .n.wh.r.|.n.wh.l.|.n.wh.n.
+ root: nwhr
+ gramm: V
+ paradigm: V_Q
+ trans_de: traurig leise singen, summen, in den Schlaf singen
+ trans_en: to sing in a soft and sad manner
+-lexeme
+ lex: nawəḥ/nowəḥ
+ stem: .n.w.ḥ.|.n.ḥ.
+ root: nwḥ
+ gramm: V
+ paradigm: V_I_2w
+ trans_de: Ruhe finden, sterben, verscheiden
+ trans_en: <?>
+-lexeme
+ lex: nwəḥle/nowəḥ
+ stem: .n.w.ḥ.|.n.ḥ.
+ root: nwḥ
+ gramm: V
+ paradigm: V_I_2w
+ trans_de: bellen, heulen
+ trans_en: to bark
+-lexeme
+ lex: mnawele/mnawəl
+ stem: .n.w.l.|.n.w.|.n.w.n.
+ root: nwl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: zuwerfen, in die Hand geben, reichen
+ trans_en: <?>
+-lexeme
+ lex: mnawalle/mnawər
+ stem: .n.w.r.|.n.w.l.|.n.w.n.
+ root: nwr
+ gramm: V
+ paradigm: V_II_3r
+ trans_de: beleuchten; leuchten
+ trans_en: to illuminate (tr.); to shine
+-lexeme
+ lex: mnawasle/mnawəs
+ stem: .n.w.s.
+ root: nws
+ gramm: V
+ paradigm: V_II
+ trans_de: vergnügen, unterhalten
+ trans_en: to entertain
+-lexeme
+ lex: nawəṣ/nowəṣ
+ stem: .n.w.ṣ.|.n.ṣ.
+ root: nwṣ
+ gramm: V
+ paradigm: V_I_2w
+ trans_de: eben zu spriessen anfangen
+ trans_en: to start sprouting
+-lexeme
+ lex: nxəšle/noxəš
+ stem: .n.x.š.
+ root: nxš
+ gramm: V
+ paradigm: V_I
+ trans_de: anstossen, mit spitzem Gegenstand picken; Zeichen machen
+ trans_en: to prick; to wink
+-lexeme
+ lex: nayəḥ/noyəḥ
+ stem: .n.y.ḥ.
+ root: nyḥ
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: gesund werden, genesen, ausheilen; unpersönlich mit l- gesund werden, genesen, geheilt werden, sich erholen
+ trans_en: to heal (intr.); to get well
+-lexeme
+ lex: manəḥle/manəḥ
+ stem: .n.ḥ.
+ root: nyḥ
+ gramm: V
+ paradigm: V_III_2y
+ trans_de: gesund machen, heilen (Menschen, Glied)
+ trans_en: to heal (tr.)
+-lexeme
+ lex: nəkle/noyək
+ stem: .n.y.k.|.n.k.
+ root: nyk
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: begatten
+ trans_en: to copulate with
+-lexeme
+ lex: nayəs/noyəs
+ stem: .n.y.s.|.n.s.
+ root: nys
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: schläfrig werden
+ trans_en: to become sleepy
+-lexeme
+ lex: mnaysən/minaysən
+ stem: .n.ys.n.|.n.ys.l.
+ root: nysn
+ gramm: V
+ paradigm: V_Qp_3n
+ trans_de: <?>
+ trans_en: to rise (about dough)
+-lexeme
+ lex: mnayšalle/mnayšən
+ stem: .n.yš.n.|.n.yš.l.
+ root: nyšn
+ gramm: V
+ paradigm: V_Q_3n
+ trans_de: bezeichnen, ein Zeichen machen; (sich) verloben
+ trans_en: to make a sign; to get engaged to
+-lexeme
+ lex: nayəṭ/noyəṭ
+ stem: .n.y.ṭ.
+ root: nyṭ
+ gramm: V
+ paradigm: V_I_2y
+ trans_de: aufspringen, herausspringen, herüberspringen
+-lexeme
+ lex: mnazaġle/mnazəġ
+ stem: .n.z.ġ.
+ root: nzġ
+ gramm: V
+ paradigm: V_II
+ trans_de: ausschlagen
+ trans_en: <?>
+-lexeme
+ lex: mnaznazle/mnaznəz
+ stem: .n.zn.z.
+ root: nznz
+ gramm: V
+ paradigm: V_Q
+ trans_de: sich zieren
+ trans_en: to make a fuss
+-lexeme
+ lex: nzəlle/nozər
+ stem: .n.z.r.|.n.z.l.|.n.z.n.
+ root: nzr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: eine Rille machen
+ trans_en: <?>
+-lexeme
+ lex: manzalle/manzər
+ stem: .n.z.r.|.n.z.l.|.n.z.n.
+ root: nzr
+ gramm: V
+ paradigm: V_III_3r
+ trans_de: mit dem Holzknebel einen Stick festdrehen; vor Müdigkeit sich rekelnd die Arme ausstrecken
+ trans_en: <?>
+-lexeme
+ lex: mpačpəč/mipačpəč
+ stem: .p.čp.č.
+ root: pčpč
+ gramm: V
+ paradigm: V_Qp
+ trans_de: sauer, ungeniessbar werden
+ trans_en: to become sour
+-lexeme
+ lex: pčəqle/počəq
+ stem: .p.č.q.
+ root: pčq
+ gramm: V
+ paradigm: V_I
+ trans_de: zerquetschen, zermalmen
+ trans_en: to crush
+-lexeme
+ lex: mpaḥalle/mpaḥən
+ stem: .p.ḥ.n.|.p.ḥ.l.
+ root: pḥn
+ gramm: V
+ paradigm: V_II_3n
+ trans_de: Faul dasitzen und vor sich hinstieren
+ trans_en: <?>
+-lexeme
+ lex: mpažele/mpažəl
+ stem: .p.ž.l.|.p.ž.
+ root: pžl
+ gramm: V
+ paradigm: V_II_3l
+ trans_de: hauen
+ trans_en: to splinter, to fragment
+-lexeme
+ lex: mpažele/mpaže
+ stem: .p.ž.y.|.p.ž.
+ root: pžy
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: zersplittern
+ trans_en: to splinter, to fragment
+-lexeme
+ lex: mpalək/mipalək
+ stem: .p.l.k.
+ root: plk
+ gramm: V
+ paradigm: V_IIp
+ trans_de: Angst haben
+ trans_en: to be afraid
+-lexeme
+ lex: mpalpaxle/mpalpəx
+ stem: .p.lp.x.
+ root: plpx
+ gramm: V
+ paradigm: V_Q
+ trans_de: Übel zurichten (mit Fusstritten, Steinen und drgl.)
+ trans_en: to strike, to beat
+-lexeme
+ lex: mpaxpəx/mipaxpəx
+ stem: .p.xp.x.
+ root: pxpx
+ gramm: V
+ paradigm: V_Qp
+ trans_de: <?>
+ trans_en: to burst, to split open; to break
+-lexeme
+ lex: mpaləš/mipaləš
+ stem: .p.l.š.
+ root: plš
+ gramm: V
+ paradigm: V_IIp
+ trans_de: zerschellen
+ trans_en: <?>
+-lexeme
+ lex: mpalaxle/mpaləx
+ stem: .p.l.x.
+ root: plx
+ gramm: V
+ paradigm: V_II
+ trans_de: zertrümmern, in Stücke schlagen
+ trans_en: <?>
+-lexeme
+ lex: mparčaqle/mparčəq
+ stem: .p.rč.q.
+ root: prčq
+ gramm: V
+ paradigm: V_Q
+ trans_de: zermalmen, zerschmettern (ohne auseinanderzutretten), breit, platt schlagen
+ trans_en: to crush; to smash; to shatter
+-lexeme
+ lex: mpargele/mpargəl
+ stem: .p.rg.l.|.p.rg.
+ root: prgl
+ gramm: V
+ paradigm: V_Q_3l
+ trans_de: mit dem Zirkel ausmessen
+ trans_en: <?>
+-lexeme
+ lex: mparpalle/mparpər
+ stem: .p.rp.r.|.p.rp.l.|.p.rp.n.
+ root: prpr
+ gramm: V
+ paradigm: V_Q_3r
+ trans_de: flattern, mit den Flügeln schlagen
+ trans_en: to flutter
+-lexeme
+ lex: mparpasle/mparpəs
+ stem: .p.rp.s.
+ root: prps
+ gramm: V
+ paradigm: V_Q
+ trans_de: durcheinanderwerfen
+ trans_en: <?>
+-lexeme
  lex: mparpaṭle/mparpǝṭ
  stem: .p.rp.ṭ.
  root: prpṭ
  gramm: V
  paradigm: V_I
  trans_de: zerfetzen, zerreissen, (ruḥe) zappeln beim Geschlachtet werden (Vogel, z.B. Hahn), (fig.) Lügen erzählen, aufschneiden (wenn einer z.B. behauptet, er habe einen 20m langen Fisch gesehen)
+ trans_en: to shred
 -lexeme
  lex: mparpaxle/mparpǝx
  stem: .p.rp.x.
@@ -4548,13 +5803,23 @@
  gramm: V
  paradigm: V_I
  trans_de: zertrümmen
+ trans_en: <?>
 -lexeme
  lex: mparqaʕle/mparqǝʕ
  stem: .p.rq.ʕ.
  root: prqʕ
  gramm: V
- paradigm: V_I
+ paradigm: V_Q
  trans_de: in Stücke zerplatzen
+ trans_en: to burst in pieces (intr.)
+-lexeme
+ lex: mparqəʕ/miparqəʕ
+ stem: .p.rq.ʕ.
+ root: prqʕ
+ gramm: V
+ paradigm: V_Qp
+ trans_de: aufplatzen
+ trans_en: to burst (intr.)
 -lexeme
  lex: prǝṭle/porǝṭ
  stem: .p.r.ṭ.
@@ -4562,6 +5827,7 @@
  gramm: V
  paradigm: V_I
  trans_de: enthaaren durch Auszupfen
+ trans_en: to depilate
 -lexeme
  lex: mparaṭle/mparǝṭ
  stem: .p.r.ṭ.
@@ -4569,41 +5835,47 @@
  gramm: V
  paradigm: V_II
  trans_de: 1) zerreissen; 2) verbrennen, verbrühen
+ trans_en: to pluck
+-lexeme
+ lex: mparaṭle/mparəṭ
+ stem: .p.r.ṭ.
+ root: prṭ
+ gramm: V
+ paradigm: V_II
+ trans_de: verbrennen, verbrühen
+ trans_en: to burn (tr.)
 -lexeme
  lex: mparxǝl/miparxǝl
  stem: .p.rx.l.
  root: prxl
  gramm: V
- paradigm: V_I
- trans_de: (Detrans.) Sprünge, Risse bekommen, zertrümmen
+ paradigm: V_Qp
+ trans_de: Sprünge, Risse bekommen, zertrümmen
+ trans_en: <?>
 -lexeme
  lex: mpaspasle/mpaspǝs
  stem: .p.sp.s.
  root: psps
  gramm: V
- paradigm: V_I
+ paradigm: V_Q
  trans_de: füstern
--lexeme
- lex: pṣīḥ/mǝpṣǝḥ
- stem: .p.ṣ.ḥ.
- root: pṣḥ
- gramm: V
- paradigm: V_I
- trans_de: (Detrans.) sich freuen, Scherz treiben
+ trans_en: <?>
 -lexeme
  lex: mpašmalle/mpašmǝn
- stem: .p.šm.n.
+ stem: .p.šm.n.|.p.šm.l.
  root: pšmn
  gramm: V
- paradigm: V_I
+ paradigm: V_Q
  trans_de: bereuen
+ trans_en: to regret
 -lexeme
  lex: mpašpǝš/mipašpǝš
  stem: .p.šp.š.
  root: pšpš
  gramm: V
- paradigm: V_I
- trans_de: (Detrans.) ungeniessbar werden
+ paradigm: V_Qp
+ trans_de: ungeniessbar werden
+ trans_en: to become inedible
 -lexeme
  lex: pšǝṭle/pošǝṭ
  stem: .p.š.ṭ.
@@ -4611,20 +5883,23 @@
  gramm: V
  paradigm: V_I
  trans_de: ausstrecken
--lexeme
- lex: ptǝḥle/potǝḥ
- stem: .p.t.ḥ.
- root: ptḥ
- gramm: V
- paradigm: V_I
- trans_de: öffnen, aufmachen
+ trans_en: to stretch
 -lexeme
  lex: mpatpatle/mpatpǝt
  stem: .p.tp.t.
  root: ptpt
  gramm: V
- paradigm: V_I
- trans_de: 1) vor sich hinreden, auf jn. einreden, ohrenblasen; 2) (Detrans.) einen Ton von sich geben, aus dem man schliessen kann, dass der Stein nicht fest ist
+ paradigm: V_Q
+ trans_de: 1) vor sich hinreden, auf jn. einreden, ohrenblasen;
+ trans_en: <?>
+-lexeme
+ lex: mpatpət/mipatpət
+ stem: .p.tp.t.
+ root: ptpt
+ gramm: V
+ paradigm: V_Qp
+ trans_de: einen Ton von sich geben, aus dem man schliessen kann, dass der Stein nicht fest ist
+ trans_en: to emit a sound from which one can conclude that a stone is not firm
 -lexeme
  lex: mpatašle/mpatǝš
  stem: .p.t.š.
@@ -4639,20 +5914,7 @@
  gramm: V
  paradigm: V_II
  trans_de: in Unkosten, in Bankrott stürzen
--lexeme
- lex: paṯi/poṯe
- stem: .p.ṯ.y.|.p.ṯ.
- root: pṯy
- gramm: V
- paradigm: V_I_3y
- trans_de: breit werden
--lexeme
- lex: mpaxpaxle/mpaxpǝx
- stem: .p.xp.x.
- root: pxpx
- gramm: V
- paradigm: V_I
- trans_de: zerkleinern, in Stücke schlagen
+ trans_en: to lead into bankruptcy
 -lexeme
  lex: pǝčle/poyǝč
  stem: .p.y.č.|.p.č.
@@ -4660,34 +5922,39 @@
  gramm: V
  paradigm: V_I_2y
  trans_de: sich (ent)leeren
+ trans_en: to empty
 -lexeme
- lex: mpayadle/mpayǝd
- stem: .p.y.d.|.p.d.
- root: pyd
+ lex: mapəčle/mapəč
+ stem: .p.č.
+ root: pyč
  gramm: V
- paradigm: V_II
- trans_de: herbeischaffen, Zur Stelle schaffen, auftreiben, finden
--lexeme
- lex: payǝd̞/poyǝd̞
- stem: .p.yd.̞.
- root: pyd̞
- gramm: V
- paradigm: V_I
- trans_de: strömen (Licht)
+ paradigm: V_III_2y
+ trans_de: leeren
+ trans_en: to empty
 -lexeme
  lex: mapǝsle/mapǝs
- stem: .p.y.s.|.p.s.
+ stem: .p.s.
  root: pys
  gramm: V
  paradigm: V_III_2y
  trans_de: schmutzig machen
+ trans_en: to make dirty
 -lexeme
- lex: mqabele/mqabǝl
- stem: .q.b.l.
+ lex: mqabele/mqabəl
+ stem: .q.b.l.|.q.b.|.q.b.n.
  root: qbl
  gramm: V
- paradigm: V_II
+ paradigm: V_II_3l
  trans_de: jm. gegenübertreten, ihn sprechen
+ trans_en: to face; to talk
+-lexeme
+ lex: maqbele/maqbəl
+ stem: .q.b.l.|.q.b.|.q.b.n.
+ root: qbl
+ gramm: V
+ paradigm: V_III_3l
+ trans_de: annehmen, aufnehmen, empfangen, sich einverstanden erklären, sich auf etwas einlassen, zulassen, zufrieden sein mit, erhören, sich gefallen lassen, anerkennen; glauben; (intrans.) sich gut entwickeln, gedeihen, sich herausmachen
+ trans_en: to accept; to agree; to receive; to grow; to succeed; to develop (intr.)
 -lexeme
  lex: qabǝz/qobǝz
  stem: .q.b.z.
@@ -4695,6 +5962,7 @@
  gramm: V
  paradigm: V_I
  trans_de: springen
+ trans_en: to jump
 -lexeme
  lex: qdǝḥle/qodǝḥ
  stem: .q.d.ḥ.
@@ -4702,6 +5970,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) flammen, brennen; 2) mit dem Feuerzeuge Feuer schlagen, in Brand stecken; 3) fig. flammen (Zorn)
+ trans_en: to set on fire; to burn (intr.); to blaze (intr.)
 -lexeme
  lex: mqadamle/mqadǝm
  stem: .q.d.m.
@@ -4709,6 +5978,7 @@
  gramm: V
  paradigm: V_II
  trans_de: 1) (trans.) vorschicken, vorsetzen, darbringen, darreichen, servieren, überreichen, abstatten; 2) (intrans.) vortreten, herankommen, nahekommen (ʕal, l-, laf-, s-); 3) sich ehelich nähern = to have sexual intercourse
+ trans_en: to send forward; to advance; to present; to offer; to approach, to come close
 -lexeme
  lex: qadǝr/qodǝr
  stem: .q.d.r.
@@ -4716,6 +5986,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) können, vermögen, fertig bringen (mit nacktem Imperfekt oder d-); 2) (ʕal) bezwingen, überwältigen, fertig werden mit, die Überhand gewinnen über, etwas anhaben können, hereinlegen, (ʕal ruḥe) sich beherrschen können)
+ trans_en: to be able; to overcome smb. (ʕal)
 -lexeme
  lex: mqadašle/mqadǝš
  stem: .q.d.š.
@@ -4723,27 +5994,46 @@
  gramm: V
  paradigm: V_II
  trans_de: weihen, heilig machen
+ trans_en: to consecrate
+-lexeme
+ lex: qaḏəḥ/qoḏəḥ
+ stem: .q.ḏ.ḥ.
+ root: qḏḥ
+ gramm: V
+ paradigm: V_I
+ trans_de: <?>
+ trans_en: to be turned on; to ligh; to be ignited
 -lexeme
  lex: maqḏaḥle/maqḏǝḥ
- stem: .q.ḏ.ḥ.
+ stem: .q.ḏ.ḥ.|.q.d.ḥ.
  root: qḏḥ
  gramm: V
  paradigm: V_III
  trans_de: mit dem Feuerzeuge Feuer schlagen, in Brand strecken
 -lexeme
- lex: qad̞i/qod̞e
- stem: .q.d̞.y.
- root: qd̞y
+ lex: qaḏ̣i/qoḏ̣e
+ stem: .q.ḏ̣.y.|.q.ḏ̣.
+ root: qḏ̣y
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3y
  trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden
+ trans_en: to come to an end; to be finished; to pass
+-lexeme
+ lex: mqaḏ̣ele/mqaḏ̣e
+ stem: .q.ḏ̣.y.|.q.ḏ̣.
+ root: qḏ̣y
+ gramm: V
+ paradigm: V_II_3y
+ trans_de: verbringen
+ trans_en: to spend
 -lexeme
  lex: qafǝl/qofǝl
- stem: .q.f.l.
+ stem: .q.f.l.|.q.f.|.q.f.n.
  root: qfl
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: erfrieren
+ trans_en: to freeze
 -lexeme
  lex: mqafele/mqafe
  stem: .q.f.y.|.q.f.
@@ -4751,34 +6041,47 @@
  gramm: V
  paradigm: V_II_3y
  trans_de: ausfindig machen, (auf)suchen, finden
--lexeme
- lex: qhǝlle/qohǝr
- stem: .q.h.r.
- root: qhr
- gramm: V
- paradigm: V_I
- trans_de: ärgern
+ trans_en: to find; to obtain
 -lexeme
  lex: qaḥǝl/qoḥǝl
- stem: .q.ḥ.l.
+ stem: .q.ḥ.l.|.q.ḥ.|.q.ḥ.n.
  root: qḥl
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: brechen
+ trans_en: to collapse
 -lexeme
  lex: qḥǝlle/qoḥǝr
- stem: .q.ḥ.r.
+ stem: .q.ḥ.r.|.q.h.r.|.q.ḥ.l.|.q.h.l.|.q.h.n.|.q.ḥ.n.
  root: qḥr
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: ärgern
+ trans_en: to make smb. angry
 -lexeme
- lex: qlǝʕle(qalǝʕ)/qolǝʕ
+ lex: qḥir/məqḥər
+ stem: .q.ḥ.r.|.q.h.r.|.q.ḥ.n.|.q.h.n.|.q.ḥ.l.|.q.h.l.
+ root: qḥr/qhr
+ gramm: V
+ paradigm: V_Ip_3r
+ trans_de: böse, zornig, ärgerlich, missmutig werden auf (ʕal, m-)
+ trans_en: to become angry at (m-) smb.
+-lexeme
+ lex: qlǝʕle/qoləʕ
  stem: .q.l.ʕ.
  root: qlʕ
  gramm: V
  paradigm: V_I
- trans_de: 1) sich ergiessen, fliessen; 2) antreiben, vor sich her treiben (Tier u.a.), vorwärts schieben, fahren (ein Fahrzeug); 3) (mit im Sinne behaltenem Objekt) losreiten, anfahren; fahren (intr.)
+ trans_de: antreiben, vor sich her treiben (Tier u.a.), vorwärts schieben, fahren (ein Fahrzeug); (mit im Sinne behaltenem Objekt) losreiten, anfahren; fahren (intr.)
+ trans_en: to drive
+-lexeme
+ lex: qaləʕ/qoləʕ
+ stem: .q.l.ʕ.
+ root: qlʕ
+ gramm: V
+ paradigm: V_I
+ trans_de: sich ergiessen, fliessen
+ trans_en: to flow
 -lexeme
  lex: maqlaʕle/maqlǝʕ
  stem: .q.l.ʕ.
@@ -4786,6 +6089,7 @@
  gramm: V
  paradigm: V_III
  trans_de: in Galopp setzen, galoppieren
+ trans_en: to gallop (tr.)
 -lexeme
  lex: qalǝb/qolǝb
  stem: .q.l.b.
@@ -4793,6 +6097,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) kulminieren, kippen, umkippen, hinübersteigen, sich herumdrehen, rollen, sich (auf den Rücken des Pferdes) schwingen; 2) sich plötzlich ändern, sich verwandeln, umfallen, den Vertrag brechen; JL: sich absetzen
+ trans_en: to tip; to tip over, to turn over; to roll; turn round; to suddenly change, to transform; to settle
 -lexeme
  lex: maqlaḏle/maqlǝḏ
  stem: .q.l.ḏ.
@@ -4800,13 +6105,15 @@
  gramm: V
  paradigm: V_III
  trans_de: verschliessen
+ trans_en: to close, to lock
 -lexeme
- lex: qlǝfle/qolǝf
+ lex: qlif/məqləf
  stem: .q.l.f.
  root: qlf
  gramm: V
- paradigm: V_I
+ paradigm: V_Ip
  trans_de: abhäuten, schälen
+ trans_en: to peel off (intr.)
 -lexeme
  lex: mqalaqle/mqalǝq
  stem: .q.l.q.
@@ -4814,6 +6121,15 @@
  gramm: V
  paradigm: V_II
  trans_de: vollreden
+ trans_en: <?>
+-lexeme
+ lex: maqlaqle/maqləq
+ stem: .q.l.q.
+ root: qlq
+ gramm: V
+ paradigm: V_III
+ trans_de: unruhig werden
+ trans_en: to become restless, uneasy
 -lexeme
  lex: mqalele/mqale
  stem: .q.l.y.|.q.l.
@@ -4821,13 +6137,39 @@
  gramm: V
  paradigm: V_II_3y
  trans_de: braten, rösten
+ trans_en: to fry
 -lexeme
- lex: mqamalle/mqamǝr
- stem: .q.m.r.
- root: qmr
+ lex: mqalazle/mqaləz
+ stem: .q.l.z.
+ root: qlz
  gramm: V
  paradigm: V_II
+ trans_de: <?>
+ trans_en: to look with bad intentions
+-lexeme
+ lex: qməlle/qomər
+ stem: .q.m.r.|.q.m.l.|.q.m.n.
+ root: qmr
+ gramm: V
+ paradigm: V_I_3r
+ trans_de: gewinnen
+ trans_en: to win
+-lexeme
+ lex: maqmalle/maqmər
+ stem: .q.m.r.|.q.m.l.|.q.m.n.
+ root: qmr
+ gramm: V
+ paradigm: V_III_3r
+ trans_de: verlieren (im Spiel)
+ trans_en: to lose in a game
+-lexeme
+ lex: mqamalle/mqamǝr
+ stem: .q.m.r.|.q.m.l.|.q.m.n.
+ root: qmr
+ gramm: V
+ paradigm: V_II_3r
  trans_de: rösten, trocknen (Holz)
+ trans_en: to roast; to dry (tr.)
 -lexeme
  lex: qanǝʕ/qonǝʕ
  stem: .q.n.ʕ.
@@ -4835,20 +6177,23 @@
  gramm: V
  paradigm: V_I
  trans_de: nachgeben, einigen, einsehen, überzeugt werden
+ trans_en: to be persuaded; to agree
 -lexeme
  lex: mqandaġle/mqandǝġ
  stem: .q.nd.ġ.
  root: qndġ
  gramm: V
- paradigm: V_I
+ paradigm: V_Q
  trans_de: wickeln (Kind)
+ trans_en: to wrap (a child)
 -lexeme
  lex: mqanqele/mqanqǝl
- stem: .q.nq.l.
+ stem: .q.nq.l.|.q.nq.|.q.nq.n.
  root: qnql
  gramm: V
- paradigm: V_I
+ paradigm: V_Q_3l
  trans_de: einem die Ohren voll reden
+ trans_en: <?>
 -lexeme
  lex: qpǝčle/qopǝč
  stem: .q.p.č.
@@ -4856,6 +6201,7 @@
  gramm: V
  paradigm: V_I
  trans_de: 1) schnell packen; 2) nehmen und nicht geben
+ trans_en: to grab quickly
 -lexeme
  lex: mqapaṭle/mqapǝṭ
  stem: .q.p.ṭ.
@@ -4863,13 +6209,20 @@
  gramm: V
  paradigm: V_II
  trans_de: schliessen, decken
+ trans_en: to close; to cover
 -lexeme
- lex: qrīf/mǝqrǝf
+ lex: qrif/mǝqrǝf
  stem: .q.r.f.
  root: qrf
  gramm: V
- paradigm: V_I
- trans_de: 
+ paradigm: V_Ip
+ trans_de: brechen
+ trans_en: to break (intr.)
+-lexeme
+ lex: mtaqrəf/mitaqrəf
+ stem: .q.r.f.
+ root: qrf
+ gramm: V
 -lexeme
  lex: mtaqrǝf/mitaqrǝf
  stem: .q.r.f.
@@ -8933,6 +10286,22 @@
  gramm: V
  paradigm: V_III_3y
  trans_de: holen, bringen
+ trans_en: to bring, to fetch
+-lexeme
+ lex: mtele/mote
+ stem: .m.t.|.m.t.y.
+ root: ʔṯy
+ gramm: V
+ paradigm: V_I_3y
+ trans_de: bringen, mitbringen, herbringen
+ trans_en: to bring, to fetch
+-lexeme
+ lex: mamtele/mamte
+ stem: .m.t.|.m.t.y.
+ root: ʔṯy
+ gramm: V
+ paradigm: V_III_3y
+ trans_de: bringen
  trans_en: to bring, to fetch
 -lexeme
  lex: xile/oxǝl
