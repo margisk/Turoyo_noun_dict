@@ -1151,6 +1151,150 @@
   gramm: imv,sg
  -flex: ..a.u
   gramm: imv, pl 
+  
+-paradigm: V_Ip
+
+ # Preterite
+ -flex: ..i.
+  gramm: pass,pst,3,sg,m
+ -flex: ..i.o
+  gramm: pass,pst,3,sg,f
+ -flex: ..i.ət
+  gramm: pass,pst,2,sg
+ -flex: ..i.ət
+  gramm: pass,pst,2,sg,m
+ -flex: ..i.at
+  gramm: pass,pst,2,sg,f
+ -flex: ..ə.no
+  gramm: pass,pst,1,sg,m
+ -flex: ..i.ono
+  gramm: pass,pst,1,sg,f
+ -flex: ..i.i
+  gramm: pass,pst,3,pl
+ -flex: ..i.itu//..i.utu
+  gramm: pass,pst,2,pl
+ -flex: ..i.ina
+  gramm: pass,pst,1,pl
+  
+ # Pluperfect
+ -flex: ..ə.wo//..ə.wa
+  gramm: pass,plpf,3,sg,m
+ -flex: ..i.owa
+  gramm: pass,plpf,3,sg,f
+ -flex: ..i.atwo//..i.atwa
+  gramm: pass,plpf,2,sg
+ -flex: ..ə.nowo//..ə.wayno
+  gramm: pass,plpf,1,sg,m
+ -flex: ..i.onowo//..i.owayno
+  gramm: pass,plpf,1,sg,f
+ -flex: ..i.iwo//..i.iwa
+  gramm: pass,plpf,3,pl
+ -flex: ..i.ituwo//..i.utuwa
+  gramm: pass,plpf,2,pl
+ -flex: ..i.inawo//..i.iwayna
+  gramm: pass,plpf,1,pl
+  
+ # Present
+ -flex: mə..ə.
+  gramm: pass,prs,3,sg,m
+ -flex: mə..o.o
+  gramm: pass,prs,3,sg,f
+ -flex: mə..o.ət
+  gramm: pass,prs,2,sg
+ -flex: mə..o.ət
+  gramm: pass,prs,2,sg,m
+ -flex: mə..o.at
+  gramm: pass,prs,2,sg,f
+ -flex: mə..a.no//mə..ə.no
+  gramm: pass,prs,1,sg,m
+ -flex: mə..ə.ono//mə..o.ono
+  gramm: pass,prs,1,sg,f
+ -flex: mə..o.i
+  gramm: pass,prs,3,pl
+ -flex: mə..ə.itu//mə..o.utu//mə..o.itu
+  gramm: pass,prs,2,pl
+ -flex: mə..ə.ina//mə..o.ina
+  gramm: pass,prs,1,pl
+  
+ # Present+ko
+ -flex: kmə..ə.//komə..ə.
+  gramm: pass,prs,dur,3,sg,m
+ -flex: kmə..o.o//komə..o.o
+  gramm: pass,prs,dur,3,sg,f
+ -flex: kmə..o.ət//komə..o.ət
+  gramm: pass,prs,dur,2,sg
+ -flex: komə..o.ət
+  gramm: pass,prs,dur,2,sg,m
+ -flex: komə..o.at
+  gramm: pass,prs,dur,2,sg,f
+ -flex: kmə..a.no//komə..a.no//komə..ə.no
+  gramm: pass,prs,dur,1,sg,m
+ -flex: kmə..ə.ono//komə..o.ono
+  gramm: pass,prs,dur,1,sg,f
+ -flex: kmə..o.i//komə..o.i
+  gramm: pass,prs,dur,3,pl
+ -flex: kmə..ə.itu//komə..o.utu//komə..o.itu
+  gramm: pass,prs,dur,2,pl
+ -flex: kmə..ə.ina//komə..o.ina
+  gramm: pass,prs,dur,1,pl
+  
+ # Future
+ -flex: gmə..ə.//gədmə..ə.
+  gramm: pass,fut,3,sg,m
+ -flex: gmə..o.o//gədmə..o.o
+  gramm: pass,fut,3,sg,f
+ -flex: gmə..o.ət//gədmə..o.ət
+  gramm: pass,fut,2,sg
+ -flex: gmə..o.ət//gədmə..o.ət
+  gramm: pass,fut,2,sg,m
+ -flex: gmə..o.at//gədmə..o.at
+  gramm: pass,fut,2,sg,f
+ -flex: gmə..a.no//gədmə..a.no//gmə..ə.no//gədmə..ə.no
+  gramm: pass,fut,1,sg,m
+ -flex: gmə..ə.ono//gədmə..ə.ono//gmə..o.ono//gədmə..o.ono
+  gramm: pass,fut,1,sg,f
+ -flex: gmə..o.i//gədmə..o.i
+  gramm: pass,fut,3,pl
+ -flex: gmə..ə.itu//gədmə..ə.itu//gmə..o.utu//gədmə..o.utu//gmə..o.itu//gədmə..o.itu
+  gramm: pass,fut,2,pl
+ -flex: gmə..ə.ina//gədmə..ə.ina//gmə..o.ina//gədmə..o.ina
+  gramm: pass,fut,1,pl
+  
+ # Imperfect
+ -flex: mə..a.wo//kmə..a.wo//gmə..a.wo//gədmə..a.wo//mə..a.wa//komə..a.wa//gmə..a.wa//gədmə..a.wa//mə..ə.wa//komə..ə.wa//gmə..ə.wa//gədmə..ə.wa
+  gramm: pass,ipf,3,sg,m
+ -flex: mə..ə.owa//kmə..ə.owa//gmə..ə.owa//gədmə..ə.owa//mə..o.owa//komə..o.owa//gmə..o.owa//gədmə..o.owa
+  gramm: pass,ipf,3,sg,f
+ -flex: mə..ə.atwo//kmə..ə.atwo//gmə..ə.atwo//gədmə..ə.atwo//mə..o.atwa//komə..o.atwa//gmə..o.atwa//gədmə..o.atwa
+  gramm: pass,ipf,2,sg
+ -flex: mə..o.ətwa//komə..o.ətwa//gmə..o.ətwa//gədmə..o.ətwa
+  gramm: pass,ipf,2,sg,m
+ -flex: mə..o.atwa//komə..o.atwa//gmə..o.atwa//gədmə..o.atwa
+  gramm: pass,ipf,2,sg,f
+ -flex: mə..a.nowo//kmə..a.nowo//gmə..a.nowo//gədmə..a.nowo//mə..ə.wayno//komə..ə.wayno//gmə..ə.wayno//gədmə..ə.wayno//mə..a.wayno//komə..a.wayno//gmə..a.wayno//gədmə..a.wayno
+  gramm: pass,ipf,1,sg,m
+ -flex: mə..ə.onowo//kmə..ə.onowo//gmə..ə.onowo//gədmə..ə.onowo//mə..ə.anwo//kmə..ə.anwo//gmə..ə.anwo//gədmə..ə.anwo//mə..o.anwayno//komə..o.anwayno//gmə..o.anwayno//gədmə..o.anwayno
+  gramm: pass,ipf,1,sg,f
+ -flex: mə..ə.iwo//kmə..ə.iwo//gmə..ə.iwo//gədmə..ə.iwo//mə..o.iwa//komə..o.iwa//gmə..o.iwa//gədmə..o.iwa
+  gramm: pass,ipf,3,pl
+ -flex: mə..ə.ituwo//kmə..ə.ituwo//gmə..ə.ituwo//gədmə..ə.ituwo//mə..o.utuwa//komə..o.utuwa//gmə..o.utuwa//gədmə..o.utuwa//mə..o.ituwa//komə..o.ituwa//gmə..o.ituwa//gədmə..o.ituwa
+  gramm: pass,ipf,2,pl
+ -flex: mə..ə.inawo//kmə..ə.inawo//gmə..ə.inawo//gədmə..ə.inawo//mə..o.iwayna//komə..o.iwayna//gmə..o.iwayna//gədmə..o.iwayna
+  gramm: pass,ipf,1,pl
+  
+ # Imperative 
+ -flex: mə..ə.//mə..a.
+  gramm: pass,imv,sg
+ -flex: mə..e.u//mə..a.u
+  gramm: pass,imv, pl
+  
+ # Passive participle
+ -flex: ..i.o
+  gramm: pass,pt,sg,m
+ -flex: ..ə.to
+  gramm: pass,pt,sg,f
+ -flex: ..i.e
+  gramm: pass,pt,pl  
 
 
 -paradigm: V_I_2y
@@ -1956,53 +2100,103 @@
   gramm: prs,1,pl
 
  # Preterite
- -flex: m.a.a.le
+ -flex: ma..a.le
   gramm: pst,3,sg,m,3sg.m.o
- -flex: m.a.a.ləx
+ -flex: ma..a.lox//ma..a.lux
   gramm: pst,2,sg,m,3sg.m.o
- -flex: m.a.a.la
+ -flex: ma..a.la
   gramm: pst,3,sg,f,3sg.m.o
- -flex: m.a.a.lax
+ -flex: ma..a.ləx//ma..a.lax
   gramm: pst,2,sg,f,3sg.m.o
- -flex: m.a.a.li
+ -flex: ma..a.li
   gramm: pst,1,sg,3sg.m.o
- -flex: m.a.a.qe
+ -flex: ma..a..e
   gramm: pst,3,pl,3sg.m.o
- -flex: m.a.a.xu
+ -flex: ma..a.xu//ma..a.xun
   gramm: pst,2,pl,3sg.m.o
- -flex: m.a.a.lan
+ -flex: ma..a.lan
   gramm: pst,1,pl,3sg.m.o
- -flex: m.a..ole
+ -flex: ma..ə.ole//ma.ə..ole//ma.a..ole//ma...ole
   gramm: pst,3,sg,m,3sg.f.o
- -flex: m.a..oləx
+ -flex: ma..ə.olox//ma...olox//ma.ə..olux//ma.a..olux//ma...olux
   gramm: pst,2,sg,m,3sg.f.o
- -flex: m.a..ola
+ -flex: ma..ə.ola//ma.ə..ola//ma.a..ola//ma...ola
   gramm: pst,3,sg,f,3sg.f.o
- -flex: m.a..olax
+ -flex: ma..ə.oləx//ma...oləx//ma.ə..olax//ma.a..olax//ma...olax
   gramm: pst,2,sg,f,3sg.f.o
- -flex: m.a..oli
+ -flex: ma..ə.oli//ma.ə..oli//ma.a..oli//ma...oli
   gramm: pst,1,sg,3sg.f.o
- -flex: m.a..alle
+ -flex: ma..ə.ulle//ma...ulle//ma.ə..alle//ma.ə..əlle//ma...əlle//ma.a..alle//ma...alle
   gramm: pst,3,pl,3sg.f.o
- -flex: m.a..alxu
+ -flex: ma..ə.ulxu//ma...ulxu//ma..ə.ulxun//ma.ə..alxu//ma.a..alxu//ma...alxu
   gramm: pst,2,pl,3sg.f.o
- -flex: m.a..olan
+ -flex: ma..ə.olan//ma.ə..olan//ma.a..olan//ma...olan
   gramm: pst,1,pl,3sg.f.o
- -flex: m.a..ile
+ -flex: ma..ə.ile//ma.ə..ile//ma.a..ile//ma...ile
   gramm: pst,3,sg,m,3pl.o
- -flex: m.a..iləx
+ -flex: ma..ə.ilox//ma...ilox//ma.ə..ilux//ma.a..ilux//ma...ilux
   gramm: pst,2,sg,m,3pl.o
- -flex: m.a..ila
+ -flex: ma..ə.ila//ma.ə..ila//ma.a..ila//ma...ila
   gramm: pst,3,sg,f,3pl.o
- -flex: m.a..ilax
+ -flex: ma..ə.iləx//ma...iləx//ma.ə..ilax//ma.a..ilax//ma...ilax
   gramm: pst,2,sg,f,3pl.o
- -flex: m.a..ili
+ -flex: ma..ə.ili//ma.ə..ili//ma.a..ili//ma...ili
   gramm: pst,1,sg,3pl.o
- -flex: m.a..ənne
+ -flex: ma..ə.ənne//ma.ə..ənne//ma.a..ənne//ma...ənne
   gramm: pst,3,pl,3pl.o
- -flex: m.a..ənxu
+ -flex: ma..ə.ənxu//ma..ə.ənxun//ma.ə..ənxu//ma.a..ənxu//ma...ənxu
   gramm: pst,2,pl,3pl.o
- -flex: m.a..ilan
+ -flex: ma..ə.ilan//ma.ə..ilan//ma.a..ilan//ma...ilan
   gramm: pst,1,pl,3pl.o
+  
+ # Perfect
+ -flex: kma..a.le//koma..a.le
+  gramm: pf,3,sg,m,3sg.m.o
+ -flex: kma..a.lox//koma..a.lux
+  gramm: pf,2,sg,m,3sg.m.o
+ -flex: kma..a.la//koma..a.la
+  gramm: pf,3,sg,f,3sg.m.o
+ -flex: kma..a.ləx//koma..a.lax
+  gramm: pf,2,sg,f,3sg.m.o
+ -flex: kma..a.li//koma..a.li
+  gramm: pf,1,sg,3sg.m.o
+ -flex: kma..a..e//koma..a..e
+  gramm: pf,3,pl,3sg.m.o
+ -flex: kma..a.xu//kma..a.xun//koma..a.xu//koma..a.xun
+  gramm: pf,2,pl,3sg.m.o
+ -flex: kma..a.lan//koma..a.lan
+  gramm: pf,1,pl,3sg.m.o
+ -flex: kma..ə.ole//koma.ə..ole//koma.a..ole//kma...ole//koma...ole
+  gramm: pf,3,sg,m,3sg.f.o
+ -flex: kma..ə.olox//kma...olox//koma.ə..olux//koma.a..olux//koma...olux
+  gramm: pf,2,sg,m,3sg.f.o
+ -flex: kma..ə.ola//koma.ə..ola//koma.a..ola//kma...ola//koma...ola
+  gramm: pf,3,sg,f,3sg.f.o
+ -flex: kma..ə.oləx//kma...oləx//koma.ə..olax//koma.a..olax//koma...olax
+  gramm: pf,2,sg,f,3sg.f.o
+ -flex: kma..ə.oli//koma.ə..oli//koma.a..oli//kma...oli//koma...oli
+  gramm: pf,1,sg,3sg.f.o
+ -flex: kma..ə.ulle//kma...ulle//koma.ə..alle//koma.ə..əlle//koma.a..alle//koma...alle
+  gramm: pf,3,pl,3sg.f.o
+ -flex: kma..ə.ulxu//kma...ulxu//kma..ə.ulxun//kma...ulxun//koma.ə..alxu//koma.a..alxu//koma...alxu
+  gramm: pf,2,pl,3sg.f.o
+ -flex: kma..ə.olan//koma.ə..olan//koma.a..olan//kma...olan//koma...olan
+  gramm: pf,1,pl,3sg.f.o
+ -flex: kma..ə.ile//koma.ə..ile//koma.a..ile//kma...ile//koma...ile
+  gramm: pf,3,sg,m,3pl.o
+ -flex: kma..ə.ilox//kma...ilox//koma.ə..ilux//koma.a..ilux//koma...ilux
+  gramm: pf,2,sg,m,3pl.o
+ -flex: kma..ə.ila//koma.ə..ila//koma.a..ila//kma...ila//koma...ila
+  gramm: pf,3,sg,f,3pl.o
+ -flex: kma..ə.iləx//kma...iləx//koma.ə..ilax//koma.a..ilax//koma...ilax
+  gramm: pf,2,sg,f,3pl.o
+ -flex: kma..ə.ili//koma.ə..ili//koma.a..ili//kma...ili//koma...ili
+  gramm: pf,1,sg,3pl.o
+ -flex: kma..ə.ənne//koma.ə..ənne//koma.a..ənne//kma...ənne//koma...ənne
+  gramm: pf,3,pl,3pl.o
+ -flex: kma..ə.ənxu//kma..ə.ənxun//koma.ə..ənxu//koma.a..ənxu//kma...ənxu//koma...ənxu
+  gramm: pf,2,pl,3pl.o
+ -flex: kma..ə.ilan//koma.ə..ilan//koma.a..ilan//kma...ilan//koma...ilan
+  gramm: pf,1,pl,3pl.o
   
   # Infectum-wa
