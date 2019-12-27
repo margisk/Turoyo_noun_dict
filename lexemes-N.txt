@@ -6464,14 +6464,6 @@
  trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf
  trans_en: such a person makes a lot of unnecessary expenses, lives in luxury and shows himself off before others
 -lexeme
- lex: bəṯṯər
- stem: bəṯṯər.//bəṯr.
- root: ʔṯr
- gramm: PREP
- paradigm: unchangeable
- trans_de: nach, hinter (zeitlich); nach, hinter (räumlich)
- trans_en: after (temporal); after, behind (spatial)
--lexeme
  lex: bəṯrke
  stem: bəṯṯərke.//bəṯərke.//bəṯrke.
  root: ʔṯr
@@ -22535,14 +22527,6 @@
  trans_de: dass, um... willen; weil
  trans_en: in order that; because
 -lexeme
- lex: laǧan/lašan/lažan/lašən/lšan
- stem: laǧan.//lašan.//lažan.//lašən.//šan.//lšan.
- root: lšn/lǧn
- gramm: PREP
- paradigm: unchangeable
- trans_de: für
- trans_en: for
--lexeme
  lex: laǧǧuǧ
  stem: laǧǧuǧ
  root: lǧ
@@ -36574,14 +36558,6 @@
  trans_de: kleine Feigen
  trans_en: small figs
 -lexeme
- lex: s/sə/se
- stem: s./sə./se. 
- root: s
- gramm: PREP
- paradigm: unchangeable
- trans_de: bei
- trans_en: by, near
--lexeme
  lex: sʕarto
  stem: sʕarto.|UNKNOWN.|sʕart.
  root: sʕr
@@ -47508,14 +47484,6 @@
  paradigm: unchangeable
  trans_de: Uneinigkeit
  trans_en: disagreement
--lexeme
- lex: xt/xoṯ
- stem: xt.//xoṯ.
- root: xt
- gramm: PREP
- paradigm: unchangeable
- trans_de: wie
- trans_en: how
 -lexeme
  lex: xtəlal
  stem: xtəlal.|UNKNOWN.|xtəlal.
