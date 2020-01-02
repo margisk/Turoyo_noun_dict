@@ -1140,6 +1140,14 @@
  trans_de: zehn
  trans_en: ten
 -lexeme
+ lex: ḥṣar
+ stem: ḥṣar.//ḥsar
+ root: ʕsr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zehn
+ trans_en: ten
+-lexeme
  lex: ʕaṣyo
  stem: ʕaṣyo.|ḥṣiṯo.|ʕaṣye.
  root: ʕṣy
@@ -3273,6 +3281,14 @@
  trans_de: Erde; Feld, Ackerfeld
  trans_en: earth; field
 -lexeme
+ lex: arbaʕ
+ stem: arbaʕ.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vier
+ trans_en: four
+-lexeme
  lex: arbʕin
  stem: arbʕin.
  root: rbʕ
@@ -3288,6 +3304,14 @@
  paradigm: unchangeable
  trans_de: Mittwoch und Freitag wird das ganze Jahr hindurch gefastet. Man isst kein Fleisch, keine Eier, kein tierisches Fett (arbʕo ʕrufto)
  trans_en: on Wednesday and Friday people fast the whole year. One does not eat meat, eggs and animal fat
+-lexeme
+ lex: arbʕo
+ stem: arbʕo.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vier
+ trans_en: four
 -lexeme
  lex: arbaʕiniyat
  stem: arbaʕiniyat.
@@ -17034,7 +17058,7 @@
  lex: ḥa
  stem: ḥa.
  root: ḥ
- gramm: PRN
+ gramm: NUM
  paradigm: unchangeable
  trans_de: einer
  trans_en: one
@@ -17606,6 +17630,22 @@
  paradigm: N2
  trans_de: Wein
  trans_en: wine
+-lexeme
+ lex: ḥamməš
+ stem: ḥamməš.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünf
+ trans_en: five
+-lexeme
+ lex: ḥamšo
+ stem: ḥamšo.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünf
+ trans_en: five
 -lexeme
  lex: ḥamuṣo
  stem: ḥamuṣo.|ḥaməṣto.|ḥamuṣe.
@@ -18402,7 +18442,7 @@
  lex: ḥḏo
  stem: ḥḏo.
  root: ḥḏ
- gramm: PRN
+ gramm: NUM
  paradigm: unchangeable
  trans_de: eine
  trans_en: one (f.)
@@ -19973,6 +20013,14 @@
  paradigm: unchangeable
  trans_de: voriges Jahr
  trans_en: last year
+-lexeme
+ lex: əšto
+ stem: əšto.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechs
+ trans_en: six
 -lexeme
  lex: əšwəṭ
  stem: əšwəṭ.
@@ -21647,6 +21695,30 @@
  trans_de: <?>
  trans_en: X (l-) had
 -lexeme
+ lex: kətwobe/kətwaybe
+ stem: kətwob.|kətwayb.|kətwap.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_1
+ trans_de: <?>
+ trans_en: X was able; X was contained in
+-lexeme
+ lex: kəpwayle
+ stem: kəpwa.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_2
+ trans_de: <?>
+ trans_en: X was able; X was contained
+-lexeme
+ lex: kibe
+ stem: kib.|kəp.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC
+ trans_de: <?>
+ trans_en: to be able; to be contained in
+-lexeme
  lex: kiyo
  stem: kiyo.
  root: ky
@@ -23052,7 +23124,24 @@
  root: lt
  gramm: PRTCL
  paradigm: POSS_PRTCL_PAST
+ trans_de: <?>
  trans_en: X (l-) did not have
+-lexeme
+ lex: latwobe/latwaybe
+ stem: latwob.//latwayb.//latwap.
+ root: lt
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_1
+ trans_de: <?>
+ trans_en: X was not able; X was not contained in
+-lexeme
+ lex: lapwayle
+ stem: lapwa.
+ root: lt
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_2
+ trans_de: <?>
+ trans_en: X was not able; X was not contained in
 -lexeme
  lex: latyo
  stem: lat.|lan.
@@ -23237,6 +23326,14 @@
  paradigm: unchangeable
  trans_de: nach hinten
  trans_en: backwards
+-lexeme
+ lex: laybe
+ stem: layb.|lap.
+ root: lyb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC
+ trans_de: <?>
+ trans_en: to not be able; to not be contained in
 -lexeme
  lex: layḥa
  stem: layḥa.|layḥat.|layḥ.
@@ -41141,6 +41238,14 @@
  trans_de: Persönlichkeit
  trans_en: personality
 -lexeme
+ lex: šawʕo
+ stem: šawʕo.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sieben
+ trans_en: seven
+-lexeme
  lex: šayiʕa
  stem: šayiʕa.|UNKNOWN.|šayiʕ.
  root: šyʕ
@@ -41260,6 +41365,14 @@
  paradigm: N2
  trans_de: Löwentöter
  trans_en: lion killer
+-lexeme
+ lex: šeṯ
+ stem: šeṯ.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechs
+ trans_en: six
 -lexeme
  lex: šewər
  stem: šewər.|UNKNOWN.|šewər.
@@ -42372,6 +42485,14 @@
  paradigm: N2
  trans_de: Querschnitt w-förmiges Gestell zum Verladen von Getreidegarben auf Esel
  trans_en: cross-section with W-shaped legs for loading sheafs of grain on donkeys
+-lexeme
+ lex: šwaʕ
+ stem: šwaʕ.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sieben
+ trans_en: seven
 -lexeme
  lex: šwarəf/šwerəf
  stem: šwarəf.//šwerəf.
@@ -44020,6 +44141,14 @@
  trans_de: neun 
  trans_en: nine
 -lexeme
+ lex: čaʕ
+ stem: čaʕ.
+ root: tšʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: neun
+ trans_en: nine
+-lexeme
  lex: təšbəḥto/təšbuḥto/təžbəḥto
  stem: təšbəḥto.//təšbuḥto.//təžbəḥto.
  root: šbḥ
@@ -44333,9 +44462,25 @@
  trans_de: drei
  trans_en: three
 -lexeme
+ lex: tloṯo
+ stem: tloṯo.
+ root: tlṯ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: drei
+ trans_en: three
+-lexeme
  lex: tmanyo/tmənyo
  stem: tmanyo.//tmənyo.
- root: tmny
+ root: tmn
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: acht
+ trans_en: eight
+-lexeme
+ lex: tmone
+ stem: tmone.
+ root: tmn
  gramm: NUM
  paradigm: unchangeable
  trans_de: acht
