@@ -1,4 +1,4 @@
-﻿-paradigm: unchangeable
+-paradigm: unchangeable
  -flex: .
   gramm: 
 
