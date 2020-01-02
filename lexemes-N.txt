@@ -10008,6 +10008,14 @@
  trans_de: Traubenhonig, Traubensirup
  trans_en: grape syrup
 -lexeme
+ lex: diḏ
+ stem: diḏ.|dəṯ.
+ root: dḏ
+ gramm: PRTCL
+ paradigm: PRTCL_POS
+ trans_de: <?>
+ trans_en: possessive particle (of)
+-lexeme
  lex: dik
  stem: dik.
  root: dk
