@@ -1140,6 +1140,14 @@
  trans_de: zehn
  trans_en: ten
 -lexeme
+ lex: ḥṣar
+ stem: ḥṣar.//ḥsar
+ root: ʕsr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zehn
+ trans_en: ten
+-lexeme
  lex: ʕaṣyo
  stem: ʕaṣyo.|ḥṣiṯo.|ʕaṣye.
  root: ʕṣy
@@ -2793,6 +2801,14 @@
  trans_de: Torheit
  trans_en: stupidity
 -lexeme
+ lex: aḥna
+ stem: aḥna.
+ root: ʔḥn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: wir
+ trans_en: we
+-lexeme
  lex: aḥo
  stem: aḥo.|aḥe.|aḥ.
  root: ḥ
@@ -3265,6 +3281,14 @@
  trans_de: Erde; Feld, Ackerfeld
  trans_en: earth; field
 -lexeme
+ lex: arbaʕ
+ stem: arbaʕ.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vier
+ trans_en: four
+-lexeme
  lex: arbʕin
  stem: arbʕin.
  root: rbʕ
@@ -3280,6 +3304,14 @@
  paradigm: unchangeable
  trans_de: Mittwoch und Freitag wird das ganze Jahr hindurch gefastet. Man isst kein Fleisch, keine Eier, kein tierisches Fett (arbʕo ʕrufto)
  trans_en: on Wednesday and Friday people fast the whole year. One does not eat meat, eggs and animal fat
+-lexeme
+ lex: arbʕo
+ stem: arbʕo.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vier
+ trans_en: four
 -lexeme
  lex: arbaʕiniyat
  stem: arbaʕiniyat.
@@ -6463,13 +6495,21 @@
  paradigm: N2
  trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf
  trans_en: such a person makes a lot of unnecessary expenses, lives in luxury and shows himself off before others
+-lexeme 
+ lex: bəṯṯər
+ stem: bəṯṯər.
+ root: ʔṯr
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: afterwards
 -lexeme
  lex: bəṯrke
  stem: bəṯṯərke.//bəṯərke.//bəṯrke.
  root: ʔṯr
  gramm: ADV
  paradigm: unchangeable
- trans_de:
+ trans_de: <?>
  trans_en: afterwards
 -lexeme
  lex: bəzdəm
@@ -12520,14 +12560,6 @@
  trans_de: deiktische Partikel, die besagt, dass man das Geschehen unmittelbar vor Augen hat
  trans_en: deictic particle which means that a person has before his eyes somethings that happens
 -lexeme
- lex: gab
- stem: gab.
- root: gb
- gramm: PREP
- paradigm: unchangeable
- trans_de: bei, zu
- trans_en: towards, near to
--lexeme
  lex: gabo
  stem: gabo.|gabe.|gab.
  root: gb
@@ -15872,6 +15904,30 @@
  trans_de: Hilfe
  trans_en: help
 -lexeme
+ lex: hanək
+ stem: hanək.
+ root: hnk
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: jene (pl.)
+ trans_en: those
+-lexeme
+ lex: hani
+ stem: hani.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: diese (pl.)
+ trans_en: these
+-lexeme
+ lex: hano
+ stem: hano.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: dieser
+ trans_en: this (m.)
+-lexeme
  lex: haqqa/aqqa/hafqa
  stem: haqqa.//aqqa.//hafqa.
  root: qṣ
@@ -15976,6 +16032,14 @@
  trans_de: nüchtern, bei Vernunft; jdn, der einem böse ist, wieder versöhnen, zur Vernunft bringen
  trans_en: sensible, reasonable; to reconcile someone who is angry at someone, to talk sense into them
 -lexeme
+ lex: hat
+ stem: hat.
+ root: ht
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: du
+ trans_en you (sg.)
+-lexeme
  lex: hatika/hatike
  stem: hatika.//hatike.|hatikat.|hatik.//hatik.
  root: htk
@@ -15991,6 +16055,22 @@
  paradigm: unchangeable
  trans_de: Einkommen, Einkünfte, Erwerbsarten
  trans_en: income, earnings, type of acitivity
+-lexeme
+ lex: hatu
+ stem: hatu.
+ root: ht
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: ihr
+ trans_en: you (pl.)
+-lexeme
+ lex: haṯe
+ stem: haṯe.//haṯi.
+ root: hṯ
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: diese
+ trans_en: this (f.)
 -lexeme
  lex: havale
  stem: havale.
@@ -16103,6 +16183,14 @@
  paradigm: N2
  trans_de: Verstand, Überlegungsfähigkeit, Bewusstsein
  trans_en: understanding, awareness, consciousness, reflection capability
+-lexeme
+ lex: hawo
+ stem: hawo.
+ root: hw
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: jener
+ trans_en: that (m.)
 -lexeme
  lex: hawuz
  stem: hawuz.|hawuzat.|hawuz.
@@ -16278,6 +16366,14 @@
  paradigm: unchangeable
  trans_de: gering, leicht
  trans_en: small, light
+-lexeme
+ lex: hayo
+ stem: hayo.
+ root: hy
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: jene (sg.)
+ trans_en: that (f.)
 -lexeme
  lex: hazxoyo
  stem: hazxoyo.|hazxoye.|hazxoy.
@@ -16591,6 +16687,22 @@
  trans_de: irgendwelche, einige Leute
  trans_en: some people
 -lexeme
+ lex: hənne
+ stem: hənne.
+ root: hn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: sie
+ trans_en: they
+-lexeme
+ lex: hənnək
+ stem: hənnək.
+ root: hnk
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: sie
+ trans_en: they
+-lexeme
  lex: hərč
  stem: hərč.|hərčat.|hərč.
  root: hrč
@@ -16678,6 +16790,22 @@
  paradigm: unchangeable
  trans_de: o weh!
  trans_en: o woe!
+-lexeme
+ lex: hiya
+ stem: hiya.
+ root: hy
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: sie
+ trans_en: she
+-lexeme
+ lex: hiye
+ stem: hiye.
+ root: hy
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: er
+ trans_en: he
 -lexeme
  lex: hn
  stem: hn.
@@ -16911,6 +17039,14 @@
  trans_de: Krippe
  trans_en: crib
 -lexeme
+ lex: huwe
+ stem: huwe.
+ root: hw
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: er
+ trans_en: he
+-lexeme
  lex: ḥa/ḥə
  stem: ḥa.//ḥə.
  root: ḥ
@@ -16922,7 +17058,7 @@
  lex: ḥa
  stem: ḥa.
  root: ḥ
- gramm: PRN
+ gramm: NUM
  paradigm: unchangeable
  trans_de: einer
  trans_en: one
@@ -17494,6 +17630,22 @@
  paradigm: N2
  trans_de: Wein
  trans_en: wine
+-lexeme
+ lex: ḥamməš
+ stem: ḥamməš.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünf
+ trans_en: five
+-lexeme
+ lex: ḥamšo
+ stem: ḥamšo.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünf
+ trans_en: five
 -lexeme
  lex: ḥamuṣo
  stem: ḥamuṣo.|ḥaməṣto.|ḥamuṣe.
@@ -18290,7 +18442,7 @@
  lex: ḥḏo
  stem: ḥḏo.
  root: ḥḏ
- gramm: PRN
+ gramm: NUM
  paradigm: unchangeable
  trans_de: eine
  trans_en: one (f.)
@@ -19862,6 +20014,14 @@
  trans_de: voriges Jahr
  trans_en: last year
 -lexeme
+ lex: əšto
+ stem: əšto.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechs
+ trans_en: six
+-lexeme
  lex: əšwəṭ
  stem: əšwəṭ.
  root: šwṭ
@@ -20064,10 +20224,10 @@
  trans_en: drifting upon water
 -lexeme
  lex: kal
- stem: kal.
+ stem: kal.|kl.|kəl.|kəll.|kel.|kan.|kən.
  root: kl
  gramm: PRTCL
- paradigm: unchangeable
+ paradigm: PRTCL_1
  trans_de: deiktische Verstärkungspartikel
  trans_en: deictic particle
 -lexeme
@@ -21495,6 +21655,70 @@
  trans_de: Seitentasche, Sack
  trans_en: pocket; bag
 -lexeme
+ lex: kit/kito
+ stem: kit.//kito.
+ root: kt
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: existential particle: there is
+-lexeme
+ lex: kətle
+ stem: kət.
+ root: kt
+ gramm: PRTCL
+ paradigm: POSS_PRTCL_PRES
+ trans_de: <?>
+ trans_en: X (l-) has
+-lexeme
+ lex: kətyo
+ stem: kət.|kən.
+ root: kt
+ gramm: PRTCL
+ paradigm: COP_PRES
+ trans_de: <?>
+ trans_en: copula
+-lexeme
+ lex: kətwa
+ stem: kət.
+ root: kt
+ gramm: PRTCL
+ paradigm: COP_PAST
+ trans_de: <?>
+ trans_en: past-time copula
+-lexeme
+ lex: kətwayle
+ stem: kət.
+ root: kt
+ gramm: PRTCL
+ paradigm: POSS_PRTCL_PAST
+ trans_de: <?>
+ trans_en: X (l-) had
+-lexeme
+ lex: kətwobe/kətwaybe
+ stem: kətwob.|kətwayb.|kətwap.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_1
+ trans_de: <?>
+ trans_en: X was able; X was contained in
+-lexeme
+ lex: kəpwayle
+ stem: kəpwa.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_2
+ trans_de: <?>
+ trans_en: X was able; X was contained
+-lexeme
+ lex: kibe
+ stem: kib.|kəp.
+ root: kb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC
+ trans_de: <?>
+ trans_en: to be able; to be contained in
+-lexeme
  lex: kiyo
  stem: kiyo.
  root: ky
@@ -22887,6 +23111,46 @@
  trans_de: Körper, Leiche
  trans_en: body, corpse
 -lexeme
+ lex: latle
+ stem: lat.
+ root: lt
+ gramm: PRTCL
+ paradigm: POSS_PRTCL_PRES
+ trans_de: <?>
+ trans_en: X (l-) does not have
+-lexeme
+ lex: latwayle
+ stem: lat.
+ root: lt
+ gramm: PRTCL
+ paradigm: POSS_PRTCL_PAST
+ trans_de: <?>
+ trans_en: X (l-) did not have
+-lexeme
+ lex: latwobe/latwaybe
+ stem: latwob.//latwayb.//latwap.
+ root: lt
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_1
+ trans_de: <?>
+ trans_en: X was not able; X was not contained in
+-lexeme
+ lex: lapwayle
+ stem: lapwa.
+ root: lt
+ gramm: PRTCL
+ paradigm: PRTCL_LOC_PAST_2
+ trans_de: <?>
+ trans_en: X was not able; X was not contained in
+-lexeme
+ lex: latyo
+ stem: lat.|lan.
+ root: lt
+ gramm: PRTCL
+ paradigm: COP_PRES
+ trans_de: <?>
+ trans_en: negative copula
+-lexeme
  lex: latme
  stem: latme.|latmat.|latm.
  root: ltm
@@ -22894,6 +23158,14 @@
  paradigm: N2
  trans_de: Haufen
  trans_en: heap
+-lexeme
+ lex: latwa
+ stem: lat.
+ root: lt
+ gramm: PRTCL
+ paradigm: COP_PAST
+ trans_de: <?>
+ trans_en: negative past-time copula
 -lexeme
  lex: laṭif
  stem: laṭif.
@@ -23055,6 +23327,14 @@
  trans_de: nach hinten
  trans_en: backwards
 -lexeme
+ lex: laybe
+ stem: layb.|lap.
+ root: lyb
+ gramm: PRTCL
+ paradigm: PRTCL_LOC
+ trans_de: <?>
+ trans_en: to not be able; to not be contained in
+-lexeme
  lex: layḥa
  stem: layḥa.|layḥat.|layḥ.
  root: lyḥ
@@ -23094,6 +23374,14 @@
  paradigm: N2
  trans_de: nicht durchgebacken, teigig
  trans_en: not baked enough, doughy
+-lexeme
+ lex: layt/layto
+ stem: layt.//layto.
+ root: lyt
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: negative existential particle: there is no
 -lexeme
  lex: lazziye
  stem: lazziye.|lazziyat.|lazziy.
@@ -30286,6 +30574,14 @@
  paradigm: N2
  trans_de: kleiner Stamm
  trans_en: small trunk
+-lexeme
+ lex: ono/uno/əno
+ stem: ono.//uno.//əno.
+ root: ʔn
+ gramm: PRN
+ paradigm: unchangeable
+ trans_de: ich
+ trans_en: I
 -lexeme
  lex: onbašə
  stem: onbašə.
@@ -40430,14 +40726,6 @@
  trans_de: Schlaf
  trans_en: sleep
 -lexeme
- lex: šan
- stem: šan.
- root: šn
- gramm: PREP
- paradigm: unchangeable
- trans_de: für, auch zur Bildung des Dativs
- trans_en: for, also for formation of the dative case
--lexeme
  lex: šane
  stem: šane.|šanat.|šan.
  root: šn
@@ -40950,6 +41238,14 @@
  trans_de: Persönlichkeit
  trans_en: personality
 -lexeme
+ lex: šawʕo
+ stem: šawʕo.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sieben
+ trans_en: seven
+-lexeme
  lex: šayiʕa
  stem: šayiʕa.|UNKNOWN.|šayiʕ.
  root: šyʕ
@@ -41069,6 +41365,14 @@
  paradigm: N2
  trans_de: Löwentöter
  trans_en: lion killer
+-lexeme
+ lex: šeṯ
+ stem: šeṯ.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechs
+ trans_en: six
 -lexeme
  lex: šewər
  stem: šewər.|UNKNOWN.|šewər.
@@ -42181,6 +42485,14 @@
  paradigm: N2
  trans_de: Querschnitt w-förmiges Gestell zum Verladen von Getreidegarben auf Esel
  trans_en: cross-section with W-shaped legs for loading sheafs of grain on donkeys
+-lexeme
+ lex: šwaʕ
+ stem: šwaʕ.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sieben
+ trans_en: seven
 -lexeme
  lex: šwarəf/šwerəf
  stem: šwarəf.//šwerəf.
@@ -43829,6 +44141,14 @@
  trans_de: neun 
  trans_en: nine
 -lexeme
+ lex: čaʕ
+ stem: čaʕ.
+ root: tšʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: neun
+ trans_en: nine
+-lexeme
  lex: təšbəḥto/təšbuḥto/təžbəḥto
  stem: təšbəḥto.//təšbuḥto.//təžbəḥto.
  root: šbḥ
@@ -44142,9 +44462,25 @@
  trans_de: drei
  trans_en: three
 -lexeme
+ lex: tloṯo
+ stem: tloṯo.
+ root: tlṯ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: drei
+ trans_en: three
+-lexeme
  lex: tmanyo/tmənyo
  stem: tmanyo.//tmənyo.
- root: tmny
+ root: tmn
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: acht
+ trans_en: eight
+-lexeme
+ lex: tmone
+ stem: tmone.
+ root: tmn
  gramm: NUM
  paradigm: unchangeable
  trans_de: acht
@@ -47100,14 +47436,6 @@
  paradigm: N2
  trans_de: Pflanze, deren Wurzel man isst
  trans_en: edible roots plants
--lexeme
- lex: xəd/xd/xud
- stem: xəd.//xd.//xud.//xoṯ.
- root: xd
- gramm: PREP
- paradigm: unchangeable
- trans_de: wie
- trans_en: how
 -lexeme
  lex: xədma/xəzma
  stem: xədma.//xəzma.|xədmat.//xəzmat.
