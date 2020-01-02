@@ -2598,10 +2598,10 @@
  trans_en: to scream; to call
 -lexeme
  lex: hule/obe
- stem: .h.w.|.h.|..b.
+ stem: ..b.|.h.|.h.w.
  root: hwy
  gramm: V
- paradigm: V_I_2w
+ paradigm: to_give
  trans_de: 1) geben; 2) sich aufmachen (mit foṯo); 3) j-m Furcht einjagen (mit zuḥṯo); 4) begrüssen (mit šlomo); 5) ausmachen, entscheiden (mit qărār); 6) verheiraten
  trans_en: to give
 -lexeme
@@ -11566,7 +11566,7 @@
  stem: ..m.r.
  root: ʔmr
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmǝr) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomǝr zu korrigieren]
  trans_en: to say; to name smb. or smth.; to emit a sound
 -lexeme
@@ -11630,7 +11630,7 @@
  stem: ..ṯ.y.
  root: ʔṯy
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3y
  trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lǝ-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, mǝqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mǝn-; k-oṯe mǝn- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥǝmto); 16) entgegengehen (l-qamuṯo)
  trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow;
 -lexeme
@@ -11683,10 +11683,10 @@
  trans_en: to come late
 -lexeme
  lex: azze/əzze
- stem: ..z.l.
+ stem: .azz.|.əzz.|z.
  root: ʔzl
  gramm: V
- paradigm: V_I
+ paradigm: to_go
  trans_de: 1) gehen, dahingehen, zu spät sein; 2) als Hilfsverb (oft mit «nicht etwa» zu übersetzen); 3) ingressiv; 4) sterben; 5) (lebo) wünschen; 6) vergehen; 7) hinsein, verloren; 8) weggehen, fortgehen
  trans_en: to go; to get lost
 -lexeme
