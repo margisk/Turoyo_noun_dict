@@ -1,0 +1,159 @@
+-paradigm: PRTCL_1
+ -flex: <0>.i//<0>.ino//<1>.i//<2>.i//<3>.i//<4>.i
+  gramm: 1,sg
+ -flex: <0>.ux//<0>.ox//<1>.ux//<1>.ox//<2>.ux//<2>.ox//<3>.ux//<3>.ox//<4>.ux//<4>.ox
+  gramm: 2,sg,m
+ -flex: <0>.ax//<0>.əx//<1>.ax//<1>.əx//<2>.ax//<2>.əx//<3>.ax//<3>.əx//<4>.ax//<4>.əx
+  gramm: 2,sg,f
+ -flex: <0>.e//<0>.eyo//<1>.e//<2>.e//<3>.e//<4>.e
+  gramm: 3,sg,m
+ -flex: <0>.a//<0>.ayo//<1>.a//<2>.a//<3>.a//<4>.a
+  gramm: 3,sg,f
+ -flex: <0>.an//<1>.an//<2>.an//<3>.an//<4>.an
+  gramm: 1,pl
+ -flex: <0>.oxu//<0>.xu//<1>.oxu//<1>.axu//<2>.oxu//<2>.axu//<3>.oxu//<3>.axu//<4>.oxu//<4>.axu
+  gramm: 2,pl
+ -flex: <0>.ənne//<0>.ən//<0>.en//<1>.ən//<1>.en//<2>.ən//<2>.en//<3>.ən//<3>.en//<4>.ən//<4>.en//<5>.//<5>.ne//<6>.ne
+  gramm: 3,pl
+
+-paradigm: COP_PRES
+ -flex: <0>.no//<1>.no
+  gramm: 1,sg
+ -flex: <0>.hat//<0>.tat
+  gramm: 2,sg,m
+ -flex: <0>.yo
+  gramm: 3,sg,m
+ -flex: <0>.yo
+  gramm: 3,sg,f
+ -flex: <0>.na//<1>.na
+  gramm: 1,pl
+ -flex: <0>.hatu//<0>.tatu
+  gramm: 2,pl
+ -flex: <0>.ne//<1>.ne
+  gramm: 3,pl
+
+-paradigm: COP_PAST
+ -flex: .wayno//.nowo//.wi
+  gramm: 1,sg
+ -flex: .wayt//.wox
+  gramm: 2,sg,m
+ -flex: .wayt//.wəx
+  gramm: 2,sg,f
+ -flex: .wa//.we//.wo
+  gramm: 3,sg,m
+ -flex: .wa
+  gramm: 3,sg,f
+ -flex: .wayna//.wan
+  gramm: 1,pl
+ -flex: .waytu//.wayxu//.woxu
+  gramm: 2,pl
+ -flex: .wayne//.wayye
+  gramm: 3,pl
+
+-paradigm: POSS_PRTCL_PRES
+ -flex: .li
+  gramm: 1,sg
+ -flex: .lux//.lox
+  gramm: 2,sg,m
+ -flex: .lax//.ləx
+  gramm: 2,sg,f
+ -flex: .le
+  gramm: 3,sg,m
+ -flex: .la
+  gramm: 3,sg,f
+ -flex: .lan
+  gramm: 1,pl
+ -flex: .xu
+  gramm: 2,pl
+ -flex: .te
+  gramm: 3,pl
+
+-paradigm: POSS_PRTCL_PAST
+ -flex: .wayli//.woli
+  gramm: 1,sg
+ -flex: .waylux//.wolox
+  gramm: 2,sg,m
+ -flex: .waylax//.woləx
+  gramm: 2,sg,f
+ -flex: .wayle//.wole
+  gramm: 3,sg,m
+ -flex: .wayla//.wola
+  gramm: 3,sg,f
+ -flex: .waylan//.wolan
+  gramm: 1,pl
+ -flex: .walxu//.wulxu//.wolxu
+  gramm: 2,pl
+ -flex: .walle//.wulle//.wolle
+  gramm: 3,pl
+
+-paradigm: PRTCL_LOC
+ -flex: <0>.i
+  gramm: 1,sg
+ -flex: <0>.ux//<0>.ox
+  gramm: 2,sg,m
+ -flex: <0>.ax//<0>.əx
+  gramm: 2,sg,f
+ -flex: <0>.e
+  gramm: 3,sg,m
+ -flex: <0>.a
+  gramm: 3,sg,f
+ -flex: <0>.an
+  gramm: 1,pl
+ -flex: <1>.xu
+  gramm: 2,pl
+ -flex: <1>.pe
+  gramm: 3,pl
+
+-paradigm: PRTCL_LOC_PAST_1
+ -flex: <0>.i//<1>.i
+  gramm: 1,sg
+ -flex: <0>.ox//<1>.ux
+  gramm: 2,sg,m
+ -flex: <0>.əx//<1>.ax
+  gramm: 2,sg,f
+ -flex: <0>.e//<1>.e
+  gramm: 3,sg,m
+ -flex: <0>.a//<1>.a
+  gramm: 3,sg,f
+ -flex: <0>.an//<1>.an
+  gramm: 1,pl
+ -flex: <0>.xu//<2>.xu
+  gramm: 2,pl
+ -flex: <0>.ən//<2>.pe
+  gramm: 3,pl
+
+-paradigm: PRTCL_LOC_PAST_2
+ -flex: .yli
+  gramm: 1,sg
+ -flex: .ylux
+  gramm: 2,sg,m
+ -flex: .ylax
+  gramm: 2,sg,f
+ -flex: .yle
+  gramm: 3,sg,m
+ -flex: .yla
+  gramm: 3,sg,f
+ -flex: .ylan
+  gramm: 1,pl
+ -flex: .lxu
+  gramm: 2,pl
+ -flex: .lle
+  gramm: 3,pl
+
+-paradigm: PRTCL_POS
+ -flex: <0>.i
+  gramm: 1,sg
+ -flex: <0>.ox//<0>.ux
+  gramm: 2,sg,m
+ -flex: <0>.əx//<0>.ax
+  gramm: 2,sg,f
+ -flex: <0>.e
+  gramm: 3,sg,m
+ -flex: <0>.a
+  gramm: 3,sg,f
+ -flex: <0>.an
+  gramm: 1,pl
+ -flex: <1>.xu
+  gramm: 2,pl
+ -flex: <1>.ṯe
+  gramm: 3,pl
