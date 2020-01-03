@@ -28,9 +28,14 @@ def collect_lemmata():
 
 def collect_paradigms():
     fIn = open('../paradigms.txt', 'r', encoding='utf-8-sig')
-    text = fIn.read()
-    fIn.close()
-    return text
+    paradigms = ''
+    for fname in os.listdir('../paradigms/'):
+        if fname.endswith('.txt') and fname.startswith('paradigms'):
+            f = open(os.path.join('../paradigms/', fname), 'r',
+            encoding='utf-8-sig')
+            paradigms += f.read() + '\n'
+            f.close()
+    return paradigms
 
 
 def main():
