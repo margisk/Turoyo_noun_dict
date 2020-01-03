@@ -1,0 +1,174 @@
+-paradigm: to_go
+
+# Bare form
+ -flex: <1>.i//<1>.ino
+  gramm: prs,1,sg
+ -flex: <1>.ux//<1>.ox
+  gramm: prs,2,sg,m
+ -flex: <1>.ax//<1>.əx
+  gramm: prs,2,sg,f
+ -flex: <1>.e//<1>.eyo
+  gramm: prs,3,sg,m
+ -flex: <1>.a//<1>.ayo
+  gramm: prs,3,sg,f
+ -flex: <1>.an//<1>.ano
+  gramm: prs,1,pl
+ -flex: <1>.oxu
+  gramm: prs,2,pl
+ -flex: <1>.ən//<1>.ehən//<1>.ehənyo
+  gramm: prs,3,pl
+
+# Past
+ -flex: <0>.i//<0>.ino
+  gramm: pst,1,sg
+ -flex: <0>.ux//<0>.ox
+  gramm: pst,2,sg,m
+ -flex: <0>.ax//<0>.əx
+  gramm: pst,2,sg,f
+ -flex: <0>.e//<0>.eyo
+  gramm: pst,3,sg,m
+ -flex: <0>.a//<0>.ayo
+  gramm: pst,3,sg,f
+ -flex: <0>.an//<0>.ano
+  gramm: pst,1,pl
+ -flex: <0>.oxu
+  gramm: pst,2,pl
+ -flex: <0>.ən//<0>.ehən//<0>.ehənyo
+  gramm: pst,3,pl
+
+# Present + ko
+ -flex: <1>k.i//<1>k.ino
+  gramm: prs,1,sg
+ -flex: <1>k.ux//<1>k.ox
+  gramm: prs,2,sg,m
+ -flex: <1>k.ax//<1>k.əx
+  gramm: prs,2,sg,f
+ -flex: <1>k.e//<1>k.eyo
+  gramm: prs,3,sg,m
+ -flex: <1>k.a//<1>k.ayo
+  gramm: prs,3,sg,f
+ -flex: <1>k.an//<1>k.ano
+  gramm: prs,1,pl
+ -flex: <1>k.oxu
+  gramm: prs,2,pl
+ -flex: <1>k.ən//<1>k.ehən//<1>k.ehənyo
+  gramm: prs,3,pl
+
+# Future
+
+ -flex: <1>g.i//<1>g.ino//<1>gd.i//<1>gd.ino//
+  gramm: prs,1,sg
+ -flex: <1>g.ux//<1>.ox//<1>g.ux//<1>.ox
+  gramm: prs,2,sg,m
+ -flex: <1>g.ax//<1>.əx//<1>g.ux//<1>.ox
+  gramm: prs,2,sg,f
+ -flex: <1>g.e//<1>g.eyo//<1>gd.e//<1>gd.eyo
+  gramm: prs,3,sg,m
+ -flex: <1>g.a//<1>g.ayo//<1>gd.a//<1>gd.ayo
+  gramm: prs,3,sg,f
+ -flex: <1>g.an//<1>g.ano//<1>gd.an//<1>gd.ano
+  gramm: prs,1,pl
+ -flex: <1>g.oxu//<1>g.oxu
+  gramm: prs,2,pl
+ -flex: <1>g.ən//<1>g.ehən//<1>g.ehənyo//<1>gd.ən//<1>gd.ehən//<1>gd.ehənyo
+  gramm: prs,3,pl
+
+# Imperfect
+ -flex: <1>.iwayno//<1>.inowo
+  gramm: ipf,1,sg
+ -flex: <1>.uxwa//<1>.oxwo
+  gramm: ipf,2,sg,m
+ -flex: <1>.axwa//<1>.əxwo
+  gramm: ipf,2,sg,f
+ -flex: <1>.ewa//<1>.ewo
+  gramm: ipf,3,sg,m
+ -flex: <1>.awa//<1>.awo
+  gramm: ipf,3,sg,f
+ -flex: <1>.iwayna//<1>.awayna//<1>.anwo
+  gramm: ipf,1,pl
+ -flex: <1>.oxuwa//<1>.oxuwo
+  gramm: ipf,2,pl
+ -flex: <1>.ənwa//<1>.ehənwa//<1>.ənwo//<1>.ehənwo
+  gramm: ipf,3,pl
+
+# Pluperfect
+ -flex: <0>.iwayno//<0>.inowo
+  gramm: plpf,1,sg
+ -flex: <0>.uxwa//<0>.oxwo
+  gramm: plpf,2,sg,m
+ -flex: <0>.axwa//<0>.əxwo
+  gramm: plpf,2,sg,f
+ -flex: <0>.ewa//<0>.ewo
+  gramm: plpf,3,sg,m
+ -flex: <0>.awa//<0>.awo
+  gramm: plfp,3,sg,f
+ -flex: <0>.iwayna//<0>.awayna//<0>.anowo//<0>.anwo
+  gramm: plpf,1,pl
+ -flex: <0>.oxuwa//<0>.oxuwo
+  gramm: plpf,2,pl
+ -flex: <0>.ənwa//<0>.ehənwa//<0>.ənwo//<0>.ehənwo
+  gramm: plpf,3,pl
+
+# Perfect
+ -flex: <0>k.i//<0>k.ino
+  gramm: pst,1,sg
+ -flex: <0>k.ux//<0>k.ox
+  gramm: pst,2,sg,m
+ -flex: <0>k.ax//<0>k.əx
+  gramm: pst,2,sg,f
+ -flex: <0>k.e//<0>k.eyo
+  gramm: pst,3,sg,m
+ -flex: <0>k.a//<0>k.ayo
+  gramm: pst,3,sg,f
+ -flex: <0>k.an//<0>k.ano
+  gramm: pst,1,pl
+ -flex: <0>k.oxu
+  gramm: pst,2,pl
+ -flex: <0>k.ən//<0>k.ehən//<0>k.ehənyo
+  gramm: pst,3,pl
+
+# Imperative
+ -flex: <2>.ux//<2>.ox
+  gramm: imv,sg,m
+ -flex: <2>.ax//<2>.əx
+  gramm: imv,sg,f
+ -flex: <2>.oxu
+  gramm: imv,pl
+
+-paradigm: to_give
+
+# Bare
+ -flex: <0>.o.eno//<0>.ə.eno
+  gramm: prs,1,sg
+ -flex: <0>.o.at//<0>.o.ət
+  gramm: prs,2,sg,m
+ -flex: <0>.o.at//<0>.o.ət
+  gramm: prs,2,sg,f
+ -flex: <0>.o.e
+  gramm: prs,3,sg,m
+ -flex: <0>.o.o
+  gramm: prs,3,sg,f
+ -flex: <0>.o.ina//<0>.o.ena
+  gramm: prs,1,pl
+ -flex: <0>.o.utu//<0>.o.itu//<0>.o.etu
+  gramm: prs,2,pl
+ -flex: <0>.o.ən//<0>.o.i
+  gramm: prs,3,pl
+
+  # Ko + Present
+ -flex: <0>ko.eno//<0>kə.eno
+  gramm: prs,1,sg
+ -flex: <0>ko.at//<0>ko.ət
+  gramm: prs,2,sg,m
+ -flex: <0>ko.at//<0>ko.ət
+  gramm: prs,2,sg,f
+ -flex: <0>ko.e
+  gramm: prs,3,sg,m
+ -flex: <0>ko.o
+  gramm: prs,3,sg,f
+ -flex: <0>ko.ina//<0>ko.ena
+  gramm: prs,1,pl
+ -flex: <0>ko.utu//<0>ko.itu//<0>ko.etu
+  gramm: prs,2,pl
+ -flex: <0>ko.ən//<0>ko.i
+  gramm: prs,3,pl
