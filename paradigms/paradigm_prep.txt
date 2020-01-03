@@ -1,0 +1,35 @@
+-paradigm: PREP_1
+ -flex: <0>e.i//<2>.əno//<2>.uno//<2>.i
+  gramm: 1,sg
+ -flex: <0>e.ux//<0>e.ox//<2>.uxat//<2>.oxat//<2>.ux//<2>.ox
+  gramm: 2,sg,m
+ -flex: <0>e.ax//<0>e.əx//<2>.əxat//<2>.ex//<2>.əx
+  gramm: 2,sg,f
+ -flex: <0>e.e//<2>.uwe
+  gramm: 3,sg,m
+ -flex: <0>e.a//<2>.iya//<2>.a
+  gramm: 3,sg,f
+ -flex: <0>e.an//<0>e.ayna//<2>.an
+  gramm: 1,pl
+ -flex: <0>a.xu//<2>.uxatu//<2>.əxatu//<2>.axu//<2>.xu
+  gramm: 2,pl
+ -flex: <0>e.ayye//<1>a.e//<2>.ənne//<2>.ən
+  gramm: 3,pl
+
+-paradigm: PREP_3
+ -flex: <0>.i
+  gramm: 1,sg
+ -flex: <0>.ux//<0>.ox
+  gramm: 2,sg,m
+ -flex: <0>.ax//<0>.əx
+  gramm: 2,sg,f
+ -flex: <0>.e
+  gramm: 3,sg,m
+ -flex: <0>.a
+  gramm: 3,sg,f
+ -flex: <0>.an//<0>.ayna
+  gramm: 1,pl
+ -flex: <0>.ayxu
+  gramm: 2,pl
+ -flex: <0>.ayye
+  gramm: 3,pl
