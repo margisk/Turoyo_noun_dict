@@ -1,0 +1,82 @@
+-lexeme
+ lex: l
+ stem: .l.|.ll.|l.
+ root: l
+ gramm: prep
+ paradigm: PREP_1
+ trans_de: <?>
+ trans_en: to; towards; for
+-lexeme
+ lex: b
+ stem: .b.|.bb.|b.
+ root: b
+ gramm: prep
+ paradigm: PREP_1
+ trans_de: <?>
+ trans_en: in; with the help of
+-lexeme
+ lex: me/mə/m
+ stem: mə.|me.|m.|min.|mən.|men.
+ root: m
+ gramm: prep
+ paradigm: PREP_2
+ trans_de: <?>
+ trans_en: from
+-lexeme
+ lex: se/sə/s
+ stem: sə.|se.|s.|sid.|sət.
+ root: s
+ gramm: prep
+ paradigm: PREP_2
+ trans_de: <?>
+ trans_en: at; by; towards
+-lexeme
+ lex: ʕal
+ stem: aʕl.|ʕal.
+ root: ʕl
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: on; upon
+-lexeme
+ lex: ʕam
+ stem: aʕm.|ʕam.
+ root: ʕm
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: with
+-lexeme
+ lex: gab
+ stem: gab.
+ root: gb
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: at; by; towards
+-lexeme
+ lex: lašan
+ stem: lašan.//laǧan.//lažan.//lašən.//šan.//lšan.
+ root: lšn
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: for
+-lexeme
+ lex: bəṯṯər
+ stem: bəṯr.
+ root: ʔṯr
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: after
+-lexeme
+ lex: qum
+ stem: qum.|qm.|qəm.
+ root: qdm
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: before; in front of
+
+
