@@ -139,7 +139,9 @@
 
 # Bare
  -flex: <0>.o.eno//<0>.ə.eno
-  gramm: prs,1,sg
+  gramm: prs,1,sg,m
+ -flex: <0>.o.ono//<0>.ə.ono
+  gramm: prs,1,sg,f
  -flex: <0>.o.at//<0>.o.ət
   gramm: prs,2,sg,m
  -flex: <0>.o.at//<0>.o.ət
@@ -150,25 +152,189 @@
   gramm: prs,3,sg,f
  -flex: <0>.o.ina//<0>.o.ena
   gramm: prs,1,pl
- -flex: <0>.o.utu//<0>.o.itu//<0>.o.etu
+ -flex: <0>.o.utu//<0>.o.itu//<0>.o.etu//<0>.ə.itu//<0>.ə.etu
   gramm: prs,2,pl
  -flex: <0>.o.ən//<0>.o.i
   gramm: prs,3,pl
 
+# Bare with obj./dat. suffixes
+  
+  # 1st person sgm + suffixes
+
+ -flex: <0>.o.enoli//<0>.ə.enoli//<0>.o.eni//<0>.ə.eni//<0>.u.enoli//<0>.u.eni
+  gramm: prs,1,sg,m,1sg.o
+ -flex: <0>.o.enolux//<0>.ə.enolux//<0>.o.enolox//<0>.ə.enolox//<0>.o.enux//<0>.ə.enux//<0>.o.enox//<0>.ə.enox//<0>.u.enolox//<0>.u.enox
+  gramm: prs,1,sg,m,2sg.m.o
+ -flex: <0>.o.enolax//<0>.ə.enolax//<0>.o.enoləx//<0>.ə.enoləx//<0>.o.enax//<0>.ə.enax//<0>.o.enəx//<0>.ə.enəx//<0>.u.enoləx//<0>.u.enəx
+  gramm: prs,1,sg,m,2sg.f.o
+ -flex: <0>.o.enole//<0>.ə.enole//<0>.o.ene//<0>.ə.ene//<0>.u.enole//<0>.u.ene
+  gramm: prs,1,sg,m,3sg.m.o
+ -flex: <0>.o.enola//<0>.ə.enola//<0>.o.ena//<0>.ə.ena//<0>.u.enola//<0>.u.ena
+  gramm: prs,1,sg,m,3sg.f.o
+ -flex: <0>.o.enolan//<0>.ə.enolan//<0>.o.enan//<0>.ə.enan//<0>.u.enolan//<0>.u.enan
+  gramm: prs,1,sg,m,1pl.o
+ -flex: <0>.o.enalxu//<0>.ə.enalxu//<0>.o.anxu//<0>.ə.anxu//<0>.o.enanxu//<0>.ə.enanxu//<0>.u.enulxu
+  gramm: prs,1,sg,m,2pl.o
+ -flex: <0>.o.enalle//<0>.ə.enalle//<0>.o.enanne//<0>.ə.enanne//<0>.u.enulle//<0>.u.enolən
+
+  # 1st person sgf + suffixes
+
+ -flex: <0>.o.onoli//<0>.o.alli//<0>.ə.onoli//<0>.ə.alli//<0>.u.onoli//<0>.u.alli
+  gramm: prs,1,sg,f,1sg.o
+ -flex: <0>.o.onolux//<0>.o.allux//<0>.ə.onolox//<0>.ə.allox//<0>.u.onolox//<0>.u.allox
+  gramm: prs,1,sg,f,2sg.m.o
+ -flex: <0>.o.onolax//<0>.o.allax//<0>.ə.onoləx//<0>.ə.alləx//<0>.u.onoləx//<0>.u.alləx
+  gramm: prs,1,sg,f,2sg.f.o
+ -flex: <0>.o.onole//<0>.o.alle//<0>.ə.onole//<0>.ə.alle//<0>.u.onole//<0>.u.alle
+  gramm: prs,1,sg,f,3sg.m.o
+ -flex: <0>.o.onola//<0>.o.alla//<0>.ə.onola//<0>.ə.alla//<0>.u.onola//<0>.u.alla
+  gramm: prs,1,sg,f,3sg.f.o
+ -flex: <0>.o.onolan//<0>.ə.onolan//<0>.u.onolan
+  gramm: prs,1,sg,f,1pl.o
+ -flex: <0>.o.anxu//<0>.ə.anxu//<0>.u.anxu
+  gramm: prs,1,sg,f,2pl.o
+ -flex: <0>.o.anne//<0>.ə.anne//<0>.u.anne//<0>.ə.onolən//<0>.u.onolən//<0>.ə.allən//<0>.u.allən
+  gramm: prs,1,sg,f,3pl.o
+
+
+  # 2nd person sg + suffixes
+ -flex: <0>.o.atli//<0>.ə.atli//<0>.u.atli
+  gramm: prs,2,sg,1sg.o
+ -flex: <0>.o.atlux//<0>.ə.atlox//<0>.u.atlox
+  gramm: prs,2,sg,2sg.m.o
+ -flex: <0>.o.atlax//<0>.ə.atləx//<0>.u.atləx
+  gramm: prs,2,sg,2sg.f.o
+ -flex: <0>.o.atle//<0>.ə.atle//<0>.u.atle
+  gramm: prs,2,sg,3sg.m.o
+ -flex: <0>.o.atla//<0>.ə.atla//<0>.u.atla
+  gramm: prs,2,sg,3sg.f.o
+ -flex: <0>.o.atlan//<0>.ə.atlan//<0>.u.atlan
+  gramm: prs,2,sg,1pl.o
+ -flex: <0>.o.atte//<0>.ə.atte//<0>.u.atte
+  gramm: prs,2,sg,3pl.o
+
+  # 3rd person sgm + suffixes
+
+ -flex: <0>.o.eli//<0>.ə.eli//<0>.u.eli
+  gramm: prs,3,sg,m,1sg.o
+ -flex: <0>.o.elux//<0>.ə.elox//<0>.u.elox
+  gramm: prs,3,sg,m,2sg.m.o
+ -flex: <0>.o.elax//<0>.ə.eləx//<0>.u.eləx
+  gramm: prs,3,sg,m,2sg.f.o
+ -flex: <0>.o.ele//<0>.ə.ele//<0>.u.ele
+  gramm: prs,3,sg,m,3sg.m.o
+ -flex: <0>.o.ela//<0>.ə.ela//<0>.u.ela
+  gramm: prs,3,sg,m,3sg.f.o
+ -flex: <0>.o.elan//<0>.ə.elan//<0>.u.elan
+  gramm: prs,3,sg,m,1pl.o
+ -flex: <0>.o.alxu//<0>.ə.alxu//<0>.u.alxu//<0>.ə.elxu//<0>.u.elxu
+  gramm: prs,3,sg,m,2pl.o
+ -flex: <0>.o.alle//<0>.ə.alle//<0>.u.alle//<0>.ə.elən//<0>.u.elən
+
+  # 3rd person sgf + suffixes
+
+ -flex: <0>.o.oli//<0>.ə.oli//<0>.u.oli
+  gramm: prs,3,sg,f,1sg.o
+ -flex: <0>.o.olux//<0>.ə.olox//<0>.u.olox
+  gramm: prs,3,sg,f,2sg.m.o
+ -flex: <0>.o.olax//<0>.ə.oləx//<0>.u.oləx
+  gramm: prs,3,sg,f,2sg.f.o
+ -flex: <0>.o.ole//<0>.ə.ole//<0>.u.ole
+  gramm: prs,3,sg,f,3sg.m.o
+ -flex: <0>.o.ola//<0>.ə.ola//<0>.u.ola
+  gramm: prs,3,sg,f,3sg.f.o
+ -flex: <0>.o.olan//<0>.ə.olan//<0>.u.olan
+  gramm: prs,3sg,f,1pl.o
+ -flex: <0>.o.alxu//<0>.ə.alxu//<0>.u.alxu
+  gramm: prs,3sg,f,2pl.o
+ -flex: <0>.o.alle//<0>.ə.alle//<0>.u.alle//<0>.ə.olən//<0>.u.olən
+  gramm: prs,3sg,f,3pl.o
+  
+  # 1st person pl + suffixes
+ -flex: <0>.o.inali//<0>.ə.inali//<0>.u.inali
+  gramm: prs,1pl,1sg.o
+ -flex: <0>.o.inalux//<0>.ə.inalox//<0>.u.inalox
+  gramm: prs,1pl,2sg.m.o
+ -flex: <0>.o.inalax//<0>.ə.inaləx//<0>.u.inaləx
+  gramm: prs,1pl,2sg.f.o
+ -flex: <0>.o.inale//<0>.ə.inale//<0>.u.inale
+  gramm: prs,1pl,3sg.m.o
+ -flex: <0>.o.inala//<0>.ə.inala//<0>.u.inala
+  gramm: prs,1pl,3sg.fo
+ -flex: <0>.o.inalan//<0>.ə.inalan//<0>.u.inalan
+  gramm: prs,1pl,1pl.o
+ -flex: <0>.o.inalxu//<0>.ə.inalxu//<0>.u.inalxu
+  gramm: prs,1pl,2pl.o
+ -flex: <0>.o.inalle//<0>.o.inanne//<0>.ə.inalle//<0>.ə.inanne//<0>.u.inalle//<0>.u.inanne//<0>.u.inalən//<0>.ə.inalən
+  gramm: prs,1pl,3pl.o
+
+  # 2nd person pl + suffixes
+ -flex: <0>.o.utəlli//<0>.ə.itulli//<0>.u.itulli//<o>.o.utli
+  gramm: prs,2pl,1sg.o
+ -flex: <0>.o.utəllux//<0>.ə.itullox//<0>.u.itullox//<0>.o.utlux
+  gramm: prs,2pl,2sg.m.o
+ -flex: <0>.o.utəllax//<0>.ə.itulləx//<0>.u.itulləx//<0>.o.utlax
+  gramm: prs,2pl,2sg.f.o
+ -flex: <0>.o.utəlle//<0>.ə.itulle//<0>.u.itulle//<0>.ə.itəlle//<0>.u.itəlle//<0>.o.utle
+  gramm: prs,2pl,3sg.m.o
+ -flex: <0>.o.utəlla//<0>.ə.itulla//<0>.u.itulla//<0>.ə.itəlla//<0>.u.itəlla//<0>.o.utla
+  gramm: prs,2pl,3sg.f.o
+ -flex: <0>.o.utəllan//<0>.ə.itullan//<0>.u.itullan//<0>.o.utlan
+  gramm: prs,2pl,1pl.o
+ -flex: <0>.o.utənne//<0>.ə.itunne//<0>.u.itunne//<0>.o.utne
+  gramm: prs,2pl,3pl.o
+
+ # 3rd person pl + suffixes
+ -flex: <0>.o.ili//<0>.ə.ili//<0>.u.ili//<0>.o.əlli//<0>.ə.əlli//<0>.u.əlli
+  gramm: prs,3pl,1sg.o
+ -flex: <0>.o.ilux//<0>.ə.ilox//<0>.u.ilox//<0>.o.əllux//<0>.ə.əllox//<0>u.əllox
+  gramm: prs,3pl,2sg.m.o
+ -flex: <0>.o.ilax//<0>.ə.iləx//<0>.u.iləx//<0>.o.əllax//<0>.ə.əlləx//<0>.u.əlləx
+  gramm: prs,3pl,2sg.f.o
+ -flex: <0>.o.ile//<0>.ə.ile//<0>.u.ile//<0>.o.əlle//<0>.ə.əlle//<0>.u.əlle
+  gramm: prs,3pl,3sg.m.o
+ -flex: <0>.o.ila//<0>.ə.ila//<0>.u.ila//<0>.o.əlla//<0>.ə.əlla//<0>.u.əlla
+  gramm: prs,3pl,3sg.f.o
+ -flex: <0>.o.ilan//<0>.ə.ilan//<0>.u.ilan//<0>.o.əllan//<0>.ə.əllan//<0>.u.əllan
+  gramm: prs,3pl,1pl.o
+ -flex: <0>.o.ənxu//<0>.ə.ənxu//<0>.u.ənxu
+  gramm: prs,3pl,2pl.o
+ -flex: <0>.o.ənne//<0>.ə.ənne//<0>.u.ənne//<0>.u.ilən//<0>.ə.ilən
+  gramm: prs,3pl,3pl.o
+
   # Ko + Present
- -flex: <0>ko.eno//<0>kə.eno
+ -flex: <0>k.o.eno//<0>k.ə.eno
   gramm: prs,1,sg
- -flex: <0>ko.at//<0>ko.ət
+ -flex: <0>k.o.at//<0>k.o.ət
   gramm: prs,2,sg,m
- -flex: <0>ko.at//<0>ko.ət
+ -flex: <0>k.o.at//<0>k.o.ət
   gramm: prs,2,sg,f
- -flex: <0>ko.e
+ -flex: <0>k.o.e
   gramm: prs,3,sg,m
- -flex: <0>ko.o
+ -flex: <0>k.o.o
   gramm: prs,3,sg,f
- -flex: <0>ko.ina//<0>ko.ena
+ -flex: <0>k.o.ina//<0>k.o.ena
   gramm: prs,1,pl
- -flex: <0>ko.utu//<0>ko.itu//<0>ko.etu
+ -flex: <0>k.o.utu//<0>k.o.itu//<0>k.o.etu//<0>k.ə.itu//<0>.k.ə.etu
   gramm: prs,2,pl
- -flex: <0>ko.ən//<0>ko.i
+ -flex: <0>k.o.ən//<0>k.o.i
+  gramm: prs,3,pl 
+
+  # Ko + Present + obj./dat. suffixes
+ -flex: <0>k.o.eno//<0>k.ə.eno
+  gramm: prs,1,sg
+
+ -flex: <0>k.o.at//<0>k.o.ət
+  gramm: prs,2,sg,m
+ -flex: <0>k.o.at//<0>k.o.ət
+  gramm: prs,2,sg,f
+ -flex: <0>k.o.e
+  gramm: prs,3,sg,m
+ -flex: <0>k.o.o
+  gramm: prs,3,sg,f
+ -flex: <0>k.o.ina//<0>k.o.ena
+  gramm: prs,1,pl
+ -flex: <0>k.o.utu//<0>k.o.itu//<0>k.o.etu//<0>k.ə.itu//<0>.k.ə.etu
+  gramm: prs,2,pl
+ -flex: <0>k.o.ən//<0>k.o.i
   gramm: prs,3,pl
