@@ -2681,6 +2681,124 @@
  -flex: m.a..ilan
   gramm: pst,1,pl,3pl.o
   
+ # Preterite + obj./dat. suffixes
+ -flex: m.a.a.lelox//m.a.a.lelux
+  gramm: pst,3,sg,m,2sg.m.o
+ -flex: m.a.a.leləx//m.a.a.lelax
+  gramm: pst,3,sg,m,2sg.f.o
+ -flex: m.a.a.leli
+  gramm: pst,3,sg,m,1sg.o
+ -flex: m.a.a.lelxu//m.a.a.lalxu//m.a.a.lalxun//m.a.a.lelalxu
+  gramm: pst,3,sg,m,2pl.o
+ -flex: m.a.a.lelan
+  gramm: pst,3,sg,m,1pl.o  
+ -flex: m.a.a.loxli//m.a.a.luxli
+  gramm: pst,2,sg,m,1sg.o
+ -flex: m.a.a.loxlan//m.a.a.luxlan
+  gramm: pst,2,sg,m,1pl.o  
+ -flex: m.a.a.lalox//m.a.a.lalux
+  gramm: pst,3,sg,f,2sg.m.o
+ -flex: m.a.a.laləx//m.a.a.lalax
+  gramm: pst,3,sg,f,2sg.f.o
+ -flex: m.a.a.lali
+  gramm: pst,3,sg,f,1sg.o
+ -flex: m.a.a.lalxu//m.a.a.lalxun//m.a.a.lalalxu
+  gramm: pst,3,sg,f,2pl.o
+ -flex: m.a.a.lalan
+  gramm: pst,3,sg,f,1pl.o  
+ -flex: m.a.a.ləxli//m.a.a.laxli
+  gramm: pst,2,sg,f,1sg.o
+ -flex: m.a.a.ləxlan//m.a.a.laxlan
+  gramm: pst,2,sg,f,1pl.o  
+ -flex: m.a.a.lilox//m.a.a.lilux
+  gramm: pst,1,sg,2sg.m.o
+ -flex: m.a.a.liləx//m.a.a.lilax
+  gramm: pst,1,sg,2sg.f.o
+ -flex: m.a.a.lilxu//m.a.a.lilxun//m.a.a.lilalxu
+  gramm: pst,1,sg,2pl.o  
+ -flex: m.a.a..allox//m.a.a..allux
+  gramm: pst,3,pl,2sg.m.o
+ -flex: m.a.a..alləx//m.a.a..allax
+  gramm: pst,3,pl,2sg.f.o
+ -flex: m.a.a..alli
+  gramm: pst,3,pl,1sg.o
+ -flex: m.a.a..anxu//m.a.a..anxun
+  gramm: pst,3,pl,2pl.o
+ -flex: m.a.a..allan
+  gramm: pst,3,pl,1pl.o  
+ -flex: m.a.a.xulli
+  gramm: pst,2,pl,1sg.o
+ -flex: m.a.a.xullan
+  gramm: pst,2,pl,1pl.o  
+ -flex: m.a.a.lanlox//m.a.a..allox//m.a.a.lanlux
+  gramm: pst,1,pl,2sg.m.o
+ -flex: m.a.a.lanləx//m.a.a..alləx//m.a.a.lanlax
+  gramm: pst,1,pl,2sg.f.o
+ -flex: m.a.a.lanxu//m.a.a..anxu//m.a.a.lanxun//m.a.a.lanlalxu
+  gramm: pst,1,pl,2pl.o
+  
+ # Preterite + dat. suffixes
+ -flex: m.a.a.lele
+  gramm: pst,3,sg,m,3sg.m.d
+ -flex: m.a.a.lela
+  gramm: pst,3,sg,m,3sg.f.d
+ -flex: m.a.a.lelən//m.a.a.lalle//m.a.a.lelalle
+  gramm: pst,3,sg,m,3pl.d  
+ -flex: m.a.a.loxle//m.a.a.luxle
+  gramm: pst,2,sg,m,3sg.m.d
+ -flex: m.a.a.loxla//m.a.a.luxla
+  gramm: pst,2,sg,m,3sg.f.d
+ -flex: m.a.a.loxlox//m.a.a.luxlux
+  gramm: pst,2,sg,m,2sg.m.d
+ -flex: m.a.a.loxlən//m.a.a.luxxe//m.a.a.luxlalle
+  gramm: pst,2,sg,m,3pl.d  
+ -flex: m.a.a.lale
+  gramm: pst,3,sg,f,3sg.m.d
+ -flex: m.a.a.lala
+  gramm: pst,3,sg,f,3sg.f.d
+ -flex: m.a.a.lalən//m.a.a.lalle//m.a.a.lalalle
+  gramm: pst,3,sg,f,3pl.d  
+ -flex: m.a.a.ləxle//m.a.a.laxle
+  gramm: pst,2,sg,f,3sg.m.d
+ -flex: m.a.a.ləxla//m.a.a.laxla
+  gramm: pst,2,sg,f,3sg.f.d
+ -flex: m.a.a.ləxləx//m.a.a.laxlax
+  gramm: pst,2,sg,f,2sg.f.d
+ -flex: m.a.a.ləxlən//m.a.a.laxxe//m.a.a.laxlalle
+  gramm: pst,2,sg,f,3pl.d  
+ -flex: m.a.a.lile
+  gramm: pst,1,sg,3sg.m.d
+ -flex: m.a.a.lila
+  gramm: pst,1,sg,3sg.f.d
+ -flex: m.a.a.lili
+  gramm: pst,1,sg,1sg.d
+ -flex: m.a.a.lilən//m.a.a.ləlle//m.a.a.lilalle
+  gramm: pst,1,sg,3pl.d
+ -flex: m.a.a.lilan
+  gramm: pst,1,sg,1pl.d  
+ -flex: m.a.a..alle
+  gramm: pst,3,pl,3sg.m.d
+ -flex: m.a.a..alla
+  gramm: pst,3,pl,3sg.f.d
+ -flex: m.a.a..anne
+  gramm: pst,3,pl,3spl.d  
+ -flex: m.a.a.xulle
+  gramm: pst,2,pl,3sg.m.d
+ -flex: m.a.a.xulla
+  gramm: pst,2,pl,3sg.f.d
+ -flex: m.a.a.xulən//m.a.a.xunne
+  gramm: pst,2,pl,3pl.d
+ -flex: m.a.a.xunxu
+  gramm: pst,2,pl,2pl.d  
+ -flex: m.a.a.lanle//m.a.a..alle
+  gramm: pst,1,pl,3sg.m.d
+ -flex: m.a.a.lanla//m.a.a..alla
+  gramm: pst,1,pl,3sg.f.d
+ -flex: m.a.a.lanlən//m.a.a..anne//m.a.a.lanne//m.a.a.lanlalle
+  gramm: pst,1,pl,3pl.d
+ -flex: m.a.a..allan//m.a.a.lanlan
+  gramm: pst,1,pl,1pl.d
+  
   # Perfect
  -flex: kəm.a.a.le//kom.a.a.le
   gramm: pf,3,sg,m,3sg.m.o
@@ -2780,7 +2898,34 @@
   gramm: plpf,2,pl,3pl.o
  -flex: m.a..iwolan//m.a..iwaylan
   gramm: plpf,1,pl,3pl.o
-
+  
+ # Imperative
+ -flex: m.a.a.//m.a.ə.//.a.a.//.a.ə.
+  gramm: imv,sg
+ -flex: m.a.e.u//.a.e.u
+  gramm: imv, pl 
+  
+ # Imperative + obj./dat. suffixes
+ -flex: m.a.e.e//.a.e.e
+  gramm: imv,sg,3sg.m.o
+ -flex: m.a.e.a//.a.e.a
+  gramm: imv,sg,3sg.f.o
+ -flex: m.a.e.ən//.a.e.ən//m.a.e.ene//.a.e.ene
+  gramm: imv,sg,3pl.o
+ -flex: m.a.a.li//.a.a.li
+  gramm: imv,sg,1sg.o
+ -flex: m.a.a.lan//.a.a.lan
+  gramm: imv,sg,1pl.o
+ -flex: m.a.e.ulle//.a.e.ulle//m.a.e.le//.a.e.le
+  gramm: imv,pl,3sg.m.o
+ -flex: m.a.e.ulla//.a.e.ulla//m.a.e.la//.a.e.la
+  gramm: imv,pl,3sg.f.o
+ -flex: m.a.e.unne//.a.e.unne//m.a.e.ne//.a.e.ne
+  gramm: imv,pl,3pl.o
+ -flex: m.a.e.ulli//.a.e.ulli//m.a.e.li//.a.e.li
+  gramm: imv,pl,1sg.o
+ -flex: m.a.e.ullan//.a.e.ullan//m.a.e.lan//.a.e.lan
+  gramm: imv,pl,1pl.o
 
 
 -paradigm: V_III
