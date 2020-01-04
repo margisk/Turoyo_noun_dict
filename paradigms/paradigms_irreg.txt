@@ -323,7 +323,6 @@
   # Ko + Present + obj./dat. suffixes
  -flex: <0>k.o.eno//<0>k.ə.eno
   gramm: prs,1,sg
-
  -flex: <0>k.o.at//<0>k.o.ət
   gramm: prs,2,sg,m
  -flex: <0>k.o.at//<0>k.o.ət
@@ -338,3 +337,57 @@
   gramm: prs,2,pl
  -flex: <0>k.o.ən//<0>k.o.i
   gramm: prs,3,pl
+
+# Preterite, 3ms inner obj
+ -flex: <1>.li
+  gramm: pst,1,sg,3sg.m.o
+ -flex: <1>.lux//<1>.lox
+  gramm: pst,2,sg,m,3sg.m.o
+ -flex: <1>.lax//<1>.ləx
+  gramm: pst,2,sg,f,3sg.m.o
+ -flex: <1>.le
+  gramm: pst,3,sg,m,3sg.m.o
+ -flex: <1>.la
+  gramm: pst,3,sg,f,3sg.m.o
+ -flex: <1>.lan
+  gramm: pst,1,pl,3sg.m.o
+ -flex: <1>.xu
+  gramm: pst,2,pl,3sg.m.o
+ -flex: <1>.wwe//<1>.we
+  gramm: pst,2pl,3sg.m.o
+
+# Preterite, 3fs inner obj
+ -flex: <2>.i.oli//<2>.ə.oli//<2>.u.oli
+  gramm: pst,1,sg,3sg.f.o
+ -flex: <2>.i.olux//<2>.ə.olox//<2>.u.olox
+  gramm: pst,2,sg,m,3sg.f.o
+ -flex: <2>.i.olax//<2>.ə.oləx//<2>.u.oləx
+  gramm: pst,2,sg,f,3sg.f.o
+ -flex: <2>.i.ole//<2>.ə.ole//<2>.u.ole
+  gramm: pst,3,sg,m,3sg.f.o
+ -flex: <2>.i.ola//<2>.ə.ola//<2>.u.ola
+  gramm: pst,3,sg,f,3sg.f.o
+ -flex: <2>.i.olan//<2>.ə.olan//<2>.u.olan
+  gramm: pst,1,pl,3sg.f.o
+ -flex: <2>.i.alxu//<2>.ə̣.alxu//<2>.ə.ulxu//<2>.u.alxu//<2>.u.ulxu
+  gramm: pst,2,pl,3sg.f.o
+ -flex: <2>.i.alle//<2>.ə.ulle//<2>.u.ulle
+  gramm: pst,3,pl,3sg.f.o
+
+# Preterite, 3pl inner obj
+ -flex: <2>.i.ili//<2>.ə.ili//<2>.u.ili
+  gramm: pst,1,sg,3pl.o
+ -flex: <2>.i.lux//<2>.ə.ilox//<2>.u.ilox
+  gramm: pst,2,sg,m,3pl.o
+ -flex: <2>.i.ilax//<2>.ə.iləx//<2>.u.iləx
+  gramm: pst,2,sg,f,3pl.o
+ -flex: <2>.i.ile//<2>.ə.ile//<2>.u.ile
+  gramm: pst,3,sg,m,3pl.o
+ -flex: <2>.i.ila//<2>.ə.ila//<2>.u.ila
+  gramm: pst,3,sg,f,3pl.o
+ -flex: <2>.i.ilan//<2>.ə.ilan//<2>.u.ilan
+  gramm: pst,1,pl,3pl.o
+ -flex: <2>.i.ənxu//<2>.ə.ənxu//<2>.u.ənxu
+  gramm: pst,2,pl,3pl.o
+ -flex: <2>.i.ənne//<2>.ə.ənne//<2>.u.ənne
+  gramm: pst,3,pl,3pl.o
