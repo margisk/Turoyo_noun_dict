@@ -3054,6 +3054,14 @@
   gramm: pass,imv,sg
  -flex: mi.a.e.u
   gramm: pass,imv,pl
+  
+ # Passive participle
+ -flex: m.a..o
+  gramm: pass,pt,sg,m
+ -flex: m.a.a.to
+  gramm: pass,pt,sg,f
+ -flex: m.a..e
+  gramm: pass,pt,pl
 
 
 -paradigm: V_III
