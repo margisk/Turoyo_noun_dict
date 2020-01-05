@@ -2484,7 +2484,7 @@
   gramm: ipf,1,sg,m
  -flex: m.a..owa//kəm.a..owa//kom.a..owa//gəm.a..owa//gədm.a..owa
   gramm: ipf,3,sg,f
- -flex: m.a..atwo//kəm.a..atwo//gəm.a..atwo//gədm.a..atwo//m.a..atwa//kom.a..atwa//kəm.a..atwa//gədm.a..atwa
+ -flex: m.a..atwo//kəm.a..atwo//gəm.a..atwo//gədm.a..atwo//m.a..atwa//kom.a..atwa//gədm.a..atwa
   gramm: ipf,2,sg,f
  -flex: m.a..onowo//kəm.a..onowo//gəm.a..onowo//gədm.a..onowo//m.a..anwo//kəm.a..anwo//gəm.a..anwo//gədm.a..anwo//m.a..owayno//kom.a..owayno//gəm.a..owayno//gədm.a..owayno
   gramm: ipf,1,sg,f
@@ -2903,7 +2903,7 @@
  -flex: m.a.a.//m.a.ə.//.a.a.//.a.ə.
   gramm: imv,sg
  -flex: m.a.e.u//.a.e.u
-  gramm: imv, pl 
+  gramm: imv,pl 
   
  # Imperative + obj./dat. suffixes
  -flex: m.a.e.e//.a.e.e
@@ -2926,6 +2926,134 @@
   gramm: imv,pl,1sg.o
  -flex: m.a.e.ullan//.a.e.ullan//m.a.e.lan//.a.e.lan
   gramm: imv,pl,1pl.o
+  
+-paradigm: V_IIp
+
+ # Present
+ -flex: mi.a.ə.
+  gramm: pass,prs,3,sg,m
+ -flex: mi.a..o
+  gramm: pass,prs,3,sg,f
+ -flex: mi.a..ət//mi.a..at
+  gramm: pass,prs,2,sg,m
+ -flex: mi.a..ət//mi.a..at
+  gramm: pass,prs,2,sg,f
+ -flex: mi.a.a.no
+  gramm: pass,prs,1,sg,m
+ -flex: mi.a..ono
+  gramm: pass,prs,1,sg,f
+ -flex: mi.a..i
+  gramm: pass,prs,3,pl
+ -flex: mi.a..itu//mi.a..utu
+  gramm: pass,prs,2,pl
+ -flex: mi.a..ina
+  gramm: pass,prs,1,pl
+  
+ # Present+ko
+ -flex: kmi.a.ə.//komi.a.ə.
+  gramm: pass,prs,dur,3,sg,m
+ -flex: kmi.a..o//komi.a..o
+  gramm: pass,prs,dur,3,sg,f
+ -flex: kmi.a..ət//komi.a..ət//komi.a..at
+  gramm: pass,prs,dur,2,sg,m
+ -flex: kmi.a..ət//komi.a..at
+  gramm: pass,prs,dur,2,sg,f
+ -flex: kmi.a.a.no//komi.a.a.no
+  gramm: pass,prs,dur,1,sg,m
+ -flex: kmi.a..ono//komi.a..ono
+  gramm: pass,prs,dur,1,sg,f
+ -flex: kmi.a..i//komi.a..i
+  gramm: pass,prs,dur,3,pl
+ -flex: kmi.a..itu//komi.a..itu//komi.a..utu
+  gramm: pass,prs,dur,2,pl
+ -flex: kmi.a..ina//komi.a..ina
+  gramm: pass,prs,dur,1,pl
+  
+ # Future
+ -flex: gmi.a.ə.//gədmi.a.ə.
+  gramm: pass,fut,3,sg,m
+ -flex: gmi.a..o//gədmi.a..o
+  gramm: pass,fut,3,sg,f
+ -flex: gmi.a..ət//gmi.a..at//gədmi.a..ət//gədmi.a..at
+  gramm: pass,fut,2,sg,m
+ -flex: gmi.a..ət//gmi.a..at//gədmi.a..ət//gədmi.a..at
+  gramm: pass,fut,2,sg,f
+ -flex: gmi.a.a.no//gədmi.a.a.no
+  gramm: pass,fut,1,sg,m
+ -flex: gmi.a..ono//gədmi.a..ono
+  gramm: pass,fut,1,sg,f
+ -flex: gmi.a..i//gədmi.a..i
+  gramm: pass,fut,3,pl
+ -flex: gmi.a..itu//gmi.a..utu//gədmi.a..itu//gədmi.a..utu
+  gramm: pass,fut,2,pl
+ -flex: gmi.a..ina//gədmi.a..ina
+  gramm: pass,fut,1,pl
+  
+ # Imperfect
+ -flex: mi.a.a.wo//kmi.a.a.wo//gmi.a.a.wo//gədmi.a.a.wo//mi.a.a.wa//komi.a.a.wa//gmi.a.a.wa//gədmi.a.a.wa
+  gramm: pass,ipf,3,sg,m
+ -flex: mi.a..ətwa//komi.a..ətwa//gmi.a..ətwa//gədmi.a..ətwa//mi.a..atwo//kmi.a..atwo//gmi.a..atwo//gədmi.a..atwo//mi.a..atwa//komi.a..atwa//gmi.a..atwa//gədmi.a..atwa
+  gramm: pass,ipf,2,sg,m
+ -flex: mi.a.a.nowo//kmi.a.a.nowo//gmi.a.a.nowo//gədmi.a.a.nowo//mi.a.a.wayno//komi.a.a.wayno//gmi.a.a.wayno//gədmi.a.a.wayno
+  gramm: pass,ipf,1,sg,m
+ -flex: mi.a..owa//kmi.a..owa//komi.a..owa//gmi.a..owa//gədmi.a..owa
+  gramm: pass,ipf,3,sg,f
+ -flex: mi.a..atwo//kmi.a..atwo//gmi.a..atwo//gədmi.a..atwo//mi.a..atwa//komi.a..atwa//gədmi.a..atwa
+  gramm: pass,ipf,2,sg,f
+ -flex: mi.a..onowo//kmi.a..onowo//gmi.a..onowo//gədmi.a..onowo//mi.a..anwo//kmi.a..anwo//gmi.a..anwo//gədmi.a..anwo//mi.a..owayno//komi.a..owayno//gmi.a..owayno//gədmi.a..owayno
+  gramm: pass,ipf,1,sg,f
+ -flex: mi.a..iwo//kmi.a..iwo//gmi.a..iwo//gədmi.a..iwo//mi.a..iwa//komi.a..iwa//gədmi.a..iwa//gmi.a..iwa
+  gramm: pass,ipf,3,pl
+ -flex: mi.a..ituwo//kmi.a..ituwo//gmi.a..ituwo//gədmi.a..ituwo//mi.a..utuwa//komi.a..utuwa//gmi.a..utuwa//gədmi.a..utuwa//mi.a..ituwa//komi.a..ituwa//gmi.a..ituwa//gədmi.a..ituwa
+  gramm: pass,ipf,2,pl
+ -flex: mi.a..inawo//kmi.a..inawo//gmi.a..inawo//gədmi.a..inawo//mi.a..iwayna//komi.a..iwayna//gmi.a..iwayna//gədmi.a..iwayna
+  gramm: pass,ipf,1,pl  
+
+ # Preterite
+ -flex: m.a.ə.//m.a.a.
+  gramm: pass,pst,3,sg,m
+ -flex: m.a..o
+  gramm: pass,pst,3,sg,f
+ -flex: m.a..ət//m.a..at
+  gramm: pass,pst,2,sg,m
+ -flex: m.a..ət//m.a..at
+  gramm: pass,pst,2,sg,f
+ -flex: m.a.a.no
+  gramm: pass,pst,1,sg,m
+ -flex: m.a..ono
+  gramm: pass,pst,1,sg,f
+ -flex: m.a..i
+  gramm: pass,pst,3,pl
+ -flex: m.a..itu//m.a..utu
+  gramm: pass,pst,2,pl
+ -flex: m.a..ina
+  gramm: pass,pst,1,pl
+
+ # Pluperfect
+ -flex: m.a.a.wo//m.a.a.wa
+  gramm: pass,plpf,3,sg,m
+ -flex: m.a..owa
+  gramm: pass,plpf,3,sg,f
+ -flex: m.a..ətwa//m.a..atwo//m.a..atwa
+  gramm: pass,plpf,2,sg,m
+ -flex: m.a..atwo//m.a..atwa
+  gramm: pass,plpf,2,sg,f
+ -flex: m.a.a.nowo//m.a.a.wayno
+  gramm: pass,plpf,1,sg,m
+ -flex: m.a..onowo//m.a..anwo//m.a..owayno
+  gramm: pass,plpf,1,sg,f
+ -flex: m.a..iwo//m.a..iwa
+  gramm: pass,plpf,3,pl
+ -flex: m.a..ituwo//m.a..utuwa
+  gramm: pass,plpf,2,pl
+ -flex: m.a..inawo//m.a..iwayna
+  gramm: pass,plpf,1,pl
+  
+ # Imperative
+ -flex: mi.a.a.
+  gramm: pass,imv,sg
+ -flex: mi.a.e.u
+  gramm: pass,imv,pl
 
 
 -paradigm: V_III
