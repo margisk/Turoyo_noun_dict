@@ -391,3 +391,266 @@
   gramm: pst,2,pl,3pl.o
  -flex: <2>.i.ənne//<2>.ə.ənne//<2>.u.ənne
   gramm: pst,3,pl,3pl.o
+
+# Preterite with dative/accusative suffixes
+  # 1st person sg + suffixes
+
+ -flex: <1>.lili
+  gramm: pst,1,sg,1sg.o
+ -flex: <1>.lilux//<1>.lilox
+  gramm: pst,1,sg,2sg.m.o
+ -flex: <1>.lilax//<1>.liləx
+  gramm: pst,1,sg,2sg.f.o
+ -flex: <1>.lile
+  gramm: pst,1,sg,3sg.m.o
+ -flex: <1>.lila
+  gramm: pst,1,sg,3sg.f.o
+ -flex: <1>.lilan
+  gramm: pst,1,sg,1pl.o
+ -flex: <1>.lilxu//<1>.ləlxu
+  gramm: pst,1,sg,2pl.o
+ -flex: <1>.lille//<1>.lilən
+  gramm: pst,1,sg,3pl.o
+  
+  # 2nd person sgm + suffixes
+ -flex: <1>.luxli//<1>.loxli
+  gramm: pst,2,sg,m,1sg.o
+ -flex: <1>.luxle//<1>.loxle
+  gramm: pst,2,sg,m,3sg.m.o
+ -flex: <1>.luxla//<1>.loxla
+  gramm: pst,2,sg,m,3sg.f.o
+ -flex: <1>.luxlan//<1>.loxlan
+  gramm: pst,2,sg,m,1pl.o
+ -flex: <1>.luxxe//<1>.loxlən
+  gramm: pst,2,sg,m,3pl.o
+
+  # 2nd person sgf + suffixes
+
+ -flex: <1>.laxli//<1>.ləxli
+  gramm: pst,2,sg,f,1sg.o
+ -flex: <1>.laxle//<1>.ləxle
+  gramm: pst,2,sg,f,3sg.m.o
+ -flex: <1>.laxla//<1>.ləxla
+  gramm: pst,2,sg,f,3sg.f.o
+ -flex: <1>.laxlan//<1>.ləxlan
+  gramm: pst,2,sg,f,1pl.o
+ -flex: <1>.laxxe//<1>.ləxlən
+  gramm: pst,2,sg,f,3pl.o
+  
+  # 3rd person sgm + suffixes
+
+ -flex: <1>.leli
+  gramm: pst,3,sg,m,1sg.o
+ -flex: <1>.lelux//<1>.lelox
+  gramm: pst,3,sg,m,2sg.m.o
+ -flex: <1>.lelax//<1>.leləx
+  gramm: pst,3,sg,m,2sg.f.o
+ -flex: <1>.lele
+  gramm: pst,3,sg,m,3sg.m.o
+ -flex: <1>.lela
+  gramm: pst,3,sg,m,3sg.f.o
+ -flex: <1>.lelan
+  gramm: pst,3,sg,m,1pl.o
+ -flex: <1>.lalxu//<1>.lelxu
+  gramm: pst,3,sg,m,2pl.o
+
+  # 3rd person sgf + suffixes
+
+ -flex: <1>.lali
+  gramm: pst,3,sg,f,1sg.o
+ -flex: <1>.lalux//<1>.lalox
+  gramm: pst,3,sg,f,2sg.m.o
+ -flex: <1>.lalax//<1>.laləx
+  gramm: pst,3,sg,f,2sg.f.o
+ -flex: <1>.lale
+  gramm: pst,3,sg,f,3sg.m.o
+ -flex: <1>.lala
+  gramm: pst,3,sg,f,3sg.f.o
+ -flex: <1>.lalan
+  gramm: pst,3,sg,f,1pl.o
+ -flex: <1>.lalxu
+  gramm: pst,3,sg,f,2pl.o
+ -flex: <1>.lalle//<1>.lalən
+  gramm: pst,3,sg,f,3pl.o
+
+ # 1st person plural + suffixes
+ -flex: <1>.lanlux//<1>.lanlox
+  gramm: pst,1,pl,2sg.m.o
+ -flex: <1>.lanlax//<1>.lanləx
+  gramm: pst,1,pl,2sg.f.o
+ -flex: <1>.lanle
+  gramm: pst,1,pl,3sg.m.o
+ -flex: <1>.lanla
+  gramm: pst,1,pl,3sg.f.o
+ -flex: <1>.lanxu
+  gramm: pst,1,pl,2pl.o
+ -flex: <1>.lanne
+  gramm: pst,1,pl,3pl.o
+
+ # 2nd person plural + suffixes
+ -flex: <1>.xulli
+  gramm: pst,2,pl,1sg.o
+ -flex: <1>.xulle
+  gramm: pst,2,pl,3sg.m.o
+ -flex: <1>.xulla
+  gramm: pst,2,pl,3sg.f.o
+ -flex: <1>.xullan
+  gramm: pst,2,pl,1pl.o
+ -flex: <1>.xunne
+  gramm: pst,2,pl,3pl.o
+
+ # 3rd person plural + suffixes
+ -flex: <1>.wwalli
+  gramm: pst,3,pl,1sg.o
+ -flex: <1>.wwallux//<1>.wwallox
+  gramm: pst,3,pl,2sg.m.o
+ -flex: <1>.wwallax//<1>.wwalləx
+  gramm: pst,3,pl,2sg.f.o
+ -flex: <1>.wwalle
+  gramm: pst,3,pl,3sg.m.o
+ -flex: <1>.wwalla
+  gramm: pst,3,pl,3sg.f.o
+ -flex: <1>.wwallan
+  gramm: pst,3,pl,1pl.o
+ -flex: <1>.wwalxu//<1>.wwanxu
+  gramm: pst,3pl,2pl.o
+ -flex: <1>.wwanne
+  gramm pst,3pl,3pl.o
+
+# Imperfect
+ -flex: <0>.o.ewayno//<0>.u.enowo//<0>.ə.enowo
+  gramm: ipf,1,sg,m
+ -flex: <0>.o.owayno//<0>.u.anwo//<0>.ə.anwo
+ -flex: <0>.o.atwa//<0>.u.atwo//<0>.ə.atwo
+  gramm: ipf,2,sg
+ -flex: <0>.o.ewa//<0>.u.ewo//<0>.ə.ewo
+  gramm: ipf,3,sg,m
+ -flex: <0>.o.owa//<0>.u.owa//<0>.ə.owa
+  gramm: ipf,3,sg,f
+ -flex: <0>.o.iwayna//<0>.u.inawo//<0>.ə.inawo
+  gramm: ipf,1,pl
+ -flex: <0>.o.utuwa//<0>.u.ituwo//<0>.ə.ituwo
+  gramm: ipf,2,pl
+ -flex: <0>.o.ənwa//<0>.u.ənwo//<0>.ə.ənwo//<0>.o.iwa//<0>.u.iwo//<0>.ə.iwo
+
+# Imperfect + Suffixes
+ # 1st person sgm + suffixes
+
+ -flex: <0>.o.ewaynolux//<0>.u.enowolox//<0>.ə.enowolox//<0>.o.ewaynux//<0>.u.enowox//<0>.ə.enowox
+  gramm: ipf,1,sg,m,2sg.m.o
+ -flex: <0>.o.ewaynolax//<0>.u.enowoləx//<0>.ə.enowoləx//<0>.o.ewaynax//<0>.u.enowəx//<0>.ə.enowəx
+  gramm: ipf,1,sg,m,2sg.f.o
+ -flex: <0>.o.ewaynole//<0>.u.enowole//<0>.ə.enowole//<0>.o.ewayne//<0>.u.enowe//<0>.ə.enowe
+  gramm: ipf,1,sg,m,3sg.m.o
+ -flex: <0>.o.ewaynola//<0>.u.enowola//<0>.ə.enowola//<0>.o.ewayna//<0>.u.enowa//<0>.e.enowa
+  gramm: ipf,1,sg,m,3sg.f.o
+ -flex: <0>.o.ewaynalxu//<0>.u.enowolxu//<0>.ə.enowolxu
+  gramm: ipf,1,sg,m,2pl.o
+ -flex: <0>.o.ewaynalle//<0>.o.ewaynanne//<0>.u.enowolən//<0>.ə.enowolən//<0>.u.enowulle//<0>.ə.enowulle
+  gramm: ipf,1,sg,m,3pl.o
+
+ # 1st person sgf + suffixes
+ -flex: <0>.o.owaynolux//<0>.o.owaynux//<0>.u.anwolox//<0>u.anwox//<0>.ə.anwolox//<0>.ə.anwox
+  gramm: ipf,1,sg,f,2sg.m.o
+ -flex: <0>.o.owaynolax//<0>.o.owaynax//<0>.u.anwoləx//<0>.u.anwəx//<0>.ə.anwoləx//<0>.ə.anwəx
+  gramm: ipf,1,sg,f,2sg.f.o
+ -flex: <0>.o.owaynole//<0>.o.owayne//<0>.u.anwole//<0>.ə.anwole
+  gramm: ipf,1,sg,f,3sg.m.o
+ -flex: <0>.o.owaynola//<0>.o.owayna//<0>.anwola//<0>.ə.anwola
+  gramm: ipf,1,sg,f,3sg.f.o
+ -flex: <0>.owaynanxu//<0>.u.anwolxu
+  gramm: ipf,1,sg,f,2pl.o
+ -flex: <0>.owaynanne//<0>.u.anwolən//<0>.u.anwulle//<0>.ə.anwolən//<0>.ə.anwulle
+  gramm: ipf,1,sg,f,3pl.o
+ 
+ # 2nd person sg + suffixes
+ -flex: <0>.o.atwayli//<0>.u.atwoli//<0>.ə.atwoli
+  gramm: ipf,2,sg,1sg.o
+ -flex: <0>.o.atwayle//<0>.u.atwole//<0>.ə.atwole
+  gramm: ipf,2,sg,3sg.m.o
+ -flex: <0>.o.atwayla//<0>.u.atwola//<0>.ə.atwola
+  gramm: ipf,2,sg,3sg.f.o
+ -flex: <0>.o.atwaylan//<0>.u.atwolan//<0>.ə.atwolan
+  gramm: ipf,2,sg,1pl.o
+ -flex: <0>.o.atwalle//<0>.u.atwulle//<0>.u.atwolən//<0>.ə.atwulle//<0>.u.atwolən
+  gramm: ipf,2,sg,3pl.o
+ 
+ # 3rd person sgm + suffixes
+ -flex: <0>.o.ewayli//<0>.u.ewayli//<0>.ə.ewayli
+  gramm: ipf,3,sg,m,1sg.o
+ -flex: <0>.o.ewaylux//<0>.u.ewaylox//<0>.ə.ewaylox
+  gramm: ipf,3,sg,m,2sg.m.o
+ -flex: <0>.o.ewaylax//<0>.u.ewayləx//<0>.ə.ewayləx
+  gramm: ipf,3,sg,m,2sg.f.o
+ -flex: <0>.o.ewayle//<0>.u.ewayle//<0>.ə.ewayle
+  gramm: ipf,3,sg,m,3sg.m.o
+ -flex: <0>.o.ewayla//<0>.u.ewayla//<0>.ə.ewayla
+  gramm: ipf,3sg,m,3sg.f.o
+ -flex: <0>.o.ewaylan//<0>.u.ewaylan//<0>.ə.ewaylan
+  gramm: ipf,3sg,m,1pl.o
+ -flex: <0>.o.ewalxu//<0>.u.ewolxu//<0>.ə.ewolxu
+  gramm: ipf,3sg,m,2pl.o
+ -flex: <0>.o.ewalle//<0>.u.ewulle//<0>.u.ewolən//<0>.ə.ewulle//<0>.ə.ewolən
+  gramm: ipf,3sg,m,3pl.o
+ 
+ # 3rd person sgf + suffixes
+ -flex: <0>.o.owayli//<0>.u.owayli//<0>.ə.owayli
+  gramm: ipf,3,sg,f,1sg.o
+ -flex: <0>.o.owaylux//<0>.u.owaylox//<0>.ə.owaylux
+  gramm: ipf,3,sg,f,2sg.m.o
+ -flex: <0>.o.owaylax//<0>.u.owayləx//<0>.ə.owayləx
+  gramm: ipf,3,sg,f,2sg.f.o
+ -flex: <0>.o.owayle//<0>.u.owayle//<0>.ə.owayle
+  gramm: ipf,3,sg,f,3sg.m.o
+ -flex: <0>.o.owayla//<0>.u.owayla//<0>.ə.owayla
+  gramm: ipf,3,sg,f,3sg.f.o
+ -flex: <0>.o.owaylan//<0>.u.owaylan//<0>.ə.owaylan
+  gramm: ipf,3,sg,f,1pl.o
+ -flex: <0>.o.owalxu//<0>.u.owalxu//<0>.ə.owalxu
+  gramm: ipf,3,sg,f,2pl.o
+ -flex: <0>.o.owalle//<0>.u.owalle//<0>.u.owalən
+  gramm: ipf,3,sg,f,3pl.o
+ 
+ # 1st person pl + suffixes
+ -flex: <0>.o.iwaynalux//<0>.u.inawolox//<0>.ə.inawolox
+  gramm: ipf,1,pl,2sg.m.o
+ -flex: <0>.o.iwaynalax//<0>.u.inawoləx//<0>.ə.inawoləx
+  gramm: ipf,1,pl,2sg.f.o
+ -flex: <0>.o.iwaynale//<0>.u.inawole//<0>.ə.inawole
+  gramm: ipf,1,pl,3sg.m.o
+ -flex: <0>.o.iwaynala//<0>.u.inawola//<0>.ə.inawola
+  gramm: ipf,1,pl,3sg.f.o
+ -flex: <0>.o.iwaynalxu//<0>.u.inawolxu//<0>.u.inwolxu//<0>.ə.inawolxu//<0>.ə.inwolxu
+  gramm: ipf,1,pl,2pl.o
+ -flex: <0>.o.iwaynalle//<0>.o.iwaynanne//<0>.u.inawolən//<0>.u.inawulle//<0>.ə.inawolən//<0>.ə.inawulle
+
+ # 2nd person pl + suffixes
+  -flex: <0>.o.utuwayli//<0>.o.utwayli//<0>.u.ituwoli//<0>.ə.ituwoli
+   gramm: ipf,2pl,1sg.o
+  -flex: <0>.o.utuwayle//<0>.o.utwayle//<0>.u.ituwole//<0>.ə.ituwole
+   gramm: ipf,2pl,3sg.m.o
+  -flex: <0>.o.utuwayla//<0>.o.utwayla//<0>.u.ituwola//<0>.ə.ituwola
+   gramm: ipf,2pl,3sg.f.o
+  -flex: <0>.o.utuwaylan//<0>.o.utwaylan//<0>.u.ituwolan//<0>.ə.ituwolan
+   gramm: ipf,2pl,1pl.o
+  -flex: <0>.o.utuwalle//<0>.u.ituwolən//<0>.u.ituwunne//<0>.ə.ituwolən//<0>.u.ituwunne
+   gramm: ipf,2pl,3pl.o
+
+  # 3rd person pl + suffixes
+ -flex: <0>.o.iwayli//<0>.o.ənwayli//<0>.u.iwayli//<0>.ə.iwayli
+  gramm: ipf,3pl,1sg.o
+ -flex: <0>.o.iwaylux//<0>.o.ənwaylux//<0>.u.iwaylox//<0>.ə.iwaylox
+  gramm: ipf,3pl,2sg.m.o
+ -flex: <0>.o.iwaylax//<0>.o.ənwaylax//<0>.u.iwayləx//<0>.ə.iwayləx
+  gramm: ipf,3pl,2sg.f.o
+ -flex: <0>.o.iwayle//<0>.o.ənwayle//<0>.u.iwayle//<0>.ə.iwayle
+  gramm: ipf,3pl,3sg.m.o
+ -flex: <0>.o.iwayla//<0>.o.ənwayla//<0>.u.iwayla//<0>.ə.iwayla
+  gramm: ipf,3pl,3sg.f.o
+ -flex: <0>.o.iwaylan//<0>.o.ənwaylan//<0>.u.iwaylan//<0>.ə.iwaylan
+  gramm: ipf,3pl,1pl.o
+ -flex: <0>.o.iwanxu//<0>.o.ənwanxu//<0>.u.iwolxu//<0>.ə.iwolxu
+  gramm: ipf,3pl,2pl.o
+ -flex: <0>.o.iwanne//<0>.o.ənwanne//<0>.u.iwolən//<0>.u.iwulle//<0>.ə.iwolən//<0>.ə.iwulle
+  gramm: ipf,3pl,3pl.o
+
