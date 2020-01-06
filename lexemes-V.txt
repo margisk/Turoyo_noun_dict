@@ -2598,7 +2598,7 @@
  trans_en: to scream; to call
 -lexeme
  lex: hule/obe
- stem: ..b.|.h.|.h.w.
+ stem: ..b.|.hu.|.h.w.
  root: hwy
  gramm: V
  paradigm: to_give
