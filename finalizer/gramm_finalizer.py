@@ -27,7 +27,6 @@ def collect_lemmata():
 
 
 def collect_paradigms():
-    fIn = open('../paradigms.txt', 'r', encoding='utf-8-sig')
     paradigms = ''
     for fname in os.listdir('../paradigms/'):
         if fname.endswith('.txt') and fname.startswith('paradigms'):
