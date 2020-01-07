@@ -11563,10 +11563,10 @@
  trans_en: to guarantee; to trust; to create security; to provide
 -lexeme
  lex: mǝlle/omǝr
- stem: ..m.r.
+ stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
  root: ʔmr
  gramm: V
- paradigm: V_I_3r
+ paradigm: to_say
  trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmǝr) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomǝr zu korrigieren]
  trans_en: to say; to name smb. or smth.; to emit a sound
 -lexeme
