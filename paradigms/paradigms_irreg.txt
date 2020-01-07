@@ -138,9 +138,9 @@
 -paradigm: to_give
 
 # Bare
- -flex: <0>.o.eno//<0>.ə.eno
+ -flex: <0>.o.eno//<0>.ə.eno//<0>.u.eno
   gramm: prs,1,sg,m
- -flex: <0>.o.ono//<0>.ə.ono
+ -flex: <0>.o.ono//<0>.ə.ono//<0>.u.ono
   gramm: prs,1,sg,f
  -flex: <0>.o.at//<0>.o.ət
   gramm: prs,2,sg,m
