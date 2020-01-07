@@ -1746,10 +1746,10 @@
 
 -lexeme
  lex: azze/əzze
- stem: ..z.l.
+ stem: .azz.|.əzz.|z.
  root: ʔzl
  gramm: V
- paradigm: V_I
+ paradigm: to_go
  trans_de: 1) gehen, dahingehen, zu spät sein; 2) als Hilfsverb (oft mit «nicht etwa» zu übersetzen); 3) ingressiv; 4) sterben; 5) (lebo) wünschen; 6) vergehen; 7) hinsein, verloren; 8) weggehen, fortgehen
  trans_en: to go; to get lost
 
@@ -2091,7 +2091,7 @@
  stem: ..ṯ.y.
  root: ʔṯy
  gramm: V
- paradigm: V_I
+ paradigm: V_I_3y
  trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lǝ-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, mǝqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mǝn-; k-oṯe mǝn- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥǝmto); 16) entgegengehen (l-qamuṯo)
  trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow;
 
@@ -2130,6 +2130,15 @@
  paradigm: N2
  trans_de: Frau, Ehefrau
  trans_en: woman; wife
+
+-lexeme
+ lex: b
+ stem: .b.|.bb.|b.
+ root: b
+ gramm: prep
+ paradigm: PREP_1
+ trans_de: <?>
+ trans_en: in; with the help of
 
 -lexeme
  lex: ba
@@ -5747,6 +5756,15 @@
  trans_en: afterwards
 
 -lexeme
+ lex: bəṯṯər
+ stem: bəṯr.
+ root: ʔṯr
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: after
+
+-lexeme
  lex: bʕele/boʕe
  stem: .b.ʕ.|.b.ʕ.y.
  root: bʕy
@@ -7735,6 +7753,15 @@
  paradigm: N2
  trans_de: Land, Wohnstätte
  trans_en: country, dwelling places
+
+-lexeme
+ lex: diḏ
+ stem: diḏ.|dəṯ.
+ root: dḏ
+ gramm: PRTCL
+ paradigm: PRTCL_POS
+ trans_de: <?>
+ trans_en: possessive particle (of)
 
 -lexeme
  lex: dlela
@@ -11075,6 +11102,15 @@
  trans_en: deictic particle which means that a person has before his eyes somethings that happens
 
 -lexeme
+ lex: gab
+ stem: gab.
+ root: gb
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: at; by; towards
+
+-lexeme
  lex: gabalake
  stem: gabalake.|UNKNOWN.|gabalak.
  root: gbl
@@ -14234,10 +14270,10 @@
 
 -lexeme
  lex: hule/obe
- stem: .h.w.|.h.|..b.
+ stem: ..b.|.hu.|.h.w.
  root: hwy
  gramm: V
- paradigm: V_I_2w
+ paradigm: to_give
  trans_de: 1) geben; 2) sich aufmachen (mit foṯo); 3) j-m Furcht einjagen (mit zuḥṯo); 4) begrüssen (mit šlomo); 5) ausmachen, entscheiden (mit qărār); 6) verheiraten
  trans_en: to give
 
@@ -18194,6 +18230,15 @@
  trans_en: amulet, which is folded to a small triangle
 
 -lexeme
+ lex: l
+ stem: .l.|.ll.|l.
+ root: l
+ gramm: prep
+ paradigm: PREP_1
+ trans_de: <?>
+ trans_en: to; towards; for
+
+-lexeme
  lex: la
  stem: la.
  root: l
@@ -18966,6 +19011,15 @@
  paradigm: N2
  trans_de: Abschaffen, Ruinieren
  trans_en: destruction
+
+-lexeme
+ lex: lašan
+ stem: lašan.//laǧan.//lažan.//lašən.//šan.//lšan.
+ root: lšn
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: for
 
 -lexeme
  lex: laše
@@ -25075,6 +25129,15 @@
  trans_en: female (birds)
 
 -lexeme
+ lex: me/mə/m
+ stem: mə.|me.|m.|min.|mən.|men.
+ root: m
+ gramm: prep
+ paradigm: PREP_2
+ trans_de: <?>
+ trans_en: from
+
+-lexeme
  lex: mede
  stem: mede.|mədone.//medone.
  root: md
@@ -30783,10 +30846,10 @@
 
 -lexeme
  lex: mǝlle/omǝr
- stem: ..m.r.
+ stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
  root: ʔmr
  gramm: V
- paradigm: V_I
+ paradigm: to_say
  trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmǝr) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomǝr zu korrigieren]
  trans_en: to say; to name smb. or smth.; to emit a sound
 
@@ -41275,6 +41338,15 @@
  trans_en: sand
 
 -lexeme
+ lex: qum
+ stem: qum.|qm.|qəm.
+ root: qdm
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: before; in front of
+
+-lexeme
  lex: qumandan
  stem: qumandan.|qumandanin.|qumandan.
  root: qmndn
@@ -45674,6 +45746,15 @@
  paradigm: unchangeable
  trans_de: drei
  trans_en: three
+
+-lexeme
+ lex: se/sə/s
+ stem: sə.|se.|s.|sid.|sət.
+ root: s
+ gramm: prep
+ paradigm: PREP_2
+ trans_de: <?>
+ trans_en: at; by; towards
 
 -lexeme
  lex: sedare/sendare
@@ -62316,6 +62397,15 @@
  trans_en: elbow
 
 -lexeme
+ lex: ʕal
+ stem: aʕl.|ʕal.
+ root: ʕl
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: on; upon
+
+-lexeme
  lex: ʕala
  stem: ʕala.
  root: ʕly
@@ -62458,6 +62548,15 @@
  paradigm: N2
  trans_de: Staubwirbel, Windhose
  trans_en: dust whirl
+
+-lexeme
+ lex: ʕam
+ stem: aʕm.|ʕam.
+ root: ʕm
+ gramm: prep
+ paradigm: PREP_3
+ trans_de: <?>
+ trans_en: with
 
 -lexeme
  lex: ʕam
