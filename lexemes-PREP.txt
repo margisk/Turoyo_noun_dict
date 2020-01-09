@@ -19,7 +19,7 @@
  stem: mə.|me.|m.|min.|mən.|men.
  root: m
  gramm: prep
- paradigm: PREP_2
+ paradigm: PREP_me
  trans_de: <?>
  trans_en: from
 -lexeme
@@ -27,7 +27,7 @@
  stem: sə.|se.|s.|sid.|sət.
  root: s
  gramm: prep
- paradigm: PREP_2
+ paradigm: PREP_se
  trans_de: <?>
  trans_en: at; by; towards
 -lexeme
