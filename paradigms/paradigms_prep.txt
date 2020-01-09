@@ -1,4 +1,6 @@
 -paradigm: PREP_1
+ -flex: <2>.
+  gramm: 
  -flex: <0>e.i//<2>.əno//<2>.uno//<2>.i
   gramm: 1,sg
  -flex: <0>e.ux//<0>e.ox//<2>.uxat//<2>.oxat//<2>.ux//<2>.ox
@@ -16,7 +18,34 @@
  -flex: <0>e.ayye//<1>a.e//<2>.ənne//<2>.ən
   gramm: 3,pl
 
+  # Definite article
+ -flex: <2>.<.>
+  gramm:
+  paradigm: def_art_1
+
+-paradigm: PREP_me
+ -flex: <0>.//<1>.//<2>.
+  gramm:
+ -flex: <3>.i//<5>.i
+  gramm: 1,sg
+ -flex: <3>.ux//<3>.ox//<5>.ux//<5>.ox
+  gramm: 2,sg,m
+ -flex: <3>.ax//<3>.əx//<5>.ax//<5>.əx
+  gramm: 2,sg,f
+ -flex: <3>.e//<5>.e
+  gramm: 3,sg,m
+ -flex: <3>.a//<5>.a
+  gramm: 3,sg,f
+ -flex: <3>.an//<3>.ayna//<4>.an//<4>.ayna//<5>.an//<5>.ayna
+  gramm: 1,pl
+ -flex: <3>.ayxu//<5>.ayxu//<4>.ayxu//<4>.xu
+  gramm: 2,pl
+ -flex: <3>.ayye//<5>.ayye//<4>.ayye//<4>.ne
+  gramm: 3,pl
+
 -paradigm: PREP_3
+ -flex: <1>.
+  gramm: 
  -flex: <0>.i
   gramm: 1,sg
  -flex: <0>.ux//<0>.ox
