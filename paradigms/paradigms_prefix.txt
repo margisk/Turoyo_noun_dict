@@ -1,0 +1,10 @@
+-paradigm: vb_prefix
+ -flex: .
+  gramm: bare
+ -flex: k.
+  gramm: prs
+ -flex: ko.
+  gramm: prs
+ -flex: kə.
+  gramm: prs
+
