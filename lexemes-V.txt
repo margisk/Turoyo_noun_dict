@@ -611,7 +611,7 @@
  stem: .d.y.l.|.d.l.|.d.
  root: dyl
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3l
  trans_de: (an)zeigen, Zeichen machen, Hinweis geben
  trans_en: to show
 -lexeme
@@ -776,10 +776,10 @@
  trans_en: to stay as a guest
 -lexeme
  lex: mad̞ǝlle/mad̞ǝr
- stem: .ḏ̣.y.r.|.ḏ̣.r.
+ stem: .ḏ̣.y.r.|.ḏ̣.r.|.ḏ̣.n.|.ḏ̣.l.
  root: d̞yr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
  trans_en: to put an animal kid under its mother, so that the mother gives milk
 -lexeme
@@ -3411,10 +3411,10 @@
  trans_en: <?>
 -lexeme
  lex: maḥǝlle/maḥǝn
- stem: .ḥ.y.n.|.ḥ.n.
+ stem: .ḥ.y.n.|.ḥ.n.|.ḥ.l.
  root: ḥyn
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3n
  trans_de: sehnen
  trans_en: to crave for (ʕal) smb./smth.; to have pity for (ʕal.) smb.
 -lexeme
@@ -4021,7 +4021,7 @@
  stem: .k.l.|.k.
  root: kyl
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3l
  trans_de: messen
  trans_en: to measure
 -lexeme
@@ -9195,10 +9195,10 @@
  trans_en: to slip
 -lexeme
  lex: mašǝlle/mašǝr
- stem: .š.r.
+ stem: .š.r.|.š.l.|.š.n.
  root: šyr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: Ratschläge geben
  trans_en: to give advice
 -lexeme
@@ -9206,7 +9206,7 @@
  stem: .š.r.|.š.l.|.š.n.
  root: šyr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: glauben
  trans_en: to believe
 -lexeme
@@ -10826,7 +10826,7 @@
  stem: .x.n.|.x.l.
  root: xyn
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3n
  trans_de: verraten, Verrat üben
  trans_en: to betray
 -lexeme
@@ -12275,10 +12275,10 @@
  trans_en: to determine; to establish; to examine (a patient
 -lexeme
  lex: maʕǝlle/maʕǝn
- stem: .ʕ.y.n.|.ʕ.n.
+ stem: .ʕ.y.n.|.ʕ.n.|.ʕ.l.
  root: ʕyn
  gramm: V
- paradigm: V_III_2y3n
+ paradigm: V_III_2y_3n
  trans_de: Schmerz machen
  trans_en: to cause pain
 -lexeme
