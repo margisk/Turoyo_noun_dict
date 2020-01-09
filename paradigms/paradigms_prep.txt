@@ -43,6 +43,35 @@
  -flex: <3>.ayye//<5>.ayye//<4>.ayye//<4>.ne
   gramm: 3,pl
 
+ # Definite article
+ -flex: <2>.<.>
+  gramm:
+  paradigm: def_art1
+
+-paradigm: PREP_se
+ -flex: <0>.//<1>.//<2>.
+  gramm:
+ -flex: <3>.i
+  gramm: 1,sg
+ -flex: <3>.ux//<3>.ox
+  gramm: 2,sg,m
+ -flex: <3>.ax//<3>.əx
+  gramm: 2,sg,f
+ -flex: <3>.e
+  gramm: 3,sg,m
+ -flex: <3>.a
+  gramm: 3,sg,f
+ -flex: <3>.an//<3>.ayna
+  gramm: 1,pl
+ -flex: <3>.ayxu//<4>.xu
+  gramm: 2,pl
+ -flex: <3>.ayye//<4>.te
+
+ # Definite article
+ -flex: <2>.<.>
+  gramm:
+  paradigm: def_art_1
+
 -paradigm: PREP_3
  -flex: <1>.
   gramm: 
