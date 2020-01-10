@@ -7,4 +7,12 @@
   gramm: prs
  -flex: kə.
   gramm: prs
+ -flex: gə.
+  gramm: fut
+ -flex: gd.
+  gramm: fut
+ -flex: gəd.
+  gramm: fut
+ -flex: g.
+  gramm: fut
 
