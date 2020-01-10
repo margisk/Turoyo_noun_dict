@@ -1,0 +1,6 @@
+-paradigm: def_art_1
+ -flex: .i
+  gramm: art,sg,f
+ -flex: .u
+  gramm: art,sg,m
+
