@@ -1795,6 +1795,14 @@
  trans_de: von Tieren gefressene Pflanze
  trans_en: plant eaten by animals
 -lexeme
+ lex: ʕəsri
+ stem: ʕəsri.
+ root: ʕsr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zwanzig
+ trans_en: twenty
+-lexeme
  lex: ʕəšara
  stem: ʕəšara.|ʕəšarat.|ʕəšar.
  root: ʔšr
@@ -2272,6 +2280,14 @@
  paradigm: unchangeable
  trans_de: Lebensweise
  trans_en: way of life
+-lexeme
+ lex: a
+ stem: a.
+ root: ʔ
+ gramm: art,pl
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 -lexeme
  lex: aaa
  stem: aaa.
@@ -3312,6 +3328,14 @@
  paradigm: unchangeable
  trans_de: vier
  trans_en: four
+-lexeme
+ lex: arbʕi
+ stem: arbʕi.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vierzig
+ trans_en: forty
 -lexeme
  lex: arbaʕiniyat
  stem: arbaʕiniyat.
@@ -10720,6 +10744,14 @@
  trans_de: Tyrann, gewalttätig
  trans_en: tyran; violent
 -lexeme
+ lex: e
+ stem: e.
+ root: ʔ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja
+ trans_en: yes
+-lexeme
  lex: eba
  stem: eba.
  root: b
@@ -12561,7 +12593,7 @@
  trans_en: width
 -lexeme
  lex: ga
- stem: ga
+ stem: ga.
  root: g
  gramm: PRTCL
  paradigm: unchangeable
@@ -17655,6 +17687,14 @@
  trans_de: fünf
  trans_en: five
 -lexeme
+ lex: ḥamši
+ stem: ḥamši.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünfzig
+ trans_en: fifty
+-lexeme
  lex: ḥamuṣo
  stem: ḥamuṣo.|ḥaməṣto.|ḥamuṣe.
  root: ḥmṣ
@@ -19574,6 +19614,14 @@
  trans_de: Juni
  trans_en: June
 -lexeme
+ lex: i
+ stem: i.
+ root: ʔ
+ gramm: art,sg,f
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
+-lexeme
  lex: iʕdam
  stem: iʕdam.|UNKNOWN.|iʕdam.
  root: ʕdm
@@ -20029,6 +20077,14 @@
  paradigm: unchangeable
  trans_de: sechs
  trans_en: six
+-lexeme
+ lex: əšti
+ stem: əšti.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechzig
+ trans_en: sixty
 -lexeme
  lex: əšwəṭ
  stem: əšwəṭ.
@@ -23590,6 +23646,21 @@
  paradigm: N2
  trans_de: Grossnische
  trans_en: big niche
+-lexeme
+ lex: lo/lə
+ stem: lo.//lə.//l.
+ root: l
+ gramm: neg
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en:
+-lexeme
+ lex: lo
+ stem: lo.
+ root: l
+ gramm: INTERJ
+ trans_de: nein
+ trans_en: no
 -lexeme
  lex: lo
  stem: lo.
@@ -27752,6 +27823,14 @@
  trans_de: Manöver, Rangieren, Landungsmanöver
  trans_en: maneuver, maneuvering
 -lexeme
+ lex: mo
+ stem: mo.
+ root: m
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: hundert
+ trans_en: hundred
+-lexeme
  lex: moda
  stem: moda.
  root: md
@@ -29743,6 +29822,14 @@
  trans_de: Prophet
  trans_en: prophet
 -lexeme
+ lex: ne
+ stem: ne.
+ root: n
+ gramm: cop,3pl
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: 
+-lexeme
  lex: ner
  stem: ner.
  root: nr
@@ -30206,6 +30293,14 @@
  paradigm: N2
  trans_de: Bissen
  trans_en: biting; piece
+-lexeme
+ lex: no
+ stem: no.
+ root: n
+ gramm: cop,1,sg
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 -lexeme
  lex: nobačiye
  stem: nobačiye.
@@ -36739,8 +36834,16 @@
  root: rwḥ
  gramm: N,f
  paradigm: N2
- trans_de: Seele, Geist, Lebensgeist; der Heilige Geist (ruḥo qadəšto); statt Reflexivpronomen
- trans_en: soul, spirit; the Holy Spirit (ruḥo qadəšto); instead of reflexive pronouns
+ trans_de: Seele, Geist, Lebensgeist; der Heilige Geist (ruḥo qadəšto)
+ trans_en: soul, spirit; the Holy Spirit (ruḥo qadəšto)
+-lexeme
+ lex: ruḥo
+ stem: ruḥ.
+ root: rwḥ
+ gramm: prn,refl
+ paradigm: PRTCL_REFL
+ trans_de: <?>
+ trans_en:
 -lexeme
  lex: ruḥqo
  stem: ruḥqo.
@@ -41246,6 +41349,14 @@
  trans_de: Persönlichkeit
  trans_en: personality
 -lexeme
+ lex: šawʕi
+ stem: šawʕi.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: siebzig
+ trans_en: seventy
+-lexeme
  lex: šawʕo
  stem: šawʕo.
  root: šwʕ
@@ -44125,6 +44236,14 @@
  trans_de: Gute Nacht! (ṭəṣbaḥun ʕal xer)
  trans_en: good night! (ṭəṣbaḥun ʕal xer)
 -lexeme
+ lex: təšʕi
+ stem: təšʕi.
+ root: tšʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: neunzig
+ trans_en: ninety
+-lexeme
  lex: təšʕo
  stem: təšʕo.|UNKNOWN.|təšʕ.
  root: tšʕ
@@ -44454,6 +44573,14 @@
  trans_de: Raupe, Wurm, Made
  trans_en: caterpillar, warm, maggot
 -lexeme
+ lex: tleṯi
+ stem: tleṯi.
+ root: tlṯ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: dreißig
+ trans_en: thirty
+-lexeme
  lex: tliṯoyo
  stem: tliṯoyo.|tliṯayto.|tliṯoye.
  root: tlṯy
@@ -44493,6 +44620,14 @@
  paradigm: unchangeable
  trans_de: acht
  trans_en: eight
+-lexeme
+ lex: tmoni
+ stem: tmoni.
+ root: tmn
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: achtzig
+ trans_en: eighty
 -lexeme
  lex: toġo
  stem: toġo.|UNKNOWN.|toġ.
@@ -45686,6 +45821,14 @@
  trans_de: Auto, Autobus, Straßenbahn
  trans_en: car, bus, tram
 -lexeme
+ lex: ṭro
+ stem: ṭro.//ṭər.
+ root: ṭr
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: let; may
+-lexeme
  lex: ṭrunuṣ
  stem: ṭrunuṣ.|UNKNOWN.|ṭrunuṣ.
  root: ṭrnṣ
@@ -45844,6 +45987,14 @@
  paradigm: unchangeable
  trans_de: oh!
  trans_en: oh!
+-lexeme
+ lex: u
+ stem: u.
+ root: ʔ
+ gramm: art,sg,m
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 -lexeme
  lex: uəəəuh
  stem: uəəəuh.
@@ -48700,6 +48851,14 @@
  paradigm: unchangeable
  trans_de: entweder ... oder (yo ... yo)
  trans_en: either ... or (yo ... yo)
+-lexeme
+ lex: yo
+ stem: yo.
+ root: y
+ gramm: cop,3,sg
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 -lexeme
  lex: yoldaṯ/yuldaṯ/yəldaṯ/yildaṯ
  stem: yoldaṯ.//yuldaṯ.//yəldaṯ.//yildaṯ.//naldaṯ.
