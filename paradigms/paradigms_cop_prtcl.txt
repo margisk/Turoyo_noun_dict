@@ -1,4 +1,6 @@
 -paradigm: PRTCL_1
+ -flex: <0>.
+  gramm:
  -flex: <0>.i//<0>.ino//<1>.i//<2>.i//<3>.i//<4>.i
   gramm: 1,sg
  -flex: <0>.ux//<0>.ox//<1>.ux//<1>.ox//<2>.ux//<2>.ox//<3>.ux//<3>.ox//<4>.ux//<4>.ox
@@ -156,4 +158,22 @@
  -flex: <1>.xu
   gramm: 2,pl
  -flex: <1>.ṯe
+  gramm: 3,pl
+
+-paradigm: PRTCL_REFL
+ -flex: .i
+  gramm: 1,sg
+ -flex: .ux//.ox
+  gramm: 2,sg,m
+ -flex: .ax//.əx
+  gramm: 2,sg,f
+ -flex: .e
+  gramm: 3,sg,m
+ -flex: .a
+  gramm: 3,sg,f
+ -flex: .an//.ayna
+  gramm: 1,pl
+ -flex: .ayxu
+  gramm: 2,pl
+ -flex: .ayye
   gramm: 3,pl
