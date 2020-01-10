@@ -3,4 +3,6 @@
   gramm: art,sg,f
  -flex: .u
   gramm: art,sg,m
+ -flex: .a
+  gramm: art,pl
 
