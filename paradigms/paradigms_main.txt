@@ -816,7 +816,7 @@
   gramm: pst,1,sg,f,2sg.f.o
  -flex: .a.i.onolən//.a.i.anne
   gramm: pst,1,sg,f,3pl.o
- -flex: .a.i.onolxu//.a.i.annxu//.a.i.annxun
+ -flex: .a.i.onolxu//.a.i.anxu//.a.i.anxun
   gramm: pst,1,sg,f,2pl.o
  -flex: .a.i.ile
   gramm: pst,3,pl,3sg.m.o
@@ -1152,6 +1152,28 @@
  -flex: ..a.u
   gramm: imv, pl 
   
+ # Imperative + obj./dat. suffixes
+ -flex: ..a.e
+  gramm: imv,sg,3sg.m.o
+ -flex: ..a.a
+  gramm: imv,sg,3sg.f.o
+ -flex: ..a.ən//..a.ene
+  gramm: imv,sg,3pl.o
+ -flex: ..a.li
+  gramm: imv,sg,1sg.o
+ -flex: ..a.lan
+  gramm: imv,sg,1pl.o
+ -flex: ..a.ulle//..a.le
+  gramm: imv,pl,3sg.m.o
+ -flex: ..a.ulla//..a.la
+  gramm: imv,pl,3sg.f.o
+ -flex: ..a.unne//..a.ne
+  gramm: imv,pl,3pl.o
+ -flex: ..a.ulli//..a.li
+  gramm: imv,pl,1sg.o
+ -flex: ..a.ullan//..a.lan
+  gramm: imv,pl,1pl.o
+  
 -paradigm: V_Ip
 
  # Preterite
@@ -1286,7 +1308,7 @@
  -flex: mə..ə.//mə..a.
   gramm: pass,imv,sg
  -flex: mə..e.u//mə..a.u
-  gramm: pass,imv, pl
+  gramm: pass,imv,pl  
   
  # Passive participle
  -flex: ..i.o
