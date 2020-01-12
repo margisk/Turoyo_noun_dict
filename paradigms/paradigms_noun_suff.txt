@@ -18,7 +18,7 @@
   gramm: poss,3,pl
 
 -paradigm: N_POSS_2
- -flex: <2>..ayḏi
+ -flex: <2>.ayḏi
   gramm: poss,1,sg
  -flex: <2>.ayḏux//<2>.ayḏox
   gramm: poss,2,sg,m

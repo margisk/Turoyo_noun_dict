@@ -56,7 +56,7 @@
  trans_en: servant
 -lexeme
  lex: ʕabid//ʕabəd
- stem: ʕabid.//ʕabəd|ʕabidin.//ʕabdin.
+ stem: ʕabid.//ʕabəd.|ʕabidin.//ʕabdin.
  root: ʕbd
  gramm: N,m
  paradigm: N2
@@ -143,8 +143,8 @@
  trans_de: gewöhnlich
  trans_en: usual
 -lexeme
- lex: ʕadu din
- stem: ʕadu din.
+ lex: ʕadu
+ stem: ʕadu.
  root: ʕdw
  gramm: N,m
  paradigm: unchangeable
