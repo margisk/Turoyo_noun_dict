@@ -31,7 +31,7 @@ def collect_paradigms():
     for fname in os.listdir('../paradigms/'):
         if fname.endswith('.txt') and fname.startswith('paradigms'):
             f = open(os.path.join('../paradigms/', fname), 'r',
-            encoding='utf-8-sig')
+                     encoding='utf-8-sig')
             paradigms += f.read() + '\n'
             f.close()
     return paradigms

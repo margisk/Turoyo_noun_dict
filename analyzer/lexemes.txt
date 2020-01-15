@@ -161,6 +161,15 @@
  trans_en: Paris
 
 -lexeme
+ lex: a
+ stem: a.
+ root: ʔ
+ gramm: art,pl
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
+
+-lexeme
  lex: aaa
  stem: aaa.
  root: a
@@ -1104,6 +1113,15 @@
  paradigm: unchangeable
  trans_de: 40 Tage von Dezember bis Januar
  trans_en: 40 days from December until January
+
+-lexeme
+ lex: arbʕi
+ stem: arbʕi.
+ root: rbʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: vierzig
+ trans_en: forty
 
 -lexeme
  lex: arbʕin
@@ -3660,6 +3678,15 @@
  paradigm: N2
  trans_de: Konsul
  trans_en: consul
+
+-lexeme
+ lex: bayn
+ stem: bayn.|bayne.|bayna.|baynoṯ.
+ root: byn
+ gramm: prep
+ paradigm: PREP_bayn
+ trans_de: <?>
+ trans_en: between
 
 -lexeme
  lex: bayraq
@@ -8763,6 +8790,15 @@
  trans_en: to fear
 
 -lexeme
+ lex: e
+ stem: e.
+ root: ʔ
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_de: ja
+ trans_en: yes
+
+-lexeme
  lex: eba
  stem: eba.
  root: b
@@ -11094,7 +11130,7 @@
 
 -lexeme
  lex: ga
- stem: ga
+ stem: ga.
  root: g
  gramm: PRTCL
  paradigm: unchangeable
@@ -14600,6 +14636,15 @@
  paradigm: N2
  trans_de: Jude
  trans_en: jew
+
+-lexeme
+ lex: i
+ stem: i.
+ root: ʔ
+ gramm: art,sg,f
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: <?>
 
 -lexeme
  lex: ibtidaʔiye
@@ -19264,6 +19309,23 @@
  trans_en: address to a male person
 
 -lexeme
+ lex: lo
+ stem: lo.
+ root: l
+ gramm: INTERJ
+ trans_de: nein
+ trans_en: no
+
+-lexeme
+ lex: lo/lə
+ stem: lo.//lə.//l.
+ root: l
+ gramm: neg
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en:
+
+-lexeme
  lex: lotəke
  stem: lotəke.|UNKNOWN.|lotək.
  root: ltk
@@ -19862,7 +19924,7 @@
  stem: .d.y.l.|.d.l.|.d.
  root: dyl
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3l
  trans_de: (an)zeigen, Zeichen machen, Hinweis geben
  trans_en: to show
 
@@ -19940,10 +20002,10 @@
 
 -lexeme
  lex: mad̞ǝlle/mad̞ǝr
- stem: .ḏ̣.y.r.|.ḏ̣.r.
+ stem: .ḏ̣.y.r.|.ḏ̣.r.|.ḏ̣.n.|.ḏ̣.l.
  root: d̞yr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
  trans_en: to put an animal kid under its mother, so that the mother gives milk
 
@@ -20195,7 +20257,7 @@
  stem: .k.l.|.k.
  root: kyl
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3l
  trans_de: messen
  trans_en: to measure
 
@@ -22446,7 +22508,7 @@
  stem: .x.n.|.x.l.
  root: xyn
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3n
  trans_de: verraten, Verrat üben
  trans_en: to betray
 
@@ -23064,10 +23126,10 @@
 
 -lexeme
  lex: mašǝlle/mašǝr
- stem: .š.r.
+ stem: .š.r.|.š.l.|.š.n.
  root: šyr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: Ratschläge geben
  trans_en: to give advice
 
@@ -23076,7 +23138,7 @@
  stem: .š.r.|.š.l.|.š.n.
  root: šyr
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3r
  trans_de: glauben
  trans_en: to believe
 
@@ -23459,10 +23521,10 @@
 
 -lexeme
  lex: maʕǝlle/maʕǝn
- stem: .ʕ.y.n.|.ʕ.n.
+ stem: .ʕ.y.n.|.ʕ.n.|.ʕ.l.
  root: ʕyn
  gramm: V
- paradigm: V_III_2y3n
+ paradigm: V_III_2y_3n
  trans_de: Schmerz machen
  trans_en: to cause pain
 
@@ -23782,10 +23844,10 @@
 
 -lexeme
  lex: maḥǝlle/maḥǝn
- stem: .ḥ.y.n.|.ḥ.n.
+ stem: .ḥ.y.n.|.ḥ.n.|.ḥ.l.
  root: ḥyn
  gramm: V
- paradigm: V_III_2y
+ paradigm: V_III_2y_3n
  trans_de: sehnen
  trans_en: to crave for (ʕal) smb./smth.; to have pity for (ʕal.) smb.
 
@@ -25133,7 +25195,7 @@
  stem: mə.|me.|m.|min.|mən.|men.
  root: m
  gramm: prep
- paradigm: PREP_2
+ paradigm: PREP_me
  trans_de: <?>
  trans_en: from
 
@@ -27086,6 +27148,15 @@
  paradigm: V_II_3r
  trans_de: bewahren, warten
  trans_en: to preserve; to wait
+
+-lexeme
+ lex: mo
+ stem: mo.
+ root: m
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: hundert
+ trans_en: hundred
 
 -lexeme
  lex: mobəl/mbele
@@ -35366,6 +35437,15 @@
  trans_en: prophet
 
 -lexeme
+ lex: ne
+ stem: ne.
+ root: n
+ gramm: cop,3pl
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: 
+
+-lexeme
  lex: neqəbṯonoyo
  stem: neqəbṯonoyo.|neqəbṯonoye.|neqəbṯonoy.
  root: nqb
@@ -35625,6 +35705,15 @@
  paradigm: V_I
  trans_de: beissen
  trans_en: to bite
+
+-lexeme
+ lex: no
+ stem: no.
+ root: n
+ gramm: cop,1,sg
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 
 -lexeme
  lex: nobačiye
@@ -43994,12 +44083,21 @@
 
 -lexeme
  lex: ruḥo
+ stem: ruḥ.
+ root: rwḥ
+ gramm: prn,refl
+ paradigm: PRTCL_REFL
+ trans_de: <?>
+ trans_en:
+
+-lexeme
+ lex: ruḥo
  stem: ruḥo.|rəḥwoṯo.//ruḥoṯe.//rəḥwoṯe.
  root: rwḥ
  gramm: N,f
  paradigm: N2
- trans_de: Seele, Geist, Lebensgeist; der Heilige Geist (ruḥo qadəšto); statt Reflexivpronomen
- trans_en: soul, spirit; the Holy Spirit (ruḥo qadəšto); instead of reflexive pronouns
+ trans_de: Seele, Geist, Lebensgeist; der Heilige Geist (ruḥo qadəšto)
+ trans_en: soul, spirit; the Holy Spirit (ruḥo qadəšto)
 
 -lexeme
  lex: ruḥqo
@@ -45752,7 +45850,7 @@
  stem: sə.|se.|s.|sid.|sət.
  root: s
  gramm: prep
- paradigm: PREP_2
+ paradigm: PREP_se
  trans_de: <?>
  trans_en: at; by; towards
 
@@ -49247,6 +49345,15 @@
  trans_en: to lift; to take off; to cut off; to leave rapidly; to hide; to bury; to catch; to deduct (a sum of money)
 
 -lexeme
+ lex: tleṯi
+ stem: tleṯi.
+ root: tlṯ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: dreißig
+ trans_en: thirty
+
+-lexeme
  lex: tliṯoyo
  stem: tliṯoyo.|tliṯayto.|tliṯoye.
  root: tlṯy
@@ -49290,6 +49397,15 @@
  paradigm: unchangeable
  trans_de: acht
  trans_en: eight
+
+-lexeme
+ lex: tmoni
+ stem: tmoni.
+ root: tmn
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: achtzig
+ trans_en: eighty
 
 -lexeme
  lex: tmǝġle/tomǝġ
@@ -49886,6 +50002,15 @@
  trans_en: female goat from one to two years that has not given birth yet
 
 -lexeme
+ lex: təšʕi
+ stem: təšʕi.
+ root: tšʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: neunzig
+ trans_en: ninety
+
+-lexeme
  lex: təšʕo
  stem: təšʕo.|UNKNOWN.|təšʕ.
  root: tšʕ
@@ -49992,6 +50117,15 @@
  paradigm: unchangeable
  trans_de: oh!
  trans_en: oh!
+
+-lexeme
+ lex: u
+ stem: u.
+ root: ʔ
+ gramm: art,sg,m
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 
 -lexeme
  lex: uf
@@ -52569,6 +52703,15 @@
  trans_en: edible roots plants
 
 -lexeme
+ lex: xəd/xud
+ stem: xəd.|xud.|xtoṯ.|xoṯ.|xədwoṯ.
+ root: xd
+ gramm: prep
+ paradigm: PREP_xud
+ trans_de: wie
+ trans_en: like
+
+-lexeme
  lex: xədma/xəzma
  stem: xədma.//xəzma.|xədmat.//xəzmat.
  root: xdm
@@ -53476,6 +53619,15 @@
  paradigm: unchangeable
  trans_de: entweder ... oder (yo ... yo)
  trans_en: either ... or (yo ... yo)
+
+-lexeme
+ lex: yo
+ stem: yo.
+ root: y
+ gramm: cop,3,sg
+ paradigm: unchangeable
+ trans_de:
+ trans_en:
 
 -lexeme
  lex: yoldaṯ/yuldaṯ/yəldaṯ/yildaṯ
@@ -58276,6 +58428,15 @@
  trans_en: boiled, cooked
 
 -lexeme
+ lex: šawʕi
+ stem: šawʕi.
+ root: šwʕ
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: siebzig
+ trans_en: seventy
+
+-lexeme
  lex: šawʕo
  stem: šawʕo.
  root: šwʕ
@@ -62019,6 +62180,15 @@
  trans_en: last year
 
 -lexeme
+ lex: əšti
+ stem: əšti.
+ root: št
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: sechzig
+ trans_en: sixty
+
+-lexeme
  lex: əšto
  stem: əšto.
  root: št
@@ -62119,7 +62289,7 @@
 
 -lexeme
  lex: ʕabid//ʕabəd
- stem: ʕabid.//ʕabəd|ʕabidin.//ʕabdin.
+ stem: ʕabid.//ʕabəd.|ʕabidin.//ʕabdin.
  root: ʕbd
  gramm: N,m
  paradigm: N2
@@ -62208,8 +62378,8 @@
  trans_en: usual
 
 -lexeme
- lex: ʕadu din
- stem: ʕadu din.
+ lex: ʕadu
+ stem: ʕadu.
  root: ʕdw
  gramm: N,m
  paradigm: unchangeable
@@ -64789,6 +64959,15 @@
  trans_en: hoarse, bad-sounding singing; donkey's cry
 
 -lexeme
+ lex: ʕəsri
+ stem: ʕəsri.
+ root: ʕsr
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zwanzig
+ trans_en: twenty
+
+-lexeme
  lex: ʕətab
  stem: ʕətab.|UNKNOWN.|ʕətab.
  root: ʕdb
@@ -65705,6 +65884,15 @@
  paradigm: N_mf
  trans_de: sauer
  trans_en: sour
+
+-lexeme
+ lex: ḥamši
+ stem: ḥamši.
+ root: ḥmš
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: fünfzig
+ trans_en: fifty
 
 -lexeme
  lex: ḥamšo
@@ -70726,6 +70914,15 @@
  paradigm: V_I_3y
  trans_de: 1) lassen (mod), 2) verlassen, zurücklassen, übrig lassen 3) (lebe) kränken, ärgern, 4) (me-ruḥe) schonen, 5) ablassen (men-) (intr.); 6) to leave (smth. somewhere in peace/alone) (?)
  trans_en: to let; to leave; to abandon
+
+-lexeme
+ lex: ṭro
+ stem: ṭro.//ṭər.
+ root: ṭr
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de: <?>
+ trans_en: let; may
 
 -lexeme
  lex: ṭrunuṣ

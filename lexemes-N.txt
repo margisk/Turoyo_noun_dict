@@ -9246,7 +9246,6 @@
  paradigm: N2
  trans_de: Gebetswaschung
  trans_en: ablution
- stem: 
 -lexeme
  lex: dasto/dəsto
  stem: dasto.//dəsto.|daste.//dəste.
@@ -16078,7 +16077,7 @@
  gramm: PRN
  paradigm: unchangeable
  trans_de: du
- trans_en you (sg.)
+ trans_en: you (sg.)
 -lexeme
  lex: hatika/hatike
  stem: hatika.//hatike.|hatikat.|hatik.//hatik.

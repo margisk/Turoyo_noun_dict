@@ -114,7 +114,7 @@
  lex: dfn
  stem: .d.f.n.|.d.f.l.
  root: dfn
- gramm V
+ gramm: V
  paradigm: V_II_3n
  trans_en: verlieren, begraben
  trans_en: to lose; to bury
@@ -3803,7 +3803,7 @@
  trans_en: to behave in a noble manner
 -lexeme
  lex: makramle/makrəm
- stem; .k.r.m
+ stem: .k.r.m
  root: krm
  gramm: V
  paradigm: V_III
