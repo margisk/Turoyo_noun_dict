@@ -385,7 +385,6 @@ zaynal
 eee
 mam
 mann
-msəkke
 oṯət
 zəmriwo
 076
@@ -439,7 +438,6 @@ səsyaṯṯe
 itux
 izolux
 kayise
-msəkle
 qambar
 ʕənwe
 085
@@ -634,7 +632,6 @@ mḏ
 wayno
 xliṯo
 zaʕfaran
-zbəṭṭe
 zəyudo
 škur
 šəqliwo
@@ -698,7 +695,6 @@ zmoro
 žmira
 ḥamməšmo
 ḥurmayḏi
-ṭləbbe
 163
 164
 165
@@ -732,10 +728,8 @@ yaḥqo
 192
 47
 59
-ftəḥḥe
 greʕayḏe
 gtowe
-hǧəmme
 kḥozət
 kṯəwle
 mat
@@ -838,7 +832,6 @@ zaṭan
 abnayḏe
 aḥunonayḏi
 bakkoye
-grəšše
 hawət
 ifo
 kəwyo
@@ -1283,6 +1276,7 @@ wo
 xalye
 xile
 čaġawo
+šapəʕ
 šuqalwo
 əmmiwayna
 ən
@@ -1303,6 +1297,7 @@ bəro
 daʕərno
 dkoṯani
 gale
+gaḥəx
 gdəʕrina
 hawili
 howat
@@ -1743,6 +1738,7 @@ ytaw
 ʕaynilḥayat
 ʕumri
 ʕərnəs
+ḏaʕəf
 ḥabušawo
 ḥasno
 ḥayayḏe
@@ -1910,9 +1906,9 @@ maʕəlṯo
 mbeli
 mkamelan
 mofaqqe
-msəkla
 məbliwonne
 məštaʕetuwo
+naḥənno
 nəqlinawo
 olmassa
 qaṭoʕe
@@ -1920,6 +1916,7 @@ qumašat
 qṭoʕo
 ritter
 rišox
+rəqḏiwo
 safarbarlək
 saroḥano
 səb
@@ -2431,7 +2428,6 @@ mhawarre
 mhirole
 mhərole
 mobela
-mosək
 mšawarre
 mšaḥalle
 mšiḥoyuṯo
@@ -2439,8 +2435,6 @@ mšt
 məblina
 məhaǧər
 məqqayəs
-məskiwo
-məskənne
 məštaʕiwayna
 məǧləsayḏe
 mḥase
@@ -2460,7 +2454,6 @@ pəṭrəs
 qamaytayḏe
 qatuno
 qatəl
-qləʕʕe
 qopya
 qšiʕi
 qəbolo
@@ -2470,7 +2463,6 @@ qəṭlili
 qṭilole
 qṭilənne
 qṭiwolle
-qṭəʕʕe
 rabayḏi
 rabuṯox
 rayyəsi
@@ -2510,6 +2502,8 @@ zwəlle
 čičak
 ġbin
 ġbino
+šapiʕi
+šopəʕ
 šoqanno
 šqiwole
 šuġli
@@ -2723,7 +2717,6 @@ moṣalle
 moṣele
 mqarawle
 mqatele
-msəkli
 mustaflət
 muxabarat
 mzaballe
@@ -2768,7 +2761,6 @@ qləʕwolle
 qədošo
 qṭiwole
 ri
-rḥəmme
 salmo
 saləqina
 sar
@@ -2806,7 +2798,6 @@ zənǧirawo
 šarif
 šawṯayḏan
 šenayo
-šləḥḥe
 šqilala
 šqiwolle
 šqulux
@@ -2827,7 +2818,6 @@ zənǧirawo
 ʕamse
 ʕitayo
 ʕubarwo
-ʕwədde
 ḥanno
 ḥaruli
 ḥaruto
@@ -2838,6 +2828,7 @@ zənǧirawo
 ḥaǧiko
 ḥaṯnayḏe
 ḥetu
+ḥfəlle
 ḥnan
 ḥoṯayxu
 ḥuwle
@@ -3199,7 +3190,6 @@ zuher
 šaḥən
 šboṭ
 šloqo
-šməṭṭe
 šqulox
 šwaḥṣar
 šġolo
@@ -3477,7 +3467,6 @@ kmaqbalno
 kmaqbəl
 kmaǧreno
 kmaḥkən
-kmosək
 knəflo
 kobəxyo
 kodəʕri
@@ -3587,7 +3576,6 @@ mkasyo
 mlaʕele
 mle
 moqaḏle
-msəklele
 mtane
 musəka
 mšadallele
@@ -3603,8 +3591,6 @@ məfqat
 məfqənne
 məftakrət
 mərade
-məskina
-məskinawo
 mətfakarre
 mətyaqanne
 mətʕadanwo
@@ -3951,6 +3937,7 @@ gamči
 garšuni
 gawonoye
 gawruṯayḏe
+gaḥəxno
 gbode
 gbəxyo
 gdamṭən
@@ -4193,8 +4180,6 @@ mtaneno
 mtaxalle
 mtiḥan
 murəke
-musakle
-musakwo
 muxaləf
 muxṭariye
 mwaqqat
@@ -4217,9 +4202,6 @@ mənyaṯi
 məqḏiwo
 mərdənoyo
 mərwayle
-məski
-məskiwole
-məskowalle
 məstaqbəl
 mətfakrat
 mətyaqən
@@ -4404,6 +4386,7 @@ zəmmu
 šakar
 šalmuṯo
 šaməšuṯo
+šapiʕina
 šarḥ
 šawʕiyat
 šawṯoṯo
@@ -4433,6 +4416,7 @@ zəmmu
 žənəkaṯe
 ǧanninar
 ǧasara
+ǧġilənne
 ǧġəlina
 əmmiwayla
 əmmiwaynanne
@@ -4688,7 +4672,6 @@ duʕanno
 duʕriwo
 dwaṣli
 dwəṣlali
-dwəṣṣe
 dəhniṯo
 dəkumo
 dəkṯaṯṯe
@@ -4722,6 +4705,7 @@ garwonawo
 gawoye
 gaxəx
 gazetat
+gaḥixi
 gboxən
 gbuxyo
 gdawṣallox
@@ -4774,6 +4758,7 @@ goge
 gorayḏe
 gorone
 gowanno
+goḥəx
 gqorən
 gqoṭannolux
 gquṭelux
@@ -5115,8 +5100,6 @@ mrabenawo
 msalanwo
 msaǧeli
 msikoye
-msikənne
-msəklan
 mtasrəḥ
 mtaʕmažla
 mtili
@@ -5210,6 +5193,7 @@ nišayḏi
 niʕamat
 nobačči
 norsborg
+noḥanno
 noṭər
 nqili
 nqəlle
@@ -5484,7 +5468,6 @@ zəwoġo
 ǧbərle
 ǧeməʕano
 ǧina
-ǧləṭṭe
 ǧriḥo
 ələm
 əmmənwanne
@@ -6581,6 +6564,7 @@ garwonayḏan
 gawruṯaṯe
 gawrət
 gawənno
+gaḥixo
 gaḥko
 gbaʕno
 gbonən
@@ -6792,6 +6776,7 @@ jan
 kaban
 kabrit
 kad
+kafini
 kahdine
 kahrabiyaṯe
 kakke
@@ -7116,7 +7101,6 @@ malyun
 maləffe
 maləmla
 maləmme
-malṣəyo
 mamteno
 maməṯṯe
 mamṭannanne
@@ -7327,8 +7311,6 @@ mofaqqalli
 mohartayḏe
 moharṯaṯe
 morən
-mosakna
-mosakno
 mosaqqe
 mote
 moṭatliyo
@@ -7346,18 +7328,12 @@ mraǧalle
 mraǧele
 msabbaq
 msabrone
-msak
 msakri
 msaktarli
-msaku
-msikole
 msoko
 msəkiwonne
-msəklox
 msəkole
 msəkowalle
-msəkwolən
-msəkxu
 msəkənne
 mtalmaḏḏe
 mtamo
@@ -7422,8 +7398,6 @@ mərhovaniyayḏi
 mərwalle
 mərwolle
 məskiwonne
-məskola
-məskowa
 məsləmiye
 məstaflət
 məstahlat
@@ -7960,6 +7934,7 @@ zʕərto
 ġəyoro
 šaməʕatla
 šanṣ
+šapəʕno
 šaqwoṯe
 šarire
 šarp
@@ -8014,6 +7989,7 @@ zʕərto
 šəmaliye
 šəmʕən
 šəmṭoye
+šəpʕina
 šəqlat
 šəqlatla
 šəqliwola
@@ -10475,7 +10451,6 @@ frise
 frixo
 frus
 frəqina
-frəxxe
 ftəḥallan
 ftəḥile
 ftəḥle-mqapaṭle
@@ -10848,6 +10823,9 @@ gəršiwonne
 gəwriwo
 gəzzala
 gəšər
+gəḥxi
+gəḥxinawo
+gəḥxiwo
 gʕobanno
 gʕəbanno
 gʕəbrat
@@ -11027,6 +11005,7 @@ kafre
 kafroyo
 kafsure
 kafšənne
+kafənno
 kahrabiyat
 kahrabiyayo
 kahrkat
@@ -11190,7 +11169,6 @@ kməmḥe
 kməqroyo
 kməqṭolo
 kmərxinala
-kməskile
 kmətraǧeno
 kmətyaqnat
 kməžġəlina
@@ -11227,7 +11205,6 @@ koboṭəl
 kobəṭli
 kodomax
 kofotəl
-koftəḥḥe
 kofərmile
 kohawi
 kohawən
@@ -11393,7 +11370,6 @@ kqəṭlile
 krawxi
 krihe
 kroḥam
-krəzze
 ksamme
 ksoḥe
 ksoḥən
@@ -11612,7 +11588,6 @@ ləḏʕiwo
 ləḏḏe
 ləṯman
 lḥuḏayye
-lṭəʕʕe
 m-ani
 m-awo
 m-aṯe
@@ -12212,7 +12187,6 @@ mohalli
 mohannola
 moməlle
 mopaqli
-mosakni
 mosaqne
 motawla
 motawleli
@@ -12429,7 +12403,6 @@ məsakno
 məsbaḥayḏe
 məskenani
 məskenawo
-məskile
 məskine
 məsləm
 məsqalle
@@ -12652,7 +12625,6 @@ nisal
 nisane
 niša
 niḥe
-nkətte
 noman
 norrköping
 noye
@@ -12662,6 +12634,7 @@ nošə
 noḥalle
 noṭatani
 noṯon
+npəṣle
 nqile
 nqoḥo
 nsiwin
@@ -12680,7 +12653,6 @@ nuṭarwo
 nuṭarwoli
 nvinayḏan
 nvinaṯṯe
-nwəḥḥe
 nxiratayḏux
 nxiroyayḏi
 nšoqo
@@ -12979,6 +12951,8 @@ rabṯaṯe
 rahaṭto
 rahəṭina
 rapori
+raqiḏi
+raqəḏ
 raskən
 rasmiye
 rav
@@ -13014,6 +12988,7 @@ rišayḏa
 riʕa
 rmade
 roḥamwaynux
+rqaḏu
 rqiʕo
 rsim
 ruhayna
@@ -13034,6 +13009,7 @@ rəmune
 rəmzo
 rəmḥe
 rənne
+rəqḏi
 rəwxina
 rəwxinawo
 rəyaq
@@ -13094,7 +13070,6 @@ selim
 semoloye
 seni
 shabo
-shəḏḏe
 siirt
 simiwa
 siyamwo
@@ -13558,7 +13533,6 @@ zʕiǧ
 ġbənina
 ġiraniyano
 ġlib
-ġləbbe
 ġramat
 ġriġoriyos
 ġurm
@@ -13578,6 +13552,7 @@ zʕiǧ
 šamʕə
 šamʕənano
 šanṯi
+šapiʕo
 šappərza
 šaqṣano
 šarafayḏe
@@ -13677,6 +13652,8 @@ zʕiǧ
 šəngal
 šəngali
 šənoṯanək
+šəpʕi
+šəpʕo
 šəqlinala
 šəqliwonne
 šəqlola
@@ -13883,6 +13860,7 @@ zʕiǧ
 ʕelal
 ʕeloyani
 ʕesəl
+ʕfalle
 ʕiraq
 ʕisaqtayḏi
 ʕisaqṯayo
@@ -13941,6 +13919,7 @@ zʕiǧ
 стих
 ḍayfayḏux
 ḏawq
+ḏaʕifo
 ḏəyoʕo
 ḏəʕfiye
 ḏəʕoyo
@@ -14117,6 +14096,7 @@ zʕiǧ
 ṣayome
 ṣaṭər
 ṣeroyo
+ṣfəlle
 ṣilaḥayḏe
 ṣluṯayḏan
 ṣluṯayḏi
@@ -14202,7 +14182,6 @@ zʕiǧ
 ṭaʕalle
 ṭaʕmir
 ṭbiʕ
-ṭbəʕʕe
 ṭlablux
 ṭlibe
 ṭləbballe
@@ -18261,7 +18240,6 @@ aləḥuṯo
 alʕaqəl
 alḥamdula
 alḥaṣlo
-alṣay
 amaaaaaaan
 amaaaaaan
 amalayḏan
@@ -19115,7 +19093,6 @@ bladani
 blade
 bleliyo
 blöde
-bləšše
 bnaynošo
 bnoṯayḏa
 bnoṯayḏan
@@ -19166,7 +19143,6 @@ briṯaṯi
 broxo
 broyəš
 brr
-brəkke
 brəkṯayḏan
 bsaimo
 bsem
@@ -19308,7 +19284,6 @@ bəʕayayo
 bəʕayaṯe
 bəʕaye
 bəʕurkat
-bəʕǧətle
 bəḥwore
 bəṭliwa
 bəṭliwo
@@ -19460,6 +19435,7 @@ dawṣole
 dawṣoli
 daxilayḏux
 daxle
+dayalli
 dayfayḏ
 dayfe
 daymoniṯo
@@ -19732,7 +19708,6 @@ dwaṣulle
 dwiṣo
 dwiṣoyo
 dwoqayḏa
-dwərre
 dwəṣilan
 dwəṣlalux
 dwəṣola
@@ -19837,7 +19812,6 @@ dəṯṯeyo
 dʕambar
 dʕartayḏi
 dʕarto
-dʕəkke
 dʕəlilən
 dʕərto
 dḥilo
@@ -20072,12 +20046,10 @@ frəqno
 frəqto
 frəqənne
 frəssalle
-frəsse
 frəšno
 frəšto
 frəḏle
 frəḥle
-frəṭṭe
 fseq
 fsoso
 ftal
@@ -20211,7 +20183,6 @@ fṭema
 fṭiṣina
 fṭiṣo
 fṭəḥole
-fṭəṣṣe
 fṯiṯo
 gabalake-sarṣohr
 gabayux
@@ -20296,6 +20267,7 @@ gazeta
 gazetesi
 gaziantep
 gaḥaxto
+gaḥixat
 gaḥəxina
 gbe
 gbela
@@ -21103,9 +21075,6 @@ gmərsamno
 gmərto
 gmərwalle
 gmərwinale
-gməsakno
-gməskatwola
-gməski
 gməsqinale
 gməstaʕmli
 gmətfakanno
@@ -21232,6 +21201,9 @@ gowe
 goweno
 gozləkayḏi
 gošt
+goḥaxno
+goḥaxwa
+goḥaxwo
 gqawrile
 gqorat
 gqorela
@@ -21382,6 +21354,9 @@ gušgušyo
 gušre-va
 guʕitkayḏa
 guʕitkayḏi
+guḥaxwo
+guḥxi
+guḥxət
 gwargsano
 gwele
 gwetayo
@@ -21939,6 +21914,7 @@ gəḏlənwa
 gəḏolo
 gəḏono
 gəḏune
+gəḥxat
 gəḥxoniṯo
 gəṣṣayṣ
 gʕali
@@ -22545,6 +22521,8 @@ kafar-
 kafar-ʕəllab
 kaffa
 kaffiye
+kafinina
+kafinono
 kafnawo
 kafne
 kafro-
@@ -22916,7 +22894,6 @@ kmakiwi
 kmaklalle
 kmakle
 kmaklelən
-kmakrəm
 kmakuno
 kmakəl
 kmakənno
@@ -23213,8 +23190,6 @@ kmublatle
 kmublile
 kmuhanno
 kmuklulle
-kmusakla
-kmusakle
 kmuḥalle
 kmuḥatli
 kmuḥela
@@ -23273,9 +23248,6 @@ kməqṭoli
 kməqṭoʕi
 kməqṭoʕo
 kməqṭəʕ
-kməskila
-kməskinale
-kməskitulli
 kməstahlo
 kməstahəl
 kməstaʕmalne
@@ -23357,7 +23329,6 @@ knəflitu
 knəqlinale
 knəšyayto
 knəšyoyo
-knəšše
 knəḥri
 knəṭrilox
 knəṭrilxu
@@ -23423,7 +23394,6 @@ kogəhxo
 kogəxkat
 kogəxxo
 kohawino
-kohdəffe
 kokale
 kokaməl
 kokayiwo
@@ -23765,6 +23735,7 @@ komšayalle
 komšaylat
 komšaylili
 komšaḥni
+komə
 koməblat
 koməblilan
 koməblili
@@ -23810,7 +23781,6 @@ koməqṭoʕo
 komərla
 komərxinala
 komərxət
-koməskat
 koməsqiwayle
 koməstahlo
 koməstaqbli
@@ -24198,7 +24168,6 @@ ksuyamme
 ksuḥeno
 ksyomano
 ksəyamnole
-ksəḥḥe
 ktaw
 ktawri
 ktawrile
@@ -24450,6 +24419,7 @@ kəfhəmle
 kəflataṯṯe
 kəflawat
 kəflayḏan
+kəfnina
 kəforo
 kəfto
 kəhno
@@ -25112,7 +25082,6 @@ loxu
 loḏəʕ
 loṯe
 lqulux
-lqəṭṭe
 lsar
 ltihab
 ltomo
@@ -25570,7 +25539,6 @@ malḥaqliyo
 malḥaqnolxu
 malḥeqəlle
 malḥəmone
-malṣele
 malṣəye
 mamaləkani
 mamiṣalla
@@ -26084,7 +26052,6 @@ maskaniye
 masketo
 maskino
 maslamlilayo
-maslammallan
 maslammanne
 maslamwolle
 maslaqqalli
@@ -26484,7 +26451,6 @@ maǧrelux
 maǧrewa
 maǧrina
 maǧwəha
-maǧġallallan
 maʔḏene
 maʕabratle
 maʕabrila
@@ -26831,7 +26797,6 @@ maṣərla
 maṣərlan
 maṣərli
 maṣərnən
-maṣərralli
 maṣərrallux
 maṣərtoyo
 maṣərwolle
@@ -27521,7 +27486,6 @@ mlowa
 mloye
 mloyo
 mlən
-mləxxe
 mləṯto
 mmalḥiwole
 mmamṭe
@@ -27646,8 +27610,6 @@ moraxla
 moroṯayḏan
 morənaṯe
 morəq
-mosakla
-mosaknola
 mosaknowolox
 mosaqla
 mosaqleli
@@ -27857,12 +27819,9 @@ mraṣtiqi
 msahanno
 msaharre
 msahlo
-msaklan
 msaktalle
 msaktalli
 msaktarre
-msakulle
-msakunne
 msalaḥḥe
 msallamme
 msalmatlanne
@@ -27892,26 +27851,14 @@ msaʕadaṯxu
 msaḥarto
 msaḳanne
 mside
-msikilan
 msikoyo
-msikulle
 msikət
 msokaṯṯe
 msəkallan
 msəkalle
 msəkiwo
-msəklala
-msəklali
-msəklela
-msəklelan
-msəklelox
-msəklilox
-msəkloxli
-msəklux
 msəkoye
 msəkto
-msəkwolan
-msəkwole
 mtabarwa
 mtabqiwole
 mtabro
@@ -28037,8 +27984,6 @@ muraqabaṯṯe
 muro
 murən
 musaʕəd
-muskile
-muskitulle
 muso
 mustafa
 mustaʕəd
@@ -28348,7 +28293,6 @@ mšiḥoyto
 mštiye
 mšəḥto
 mžaʕwaqla
-mžədde
 mžədto
 mǧadalaṯṯe
 mǧadelu
@@ -28618,19 +28562,9 @@ məsafər
 məsafərparwar
 məsbaḥaṯi
 məsinayḏax
-məskat
-məskatwoli
 məskenano
 məsketaṯe
-məskila
-məskinala
-məskinalle
-məskinalox
 məskinawolle
-məskituwo
-məskowala
-məskowalən
-məskət
 məsləmen
 məsnaqle
 məsnoqatli
@@ -29391,6 +29325,7 @@ naḥnu
 naḥodani
 naḥodo
 naḥulo
+naḥən
 naḥətile
 naḥətlonele
 naḥətwoli
@@ -29400,7 +29335,6 @@ naṣarət
 naṣibayḏi
 naṣiḥ
 naṭar
-naṯər
 nbarex
 nbiyuṯo
 nbiyyani
@@ -29471,6 +29405,7 @@ nofaqwano
 nofeli
 nofewayli
 nopalwo
+nopaḥwa
 nopəl
 nopəq
 noqalwayno
@@ -29484,6 +29419,8 @@ noşawo
 nošayḏanne
 nošaṯxun
 noše-hatu
+noḥanna
+noḥanne
 noḥannox
 noḥarwayle
 noḥtutəlli
@@ -29491,6 +29428,9 @@ noḥəttər
 noṭalle
 noṭannox
 noṭurani
+npiṣole
+npəḥle
+npəṣla
 nqalu
 nqilo
 nqilənne
@@ -29504,10 +29444,7 @@ nquwwolle
 nqəlla
 nqərre
 nqəwto
-nqəšše
-nqəḥḥe
 nqəṣwolle
-nqəṣṣe
 nsay
 nsaʕədək
 nsebin
@@ -29515,7 +29452,7 @@ nsibən
 nteq
 ntiš
 ntošano
-ntəšše
+ntəlle
 nufaqlux
 nukaḥla
 nukfuṯayḏe
@@ -29545,6 +29482,7 @@ nuxrayṯo
 nuxroyayḏa
 nuyaḥwolle
 nušamnolxu
+nuḥannole
 nuḥarwolle
 nuḥarwolən
 nuḥrila
@@ -29676,7 +29614,6 @@ nḥərənne
 nḥərənxu
 nṣale
 nṣibən
-nṣəbbe
 nṣəwin
 nṭaru
 nṭərlan
@@ -29857,6 +29794,7 @@ patriġin
 payko
 payruz
 payǧambar
+payəd
 payədla
 payṭonatanək
 pačəkatani
@@ -30482,7 +30420,6 @@ qšoʕayḏan
 qšəʕila
 qšəʕina
 qšəʕiwo
-qšəʕʕe
 qəblo
 qəbolayḏan
 qəbrəsiye
@@ -30586,7 +30523,6 @@ qəṭlənwanne
 qəṭriwole
 qəṭrowa
 qəṭʕiwonne
-qəṭʕətle
 qḏ
 qḏilo
 qḏolət
@@ -30827,7 +30763,6 @@ roḥna
 roḥəṭ
 rqoḏo
 rralle
-rsəmme
 rsəmto
 rue
 ruhatwo
@@ -30836,6 +30771,7 @@ ruhi
 rumi
 rumḥayḏa
 ruqiyayo
+ruqḏiwo
 ruwaxwo
 rux
 ruġze
@@ -30878,7 +30814,10 @@ rəmzano
 rəmḥanək
 rənǧiye
 rənǧəke
+rəqḏina
+rəqḏinawo
 rəqḏiwonne
+rəqḏowa
 rəsse
 rəsṯəmbaġəl
 rət
@@ -32178,7 +32117,6 @@ xbariyat
 xdoṯəx
 xdəmalli
 xdəmilan
-xdəmme
 xerik
 xero
 xeryo
@@ -32197,7 +32135,6 @@ xliṭono
 xliṯe
 xliṯi
 xləqto
-xləṭṭe
 xno
 xodamme
 xodumano
@@ -32219,7 +32156,6 @@ xrabe
 xristiyono
 xrize
 xrəmiwonne
-xrəmme
 xrəqwolle
 xrəzno
 xt-
@@ -32658,6 +32594,7 @@ zolumawo
 zomarwa
 zomarwayle
 zopatani
+zoqalle
 zorika
 zovannox
 zowanne
@@ -32669,6 +32606,8 @@ zoyər
 zoġunani
 zoġunaṯṯe
 zqallanyo
+zqəllan
+zqəlli
 zqərre
 zrav
 zrediyat
@@ -33003,6 +32942,7 @@ zʕiǧina
 šanṭar-ḥafa
 šanṭəro
 šanṯe
+šapiʕinanne
 šapoʕo
 šaqamayḏe
 šaqwoṯi
@@ -33191,6 +33131,8 @@ zʕiǧina
 šoḥalle
 šoḥallux
 šoḥən
+špaʕ
+špaʕu
 šqali
 šqalle
 šqalulli
@@ -33383,6 +33325,9 @@ zʕiǧina
 šəngale
 šənoyo
 šənqiwonne
+šəpʕat
+šəpʕile
+šəpʕət
 šəqalwo
 šəqanno
 šəqayəq
@@ -33600,14 +33545,19 @@ zʕiǧina
 ǧwanyayo
 ǧzire
 ǧönköping
+ǧġale
 ǧġarataṯṯe
 ǧġarayḏan
 ǧġarayḏi
 ǧġaraṯxu
 ǧġaraṯṯe
 ǧġariyayḏi
+ǧġilola
 ǧġinanne
+ǧġəlla
+ǧġəlle
 ǧġəlnola
+ǧġənno
 ǧə
 ǧəbrat
 ǧəbrayil
@@ -34178,6 +34128,7 @@ zʕiǧina
 ʕobarwa
 ʕobo
 ʕobḏinan
+ʕofalxu
 ʕofatli
 ʕofelan
 ʕofelux
@@ -34209,6 +34160,7 @@ zʕiǧina
 ʕud
 ʕudax
 ʕuddaṯṯe
+ʕufalli
 ʕufatli
 ʕufelən
 ʕufoyo
@@ -34258,7 +34210,6 @@ zʕiǧina
 ʕzəlle
 ʕzəmle
 ʕǧam
-ʕǧənne
 ʕəbarwo
 ʕəbbarat
 ʕəbbarayo
@@ -34345,6 +34296,7 @@ zʕiǧina
 ḏkərli
 ḏkərlox
 ḏokarwalle
+ḏoʕəf
 ḏukarnox
 ḏəbbat-m
 ḏəbbeṭin
@@ -34605,6 +34557,8 @@ zʕiǧina
 ḥfarlux
 ḥfele
 ḥfire
+ḥfəllele
+ḥfəlli
 ḥfərralli
 ḥfərto
 ḥfərənne
@@ -34625,7 +34579,6 @@ zʕiǧina
 ḥkime
 ḥkoyayḏi
 ḥkumayo
-ḥkəmme
 ḥkəyaṯe
 ḥlala
 ḥlale
@@ -34658,6 +34611,8 @@ zʕiǧina
 ḥnəqina
 ḥnəqno
 ḥnəqwaylelux
+ḥofanni
+ḥofanno
 ḥofrina
 ḥolawo
 ḥolayna
@@ -34846,7 +34801,6 @@ zʕiǧina
 ḥəmyonaḏe
 ḥəmṣe-qarʕone
 ḥənniyaṯe
-ḥənqətle
 ḥəqle
 ḥəquqaṯṯe
 ḥərawlox
@@ -35036,6 +34990,7 @@ zʕiǧina
 ṣeniyayḏi
 ṣevket
 ṣforo
+ṣfəllela
 ṣifa
 ṣilah
 ṣito
@@ -35079,6 +35034,7 @@ zʕiǧina
 ṣparne
 ṣpaḥi
 ṣpiḥi
+ṣqəṭla
 ṣridili
 ṣroḏaṯṯe
 ṣtambəl
@@ -35104,11 +35060,11 @@ zʕiǧina
 ṣurṭaṯi
 ṣuwaʕwo
 ṣuxrutu
+ṣuḥninawole
 ṣuṭrayḏa
 ṣwaḥṯayḏox
 ṣwiʕi
 ṣwoʕaṯṯe
-ṣwəʕʕe
 ṣxare
 ṣxarunne
 ṣxirila
@@ -35404,7 +35360,6 @@ zʕiǧina
 ṭəkso
 ṭəlabniyo
 ṭəlbinawolle
-ṭəlbətle
 ṭəlolano
 ṭəmrituwo
 ṭəmriwonne

@@ -285,7 +285,7 @@
  gramm: PRTCL
  paradigm: unchangeable
  trans_de: etwa? wohl?; etwas Ersaunliches
- trans_en: <?>; something unusual
+ trans_en: [?]; something unusual
 -lexeme
  lex: ʕaǧaba
  ste: ʕaǧaba.
@@ -334,7 +334,7 @@
  paradigm: N2
  trans_de: Schmutz
  trans_en: dirt
--lexeme:
+-lexeme
  lex: ʕaǧeb//ʕaǧayəb//ʕaǧib
  stem: ʕaǧeb.//ʕaǧayəb.//ʕaǧib.
  root: ʕǧb
@@ -1003,7 +1003,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Distel (die stachligen Blätter werden entfernt, die Rippen werden gekocht und gegessen, mit Eiern und Butter)
- trans_en: thistle (prickly leaves are removed, <...> are cooked and eaten with eggs and butter
+ trans_en: thistle (prickly leaves are removed, [...] are cooked and eaten with eggs and butter
 -lexeme
  lex: ʕarnoṣo
  stem: ʕarnoṣo.|ʕarnoṣe.|ʕarnoṣ.
@@ -1753,7 +1753,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Traggabel für den Esel 
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ʕərʕər
  stem: ʕərʕər.
@@ -2167,7 +2167,7 @@
  root: ʕmm
  gramm: N,m
  paradigm: N2
- trans_de: <?>
+ trans_de: [?]
  trans_en: world, common, general (?)
 -lexeme
  lex: ʕunwo
@@ -2463,7 +2463,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Strick im Joch, mit dem die beiden Seitenhölzer rechts und links vom Halse des Zugochsen unten zugeschnürt werden
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: adšato/ačato
  stem: adšato.//ačato.
@@ -2968,7 +2968,7 @@
  paradigm: unchangeable
  trans_de: Gott ist sachwalter, Gott steh mir bei, so wahr uns Gott helfe (alla wakil); um Gottes Willen! (ʕweḏ/ʕweḏət alla); Gott grüße euch! (ḥayaykum alla!); Gott ist der Schöpfer; fig: nackt und bloß, wie ihn Gott geschaffen hat (xaləq alla)
  trans_en: in God we trust, may God help me, help me God (alla wakil), for God's sake (ʕweḏ/ʕweḏət alla); greetings! (ḥayaykum alla!); God is the creator; fig: naked and bare as God created him (xaləq alla)
--lexeme 
+-lexeme
  lex: allahu
  stem: allahu.
  root: ʔlh
@@ -3140,7 +3140,7 @@
  lex: an
  stem: an
  root: n
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: der allererste (an bərənǧi)
  trans_en: first-rate (an bərənǧi)
@@ -3212,7 +3212,7 @@
  lex: anni
  stem: anni.
  root: ʔn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: dass ich
  trans_en: that I
@@ -4099,10 +4099,10 @@
  lex: baʔawla
  stem: baʔawla.//beʔawla.
  root: ʔwl
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: vor dem man sicher ist
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: baba
  stem: baba.
@@ -4366,7 +4366,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Anteil und Bruder (baḥr w bra)
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: baḥri
  stem: baḥri.|baḥriye.|baḥr.
@@ -4427,7 +4427,7 @@
  lex: bal
  stem: bal.
  root: bl
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: viel mehr (bal azyad)
  trans_en: a lot more (bal azyad)
@@ -4478,7 +4478,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: mittellos, abgebrannt
- trans_en: poor, burnt down <?>
+ trans_en: poor, burnt down [?]
 -lexeme
  lex: balaš
  stem: balaš.
@@ -4590,7 +4590,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Steineiche (Brants Eiche?); Eichenpflock mit dem der pərrək des Hakenpflugs in der Birge befestigt ist
- trans_en: durmast; oak stake with which a 'pərrək' of a plow in <...> is fastened
+ trans_en: durmast; oak stake with which a 'pərrək' of a plow in [...] is fastened
 -lexeme
  lex: balwa
  stem: balwa.|UNKNOWN.|balw.
@@ -4766,7 +4766,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bohne, Vicis faba
- trans_en: sweets <?>, Vicis faba
+ trans_en: sweets [?], Vicis faba
 -lexeme
  lex: baqolo
  stem: baqolo.|baqole.|baqol.
@@ -4974,7 +4974,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Rohr, Röhricht, Rohrstock; das, was übrig bleibt, wenn man die Hirsenstaude köpft
- trans_en: reed, reed cane, reedbed; what remains after someone hews tops of millet plants <?>
+ trans_en: reed, reed cane, reedbed; what remains after someone hews tops of millet plants [?]
 -lexeme
  lex: bardeliye
  stem: bardeliye.|bardeliyat.|bardeliy.
@@ -5255,7 +5255,7 @@
  gramm: N,pl
  paradigm: N2
  trans_de: Schlossen
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: barzayno/bərzayno
  stem: barzayno.//bərzayno.|barzayne.//bərzayne.
@@ -5263,7 +5263,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Graslaube auf dem Dach
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: bas
  stem: bas.
@@ -5691,7 +5691,7 @@
  lex: bay
  stem: bay.
  root: by
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Luft-
  trans_en: air-
@@ -6141,8 +6141,8 @@
  root: blbz
  gramm: N,pl
  paradigm: N2
- trans_de: zwei Blumenarten <...>
- trans_en: two flower types <...>
+ trans_de: zwei Blumenarten [...]
+ trans_en: two flower types [...]
 -lexeme
  lex: bəlbəzeki
  stem: bəlbəzeki
@@ -6237,8 +6237,8 @@
  root: brs
  gramm: N
  paradigm: unchangeable
- trans_de: <?> (ġuros bəros)
- trans_en: <?> (ġuros bəros)
+ trans_de: [?] (ġuros bəros)
+ trans_en: [?] (ġuros bəros)
 -lexeme
  lex: bembašt
  stem: bembašt.|bembaštiye.|bembašt.
@@ -6519,13 +6519,13 @@
  paradigm: N2
  trans_de: dieser Mann macht wegen seines Reichtums viele unnötige Ausgaben, lebt im Luxus, spielt sich gegen andere auf
  trans_en: such a person makes a lot of unnecessary expenses, lives in luxury and shows himself off before others
--lexeme 
+-lexeme
  lex: bəṯṯər
  stem: bəṯṯər.
  root: ʔṯr
  gramm: ADV
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: afterwards
 -lexeme
  lex: bəṯrke
@@ -6533,7 +6533,7 @@
  root: ʔṯr
  gramm: ADV
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: afterwards
 -lexeme
  lex: bəzdəm
@@ -6595,7 +6595,7 @@
  lex: biǧək
  stem: biǧək.
  root: bǧ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: auf der Stelle
  trans_en: at the place (?)
@@ -6603,7 +6603,7 @@
  lex: biǧuz
  stem: biǧuz.
  root: bǧz
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: es ist möglich, vielleicht
  trans_en: it is possible, perhaps
@@ -6611,10 +6611,10 @@
  lex: bikun
  stem: bikun.
  root: bkn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: wird sein;
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: bila
  stem: bila.
@@ -6813,7 +6813,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Bruder; Anteil und Bruder (baḥr w bra); verbrüdert (dast w bra)
- trans_en: brother; <?> (baḥr w bra); fraternized (?) (dast w bra) 
+ trans_en: brother; [?] (baḥr w bra); fraternized (?) (dast w bra) 
 -lexeme
  lex: bratiye
  stem: bratiye.
@@ -6917,7 +6917,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: herausfordernder Ausruf
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: brukṯo/brəkṯo
  stem: brukṯo.//brəkṯo.//burukṯo.|burkoṯe.//brəkwoṯo.//burukyoṯo.//burukyoṯe.
@@ -7042,7 +7042,7 @@
  lex: buxa/bxa/buxwa/bəxwa
  stem: buxa.//bxa.//buxwa.//bəxwa.
  root: bxw
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: selber, persönlich
  trans_en: personally, self
@@ -7101,7 +7101,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Rondellhammer
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: čadər
  stem: čadər.|čuwedər.//čadəre.
@@ -7338,7 +7338,7 @@
  lex: čap
  stem: čap.
  root: čp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: links
  trans_en: left
@@ -7405,7 +7405,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Linker
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: čappiye
  stem: čappiye.|UNKNOWN.|čappiy.
@@ -7427,7 +7427,7 @@
  stem: čaqačaq.
  root: čq
  gramm: N
- paradigm: <?>
+ paradigm: [?]
  trans_de: zischendes Geräusch von kochendem Fett, besonders wenn ein Ei hineingeworfen wird
  trans_en: sizzling noise of fried fat, especially when an egg is thrown into it
 -lexeme
@@ -7453,7 +7453,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Pippau (Pflanze) Crepis spec. oder Wirzelferkelkraut, Hypochoeris radicata; aus dem etwa 3 1/2 cm dicken Stengel der Hirsestaude wird ein längeres Stück geschnitten und dann so gespalten, dass ein Handbreit ungespalten bleibt. Das gibt eine Art Pritsche oder Klapper für die Kinder; (fig.) zappelig, überlebfhaft
- trans_en: hawksbeard, Crepis spec. or cat's-ear, Hypochoeris radicata; a long piece is cut out of approximately 3.5 cm long <Hirsestaude> stem and then <split> in such a way that a hand's width remains. This is a type of <rattle> for kids; fig. restless, fidgety
+ trans_en: hawksbeard, Crepis spec. or cat's-ear, Hypochoeris radicata; a long piece is cut out of approximately 3.5 cm long [Hirsestaude] stem and then [split] in such a way that a hand's width remains. This is a type of [rattle] for kids; fig. restless, fidgety
 -lexeme
  lex: čaqəlmaste
  stem: čaqəlmaste.
@@ -7554,7 +7554,7 @@
  lex: čarm
  stem: čarm
  root: črm
- gramm: N,<?>
+ gramm: N,[?]
  paradigm: unchangeable
  trans_de: enthäuten (saq w čarm)
  trans_en: skinning (saq w čarm)
@@ -7853,7 +7853,7 @@
  gramm: N
  paradigm: N2
  trans_de: Dreierkarte im Kartenspiel
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: čəlləke/čəlke
  stem: čəlləke.//čəlke.|čəlləkat.//čəlkat.
@@ -7877,7 +7877,7 @@
  gramm: N
  paradigm: N2
  trans_de: Haut, Haube um den Fötus
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: čəmbəl
  stem: čəmbəl.//čambəl.//čəmbəle.|čəmbəlat.//čambəlat.
@@ -7997,7 +7997,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Haschespiel
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: čərre
  stem: čərre.
@@ -8045,7 +8045,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Stück der Sintflut (čika ṭofane)
- trans_en: <?> (čika ṭofane)
+ trans_en: [?] (čika ṭofane)
 -lexeme
  lex: čike
  stem: čike.|čikat.|čik.
@@ -8068,8 +8068,8 @@
  root: čkčk
  gramm: N
  paradigm: N2
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: čin
  stem: čin.
@@ -8125,7 +8125,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Stengel der Hirstestaude (daraus werden Spielzeuge gemacht); Schreibrohr; Vorhang im Zelt; Art bedruckter Kattun
- trans_en: stem of <?> (toys are made from it); seamed tube <?>; curtain in a tent; type of calico (?)
+ trans_en: stem of [?] (toys are made from it); seamed tube [?]; curtain in a tent; type of calico (?)
 -lexeme
  lex: čmizoyo
  stem: čmizoyo.|čmizoye.|čmizoy.
@@ -8782,7 +8782,7 @@
  paradigm: N2
  trans_de: wenn zwei Brüder heiraten, werden die Frauen gegenseitig damoṯe; Schwägerin
  trans_en: wenn two brothers marry, the wives become damoṯe to each other; sister-in-law
--lexeme 
+-lexeme
  lex: damuš
  stem: damuš.
  root: dmš
@@ -8909,7 +8909,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Bart; Ziegenbocksbart, Cistus, Hypocistus (für den Salat gebraucht) (daqne d tayse)
- trans_en: beard; <?>, cistus, hypocistus (used for salad) (daqne d tayse)
+ trans_en: beard; [?], cistus, hypocistus (used for salad) (daqne d tayse)
 -lexeme
  lex: daqnono
  stem: daqnono.|daqnone.|daqnon.
@@ -9061,7 +9061,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Wiege; Wickelkind; Wiegenspiel
- trans_en: craddle; infant; <?>
+ trans_en: craddle; infant; [?]
 -lexeme
  lex: darġale
  stem: darġale.|UNKNOWN.|darġal.
@@ -9069,7 +9069,7 @@
  gramm: N,pl
  paradigm: N2
  trans_de: Absätze, Treppen beim Haareschneiden
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: darġo
  stem: darġo.|darġe.|darġ.
@@ -9170,7 +9170,7 @@
  lex: darwin
  stem: darwin.
  root: drw
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Spielpistole (damanča darwin)
  trans_en: toy-pistol (damanča darwin)
@@ -9220,13 +9220,13 @@
  root: dstǧġ
  gramm: N,m
  paradigm: N2
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: dastkaš
  stem: dastkaš
  root: dstkš
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: mit der Hand am Zügel führen
  trans_en: to lead by reins
@@ -9314,10 +9314,10 @@
  lex: dav
  stem: dav.
  root: dv
- gramm: <?>
- paradigm: <?>
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?]
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: davdavko
  stem: davdavko.|UNKNOWN.|davdavk.
@@ -9541,7 +9541,7 @@
  gramm: N
  paradigm: N2
  trans_de: Gewandsaum
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: daxil
  stem: daxil.
@@ -9797,7 +9797,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: zwei Brüderchen, weil immer zwei zusammenleben, Steppenhuhn, Pterocles
- trans_en: <?>, Pallas sand grouse, Pterocles
+ trans_en: [?], Pallas sand grouse, Pterocles
 -lexeme
  lex: dədrayso
  stem: dədrayso.|UNKNOWN.|dədrays.
@@ -9898,8 +9898,8 @@
  lex: dəlme
  stem: dəlme.
  root: dlm
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: weichgekochtes Ei (bəḥto dəlme)
  trans_en: soft boiled egg (bəḥto dəlme)
 -lexeme
@@ -9946,10 +9946,10 @@
  lex: dərdmono
  stem: dərdmono.
  root: drdm
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: Geknärwele, dauernd jammern, kritisieren
- trans_en: <?>, lament over something for a long time, to criticize
+ trans_en: [?], lament over something for a long time, to criticize
 -lexeme
  lex: dərma
  stem: dərma.
@@ -10036,7 +10036,7 @@
  root: dḏ
  gramm: PRTCL
  paradigm: PRTCL_POS
- trans_de: <?>
+ trans_de: [?]
  trans_en: possessive particle (of)
 -lexeme
  lex: dik
@@ -10220,8 +10220,8 @@
  root: dndn
  gramm: N,m
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: doquqto
  stem: doquqto.|UNKNOWN.|doquqt.
@@ -10445,7 +10445,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Spinnrad, Haspel; Welle zum Heraufziehen von Wasser aus dem Brunnen
- trans_en: spinning wheel, reel; <...> for pulling the water out of a well
+ trans_en: spinning wheel, reel; [...] for pulling the water out of a well
 -lexeme
  lex: dulalat
  stem: dulalat.|UNKNOWN.|dulalat.
@@ -10531,7 +10531,7 @@
  stem: duwal.
  root: dwl
  gram: N,pl
- paradigm: <?>
+ paradigm: [?]
  trans_de: Nationen
  trans_en: nations
 -lexeme
@@ -10574,7 +10574,7 @@
  paradigm: N2
  trans_de: Schlachtopfer
  trans_en: sacrifice
--lexeme 
+-lexeme
  lex: ḏalil
  stem: ḏalil.//dalil.|ḏalilin.|ḏalil.//dalil.
  root: ḏll
@@ -10698,10 +10698,10 @@
  lex: ḏ̣iʕan/ḏiʕan
  stem: ḏ̣iʕan.//ḏiʕan.//diʕan.
  root: ḏ̣ʕn/ḏʕn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: schade um
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ḏ̣əlmiye/ḏəlmiye/ḏ̣ulmiye/ḏulmiye
  stem: ḏ̣əlmiye.//ḏəlmiye.//ḏulmiye.//ḏ̣ulmiye.|UNKNOWN.
@@ -10778,7 +10778,7 @@
  lex: efendim/afandim/afandəm
  stem: efendim.//afandim.//afandəm.
  root: fndm
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: bitte schön! (buyurun efendim)
  trans_en: please! (buyurun efendim)
@@ -11237,7 +11237,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Stück für Stück (entwenden, als herrenlos), wiederholt losgelassen und wieder angefasst (falte falte)
- trans_en: bit by bit <...>
+ trans_en: bit by bit [...]
 -lexeme
  lex: fanar
  stem: fanar.|fanare.|fanar.
@@ -11925,7 +11925,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Stück für Stück (entwenden, als herrenlos), wiederholt losgelassen und wieder angefasst (fəlte fəlte)
- trans_en: bit by bit <...>
+ trans_en: bit by bit [...]
 -lexeme
  lex: fənǧan/fənǧane
  stem: fənǧan.//fənǧane.|fəneǧən.//fənǧanat.
@@ -12045,7 +12045,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Gelegenheit; beim Fechten: Blöße
- trans_en: opportunity; in fencing: <...>
+ trans_en: opportunity; in fencing: [...]
 -lexeme
  lex: fəršək
  stem: fəršək.|fəršəkin.|fəršək.
@@ -12261,7 +12261,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Frucht (eines Baumes, eines Geschlechtes); schwarze Käppchen, das die Geistlichen unter der Tiara oder dem schwarzen Zylinder tragen und nie absetzen
- trans_en: fruit (of a tree; <?>); black hat which clergy wears under a tiara or a black tophat and which is never taken off
+ trans_en: fruit (of a tree; [?]); black hat which clergy wears under a tiara or a black tophat and which is never taken off
 -lexeme
  lex: fiš
  stem: fiš.|fišat.|fiš.
@@ -12660,8 +12660,8 @@
  root: gft
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: gah
  stem: gah.
@@ -13660,8 +13660,8 @@
  root: ghr
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: gulʕe
  stem: gulʕe.|gulʕat.|gulʕ.
@@ -13989,7 +13989,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Brummspielzeug, das man an Faden oder Draht in der Luft herumwirbelt
- trans_en: <?> which someone spins on threads or on wire in the air
+ trans_en: [?] which someone spins on threads or on wire in the air
 -lexeme
  lex: guzzizo
  stem: guzzizo.//gzizo.|UNKNOWN.|guzziz.//gziz.
@@ -14460,8 +14460,8 @@
  root: ġšwš
  gramm: ADJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ġorimo/ġurimo
  stem: ġorimo.//ġurimo.|UNKNOWN.|ġorim.//ġurim.
@@ -14524,8 +14524,8 @@
  root: ġrs
  gramm: N
  paradigm: unchangeable
- trans_de: <?> (ġuros bəros)
- trans_en: <?> (ġuros bəros)
+ trans_de: [?] (ġuros bəros)
+ trans_en: [?] (ġuros bəros)
 -lexeme
  lex: ġurub
  stem: ġurub.|ġurubat.|ġurub.
@@ -14789,7 +14789,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: unten seitlich zurücktretende Wände der Zisterne
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ǧamse
  stem: ǧamse.|ǧamsat.|ǧams.
@@ -15181,7 +15181,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Geistermann
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ǧənni
  stem: ǧənni.|ǧənniye.|ǧənn.
@@ -15778,18 +15778,18 @@
  lex: haha
  stem: haha.
  root: hh
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: dass ja nicht
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: haha
  stem: haha.
  root: hh
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: haha
  stem: haha.
@@ -16443,7 +16443,7 @@
  root: hžž
  gramm: N,f
  paradigm: N2
- trans_de: <?>
+ trans_de: [?]
  trans_en: small wooden piece
 -lexeme
  lex: hedi
@@ -16819,8 +16819,8 @@
  root: hh
  gramm: INTERJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: hilo
  stem: hilo.
@@ -16956,7 +16956,7 @@
  gramm: ADV
  paradigm: unchangeable
  trans_de: dort (in Deuteweite)
- trans_en: there (in <...>)
+ trans_en: there (in [...])
 -lexeme
  lex: hop
  stem: hop.
@@ -17979,8 +17979,8 @@
  root: ʔḥr
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ḥasab
  stem: ḥasab.
@@ -18099,15 +18099,15 @@
  root: ḥšr
  gramm: INTERJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ḥašo
  stem: ḥašo.|ḥaše.|ḥaš.
  root: ḥšš
  gramm: N,m
  paradigm: N2
- trans_de: <?>; die Karwoche (i šabṯo du ḥašo)
+ trans_de: [?]; die Karwoche (i šabṯo du ḥašo)
  trans_en: suffering; the Holy Week (i šabṯo du ḥašo)
 -lexeme
  lex: ḥašri
@@ -18321,10 +18321,10 @@
  lex: ḥayəz
  stem: ḥayəz.
  root: ḥyz
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ḥayf
  stem: ḥayf.|ḥayfat.|ḥayf.
@@ -18564,7 +18564,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Haschespiel auf einem Bein
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ḥeram
  stem: ḥeram.|UNKNOWN.|ḥeram.
@@ -18739,8 +18739,8 @@
  root: ḥlk
  gramm: N,f
  paradigm: N2
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ḥəlmo/ḥulmo
  stem: ḥəlmo.//ḥulmo.|ḥəlme.//ḥulme.
@@ -18779,8 +18779,8 @@
  root: ḥmm
  gramm: ADJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: ḥəmaye
  stem: ḥəmaye.|UNKNOWN.|ḥəmay.
@@ -19044,7 +19044,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Anteil
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ḥəšabo/ḥušabo/ḥəššabo/ḥuššabo
  stem: ḥəšabo.//ḥušabo.//ḥəššabo.//ḥuššabo.|ḥəšabe.//ḥušabe.//ḥəššabe.//ḥuššabe.
@@ -19347,7 +19347,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleinfrüchtige Kirsche, Cerasus tortuosa Boiss. et Hauss., hellviolette Blume zum Kränzemachen
- trans_en: small cherry, Cerasus tortuosa Boiss. et Hauss., light purple flowers for <...>
+ trans_en: small cherry, Cerasus tortuosa Boiss. et Hauss., light purple flowers for [...]
 -lexeme
  lex: ḥoṯo
  stem: ḥoṯo.|aḥwoṯo.//aḥwoṯe.//ḥwoṯe.//ḥwoṯo.//ḥoṯoṯe.//ḥoṯoṯo.
@@ -19427,7 +19427,7 @@
  gramm: ADJ
  paradigm: N_mf
  trans_de: eingezwängt
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: ḥtəraḏ
  stem: ḥtəraḏ.|UNKNOWN.|ḥtəraḏ.
@@ -19618,8 +19618,8 @@
  root: ʔ
  gramm: art,sg,f
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: iʕdam
  stem: iʕdam.|UNKNOWN.|iʕdam.
@@ -19760,7 +19760,7 @@
  lex: illa/əlla
  stem: illa.//əlla.
  root: l
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: außer; außer, es sei denn, dass (əlla ġayr m-); ehe nicht, wenn nicht, sonst (w əlla); plötzlich, auf einmal, und dann (w əlla)
  trans_en: beside; beside, unless (əlla ġayr); until, if not, otherwise (w əlla); suddenly, then (w əlla)
@@ -19776,7 +19776,7 @@
  lex: illazem
  stem: illazem.
  root: lzm
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: dauernde Ehre, hochgeachtet (ʕəzz illazem)
  trans_en: highly respected (ʕəzz illazem)
@@ -19858,8 +19858,8 @@
  root: ʔn
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: inan
  stem: inan.
@@ -19896,7 +19896,7 @@
  lex: innahu/ənnahu/inno/ənno
  stem: innahu.//ənnahu.//inno.//ənno.
  root: nnh
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Flickwort; dass; damit
  trans_en: filler word; that; in order that
@@ -19995,7 +19995,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Empfang, Gegenübertreten; Geleitgeben
- trans_en: reception, attitude <?>; <?>
+ trans_en: reception, attitude [?]; [?]
 -lexeme
  lex: istəraḥa/istraḥa/əstiraḥa/istiraḥa
  stem: istəraḥa.//istraḥa.//əstiraḥa.//istiraḥa.|UNKNOWN.
@@ -20212,7 +20212,7 @@
  paradigm: N
  paradigm: unchangeable
  trans_de: Rind mit braunen Beinen und schwarzen Knien (kab raš)
- trans_en: <...> with brown legs and black knees (kab raš)
+ trans_en: [...] with brown legs and black knees (kab raš)
 -lexeme
  lex: kabrite/kaprit
  stem: kabrite.//kaprit.|UNKNOWN.
@@ -20308,7 +20308,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schlauchfloß
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kalamčawat/kalamčat
  stem: kalamčawat.//kalamčat.
@@ -20465,10 +20465,10 @@
  lex: kaman
  stem: kaman.
  root: kmn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: kamana/kamane
  stem: kamana.//kamane.|kamana.//kamanat.
@@ -20508,7 +20508,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: in der Haltung eines Soldaten, der stramm steht
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kaməl
  stem: kaməl.
@@ -20596,7 +20596,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Abtritt
- trans_en: toilet <?>
+ trans_en: toilet [?]
 -lexeme
  lex: kanabaye
  stem: kanabaye.|kanabayat.|kanabay.
@@ -20741,7 +20741,7 @@
  paradigm: N2
  trans_de: Wohltat
  trans_en: good deed
--lexeme 
+-lexeme
  lex: kari
  stem: kari.
  root: kr
@@ -21052,7 +21052,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: Vermehre!
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kaṯowo
  stem: kaṯowo.|kaṯawto.//kaṯuto.|kaṯowe.
@@ -21245,7 +21245,7 @@
  paradigm: unchangeable
  trans_de: Zuckungen des sterbenden Mensches oder Tieres, Gezappel
  trans_en: convulsions of a dying man or animal; flounder
--lexeme 
+-lexeme
  lex: kefči
  stem: kefči.
  root: kf
@@ -21276,7 +21276,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Tünchung
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kelək
  stem: kelək.|keləkat.|kelək.
@@ -21580,7 +21580,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: kleines Heft aus einem gefalteten Bogen bestehend
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kərtkərt
  stem: kərtkərt.|UNKNOWN.|kərtkərt.
@@ -21588,7 +21588,7 @@
  gramm: N
  paradigm: N2
  trans_de: Knuppergeräusch, das entsteht, wenn Tiere oder Menschen Kichererbsen kauen
- trans_en: <...> which appears when animals or humans chew chickpeas
+ trans_en: [...] which appears when animals or humans chew chickpeas
 -lexeme
  lex: kəsto
  stem: kəsto.|kəstoṯe.//kəstoṯo.
@@ -21723,7 +21723,7 @@
  root: kt
  gramm: PRTCL
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: existential particle: there is
 -lexeme
  lex: kətle
@@ -21731,7 +21731,7 @@
  root: kt
  gramm: PRTCL
  paradigm: POSS_PRTCL_PRES
- trans_de: <?>
+ trans_de: [?]
  trans_en: X (l-) has
 -lexeme
  lex: kətyo
@@ -21739,7 +21739,7 @@
  root: kt
  gramm: PRTCL
  paradigm: COP_PRES
- trans_de: <?>
+ trans_de: [?]
  trans_en: copula
 -lexeme
  lex: kətwa
@@ -21747,7 +21747,7 @@
  root: kt
  gramm: PRTCL
  paradigm: COP_PAST
- trans_de: <?>
+ trans_de: [?]
  trans_en: past-time copula
 -lexeme
  lex: kətwayle
@@ -21755,7 +21755,7 @@
  root: kt
  gramm: PRTCL
  paradigm: POSS_PRTCL_PAST
- trans_de: <?>
+ trans_de: [?]
  trans_en: X (l-) had
 -lexeme
  lex: kətwobe/kətwaybe
@@ -21763,7 +21763,7 @@
  root: kb
  gramm: PRTCL
  paradigm: PRTCL_LOC_PAST_1
- trans_de: <?>
+ trans_de: [?]
  trans_en: X was able; X was contained in
 -lexeme
  lex: kəpwayle
@@ -21771,7 +21771,7 @@
  root: kb
  gramm: PRTCL
  paradigm: PRTCL_LOC_PAST_2
- trans_de: <?>
+ trans_de: [?]
  trans_en: X was able; X was contained
 -lexeme
  lex: kibe
@@ -21779,7 +21779,7 @@
  root: kb
  gramm: PRTCL
  paradigm: PRTCL_LOC
- trans_de: <?>
+ trans_de: [?]
  trans_en: to be able; to be contained in
 -lexeme
  lex: kiyo
@@ -21923,8 +21923,8 @@
  root: km
  gramm: ADJ
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: komo
  stem: komo.|kumto.//kəmto.//kamto.|kome.
@@ -22292,7 +22292,7 @@
  gramm: N,pl
  paradigm: N2
  trans_de: Baumblüten
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kullake
  stem: kullake.|UNKNOWN.|kullak.
@@ -22373,7 +22373,7 @@
  paradigm: N2
  trans_de: Tasche, Futteral
  trans_en: bag, sheath
--lexeme 
+-lexeme
  lex: kunnak
  stem: kunnak.
  root: knk
@@ -22404,7 +22404,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Henkelgefäß, das an einem Bügel getragen wird, für Butter
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: kuppa
  stem: kuppa
@@ -22492,7 +22492,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Band
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: Kurdəstan
  stem: Kurdəstan.
@@ -22628,7 +22628,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Sitz des Patriarchats; Ehrensitz des Araberscheichs; Tronsessel
- trans_en: chair; seat of the patriarch; honourary seat of an Arab sheikh; <?>
+ trans_en: chair; seat of the patriarch; honourary seat of an Arab sheikh; [?]
 -lexeme
  lex: kurte
  stem: kurte.|kurtat.|kurt.
@@ -22804,7 +22804,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Pflaster (mit Teig)
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: laǧan/lašan/lažan/lašən
  stem: laǧan.//lašan.//lažan.//lašən.//šan.
@@ -22908,7 +22908,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Saatstreifen (ein Viertel Fadono)
- trans_en: <...> (quarter of fadono)
+ trans_en: [...] (quarter of fadono)
 -lexeme
  lex: lahbo
  stem: lahbo.|lahbe.|lahb.
@@ -23139,8 +23139,8 @@
  root: lqṭ
  gramm: N
  paradigm: N2
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: larwal
  stem: larwal.
@@ -23179,7 +23179,7 @@
  root: lt
  gramm: PRTCL
  paradigm: POSS_PRTCL_PRES
- trans_de: <?>
+ trans_de: [?]
  trans_en: X (l-) does not have
 -lexeme
  lex: latwayle
@@ -23187,7 +23187,7 @@
  root: lt
  gramm: PRTCL
  paradigm: POSS_PRTCL_PAST
- trans_de: <?>
+ trans_de: [?]
  trans_en: X (l-) did not have
 -lexeme
  lex: latwobe/latwaybe
@@ -23195,7 +23195,7 @@
  root: lt
  gramm: PRTCL
  paradigm: PRTCL_LOC_PAST_1
- trans_de: <?>
+ trans_de: [?]
  trans_en: X was not able; X was not contained in
 -lexeme
  lex: lapwayle
@@ -23203,7 +23203,7 @@
  root: lt
  gramm: PRTCL
  paradigm: PRTCL_LOC_PAST_2
- trans_de: <?>
+ trans_de: [?]
  trans_en: X was not able; X was not contained in
 -lexeme
  lex: latyo
@@ -23211,7 +23211,7 @@
  root: lt
  gramm: PRTCL
  paradigm: COP_PRES
- trans_de: <?>
+ trans_de: [?]
  trans_en: negative copula
 -lexeme
  lex: latme
@@ -23227,14 +23227,14 @@
  root: lt
  gramm: PRTCL
  paradigm: COP_PAST
- trans_de: <?>
+ trans_de: [?]
  trans_en: negative past-time copula
 -lexeme
  lex: laṭif
  stem: laṭif.
  root: lṭf
  gramm: lṭf
- paradigm: <?>
+ paradigm: [?]
  trans_de: elegant
  trans_en: elegant
 -lexeme
@@ -23260,7 +23260,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Ackerwinde oder Galaterwinde, Convulvulus arvensis L. oder Convulvulus galaticus Rost. Wird von Kühen gern gefressen
- trans_en: corn lily or <...>, Convulvulus arvensis L. oder Convulvulus galaticus Rost. It is eaten readily by cows
+ trans_en: corn lily or [...], Convulvulus arvensis L. oder Convulvulus galaticus Rost. It is eaten readily by cows
 -lexeme
  lex: law
  stem: law.
@@ -23348,7 +23348,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Tadel
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: lawn
  stem: lawn.|alwan.//lawnat.
@@ -23395,7 +23395,7 @@
  root: lyb
  gramm: PRTCL
  paradigm: PRTCL_LOC
- trans_de: <?>
+ trans_de: [?]
  trans_en: to not be able; to not be contained in
 -lexeme
  lex: layḥa
@@ -23443,7 +23443,7 @@
  root: lyt
  gramm: PRTCL
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: negative existential particle: there is no
 -lexeme
  lex: lazziye
@@ -23555,8 +23555,8 @@
  root: lvḏ̣/lvz
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: lġomo
  stem: lġomo.|lġome.|lġom.
@@ -23588,7 +23588,7 @@
  gramm: N
  paradigm: N_mf
  trans_de: sich sehend
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: lḥuḏe
  stem: lḥuḏe.
@@ -23651,7 +23651,7 @@
  root: l
  gramm: neg
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en:
 -lexeme
  lex: lo
@@ -23915,7 +23915,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Beileidsbesucher
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mʕuṭe
  stem: mʕuṭe.
@@ -24091,7 +24091,7 @@
  gramm: PRTCL
  paradigm: unchangeable
  trans_de: zum Beispiel; falls, sollte etwa
- trans_en: for example; if, <?>
+ trans_en: for example; if, [?]
 -lexeme
  lex: maʕrag
  stem: maʕrag.|UNKNOWN.|maʕrag.
@@ -24552,10 +24552,10 @@
  lex: maḥǧar
  stem: maḥǧar.
  root: ḥǧr
- gramm: <?>
- paradigm: <?>
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?]
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: maḥǧet
  stem: maḥǧet.
@@ -24626,8 +24626,8 @@
  root: mḥy
  gramm: N
  paradigm: N_mf
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: maḥsarto
  stem: maḥsarto.|UNKNOWN.|maḥsart.
@@ -24827,7 +24827,7 @@
  gramm: ADJ
  paradigm: N2
  trans_de: gekaut, zu kauen; durchhecheln
- trans_en: chewed, to chew; <?>
+ trans_en: chewed, to chew; [?]
 -lexeme
  lex: mala
  stem: mala.
@@ -25331,7 +25331,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Holzknebel, gebraucht, um die Stricke der Lasten festzudrehen
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: masto
  stem: masto.
@@ -25956,7 +25956,7 @@
  gramm: N
  paradigm: N2
  trans_de: Gang, Gangart
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mašakəl
  stem: mašakəl.|UNKNOWN.|mašakəl.
@@ -26044,7 +26044,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Deichsel des Pfluges, mit der Birke durch einen Nietring verbunden, hat am Ende ein Loch, durch welches die qaṭriye geht. Der Mittelteil des Joches, bipso, wird über die Deichsel geschoben und dann mit der qaṭriye festgemacht
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mašot
  stem: mašot.|UNKNOWN.|mašot.
@@ -26233,10 +26233,10 @@
  lex: mawzi
  stem: mawzi.
  root: mwz
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: maxmar
  stem: maxmar.|maxmare.//maxemər.
@@ -26245,7 +26245,7 @@
  paradigm: N2
  trans_de: hölzernes Gefäss zum Aufweichen von hartem Joghurt
  trans_en: wooden vessel for softening firm yoghurt
--lexeme 
+-lexeme
  lex: maxrabo/xabo/malxarabo
  stem: maxrabo.//malxarabo.//xabo.
  root: mlxrb
@@ -26380,7 +26380,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zugebröte
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mazad/mazyad
  stem: mazad.//mazyad.|UNKNOWN.|mazad.//mazyad.
@@ -26425,10 +26425,10 @@
  lex: maxana/maxna
  stem: maxana.//maxna.
  root: mxn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: etwa?
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: maxluq
  stem: maxluq.|UNKNOWN.|maxluq.
@@ -26617,10 +26617,10 @@
  lex: mer
  stem: mer.
  root: mr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_de: <?>
+ trans_de: [?]
+ trans_de: [?]
 -lexeme
  lex: mešən
  stem: mešən.
@@ -27156,7 +27156,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: Ruhe findend
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: məṣʕoyo
  stem: məṣʕoyo.//məṣyoyo.|məṣʕoye.//məṣyoye.
@@ -27369,7 +27369,7 @@
  lex: məṭsuxur
  stem: məṭsuxur.
  root: sxr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: jemand, der sofort das Nötige tut
  trans_en: someone who immediately does what is necessary
@@ -27385,18 +27385,18 @@
  lex: məṯəl
  stem: məṯəl
  root: mṯl
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: məx
  stem: məx.
  root: mx
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: məzər
  stem: məzər.
@@ -27420,7 +27420,7 @@
  gramm: N,pl
  paradigm: unchangeable
  trans_de: Färberochsenzunge, Alkna spec. oder Ancusa spec.; sehr honigreiche Pflanze mit roten Blüten
- trans_en: <...>, Alkna spec. or Ancusa spec.; very <...> plant with red flowers
+ trans_en: [...], Alkna spec. or Ancusa spec.; very [...] plant with red flowers
 -lexeme
  lex: məžġule
  stem: məžġule.
@@ -27627,8 +27627,8 @@
  root: dwr
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: miqa
  stem: miqa.|UNKNOWN.|miq.
@@ -27636,7 +27636,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kunstglass der Autos und Uhren; Walfischbeinstäbchen, um Kragen steif zu machen
- trans_en: artificial glass for cars and watches; <?>
+ trans_en: artificial glass for cars and watches; [?]
 -lexeme
  lex: mir
  stem: mir.|UNKNOWN.|mir.
@@ -28149,7 +28149,7 @@
  paradigm: N_mf
  trans_de: begehrend
  trans_en: coveting, desiring
--lexeme 
+-lexeme
  lex: mšayya
  stem: mšayya.
  root: mšy
@@ -28180,7 +28180,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schuhflicker
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mšaqšəqo
  stem: mšaqšəqo.|mšaqšəqe.|mšaqšəq.
@@ -28236,7 +28236,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: roter Eibisch oder wilde Stockrose, Althea rosea (L.) Cav. Dient, in Wasser aufgelöst, zum Auflösen zusammengeklebten Haares. Hat Früchte wie ein Markstück
- trans_en: red hollyhock or mallow, Althea rosea (L.) Cav. Dient, dissolves in water, <...>. Has fruits the size of a one mark coin
+ trans_en: red hollyhock or mallow, Althea rosea (L.) Cav. Dient, dissolves in water, [...]. Has fruits the size of a one mark coin
 -lexeme
  lex: mṭayəf
  stem: mṭayəf.|UNKNOWN.|mṭayəf.
@@ -28378,8 +28378,8 @@
  root: mkr
  gramm: N
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: mukuz
  stem: mukuz.
@@ -28603,7 +28603,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Holzachse der Handmühle
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: muxtar
  stem: muxtar.|maxatir.//maxatər.
@@ -28707,7 +28707,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: grober Geselle
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: mzawəriye
  stem: mzawəriye.|UNKNOWN.|mzawəriy.
@@ -28947,12 +28947,12 @@
  gramm: N,m
  paradigm: N2
  trans_de: Horn zum Blasen; allgemeiner Aufbruch
- trans_en: horn for blowing; <?>
+ trans_en: horn for blowing; [?]
 -lexeme
  lex: nafs
  stem: nafs.
  root: nfs
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: selbst
  trans_en: himself, herself; same
@@ -29011,7 +29011,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: reißend (Tier)
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: naǧoro
  stem: naǧoro.|naǧore.|naǧor.
@@ -29075,7 +29075,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: im Unrecht
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: naḥaqqiye
  stem: naḥaqqiye.
@@ -29088,7 +29088,7 @@
  lex: naḥašša
  stem: naḥašša.
  root: nḥš
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: ohne Rücksicht auf jemanden
  trans_en: without consideration for someone
@@ -29152,10 +29152,10 @@
  lex: nakat
  stem: nakat.
  root: nkt
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: möge nicht fallen
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: nakkəz
  stem: nakkəz.
@@ -29180,7 +29180,7 @@
  paradigm: N2
  trans_de: vergebliches Ermahnen
  trans_en: vain attempts to persuade someone
--lexeme 
+-lexeme
  lex: nakuzo
  stem: nakuzo.|nakuze.|nakuz.
  root: nkz
@@ -29379,7 +29379,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: von gewährter Anteil; das, was einem bestimmt ist
- trans_en: <...>; something that is meant to be for someone
+ trans_en: [...]; something that is meant to be for someone
 -lexeme
  lex: naṣəḥ
  stem: naṣəḥ.
@@ -29483,7 +29483,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Schlinge, die aufgeht, wenn man an dem einen Ende zieht; Slipsteek
- trans_en: snare which <...> when someone pulls at one end; running knot
+ trans_en: snare which [...] when someone pulls at one end; running knot
 -lexeme
  lex: natiǧe
  stem: natiǧe.|UNKNOWN.|natiǧ.
@@ -29500,7 +29500,7 @@
  paradigm: N_mf
  trans_de: stinkig
  trans_en: stinking
--lexeme 
+-lexeme
  lex: natruṯo
  stem: natruṯo.
  root: ntr
@@ -29556,7 +29556,7 @@
  paradigm: N2
  trans_de: Enkelin (Mīdin)
  trans_en: granddaughter (Midən)
--lexeme 
+-lexeme
  lex: navike
  stem: navike.|UNKNOWN.|navik.
  root: nv
@@ -29780,7 +29780,7 @@
  paradigm: unchangeable
  trans_de: reguläre Armee, Militär
  trans_en: regular army, military
--lexeme 
+-lexeme
  lex: nazan
  stem: nazan.|UNKNOWN.|nazan.
  root: nzn
@@ -29795,7 +29795,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Setzling, species
- trans_en: seedling; <?>
+ trans_en: seedling; [?]
 -lexeme
  lex: nazġo
  stem: nazġo.|UNKNOWN.|nazġ.
@@ -29826,7 +29826,7 @@
  root: n
  gramm: cop,3pl
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: 
 -lexeme
  lex: ner
@@ -29948,7 +29948,7 @@
  paradigm: N2
  trans_de: Schnabel, Schnabelhieb
  trans_en: beak 
--lexeme 
+-lexeme
  lex: nəmež
  stem: nəmež.
  root: nmž
@@ -30100,7 +30100,7 @@
  paradigm: N2
  trans_de: Bett
  trans_en: bed
--lexeme 
+-lexeme
  lex: nfaqto/nfəqto/nfuqto
  stem: nfaqto.//nfəqto.//nfuqto.|UNKNOWN.
  root: nfq
@@ -30112,7 +30112,7 @@
  lex: nfeḥəl
  stem: nfeḥəl.
  root: fḥl
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Verzeihung
  trans_en: pardon
@@ -30227,7 +30227,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Zeichen; Korn der Flinte; Orden
- trans_en: sign; <?>; order
+ trans_en: sign; [?]; order
 -lexeme
  lex: nišaniye
  stem: nišaniye.|UNKNOWN.|nišaniy.
@@ -30456,8 +30456,8 @@
  lex: nuquṣ/noqəṣ
  stem: nuquṣ.//noqəṣ.
  root: nqṣ
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: wenig; das, was fehlt
  trans_en: little, few; lacking
 -lexeme
@@ -30892,7 +30892,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Flugholz, mit dem die Knaben spielen
- trans_en: <...> with which children play
+ trans_en: [...] with which children play
 -lexeme
  lex: palpal
  stem: palpal.|UNKNOWN.|palpal.
@@ -31140,7 +31140,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Geqäke der Säuglinge
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: paša
  stem: paša.|pašawat.//pašawiye.
@@ -31188,7 +31188,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: ein gewebtes, farbiges Leinen, Battist
- trans_en: colourful woven linen, <?>
+ trans_en: colourful woven linen, [?]
 -lexeme
  lex: patək
  stem: patək.|UNKNOWN.|patək.
@@ -31235,7 +31235,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: er macht mich schlecht, redet gegen mich (komoḥe ʕal pay diḏi)
- trans_en: <?>, he talks against me
+ trans_en: [?], he talks against me
 -lexeme
  lex: paya
  stem: paya.
@@ -31272,7 +31272,7 @@
  lex: peda
  stem: peda.
  root: pd
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: (nachgestellt) außer
  trans_en: (in post-position) except
@@ -31304,7 +31304,7 @@
  lex: peva
  stem: peva.
  root: pv
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: (nachgestellet) außer
  trans_en: (in post-position) except
@@ -31456,7 +31456,7 @@
  lex: pərrr
  stem: pərrr.
  gramm: N
- paradigm: <?>
+ paradigm: [?]
  trans_de: Geräusch des Flatterns
  trans_en: sound of fluttering
 -lexeme
@@ -31615,7 +31615,7 @@
  lex: pəxk
  stem: pəxk.
  root: pxk
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Laut, um einen zu erschrecken
  trans_en: sound used to scare someone
@@ -31634,7 +31634,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: kleine Regentropfen, Schlossen
- trans_en: small rain drops, <...>
+ trans_en: small rain drops, [...]
 -lexeme
  lex: pəzruke
  stem: pəzruke.|pəzrukat.|pəzruk.
@@ -31658,7 +31658,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Mastdarm (von Tieren)
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: phine
  stem: phine.|phinat.|phin.
@@ -31682,7 +31682,7 @@
  gramm: N
  paradigm: N2
  trans_de: Bein (im Vogelspiel)
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: piže
  stem: piže.|pižat.//piyaž.
@@ -31930,7 +31930,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: vorderes Haar, Holle
- trans_en: hair at the front (of the head), <?>
+ trans_en: hair at the front (of the head), [?]
 -lexeme
  lex: porsuk
  stem: porsuk.|UNKNOWN.|porsuk.
@@ -32000,7 +32000,7 @@
  stem: poṭine.
  root: pṭn
  gramm: N
- paradigm: <?>
+ paradigm: [?]
  trans_de: Paar Soldatenstiefel
  trans_en: a pair of soldier boots
 -lexeme
@@ -32106,7 +32106,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Zunder
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: puṯe
  stem: puṯe.|UNKNOWN.|puṯ.
@@ -32242,7 +32242,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: Maß
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: qadaḥ
  stem: qadaḥ.|qadaḥe.|qadaḥ.
@@ -32258,7 +32258,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Abtritt, Toilette
- trans_en: <...>, toilette
+ trans_en: [...], toilette
 -lexeme
  lex: qadamke
  stem: qadamke.
@@ -32266,7 +32266,7 @@
  gramm: N,f,dim
  paradigm: unchangeable
  trans_de: Abtritt, Toilette
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: qadar
  stem: qadar.
@@ -32658,7 +32658,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ahle; Führer
- trans_en: awl; <?>
+ trans_en: awl; [?]
 -lexeme
  lex: qale
  stem: qale.|qalat.|qal.
@@ -32687,7 +32687,7 @@
  lex: qaličke
  stem: qaličke.
  root: qlč
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: klein
  trans_en: small
@@ -33034,7 +33034,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Pfaffenkopf, Kraut mit schwarzer Wurzel, die gegessen wird (qarʕe qaše)
- trans_en: <?>, gras with black root which can be eaten
+ trans_en: [?], gras with black root which can be eaten
 -lexeme
  lex: qarʕəke
  stem: qarʕəke.|qarʕəkat.|qarʕək.
@@ -33050,7 +33050,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Kopf, Schädel, Spitze, Gipfel, Dach; Kürbis; Halskürbis (qarʕo w qḏole); deinem Haupt zum Opfer (sarqa d qarʕux)
- trans_en: head, skull, top, roof; pumpkin; <?> (qarʕo w qḏole); <?> (sarqa d qarʕux)
+ trans_en: head, skull, top, roof; pumpkin; [?] (qarʕo w qḏole); [?] (sarqa d qarʕux)
 -lexeme
  lex: qarʕono
  stem: qarʕono.|qarʕoniṯo.|qarʕone.
@@ -33099,7 +33099,7 @@
  paradigm: N2
  trans_de: Kraft der Knie, der Beine
  trans_en: strength of knees, legs
--lexeme 
+-lexeme
  lex: qaramṣəltan
  stem: qaramṣəltan.
  root: qrmṣlt
@@ -33147,7 +33147,7 @@
  paradigm: N2
  trans_de: Wehgeschrei
  trans_en: wailing, cry of pain
--lexeme 
+-lexeme
  lex: qarf
  stem: qarf.
  root: qrf
@@ -33219,7 +33219,7 @@
  paradigm: N_mf
  trans_de: Leser, Schüler, des lesens kundig, gebildet; Rufer im Hole-Spiel
  trans_en: reader, pupil, knowledgeable in reading, educated; one who calls in Hole game
--lexeme 
+-lexeme
  lex: qarpqarb
  stem: qarpqarb.
  root: qrpqrb
@@ -33666,7 +33666,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: schräg nach hinten spitz auslaufender Pflock am Ende der Pflugdeichsel, zum verriegeln
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: qaṭro
  stem: qaṭro.|qaṭre.|qaṭr.
@@ -33674,7 +33674,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Knoten; auch ein Tuch, in das man etwas legt und dann zusammenfaltet und verknotet; komplizierter Knoten, der sich leicht aufziehen lässt. Wenn dies ein Erstgeborener tut, heilt das die Kolik
- trans_en: knot; also a piece of cloth in which one puts something and then folds it and ties it up; difficult knot which is easy to <...>. When it is made by an oldest son, it heals the colic
+ trans_en: knot; also a piece of cloth in which one puts something and then folds it and ties it up; difficult knot which is easy to [...]. When it is made by an oldest son, it heals the colic
 -lexeme
  lex: qaṭuno
  stem: qaṭuno.|qaṭune.|qaṭun.
@@ -33777,7 +33777,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: die Lage Getreide, die dem Dreschochsen nach und nach unter die Füße geworfen wird
- trans_en: <...> which is thrown little by little under the feet of threshing oxen
+ trans_en: [...] which is thrown little by little under the feet of threshing oxen
 -lexeme
  lex: qawwad
  stem: qawwad.|UNKNOWN.|qawwad.
@@ -33841,7 +33841,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Landrat
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: qaysək
  stem: qaysək.|UNKNOWN.|qaysək.
@@ -33945,7 +33945,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Hals; dünner, schlechter Weizen, Strohstückchen, die beim Sieben auf die Erde fallen; Halskürbis (qarʕo w qḏole)
- trans_en: neck; thin, bad wheat, pieces of straw that fall to the ground during sieving; <?> (qarʕo w qḏole)
+ trans_en: neck; thin, bad wheat, pieces of straw that fall to the ground during sieving; [?] (qarʕo w qḏole)
 -lexeme
  lex: qebəl
  stem: qebəl.
@@ -34081,7 +34081,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Steinfeuerzeug
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: qədde
  stem: qədde.|qəddat.|qədd.
@@ -34529,7 +34529,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Giesser für Ersatzwein in der Kirche
- trans_en: <...> for wine substitute in the church
+ trans_en: [...] for wine substitute in the church
 -lexeme
  lex: qol
  stem: qol.|UNKNOWN.|qol.
@@ -34633,7 +34633,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schwanzteil des Steißes, Kreuz, oberer Hinterteil des Leibes (bei Tieren und Menschen)
- trans_en: tail part of the buttocks, <...>, upper back part of body (of animals and humans)
+ trans_en: tail part of the buttocks, [...], upper back part of body (of animals and humans)
 -lexeme
  lex: qorna
  stem: qorna.//qurna.|UNKNOWN.|qorn.//qurn.
@@ -34961,7 +34961,7 @@
  gramm: N,pl
  paradigm: N2
  trans_de: Hiebe mit flachen Schwertklingen
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: quflo
  stem: quflo.|qufle.|qufl.
@@ -34993,7 +34993,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Rolle von Wolle, die die Frauen über den Arm streifen, um sie zu spinnen
- trans_en: roll of wool which women <...> over the arm to spin it
+ trans_en: roll of wool which women [...] over the arm to spin it
 -lexeme
  lex: qul
  stem: qul.|UNKNOWN.|qul.
@@ -35526,7 +35526,7 @@
  lex: rab
  stem: rab.//rap.
  root: rb
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: onomatopoetisch für das Flattern mit den Flügeln (rab rab rab)
  trans_en: onomatopoetic for the sound of fluttering of the wings (rab rab rab)
@@ -35950,10 +35950,10 @@
  lex: rap
  stem: rap.
  root: rp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: rapse
  stem: rapse.//rapṣe.|rapsat.//rapṣat.
@@ -36106,7 +36106,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: schwarz; der schwarze Wolf (dewe raš); Barthafer, Avena barbata; Brot (gaye raš); Rind mit braunen Beinen und schwarzen Knien (kab raš)
- trans_en: black; black wolf (dewe raš); Avena, Avena barbata; Brot (gaye raš); <...> with brown legs and black knees (kab raš)
+ trans_en: black; black wolf (dewe raš); Avena, Avena barbata; Brot (gaye raš); [...] with brown legs and black knees (kab raš)
 -lexeme
  lex: rašiye
  stem: rašiye.|rašiyat.|rašiy.
@@ -36138,7 +36138,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Star
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: raṭlo
  stem: raṭlo.//rəṭlo.|raṭle.//rəṭle.
@@ -36489,14 +36489,14 @@
  root: rkb
  gramm: N
  paradigm: unchangeable
- trans_de: <...>
+ trans_de: [...]
  trans_en: elegance (?)
 -lexeme
  lex: rəm
  stem: rəm.
  root: rm
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: Geräusch des (vom Pferde) Fallenden
  trans_en: sound of the (horse) falling
 -lexeme
@@ -36527,8 +36527,8 @@
  lex: rəmrəm
  stem: rəmrəm.
  root: rmrm
- gramm: <?>
- paradigm: <?> 
+ gramm: [?]
+ paradigm: [?] 
  trans_de: Geräusch der Schritte, etwa im oberen Stockwerk, das man unten hört 
  trans_en: footsteps sound, for instance in the upper floor, which one can hear below
 -lexeme
@@ -36810,7 +36810,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Hirtenzeit
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: rugzo
  stem: rugzo.|rugze.|rugz.
@@ -36841,7 +36841,7 @@
  root: rwḥ
  gramm: prn,refl
  paradigm: PRTCL_REFL
- trans_de: <?>
+ trans_de: [?]
  trans_en:
 -lexeme
  lex: ruḥqo
@@ -37442,7 +37442,7 @@
  gramm: N,m
  paradigm: unchangeable
  trans_de: härten durch Wasserbad
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: samaḥ
  stem: samaḥ.|UNKNOWN.|samaḥ.
@@ -37743,18 +37743,18 @@
  lex: sariya
  stem: sariya.
  root: sry
- gramm: <?>
- paradigm: <?> 
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?] 
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: sar kun ṣohr
  stem: sar kun ṣohr.
  root: srknṣhr
- gramm: <?>
- paradigm: <?> 
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?] 
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: sarqa 
  stem: sarqa.
@@ -37762,7 +37762,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: deinem Haupt zum Opfer (sagt man, wenn einem ein Kind gestorben ist) (sarqa d qarʕux)
- trans_en: <?> (sarqa d qarʕux)
+ trans_en: [?] (sarqa d qarʕux)
 -lexeme
  lex: sarsari
  stem: sarsari.|UNKNOWN.|sarsar.
@@ -38559,7 +38559,7 @@
  lex: sərsər
  stem: sərsər.
  root: srsr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Ton der Heuschrecke und des Glühwürmchens
  trans_en: sound of grashopper and firefly
@@ -39146,7 +39146,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: Ordonanzoffizier (amər subayi)
- trans_en: <?> (amər subayi)
+ trans_en: [?] (amər subayi)
 -lexeme
  lex: suč
  stem: suč.|UNKNOWN.|suč.
@@ -39881,7 +39881,7 @@
  root: ṣf
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: disguise
 -lexeme
  lex: ṣəffara
@@ -40570,7 +40570,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Schlag an das Flugholz
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: šakal/šakkal
  stem: šakal.//šakkal.|šakalat.//šakkalat.//šakale.//šakkale.
@@ -40615,7 +40615,7 @@
  lex: šalap/šlap
  stem: šalap.//šlap. 
  root: šlp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: lautmalend, wenn einer aus dem Reitersitz herunterfällt
  trans_en: onomatopoetic, when one falls out of the rider's seat
@@ -41402,7 +41402,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: umkragtes Loch der Handmühle
- trans_en: <?>  hole of the hand mill
+ trans_en: [?]  hole of the hand mill
 -lexeme
  lex: šayruno
  stem: šayruno.|UNKNOWN.|šayrun.
@@ -41583,7 +41583,7 @@
  lex: šəḥšəḥ
  stem: šəḥšəḥ.
  root: šḥšḥ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Geräusch fließenden Wassers
  trans_en: water stream sound
@@ -41687,10 +41687,10 @@
  lex: šən
  stem: šən.
  root: šn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: šəngašəng
  stem: šəngašəng.
@@ -41735,7 +41735,7 @@
  lex: šəršər
  stem: šəršər.
  root: šršr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: lautmalend für das Rauschen des Wasser
  trans_en: onomatopoeical for water sound
@@ -42202,7 +42202,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Mandelblattbirne, Pinus amygdaliforis Vill.
- trans_en: <...>, Pinus amygdaliforis Vill.
+ trans_en: [...], Pinus amygdaliforis Vill.
 -lexeme
  lex: šorba/šurba/širba/šərba/čorba
  stem: šorba.//šurba.//širba.//šərba.//čorba.|šorbat.//šurbat.//širbat.//šərbat.//čorbat.
@@ -42265,8 +42265,8 @@
  root: šqf
  gramm: N,f
  paradigm: N2
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: šqaqəlke
  stem: šqaqəlke.|UNKNOWN.|šqaqəlk.
@@ -42463,7 +42463,7 @@
  lex: šuḥšuḥ
  stem: šuḥšuḥ.
  root: šḥšḥ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Grunzen; Rauschen des Wassers
  trans_en: grunt; water noise 
@@ -42487,7 +42487,7 @@
  lex: šun
  stem: šun. 
  root: šn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: zurück (b šun va)
  trans_en: back (b šun va)
@@ -42735,7 +42735,7 @@
  lex: taʕmiž
  stem: taʕmiž.
  root: ʕmž
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Ruf im hole-Spiel
  trans_en: cry in the "hole"-game
@@ -42839,7 +42839,7 @@
  lex: taǧ
  stem: taǧ.
  root: tǧ
- paradigm: <?>
+ paradigm: [?]
  trans_de: Krone
  trans_en: crown
 -lexeme
@@ -42895,7 +42895,7 @@
  stem: tada.
  root: td
  gramm: ʕdw
- paradigm: <?>
+ paradigm: [?]
  trans_de: Angriff, Übergrif
  trans_en: attack, assault
 -lexeme
@@ -43334,7 +43334,7 @@
  lex: tapuzke
  stem: tapuzke.
  root: tpz
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: mit dem Finger gegen einen schnippen. Es gibt ein Spiel: man schnippt gegen einen mit dem Finger und fragt: „ mit welchem Finger habe ich geschnippt?“
  trans_en: with a finger against a snap. There's a game: you flick a finger at one of your fingers and ask: "which finger did I snap?"
@@ -43366,7 +43366,7 @@
  lex: taqataq
  stem: taqataq.
  root: tqtq
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Geknatter (der Pistolen) 
  trans_en: crackle (of pistols)
@@ -43430,7 +43430,7 @@
  lex: taqtaq/taqataq
  stem: taqtaq.//taqataq.
  root: tqtq
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Klappern der Holzschuhe; Geräusch, wenn einer an die Tür klopf
  trans_en: clatter of wooden shoes; sound when someone knocks on the door
@@ -43438,7 +43438,7 @@
  lex: taq.
  stem: taq.
  root: tq
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: voll ausgerüstet; Geräusch des Marschierens im Paradeschritt u. ä.; Geräusch einer Maschine; Getrappel von Pferden (taq w raq)
  trans_en: fully equipped; Ssund of marching in the parade step and the like; noise of a machine; patter of horses (taq w raq)
@@ -43590,7 +43590,7 @@
  lex: tarqen
  stem: tarqen.
  root: trqn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Geräusch des Schusses, einer Explosion, Herzklopfen
  trans_en: gunshot, explosion, palpitation sound
@@ -43627,6 +43627,14 @@
  trans_de: zwei
  trans_en: two
 -lexeme
+ lex: du
+ stem: du.
+ root: d
+ gramm: NUM
+ paradigm: unchangeable
+ trans_de: zwei
+ trans_en: two
+-lexeme
  lex: tartemeni
  stem: tartemeni.//ṭərṭəmeni.|tartemeniye.//ṭərṭəmeniyin.
  root: trtmn
@@ -43641,7 +43649,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Loch, Angelloch (der Türe)
- trans_en: hole, <...>
+ trans_en: hole, [...]
 -lexeme
  lex: tarwoḏo
  stem: tarwoḏo.|tarwoḏe.|tarwoḏ.
@@ -43846,10 +43854,10 @@
  lex: tawqat
  stem: tawqat.
  root: twq
- gramm: <?>
- paradigm: <?> 
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?] 
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: tawqo/ṭawqo
  stem: tawqo.//ṭawqo.|tawqe.//ṭawqe.
@@ -43953,7 +43961,7 @@
  gramm: N,m
  paradigm: N2
  trans_de: Ziegenbock; Ziegenbocksbart, Cistus, Hypocistus (für den Salat gebraucht) (daqne d tayse)
- trans_en: he-goat; <?>, cistus, hypocistus (used for salad) (daqne d tayse)
+ trans_en: he-goat; [?], cistus, hypocistus (used for salad) (daqne d tayse)
 -lexeme
  lex: tazdiqnama
  stem: tazdiqnama.
@@ -44022,10 +44030,10 @@
  lex: tešito
  stem: tešito.
  root: tšt
- gramm: <?>
- paradigm: <?> 
- trans_de: <?>
- trans_en: <?>
+ gramm: [?]
+ paradigm: [?] 
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: tez
  stem: tez.
@@ -44094,7 +44102,7 @@
  lex: təktək
  stem: təktək.
  root: tktk
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Klopfen des Hammers
  trans_en: hammer knocking
@@ -44158,7 +44166,7 @@
  lex: təltaḏ
  stem: təltaḏ.
  root: tltḏ
- gramm: N,<?>
+ gramm: N,[?]
  paradigm: unchangeable
  trans_de: vorvoriges Jahr
  trans_en: the year before the last one
@@ -44193,7 +44201,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: Kohlenglut
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: tərre
  stem: tərre.//ṭərre.|tərrat.//ṭərrat.
@@ -44422,7 +44430,7 @@
  lex: tiǧah 
  stem: tiǧah. 
  root: tǧh
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: gegenüber
  trans_en: opposite to
@@ -44751,7 +44759,7 @@
  lex: t-t
  stem: t-t.
  root: tt
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Ausdruck des Bedauerns
  trans_en: expression of regret
@@ -44767,7 +44775,7 @@
  lex: tuʕla
  stem: tuʕla.|UNKNOWN.|tuʕl.
  root: tʕl
- gramm: N,<?>
+ gramm: N,[?]
  paradigm: N2
  trans_de: kleiner Hund, Frettchen
  trans_en: little dog, ferret
@@ -45199,7 +45207,7 @@
  lex: ṭapṭapṭap/taptap
  stem: ṭapṭapṭap.//taptap.
  root: ṭpṭpṭp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch des Hämmerns
  trans_en: sound of hammering
@@ -45591,7 +45599,7 @@
  lex: ṭəng
  stem: ṭəng.
  root: ṭng
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Geräusch des Anschlagens an Metall 
  trans_en: metal striking sound
@@ -45623,7 +45631,7 @@
  lex: ṭəro
  stem: ṭəro.
  root: ṭr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Vok. furzen
  trans_en: voc. fart
@@ -45663,7 +45671,7 @@
  lex: ṭəṭṭəṭ
  stem: ṭəṭṭəṭ.
  root: ṭṭṭṭ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Stimme der Oboe
  trans_en: oboe sound
@@ -45695,7 +45703,7 @@
  lex: ṭitṭit
  stem: ṭitṭit.
  root: ṭtṭt
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Stimme der Autohupe
  trans_en: car horn sound
@@ -45762,7 +45770,7 @@
  gramm: N
  paradigm: N2
  trans_de: Stück der Sintflut (čika ṭofane)
- trans_en: <?> (čika ṭofane)
+ trans_en: [?] (čika ṭofane)
 -lexeme
  lex: ṭoləke
  stem: ṭoləke.|ṭoləkat.|ṭolək.
@@ -45825,7 +45833,7 @@
  root: ṭr
  gramm: PRTCL
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: let; may
 -lexeme
  lex: ṭrunuṣ
@@ -45839,7 +45847,7 @@
  lex: ṭuġṭuġ
  stem: ṭuġṭuġ.
  root: ṭġṭġ 
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable 
  trans_de: Geschrei eines satten Huhnes
  trans_en: shout of a sated chicken
@@ -46022,8 +46030,8 @@
  lex: učli/učilli
  stem: učli.//učilli.
  root: čl
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: drei Kreuze, Treff im Kartenspiel
  trans_en: three crosses, hit in the card game
 -lexeme
@@ -46113,7 +46121,7 @@
  gramm: PRTCL
  paradigm: unchangeable
  trans_de: etwa
- trans_en: <?>
+ trans_en: [?]
 -lexeme
  lex: uxyay/uxuyay
  stem: uxyay.//uxuyay.
@@ -46288,8 +46296,8 @@
  root: wkd
  gramm: ADV
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: wakilo/wakil
  stem: wakilo.//wakil.|wakile.
@@ -46422,7 +46430,7 @@
  lex: waqwaq
  stem: waqwaq.
  root: wqwq
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geschrei eines Fuchses, eines Raben, eines Säuglings
  trans_en: cry of a fox, raven, infant
@@ -46430,7 +46438,7 @@
  lex: war
  stem: war.
  root: wr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: gegenüberliegende Seite
  trans_en: opposite side
@@ -46550,7 +46558,7 @@
  lex: warwar
  stem: warwar.
  root: wrwr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geschrei eines kleinen Kindes; Kriegsgeschrei; Echo
  trans_en: baby's cry; warcry; echo
@@ -46710,7 +46718,7 @@
  lex: waw
  stem: waw.
  root: ww
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: der Buchstabe waw
  trans_en: letter waw
@@ -46814,7 +46822,7 @@
  lex: wazwaz
  stem: wazwaz.
  root: wzwz
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geschrei eines kleinen Kindes; trübe Gedanken
  trans_en: baby's cry; cloudy thoughts
@@ -46926,7 +46934,7 @@
  lex: wilwil
  stem: wilwil.
  root: wlwl
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: ängstliches Gezwitscher
  trans_en: anxious chirping
@@ -46934,7 +46942,7 @@
  lex: wirwir/wiriwiri
  stem: wirwir.//wiriwiri.
  root: wrwr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Scheuchruf für Hunde 
  trans_en: shooing away dogs
@@ -47193,7 +47201,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: „dass er ersticken möge!“ so sagt etwa die Mutter, wenn sich das Kind beim Essen verschluckt
- trans_en: „<...>!“ so says, for example, the mother, if the child chokes while eating
+ trans_en: „[...]!“ so says, for example, the mother, if the child chokes while eating
 -lexeme
  lex: xanǧar
  stem: xanǧar.|xəneǧər.//xaneǧər.
@@ -47350,7 +47358,7 @@
  lex: xarp
  stem: xarp.
  root: xrp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Laut, den man von sich gibt, wenn man ausreißt 
  trans_en: sound one makes when pulling out
@@ -47448,8 +47456,8 @@
  root: xṭr
  gramm: N,m
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: xawxo
  stem: xawxo.|xawxe.|xawx.
@@ -47584,8 +47592,8 @@
  root: xr
  gramm: N
  paradigm: N2
- trans_de: <?>; nicht zum Guten (na b xer); Gute Nacht! (ṭəṣbaḥun ʕal xer)
- trans_en: <?>; not for the better (na b xer); good night! (ṭəṣbaḥun ʕal xer)
+ trans_de: [?]; nicht zum Guten (na b xer); Gute Nacht! (ṭəṣbaḥun ʕal xer)
+ trans_en: [?]; not for the better (na b xer); good night! (ṭəṣbaḥun ʕal xer)
 -lexeme
  lex: xəbəs
  stem: xəbəs.|UNKNOWN.|xəbəs.
@@ -47678,7 +47686,7 @@
  lex: xərp
  stem: xərp.
  root: xrp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch beim Herausschlüpfen, Davonlaufen
  trans_en: sound of slipping out, running away
@@ -47694,7 +47702,7 @@
  lex: xərren
  stem: xərren.
  root: xrn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch des Laufens; Geräusch einer laufenden
  trans_en: sound of running; sound of a running person
@@ -47718,7 +47726,7 @@
  lex: xər
  stem: xər.
  root: xr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch auseinanderstiebender Leute (xər xər xər)
  trans_en: sound of scattering people (xər xər xər)
@@ -47742,7 +47750,7 @@
  lex: xəšbxəšb
  stem: xəšbxəšb.
  root: xšbxšb
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch des Scharrens eines Tieres 
  trans_en: sound of a scratching animal 
@@ -47758,7 +47766,7 @@
  lex: xəšxəš/xəštxəšt
  stem: xəšxəš.//xəštxəšt.
  root: xšxš
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch trockener Gegenstände; einer Schlange im Laube, die man nicht sieht, oder anderer Tiere, die ungehört durchs Gras kriechen
  trans_en: sound of dry objects; sound of a snake in the arbour one cannot see, or other animals crawling unheard through the grass
@@ -47790,7 +47798,7 @@
  lex: xəṭər
  stem: xəṭər.
  root: xṭr
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: gefährlich (zu denken) (b xəṭər)
  trans_en: dangerous (to think) (b xəṭər)
@@ -47870,10 +47878,10 @@
  lex: xloq
  stem: xloq.
  root: xlq
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: xnaq
  stem: xnaq.
@@ -48126,7 +48134,7 @@
  lex: xurmen
  stem: xurmen.
  root: xrmn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Ton einer geschlagenen Glocke
  trans_en: sound of a bell
@@ -48137,7 +48145,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: Geräusch der Türe, wenn sie sich öffnet oder schließt; des Wassers, wenn es fließt; des ausströmenden Getreides
- trans_en: sound when the door opens or closes; the water flowing; sound of <...> grain
+ trans_en: sound when the door opens or closes; the water flowing; sound of [...] grain
 -lexeme
  lex: xurs
  stem: xurs.|UNKNOWN.|xurs.
@@ -48182,10 +48190,10 @@
  lex: xuṣuṣ
  stem: xuṣuṣ.
  root: xṣṣ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
- trans_de: <?>
- trans_en: <?>
+ trans_de: [?]
+ trans_en: [?]
 -lexeme
  lex: xuṣuṣan
  stem: xuṣuṣan.
@@ -48230,7 +48238,7 @@
  lex: xušpxušp
  stem: xušpxušp.
  root: xšpxšp
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch dessen, der sich heimlich etwa kriechend, einem Haus nähert
  trans_en: the sound of someone secretly creeping while approaching a house
@@ -48246,7 +48254,7 @@
  lex: xušxuš 
  stem: xušxuš.
  root: xšxš
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Geräusch, das beim Kehren, dem Rauschen des Wassers, beim Flügelschlagen entsteht 
  trans_en: sound of sweeping, water, flapping wings
@@ -48398,7 +48406,7 @@
  lex: yabaḥiḏ
  stem: yabaḥiḏ.
  root: ybḥḏ
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: Beginn des Credo 
  trans_en: beginning of the credo
@@ -48464,7 +48472,7 @@
  root: yġlš
  gramm: N,f
  paradigm: unchangeable
- trans_de: <?>
+ trans_de: [?]
  trans_en: error, false thing
 -lexeme
  lex: yaho/yahu
@@ -48622,7 +48630,7 @@
  lex: yan
  stem: yan
  root: yn
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: sei es ... sei es (yan ... yan)
  trans_en: be it ... be it (yan ... yan)
@@ -49326,8 +49334,8 @@
  lex: zaqaṭune
  stem: zaqaṭune.
  root: zqṭn
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: in Hockestellung
  trans_en: in squatting position
 -lexeme
@@ -49438,7 +49446,7 @@
  lex: zat
  stem: zat.
  root: zt
- gramm: <?>
+ gramm: [?]
  paradigm: unchangeable
  trans_de: selbst
  trans_en: self
@@ -49626,7 +49634,7 @@
  paradigm: unchangeable
  trans_de: weiter, andere
  trans_en: further, others
--lexeme 
+-lexeme
  lex: zəʕǧ
  stem: zəʕǧ.
  root: zʕǧ
@@ -49726,8 +49734,8 @@
  lex: zəmzəm
  stem: zəmzəm.
  root: zmzm
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: Geräusch des Schlagens auf ein metallenes Schlagzeug 
  trans_en: sound of hittig a metal drum
 -lexeme
@@ -49950,8 +49958,8 @@
  lex: ziqziq
  stem: ziqziq.
  root: zqzq
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: Geräusch
  trans_en: noise
 -lexeme
@@ -50151,8 +50159,8 @@
  lex: zurzur/zərrzərr/zərzər
  stem: zurzur.//zərrzərr.//zərzər.
  root: zrzr
- gramm: <?>
- paradigm: <?>
+ gramm: [?]
+ paradigm: [?]
  trans_de: Geräusch einer Menschenmenge; Stimme des Wolfes und kleiner Tiere; Ton der Glocke, Kingel
  trans_en: crowd noise; voice of the wolf and small animals; sound of the bell, bell
 -lexeme

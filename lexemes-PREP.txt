@@ -4,7 +4,7 @@
  root: l
  gramm: prep
  paradigm: PREP_1
- trans_de: <?>
+ trans_de: [?]
  trans_en: to; towards; for
 -lexeme
  lex: bayn
@@ -12,7 +12,7 @@
  root: byn
  gramm: prep
  paradigm: PREP_bayn
- trans_de: <?>
+ trans_de: [?]
  trans_en: between
 -lexeme
  lex: b
@@ -20,7 +20,7 @@
  root: b
  gramm: prep
  paradigm: PREP_1
- trans_de: <?>
+ trans_de: [?]
  trans_en: in; with the help of
 -lexeme
  lex: me/mə/m
@@ -28,7 +28,7 @@
  root: m
  gramm: prep
  paradigm: PREP_me
- trans_de: <?>
+ trans_de: [?]
  trans_en: from
 -lexeme
  lex: se/sə/s
@@ -36,7 +36,7 @@
  root: s
  gramm: prep
  paradigm: PREP_se
- trans_de: <?>
+ trans_de: [?]
  trans_en: at; by; towards
 -lexeme
  lex: ʕal
@@ -44,7 +44,7 @@
  root: ʕl
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: on; upon
 -lexeme
  lex: ʕam
@@ -52,7 +52,7 @@
  root: ʕm
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: with
 -lexeme
  lex: gab
@@ -60,7 +60,7 @@
  root: gb
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: at; by; towards
 -lexeme
  lex: lašan
@@ -68,7 +68,7 @@
  root: lšn
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: for
 -lexeme
  lex: bəṯṯər
@@ -76,7 +76,7 @@
  root: ʔṯr
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: after
 -lexeme
  lex: qum
@@ -84,7 +84,7 @@
  root: qdm
  gramm: prep
  paradigm: PREP_3
- trans_de: <?>
+ trans_de: [?]
  trans_en: before; in front of
 -lexeme
  lex: xəd/xud
@@ -94,4 +94,12 @@
  paradigm: PREP_xud
  trans_de: wie
  trans_en: like
+-lexeme
+ lex: d
+ stem: d.//di.
+ root: d
+ gramm: prep
+ paradigm: unchangeable
+ trans_de: Genitivpartikel
+ trans_en: genitive particle
 
