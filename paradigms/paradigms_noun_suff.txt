@@ -1,53 +1,53 @@
 -paradigm: N_POSS_1
 # Possessive suffixes of the limited series
- -flex: <2>.i
+ -flex: .i
   gramm: poss,1,sg
- -flex: <2>.ux//<2>.ox
+ -flex: .ux//.ox
   gramm: poss,2,sg,m
- -flex: <2>.ax//<2>.əx
+ -flex: .ax//.əx
   gramm: poss,2,sg,f
- -flex: <2>.e
+ -flex: .e
   gramm: poss,3,sg,m
- -flex: <2>.a
+ -flex: .a
   gramm: poss,3,sg,f
- -flex: <2>.an//<2>.ayna
+ -flex: .an//.ayna
   gramm: poss,1,pl
- -flex: <2>.ayxu
+ -flex: .ayxu
   gramm: poss,2,pl
- -flex: <2>.ayye
+ -flex: .ayye
   gramm: poss,3,pl
 
 -paradigm: N_POSS_2
- -flex: <2>.ayḏi
+ -flex: .ayḏi
   gramm: poss,1,sg
- -flex: <2>.ayḏux//<2>.ayḏox
+ -flex: .ayḏux//.ayḏox
   gramm: poss,2,sg,m
- -flex: <2>.ayḏax//<2>.ayḏəx
+ -flex: .ayḏax//.ayḏəx
   gramm: poss,2,sg,f
- -flex: <2>.ayḏe
+ -flex: .ayḏe
   gramm: poss,3,sg,m
- -flex: <2>.ayḏa
+ -flex: .ayḏa
   gramm: poss,3,sg,f
- -flex: <2>.ayḏan
+ -flex: .ayḏan
   gramm: poss,1,pl
- -flex: <2>.aṯxu
+ -flex: .aṯxu
   gramm: poss,2,pl
- -flex: <2>.aṯṯe
+ -flex: .aṯṯe
   gramm: poss,3,pl
 
 -paradigm: NOUN_DEM_PRN_NEAR
 # nouns with attached pronouns
- -flex: <2>.ano
+ -flex: .ano
   gramm: dem_prn_near,m
- -flex: <2>.aṯe//<2>.aṯi
+ -flex: .aṯe//.aṯi
   gramm: dem_prn_near,f
- -flex: <2>.ani
+ -flex: .ani
   gramm: dem_prn_near,pl
 
 -paradigm: NOUN_DEM_PRN_FAR
- -flex: <2>.awo
+ -flex: .awo
   gramm: dem_prn_far,m
- -flex: <2>.ayo
+ -flex: .ayo
   gramm: dem_prn_far,f
- -flex: <2>.anək
+ -flex: .anək
   gramm: dem_prn_far,pl

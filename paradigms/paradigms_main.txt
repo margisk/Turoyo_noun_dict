@@ -31,6 +31,21 @@
   gramm: pl
  -flex: <0>.<.>//<1>.<.>
   gramm:
+  paradigm: N_POSS_2
+ -flex: <0>.<.>//<1>.<.>
+  gramm:
+  paradigm: NOUN_DEM_PRN_NEAR
+ -flex: <0>.<.>//<1>.<.>
+  gramm:
+  paradigm: NOUN_DEM_PRN_FAR
+
+-paradigm: N2_lim
+ -flex: <0>.
+  gramm: sg
+ -flex: <1>.
+  gramm: pl
+ -flex: <0>.<.>//<1>.<.>
+  gramm:
   paradigm: N_POSS_1
  -flex: <0>.<.>//<1>.<.>
   gramm:

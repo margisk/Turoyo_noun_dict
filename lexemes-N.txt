@@ -427,7 +427,7 @@
  stem: ʕaksuno.//ʕaksun.|ʕaksune.//ʕaksun.
  root: ʕksn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Ellbogen
  trans_en: elbow
 -lexeme
@@ -675,7 +675,7 @@
  stem: ʕammo.//ʕamm.|ʕammone.//ʕammon.
  root: ʕmm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Oheim, Vatersbruder, Onkel
  trans_en: uncle (from father's side)
 -lexeme
@@ -699,7 +699,7 @@
  stem: ʕamṯo.//ʕamṯ.|ʕamṯoṯe.//ʕamṯoṯo.//ʕamṯoṯ.//ʕamṯoṯ.
  root: ʕmm
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Tante, Vaters Schwester
  trans_en: aunt, father's sister
 -lexeme
@@ -1019,7 +1019,7 @@
  stem: ʕarquwo.//ʕarquw.|ʕarquwe.//ʕarquw.
  root: ʕrqb
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Achillesferse, Ferse
  trans_en: heel, Achilles' heel
 -lexeme
@@ -1027,7 +1027,7 @@
  stem: ʕaršo.//ʕarš.|ʕarše.//ʕaršone.//ʕarš.//ʕaršon.
  root: ʕrš
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Zahn
  trans_en: tooth
 -lexeme
@@ -1267,7 +1267,7 @@
  stem: ʕaṭmo.//ʕaṭm.|ʕaṭmoṯe.//ʕaṭmoṯo.//ʕaṭmoṯ.//ʕaṭmoṯ.
  root: ʕṭm
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Oberschenkel, Hinterbacke, Keule
  trans_en: hip, buttock, leg of beef
 -lexeme
@@ -1467,7 +1467,7 @@
  stem: ʕayno.//ʕayn.|ʕayne.//ʕaynoṯe.//ʕaynoṯo.//ʕaynawoṯe.//ʕayn.//ʕaynoṯ.//ʕaynoṯ.//ʕaynawoṯ.
  root: ʕyn
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Auge; Knospenansatz; Quelle, Brunnen, Wasserhahn
  trans_en: eye; shoot; spring, well
 -lexeme
@@ -2147,7 +2147,7 @@
  stem: ʕumro.//ʕəmro.//ʕumr.//ʕəmr.|ʕumrone.//ʕəmrone.//ʕumron.//ʕəmron.
  root: ʕmr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Leben, Lebensalter
  trans_en: life; age
 -lexeme
@@ -2227,7 +2227,7 @@
  stem: ʕurṭiṯo.//ʕurṭiṯ.|ʕurṭoṯe.//ʕurṭoṯ.
  root: ʕrṭṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Furz
  trans_en: fart
 -lexeme
@@ -2427,7 +2427,7 @@
  stem: abro.//abr.|abne.//abn.
  root: br
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Sohn
  trans_en: son
 -lexeme
@@ -2579,7 +2579,7 @@
  stem: aḏno.//aḏn.|aḏnoṯe.//aḏnoṯo.//aḏnoṯ.//aḏnoṯ.
  root: ḏn
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Ohr
  trans_en: ear
 -lexeme
@@ -2843,7 +2843,7 @@
  stem: aḥuno.//aḥun.|aḥnone.//aḥunone.//aḥənone.//aḥnon.//aḥunon.//aḥənon.
  root: ḥn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Bruder
  trans_en: brother
 -lexeme
@@ -2867,7 +2867,7 @@
  stem: alʕo.//alʕ.|alʕoṯe.//alʕoṯo.//alʕoṯ.//alʕoṯ.
  root: lʕ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Rippe (mit Fleisch)
  trans_en: rib (with meat)
 -lexeme
@@ -3299,7 +3299,7 @@
  stem: arʕo.//arʕ.|arʕoṯe.//arʕoṯo.//arʕoṯ.//arʕoṯ.
  root: rʕ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Erde; Feld, Ackerfeld
  trans_en: earth; field
 -lexeme
@@ -3715,7 +3715,7 @@
  stem: aṯto.//aṯt.|niše.//niš.
  root: ṯt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Frau, Ehefrau
  trans_en: woman; wife
 -lexeme
@@ -4139,7 +4139,7 @@
  stem: babo.//bab.|babe.//babone.//bab.//babon.
  root: bb
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Vater
  trans_en: father
 -lexeme
@@ -5075,7 +5075,7 @@
  stem: barko.//bark.|barkoṯe.//barkoṯo.//barkoṯ.//barkoṯ.
  root: brk
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Knie
  trans_en: knee
 -lexeme
@@ -5203,7 +5203,7 @@
  stem: barṣawlo.//barṣawl.|barṣawle.//barṣawl.
  root: brṣwl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Brust
  trans_en: chest
 -lexeme
@@ -5235,7 +5235,7 @@
  stem: barṯo.//barṯ.|abnoṯe.//abnoṯo.//bnoṯe.//bnoṯo.//abnoṯ.//abnoṯ.//bnoṯ.//bnoṯ.
  root: brṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Tochter
  trans_en: daughter
 -lexeme
@@ -5779,7 +5779,7 @@
  stem: bayto.//bayt.|bote.//bot.
  root: byt
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Haus, Familie; Vers
  trans_en: house, family; verse
 -lexeme
@@ -6763,7 +6763,7 @@
  stem: bolo.//bol.|bole.//bol.
  root: bl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Sinn, Aufmerksamkeit, Achthaben, Aufpassen, Bemerken
  trans_en: mind, attentiveness, attention, perception
 -lexeme
@@ -8787,7 +8787,7 @@
  stem: damṯo.//damṯ.|damoṯe.//damoṯo.//damoṯ.//damoṯ.
  root: dmṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: wenn zwei Brüder heiraten, werden die Frauen gegenseitig damoṯe; Schwägerin
  trans_en: wenn two brothers marry, the wives become damoṯe to each other; sister-in-law
 -lexeme
@@ -8875,7 +8875,7 @@
  stem: danwo.//danw.|danwe.//danw.
  root: dnw
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schwanz
  trans_en: tail
 -lexeme
@@ -8915,7 +8915,7 @@
  stem: daqno.//daqn.|daqne.//daqn.
  root: dqn
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Bart; Ziegenbocksbart, Cistus, Hypocistus (für den Salat gebraucht) (daqne d tayse)
  trans_en: beard; [?], cistus, hypocistus (used for salad) (daqne d tayse)
 -lexeme
@@ -9003,7 +9003,7 @@
  stem: darbo.//ḏ̣arbo.//ḍarbo.//darb.//arb.//ḍarb.|darbat.//ḏ̣arbat.//ḍarbat.//darb.//arb.//ḍarb.
  root: ḍrb
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schlag, Streich; Weggabelung (friš darbo)
  trans_en: hit, strike; road fork (friš darbo)
 -lexeme
@@ -9499,7 +9499,7 @@
  stem: dawro.//dawr.|dawre.//dawr.
  root: dwr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Reihe, an die man kommt; Runde, die ein Glücksvogel fliegt
  trans_en: queue; round which a bird makes
 -lexeme
@@ -9571,7 +9571,7 @@
  stem: daxro.//daxr.|daxre.//daxr.
  root: dxr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Penis vom 18. bis zum 40. Jahre
  trans_en: penis from 18 to 40 years old
 -lexeme
@@ -9619,7 +9619,7 @@
  stem: dayno.//dayn.|dayne.//dayn.
  root: dyn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schuld, geborgtes Geld
  trans_en: debt, hidden gold
 -lexeme
@@ -10323,7 +10323,7 @@
  stem: droʕo.//druʕo.//droʕ.//druʕ.|droʕone.//drəʕone.//druʕone.//droʕe.//druʕe.//droʕon.//drəʕon.//druʕon.//droʕ.//druʕ.
  root: drʕ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Arm, Elle
  trans_en: arm, cubit
 -lexeme
@@ -10443,7 +10443,7 @@
  stem: dukṯo.//dukṯ.|dukoṯo.//dəkoṯo.//dkoṯe.//dukoṯe.//dəkoṯe.//dkoṯo.//dukoṯ.//dəkoṯ.//dkoṯ.//dukoṯ.//dəkoṯ.//dkoṯ.
  root: dkṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Ort, Stelle
  trans_en: place
 -lexeme
@@ -10859,7 +10859,7 @@
  stem: emo.//em.|emoṯe.//emoṯo.//ammoṯo.//ammoṯe.//ummoṯe.//ummoṯo.//emoṯ.//emoṯ.//ammoṯ.//ammoṯ.//ummoṯ.//ummoṯ.
  root: m
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Mutter
  trans_en: mother
 -lexeme
@@ -11803,7 +11803,7 @@
  stem: femo.//pemo.//fem.//pem.|feme.//peme.//fem.//pem.
  root: fm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Mund, Maul; Rand, Ufer, Eingang, Luke Mündung
  trans_en: mouth; edge, shore, entrance, hatch opening
 -lexeme
@@ -11923,7 +11923,7 @@
  stem: fəlgo.//falgo.//fəlg.//falg.|fəlgone.//falgone.//fəlgon.//falgon.
  root: plg
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Mitte, Hälfte
  trans_en: middle, half
 -lexeme
@@ -12355,7 +12355,7 @@
  stem: foṯo.//poṯo.//foṯ.//poṯ.|pətoṯe.//pətoṯo.//pəṯoṯe.//pəṯoṯo.//fətoṯo.//fəṯoṯo.//pətoṯ.//pətoṯ.//pəṯoṯ.//pəṯoṯ.//fətoṯ.//fəṯoṯ.
  root: pwt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Gesicht, Oberfläche; Überzug, Tischdecke; Marschrichtung; Deckel; Seite (eines Buches)
  trans_en: face, surface; table cloth, cover; marching direction; lid; page of a book
 -lexeme
@@ -12715,7 +12715,7 @@
  stem: galdo.//gald.|galde.//gald.
  root: gld
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Haut, Fell, Leder
  trans_en: skin, leather
 -lexeme
@@ -13051,7 +13051,7 @@
  stem: gawno.//gawn.|gawne.//gawn.
  root: gwn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Farbe, Pferdefarbe
  trans_en: colour
 -lexeme
@@ -13067,7 +13067,7 @@
  stem: gawro.//gawr.|gawre.//gawr.
  root: gwr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Mann, Ehemann
  trans_en: male, husband
 -lexeme
@@ -13599,6 +13599,14 @@
  trans_de: Gedanke, Vorstellung, Verdacht
  trans_en: thought, belief, opinion, suspicion
 -lexeme
+ lex: greʕo
+ stem: greʕo.//greʕ.|greʕe.//greʕ.
+ root: grʕ
+ gramm: N,m
+ paradigm: N2_lim
+ trans_de:
+ trans_en: slave, servant
+-lexeme
  lex: guʕguʕ
  stem: guʕguʕ.|guʕguʕe.//guʕguʕ.
  root: gʕgʕ
@@ -13979,7 +13987,7 @@
  stem: gušmo.//gəšmo.//gušm.//gəšm.|gušme.//gəšme.//gušm.//gəšm.
  root: gšm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Körper
  trans_en: body
 -lexeme
@@ -14611,7 +14619,7 @@
  stem: ǧagro.//ǧagr.|UNKNOWN.
  root: ǧgr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Gurgel
  trans_en: throat
 -lexeme
@@ -15107,7 +15115,7 @@
  stem: ǧəddo.//ǧədd.|ǧədde.//ǧəddone.//ǧədd.//ǧəddon.
  root: ǧdd
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Großvater
  trans_en: grandfather
 -lexeme
@@ -18067,7 +18075,7 @@
  stem: ḥaṣo.//ḥaṣ.|ḥaṣe.//ḥaṣ.
  root: ḥṣ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Hüfte; Rücken; fig. Schutz, Schützer, Hilfe; mit gelöster Hüfte, mit gelöstem Gürtel, im Nachtgewand (šre ḥaṣo)
  trans_en: hip; back; fig. protection, protector, help; with relaxed hips, with loosened belt, in nightgown (šre ḥaṣo)
 -lexeme
@@ -18246,6 +18254,14 @@
  paradigm: N2
  trans_de: Ziegenböckchen vom 4. Jahre an
  trans_en: goat of four years and older
+-lexeme
+ lex: ḥawro
+ stem: ḥawro.//ḥawr.|ḥawrone.//ḥawron.
+ root: ḥwr
+ gramm: N,m
+ paradigm: N2_lim
+ trans_de: Freund
+ trans_en: friend
 -lexeme
  lex: ḥawṭ
  stem: ḥawṭ.|UNKNOWN.
@@ -18755,7 +18771,7 @@
  stem: ḥəlmo.//ḥulmo.//ḥəlm.//ḥulm.|ḥəlme.//ḥulme.//ḥəlm.//ḥulm.
  root: ḥlm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Traum
  trans_en: dream
 -lexeme
@@ -18771,7 +18787,7 @@
  stem: ḥəlto.//ḥulto.//ḥəlt.//ḥult.|ḥəltoṯo.//ḥəltoṯe.//ḥultoṯo.//ḥultoṯe.//ḥəltoṯ.//ḥəltoṯ.//ḥultoṯ.//ḥultoṯ.
  root: ḥlt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schwester der Mutter, Tante
  trans_en: mother's sister, aunt
 -lexeme
@@ -18899,7 +18915,7 @@
  stem: ḥəmyono.//ḥəmyon.|ḥəmyone.//ḥəmyon.
  root: ḥmyn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schwiegervater
  trans_en: father-in-law
 -lexeme
@@ -19083,7 +19099,7 @@
  stem: ḥəšwo.//ḥušwo.//ḥəšw.//ḥušw.|UNKNOWN.
  root: ḥsb
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Rechnung, Zählung, Rechnen mit, Vermutung
  trans_en: counting, accounting for; assumption
 -lexeme
@@ -19291,7 +19307,7 @@
  stem: ḥmoṯo.//ḥmoṯ.|ḥmaṯyoṯo.//ḥmaṯyoṯe.//ḥmaṯyoṯ.//ḥmaṯyoṯ.
  root: ḥmṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schwiegermutter
  trans_en: mother-in-law
 -lexeme
@@ -19323,7 +19339,7 @@
  stem: ḥolo.//ḥol.|ḥəlone.//ḥolone.//ḥəlon.//ḥolon.
  root: ḥl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Bruder der Mutter, Onkel; Im Spiel: Beschützer
  trans_en: mother's brother, uncle; in the game: guardian
 -lexeme
@@ -19363,7 +19379,7 @@
  stem: ḥoṯo.//ḥoṯ.|aḥwoṯo.//aḥwoṯe.//ḥwoṯe.//ḥwoṯo.//ḥoṯoṯe.//ḥoṯoṯo.//aḥwoṯ.//aḥwoṯ.//ḥwoṯ.//ḥwoṯ.//ḥoṯoṯ.//ḥoṯoṯ.
  root: ḥṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schwester; zweites Stück eines Paares
  trans_en: sister; second piece of a pair
 -lexeme
@@ -19451,7 +19467,7 @@
  stem: ḥṭiṯo.//ḥṭiṯ.|ḥṭiyawoṯo.//ḥṭiyawoṯe.//ḥṭiyawoṯ.//ḥṭiyawoṯ.
  root: ḥṭy
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Sünde
  trans_en: sin
 -lexeme
@@ -19683,7 +19699,7 @@
  stem: iḏo.//iḏ.|iḏoṯe.//iḏoṯo.//iḏoṯ.//iḏoṯ.
  root: ḏ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Hand
  trans_en: hand
 -lexeme
@@ -20059,7 +20075,7 @@
  stem: əšmo.//əšm.|əšmone.//əšmon.
  root: šm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Name
  trans_en: name
 -lexeme
@@ -21043,7 +21059,7 @@
  stem: katfo.//kaṯpo.//katf.//kaṯp.|katfoṯo.//katfoṯe.//kaṯpoṯe.//kaṯpoṯo.//katfoṯ.//katfoṯ.//kaṯpoṯ.//kaṯpoṯ.
  root: ktf
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schulter
  trans_en: shoulder
 -lexeme
@@ -21603,7 +21619,7 @@
  stem: kəsto.//kəst.|kəstoṯe.//kəstoṯo.//kəstoṯ.//kəstoṯ.
  root: kst
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Tasche, Beutel
  trans_en: bag, purse
 -lexeme
@@ -21723,7 +21739,7 @@
  stem: kiso.//kis.|kisone.//kise.//kison.//kis.
  root: ks
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Seitentasche, Sack
  trans_en: pocket; bag
 -lexeme
@@ -23491,7 +23507,7 @@
  stem: lebo.//leb.|lebe.//leb.
  root: lb
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Herz
  trans_en: heart
 -lexeme
@@ -23643,7 +23659,7 @@
  stem: lišono.//lišon.|lišone.//lišon.
  root: lšn
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Zunge; Sprache
  trans_en: tongue; language
 -lexeme
@@ -25459,7 +25475,7 @@
  stem: maquzo.//maquz.|UNKNOWN.
  root: mqz
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schnabel
  trans_en: beak
 -lexeme
@@ -25779,7 +25795,7 @@
  stem: marto.//mərto.//mart.//mərt.|UNKNOWN.
  root: mrt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Herrin
  trans_en: mistress
 -lexeme
@@ -26587,7 +26603,7 @@
  stem: meḥo.//muḥo.//meḥ.//muḥ.|meḥe.//meḥ.
  root: mḥ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Gehirn, Verstand
  trans_en: brain, mind
 -lexeme
@@ -27891,7 +27907,7 @@
  stem: moro.//mor.|more.//mor.
  root: mr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Herr; jemand, der für jemanden, ein Kind oder ein Tier sorgt, ihn/es pflegt und großzieht
  trans_en: lord; someone that looks after someone and raises someone (a child or an animal)
 -lexeme
@@ -30147,7 +30163,7 @@
  stem: nḥiro.//nḥir.|nḥire.//nḥir.
  root: nḥr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Nase
  trans_en: nose
 -lexeme
@@ -33059,7 +33075,7 @@
  stem: qarʕo.//qarʕ.|qarʕe.//qarʕ.
  root: qrʕ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Kopf, Schädel, Spitze, Gipfel, Dach; Kürbis; Halskürbis (qarʕo w qḏole); deinem Haupt zum Opfer (sarqa d qarʕux)
  trans_en: head, skull, top, roof; pumpkin; [?] (qarʕo w qḏole); [?] (sarqa d qarʕux)
 -lexeme
@@ -33531,7 +33547,7 @@
  stem: qašto.//qašt.|qaštoṯe.//qaštoṯo.//qaštoṯ.//qaštoṯ.
  root: qšt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Großmutter; Hebamme, Wehmutter
  trans_en: grandmother; midwife
 -lexeme
@@ -33955,7 +33971,7 @@
  stem: qḏolo.//qḏol.|qḏole.//qḏol.
  root: qḏl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Hals; dünner, schlechter Weizen, Strohstückchen, die beim Sieben auf die Erde fallen; Halskürbis (qarʕo w qḏole)
  trans_en: neck; thin, bad wheat, pieces of straw that fall to the ground during sieving; [?] (qarʕo w qḏole)
 -lexeme
@@ -34507,7 +34523,7 @@
  stem: qmoṣo.//qmoṣ.|UNKNOWN.
  root: qmṣ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Handvoll
  trans_en: handful
 -lexeme
@@ -34579,7 +34595,7 @@
  stem: qolo.//qol.|qole.//qol.
  root: qwl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Geschrei, Wehgeschrei; Ruf, Stimme; Kirchenlied
  trans_en: shouting, crying; call, voice; hymn
 -lexeme
@@ -35123,7 +35139,7 @@
  stem: qumṯo.//qumṯ.|qumoṯo.//qumoṯe.//qumoṯ.//qumoṯ.
  root: qwm
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Körpergröße, Statur, Wuchs, Gestalt
  trans_en: height, stature, growth, shape
 -lexeme
@@ -35715,7 +35731,7 @@
  stem: raġlo.//raġl.|raġle.//raġloṯe.//raġloṯo.//raġl.//raġloṯ.//raġloṯ.
  root: rġl
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Fuß
  trans_en: leg, foot
 -lexeme
@@ -36355,7 +36371,7 @@
  stem: reḥo.//riḥo.//reḥ.//riḥ.|reḥone.//reḥon.
  root: rwḥ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Geruch, Duft, Gestank
  trans_en: smell, aroma, stench
 -lexeme
@@ -36739,7 +36755,7 @@
  stem: rišo.//rešo.//riš.//reš.|riše.//reše.//riš.//reš.
  root: rš
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Haupt, Kopf; Ende, Spitze; Straßenende; kurzer Besuch
  trans_en: head; end, top; road end; short visit, short period
 -lexeme
@@ -36803,7 +36819,7 @@
  stem: ruʕo.//ruʕ.|ruʕe.//ruʕ.
  root: rbʕ
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Viertel
  trans_en: quarter
 -lexeme
@@ -37243,7 +37259,7 @@
  stem: sahmo.//sahm.//sahm.|sahme.//sahm.
  root: shm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Anteil
  trans_en: share
 -lexeme
@@ -37571,7 +37587,7 @@
  stem: sapṯo.//sapṯ.|sappoṯo.//sappoṯe.//sappoṯ.//sappoṯ.
  root: spṯ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Lippe; Ufer
  trans_en: lip; shore
 -lexeme
@@ -37907,7 +37923,7 @@
  stem: sawko.//sawk.|sawke.//sawkoṯe.//sawkoṯo.//sawk.//sawkoṯ.//sawkoṯ.
  root: swb
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Haar; Gestrüpp von Steineichen pl -oṯe
  trans_en: hair; holm oak thicket;
 -lexeme
@@ -38067,7 +38083,7 @@
  stem: sefo.//sef.|sefe.//sef.
  root: sf
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Schoß
  trans_en: lap
 -lexeme
@@ -39179,7 +39195,7 @@
  stem: suġlo.//suġl.|šuġlone.//šuġle.//šuġlon.//šuġl.
  root: sġl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: die Traube, solange Beeren dran sind, sonst sigo
  trans_en: the grape, as long as there are grapes, otherwise sigo
 -lexeme
@@ -39331,7 +39347,7 @@
  stem: ṣaʕro.//ṣaʕr.|ṣaʕre.//ṣaʕr.
  root: ṣʕr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Haar
  trans_en: hair
 -lexeme
@@ -39435,7 +39451,7 @@
  stem: ṣadro.//ṣadr.|ṣadrone.//ṣadron.
  root: ṣdr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Brust, auch weibliche; Ehrenplatz
  trans_en: breast, also female; place of honour
 -lexeme
@@ -39523,7 +39539,7 @@
  stem: ṣahwo.//ṣahw.|ṣahwone.//ṣahwon.
  root: ṣhw
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Durst
  trans_en: thirst
 -lexeme
@@ -39635,7 +39651,7 @@
  stem: ṣalmo.//ṣalm.|ṣalme.//ṣalm.
  root: ṣlm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Götze; Gesicht
  trans_en: idol; face
 -lexeme
@@ -39795,7 +39811,7 @@
  stem: ṣawʕo.//ṣawʕ.|ṣawʕoṯe.//ṣawʕoṯo.//ṣawʕoṯ.//ṣawʕoṯ.
  root: ṣbʕ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Finger
  trans_en: finger
 -lexeme
@@ -40011,7 +40027,7 @@
  stem: ṣərto.//ṣurto.//ṣərt.//ṣurt.|ṣərtoṯe.//ṣərtoṯo.//ṣurtoṯe.//ṣurtoṯo.//ṣərtoṯ.//ṣərtoṯ.//ṣurtoṯ.//ṣurtoṯ.
  root: ṣrt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Bild
  trans_en: picture
 -lexeme
@@ -40083,7 +40099,7 @@
  stem: ṣluṯo.//ṣluṯ.|ṣlawoṯe.//ṣlawoṯo.//ṣlawoṯ.//ṣlawoṯ.
  root: ṣlw
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Gebet, Gottesdienst
  trans_en: prayer, worship
 -lexeme
@@ -42267,7 +42283,7 @@
  stem: špəlte.//špəlt.|UNKNOWN.
  root: šplt
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Rocksaum; Gesicht
  trans_en: skirt hem; face
 -lexeme
@@ -42467,7 +42483,7 @@
  stem: šuġlo.//šuġl.|šuġlone.//šuġle.//šuġlon.//šuġl.
  root: šġl
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Arbeit; Angelegenheit, Sache
  trans_en: job; matter, thing
 -lexeme
@@ -43011,7 +43027,7 @@
  stem: taḥolo.//taḥḥolo.//taḥol.//taḥḥol.|UNKNOWN.
  root: tḥl
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Frau des Bruders der Mutter, Tante
  trans_en: wife of the mother`s brother, aunt
 -lexeme
@@ -44267,7 +44283,7 @@
  stem: təšʕo.//təšʕ.|UNKNOWN.
  root: tšʕ
  gramm: N,f
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Achsel taḥte təšʕe 'Achselhöhle'
  trans_en: shoulder taḥte təšʕe 'armpit'
 -lexeme
@@ -44939,7 +44955,7 @@
  stem: ṭaʕmo.//ṭaʕm.|ṭaʕmone.//ṭaʕmon.
  root: ṭʕm
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Geschmack; Gericht, Art von Speisen, Früchten
  trans_en: taste; dish, kind of food, fruits
 -lexeme
@@ -45022,6 +45038,14 @@
  paradigm: N2
  trans_de: Koch
  trans_en: cook
+-lexeme
+ lex: ṭafro
+ stem: ṭafro.//ṭafr.|ṭafrone.//ṭafron.
+ root: ṭfr
+ gramm: N,m
+ paradigm: N2_lim
+ trans_de: Nagel
+ trans_en: nail
 -lexeme
  lex: ṭaġno
  stem: ṭaġno.//ṭaġn.|UNKNOWN.
@@ -45731,7 +45755,7 @@
  stem: ṭizo.//ṭiz.|ṭize.//ṭiz.
  root: ṭz
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: After, Hintern
  trans_en: anus, backside
 -lexeme
@@ -47043,7 +47067,7 @@
  stem: xabro.//xabr.|xabre.//xabr.
  root: xbr
  gramm: N,m
- paradigm: N2
+ paradigm: N2_lim
  trans_de: Wort, Rede, Gerücht, Kunde, Neuigkeit
  trans_en: word, speech, rumor, customer, news
 -lexeme
@@ -49670,6 +49694,14 @@
  paradigm: N2
  trans_de: Butter
  trans_en: butter
+-lexeme
+ lex: zəbbo
+ stem: zəbbo.//zəbb.|zəbbe.//zəbb.
+ root: zbb
+ gramm: N,m
+ paradigm: N2
+ trans_de:
+ trans_en: penis
 -lexeme
  lex: zəfkar
  stem: zəfkar.|zəfkar.
