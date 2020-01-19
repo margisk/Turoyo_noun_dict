@@ -918,6 +918,7 @@
  paradigm: unchangeable
  trans_de: Arabien
  trans_en: Arabia, Arabian Peninsula
+-lexeme
  lex: ʕaradude
  stem: ʕaradude.|ʕaradudat.
  root: ʕrd
@@ -981,6 +982,7 @@
  paradigm: unchangeable
  trans_de: anfällig
  trans_en: vulnerable, prone
+-lexeme
  lex: ʕariqo
  stem: ʕariqo.//ʕriqo.|ʕarəqto.//ʕrəqto.|ʕariqe.//ʕriqe.
  root: ʕrq
@@ -1100,6 +1102,7 @@
  paradigm: N2
  trans_de: Haken, Kleiderbügel, Garderobenständer
  trans_en: clothes hook, rack
+-lexeme
  lex: ʕaṣaba/ʕaṣabe.
  stem: ʕaṣaba.//ʕaṣabe.|ʕaṣabat.|ʕaṣab.//ʕaṣab.
  root: ʕṣb
@@ -1179,6 +1182,7 @@
  paradigm: unchangeable
  trans_de: liebend
  trans_en: loving
+-lexeme
  lex: ʕašire
  stem: ʕašire.|ʕašayər.|ʕašir.
  root: ʕšr
@@ -2058,6 +2062,7 @@
  paradigm: unchangeable
  trans_de: bedürfend
  trans_en: one in need
+-lexeme
  lex: ʕrayto
  stem: ʕrayto.|ʕrayoṯe.//ʕrayoṯo.
  root: ʕry
@@ -2239,7 +2244,8 @@
  root: ʕyn
  gramm: N,f
  paradigm: unchangeable
- trans_de: fried eggs
+ trans_de: Spiegeleier
+ trans_en: fried eggs
 -lexeme
  lex: ʕweḏ
  stem: ʕweḏ.//ʕweḏət.
@@ -4083,6 +4089,7 @@
 -lexeme
  lex: baʕlo
  stem: baʕlo.
+ root: bʕl
  gramm: CONJ
  paradigm: unchangeable
  trans_de: aber doch; nun dann
@@ -5216,7 +5223,6 @@
  trans_de: ṭang Riemen mit dem man den Sattel dem Pferde auf der Brust befestigt, barṭang Riemen, mit dem man ihn dem Tier unter dem Leib befestigt (ṭang w barṭangat)
  trans_en: ṭang strap, with which the saddle is fastened to the horse on the chest, barṭang strap, with which it is attached to the animal under the body (ṭang w barṭangat)
 -lexeme
--lexeme
  lex: barṭil
  stem: barṭil.|bəreṭəl.//breṭəl.//bareṭəl.
  root: brṭl
@@ -5479,6 +5485,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: besonders, für sich, abgetrennt
+ trans_en: separately; especially
 -lexeme
  lex: bašše
  stem: bašše.|UNKNOWN.|bašš.
@@ -6646,6 +6653,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Unter die Erde mit dir/ihm/ihr (bin ʕard, bin ʕardo, bin ʕarde)
+ trans_en: to hell with you (bin ʕard, bin ʕardo, bin ʕarde)
 -lexeme
  lex: binaye/bənaye
  stem: binaye.//bənaye.|bənayat.//binayat.
@@ -16253,6 +16261,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: deiktisch und mit unsicherer Bedeutung; o weh! Zum Kuckuck!
+ trans_en: deictic particle with unclear meaning: oy wey! damn it!
 -lexeme
  lex: hayʔa
  stem: hayʔa.|UNKNOWN.|hayʔ.
@@ -19204,6 +19213,7 @@
  gramm: N
  paradigm: unchangeable
  trans_de: Ziegenrasse, mit dicken, starken Haaren, aus denen Titik gemacht wird
+ trans_en: a goat breed with thick hair, from which titik is made
 -lexeme
  lex: ḥize
  stem: ḥize.|ḥizat.|ḥiz.
@@ -20209,7 +20219,6 @@
  stem: kab.
  root: kb
  gramm: N
- paradigm: N
  paradigm: unchangeable
  trans_de: Rind mit braunen Beinen und schwarzen Knien (kab raš)
  trans_en: [...] with brown legs and black knees (kab raš)
@@ -22213,7 +22222,7 @@
  paradigm: N2
  trans_de: Geräusch, das entsteht, wenn man Wasser in Eimer schüttet
  trans_en: noise which appears when one pours water in buckets
--lexem
+-lexeme
  lex: kufro
  stem: kufro.
  root: kfr
@@ -23658,6 +23667,7 @@
  stem: lo.
  root: l
  gramm: INTERJ
+ paradigm: unchangeable
  trans_de: nein
  trans_en: no
 -lexeme
@@ -25577,7 +25587,6 @@
  stem: maraqli.
  root: mrq
  gramm: N
- paradigm: N
  paradigm: unchangeable
  trans_de: Eifer
  trans_en: eagerness
@@ -28272,7 +28281,8 @@
 -lexeme
  lex: mučərten
  stem: mučərten.
- root: ADJ
+ root: mčrtn
+ gramm: ADJ
  paradigm: unchangeable
  trans_de: sehr geizig
  trans_en: very stingy
@@ -30740,7 +30750,6 @@
  paradigm: N2
  trans_de: Autobus
  trans_en: bus
- root: 
 -lexeme
  lex: oṯuroyo
  stem: oṯuroyo.|oṯurayto.|oṯuroye.
@@ -31211,7 +31220,8 @@
  root: pṭ
  gramm: N
  paradigm: unchangeable
- trans_de: stalemate, draw; even
+ trans_de: Patt, Remis (Schach), quitt
+ trans_en: stalemate, draw; even
 -lexeme
  lex: paṭaṭa/pəṭaṭa
  stem: paṭaṭa.//pəṭaṭa.|paṭaṭat.//pəṭaṭat.
@@ -31455,8 +31465,9 @@
 -lexeme
  lex: pərrr
  stem: pərrr.
+ root: pr
  gramm: N
- paradigm: [?]
+ paradigm: unchangeable
  trans_de: Geräusch des Flatterns
  trans_en: sound of fluttering
 -lexeme
@@ -33690,6 +33701,7 @@
  gramm: ADJ
  paradigm: unchangeable
  trans_de: auf dem Wasser dahintreibend
+ trans_en: floating on water
 -lexeme
  lex: qavze/qabze
  stem: qavze.//qabze.|qavzat.//qabzat.
@@ -35978,7 +35990,6 @@
  paradigm: unchangeable
  trans_de: Geräusch, das ein Tier beim Aufspringen oder beim sich zum Schlafen legen auf die Erde macht; Geräusch der Hand, wenn sie auf die Erde schlägt; voll ausgerüstet; Geräusch des Marschierens im Paradeschritt u. ä.; Geräusch einer Maschine; Getrappel von Pferden (taq w raq)
  trans_en: sound which an animal produces when jumping up or by lying down on the ground to sleep; sound of the hand hitting the ground; fully equipped; sound of marching in the parade step and the like; noise of a machine; patter of horses (taq w raq)
--lexeme
 -lexeme
  lex: raqame
  stem: raqame.|UNKNOWN.|raqam.
@@ -38307,7 +38318,7 @@
  paradigm: unchangeable
  trans_de: betrunken, wie betrunken sich benehmend 
  trans_en: drunk, behaving like a drunk
--l AD
+-lexeme
  lex: səktər
  stem: səktər.
  root: sktr
@@ -42839,6 +42850,7 @@
  lex: taǧ
  stem: taǧ.
  root: tǧ
+ gramm: N
  paradigm: [?]
  trans_de: Krone
  trans_en: crown
@@ -44523,7 +44535,6 @@
  trans_de: ganz steif wie ein Pfeil, baumelnd (tir w tišk) 
  trans_en: very stiff like an arrow, dangling (tir w tišk)
 -lexeme
--lexeme
  lex: titi
  stem: titi.|UNKNOWN.|tit.
  root: tt
@@ -45886,6 +45897,7 @@
 -lexeme
  lex: ṭuro
  stem: ṭuro.|ṭure.|ṭur.
+ root: ṭr
  gramm: N,m
  paradigm: N2
  trans_de: Steinbock (ʕezo ṭuro)
@@ -50130,7 +50142,6 @@
  paradigm: unchangeable
  trans_de: (eigentl. Gift und Höllenbaum) Siebensachen, Krimskrams (žaḥr w zuqqum)
  trans_en: (lit. poison and cursed tree); bits and pieces (žaḥr w zuqqum)
--lexeme
 -lexeme
  lex: zurəḥ
  stem: zurəḥ.|UNKNOWN.|zurəḥ.
