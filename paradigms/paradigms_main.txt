@@ -1,16 +1,16 @@
 -paradigm: unchangeable
- -flex: <0>.
+ -flex: .
   gramm: 
- -flex: <1>.<.>
+ -flex: .<.>
   gramm:
   paradigm: N_POSS_1
- -flex: <1>.<.>
+ -flex: .<.>
   gramm:
   paradigm: N_POSS_2
- -flex: <1>.<.>
+ -flex: .<.>
   gramm:
   paradigm: NOUN_DEM_PRN_NEAR
- -flex: <1>.<.>
+ -flex: .<.>
   gramm:
   paradigm: NOUN_DEM_PRN_FAR
 
@@ -29,16 +29,16 @@
   gramm: sg
  -flex: <1>.
   gramm: pl
- -flex: <2>.<.>
+ -flex: <0>.<.>//<1>.<.>
   gramm:
   paradigm: N_POSS_1
- -flex: <2>.<.>
+ -flex: <0>.<.>//<1>.<.>
   gramm:
   paradigm: N_POSS_2
- -flex: <2>.<.>
+ -flex: <0>.<.>//<1>.<.>
   gramm:
   paradigm: NOUN_DEM_PRN_NEAR
- -flex: <2>.<.>
+ -flex: <0>.<.>//<1>.<.>
   gramm:
   paradigm: NOUN_DEM_PRN_FAR
 
