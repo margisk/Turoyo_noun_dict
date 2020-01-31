@@ -966,31 +966,31 @@
  # Preterite
  -flex: <1><.>.i.
   gramm: pass,pst,3,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.ət//<1><.>.i.at
   gramm: pass,pst,2,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.no
   gramm: pass,pst,1,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.o
   gramm: pass,pst,3,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.at//<1><.>.i.ət
   gramm: pass,pst,2,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.ono
   gramm: pass,pst,1,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.i
   gramm: pass,pst,3,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.utu//<1><.>.i.itu
   gramm: pass,pst,2,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <1><.>.i.ina
   gramm: pass,pst,1,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
   
  # Pluperfect
  -flex: <1>.ə.wo//<1>.ə.wa
@@ -1810,31 +1810,31 @@
  # Preterite
  -flex: <.>mma.ə.//<.>ma.ə.//<.>mta.ə.
   gramm: pass,pst,3,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>mma.i.o//<.>ma.i.o//<.>mta.i.o
   gramm: pass,pst,3,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>mma.i.ət//<.>ma.i.ət//<.>ma.i.at//<.>mta.i.at//<.>mta.i.ət
   gramm: pass,pst,2,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>mma.i.ət//<.>ma.i.ət//<.>ma.i.at//<.>mta.i.at
   gramm: pass,pst,2,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>ma.ə.no//<.>mta.ə.no
   gramm: pass,pst,1,sg,m
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>mma.i.ono//<.>ma.i.ono//<.>mta.i.ono
   gramm: pass,pst,1,sg,f
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>mma.i.i//<.>ma.i.i//<.>mta.i.i
   gramm: pass,pst,3,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>ma.i.itu//<.>ma.i.utu//<.>mta.i.utu
   gramm: pass,pst,2,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
  -flex: <.>ma.i.ina//<.>mta.i.ina
   gramm: pass,pst,1,pl
-  paradigm: vb_prefix_pres_perf
+  paradigm: vb_prefix_pres_fut
   
  # Pluperfect
  -flex: mma.ə.wo//ma.ə.wo//ma.ə.wa//mta.ə.wa
