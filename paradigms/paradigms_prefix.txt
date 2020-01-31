@@ -1,4 +1,4 @@
--paradigm: vb_prefix
+-paradigm: vb_prefix_pres_fut
  -flex: .
   gramm: bare
  -flex: k.
@@ -16,3 +16,16 @@
  -flex: g.
   gramm: fut
 
+-paradigm: vb_prefix_perf
+ -flex: .
+  gramm:
+ -flex: ko.
+  gramm: pf
+ -flex: kə.
+  gramm: pf
+ -flex: k.
+  gramm: pf
+ -flex: g.
+  gramm: pf
+ -flex: gə.
+  gramm: pf
