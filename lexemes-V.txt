@@ -9,7 +9,7 @@
 
 -lexeme
  lex: čǝlle/čoyǝr
- stem: .č.y.r.|.č.r.|.č.y.rr.|.č.rr.
+ stem: .č.y.r.|.č.r.|.č.rr.
  root: čyr
  gramm: V
  paradigm: V_I_2y
@@ -675,7 +675,7 @@
 
 -lexeme
  lex: dǝfle/doyǝf
- stem: .d.y.f.|.d.f.|.d.y.ff.|.d.ff.
+ stem: .d.y.f.|.d.f.|.d.ff.
  root: dyf
  gramm: V
  paradigm: V_I_2y
@@ -747,7 +747,7 @@
 
 -lexeme
  lex: dǝšle/doyǝš
- stem: .d.y.š.|.d.š.|.d.y.šš.|.d.šš.
+ stem: .d.y.š.|.d.š.|.d.šš.
  root: dyš
  gramm: V
  paradigm: V_I_2y
@@ -792,7 +792,7 @@
 
 -lexeme
  lex: ḏǝmle/ḏoyǝm
- stem: .ḏ.y.m.|.ḏ.m.|.ḏ.y.mm.|.ḏ.mm.
+ stem: .ḏ.y.m.|.ḏ.m.|.ḏ.mm.
  root: ḏym
  gramm: V
  paradigm: V_I_2y
@@ -801,7 +801,7 @@
 
 -lexeme
  lex: ḏǝqle/ḏoyǝq
- stem: .ḏ.y.q.|.ḏ.q.|.ḏ.y.qq.|.ḏ.qq.
+ stem: .ḏ.y.q.|.ḏ.q.|.ḏ.qq.
  root: ḏyq
  gramm: V
  paradigm: V_I_2y
@@ -1547,7 +1547,7 @@
 
 -lexeme
  lex: fayǝd̞/foyǝd̞
- stem: .f.y.ḏ̣.|.p.y.ḏ̣.|.f.ḏ̣.|.p.ḏ̣.|.f.y.ḏ̣̣.|.p.y.ḏ̣̣.|.f.ḏ̣̣.|.p.ḏ̣̣.
+ stem: .f.y.ḏ̣.|.p.y.ḏ̣.|.p.ḏ̣.|.f.y.ḏ̣̣.|.p.y.ḏ̣̣.|.f.ḏ̣̣.|.p.ḏ̣̣.
  root: fyḏ̣/pyḏ̣
  gramm: V
  paradigm: V_I_2y
@@ -1556,7 +1556,7 @@
 
 -lexeme
  lex: fayǝḥ/foyǝḥ
- stem: .f.y.ḥ.|.f.ḥ.|.f.y.ḥḥ.|.f.ḥḥ.
+ stem: .f.y.ḥ.|.f.ḥ.|.f.ḥḥ.
  root: fyḥ
  gramm: V
  paradigm: V_I_2y
@@ -1565,7 +1565,7 @@
 
 -lexeme
  lex: fǝkle/foyǝk
- stem: .f.y.k.|.f.k.|.f.y.kk.|.f.kk.
+ stem: .f.y.k.|.f.k.|.f.kk.
  root: fyk
  gramm: V
  paradigm: V_I_2y
@@ -1583,7 +1583,7 @@
 
 -lexeme
  lex: fayǝr/foyǝr
- stem: .f.y.r.|.f.r.|.f.y.rr.|.f.rr.
+ stem: .f.y.r.|.f.r.|.f.rr.
  root: fyr
  gramm: V
  paradigm: V_I_2y
@@ -1592,7 +1592,7 @@
 
 -lexeme
  lex: fayǝr/foyǝr
- stem: .f.y.r.|.f.r.|.f.y.rr.|.f.rr.
+ stem: .f.y.r.|.f.r.|.f.rr.
  root: fyr
  gramm: V
  paradigm: V_I_2y
@@ -1601,7 +1601,7 @@
 
 -lexeme
  lex: fayǝš/foyǝš
- stem: .f.y.š.|.f.š.|.f.y.šš.|.f.šš.
+ stem: .f.y.š.|.f.š.|.f.šš.
  root: fyš
  gramm: V
  paradigm: V_I_2y
@@ -1610,7 +1610,7 @@
 
 -lexeme
  lex: fayǝt/foyǝt
- stem: .f.y.t.|.f.t.|.f.y.tt.|.f.tt.
+ stem: .f.y.t.|.f.t.|.f.tt.
  root: fyt
  gramm: V
  paradigm: V_I_2y
@@ -1619,7 +1619,7 @@
 
 -lexeme
  lex: fayəx/foyəx
- stem: .f.y.x.|.f.x.|.f.y.xx.|.f.xx.
+ stem: .f.y.x.|.f.x.|.f.xx.
  root: fyx
  gramm: V
  paradigm: V_I_2y
@@ -2042,7 +2042,7 @@
 
 -lexeme
  lex: gayǝž/goyǝž
- stem: .g.y.ž.|.g.ž.|.g.y.žž.|.g.žž.
+ stem: .g.y.ž.|.g.ž.|.g.žž.
  root: gyž
  gramm: V
  paradigm: V_I_2y
@@ -2051,7 +2051,7 @@
 
 -lexeme
  lex: gǝṣle/goyǝṣ
- stem: .g.y.ṣ.|.g.ṣ.|.g.y.ṣṣ.|.g.ṣṣ.
+ stem: .g.y.ṣ.|.g.ṣ.|.g.ṣṣ.
  root: gyṣ
  gramm: V
  paradigm: V_I_2y
@@ -2060,7 +2060,7 @@
 
 -lexeme
  lex: gǝšle/goyǝš
- stem: .g.y.š.|.g.š.|.g.y.šš.|.g.šš.
+ stem: .g.y.š.|.g.š.|.g.šš.
  root: gyš
  gramm: V
  paradigm: V_I_2y
@@ -2231,7 +2231,7 @@
 
 -lexeme
  lex: ġayǝr/ġoyǝr
- stem: .ġ.y.r.|.ġ.r.|.ġ.y.rr.|.ġ.rr.
+ stem: .ġ.y.r.|.ġ.r.|.ġ.rr.
  root: ġyr
  gramm: V
  paradigm: V_I_2y
@@ -2249,7 +2249,7 @@
 
 -lexeme
  lex: ġǝṭle/ġoyǝṭ
- stem: .ġ.y.ṭ.|.ġ.ṭ.|.ġ.y.ṭṭ.|.ġ.ṭṭ.
+ stem: .ġ.y.ṭ.|.ġ.ṭ.|.ġ.ṭṭ.
  root: ġyṭ
  gramm: V
  paradigm: V_I_2y
@@ -2258,7 +2258,7 @@
 
 -lexeme
  lex: ġayəṭ/ġoyəṭ
- stem: .ġ.y.ṭ.|.ġ.ṭ.|.ġ.y.ṭṭ.|.ġ.ṭṭ.
+ stem: .ġ.y.ṭ.|.ġ.ṭ.|.ġ.ṭṭ.
  root: ġyṭ
  gramm: V
  paradigm: V_I_2y
@@ -2645,7 +2645,7 @@
 
 -lexeme
  lex: ǧǝzle/ǧoyǝz
- stem: .ǧ.y.z.|.ǧ.z.|.ǧ.y.zz.|.ǧ.zz.
+ stem: .ǧ.y.z.|.ǧ.z.|.ǧ.zz.
  root: ǧyz
  gramm: V
  paradigm: V_I_2y
@@ -2950,7 +2950,7 @@
 
 -lexeme
  lex: hayǝd/hoyǝd
- stem: .h.y.d.|.h.d.|.h.y.dd.|.h.dd.
+ stem: .h.y.d.|.h.d.|.h.dd.
  root: hyd
  gramm: V
  paradigm: V_I_2y
@@ -2977,7 +2977,7 @@
 
 -lexeme
  lex: hayǝǧ/hoyǝǧ
- stem: .h.y.ǧ.|.h.ǧ.|.h.y.ǧǧ.|.h.ǧǧ.
+ stem: .h.y.ǧ.|.h.ǧ.|.h.ǧǧ.
  root: hyǧ
  gramm: V
  paradigm: V_I_2y
@@ -2995,7 +2995,7 @@
 
 -lexeme
  lex: hǝzle/hoyǝz
- stem: .h.y.z.|.h.z.|.h.y.zz.|.h.zz.
+ stem: .h.y.z.|.h.z.|.h.zz.
  root: hyz
  gramm: V
  paradigm: V_I_2y
@@ -3793,7 +3793,7 @@
 
 -lexeme
  lex: ḥǝfle/ḥoyǝf
- stem: .ḥ.y.f.|.ḥ.f.|.ḥ.y.ff.|.ḥ.ff.
+ stem: .ḥ.y.f.|.ḥ.f.|.ḥ.ff.
  root: ḥyf
  gramm: V
  paradigm: V_I_2y
@@ -3811,7 +3811,7 @@
 
 -lexeme
  lex: ḥǝkle/ḥoyǝk
- stem: .ḥ.y.k.|.ḥ.k.|.ḥ.y.kk.|.ḥ.kk.
+ stem: .ḥ.y.k.|.ḥ.k.|.ḥ.kk.
  root: ḥyk
  gramm: V
  paradigm: V_I_2y
@@ -3829,7 +3829,7 @@
 
 -lexeme
  lex: ḥayǝm/ḥoyǝm
- stem: .ḥ.y.m.|.ḥ.m.|.ḥ.y.mm.|.ḥ.mm.
+ stem: .ḥ.y.m.|.ḥ.m.|.ḥ.mm.
  root: ḥym
  gramm: V
  paradigm: V_I_2y
@@ -3847,7 +3847,7 @@
 
 -lexeme
  lex: ḥǝlle/ḥoyǝr
- stem: .ḥ.y.r.|.ḥ.r.|.ḥ.l.|.ḥ.y.n.|.ḥ.n.|.ḥ.y.rr.|.ḥ.rr.|.ḥ.ll.|.ḥ.y.nn.|.ḥ.nn.
+ stem: .ḥ.y.r.|.ḥ.r.|.ḥ.y.n.|.ḥ.n.|.ḥ.y.rr.|.ḥ.rr.|.ḥ.ll.|.ḥ.y.nn.|.ḥ.nn.
  root: ḥyr
  gramm: V
  paradigm: V_I_2y_3r
@@ -3874,7 +3874,7 @@
 
 -lexeme
  lex: ḥǝṣle/ḥoyǝṣ
- stem: .ḥ.y.ṣ.|.ḥ.ṣ.|.ḥ.y.ṣṣ.|.ḥ.ṣṣ.
+ stem: .ḥ.y.ṣ.|.ḥ.ṣ.|.ḥ.ṣṣ.
  root: ḥyṣ
  gramm: V
  paradigm: V_I_2y
@@ -3901,7 +3901,7 @@
 
 -lexeme
  lex: ḥǝṭle/ḥoyǝṭ
- stem: .ḥ.y.ṭ.|.ḥ.ṭ.|.ḥ.y.ṭṭ.|.ḥ.ṭṭ.
+ stem: .ḥ.y.ṭ.|.ḥ.ṭ.|.ḥ.ṭṭ.
  root: ḥyṭ
  gramm: V
  paradigm: V_I_2y
@@ -3919,7 +3919,7 @@
 
 -lexeme
  lex: ḥǝzle/ḥoyǝz
- stem: .ḥ.y.z.|.ḥ.z.|.ḥ.y.zz.|.ḥ.zz.
+ stem: .ḥ.y.z.|.ḥ.z.|.ḥ.zz.
  root: ḥyz
  gramm: V
  paradigm: V_I_2y
@@ -4504,7 +4504,7 @@
 
 -lexeme
  lex: kəble/koyəb
- stem: .k.y.b.|.k.b.|.k.y.f.|.k.f.|.k.y.bb.|.k.bb.|.k.y.ff.|.k.ff.
+ stem: .k.y.b.|.k.b.|.k.f.|.k.y.bb.|.k.bb.|.k.y.ff.|.k.ff.
  root: kyb/kyf
  gramm: V
  paradigm: V_I_2y
@@ -4548,7 +4548,7 @@
 
 -lexeme
  lex: kayət/koyət
- stem: .k.y.t.|.k.t.|.k.y.tt.|.k.tt.
+ stem: .k.y.t.|.k.t.|.k.tt.
  root: kyt
  gramm: V
  paradigm: V_I_2y
@@ -4557,7 +4557,7 @@
 
 -lexeme
  lex: kayu/koyu
- stem: .k.y.w.|.k.y.|.k.w.|.k.y.ww.|.k.yy.|.k.ww.
+ stem: .k.y.w.|.k.y.|.k.y.ww.|.k.yy.|.k.ww.
  root: kyw
  gramm: V
  paradigm: V_I_2y_3w
@@ -5014,7 +5014,7 @@
 
 -lexeme
  lex: lədle/loyəd
- stem: .l.y.d.|.l.d.|.l.y.dd.|.l.dd.
+ stem: .l.y.d.|.l.d.|.l.dd.
  root: lyd
  gramm: V
  paradigm: V_I_2y
@@ -5023,7 +5023,7 @@
 
 -lexeme
  lex: ləfle/loyəf
- stem: .l.y.f.|.l.f.|.l.y.ff.|.l.ff.
+ stem: .l.y.f.|.l.f.|.l.ff.
  root: lyf
  gramm: V
  paradigm: V_I_2y
@@ -5032,7 +5032,7 @@
 
 -lexeme
  lex: layəm/loyəm
- stem: .l.y.m.|.l.m.|.l.y.mm.|.l.mm.
+ stem: .l.y.m.|.l.m.|.l.mm.
  root: lym
  gramm: V
  paradigm: V_I_2y
@@ -5041,7 +5041,7 @@
 
 -lexeme
  lex: layəq/loyəq
- stem: .l.y.q.|.l.q.|.l.y.qq.|.l.qq.
+ stem: .l.y.q.|.l.q.|.l.qq.
  root: lyq
  gramm: V
  paradigm: V_I_2y
@@ -5059,7 +5059,7 @@
 
 -lexeme
  lex: ləṭle/loyəṭ
- stem: .l.y.ṭ.|.l.ṭ.|.l.y.ṭṭ.|.l.ṭṭ.
+ stem: .l.y.ṭ.|.l.ṭ.|.l.ṭṭ.
  root: lyṭ
  gramm: V
  paradigm: V_I_2y
@@ -5068,7 +5068,7 @@
 
 -lexeme
  lex: ləšle/loyəš
- stem: .l.y.š.|.l.š.|.l.y.šš.|.l.šš.
+ stem: .l.y.š.|.l.š.|.l.šš.
  root: lyš
  gramm: V
  paradigm: V_I_2y
@@ -5401,7 +5401,7 @@
 
 -lexeme
  lex: məʕle/moyəʕ
- stem: .m.y.ʕ.|.m.ʕ.|.m.y.ʕʕ.|.m.ʕʕ.
+ stem: .m.y.ʕ.|.m.ʕ.|.m.ʕʕ.
  root: myʕ
  gramm: V
  paradigm: V_I_2y
@@ -5410,7 +5410,7 @@
 
 -lexeme
  lex: mədle/moyəd
- stem: .m.y.d.|.m.d.|.m.y.dd.|.m.dd.
+ stem: .m.y.d.|.m.d.|.m.dd.
  root: myd
  gramm: V
  paradigm: V_I_2y
@@ -5428,7 +5428,7 @@
 
 -lexeme
  lex: mayər/moyər
- stem: .m.y.r.|.m.r.|.m.n.|.m.y.n.|.m.y.l.|.m.l.|.m.y.rr.|.m.rr.|.m.nn.|.m.y.nn.|.m.y.ll.|.m.ll.
+ stem: .m.y.r.|.m.r.|.m.y.n.|.m.y.l.|.m.l.|.m.y.rr.|.m.rr.|.m.nn.|.m.y.nn.|.m.y.ll.|.m.ll.
  root: myr
  gramm: V
  paradigm: V_I_2y_3r
@@ -5437,7 +5437,7 @@
 
 -lexeme
  lex: məṣle/moyəṣ
- stem: .m.y.ṣ.|.m.ṣ.|.m.y.ṣṣ.|.m.ṣṣ.
+ stem: .m.y.ṣ.|.m.ṣ.|.m.ṣṣ.
  root: myṣ
  gramm: V
  paradigm: V_I_2y
@@ -5455,7 +5455,7 @@
 
 -lexeme
  lex: mayəṯ/moyəṯ
- stem: .m.y.ṯ.|.m.ṯ.|.m.y.ṯṯ.|.m.ṯṯ.
+ stem: .m.y.ṯ.|.m.ṯ.|.m.ṯṯ.
  root: myṯ
  gramm: V
  paradigm: V_I_2y
@@ -6309,7 +6309,7 @@
 
 -lexeme
  lex: nəkle/noyək
- stem: .n.y.k.|.n.k.|.n.y.kk.|.n.kk.
+ stem: .n.y.k.|.n.k.|.n.kk.
  root: nyk
  gramm: V
  paradigm: V_I_2y
@@ -6318,7 +6318,7 @@
 
 -lexeme
  lex: nayəs/noyəs
- stem: .n.y.s.|.n.s.|.n.y.ss.|.n.ss.
+ stem: .n.y.s.|.n.s.|.n.ss.
  root: nys
  gramm: V
  paradigm: V_I_2y
@@ -6658,7 +6658,7 @@
 
 -lexeme
  lex: pǝčle/poyǝč
- stem: .p.y.č.|.p.č.|.p.y.čč.|.p.čč.
+ stem: .p.y.č.|.p.č.|.p.čč.
  root: pyč
  gramm: V
  paradigm: V_I_2y
@@ -7565,7 +7565,7 @@
 
 -lexeme
  lex: qayǝm/qoyǝm
- stem: .q.y.m.|.q.m.|.q.y.mm.|.q.mm.
+ stem: .q.y.m.|.q.m.|.q.mm.
  root: qym
  gramm: V
  paradigm: V_I_2y
@@ -7583,7 +7583,7 @@
 
 -lexeme
  lex: qayǝr/qoyǝr
- stem: .q.y.r.|.q.r.|.q.y.n.|.q.n.|.q.l.|.q.y.l.|.q.y.rr.|.q.rr.|.q.y.nn.|.q.nn.|.q.ll.|.q.y.ll.
+ stem: .q.y.r.|.q.r.|.q.n.|.q.l.|.q.y.l.|.q.y.rr.|.q.rr.|.q.y.nn.|.q.nn.|.q.ll.|.q.y.ll.
  root: qyr
  gramm: V
  paradigm: V_I_2y_3r
@@ -7610,7 +7610,7 @@
 
 -lexeme
  lex: qǝṣle/qoyǝṣ
- stem: .q.y.ṣ.|.q.ṣ.|.q.y.ṣṣ.|.q.ṣṣ.
+ stem: .q.y.ṣ.|.q.ṣ.|.q.ṣṣ.
  root: qyṣ
  gramm: V
  paradigm: V_I_2y
@@ -7628,7 +7628,7 @@
 
 -lexeme
  lex: qǝšle/qoyǝš
- stem: .q.y.š.|.q.š.|.q.y.šš.|.q.šš.
+ stem: .q.y.š.|.q.š.|.q.šš.
  root: qyš
  gramm: V
  paradigm: V_I_2y
@@ -7637,7 +7637,7 @@
 
 -lexeme
  lex: qayǝṯ/qoyǝṯ
- stem: .q.y.ṯ.|.q.ṯ.|.q.y.ṯṯ.|.q.ṯṯ.
+ stem: .q.y.ṯ.|.q.ṯ.|.q.ṯṯ.
  root: qyṯ
  gramm: V
  paradigm: V_I_2y
@@ -8259,7 +8259,7 @@
 
 -lexeme
  lex: rǝfle/royǝf
- stem: .r.y.f.|.r.f.|.r.y.ff.|.r.ff.
+ stem: .r.y.f.|.r.f.|.r.ff.
  root: ryf
  gramm: V
  paradigm: V_I_2y
@@ -8268,7 +8268,7 @@
 
 -lexeme
  lex: rayəg/royǝg
- stem: .r.y.g.|.r.g.|.r.y.gg.|.r.gg.
+ stem: .r.y.g.|.r.g.|.r.gg.
  root: ryg
  gramm: V
  paradigm: V_I_2y
@@ -8277,7 +8277,7 @@
 
 -lexeme
  lex: rǝkle/royǝk
- stem: .r.y.k.|.r.k.|.r.y.kk.|.r.kk.
+ stem: .r.y.k.|.r.k.|.r.kk.
  root: ryk
  gramm: V
  paradigm: V_I_2y
@@ -8286,7 +8286,7 @@
 
 -lexeme
  lex: rǝqle/royǝq
- stem: .r.y.q.|.r.q.|.r.y.qq.|.r.qq.
+ stem: .r.y.q.|.r.q.|.r.qq.
  root: ryq
  gramm: V
  paradigm: V_I_2y
@@ -8295,7 +8295,7 @@
 
 -lexeme
  lex: rəsle/royəs
- stem: .r.y.s.|.r.s.|.r.y.ss.|.r.ss.
+ stem: .r.y.s.|.r.s.|.r.ss.
  root: rys
  gramm: V
  paradigm: V_I_2y
@@ -8304,7 +8304,7 @@
 
 -lexeme
  lex: rəṣle/royəṣ
- stem: .r.y.ṣ.|.r.ṣ.|.r.y.ṣṣ.|.r.ṣṣ.
+ stem: .r.y.ṣ.|.r.ṣ.|.r.ṣṣ.
  root: ryṣ
  gramm: V
  paradigm: V_I_2y
@@ -8331,7 +8331,7 @@
 
 -lexeme
  lex: rəšle/royəš
- stem: .r.y.š.|.r.š.|.r.y.šš.|.r.šš.
+ stem: .r.y.š.|.r.š.|.r.šš.
  root: ryš
  gramm: V
  paradigm: V_I_2y
@@ -8349,7 +8349,7 @@
 
 -lexeme
  lex: rǝzle/royǝz
- stem: .r.y.z.|.r.z.|.r.y.zz.|.r.zz.
+ stem: .r.y.z.|.r.z.|.r.zz.
  root: ryz
  gramm: V
  paradigm: V_I_2y
@@ -8951,7 +8951,7 @@
 
 -lexeme
  lex: sayǝf/soyǝf
- stem: .s.y.f.|.s.f.|.s.y.ff.|.s.ff.
+ stem: .s.y.f.|.s.f.|.s.ff.
  root: syf
  gramm: V
  paradigm: V_I_2y
@@ -8960,7 +8960,7 @@
 
 -lexeme
  lex: sǝġle/soyǝġ
- stem: .s.y.ġ.|.s.ġ.|.s.y.ġġ.|.s.ġġ.
+ stem: .s.y.ġ.|.s.ġ.|.s.ġġ.
  root: syġ
  gramm: V
  paradigm: V_I_2y
@@ -8969,7 +8969,7 @@
 
 -lexeme
  lex: sile/soyǝl
- stem: .s.y.l.|.s.|.s.l.|.s.n.|.s.y.ll.|.ss.|.s.ll.|.s.nn.
+ stem: .s.y.l.|.s.|.s.n.|.s.y.ll.|.ss.|.s.ll.|.s.nn.
  root: syl
  gramm: V
  paradigm: V_I_2y_3l
@@ -8978,7 +8978,7 @@
 
 -lexeme
  lex: sǝmle/soyǝm
- stem: .s.y.m.|.s.m.|.s.y.mm.|.s.mm.
+ stem: .s.y.m.|.s.m.|.s.mm.
  root: sym
  gramm: V
  paradigm: V_I_2y
@@ -9005,7 +9005,7 @@
 
 -lexeme
  lex: sǝxle/soyǝx
- stem: .s.y.x.|.s.x.|.s.y.xx.|.s.xx.
+ stem: .s.y.x.|.s.x.|.s.xx.
  root: syx
  gramm: V
  paradigm: V_I_2y
@@ -9428,7 +9428,7 @@
 
 -lexeme
  lex: ṣǝdle/ṣoyǝd
- stem: .ṣ.y.d.|.ṣ.d.|.ṣ.y.dd.|.ṣ.dd.
+ stem: .ṣ.y.d.|.ṣ.d.|.ṣ.dd.
  root: ṣyd
  gramm: V
  paradigm: V_I_2y
@@ -9464,7 +9464,7 @@
 
 -lexeme
  lex: ṣayəm/ṣoyəm
- stem: .ṣ.y.m.|.ṣ.m.|.ṣ.y.mm.|.ṣ.mm.
+ stem: .ṣ.y.m.|.ṣ.m.|.ṣ.mm.
  root: ṣym
  gramm: V
  paradigm: V_I_2y
@@ -9473,7 +9473,7 @@
 
 -lexeme
  lex: ṣayǝr/ṣoyǝr
- stem: .ṣ.y.r.|.ṣ.r.|.ṣ.y.rr.|.ṣ.rr.
+ stem: .ṣ.y.r.|.ṣ.r.|.ṣ.rr.
  root: ṣyr
  gramm: V
  paradigm: V_I_2y
@@ -10256,7 +10256,7 @@
 
 -lexeme
  lex: šǝʕle/šoyǝʕ
- stem: .š.y.ʕ.|.š.ʕ.|.š.y.ʕʕ.|.š.ʕʕ.
+ stem: .š.y.ʕ.|.š.ʕ.|.š.ʕʕ.
  root: šyʕ
  gramm: V
  paradigm: V_I_2y
@@ -10274,7 +10274,7 @@
 
 -lexeme
  lex: šayǝb/šoyǝb
- stem: .š.y.b.|.š.b.|.š.y.bb.|.š.bb.
+ stem: .š.y.b.|.š.b.|.š.bb.
  root: šyb
  gramm: V
  paradigm: V_I_2y
@@ -10283,7 +10283,7 @@
 
 -lexeme
  lex: šǝfle/šoyǝf
- stem: .š.y.f.|.š.f.|.š.y.ff.|.š.ff.
+ stem: .š.y.f.|.š.f.|.š.ff.
  root: šyf
  gramm: V
  paradigm: V_I_2y
@@ -10328,7 +10328,7 @@
 
 -lexeme
  lex: šəqle/šoyəq
- stem: .š.y.q.|.š.q.|.š.y.qq.|.š.qq.
+ stem: .š.y.q.|.š.q.|.š.qq.
  root: šyq
  gramm: V
  paradigm: V_I_2y
@@ -10337,7 +10337,7 @@
 
 -lexeme
  lex: šǝlle(šayǝr)/šoyǝr
- stem: .š.y.r.|.š.r.|.š.y.l.|.š.l.|.š.y.n.|.š.n.|.š.y.rr.|.š.rr.|.š.y.ll.|.š.ll.|.š.y.nn.|.š.nn.
+ stem: .š.y.r.|.š.r.|.š.l.|.š.y.n.|.š.n.|.š.y.rr.|.š.rr.|.š.y.ll.|.š.ll.|.š.y.nn.|.š.nn.
  root: šyr
  gramm: V
  paradigm: V_I_2y
@@ -10373,7 +10373,7 @@
 
 -lexeme
  lex: šayǝṭ/šoyǝṭ
- stem: .š.y.ṭ.|.š.ṭ.|.š.y.ṭṭ.|.š.ṭṭ.
+ stem: .š.y.ṭ.|.š.ṭ.|.š.ṭṭ.
  root: šyṭ
  gramm: V
  paradigm: V_I_2y
@@ -11001,7 +11001,7 @@
 
 -lexeme
  lex: tayǝb/toyǝb
- stem: .t.y.b.|.t.b.|.t.y.bb.|.t.bb.
+ stem: .t.y.b.|.t.b.|.t.bb.
  root: tyb
  gramm: V
  paradigm: V_I_2y
@@ -11010,7 +11010,7 @@
 
 -lexeme
  lex: tayǝh/toyǝh
- stem: .t.y.h.|.t.h.|.t.y.hh.|.t.hh.
+ stem: .t.y.h.|.t.h.|.t.hh.
  root: tyh
  gramm: V
  paradigm: V_I_2y
@@ -11019,7 +11019,7 @@
 
 -lexeme
  lex: tayǝm/toyǝm
- stem: .t.y.m.|.t.m.|.t.y.mm.|.t.mm.
+ stem: .t.y.m.|.t.m.|.t.mm.
  root: tym
  gramm: V
  paradigm: V_I_2y
@@ -11028,7 +11028,7 @@
 
 -lexeme
  lex: tǝqle/toyǝq
- stem: .t.y.q.|.t.q.|.t.y.qq.|.t.qq.
+ stem: .t.y.q.|.t.q.|.t.qq.
  root: tyq
  gramm: V
  paradigm: V_I_2y
@@ -11046,7 +11046,7 @@
 
 -lexeme
  lex: tayǝz/toyǝz
- stem: .t.y.z.|.t.z.|.t.y.zz.|.t.zz.
+ stem: .t.y.z.|.t.z.|.t.zz.
  root: tyz
  gramm: V
  paradigm: V_I_2y
@@ -11440,7 +11440,7 @@
 
 -lexeme
  lex: ṭayǝf/ṭoyǝf
- stem: .ṭ.y.f.|.ṭ.f.|.ṭ.y.ff.|.ṭ.ff.
+ stem: .ṭ.y.f.|.ṭ.f.|.ṭ.ff.
  root: ṭyf
  gramm: V
  paradigm: V_I_2y
@@ -11449,7 +11449,7 @@
 
 -lexeme
  lex: ṭǝmle/ṭoyǝm
- stem: .ṭ.y.m.|.ṭ.m.|.ṭ.y.mm.|.ṭ.mm.
+ stem: .ṭ.y.m.|.ṭ.m.|.ṭ.mm.
  root: ṭym
  gramm: V
  paradigm: V_I_2y
@@ -11458,7 +11458,7 @@
 
 -lexeme
  lex: ṭayǝr/ṭoyǝr
- stem: .ṭ.y.r.|.ṭ.r.|.ṭ.y.rr.|.ṭ.rr.
+ stem: .ṭ.y.r.|.ṭ.r.|.ṭ.rr.
  root: ṭyr
  gramm: V
  paradigm: V_I_2y
@@ -11467,7 +11467,7 @@
 
 -lexeme
  lex: ṭǝšle/ṭoyǝš
- stem: .ṭ.y.š.|.ṭ.š.|.ṭ.y.šš.|.ṭ.šš.
+ stem: .ṭ.y.š.|.ṭ.š.|.ṭ.šš.
  root: ṭyš
  gramm: V
  paradigm: V_I_2y
@@ -12160,7 +12160,7 @@
 
 -lexeme
  lex: xayǝb/xoyǝb
- stem: .x.y.b.|.x.b.|.x.y.bb.|.x.bb.
+ stem: .x.y.b.|.x.b.|.x.bb.
  root: xyb
  gramm: V
  paradigm: V_I_2y
@@ -12169,7 +12169,7 @@
 
 -lexeme
  lex: xayǝf/xoyǝf
- stem: .x.y.f.|.x.f.|.x.y.ff.|.x.ff.
+ stem: .x.y.f.|.x.f.|.x.ff.
  root: xyf
  gramm: V
  paradigm: V_I_2y
@@ -12187,7 +12187,7 @@
 
 -lexeme
  lex: xayǝr/xoyǝr
- stem: .x.y.r.|.x.r.|.x.y.l.|.x.l.|.x.y.n.|.x.n.|.x.y.rr.|.x.rr.|.x.y.ll.|.x.ll.|.x.y.nn.|.x.nn.
+ stem: .x.y.r.|.x.r.|.x.l.|.x.y.n.|.x.n.|.x.y.rr.|.x.rr.|.x.y.ll.|.x.ll.|.x.y.nn.|.x.nn.
  root: xyr
  gramm: V
  paradigm: V_I_2y
@@ -12851,7 +12851,7 @@
 
 -lexeme
  lex: zayǝʕ/zoyǝʕ
- stem: .z.y.ʕ.|.z.ʕ.|.z.y.ʕʕ.|.z.ʕʕ.
+ stem: .z.y.ʕ.|.z.ʕ.|.z.ʕʕ.
  root: zyʕ
  gramm: V
  paradigm: V_I_2y
@@ -12869,7 +12869,7 @@
 
 -lexeme
  lex: zayǝd/zoyǝd
- stem: .z.y.d.|.z.d.|.z.y.dd.|.z.dd.
+ stem: .z.y.d.|.z.d.|.z.dd.
  root: zyd
  gramm: V
  paradigm: V_I_2y
@@ -12887,7 +12887,7 @@
 
 -lexeme
  lex: zile/zoyǝl
- stem: .z.y.l.|.z.l.|.z.|.z.n.|.z.y.ll.|.z.ll.|.zz.|.z.nn.
+ stem: .z.y.l.|.z.l.|.z.n.|.z.y.ll.|.z.ll.|.zz.|.z.nn.
  root: zyl
  gramm: V
  paradigm: V_I_2y_3l
@@ -12905,7 +12905,7 @@
 
 -lexeme
  lex: zǝlle/zoyǝr
- stem: .z.y.r.|.z.y.l.|.z.y.n.|.z.r.|.z.l.|.z.n.|.z.y.rr.|.z.y.ll.|.z.y.nn.|.z.rr.|.z.ll.|.z.nn.
+ stem: .z.y.r.|.z.y.l.|.z.r.|.z.l.|.z.n.|.z.y.rr.|.z.y.ll.|.z.y.nn.|.z.rr.|.z.ll.|.z.nn.
  root: zyr
  gramm: V
  paradigm: V_I_2y_3r
@@ -12914,7 +12914,7 @@
 
 -lexeme
  lex: zayǝr/zoyǝr
- stem: .z.y.r.|.z.r.|.z.y.l.|.z.l.|.z.y.n.|.z.n.|.z.y.rr.|.z.rr.|.z.y.ll.|.z.ll.|.z.y.nn.|.z.nn.
+ stem: .z.y.r.|.z.r.|.z.l.|.z.y.n.|.z.n.|.z.y.rr.|.z.rr.|.z.y.ll.|.z.ll.|.z.y.nn.|.z.nn.
  root: zyr
  gramm: V
  paradigm: V_I_2y_3r
@@ -13767,7 +13767,7 @@
 
 -lexeme
  lex: ʕayǝf/ʕoyǝf
- stem: .ʕ.y.f.|.ʕ.f.|.ʕ.y.ff.|.ʕ.ff.
+ stem: .ʕ.y.f.|.ʕ.f.|.ʕ.ff.
  root: ʕyf
  gramm: V
  paradigm: V_I_2y
@@ -13785,7 +13785,7 @@
 
 -lexeme
  lex: ʕayǝǧ/ʕoyǝǧ
- stem: .ʕ.y.ǧ.|.ʕ.ǧ.|.ʕ.y.ǧǧ.|.ʕ.ǧǧ.
+ stem: .ʕ.y.ǧ.|.ʕ.ǧ.|.ʕ.ǧǧ.
  root: ʕyǧ
  gramm: V
  paradigm: V_I_2y
@@ -13821,7 +13821,7 @@
 
 -lexeme
  lex: ʕayǝq/ʕoyǝq
- stem: .ʕ.y.q.|.ʕ.q.|.ʕ.y.qq.|.ʕ.qq.
+ stem: .ʕ.y.q.|.ʕ.q.|.ʕ.qq.
  root: ʕyq
  gramm: V
  paradigm: V_I_2y
@@ -13848,7 +13848,7 @@
 
 -lexeme
  lex: ʕayǝš/ʕoyǝš
- stem: .ʕ.y.š.|.ʕ.š.|.ʕ.y.šš.|.ʕ.šš.
+ stem: .ʕ.y.š.|.ʕ.š.|.ʕ.šš.
  root: ʕyš
  gramm: V
  paradigm: V_I_2y
@@ -13875,7 +13875,7 @@
 
 -lexeme
  lex: ʕayəz/ʕoyəz
- stem: .ʕ.y.z.|.ʕ.z.|.ʕ.y.zz.|.ʕ.zz.
+ stem: .ʕ.y.z.|.ʕ.z.|.ʕ.zz.
  root: ʕyz
  gramm: V
  paradigm: V_I_2y
@@ -14559,7 +14559,7 @@
 
 -lexeme
  lex: bayǝq/boyǝq
- stem: .b.y.q.|.b.q.|.b.y.qq.|.b.qq.
+ stem: .b.y.q.|.b.q.|.b.qq.
  root: byq
  gramm: V
  paradigm: V_I_2y
@@ -14568,7 +14568,7 @@
 
 -lexeme
  lex: bayǝr/boyǝr
- stem: .b.y.r.|.b.r.|.b.y.rr.|.b.rr.
+ stem: .b.y.r.|.b.r.|.b.rr.
  root: byr
  gramm: V
  paradigm: V_I_2y
@@ -14577,7 +14577,7 @@
 
 -lexeme
  lex: bǝṭle/boyǝṭ
- stem: .b.y.ṭ.|.b.ṭ.|.b.y.ṭṭ.|.b.ṭṭ.
+ stem: .b.y.ṭ.|.b.ṭ.|.b.ṭṭ.
  root: byṭ
  gramm: V
  paradigm: V_I_2y
@@ -14595,7 +14595,7 @@
 
 -lexeme
  lex: bǝzle/boyǝz
- stem: .b.y.z.|.b.z.|.b.y.zz.|.b.zz.
+ stem: .b.y.z.|.b.z.|.b.zz.
  root: byz
  gramm: V
  paradigm: V_I_2y
@@ -14820,7 +14820,7 @@
 
 -lexeme
  lex: čǝkle/čoyǝk
- stem: .č.y.k.|.č.k.|.č.y.kk.|.č.kk.
+ stem: .č.y.k.|.č.k.|.č.kk.
  root: čyk
  gramm: V
  paradigm: V_I_2y
