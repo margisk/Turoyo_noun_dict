@@ -13083,7 +13083,7 @@
 
 -lexeme
  lex: aṯi/oṯe
- stem: ..ṯ.y.|..ṯ.yy.
+ stem: ..ṯ.y.|..ṯ.|..ṯ.yy.
  root: ʔṯy
  gramm: V
  paradigm: V_I_3y
@@ -13101,7 +13101,7 @@
 
 -lexeme
  lex: mtele/mote
- stem: .m.t.|.m.t.y.|.m.tt.|.m.t.yy.
+ stem: .m.t.y.|.m.t.|.m.tt.|.m.t.yy.
  root: ʔṯy
  gramm: V
  paradigm: V_I_3y
@@ -13209,7 +13209,7 @@
 
 -lexeme
  lex: ʕfele/ʕofe
- stem: .ʕ.f.|.ʕ.f.y.|.ʕ.ff.|.ʕ.f.yy.
+ stem: .ʕ.f.y.|.ʕ.f.|.ʕ.ff.|.ʕ.f.yy.
  root: ʕfy
  gramm: V
  paradigm: V_I_3y
@@ -13551,7 +13551,7 @@
 
 -lexeme
  lex: ʕaṣi/ʕoṣe
- stem: .ʕ.ṣ.|.ʕ.ṣ.y.|.ʕ.ṣṣ.|.ʕ.ṣ.yy.
+ stem: .ʕ.ṣ.y.|.ʕ.ṣ.|.ʕ.ṣṣ.|.ʕ.ṣ.yy.
  root: ʕṣy
  gramm: V
  paradigm: V_I_3y
@@ -13617,7 +13617,7 @@
  stem: .ʕ.td.y.|.ʕ.td.|.ʕ.td.yy.|.ʕ.tdd.
  root: ʕtdy
  gramm: V
- paradigm: V_I_3y
+ paradigm: V_VIII_3y
  trans_de: vergreifen
  trans_en: to lay hands on (ʕal) smb.
 
@@ -13992,7 +13992,7 @@
 
 -lexeme
  lex: bʕele/boʕe
- stem: .b.ʕ.|.b.ʕ.y.|.b.ʕʕ.|.b.ʕ.yy.
+ stem: .b.ʕ.y.|.b.ʕ.|.b.ʕʕ.|.b.ʕ.yy.
  root: bʕy
  gramm: V
  paradigm: V_I_3y
