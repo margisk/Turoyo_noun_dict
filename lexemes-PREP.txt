@@ -72,7 +72,7 @@
  trans_en: for
 -lexeme
  lex: bəṯṯər
- stem: bəṯr.
+ stem: bəṯr.|bəṯṯər.
  root: ʔṯr
  gramm: prep
  paradigm: PREP_3
