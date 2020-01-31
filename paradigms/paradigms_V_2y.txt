@@ -637,7 +637,7 @@
  -flex: <1><.>.ə.li
   gramm: pst,1,sg,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..e
+ -flex: <2><.>.ə.e
   gramm: pst,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <1><.>.ə.xu
@@ -726,19 +726,19 @@
  -flex: <1><.>.ə.lalan
   gramm: pst,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..allox//<1><.>.ə..allux
+ -flex: <2><.>.ə.allox//<2><.>.ə.allux
   gramm: pst,3,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..alli
+ -flex: <2><.>.ə.alli
   gramm: pst,3,pl,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..alləx//<1><.>.ə..allax
+ -flex: <2><.>.ə.alləx//<2><.>.ə.allax
   gramm: pst,3,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..anxu//<1><.>.ə..anxun
+ -flex: <2><.>.ə.anxu//<2><.>.ə.anxun
   gramm: pst,3,pl,2.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..allan
+ -flex: <2><.>.ə.allan
   gramm: pst,3,pl,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <1><.>.ə.loxli//<1><.>.ə.luxli
@@ -797,13 +797,13 @@
  -flex: <1><.>.ə.lalən//<1><.>.ə.lalle//<1><.>.ə.lalalle
   gramm: pst,3,sg,f,3pl.d
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..alle
+ -flex: <2><.>.ə.alle
   gramm: pst,3,pl,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..alla
+ -flex: <2><.>.ə.alla
   gramm: pst,3,pl,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <1><.>.ə..anne
+ -flex: <2><.>.ə.anne
   gramm: pst,3,pl,3pl.d
   paradigm: vb_prefix_perf
  -flex: <1><.>.ə.loxle//<1><.>.ə.luxle
@@ -1480,7 +1480,7 @@
  -flex: <.>ma.ə.li
   gramm: pst,1,sg,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..e
+ -flex: <1><.>ma.ə.e
   gramm: pst,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <.>ma.ə.xu//<.>ma.ə.xun
@@ -1569,19 +1569,19 @@
  -flex: <.>ma.ə.lalan
   gramm: pst,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..allox//<.>ma.ə..allux
+ -flex: <1>ma.ə.allox//<1>ma.ə.allux
   gramm: pst,3,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..alli
+ -flex: <1>ma.ə.alli
   gramm: pst,3,pl,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..alləx//<.>ma.ə..allax
+ -flex: <1>ma.ə.alləx//<1>ma.ə.allax
   gramm: pst,3,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..anxu//<.>ma.ə..anxun
+ -flex: <1>ma.ə.anxu//<1>ma.ə.anxun
   gramm: pst,3,pl,2.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..allan
+ -flex: <1>ma.ə.allan
   gramm: pst,3,pl,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <.>ma.ə.loxli//<.>ma.ə.luxli
@@ -1640,13 +1640,13 @@
  -flex: <.>ma.ə.lalən//<.>ma.ə.lalle//<.>ma.ə.lalalle
   gramm: pst,3,sg,f,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..alle
+ -flex: <1>ma.ə.alle
   gramm: pst,3,pl,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..alla
+ -flex: <1>ma.ə.alla
   gramm: pst,3,pl,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..anne
+ -flex: <1>ma.ə.anne
   gramm: pst,3,pl,3pl.d
   paradigm: vb_prefix_perf
  -flex: <.>ma.ə.loxle//<.>ma.ə.luxle
