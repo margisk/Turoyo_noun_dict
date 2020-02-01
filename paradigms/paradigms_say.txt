@@ -1,7 +1,7 @@
 -paradigm: to_say
 
 # Bare form
- -flex: <0><.>.o.a.no//<0><.>.u.a.no//<0><.>.ə.a.no//<2><.>.o.a.no//<2><.>.u.a.no//<0><.>.ə.a.no
+ -flex: <0><.>.o.a.no//<0><.>.u.a.no//<0><.>.ə.a.no//<2><.>.o.a.no//<2><.>.u.a.no//<2><.>.ə.a.no
   gramm: prs,1,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ono
@@ -11,7 +11,7 @@
   gramm: prs,2,sg
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ət
-  gramm: prs,2,sg
+  gramm: prs,2,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.ə.
   gramm: prs,3,sg,m
@@ -468,7 +468,7 @@
   paradigm: vb_prefix_perf
 
 # Imperfect
- -flex: <0>.o.a.wayno//<0>.o.a.nowo
+ -flex: <0>.o.a.wayno//<0>.o.a.nowo//<2>.o.a.nowo
   gramm: ipf,1,sg,m
  -flex: <1>.ə.atwa//<1>.ə.atwo
   gramm: ipf,2,sg
@@ -483,23 +483,24 @@
  -flex: <1>.ə.iwa//<1>.ə.iwo
   gramm: ipf,3,pl
 
-# Imperfect with suffixes
- # 1st person sgm + suffixes
- -flex: <0>.o.a.waynolux//<0>.u.a.nowolox//<0>.ə.a.nowolox
+ # Imperfect with suffixes
+  # 1st person sgm + suffixes
+ -flex: <0>.o.a.waynolux//<0>.u.a.nowolox//<0>.ə.a.nowolox//<2>.u.a.nowolox//<2>.ə.a.nowolox
   gramm: ipf,1,sg,m,2.o,sg.o,m.o
- -flex: <0>.o.a.waynolax//<0>.u.a.nowoləx//<0>.ə.a.nowoləx
+ -flex: <0>.o.a.waynolax//<0>.u.a.nowoləx//<0>.ə.a.nowoləx//<2>.u.a.nowoləx//<2>.ə.a.nowoləx
   gramm: ipf,1,sg,m,2.o,sg.o,f.o
- -flex: <0>.o.a.waynole//<0>.u.a.nowole//<0>.ə.a.nowole
+ -flex: <0>.o.a.waynole//<0>.u.a.nowole//<0>.ə.a.nowole//<2>.u.a.nowole//<2>.ə.a.nowole
   gramm: ipf,1,sg,m,3.o,sg.o,m.o
- -flex: <0>.o.a.waynola//<0>.u.a.nowola//<0>.ə.a.nowola
+ -flex: <0>.o.a.waynola//<0>.u.a.nowola//<0>.ə.a.nowola//<2>.u.a.nowola//<2>.ə.a.nowola
   gramm: ipf,1,sg,m,3.o,sg.o,f.o
- -flex: <0>.o.a.waynolan//<0>.u.anowolan//<0>.ə.a.nowolan
+ -flex: <0>.o.a.waynolan//<0>.u.anowolan//<0>.ə.a.nowolan//<2>.u.anowolan//<2>.ə.a.nowolan
   gramm: ipf,1,sg,m,1.o,pl.o
- -flex: <0>.o.a.waynanxu//<0>.u.a.nowolxu//<0>.ə.a.nowolxu
+ -flex: <0>.o.a.waynanxu//<0>.u.a.nowolxu//<0>.ə.a.nowolxu//<2>.u.a.nowolxu//<2>.ə.a.nowolxu
   gramm: ipf,1,sg,m,2.o,pl.o
- -flex: <0>.o.a.waynanne//<0>.u.a.waynanne//<0>.ə.a.waynanne//<0>.u.a.nowulle//<0>.u.a.nowolən
-  gramm: ipf,1,sg,m,3.o,pl.o
+ -flex: <0>.o.a.waynanne//<0>.u.a.waynanne//<0>.ə.a.waynanne//<0>.u.a.nowulle//<0>.u.a.nowolən//<0>.ə.a.nowulle//<0>.ə.a.nowolən//<2>.u.a.nowulle//<2>.u.a.nowolən//<2>.ə.a.nowulle//<2>.ə.a.nowolən
+   gramm: ipf,1,sg,m,3.o,pl.o
 
+ # 2nd person with suffixes
  -flex: <1>.ə.atwayli//<1>.ə.atwoli
   gramm: ipf,2,sg,1.o,sg.o
  -flex: <1>.ə.atwayle//<1>.ə.atwole
@@ -545,5 +546,4 @@
  -flex: <0>.o.a.walle
   gramm: ipf,3,sg,m,3.o,pl.o
 
-# TBC
-  
+# TBC: 3fs, 1pl, 2pl, 3pl
