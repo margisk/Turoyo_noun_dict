@@ -31,42 +31,43 @@
 
 # Present + suffixes
  # 1st person sgm bare + suffixes
- -flex: <0><.>..o.a.nolux//<0><.>..o.a.nux//<2><.>..o.a.nolux//<2><.>..o.a.nux//<0><.>..o.a.nolox//<0><.>..o.a.nox//<2><.>..o.a.nolox//<2><.>..o.a.nox//<0><.>..u.a.nolox//<0><.>..u.a.nox//<0><.>..ə.a.nolox//<0><.>..ə.a.nox//<2><.>..u.a.nolox//<2><.>..u.a.nox//<2><.>..ə.a.nolox//<2><.>..ə.a.nox
+ -flex: <0><.>.o.a.nolux//<0><.>.o.a.nux//<2><.>.o.a.nolux//<2><.>.o.a.nux//<0><.>.o.a.nolox//<0><.>.o.a.nox//<2><.>.o.a.nolox//<2><.>.o.a.nox//<0><.>.u.a.nolox//<0><.>.u.a.nox//<0><.>.ə.a.nolox//<0><.>.ə.a.nox//<2><.>.u.a.nolox//<2><.>.u.a.nox//<2><.>.ə.a.nolox//<2><.>.ə.a.nox
  gramm: prs,1,sg,m,2.o,sg.o,m.o
  paradigm: vb_prefix_pres_fut
- -flex: <0><.>..o.anolax//<0><.>..o.a.nax//<2><.>..o.a.nolax//<2><.>..o.a.nax//<0><.>..o.a.noləx//<0><.>..o.a.nəx//<2><.>..o.a.noləx//<2><.>..o.a.nəx//<0><.>..u.a.noləx//<0><.>..u.a.nəx//<0><.>..ə.a.noləx//<0><.>..ə.a.nəx//<2><.>..u.a.noləx//<2><.>..u.a.nəx//<2><.>..ə.a.noləx//<2><.>..ə.a.nəx
+ -flex: <0><.>.o.anolax//<0><.>.o.a.nax//<2><.>.o.a.nolax//<2><.>.o.a.nax//<0><.>.o.a.noləx//<0><.>.o.a.nəx//<2><.>.o.a.noləx//<2><.>.o.a.nəx//<0><.>.u.a.noləx//<0><.>.u.a.nəx//<0><.>.ə.a.noləx//<0><.>.ə.a.nəx//<2><.>.u.a.noləx//<2><.>.u.a.nəx//<2><.>.ə.a.noləx//<2><.>.ə.a.nəx
   gramm: prs,1,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <0><.>..o.a.nole//<0><.>..o.a.ne//<2><.>..o.a.nole//<2><.>..o.a.ne//<0><.>..u.a.nole//<0><.>..u.a.ne//<2><.>..u.a.nole//<2><.>..u.a.ne//<0><.>..ə.a.nole//<0><.>..ə.a.ne//<2><.>..ə.a.nole//<2><.>..ə.a.ne
+ -flex: <0><.>.o.a.nole//<0><.>.o.a.ne//<2><.>.o.a.nole//<2><.>.o.a.ne//<0><.>.u.a.nole//<0><.>.u.a.ne//<2><.>.u.a.nole//<2><.>.u.a.ne//<0><.>.ə.a.nole//<0><.>.ə.a.ne//<2><.>.ə.a.nole//<2><.>.ə.a.ne
   gramm: prs,1,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <0><.>..o.a.nola//<0><.>..o.a.na//<2><.>..o.a.nola//<2><.>..o.a.na//<0><.>..u.a.nola//<0><.>..u.a.na//<2><.>..u.a.nola//<2><.>..u.a.na//<0><.>..ə.a.nola//<0><.>..ə.a.na//<2><.>..ə.a.nola//<2><.>..ə.a.na
+ -flex: <0><.>.o.a.nola//<0><.>.o.a.na//<2><.>.o.a.nola//<2><.>.o.a.na//<0><.>.u.a.nola//<0><.>.u.a.na//<2><.>.u.a.nola//<2><.>.u.a.na//<0><.>.ə.a.nola//<0><.>.ə.a.na//<2><.>.ə.a.nola//<2><.>.ə.a.na
   gramm: prs,1,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <0><.>..o.a.nanxu//<0><.>..o.a.nuxxu//<2><.>..o.a.nanxu//<2><.>..o.a.nuxxu//<0><.>..u.a.nanxu//<0><.>..u.a.nuxxu//<2><.>..u.a.nanxu//<2><.>..u.a.nuxxu//<0><.>..ə.a.nanxu//<0><.>..ə.a.nuxxu//<2><.>..ə.a.nanxu//<2><.>..ə.a.nuxxu
+ -flex: <0><.>.o.a.nanxu//<0><.>.o.a.nuxxu//<2><.>.o.a.nanxu//<2><.>.o.a.nuxxu//<0><.>.u.a.nanxu//<0><.>.u.a.nuxxu//<2><.>.u.a.nanxu//<2><.>.u.a.nuxxu//<0><.>.ə.a.nanxu//<0><.>.ə.a.nuxxu//<2><.>.ə.a.nanxu//<2><.>.ə.a.nuxxu
   gramm: prs,1,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <0><.>..o.a.nanne//<2><.>..o.a.nanne//<0><.>..u.a.nanne//<2><.>..u.a.nanne//<0><.>..ə.a.nanne//<2><.>..ə.a.nanne//<0><.>..u.a.nolən//<2><.>..u.a.nolən//<0><.>..ə.a.nolən//<2><.>..ə.a.nolən
+ -flex: <0><.>.o.a.nanne//<2><.>.o.a.nanne//<0><.>.u.a.nanne//<2><.>.u.a.nanne//<0><.>.ə.a.nanne//<2><.>.ə.a.nanne//<0><.>.u.a.nolən//<2><.>.u.a.nolən//<0><.>.ə.a.nolən//<2><.>.ə.a.nolən
   gramm: prs,1,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
+# stopped here
  # 1st person sgf bare + suffixes
- -flex: <1><.>..ə.allux//<1><.>..ə.allox
+ -flex: <0><.>.ə.allux//<0><.>.ə.allox
   gramm: prs,1,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <1><.>..ə.allax//<1><.>..ə.alləx
+ -flex: <0><.>.ə.allax//<0><.>.ə.alləx
   gramm: prs,1,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <1><.>..ə.alle
+ -flex: <0><.>.ə.alle
   gramm: prs,1,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <1><.>..ə.alla
+ -flex: <0><.>.ə.alla
   gramm: prs,1,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <1><.>..ə.alxu//<1><.>..ə.axxu
+ -flex: <0><.>.ə.alxu//<0><.>.ə.axxu
   gramm: prs,1,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <1><.>..ə.anne
+ -flex: <0><.>.ə.anne
   gramm: prs,1,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
 
