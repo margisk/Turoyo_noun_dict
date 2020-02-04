@@ -217,6 +217,7 @@
 # Preterite Intransitive
 
  # Intransitive preterite
+
  -flex: <0><.>.a.ə.
   gramm: pst,3,sg,m
   paradigm: vb_prefix_perf
@@ -435,6 +436,7 @@
   paradigm: vb_prefix_perf
   
 # Intransitive pluperfect
+
  -flex: <0>.a.ə.wo//<0>.a.ə.wa
   gramm: plpf,3,sg,m
  -flex: <0>.a.i.atwo//<0>.a.i.atwa
@@ -763,7 +765,7 @@
  -flex: <0>..a.
   gramm: imv,sg
  -flex: <0>..a.u
-  gramm: imv, pl 
+  gramm: imv,pl 
   
  # Imperative + obj./dat. suffixes
  -flex: <0>..a.e
@@ -860,7 +862,7 @@
   gramm: ipf,3,sg,m,3.o,sg.o,m.o
  -flex: <0>.o.a.wayla//<0>.u.a.wola//<0>.ə.awola
   gramm: ipf,3,sg,m,3.o,sg.o,f.o
- -flex: <0>.o.a.waylan//<0>.u.a.wolan//<0>.ə.wolan
+ -flex: <0>.o.a.waylan//<0>.u.a.wolan//<0>.ə.a.wolan
   gramm: ipf,3,sg,m,1.o,pl.o
  -flex: <0>.o.a.walxu
   gramm: ipf,3,sg,m,2.o,pl.o
