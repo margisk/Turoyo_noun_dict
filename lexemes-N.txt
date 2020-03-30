@@ -176,7 +176,7 @@
  trans_en: bravo
 -lexeme
  lex: ʕafino
- stem: ʕafino.|ʕafənto.|ʕafine.
+ stem: ʕafino.//ʕafin.|ʕafənto.//ʕafənt.|ʕafine.//ʕafin.
  root: ʕfn
  gramm: ADJ
  paradigm: N_mf
@@ -616,7 +616,7 @@
  trans_en: agricultural instruments
 -lexeme
  lex: ʕamiro
- stem: ʕamiro.|ʕamərto.|ʕamire.
+ stem: ʕamiro.//ʕamir.|ʕamərto.//ʕamərt.|ʕamire.//ʕamir.
  root: ʕmr
  gramm: ADJ
  paradigm: N_mf
@@ -904,7 +904,7 @@
  trans_en: cart pulled by animals
 -lexeme
  lex: ʕarabi
- stem: ʕarabi.//ʕarab.|ʕarabiye.//ʕarabiy.
+ stem: ʕarabi.//ʕarab.|ʕarabiye.//ʕarabiy.|ʕarabiye.//ʕarabiy.
  root: ʕrb
  gramm: N,m
  paradigm: N_mf
@@ -1152,7 +1152,7 @@
  trans_en: ten
 -lexeme
  lex: ʕaṣyo
- stem: ʕaṣyo.|ḥṣiṯo.|ʕaṣye.
+ stem: ʕaṣyo.//ʕaṣy.|ḥṣiṯo.//ḥṣiṯ.|ʕaṣye.//ʕaṣy.
  root: ʕṣy
  gramm: ADJ
  paradigm: N_mf
@@ -1208,7 +1208,7 @@
  trans_en: in the evening
 -lexeme
  lex: ʕatimo
- stem: ʕatimo.//ʕatumo.|ʕatəmto.|ʕatime.//ʕatume.
+ stem: ʕatimo.//ʕatumo.//ʕatim.//ʕatum.|ʕatəmto.//ʕatəmt.|ʕatime.//ʕatume.//ʕatim.//ʕatum.
  root: ʕtm
  gramm: ADJ
  paradigm: N_mf
@@ -1248,7 +1248,7 @@
  trans_en: small grapes
 -lexeme
  lex: ʕaṭəl
- stem: ʕaṭəl.|ʕaṭəle.
+ stem: ʕaṭəl.|ʕaṭəle.//ʕaṭəl.|ʕaṭəle.//ʕaṭəl.
  root: ʕṭl
  gramm: ADJ
  paradigm: N_mf
@@ -1328,7 +1328,7 @@
  trans_en: one in need
 -lexeme
  lex: ʕawido/ʕawudo
- stem: ʕawido.//ʕawudo.|ʕawədto.//ʕawətto.|ʕawude.//ʕawud.
+ stem: ʕawido.//ʕawudo.//ʕawud.//ʕawid.|ʕawədto.//ʕawətto.//ʕawədt.//ʕawətt.|ʕawude.//ʕawud.
  root: ʕwd
  gramm: ADJ
  paradigm: N_mf
@@ -1336,7 +1336,7 @@
  trans_en: sharp
 -lexeme
  lex: ʕawodo
- stem: ʕawodo.//ʕawod.|ʕawədto.//ʕawədt.|ʕawode.//ʕawode.
+ stem: ʕawodo.//ʕawod.|ʕawədto.//ʕawədt.|ʕawode.//ʕawod.
  root: ʕwd
  gramm: N
  paradigm: N_mf
@@ -1552,7 +1552,7 @@
  trans_en: attic; room on a roof; minaret
 -lexeme
  lex: ʕeloyo
- stem: ʕeloyo.//ʕəloyo.//ʕloyo.|ʕelayto.//ʕlayto.|ʕeloye.//ʕəloye.//ʕloye.//ʕeloy.//ʕəloy.//ʕloy.
+ stem: ʕeloyo.//ʕəloyo.//ʕloyo.//ʕeloy.//ʕəloy.//ʕloy.|ʕelayto.//ʕlayto.//ʕəlayto.//ʕelayt.//ʕəlayt.//ʕlayt.|ʕeloye.//ʕəloye.//ʕloye.//ʕeloy.//ʕəloy.//ʕloy.
  root: ʕlw
  gramm: ADJ
  paradigm: N_mf
@@ -2632,7 +2632,7 @@
  trans_en: Afghanistan
 -lexeme
  lex: afġanistani
- stem: afġanistani.//afġanistan.|afġanistaniye.//afġanistaniy.
+ stem: afġanistani.//afġanistan.|afġanistaniye.//afġanistaniy.|afġanistaniye.//afġanistaniy.
  root: fġnstn
  gramm: N
  paradigm: N_mf
@@ -2992,7 +2992,7 @@
  trans_en: Germany, German people
 -lexeme
  lex: almani
- stem: almani.//alman.|almaniye.//almaniy.
+ stem: almani.//alman.|almaniye.//almaniy.|almaniye.//almaniy.
  root: lmn
  gramm: N
  paradigm: N_mf
@@ -3488,7 +3488,7 @@
  trans_en: Argentine
 -lexeme
  lex: aržantini
- stem: aržantini.//aržantin.|aržantiniye.//aržantiniy.
+ stem: aržantini.//aržantin.|aržantiniye.//aržantiniy.|aržantiniye.//aržantiniy.
  root: ržntn
  gramm: N
  paradigm: N_mf
@@ -4336,7 +4336,7 @@
  trans_en: austounded, perplexed
 -lexeme
  lex: bahuro
- stem: bahuro.|bahərto.
+ stem: bahuro.//bahur.|bahərto.//bahərt.|bahure.//bahur.
  root: bhr
  gramm: ADJ
  paradigm: N_mf
@@ -4512,7 +4512,7 @@
  trans_en: Belgium
 -lexeme
  lex: balǧiqi
- stem: balǧiqi.//balǧiq.|balǧiqiye.//balǧiqiy.
+ stem: balǧiqi.//balǧiq.|balǧiqiye.//balǧiqiy.|balǧiqiye.//balǧiqiy.
  root: blǧq
  gramm: N
  paradigm: N_mf
@@ -5048,7 +5048,7 @@
  trans_en: brother-in-law
 -lexeme
  lex: bari
- stem: bari.|bariye.
+ stem: bari.//bar.|bariye.//bariy.|bariye.//bariy.
  root: brʔ
  gramm: ADJ
  paradigm: N_mf
@@ -5144,7 +5144,7 @@
  trans_en: small cooking pot
 -lexeme
  lex: baroyo
- stem: baroyo.|barayto.
+ stem: baroyo.//baroy.|barayto.//barayt.|baroye.//baroy.
  root: bry
  gramm: ADJ
  paradigm: N_mf
@@ -5296,7 +5296,7 @@
  trans_en: mann from Basheq
 -lexeme
  lex: basimo
- stem: basimo.//basim.|basəmto.//basəmt.
+ stem: basimo.//basim.|basəmto.//basəmt.|basime.//basim.
  root: bsm
  gramm: N
  paradigm: N_mf
@@ -5536,7 +5536,7 @@
  trans_en: insignificant, false
 -lexeme
  lex: baṭilo
- stem: baṭilo.//baṭil.|baṭəlto.//baṭəlt.
+ stem: baṭilo.//baṭil.|baṭəlto.//baṭəlt.|baṭile.//baṭil.
  root: bṭl
  gramm: N
  paradigm: N_mf
@@ -6499,7 +6499,7 @@
  stem: bəššolo.//bəšolo.//bšolo.//bəššol.//bəšol.//bšol.|bšolone.//bšolon.
  root: bšl
  gramm: N,m
- paradigm: N_mf
+ paradigm: N2
  trans_de: gekochtes Essen
  trans_en: cooked food
 -lexeme
@@ -6704,7 +6704,7 @@
  trans_en: black dot which appears on skin
 -lexeme
  lex: bišo
- stem: bišo.//biš.|bəšto.//bəšt.
+ stem: bišo.//biš.|bəšto.//bəšt.|biše.//biš.
  root: byš
  gramm: N
  paradigm: N_mf
@@ -6872,7 +6872,7 @@
  trans_en: Brasil
 -lexeme
  lex: brimo
- stem: brimo.//brim.|brəmto.//brəmt.
+ stem: brimo.//brim.|brəmto.//brəmt.|brime.//brim.
  root: brm
  gramm: N
  paradigm: N_mf
@@ -6896,7 +6896,7 @@
  trans_en: world; weather
 -lexeme
  lex: brixo
- stem: brixo.//brix.|brəxto.//brəxt.
+ stem: brixo.//brix.|brəxto.//brəxt.|brixe.//brix.
  root: brk
  gramm: N
  paradigm: N_mf
@@ -6952,7 +6952,7 @@
  trans_en: experience (women's speech)
 -lexeme
  lex: bṣito
- stem: bṣito.|bṣətto.
+ stem: bṣito.//bṣit.|bṣətto.//bṣətt.|bṣiṭe.//bṣit.
  root: bṣt
  gramm: ADJ
  paradigm: N_mf
@@ -7163,7 +7163,7 @@
  stem: čaketa.//čaket.|čaketat.//čaket.
  root: čkt
  gramm: N,f
- paradigm: N_mf
+ paradigm: N2
  trans_de: Wollweste
  trans_en: wool vest
 -lexeme
@@ -8480,7 +8480,7 @@
  trans_en: stop-shout for horses
 -lexeme
  lex: dahino/dahuno
- stem: dahino.//dahuno.|dahənto.
+ stem: dahino.//dahuno.//dahin.//dahun.|dahənto.//dahənt.|dahine.//dahune.//dahin.//dahun.
  root: dhn
  gramm: ADJ
  paradigm: N_mf
@@ -8776,7 +8776,7 @@
  trans_en: conscience
 -lexeme
  lex: damixo
- stem: damixo.|daməxto.
+ stem: damixo.//damix.|daməxto.//daməxt.|damixe.//damix.
  root: dmx
  gramm: ADJ
  paradigm: N_mf
@@ -11768,7 +11768,7 @@
  trans_en: remarkable, extraordinary
 -lexeme
  lex: fayiḥo/fayuḥo
- stem: fayiḥo.//fayuḥo.//fayiḥ.//fayuḥ.|fayəḥto.//fayəḥt.
+ stem: fayiḥo.//fayuḥo.//fayiḥ.//fayuḥ.|fayəḥto.//fayəḥt.|fayuḥe.//fayiḥe.//fayuḥ.//fayiḥ.
  root: fwḥ
  gramm: N
  paradigm: N_mf
@@ -12304,7 +12304,7 @@
  trans_en: bad thing to do (what a doctor forbade to do)
 -lexeme
  lex: fohumo/fəhumo
- stem: fohumo.//fəhumo.//fohum.//fəhum.|fohumto.//fohumt.
+ stem: fohumo.//fəhumo.//fohum.//fəhum.|fohumto.//fohumt.|fohume.//fəhume.//fohum.//fəhum.
  root: fhm
  gramm: N
  paradigm: N_mf
@@ -12832,7 +12832,7 @@
  trans_en: young man
 -lexeme
  lex: ganowo
- stem: ganowo.//ganow.|ganawto.//ganuto.//ganawt.//ganut.
+ stem: ganowo.//ganow.|ganawto.//ganuto.//ganawt.//ganut.|ganowe.//ganow.
  root: gnb
  gramm: N
  paradigm: N_mf
@@ -13000,7 +13000,7 @@
  trans_en: rash, scab
 -lexeme
  lex: garwono
- stem: garwono.//garwon.|garwoniṯo.//garwoniṯ.
+ stem: garwono.//garwon.|garwoniṯo.//garwoniṯ.|garwone.//garwon.
  root: grwn
  gramm: N
  paradigm: N_mf
@@ -13152,7 +13152,7 @@
  trans_en: Avena, Avena barbata; bread
 -lexeme
  lex: gayižo
- stem: gayižo.//gayiž.|gayəžto.//gayəžt.
+ stem: gayižo.//gayiž.|gayəžto.//gayəžt.|gayiže.//gayiž.
  root: gyž
  gramm: N
  paradigm: N_mf
@@ -14272,7 +14272,7 @@
  trans_en: newspaper
 -lexeme
  lex: ġašimo
- stem: ġašimo.//ġašim.|ġašəmto.//ġašəmt.
+ stem: ġašimo.//ġašim.|ġašəmto.//ġašəmt.|ġašime.//ġašim.
  root: ġšm
  gramm: N
  paradigm: N_mf
@@ -14816,7 +14816,7 @@
  trans_en: military trucks
 -lexeme
  lex: ǧamudo
- stem: ǧamudo.//ǧamud.|ǧamədto.//ǧamədt.
+ stem: ǧamudo.//ǧamud.|ǧamədto.//ǧamədt.|ǧamude.//ǧamud.
  root: ǧmd
  gramm: N
  paradigm: N_mf
@@ -15184,7 +15184,7 @@
  trans_en: republic
 -lexeme
  lex: ǧən
- stem: ǧən.|ǧənniye.//ǧənne.//ǧənniy.//ǧənn.
+ stem: ǧən.|ǧənniye.//ǧənne.//ǧənniy.//ǧənn.|ǧən.//ǧənnat.
  root: ǧnn
  gramm: N
  paradigm: N_mf
@@ -15464,7 +15464,7 @@
  trans_en: carrot
 -lexeme
  lex: ǧlito
- stem: ǧlito.|ǧlətto.
+ stem: ǧlito.//ǧlit.|ǧlətto.//ǧlətt.|ǧlite.//ǧlit.
  root: ǧlt
  gramm: ADJ
  paradigm: N_mf
@@ -16696,7 +16696,7 @@
  trans_en: India
 -lexeme
  lex: həndi
- stem: həndi.//hənd.|həndiye.//həndiy.
+ stem: həndi.//hənd.|həndiye.//həndiy.|həndiye.//həndiy.
  root: hnd
  gramm: N
  paradigm: N_mf
@@ -17312,7 +17312,7 @@
  trans_en: present
 -lexeme
  lex: ḥaḏiro/ḥaḏ̣iro
- stem: ḥaḏ̣iro.//ḥaḏiro.|ḥaḏ̣ərto.
+ stem: ḥaḏ̣iro.//ḥaḏiro.//ḥaḏ̣ir.//ḥaḏir.|ḥaḏ̣ərto.//ḥaḏərto.//ḥaḏ̣ərt.//ḥaḏərt.|ḥaḏ̣ire.//ḥaḏire.//ḥaḏ̣ir.//ḥaḏir.
  root: ḥḏr/ḥḏ̣r
  gramm: ADJ
  paradigm: N_mf
@@ -17448,7 +17448,7 @@
  trans_en: dominion, rule
 -lexeme
  lex: ḥakimo
- stem: ḥakimo.//ḥakim.|ḥakəmto.//ḥakəmt.
+ stem: ḥakimo.//ḥakim.|ḥakəmto.//ḥakəmt.|ḥakime.//ḥakim.
  root: ḥkm
  gramm: N
  paradigm: N_mf
@@ -17560,7 +17560,7 @@
  trans_en: hook; ring
 -lexeme
  lex: ḥaloqo
- stem: ḥaloqo.//ḥaloq.|ḥaloqe.//ḥaloq.
+ stem: ḥaloqo.//ḥaloq.|ḥalaqto.//ḥalaqt.|ḥaloqe.//ḥaloq.
  root: ḥlq
  gramm: N,m
  paradigm: N_mf
@@ -17600,7 +17600,7 @@
  trans_en: spurge, Euphorbia craspedia Beiss; plant which produces milky juicy, when its stalk is broken; diuretic
 -lexeme
  lex: ḥalyo
- stem: ḥalyo.|ḥliṯo.
+ stem: ḥalyo.//ḥaly.|ḥliṯo.//ḥliṯ.|ḥalye.//ḥaly.
  root: ḥlw
  gramm: ADJ
  paradigm: N_mf
@@ -17664,7 +17664,7 @@
  trans_en: mud, ooze which is removed from wells and ponds; contents of a cesspool
 -lexeme
  lex: ḥamiʕo
- stem: ḥamiʕo.|ḥaməʕto.
+ stem: ḥamiʕo.//ḥamiʕ.|ḥaməʕto.//ḥaməʕt.|ḥamiʕe.//ḥamiʕ.
  root: ḥmʕ
  gramm: ADJ
  paradigm: N_mf
@@ -17712,7 +17712,7 @@
  trans_en: fifty
 -lexeme
  lex: ḥamuṣo
- stem: ḥamuṣo.|ḥaməṣto.
+ stem: ḥamuṣo.//ḥamuṣ.|ḥaməṣto.//ḥaməṣt.|ḥamuṣe.//ḥamuṣ.
  root: ḥmṣ
  gramm: ADJ
  paradigm: N_mf
@@ -17952,7 +17952,7 @@
  trans_en: wizard, sorcerer
 -lexeme
  lex: ḥaroyo
- stem: ḥaroyo.//ḥaroy.|ḥarayto.//ḥarayt.
+ stem: ḥaroyo.//ḥaroy.|ḥarayto.//ḥarayt.|ḥaroye.//ḥaroy.
  root: ʔḥr
  gramm: N
  paradigm: N_mf
@@ -17984,7 +17984,7 @@
  trans_en: charm, magic
 -lexeme
  lex: ḥarufo
- stem: ḥarufo.//ḥaruf.|ḥarufto.//ḥarəfto.//ḥaruft.//ḥarəft.
+ stem: ḥarufo.//ḥaruf.|ḥarufto.//ḥarəfto.//ḥaruft.//ḥarəft.|ḥarufe.//ḥaruf.
  root: ḥrf
  gramm: N
  paradigm: N_mf
@@ -18144,7 +18144,7 @@
  trans_en: shout to shoo away the chickens
 -lexeme
  lex: ḥašyo
- stem: ḥašyo.//ḥašy.|ḥšiṯo.//ḥšiṯ.
+ stem: ḥašyo.//ḥašy.|ḥšiṯo.//ḥšiṯ.|ḥašye.//ḥašy.
  root: ḥšy
  gramm: N
  paradigm: N_mf
@@ -18168,7 +18168,7 @@
  trans_en: bridegroom; son-in-law; brother-in-law
 -lexeme
  lex: ḥaṯo
- stem: ḥaṯo.//ḥaṯ.|ḥaṯto.//ḥaṯt.
+ stem: ḥaṯo.//ḥaṯ.|ḥaṯto.//ḥaṯt.|ḥaṯe.//ḥaṯ.
  root: ḥṯ
  gramm: N
  paradigm: N_mf
@@ -18176,7 +18176,7 @@
  trans_en: new
 -lexeme
  lex: ḥaṭoyo
- stem: ḥaṭoyo.//ḥaṭoy.|ḥaṭayto.//ḥaṭayt.
+ stem: ḥaṭoyo.//ḥaṭoy.|ḥaṭayto.//ḥaṭayt.|ḥaṭoye.//ḥaṭoy.
  root: ḥṭy
  gramm: N
  paradigm: N_mf
@@ -18424,7 +18424,7 @@
  trans_en: sewing
 -lexeme
  lex: ḥayumo
- stem: ḥayumo.//ḥayum.|ḥayəmto.//ḥayəmt.
+ stem: ḥayumo.//ḥayum.|ḥayəmto.//ḥayəmt.|ḥayume.//ḥayum.
  root: ḥmy
  gramm: N
  paradigm: N_mf
@@ -18528,7 +18528,7 @@
  trans_en: each other
 -lexeme
  lex: ḥḏonoyo
- stem: ḥḏonoyo.|ḥḏonayto.
+ stem: ḥḏonoyo.//ḥḏonoy.|ḥḏonayto.//ḥḏonayt.|ḥḏonoye.//ḥḏonoy.
  root: ḥḏny
  gramm: ADJ
  paradigm: N_mf
@@ -19216,7 +19216,7 @@
  trans_en: neighing
 -lexeme
  lex: ḥiṣo
- stem: ḥiṣo.|ḥəṣto.
+ stem: ḥiṣo.//ḥiṣ.|ḥəṣto.//ḥəṣt.|ḥiṣe.//ḥiṣ.
  root: ḥwṣ
  gramm: ADJ
  paradigm: N_mf
@@ -19248,7 +19248,7 @@
  trans_en: shearing
 -lexeme
  lex: ḥlimo
- stem: ḥlimo.//ḥlim.|ḥləmto.//ḥləmt.
+ stem: ḥlimo.//ḥlim.|ḥləmto.//ḥləmt.|ḥlime.//ḥlim.
  root: ḥlm
  gramm: N
  paradigm: N_mf
@@ -19400,7 +19400,7 @@
  trans_en: bags for transportation
 -lexeme
  lex: ḥreno
- stem: ḥreno.//ḥren.|ḥreto.//ḥret.
+ stem: ḥreno.//ḥren.|ḥreto.//ḥret.|ḥrene.//ḥren.
  root: ʔḥr
  gramm: N
  paradigm: N_mf
@@ -19448,7 +19448,7 @@
  trans_en: dinner
 -lexeme
  lex: ḥširo
- stem: ḥširo.|ḥšərto.
+ stem: ḥširo.//ḥšir.|ḥšərto.//ḥšərt.|ḥšire.//ḥšir.
  root: ḥšr
  gramm: ADJ
  paradigm: N_mf
@@ -19688,7 +19688,7 @@
  trans_en: when, if
 -lexeme
  lex: iḏiʕo
- stem: iḏiʕo.//iḏiʕ.|iḏəʕto.//iḏəʕt.
+ stem: iḏiʕo.//iḏiʕ.|iḏəʕto.//iḏəʕt.|iḏiʕe.//iḏiʕ.
  root: ydʕ
  gramm: N
  paradigm: N_mf
@@ -20000,7 +20000,7 @@
  trans_en: Spain
 -lexeme
  lex: ispani
- stem: ispani.//ispan.|ispaniye.//ispaniy.
+ stem: ispani.//ispan.|ispaniye.//ispaniy.|ispaniye.//ispaniy.
  root: spn
  gramm: N
  paradigm: N_mf
@@ -20048,7 +20048,7 @@
  trans_en: Sweden
 -lexeme
  lex: iswači
- stem: iswači.//iswač.|išwačiye.//išwačiy.
+ stem: iswači.//iswač.|išwačiye.//išwačiy.|išwačiye.//išwačiy.
  root: swč
  gramm: N
  paradigm: N_mf
@@ -20120,7 +20120,7 @@
  trans_en: february
 -lexeme
  lex: iṭali
- stem: iṭali.//iṭal.|iṭaliye.//iṭaliy.
+ stem: iṭali.//iṭal.|iṭaliye.//iṭaliy.|iṭaliye.//iṭaliy.
  root: ṭl
  gramm: N
  paradigm: N_mf
@@ -20187,7 +20187,7 @@
  stem: kabab.//kəbab.|kababe.//kəbabe.//kababat.//kəbabat.//kabab.//kəbab.//kabab.//kəbab.
  root: kbb
  gramm: N,m
- paradigm: N_mf
+ paradigm: N2
  trans_de: Braten
  trans_en: roasted meat
 -lexeme
@@ -20552,7 +20552,7 @@
  trans_en: man of honour
 -lexeme
  lex: kamilo
- stem: kamilo.//kamil.|kaməlto.//kaməlt.
+ stem: kamilo.//kamil.|kaməlto.//kaməlt.|kamile.//kamil.
  root: kml
  gramm: N
  paradigm: N_mf
@@ -20824,7 +20824,7 @@
  trans_en: vineyard
 -lexeme
  lex: karr/karro
- stem: karr.//karro.|karin.
+ stem: karr.//karro.|karre.//karr.|karin.//karrin.
  root: krr
  gramm: ADJ
  paradigm: N_mf
@@ -20880,7 +20880,7 @@
  trans_en: a pack of paper for cigaretes
 -lexeme
  lex: karubo
- stem: karubo.|karəbto.
+ stem: karubo.//karub.|karəbto.//karəbt.|karube.//karub.
  root: krb
  gramm: ADJ
  paradigm: N_mf
@@ -20944,7 +20944,7 @@
  trans_en: short boy (also for animals)
 -lexeme
  lex: karyo
- stem: karyo.|kriṯo.
+ stem: karyo.//kary.|kriṯo.//kriṯ.|karye.//kary.
  root: kry
  gramm: ADJ
  paradigm: N_mf
@@ -21008,7 +21008,7 @@
  trans_en: laziness
 -lexeme
  lex: kasulo
- stem: kasulo.|kasulto.//kasəlto.
+ stem: kasulo.//kasul.|kasulto.//kasəlto.//kasult.//kasəlt.|kasule.//kasul.
  root: ksl
  gramm: ADJ
  paradigm: N_mf
@@ -21027,7 +21027,7 @@
  stem: ksiṯo.//ksiṯ.|kasyoṯe.//kasyoṯo.//kasyoṯ.//kasyoṯ.
  root: ksy
  gramm: N,pl
- paradigm: N_mf
+ paradigm: N2
  trans_de: verborgene Dinge
  trans_en: hidden things
 -lexeme
@@ -21080,7 +21080,7 @@
  trans_en: [?]
 -lexeme
  lex: kaṯowo
- stem: kaṯowo.//kaṯow.|kaṯawto.//kaṯuto.//kaṯawt.//kaṯut.
+ stem: kaṯowo.//kaṯow.|kaṯawto.//kaṯuto.//kaṯawt.//kaṯut.|kaṯowe.//kaṯow.
  root: kṯw
  gramm: N
  paradigm: N_mf
@@ -21208,7 +21208,7 @@
  trans_en: brand
 -lexeme
  lex: kayiwo
- stem: kayiwo.|kayuṯo.
+ stem: kayiwo.//kayiw.|kayuṯo.//kayuṯ.|kayiwe.//kayiw.
  root: kyb
  gramm: ADJ
  paradigm: N_mf
@@ -21952,7 +21952,7 @@
  trans_en: [?]
 -lexeme
  lex: komo
- stem: komo.//kom.|kumto.//kəmto.//kamto.//kumt.//kəmt.//kamt.
+ stem: komo.//kom.|kumto.//kəmto.//kamto.//kumt.//kəmt.//kamt.|kome.//kom.
  root: km
  gramm: N
  paradigm: N_mf
@@ -22848,7 +22848,7 @@
  trans_en: stubborn; interfering with everything, touching everything (kid); bothering with questions; sowing discord
 -lexeme
  lex: laḏiḏo
- stem: laḏiḏo.|laḏəḏto.
+ stem: laḏiḏo.//laḏiḏ.|laḏəḏto.//laḏəḏt.|laḏiḏe.//laḏiḏ.
  root: lḏḏ
  gramm: ADJ
  paradigm: N_mf
@@ -23064,7 +23064,7 @@
  trans_en: inside
 -lexeme
  lex: lalo
- stem: lalo.//lal.|lale.//lal.
+ stem: lalo.//lal.|lale.//lal.|lalin.//lal.
  root: ll
  gramm: N
  paradigm: N_mf
@@ -23608,7 +23608,7 @@
  trans_en: small quilt
 -lexeme
  lex: lḥiqoyo
- stem: lḥiqoyo.//lḥiqoy.|lḥiqayto.//lḥiqayt.
+ stem: lḥiqoyo.//lḥiqoy.|lḥiqayto.//lḥiqayt.|lḥiqoye.//lḥiqoy.
  root: lḥqy
  gramm: N
  paradigm: N_mf
@@ -24048,7 +24048,7 @@
  trans_en: metal
 -lexeme
  lex: maʕiqo
- stem: maʕiqo.|maʕəqto.
+ stem: maʕiqo.//maʕiq.|maʕəqto.//maʕəqt.|maʕiqe.//maʕiq.
  root: ʕyq
  gramm: ADJ
  paradigm: N_mf
@@ -24648,7 +24648,7 @@
  trans_en: tree with fragrant leaves. Grinded kernels are put flour, for the good smell
 -lexeme
  lex: maḥoyo
- stem: maḥoyo.//maḥoy.|maḥayto.//maḥayt.
+ stem: maḥoyo.//maḥoy.|maḥayto.//maḥayt.|maḥoye.//maḥoy.
  root: mḥy
  gramm: N
  paradigm: N_mf
@@ -24744,7 +24744,7 @@
  trans_en: muleteer
 -lexeme
  lex: makixo
- stem: makixo.|makəxto.
+ stem: makixo.//makix.|makəxto.//makəxt.|makixe.//makix.
  root: mkk
  gramm: ADJ
  paradigm: N_mf
@@ -24984,7 +24984,7 @@
  trans_en: nippers, tongs
 -lexeme
  lex: maluḥo
- stem: maluḥo.|maləḥto.
+ stem: maluḥo.//maluḥ.|maləḥto.//maləḥt.|maluḥe.//maluḥ.
  root: mlḥ
  gramm: ADJ
  paradigm: N_mf
@@ -25024,7 +25024,7 @@
  trans_en: going, walk
 -lexeme
  lex: malyo
- stem: malyo.//maly.|mliṯo.//mliṯ.
+ stem: malyo.//maly.|mliṯo.//mliṯ.|malye.//maly.
  root: mll
  gramm: N
  paradigm: N_mf
@@ -25696,7 +25696,7 @@
  trans_en: merciful
 -lexeme
  lex: mariro/mayiro
- stem: mariro.//mayiro.//marir.//mayir.|mayərto.//marərto.//mayərt.//marərt.
+ stem: mariro.//mayiro.//marir.//mayir.|mayərto.//marərto.//mayərt.//marərt.|mayire.//mayir.
  root: mrr/myr
  gramm: N
  paradigm: N_mf
@@ -26296,7 +26296,7 @@
  trans_en: safety pin
 -lexeme
  lex: maxrəfo
- stem: maxrəfo.//maxrəf.|maxrafto.//maxraft.
+ stem: maxrəfo.//maxrəf.|maxrafto.//maxraft.|maxrəfe.//maxrəf.
  root: xrf
  gramm: N
  paradigm: N_mf
@@ -26384,7 +26384,7 @@
  trans_en: ape
 -lexeme
  lex: mayono
- stem: mayono.//mayon.|mayanto.//mayant.
+ stem: mayono.//mayon.|mayanto.//mayant.|mayone.//mayon.
  root: mwh
  gramm: N
  paradigm: N_mf
@@ -26392,7 +26392,7 @@
  trans_en: fluid, liquid
 -lexeme
  lex: mayus
- stem: mayus.|mayus.
+ stem: mayus.|mayus.|mayusin.
  root: yʔs
  gramm: N
  paradigm: N_mf
@@ -26520,7 +26520,7 @@
  trans_en: tip, ruff of a dress
 -lexeme
  lex: mčaplo
- stem: mčaplo.|mčapalto.
+ stem: mčaplo.//mčapl.|mčapalto.//mčapalt.|mčaple.//mčapl.
  root: mčpl
  gramm: ADJ
  paradigm: N_mf
@@ -26568,7 +26568,7 @@
  trans_en: sticky
 -lexeme
  lex: mdawro
- stem: mdawro.|mdawarto.
+ stem: mdawro.//mdawr.|mdawarto.//mdawart.|mdawre.//mdawr.
  root: dwr
  gramm: ADJ
  paradigm: N_mf 
@@ -26752,7 +26752,7 @@
  trans_en: sinner
 -lexeme
  lex: məḏyoyo
- stem: məḏyoyo.//məḏyoy.|məḏyayto.//məḏyayt.
+ stem: məḏyoyo.//məḏyoy.|məḏyayto.//məḏyayt.|məḏyoye.//məḏyoy.
  root: mḏy
  gramm: N
  paradigm: N_mf
@@ -27483,7 +27483,7 @@
  stem: mgalin.//mgalən.//mgalyin.//mgalyun.|mgalyune.//mgalyine.//mgalyun.//mgalyin.
  root: mgln
  gramm: N,m
- paradigm: N_mf
+ paradigm: N2
  trans_de: Evangelium
  trans_en: Gospel
 -lexeme
@@ -27496,7 +27496,7 @@
  trans_en: newspaper
 -lexeme
  lex: mgandro
- stem: mgandro.|mgandarto.
+ stem: mgandro.//mgandr.|mgandarto.//mgandart.|mgandre.//mgandr.
  root: gndr
  gramm: ADJ
  paradigm: N_mf
@@ -27504,7 +27504,7 @@
  trans_en: round
 -lexeme
  lex: mgarvno
- stem: mgavrno.|mgarvanto.
+ stem: mgavrno.//mgarvn.|mgarvanto.//mgarvant.|mgarvne.//mgarvn.
  root: grvn
  gramm: ADJ
  paradigm: N_mf
@@ -27512,7 +27512,7 @@
  trans_en: round
 -lexeme
  lex: mgarmzo
- stem: mgarmzo.|mgarmazto.
+ stem: mgarmzo.//mgarmz.|mgarmazto.//mgarmazt.|mgarmze.//mgarmz.
  root: grmz
  gramm: ADJ
  paradigm: N_mf
@@ -27552,7 +27552,7 @@
  trans_en: damaged in many places
 -lexeme
  lex: mhayəmno/mhaymno
- stem: mhayəmno.//mhaymno.|mhaymanto.
+ stem: mhayəmno.//mhaymno.//mhayəmn.//mhaymn.|mhaymanto.//mhaymant.|mhaymne.//mhayəmne.//mhaymn.//mhayəmn.
  root: hymn
  gramm: ADJ
  paradigm: N_mf
@@ -27624,7 +27624,7 @@
  trans_en: needle; syringe
 -lexeme
  lex: mḥawdlo
- stem: mḥawdlo.//mḥawdl.|mḥawdalto.//mḥawdalt.
+ stem: mḥawdlo.//mḥawdl.|mḥawdalto.//mḥawdalt.|mḥawdle.//mḥawdl.
  root: mḥwdl
  gramm: N
  paradigm: N_mf
@@ -27712,7 +27712,7 @@
  trans_en: even, squared (xiš w miš)
 -lexeme
  lex: miṯo
- stem: miṯo.//miṯ.|məṯto.//məṯt.
+ stem: miṯo.//miṯ.|məṯto.//məṯt.|miṯe.//miṯ.
  root: mwt
  gramm: N
  paradigm: N_mf
@@ -27808,7 +27808,7 @@
  trans_en: appropriate, fitting
 -lexeme
  lex: mnaḏmo
- stem: mnaḏmo.|mnaḏamto.
+ stem: mnaḏmo.//mnaḏm.|mnaḏamto.//mnaḏamt.|mnaḏme.//mnaḏm.
  root: nḏm
  gramm: ADJ
  paradigm: N_mf
@@ -27984,7 +27984,7 @@
  trans_en: steward
 -lexeme
  lex: mqarmčo/mqarməčo
- stem: mqarmčo.//mqarməčo.|mqarmačto.
+ stem: mqarmčo.//mqarməčo.//mqarmč.//mqarməč.|mqarmačto.//mqarmačt.|mqarmče.//mqarməče.//mqarmč.//mqarməč.
  root: qrmč
  gramm: ADJ
  paradigm: N_mf
@@ -28032,7 +28032,7 @@
  trans_en: square
 -lexeme
  lex: mrabḥo
- stem: mrabḥo.|mrabaḥto.//mrabaʕto.
+ stem: mrabḥo.//mrabḥ.//mrabʕo.//mrabʕ.|mrabaḥto.//mrabaʕto.//mrabaḥt.//mrabaʕt.|mrabḥe.//mrabʕe.//mrabḥ.//mrabʕ.
  root: rbʕ
  gramm: ADJ
  paradigm: N_mf
@@ -28040,7 +28040,7 @@
  trans_en: rectangular
 -lexeme
  lex: mrabyono
- stem: mrabyono.//mrabyon.|mrabyoniṯo.//mrabyoniṯ.
+ stem: mrabyono.//mrabyon.|mrabyoniṯo.//mrabyoniṯ.|mrabyone.//mrabyon.
  root: rby
  gramm: N
  paradigm: N_mf
@@ -28128,7 +28128,7 @@
  trans_en: packing needle
 -lexeme
  lex: msammono
- stem: msammono.|msammoniṯo.
+ stem: msammono.//msammon.|msammoniṯo.//msammoniṯ.|msammone.//msammon.
  root: smm
  gramm: ADJ
  paradigm: N_mf
@@ -28144,7 +28144,7 @@
  trans_en: haircomb
 -lexeme
  lex: msawyo
- stem: msawyo.|msawayto.
+ stem: msawyo.//msawy.|msawayto.//msawayt.|msawye.//msawy.
  root: swy
  gramm: ADJ
  paradigm: N_mf
@@ -28168,7 +28168,7 @@
  trans_en: churchgoer; churchly
 -lexeme
  lex: mšahyo
- stem: mšahyo.//mšahy.|mšahayto.//mšahayt.
+ stem: mšahyo.//mšahy.|mšahayto.//mšahayt.|mšahye.//mšahy.
  root: šhy
  gramm: N
  paradigm: N_mf
@@ -28240,7 +28240,7 @@
  trans_en: Christ
 -lexeme
  lex: mšiḥoyo
- stem: mšiḥoyo.//mšiḥoy.|mšiḥayto.//mšiḥayt.
+ stem: mšiḥoyo.//mšiḥoy.|mšiḥayto.//mšiḥayt.|mšiḥoye.//mšiḥoy.
  root: mšḥ
  gramm: N
  paradigm: N_mf
@@ -28704,7 +28704,7 @@
  trans_en: water pitcher
 -lexeme
  lex: myaqro
- stem: myaqro.//myaqr.|myaqarto.//myaqart.
+ stem: myaqro.//myaqr.|myaqarto.//myaqart.|myaqre.//myaqr.
  root: wqr
  gramm: N
  paradigm: N_mf
@@ -28744,7 +28744,7 @@
  trans_en: false testimony
 -lexeme
  lex: mzayno
- stem: mzayno.//mzayn.|mzayanto.//mzayant.
+ stem: mzayno.//mzayn.|mzayanto.//mzayant.|mzayne.//mzayn.
  root: zyn
  gramm: N
  paradigm: N_mf
@@ -28840,7 +28840,7 @@
  trans_en: work of a horseshoer
 -lexeme
  lex: naʕuṭo
- stem: naʕuṭo.//naʕuṭ.|naʕəṭṭo.//naʕəṭṭ.
+ stem: naʕuṭo.//naʕuṭ.|naʕəṭṭo.//naʕəṭṭ.|naʕuṭe.//naʕuṭ.
  root: nʕṭ
  gramm: N
  paradigm: N_mf
@@ -28912,8 +28912,8 @@
  trans_en: vision, sight
 -lexeme
  lex: naḏifo/naḏ̣ifo
- stem: naḏifo.//naḏ̣ifo.//naḏif.//if.|naḏ̣əfto.//əft.
- root: nẓf
+ stem: naḏifo.//naḏ̣ifo.//naḏ̣if.//naḏif.|naḏ̣əfto.//naḏəfto.//naḏ̣əft.//naḏəft.|naḏ̣ife.//naḏife.//naḏ̣if.//naḏif.
+ root: nḏ̣f
  gramm: N
  paradigm: N_mf
  trans_de: sauber, rein
@@ -29000,7 +29000,7 @@
  trans_en: mass book
 -lexeme
  lex: nagiwo
- stem: nagiwo.|naguto.
+ stem: nagiwo.//nagiw.|naguto.//nagut.|nagiwe.//nagiw.
  root: ngw
  gramm: ADJ
  paradigm: N_mf
@@ -29072,7 +29072,7 @@
  trans_en: finally, at the end
 -lexeme
  lex: nahiro
- stem: nahiro.|nahərto.
+ stem: nahiro.//nahir.|nahərto.//nahərt.|nahire.//nahir.
  root: nhr
  gramm: ADJ
  paradigm: N_mf
@@ -29288,7 +29288,7 @@
  trans_en: secret
 -lexeme
  lex: napšono
- stem: napšono.//napšon.|napšoniṯo.//napšoniṯ.
+ stem: napšono.//napšon.|napšoniṯo.//napšoniṯ.|napšone.//napšon.
  root: npš
  gramm: N,m
  paradigm: N_mf
@@ -29416,7 +29416,7 @@
  trans_en: famous
 -lexeme
  lex: naṣiḥo
- stem: naṣiḥo.|naṣəḥto.
+ stem: naṣiḥo.//naṣiḥ.|naṣəḥto.//naṣəḥt.|naṣiḥe.//naṣiḥ.
  root: nṣḥ
  gramm: ADJ
  paradigm: N_mf
@@ -29480,7 +29480,7 @@
  trans_en: forgetting
 -lexeme
  lex: našifo
- stem: našifo.//našif.|našəfto.//našəft.
+ stem: našifo.//našif.|našəfto.//našəft.|našife.//našif.
  root: nšf
  gramm: N
  paradigm: N_mf
@@ -29520,7 +29520,7 @@
  trans_en: result; something which comes out from a situation; in one word
 -lexeme
  lex: natino
- stem: natino.//natin.|natənto.//natənt.
+ stem: natino.//natin.|natənto.//natənt.|natine.//natin.
  root: ntn
  gramm: N
  paradigm: N_mf
@@ -29600,7 +29600,7 @@
  trans_en: belonging to the house
 -lexeme
  lex: navoyo
- stem: navoyo.|navayto.
+ stem: navoyo.//navoy.|navayto.//navayt.|navoye.//navoy.
  root: nv
  gramm: ADJ
  paradigm: N_mf
@@ -30008,7 +30008,7 @@
  trans_en: drum
 -lexeme
  lex: nəquṣo
- stem: nəquṣo.//noquṣo.//nəquṣ.//noquṣ.|noquṣto.//noquṣt.
+ stem: nəquṣo.//noquṣo.//nəquṣ.//noquṣ.|noquṣto.//noquṣt.|noquṣe.//noquṣ.
  root: nqṣ
  gramm: N
  paradigm: N_mf
@@ -30336,7 +30336,7 @@
  trans_en: guard
 -lexeme
  lex: noḥuto/nəḥuto
- stem: noḥuto.//nəḥuto.|noḥətto.//nəḥətto.
+ stem: noḥuto.//nəḥuto.//noḥut.//nəḥut.|noḥətto.//nəḥətto.//noḥətt.//nəḥətt.|noḥute.//nəḥute.//noḥut.//nəḥut.
  root: nḥt
  gramm: ADJ
  paradigm: N_mf
@@ -30376,7 +30376,7 @@
  trans_en: note (music)
 -lexeme
  lex: nqišo
- stem: nqišo.|nqəšto.
+ stem: nqišo.//nqiš.|nqəšto.//nqəšt.|nqiše.//nqiš.
  root: nqš
  gramm: ADJ
  paradigm: N_mf
@@ -30384,7 +30384,7 @@
  trans_en: painted
 -lexeme
  lex: nqiwo
- stem: nqiwo.|nquto.
+ stem: nqiwo.//nqiw.|nquto.//nqut.|nqiwe.//nqiw.
  root: nqw
  gramm: ADJ
  paradigm: N_mf
@@ -30560,7 +30560,7 @@
  trans_en: stroke
 -lexeme
  lex: nxiroyo
- stem: nxiroyo.//nxiroy.|nxirayto.//nxirayt.
+ stem: nxiroyo.//nxiroy.|nxirayto.//nxirayt.|nxiroye.//nxiroy.
  root: nxry
  gramm: N
  paradigm: N_mf
@@ -30768,7 +30768,7 @@
  trans_en: bus
 -lexeme
  lex: oṯuroyo
- stem: oṯuroyo.//oṯuroy.|oṯurayto.//oṯurayt.
+ stem: oṯuroyo.//oṯuroy.|oṯurayto.//oṯurayt.|oṯuroye.//oṯuroy.
  root: ṯry
  gramm: N
  paradigm: N_mf
@@ -31248,7 +31248,7 @@
  trans_en: potato
 -lexeme
  lex: paṯyo
- stem: paṯyo.//paṯy.|pṯiṯo.//pṯiṯ.
+ stem: paṯyo.//paṯy.|pṯiṯo.//pṯiṯ.|paṯye.//paṯy.
  root: pty
  gramm: N
  paradigm: N_mf
@@ -31832,7 +31832,7 @@
  trans_en: sort of sweet potatoes; its bulb gives milky juice which turns into mastic (pir w pənde)
 -lexeme
  lex: pis
- stem: pis.|pise.//pis.
+ stem: pis.|pise.//pis.|pisin.
  root: ps
  gramm: N
  paradigm: N_mf
@@ -32392,7 +32392,7 @@
  trans_en: clay jar with a carrying grip or a handle, containing 2-3 kg
 -lexeme
  lex: qadišo
- stem: qadišo.|qadəšto.
+ stem: qadišo.//qadiš.|qadəšto.//qadəšt.|qadiše.//qadiš.
  root: qdš
  gramm: ADJ
  paradigm: N_mf
@@ -32576,7 +32576,7 @@
  trans_en: turtle
 -lexeme
  lex: qaḥilo
- stem: qaḥilo.|qaḥəlto.
+ stem: qaḥilo.//qaḥil.|qaḥəlto.//qaḥəlt.|qaḥile.//qaḥil.
  root: qḥl
  gramm: ADJ
  paradigm: N_mf
@@ -33080,7 +33080,7 @@
  trans_en: head, skull, top, roof; pumpkin; [?] (qarʕo w qḏole); [?] (sarqa d qarʕux)
 -lexeme
  lex: qarʕono
- stem: qarʕono.|qarʕoniṯo.
+ stem: qarʕono.//qarʕon.|qarʕoniṯo.//qarʕoniṯ.|qarʕone.//qarʕon.
  root: qrʕ
  gramm: ADJ
  paradigm: N_mf
@@ -33192,7 +33192,7 @@
  trans_en: belt
 -lexeme
  lex: qariwo
- stem: qariwo.|qaruto.
+ stem: qariwo.//qariw.|qaruto.//qarut.//qarito.//qarit.|qariwe.//qariw.
  root: qrb
  gramm: ADJ
  paradigm: N_mf
@@ -33240,7 +33240,7 @@
  trans_en: miller
 -lexeme
  lex: qaroyo
- stem: qaroyo.//qaroy.|qarayto.//qarayt.
+ stem: qaroyo.//qaroy.|qarayto.//qarayt.|qaroye.//qaroy.
  root: qrʔ
  gramm: N
  paradigm: N_mf
@@ -33336,7 +33336,7 @@
  trans_en: long braided basket made of grapevine to gather grapes
 -lexeme
  lex: qarušo
- stem: qarušo.//qaruš.|qarəšto.//qarəšt.
+ stem: qarušo.//qaruš.|qarəšto.//qarəšt.|qaruše.//qaruš.
  root: qrš
  gramm: N
  paradigm: N_mf
@@ -33560,7 +33560,7 @@
  trans_en: priest's office
 -lexeme
  lex: qašyo
- stem: qašyo.//qašy.|qšiṯo.//qšiṯ.
+ stem: qašyo.//qašy.|qšiṯo.//qšiṯ.|qašye.//qašy.
  root: qšy
  gramm: N
  paradigm: N_mf
@@ -33816,7 +33816,7 @@
  trans_en: pimp, pander (rude curse word)
 -lexeme
  lex: qawyo
- stem: qawyo.//qawy.|qwiṯo.//qwiṯ.
+ stem: qawyo.//qawy.|qwiṯo.//qwiṯ.|qawye.//qawy.
  root: qwy
  gramm: N
  paradigm: N_mf
@@ -33848,7 +33848,7 @@
  trans_en: boat
 -lexeme
  lex: qayiro
- stem: qayiro.|qayərto.
+ stem: qayiro.//qayir.|qayərto.//qayərt.|qayire.//qayir.
  root: qyr
  gramm: ADJ
  paradigm: N_mf
@@ -34408,7 +34408,7 @@
  trans_en: valuable
 -lexeme
  lex: qimo
- stem: qimo.|qəmto.
+ stem: qimo.//qim.|qəmto.//qəmt.|qime.//qim.
  root: qwm
  gramm: ADJ
  paradigm: N_mf
@@ -34448,7 +34448,7 @@
  trans_en: scream of someone who is beaten, cry of sudden pain
 -lexeme
  lex: qiṣo
- stem: qiṣo.//qiṣ.|qəṣto.//qəṣt.
+ stem: qiṣo.//qiṣ.|qəṣto.//qəṣt.|qiṣe.//qiṣ.
  root: qṣ
  gramm: N
  paradigm: N_mf
@@ -35216,7 +35216,7 @@
  trans_en: copt
 -lexeme
  lex: qupti
- stem: qupti.//qupt.|quptiye.//quptiy.
+ stem: qupti.//qupt.|quptiye.//quptiy.|quptiye.//quptiy.
  root: qpt
  gramm: N
  paradigm: N_mf
@@ -35424,7 +35424,7 @@
  trans_en: type of shirt
 -lexeme
  lex: qutto
- stem: qutto.//qutt.|qutte.//qutt.
+ stem: qutto.//qutt.|qutte.//qutt.|quttin.
  root: qtt
  gramm: N
  paradigm: N_mf
@@ -35480,7 +35480,7 @@
  trans_en: marten
 -lexeme
  lex: qwiro
- stem: qwiro.|qwərto.
+ stem: qwiro.//qwir.|qwərto.//qwərt.|qwire.//qwir.
  root: qwr
  gramm: ADJ
  paradigm: N_mf
@@ -35584,7 +35584,7 @@
  trans_en: spring; spring grass, spring pasture
 -lexeme
  lex: rabo
- stem: rabo.|rabṯo.
+ stem: rabo.//rab.|rabṯo.//rabṯ.|rabe.//rab.
  root: rbb
  gramm: ADJ
  paradigm: N_mf
@@ -35592,7 +35592,7 @@
  trans_en: big, old; superior, lord, noble 
 -lexeme
  lex: rabono
- stem: rabono.//rabon.|raboniṯo.//raboniṯ.
+ stem: rabono.//rabon.|raboniṯo.//raboniṯ.|rabone.//rabon.
  root: rbw
  gramm: N
  paradigm: N_mf
@@ -35648,7 +35648,7 @@
  trans_en: flock of birds
 -lexeme
  lex: rafiʕo
- stem: rafiʕo.//rafiʕ.|rafəʕto.//rafəʕt.
+ stem: rafiʕo.//rafiʕ.|rafəʕto.//rafəʕt.|rafiʕe.//rafiʕ.
  root: rfʕ
  gramm: N
  paradigm: N_mf
@@ -35704,7 +35704,7 @@
  trans_en: wall shelf
 -lexeme
  lex: rafyo
- stem: rafyo.//rafy.|rfiṯo.//rfiṯ.
+ stem: rafyo.//rafy.|rfiṯo.//rfiṯ.|rafye.//rafy.
  root: rpy
  gramm: N
  paradigm: N_mf
@@ -35736,7 +35736,7 @@
  trans_en: leg, foot
 -lexeme
  lex: raġyo
- stem: raġyo.|rġiṯo.
+ stem: raġyo.//raġy.|rġiṯo.//rġiṯ.|raġye.//raġy.
  root: rġy
  gramm: ADJ
  paradigm: N_mf
@@ -35840,7 +35840,7 @@
  trans_en: compassion, sympathy
 -lexeme
  lex: raḥuqo
- stem: raḥuqo.//raḥuq.|raḥəqto.//raḥəqt.
+ stem: raḥuqo.//raḥuq.|raḥəqto.//raḥəqt.|raḥuqe.//raḥuq.
  root: rḥq
  gramm: N
  paradigm: N_mf
@@ -35904,7 +35904,7 @@
  trans_en: cage
 -lexeme
  lex: rakixo
- stem: rakixo.//rakix.|rakəxto.//rakəxt.
+ stem: rakixo.//rakix.|rakəxto.//rakəxt.|rakixe.//rakix.
  root: rkk
  gramm: N
  paradigm: N_mf
@@ -36040,7 +36040,7 @@
  trans_en: insect which sucks out ears of the grain, wheat bug
 -lexeme
  lex: raqiqo
- stem: raqiqo.//raqiq.|raqəqto.//raqəqt.
+ stem: raqiqo.//raqiq.|raqəqto.//raqəqt.|raqiqe.//raqiq.
  root: rqq
  gramm: N
  paradigm: N_mf
@@ -36216,7 +36216,7 @@
  trans_en: milk mushroom, with which one makes a yogurt, yogurt cultures
 -lexeme
  lex: rawixo
- stem: rawixo.//rawix.|rawəxto.//rawəxt.
+ stem: rawixo.//rawix.|rawəxto.//rawəxt.|rawixe.//rawix.
  root: rkb
  gramm: N
  paradigm: N_mf
@@ -36328,7 +36328,7 @@
  trans_en: shameful actions, miserable state
 -lexeme
  lex: razil
- stem: razil.|razile.
+ stem: razil.|razile.//razil.|razilin.
  root: rḏl
  gramm: ADJ
  paradigm: N_mf
@@ -36672,7 +36672,7 @@
  trans_en: livelihood granted by God
 -lexeme
  lex: rḥimo
- stem: rḥimo.|rḥəmto.
+ stem: rḥimo.//rḥim.|rḥəmto.//rḥəmt.|rḥime.//rḥim.
  root: rḥm
  gramm: ADJ
  paradigm: N_mf
@@ -36776,7 +36776,7 @@
  trans_en: noble
 -lexeme
  lex: roḥumo
- stem: roḥumo.//roḥum.|roḥumto.//roḥumt.
+ stem: roḥumo.//roḥum.|roḥumto.//roḥumt.|roḥume.//roḥum.
  root: rḥm
  gramm: N
  paradigm: N_mf
@@ -36976,7 +36976,7 @@
  trans_en: permission
 -lexeme
  lex: rwiḥo
- stem: rwiḥo.|rwəḥto.
+ stem: rwiḥo.//rwiḥ.|rwəḥto.//rwəḥt.|rwiḥe.//rwiḥ.
  root: rḥb
  gramm: ADJ
  paradigm: N_mf
@@ -37120,7 +37120,7 @@
  trans_en: honest, friend
 -lexeme
  lex: safiḥo
- stem: safiḥo.|safəḥto.
+ stem: safiḥo.//safiḥ.|safəḥto.//safəḥt.|safiḥe.//safiḥ.
  root: sfḥ
  gramm: ADJ
  paradigm: N_mf
@@ -37528,7 +37528,7 @@
  trans_en: round bread
 -lexeme
  lex: samyo
- stem: samyo.|smiṯo.
+ stem: samyo.//samy.|smiṯo.//smiṯ.|samye.//samy.
  root: smy
  gramm: ADJ
  paradigm: N_mf
@@ -37856,7 +37856,7 @@
  trans_en: drunk, intoxicated
 -lexeme
  lex: saryo
- stem: saryo.|sriṯo.
+ stem: saryo.//sary.|sriṯo.//sriṯ.|sarye.//sary.
  root: sry
  gramm: ADJ
  paradigm: N_mf
@@ -37928,7 +37928,7 @@
  trans_en: hair; holm oak thicket;
 -lexeme
  lex: sawwo
- stem: sawwo.//sowo.//saww.//sow.|sawto.//sawt.
+ stem: sawwo.//sowo.//saww.//sow.|sawto.//sawt.|sawwe.//sowe.//saww.//sow.
  root: swb
  gramm: N
  paradigm: N_mf
@@ -37944,7 +37944,7 @@
  trans_en: cattle, herd
 -lexeme
  lex: sawiʕo
- stem: sawiʕo.//sawiʕ.|sawəʕto.//sawəʕt.
+ stem: sawiʕo.//sawiʕ.|sawəʕto.//sawəʕt.|sawiʕe.//sawiʕ.
  root: sbʕ
  gramm: N
  paradigm: N_mf
@@ -38168,7 +38168,7 @@
  trans_en: left
 -lexeme
  lex: semoqo/simoqo/səmoqo
- stem: semoqo.//simoqo.//səmoqo.|semaqto.
+ stem: semoqo.//simoqo.//səmoqo.//semoq.//simoq.//səmoq.|semaqto.//semaqt.//semuqto.//semuqt.|semoqe.//səmoqe.//simoqe.//semoq.//simoq.//səmoq.
  root: smq
  gramm: ADJ
  paradigm: N_mf
@@ -38608,7 +38608,7 @@
  trans_en: mountain ridge, hill; stubborn mount on which one cannot ride
 -lexeme
  lex: səryoyo
- stem: səryoyo.//səryoy.|səryayto.//səryayt.
+ stem: səryoyo.//səryoy.|səryayto.//səryayt.|səryoye.//səryoy.
  root: sry
  gramm: N
  paradigm: N_mf
@@ -38960,7 +38960,7 @@
  trans_en: orient
 -lexeme
  lex: smaqrono
- stem: smaqrono.|smaqroniṯo.
+ stem: smaqrono.//smaqron.|smaqroniṯo.//smaqroniṯ.|smaqrone.//smaqron.
  root: smq
  gramm: ADJ
  paradigm: N_mf
@@ -38968,7 +38968,7 @@
  trans_en: reddish; brown
 -lexeme
  lex: snido
- stem: snido.|snədto.
+ stem: snido.//snid.|snədto.//snədt.|snide.//snid.
  root: snd
  gramm: ADJ
  paradigm: N_mf
@@ -39288,7 +39288,7 @@
  trans_en: recitation of the 90th psalm
 -lexeme
  lex: swiʕo
- stem: swiʕo.|swəʕto.
+ stem: swiʕo.//swiʕ.|swəʕto.//swəʕt.|swiʕe.//swiʕ.
  root: swʕ
  gramm: ADJ
  paradigm: N_mf
@@ -39400,7 +39400,7 @@
  trans_en: sexually mature girl
 -lexeme
  lex: ṣaboġo
- stem: ṣaboġo.//ṣaboġ.|ṣabaġto.//ṣabaġt.
+ stem: ṣaboġo.//ṣaboġ.|ṣabaġto.//ṣabaġt.|ṣaboġe.//ṣaboġ.
  root: ṣbġ
  gramm: N
  paradigm: N_mf
@@ -39520,7 +39520,7 @@
  trans_en: goat kid
 -lexeme
  lex: ṣafyo
- stem: ṣafyo.|ṣfiṯo.
+ stem: ṣafyo.//ṣafy.|ṣfiṯo.//ṣfiṯ.|ṣafye.//ṣafy.
  root: ṣfw
  gramm: ADJ
  paradigm: N_mf
@@ -39544,7 +39544,7 @@
  trans_en: thirst
 -lexeme
  lex: ṣahyo
- stem: ṣahyo.|ṣhiṯo.
+ stem: ṣahyo.//ṣahy.|ṣhiṯo.//ṣhiṯ.|ṣahye.//ṣahy.
  root: ṣhw
  gramm: ADJ
  paradigm: N_mf
@@ -39576,7 +39576,7 @@
  trans_en: whole, pure; right, real
 -lexeme
  lex: ṣaḥiḥo
- stem: ṣaḥiḥo.//ṣaḥiḥ.|ṣaḥəḥto.//ṣaḥəḥt.
+ stem: ṣaḥiḥo.//ṣaḥiḥ.|ṣaḥəḥto.//ṣaḥəḥt.|ṣaḥiḥe.//ṣaḥiḥ.
  root: ṣḥḥ
  gramm: N
  paradigm: N_mf
@@ -39992,7 +39992,7 @@
  trans_en: distress
 -lexeme
  lex: ṣəroyo
- stem: ṣəroyo.//ṣuroyo.//ṣəroy.//ṣuroy.|ṣərayto.//ṣurayto.//ṣərayt.//ṣurayt.
+ stem: ṣəroyo.//ṣuroyo.//ṣəroy.//ṣuroy.|ṣərayto.//ṣurayto.//ṣərayt.//ṣurayt.|ṣəroye.//ṣuroye.//ṣəroy.//ṣuroy.
  root: ṣry
  gramm: N
  paradigm: N_mf
@@ -40192,7 +40192,7 @@
  trans_en: red pepper
 -lexeme
  lex: ṣpahi
- stem: ṣpahi.|ṣpahi.
+ stem: ṣpahi.//ṣpah.|ṣpahiye.//ṣpahiy.|ṣpahi.//ṣpah.
  root: ṣph
  gramm: ADJ
  paradigm: N_mf
@@ -40232,7 +40232,7 @@
  trans_en: Istanbul
 -lexeme
  lex: ṣṭimo
- stem: ṣṭimo.|ṣṭəmto.
+ stem: ṣṭimo.//ṣṭim.|ṣṭəmto.//ṣṭəmt.|ṣṭime.//ṣṭim.
  root: ṣṭm
  gramm: ADJ
  paradigm: N_mf
@@ -40368,7 +40368,7 @@
  trans_en: poet
 -lexeme
  lex: šaʕuṯo
- stem: šaʕuṯo.|šaʕəṯto.
+ stem: šaʕuṯo.//šaʕuṯ.|šaʕəṯto.//saʕaṯto.//šaʕəṯt.//šaʕuṯt.|šaʕuṯe.//šaʕuṯ.
  root: šʕṯ
  gramm: ADJ
  paradigm: N_mf
@@ -40456,7 +40456,7 @@
  trans_en: turban (bandage)
 -lexeme
  lex: šaḏyo
- stem: šaḏyo.|šḏiṯo.
+ stem: šaḏyo.//šaḏy.|šḏiṯo.//šḏiṯ.|šadye.//šady.
  root: šḏy
  gramm: ADJ
  paradigm: N_mf
@@ -40472,7 +40472,7 @@
  trans_en: advocate
 -lexeme
  lex: šafiro
- stem: šafiro.|šafərto.
+ stem: šafiro.//šafir.|šafərto.//šafərt.|šafire.//šafir.
  root: špr
  gramm: ADJ
  paradigm: N_mf
@@ -40568,7 +40568,7 @@
  trans_en: appetite; rutting
 -lexeme
  lex: šaḥino
- stem: šaḥino.//šaḥuno.|šaḥənto.
+ stem: šaḥino.//šaḥuno.//šaḥin.//šaḥun.|šaḥənto.//šaḥənt.|šaḥune.//šaḥine.//šaḥun.//šaḥin.
  root: šḥn
  gramm: ADJ
  paradigm: N_mf
@@ -41224,7 +41224,7 @@
  trans_en: river, stream
 -lexeme
  lex: šaṭər
- stem: šaṭər.|šaṭra.
+ stem: šaṭər.|šaṭra.//šaṭr.
  root: šṭr
  gramm: ADJ
  paradigm: N_mf
@@ -41248,7 +41248,7 @@
  trans_en: round-shaped cucumber; square stone for sitting
 -lexeme
  lex: šaṭyo
- stem: šatyo.//šaty.|štiṯo.//štiṯ.
+ stem: šatyo.//šaty.|štiṯo.//štiṯ.|šatye.//šaty.
  root: šṭy
  gramm: N
  paradigm: N_mf
@@ -41320,7 +41320,7 @@
  trans_en: police constable
 -lexeme
  lex: šawoyo
- stem: šawoyo.//šawoy.|šawayto.//šawayt.
+ stem: šawoyo.//šawoy.|šawayto.//šawayt.|šawoye.//šawoy.
  root: šwy
  gramm: N
  paradigm: N_mf
@@ -41336,7 +41336,7 @@
  trans_en: burned
 -lexeme
  lex: šawyo
- stem: šawyo.|šwiṯo.
+ stem: šawyo.//šawy.|šwiṯo.//šwiṯ.|šawye.//šawy.
  root: šwy
  gramm: ADJ
  paradigm: N_mf
@@ -42152,7 +42152,7 @@
  trans_en: something, a little bit
 -lexeme
  lex: šmiṭoyo
- stem: šmiṭoyo.//šmiṭoy.|šmiṭayto.//šmiṭayt.
+ stem: šmiṭoyo.//šmiṭoy.|šmiṭayto.//šmiṭayt.|šmiṭoye.//šmiṭoy.
  root: šmṭ
  gramm: N
  paradigm: N_mf
@@ -43064,7 +43064,7 @@
  trans_en: under; armpit (taḥt təšʕo)
 -lexeme
  lex: taḥtoyo
- stem: taḥtoyo.|taḥtayto.
+ stem: taḥtoyo.//taḥtoy.|taḥtayto.//taḥtayt.|taḥtoye.//taḥtoy.
  root: tḥty
  gramm: ADJ
  paradigm: N_mf
@@ -43160,7 +43160,7 @@
  trans_en: end; finally
 -lexeme
  lex: talilo/tayilo
- stem: talilo.//tayilo.|taləlto.//tayəlto.
+ stem: talilo.//tayilo.//talil.//tayil.|taləlto.//tayəlto.//taləlt.//tayəlt.|tayile.//talile.//tayil.//talil.
  root: tll
  gramm: ADJ
  paradigm: N_mf
@@ -43192,7 +43192,7 @@
  trans_en: piece of earth to put under little children so that they can do their business. One then makes it into a lump and throws it away.
 -lexeme
  lex: talyo/təlyo
- stem: talyo.//təlyo.|tliṯo.
+ stem: talyo.//təlyo.//taly.//təly.|tliṯo.//tliṯ.|talye.//təlye.//taly.//təly.
  root: tly
  gramm: ADJ
  paradigm: N_mf
@@ -43688,7 +43688,7 @@
  trans_en: spoon
 -lexeme
  lex: taryo
- stem: taryo.//tary.|triṯo.//triṯ.
+ stem: taryo.//tary.|triṯo.//triṯ.|tarye.//tary.
  root: try
  gramm: N
  paradigm: N_mf
@@ -44616,7 +44616,7 @@
  trans_en: thirty
 -lexeme
  lex: tliṯoyo
- stem: tliṯoyo.|tliṯayto.
+ stem: tliṯoyo.//tliṯoy.|tliṯayto.//tliṯayt.|tliṯoye.//tliṯoy.
  root: tlṯy
  gramm: ADJ
  paradigm: N_mf
@@ -44936,7 +44936,7 @@
  trans_en: (actually dish) flesh and blood
 -lexeme
  lex: ṭaʕoyo
- stem: ṭaʕoyo.|ṭaʕayto.
+ stem: ṭaʕoyo.//ṭaʕoy.|ṭaʕayto.//ṭaʕayt.|ṭaʕoye.//ṭaʕoy.
  root: ṭʕy
  gramm: ADJ
  paradigm: N_mf
@@ -45064,7 +45064,7 @@
  trans_en: sesame halva, sesame
 -lexeme
  lex: ṭaḥuno
- stem: ṭaḥuno.|ṭaḥənto.
+ stem: ṭaḥuno.//ṭaḥun.|ṭaḥənto.//ṭaḥənt.|ṭaḥune.//ṭaḥun.
  root: ṭḥn
  gramm: ADJ
  paradigm: N_mf
@@ -45440,7 +45440,7 @@
  trans_en: all types of fat and oil
 -lexeme
  lex: ṭawwo
- stem: ṭawwo.//ṭowo.|ṭawto.
+ stem: ṭawwo.//ṭowo.//ṭaww.//ṭow.|ṭawto.//ṭawt.|ṭawwe.//ṭowe.//ṭaww.//ṭow.
  root: ṭwb
  gramm: ADJ
  paradigm: N_mf
@@ -45456,7 +45456,7 @@
  trans_en: good deed
 -lexeme
  lex: ṭawyo
- stem: ṭawyo.//ṭawy.|ṭwiṯo.//ṭwiṯ.
+ stem: ṭawyo.//ṭawy.|ṭwiṯo.//ṭwiṯ.|ṭawye.//ṭawy.
  root: ṭwy
  gramm: N
  paradigm: N_mf
@@ -47552,7 +47552,7 @@
  trans_en: treachery
 -lexeme
  lex: xayifo
- stem: xayifo.|xayəfto.|xayife.
+ stem: xayifo.//xayif.|xayəfto.//xayəft.|xayife.//xayif.
  root: xyf
  gramm: ADJ
  paradigm: N_mf
@@ -47952,7 +47952,7 @@
  trans_en: Chorbischop
 -lexeme
  lex: xort/xortano
- stem: xort.|xorte.//xort.
+ stem: xort.|xorte.//xort.|xortan.
  root: xrt
  gramm: N
  paradigm: N_mf
@@ -48256,7 +48256,7 @@
  trans_en: special
 -lexeme
  lex: xuško
- stem: xuško.|xuške.|xuškat.
+ stem: xuško.//xušk.|xuške.//xušk.|xuškat.
  root: xšk
  gramm: ADJ
  paradigm: N_mf
@@ -48568,7 +48568,7 @@
  trans_en: only
 -lexeme
  lex: yalifo
- stem: yalifo.|yaləfto.|yalife.
+ stem: yalifo.//yalif.|yaləfto.//yaləft.|yalife.//yalif.
  root: ylf
  gramm: ADJ
  paradigm: N_mf
@@ -48680,7 +48680,7 @@
  trans_en: surely, certainly
 -lexeme
  lex: yaquro
- stem: yaquro.|yaqurto.//yaqərto.|yaqure.
+ stem: yaquro.//yaqur.|yaqurto.//yaqərto.//yaqurt.//yaqərt.|yaqure.//yaqur.
  root: yqr
  gramm: ADJ
  paradigm: N_mf
@@ -48712,7 +48712,7 @@
  trans_en: green, green place in the nature
 -lexeme
  lex: yarixo
- stem: yarixo.|yarəxto.|yarixe.
+ stem: yarixo.//yarix.|yarəxto.//yarəxt.|yarixe.//yarix.
  root: yrk
  gramm: ADJ
  paradigm: N_mf
@@ -48720,7 +48720,7 @@
  trans_en: long
 -lexeme
  lex: yaroqo
- stem: yaroqo.|yaraqto.|yaroqe.
+ stem: yaroqo.//yaroq.|yaraqto.//yaraqt.|yaroqe.//yaroq.
  root: yrq
  gramm: ADJ
  paradigm: N_mf
@@ -48728,7 +48728,7 @@
  trans_en: green
 -lexeme
  lex: yarxoniyo
- stem: yarxoniyo.|yarxoniye.
+ stem: yarxoniyo.//yarxoniy.|yarxoniye.//yarxoniy.|yarxoniyat.
  root: yrk
  gramm: ADJ
  paradigm: N_mf
@@ -48792,7 +48792,7 @@
  trans_en: Greece
 -lexeme
  lex: yawnani
- stem: yawnani.//yawnan.|yawnaniye.//yawnaniy.
+ stem: yawnani.//yawnan.|yawnaniye.//yawnaniy.|yawnaniye.//yawnaniy.
  root: ywn
  gramm: N
  paradigm: N_mf
@@ -49576,7 +49576,7 @@
  trans_en: more (price)
 -lexeme
  lex: zayilo
- stem: zayilo.|zayəlto.|zayile.
+ stem: zayilo.//zayil.|zayəlto.//zayəlt.|zayile.//zayil.
  root: zyl
  gramm: ADJ
  paradigm: N_mf
@@ -49707,7 +49707,7 @@
  stem: zəfkar.|zəfkar.
  root: zfkr
  gramm: N,m
- paradigm: N_mf
+ paradigm: N2
  trans_de: Goldschmied, Silberschmied
  trans_en: goldsmith, silversmith
 -lexeme
@@ -50296,7 +50296,7 @@
  trans_en: Japan
 -lexeme
  lex: žaponi
- stem: žaponi.//žapon.|žaponiye.//žaponiy.
+ stem: žaponi.//žapon.|žaponiye.//žaponiy.|žaponiye.//žaponiy.
  root: žpn
  gramm: N
  paradigm: N_mf
