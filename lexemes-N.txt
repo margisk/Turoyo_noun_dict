@@ -19639,14 +19639,6 @@
  trans_de: Juni
  trans_en: June
 -lexeme
- lex: i
- stem: i.
- root: ʔ
- gramm: art,sg,f
- paradigm: unchangeable
- trans_de: [?]
- trans_en: [?]
--lexeme
  lex: iʕdam
  stem: iʕdam.|UNKNOWN.
  root: ʕdm
@@ -46030,14 +46022,6 @@
  paradigm: unchangeable
  trans_de: oh!
  trans_en: oh!
--lexeme
- lex: u
- stem: u.
- root: ʔ
- gramm: art,sg,m
- paradigm: unchangeable
- trans_de:
- trans_en:
 -lexeme
  lex: uəəəuh
  stem: uəəəuh.
