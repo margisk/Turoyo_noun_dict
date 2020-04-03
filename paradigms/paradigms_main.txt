@@ -77,6 +77,14 @@
   gramm:
   paradigm: NOUN_DEM_PRN_FAR
 
+-paradigm: def_art_1
+ -flex: .u
+  gramm: art,sg,m
+ -flex: .i
+  gramm: art,sg,f
+ -flex: .a//.ann//.aʕ//.ab//.ad//.aḏ//.aḏ̣//.af//.ag//.aġ//.aǧ//.ah//.aḥ//.ak//.al//.am//.an//.ap//.aq//.ar//.as//.aṣ//.aš//.at//.aṭ//.av//.aw//.ax//.ay//.az//.až
+  gramm: art,pl
+
 
 -paradigm: V_I
  # Present
