@@ -33983,8 +33983,8 @@
  trans_de: früh morgens
  trans_en: early in the morning
 -lexeme
- lex: qelayto/qǝlayto
- stem: qelayto.//qǝlayto.//qelayt.//qǝlayt.|qelayoṯe.//qǝlayoṯe.//qelayoṯo.//qəlayoṯo.//qelayoṯ.//qǝlayoṯ.//qelayoṯ.//qəlayoṯ.
+ lex: qelayto/qəlayto
+ stem: qelayto.//qəlayto.//qelayt.//qəlayt.|qelayoṯe.//qəlayoṯe.//qelayoṯo.//qəlayoṯo.//qelayoṯ.//qəlayoṯ.//qelayoṯ.//qəlayoṯ.
  root: qlyt
  gramm: N,f
  paradigm: N2
