@@ -1,5 +1,5 @@
 -lexeme
- lex: mčaylašle/mčaylǝš
+ lex: mčaylašle/mčayləš
  stem: .č.yl.š.|.č.yl.šš.
  root: čylš
  gramm: V
@@ -8,7 +8,7 @@
  trans_en: to study; to work
 
 -lexeme
- lex: čǝlle/čoyǝr
+ lex: čəlle/čoyər
  stem: .č.y.r.|.č.r.|.č.rr.
  root: čyr
  gramm: V
@@ -17,7 +17,7 @@
  trans_en: to tear, rip
 
 -lexeme
- lex: mdaʕdakle/mdaʕdǝk
+ lex: mdaʕdakle/mdaʕdək
  stem: .d.ʕd.k.|.d.ʕd.kk.
  root: dʕdk
  gramm: V
@@ -26,7 +26,7 @@
  trans_en: to trample down
 
 -lexeme
- lex: dʕǝfle/doʕǝf
+ lex: dʕəfle/doʕəf
  stem: .d.ʕ.f.|.d.ʕ.ff.
  root: dʕf
  gramm: V
@@ -35,7 +35,7 @@
  trans_en: to push
 
 -lexeme
- lex: dʕǝkle/doʕǝk
+ lex: dʕəkle/doʕək
  stem: .d.ʕ.k.|.d.ʕ.kk.
  root: dʕk
  gramm: V
@@ -44,8 +44,8 @@
  trans_en: to trample
 
 -lexeme
- lex: daʕǝr/doʕǝr
- stem: .d.ʕ.r.|.d.ʕ.l.|.d.ʕ.rr.|.d.ʕ.ll.
+ lex: daʕər/doʕər
+ stem: .d.ʕ.r.|.d.ʕ.l.|.d.ʕ.n.|.d.ʕ.rr.|.d.ʕ.ll.
  root: dʕr
  gramm: V
  paradigm: V_I_3r
@@ -53,7 +53,7 @@
  trans_en: to return
 
 -lexeme
- lex: daʕǝṯ/doʕǝṯ
+ lex: daʕəṯ/doʕəṯ
  stem: .d.ʕ.ṯ.|.d.ʕ.ṯṯ.
  root: dʕṯ
  gramm: V
@@ -80,7 +80,7 @@
  trans_en: to ask, to request
 
 -lexeme
- lex: mdabaqle/mdabǝq
+ lex: mdabaqle/mdabəq
  stem: .d.b.q.|.d.b.qq.
  root: dbq
  gramm: V
@@ -89,7 +89,7 @@
  trans_en: make sticky
 
 -lexeme
- lex: mdaballe/mdabǝr
+ lex: mdaballe/mdabər
  stem: .d.b.r.|.d.b.l.|.d.b.rr.|.d.b.ll.
  root: dbr
  gramm: V
@@ -98,7 +98,7 @@
  trans_en: to administer; to achieve, manage; to arrange; to provide
 
 -lexeme
- lex: dfǝʕle/dofǝʕ
+ lex: dfəʕle/dofəʕ
  stem: .d.f.ʕ.|.d.f.ʕʕ.
  root: dfʕ
  gramm: V
@@ -134,7 +134,7 @@
  trans_en: to lose; to bury
 
 -lexeme
- lex: mdagele/mdagǝl
+ lex: mdagele/mdagəl
  stem: .d.g.l.|.d.g.|.d.g.ll.|.d.gg.
  root: dgl
  gramm: V
@@ -152,7 +152,7 @@
  trans_en: to change
 
 -lexeme
- lex: mdagǝš/midagǝš
+ lex: mdagəš/midagəš
  stem: .d.g.š.|.d.g.šš.
  root: dgš
  gramm: V
@@ -161,7 +161,7 @@
  trans_en: to change
 
 -lexeme
- lex: mdaġdaġle/mdaġdǝġ
+ lex: mdaġdaġle/mdaġdəġ
  stem: .d.ġd.ġ.|.d.ġd.ġġ.
  root: dġdġ
  gramm: V
@@ -170,7 +170,7 @@
  trans_en: to tingle
 
 -lexeme
- lex: dġǝlle/doġǝr
+ lex: dġəlle/doġər
  stem: .d.ġ.r.|.d.ġ.l.|.d.ġ.rr.|.d.ġ.ll.
  root: dġr
  gramm: V
@@ -188,7 +188,7 @@
  trans_en: to impress a seal
 
 -lexeme
- lex: mdahǝb/midahǝb
+ lex: mdahəb/midahəb
  stem: .d.h.b.|.d.h.bb.
  root: dhb
  gramm: V
@@ -197,7 +197,7 @@
  trans_en: to get lost
 
 -lexeme
- lex: mdahdalle/mdahdǝr
+ lex: mdahdalle/mdahdər
  stem: .d.hd.r.|.d.hd.rr.
  root: dhdr
  gramm: V
@@ -206,7 +206,7 @@
  trans_en: to drive apart
 
 -lexeme
- lex: dḥile/doḥǝl
+ lex: dḥile/doḥəl
  stem: .d.ḥ.l.|.d.ḥ.|.d.ḥ.ll.|.d.ḥḥ.
  root: dḥl
  gramm: V
@@ -233,7 +233,7 @@
  trans_en: to oil; to smooth
 
 -lexeme
- lex: mdaḥašle/mdaḥǝš
+ lex: mdaḥašle/mdaḥəš
  stem: .d.ḥ.š.|.d.ḥ.šš.
  root: dḥš
  gramm: V
@@ -242,7 +242,7 @@
  trans_en: to scrap
 
 -lexeme
- lex: mdaldašle/mdaldǝš
+ lex: mdaldašle/mdaldəš
  stem: .d.ld.š.|.d.ld.šš.
  root: dldš
  gramm: V
@@ -251,7 +251,7 @@
  trans_en: to trample
 
 -lexeme
- lex: dalǝf/dolǝf
+ lex: daləf/doləf
  stem: .d.l.f.|.d.l.ff.
  root: dlf
  gramm: V
@@ -260,7 +260,7 @@
  trans_en: to leak
 
 -lexeme
- lex: dlǝkle/dolǝk
+ lex: dləkle/dolək
  stem: .d.l.k.|.d.l.kk.
  root: dlk
  gramm: V
@@ -269,7 +269,7 @@
  trans_en: to beat up
 
 -lexeme
- lex: mdalele/mdalǝl
+ lex: mdalele/mdaləl
  stem: .d.l.l.|.d.l.|.d.l.ll.|.d.ll.
  root: dll
  gramm: V
@@ -278,7 +278,7 @@
  trans_en: to spoil
 
 -lexeme
- lex: dalǝq/dolǝq
+ lex: daləq/doləq
  stem: .d.l.q.|.d.l.qq.
  root: dlq
  gramm: V
@@ -296,7 +296,7 @@
  trans_en: to tear (eyes)
 
 -lexeme
- lex: mdamdamle/mdamdǝm
+ lex: mdamdamle/mdamdəm
  stem: .d.md.m.|.d.md.mm.
  root: dmdm
  gramm: V
@@ -305,7 +305,7 @@
  trans_en: murmur, mutter
 
 -lexeme
- lex: dmǝġle/domǝġ
+ lex: dməġle/doməġ
  stem: .d.m.ġ.|.d.m.ġġ.
  root: dmġ
  gramm: V
@@ -314,7 +314,7 @@
  trans_en: to stamp
 
 -lexeme
- lex: mdamalle/mdamǝn
+ lex: mdamalle/mdamən
  stem: .d.m.n.|.d.m.l.|.d.m.nn.|.d.m.ll.
  root: dmn
  gramm: V
@@ -323,7 +323,7 @@
  trans_en: to overtake (job, building work)
 
 -lexeme
- lex: mdamalle/mdamǝr
+ lex: mdamalle/mdamər
  stem: .d.m.r.|.d.m.l.|.d.m.rr.|.d.m.ll.
  root: dmr
  gramm: V
@@ -341,7 +341,7 @@
  trans_en: to be astonished
 
 -lexeme
- lex: mdamǝš/midamǝš
+ lex: mdaməš/midaməš
  stem: .d.m.š.|.d.m.šš.
  root: dmš
  gramm: V
@@ -350,7 +350,7 @@
  trans_en: to become sticky
 
 -lexeme
- lex: damǝx/domǝx
+ lex: daməx/doməx
  stem: .d.m.x.|.d.m.xx.
  root: dmx
  gramm: V
@@ -377,7 +377,7 @@
  trans_en: to imitate, to mimic; to take shape of smb./smth. (b-) (with ruḥ-)
 
 -lexeme
- lex: dnǝgle/donǝg
+ lex: dnəgle/donəg
  stem: .d.n.g.|.d.n.gg.
  root: dng
  gramm: V
@@ -386,7 +386,7 @@
  trans_en: to fill the stomach full
 
 -lexeme
- lex: mdapdaple/mdapdǝp
+ lex: mdapdaple/mdapdəp
  stem: .d.pd.p.|.d.pd.pp.
  root: dpdp
  gramm: V
@@ -395,7 +395,7 @@
  trans_en: to heat strongly
 
 -lexeme
- lex: mdaqdaqle/mdaqdǝq
+ lex: mdaqdaqle/mdaqdəq
  stem: .d.qd.q.|.d.qd.qq.
  root: dqdq
  gramm: V
@@ -404,7 +404,7 @@
  trans_en: to beat, to strike
 
 -lexeme
- lex: mdaqalle/mdaqǝr
+ lex: mdaqalle/mdaqər
  stem: .d.q.r.|.d.q.rr.
  root: dqr
  gramm: V
@@ -413,7 +413,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mdarbasle/mdarbǝs
+ lex: mdarbasle/mdarbəs
  stem: .d.rb.s.|.d.rb.ss.
  root: drbs
  gramm: V
@@ -422,7 +422,7 @@
  trans_en: to make thoroughly (work)
 
 -lexeme
- lex: mdarǝd/midarǝd
+ lex: mdarəd/midarəd
  stem: .d.r.d.|.d.r.dd.
  root: drd
  gramm: V
@@ -431,7 +431,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mdardamle/mdardǝm
+ lex: mdardamle/mdardəm
  stem: .d.rd.m.|.d.rd.mm.
  root: drdm
  gramm: V
@@ -440,7 +440,7 @@
  trans_en: to trouble smb. with requests
 
 -lexeme
- lex: mdaraǧle/mdarǝǧ
+ lex: mdaraǧle/mdarəǧ
  stem: .d.r.ǧ.|.d.r.ǧǧ.
  root: drǧ
  gramm: V
@@ -449,7 +449,7 @@
  trans_en: to sell
 
 -lexeme
- lex: mdarkamle/mdarkǝm
+ lex: mdarkamle/mdarkəm
  stem: .d.rk.m.|.d.rk.mm.
  root: drkm
  gramm: V
@@ -458,7 +458,7 @@
  trans_en: to hit with fists; to fight
 
 -lexeme
- lex: mdarmalle/mdarmǝn
+ lex: mdarmalle/mdarmən
  stem: .d.rm.n.|.d.rm.l.|.d.rm.nn.|.d.rm.ll.
  root: drmn
  gramm: V
@@ -467,7 +467,7 @@
  trans_en: to treat with medicine; to add (to a liquid)
 
 -lexeme
- lex: drǝlle/dorǝn
+ lex: drəlle/dorən
  stem: .d.r.n.|.d.r.l.|.d.r.nn.|.d.r.ll.
  root: drn
  gramm: V
@@ -476,7 +476,7 @@
  trans_en: to polish with a black smooth stone called doruno
 
 -lexeme
- lex: drǝxle/dorǝx
+ lex: drəxle/dorəx
  stem: .d.r.х.|.d.r.хх.
  root: drх
  gramm: V
@@ -503,7 +503,7 @@
  trans_en: to winnow
 
 -lexeme
- lex: drǝzle/dorǝz
+ lex: drəzle/dorəz
  stem: .d.r.z.|.d.r.zz.
  root: drz
  gramm: V
@@ -512,7 +512,7 @@
  trans_en: to study
 
 -lexeme
- lex: drǝzle/dorǝz
+ lex: drəzle/dorəz
  stem: .d.r.z.|.d.r.zz.
  root: drz
  gramm: V
@@ -521,7 +521,7 @@
  trans_en: to sew up
 
 -lexeme
- lex: mdašdašle/mdašdǝš
+ lex: mdašdašle/mdašdəš
  stem: .d.šd.š.|.d.šd.šš.
  root: dšdš
  gramm: V
@@ -530,7 +530,7 @@
  trans_en: to stamp around, to trample, to push
 
 -lexeme
- lex: mdawdaḥle/mdawdǝḥ
+ lex: mdawdaḥle/mdawdəḥ
  stem: .d.wd.ḥ.|.ṭ.wṭ.ḥ.|.t.wt.ḥ.|.d.wd.ḥḥ.|.ṭ.wṭ.ḥḥ.|.t.wt.ḥḥ.
  root: dwdḥ/twtḥ/ṭwṭḥ
  gramm: V
@@ -548,7 +548,7 @@
  trans_en: to go down; to fall down; to hang down
 
 -lexeme
- lex: mdawdǝl/midawdǝl
+ lex: mdawdəl/midawdəl
  stem: .d.wd.l.|.d.wd.|.d.wd.ll.|.d.wdd.
  root: dwdl
  gramm: V
@@ -557,7 +557,7 @@
  trans_en: to dangle
 
 -lexeme
- lex: dwǝġle/dowǝġ
+ lex: dwəġle/dowəġ
  stem: .d.w.ġ.|.d.ġ.|.d.w.ġġ.|.d.ġġ.
  root: dwġ
  gramm: V
@@ -575,7 +575,7 @@
  trans_en: to brand
 
 -lexeme
- lex: mdawhalle/mdawhǝr
+ lex: mdawhalle/mdawhər
  stem: .d.wh.r.|.d.wh.l.|.d.wh.rr.|.d.wh.ll.
  root: dwhr
  gramm: V
@@ -584,7 +584,7 @@
  trans_en: to dispose of smb.
 
 -lexeme
- lex: mdawlable/mdawlǝb
+ lex: mdawlable/mdawləb
  stem: .d.wl.b.|.d.wl.bb.
  root: dwlb
  gramm: V
@@ -593,7 +593,7 @@
  trans_en: to head, to govern; to distribute the work
 
 -lexeme
- lex: mdawamle/mdawǝm
+ lex: mdawamle/mdawəm
  stem: .d.w.m.|.d.m.|.d.w.mm.|.d.mm.
  root: dwm
  gramm: V
@@ -602,7 +602,7 @@
  trans_en: to continue (intr.); to continue doing smth.
 
 -lexeme
- lex: mdawmǝr/midawmǝr
+ lex: mdawmər/midawmər
  stem: .d.wm.r.|.d.wm.rr.
  root: dwmr
  gramm: V
@@ -611,7 +611,7 @@
  trans_en: to be astonished, to be amazed
 
 -lexeme
- lex: dwǝqle/dowǝq
+ lex: dwəqle/dowəq
  stem: .d.w.q.|.d.q.|.d.w.qq.|.d.qq.
  root: dwq
  gramm: V
@@ -620,7 +620,7 @@
  trans_en: to bake pitas; to stick the dough for pitas to the inside wall of the baking oven
 
 -lexeme
- lex: dwǝlle/dowǝr
+ lex: dwəlle/dowər
  stem: .d.w.r.|.d.r.|.d.w.rr.|.d.rr.
  root: dwr
  gramm: V
@@ -629,7 +629,7 @@
  trans_en: to plough, to till
 
 -lexeme
- lex: mdawalle/mdawǝr
+ lex: mdawalle/mdawər
  stem: .d.w.r.|.d.r.|.d.w.rr.|.d.rr.
  root: dwr
  gramm: V
@@ -638,7 +638,7 @@
  trans_en: to erect a wall around the roof of the house
 
 -lexeme
- lex: mdawasle/mdawǝs
+ lex: mdawasle/mdawəs
  stem: .d.w.s.|.d.s.|.d.w.ss.|.d.ss.
  root: dws
  gramm: V
@@ -647,7 +647,7 @@
  trans_en: to tread down
 
 -lexeme
- lex: dwǝṣle/dowǝṣ
+ lex: dwəṣle/dowəṣ
  stem: .d.w.ṣ.|.d.ṣ.|.d.w.ṣṣ.|.d.ṣṣ.
  root: dwṣ
  gramm: V
@@ -665,7 +665,7 @@
  trans_en: to cheat
 
 -lexeme
- lex: mdaxele/mdaxǝl
+ lex: mdaxele/mdaxəl
  stem: .d.x.l.|.d.x.|.d.x.ll.|.d.xx.
  root: dxl
  gramm: V
@@ -674,7 +674,7 @@
  trans_en: to interfere into (b-) something; to beg for mercy
 
 -lexeme
- lex: dǝfle/doyǝf
+ lex: dəfle/doyəf
  stem: .d.y.f.|.d.f.|.d.ff.
  root: dyf
  gramm: V
@@ -683,7 +683,7 @@
  trans_en: to coat
 
 -lexeme
- lex: madile/madǝl
+ lex: madile/madəl
  stem: .d.y.l.|.d.l.|.d.|.d.y.ll.|.d.ll.|.dd.
  root: dyl
  gramm: V
@@ -692,7 +692,7 @@
  trans_en: to show
 
 -lexeme
- lex: madǝmle/madǝm
+ lex: madəmle/madəm
  stem: .d.y.m.|.d.m.|.d.y.mm.|.d.mm.
  root: dym
  gramm: V
@@ -701,7 +701,7 @@
  trans_en: to prolong; to keep doing smth.; to last
 
 -lexeme
- lex: mdayalle/mdayǝn
+ lex: mdayalle/mdayən
  stem: .d.y.n.|.d.n.|.d.l.|.d.y.nn.|.d.nn.|.d.ll.
  root: dyn
  gramm: V
@@ -728,7 +728,7 @@
  trans_en: to recline
 
 -lexeme
- lex: dǝqle/doyǝq
+ lex: dəqle/doyəq
  stem: .d.y.q.|.d.q.|.d.y.qq.|.d.qq.
  root: dyq
  gramm: V
@@ -737,7 +737,7 @@
  trans_en: to beat; to knock (on the door); to pound, to grind; to play (a musical instrument); to touch
 
 -lexeme
- lex: madǝqle/madǝq
+ lex: madəqle/madəq
  stem: .d.y.q.|.d.q.|.d.y.qq.|.d.qq.
  root: dyq
  gramm: V
@@ -746,7 +746,7 @@
  trans_en: to watch
 
 -lexeme
- lex: dǝšle/doyǝš
+ lex: dəšle/doyəš
  stem: .d.y.š.|.d.š.|.d.šš.
  root: dyš
  gramm: V
@@ -755,7 +755,7 @@
  trans_en: to tread; to run over
 
 -lexeme
- lex: mdayšalle/mdayšǝn
+ lex: mdayšalle/mdayšən
  stem: .d.yš.n.|.d.yš.nn.
  root: dyšn
  gramm: V
@@ -764,7 +764,7 @@
  trans_en: to begin doing smth. (b-, l-)
 
 -lexeme
- lex: mdaywalle/mdaywǝn
+ lex: mdaywalle/mdaywən
  stem: .d.yw.n.|.d.yw.nn.
  root: dywn
  gramm: V
@@ -773,7 +773,7 @@
  trans_en: to become mad, to go crazy
 
 -lexeme
- lex: madǝxle/madǝx
+ lex: madəxle/madəx
  stem: .d.y.x.|.d.x.|.d.y.xx.|.d.xx.
  root: dyx
  gramm: V
@@ -782,7 +782,7 @@
  trans_en: to stun
 
 -lexeme
- lex: maḏǝble/maḏǝb
+ lex: maḏəble/maḏəb
  stem: .ḏ.y.b.|.ḏ.b.|.ḏ.y.bb.|.ḏ.bb.
  root: ḏyb
  gramm: V
@@ -791,7 +791,7 @@
  trans_en: to melt (tr.)
 
 -lexeme
- lex: ḏǝmle/ḏoyǝm
+ lex: ḏəmle/ḏoyəm
  stem: .ḏ.y.m.|.ḏ.m.|.ḏ.mm.
  root: ḏym
  gramm: V
@@ -800,7 +800,7 @@
  trans_en: to criticize
 
 -lexeme
- lex: ḏǝqle/ḏoyǝq
+ lex: ḏəqle/ḏoyəq
  stem: .ḏ.y.q.|.ḏ.q.|.ḏ.qq.
  root: ḏyq
  gramm: V
@@ -809,7 +809,7 @@
  trans_en: to taste
 
 -lexeme
- lex: d̞aʕǝf/d̞oʕǝf
+ lex: d̞aʕəf/d̞oʕəf
  stem: .ḏ̣.ʕ.f.|.z.ʕ.f.|.ḏ.ʕ.f.|.ḏ̣.ʕ.ff.|.z.ʕ.ff.|.ḏ.ʕ.ff.
  root: d̞ʕf
  gramm: V
@@ -827,7 +827,7 @@
  trans_en: to sacrifice
 
 -lexeme
- lex: d̞lǝmle/d̞olǝm
+ lex: d̞ləmle/d̞oləm
  stem: .ḏ̣.l.m.|.ḏ̣.l.mm.
  root: d̞lm
  gramm: V
@@ -836,7 +836,7 @@
  trans_en: to do wrong
 
 -lexeme
- lex: md̞ayaʕle/md̞ayǝʕ
+ lex: md̞ayaʕle/md̞ayəʕ
  stem: .ḏ̣.y.ʕ.|.v.y.ʕ.|.ḏ̣.y.ʕʕ.|.v.y.ʕʕ.
  root: d̞yʕ
  gramm: V
@@ -845,7 +845,7 @@
  trans_en: to lose; to destroy; to obliterate
 
 -lexeme
- lex: d̞ayǝf/d̞oyǝf
+ lex: d̞ayəf/d̞oyəf
  stem: .ḏ̣.y.f.|.ḏ̣.f.|.ḏ̣.y.ff.|.ḏ̣.ff.
  root: d̞yf
  gramm: V
@@ -872,7 +872,7 @@
  trans_en: to stay as a guest
 
 -lexeme
- lex: mad̞ǝlle/mad̞ǝr
+ lex: mad̞əlle/mad̞ər
  stem: .ḏ̣.y.r.|.ḏ̣.r.|.ḏ̣.n.|.ḏ̣.l.|.ḏ̣.y.rr.|.ḏ̣.rr.|.ḏ̣.nn.|.ḏ̣.ll.
  root: d̞yr
  gramm: V
@@ -881,7 +881,7 @@
  trans_en: to put an animal kid under its mother, so that the mother gives milk
 
 -lexeme
- lex: mad̞ǝlle/mad̞ǝr
+ lex: mad̞əlle/mad̞ər
  stem: .ḏ̣.y.r.|.ḏ.r.|.ḏ̣.y.rr.|.ḏ.rr.
  root: d̞yr
  gramm: V
@@ -890,7 +890,7 @@
  trans_en: to harm
 
 -lexeme
- lex: fʕile/foʕǝl
+ lex: fʕile/foʕəl
  stem: .f.ʕ.l.|.f.ʕ.|.f.ʕ.ll.|.f.ʕʕ.
  root: fʕl
  gramm: V
@@ -899,7 +899,7 @@
  trans_en: to hire
 
 -lexeme
- lex: fčǝxle/fočǝx
+ lex: fčəxle/fočəx
  stem: .f.č.x.|.f.č.xx.
  root: fčx
  gramm: V
@@ -917,7 +917,7 @@
  trans_en: to sacrifice
 
 -lexeme
- lex: mafd̞aḥle/mafd̞ǝḥ
+ lex: mafd̞aḥle/mafd̞əḥ
  stem: .f.ḏ̣.ḥ.|.f.ḏ̣.ḥḥ.
  root: fd̞ḥ
  gramm: V
@@ -926,7 +926,7 @@
  trans_en: to put to shame
 
 -lexeme
- lex: fad̞ǝl/fod̞ǝl
+ lex: fad̞əl/fod̞əl
  stem: .f.d̞.l.|.f.ḏ̣.|.f.d̞.ll.|.f.ḏ̣̣.
  root: fd̞l
  gramm: V
@@ -944,7 +944,7 @@
  trans_en: to prefer smb. over smb. (ʕal-); to invite in
 
 -lexeme
- lex: mfaǧaʕle/mfaǧǝʕ
+ lex: mfaǧaʕle/mfaǧəʕ
  stem: .f.ǧ.ʕ.|.f.ǧ.ʕʕ.
  root: fǧʕ
  gramm: V
@@ -953,7 +953,7 @@
  trans_en: to sell
 
 -lexeme
- lex: fhǝmle/fohǝm
+ lex: fhəmle/fohəm
  stem: .f.h.m.|.f.h.mm.
  root: fhm
  gramm: V
@@ -971,7 +971,7 @@
  trans_en: to yawn
 
 -lexeme
- lex: mfaḥele/mfaḥǝl
+ lex: mfaḥele/mfaḥəl
  stem: .f.ḥ.l.|.f.ḥ.|.f.ḥ.ll.|.f.ḥḥ.
  root: fḥl
  gramm: V
@@ -980,7 +980,7 @@
  trans_en: to forgive; to consider smth. as ḥalal; to give smth. to smb. willingly
 
 -lexeme
- lex: mfaḥamle/mfaḥǝm
+ lex: mfaḥamle/mfaḥəm
  stem: .f.ḥ.m.|.f.ḥ.mm.
  root: fḥm
  gramm: V
@@ -989,7 +989,7 @@
  trans_en: to become angry
 
 -lexeme
- lex: fḥǝṣle/foḥǝṣ
+ lex: fḥəṣle/foḥəṣ
  stem: .f.ḥ.ṣ.|.f.ḥ.ṣṣ.
  root: fḥṣ
  gramm: V
@@ -1007,7 +1007,7 @@
  trans_en: to investigate
 
 -lexeme
- lex: mfaḥašle/mfaḥǝš
+ lex: mfaḥašle/mfaḥəš
  stem: .f.ḥ.š.|.f.ḥ.šš.
  root: fḥš
  gramm: V
@@ -1016,7 +1016,7 @@
  trans_en: to leave a relaxed life
 
 -lexeme
- lex: mfakfakle/mfakfǝk
+ lex: mfakfakle/mfakfək
  stem: .f.kf.k.|.f.kf.kk.
  root: fkfk
  gramm: V
@@ -1025,7 +1025,7 @@
  trans_en: to loosen, to detach
 
 -lexeme
- lex: mfakǝr/mifakǝr
+ lex: mfakər/mifakər
  stem: .f.k.r.|.f.k.n.|.f.k.l.|.p.k.r.|.p.k.n.|.p.k.l.|.f.k.rr.|.f.k.nn.|.f.k.ll.|.p.k.rr.|.p.k.nn.|.p.k.ll.
  root: fkr
  gramm: V
@@ -1034,7 +1034,7 @@
  trans_en: to get stuck
 
 -lexeme
- lex: mfakalle/mfakǝr
+ lex: mfakalle/mfakər
  stem: .f.k.r.|.f.k.l.|.f.k.n.|.f.k.rr.|.f.k.ll.|.f.k.nn.
  root: fkr
  gramm: V
@@ -1043,7 +1043,7 @@
  trans_en: to think, to ponder
 
 -lexeme
- lex: flǝġle/folǝġ
+ lex: fləġle/foləġ
  stem: .f.l.ġ.|.p.l.ġ.|.f.l.ġġ.|.p.l.ġġ.
  root: flġ
  gramm: V
@@ -1061,7 +1061,7 @@
  trans_en: to share; to split
 
 -lexeme
- lex: flǝḥle/folǝḥ
+ lex: fləḥle/foləḥ
  stem: .f.l.ḥ.|.f.l.ḥḥ.
  root: flḥ
  gramm: V
@@ -1069,12 +1069,12 @@
  trans_de: (durch)ackern
 
 -lexeme
- lex: falǝt/folǝt
+ lex: falət/folət
  stem: .f.l.t.|.f.l.tt.
  root: flt
  gramm: V
  paradigm: V_I
- trans_de: 1) entrinnen, davonkommen, loskommen, entgehen, engleiten, losgehen, entfahren, frei herumlaufen; 2) (ʕal, b-, l-, bǝṯr-, bayn-) herfallen über, sich heranmachen an, über, hinter einem herstürzen, herrennen
+ trans_de: 1) entrinnen, davonkommen, loskommen, entgehen, engleiten, losgehen, entfahren, frei herumlaufen; 2) (ʕal, b-, l-, bəṯr-, bayn-) herfallen über, sich heranmachen an, über, hinter einem herstürzen, herrennen
  trans_en: to escape, to get away; be at large; to pursue smb. (ʕal, b-, l-, bəṯr-, bayn-)
 
 -lexeme
@@ -1105,7 +1105,7 @@
  trans_en: to answer
 
 -lexeme
- lex: mfaqfaqle/mfaqfǝq
+ lex: mfaqfaqle/mfaqfəq
  stem: .f.qf.q.|.f.qf.qq.
  root: fqfq
  gramm: V
@@ -1114,7 +1114,7 @@
  trans_en: to break
 
 -lexeme
- lex: fqǝḥle/foqǝḥ
+ lex: fqəḥle/foqəḥ
  stem: .f.q.ḥ.|.f.q.ḥḥ.
  root: fqḥ
  gramm: V
@@ -1123,7 +1123,7 @@
  trans_en: to break open
 
 -lexeme
- lex: mfaqaṣle/mfaqǝṣ
+ lex: mfaqaṣle/mfaqəṣ
  stem: .f.q.ṣ.|.f.q.ṣṣ.
  root: fqṣ
  gramm: V
@@ -1132,7 +1132,7 @@
  trans_en: to clap, to applaud
 
 -lexeme
- lex: farǝʕ/forǝʕ
+ lex: farəʕ/forəʕ
  stem: .f.r.ʕ.|.f.r.ʕʕ.
  root: frʕ
  gramm: V
@@ -1141,7 +1141,7 @@
  trans_en: to be sprained, to be dislocated
 
 -lexeme
- lex: mfaraʕle/mfarǝʕ
+ lex: mfaraʕle/mfarəʕ
  stem: .f.r.ʕ.|.f.r.ʕʕ.
  root: frʕ
  gramm: V
@@ -1168,7 +1168,7 @@
  trans_en: to crumble (tr.); to change (money); to take out
 
 -lexeme
- lex: frǝd̞le/forǝd̞
+ lex: frəd̞le/forəd̞
  stem: .f.r.ḏ̣.|.f.r.ḏ̣̣.
  root: frd̞
  gramm: V
@@ -1177,7 +1177,7 @@
  trans_en: to belong legally, rightfully
 
 -lexeme
- lex: mfarfaʕle/mfarfǝʕ
+ lex: mfarfaʕle/mfarfəʕ
  stem: .f.rf.ʕ.|.f.rf.ʕʕ.
  root: frfʕ
  gramm: V
@@ -1186,7 +1186,7 @@
  trans_en: to sluice
 
 -lexeme
- lex: mfarfalle/mfarfǝr
+ lex: mfarfalle/mfarfər
  stem: .f.rf.r.|.f.rf.rr.
  root: frfr
  gramm: V
@@ -1204,7 +1204,7 @@
  trans_en: to pant, to wheeze; to have the fits of a dying person
 
 -lexeme
- lex: mfaraǧle/mfarǝǧ
+ lex: mfaraǧle/mfarəǧ
  stem: .f.r.ǧ.|.f.r.ǧǧ.
  root: frǧ
  gramm: V
@@ -1213,7 +1213,7 @@
  trans_en: to look at, to watch
 
 -lexeme
- lex: friḥ/mǝfrǝḥ
+ lex: friḥ/məfrəḥ
  stem: .f.r.ḥ.|.f.r.ḥḥ.
  root: frḥ
  gramm: V
@@ -1222,7 +1222,7 @@
  trans_en: to become glad
 
 -lexeme
- lex: frǝqle/forǝq
+ lex: frəqle/forəq
  stem: .f.r.q.|.f.r.qq.
  root: frq
  gramm: V
@@ -1240,7 +1240,7 @@
  trans_en: to distribute
 
 -lexeme
- lex: mfarqaʕle/mfarqǝʕ
+ lex: mfarqaʕle/mfarqəʕ
  stem: .f.rq.ʕ.|.f.rq.ʕʕ.
  root: frqʕ
  gramm: V
@@ -1249,7 +1249,7 @@
  trans_en: to tear in pieces
 
 -lexeme
- lex: frǝsle/forǝs
+ lex: frəsle/forəs
  stem: .f.r.s.|.f.r.ss.
  root: frs
  gramm: V
@@ -1258,7 +1258,7 @@
  trans_en: to make bed; to lay out, to spread; to stretch
 
 -lexeme
- lex: frǝšle/forǝš
+ lex: frəšle/forəš
  stem: .f.r.š.|.f.r.šš.
  root: frš
  gramm: V
@@ -1267,7 +1267,7 @@
  trans_en: to cut off, to separate
 
 -lexeme
- lex: frǝṭle/forǝṭ
+ lex: frəṭle/forəṭ
  stem: .f.r.ṭ.|.f.r.ṭṭ.
  root: frṭ
  gramm: V
@@ -1276,7 +1276,7 @@
  trans_en: to tear, to rip
 
 -lexeme
- lex: frǝxle/forǝx
+ lex: frəxle/forəx
  stem: .f.r.x.|.f.r.xx.
  root: frx
  gramm: V
@@ -1285,7 +1285,7 @@
  trans_en: to rub; to grate; to paint, to dye
 
 -lexeme
- lex: mfaraxle/mfarǝx
+ lex: mfaraxle/mfarəx
  stem: .f.r.x.|.f.r.xx.
  root: frx
  gramm: V
@@ -1294,7 +1294,7 @@
  trans_en: to hatch (tr.)
 
 -lexeme
- lex: fsǝdle/fosǝd
+ lex: fsədle/fosəd
  stem: .f.s.d.|.f.s.dd.
  root: fsd
  gramm: V
@@ -1312,7 +1312,7 @@
  trans_en: to calumniate
 
 -lexeme
- lex: fsǝxle/fosǝx
+ lex: fsəxle/fosəx
  stem: .f.s.x.|.f.s.xx.
  root: fsx
  gramm: V
@@ -1321,7 +1321,7 @@
  trans_en: to call smth. false
 
 -lexeme
- lex: fṣiḥ/mǝfṣǝḥ
+ lex: fṣiḥ/məfṣəḥ
  stem: .f.ṣ.ḥ.|.f.ṣ.ḥḥ.
  root: fṣḥ
  gramm: V
@@ -1339,7 +1339,7 @@
  trans_en: to delight smb.
 
 -lexeme
- lex: mfaṣele/mfaṣǝl
+ lex: mfaṣele/mfaṣəl
  stem: .f.ṣ.l.|.f.ṣ.ll.
  root: fṣl
  gramm: V
@@ -1348,7 +1348,7 @@
  trans_en: to tailor; to fit to a form
 
 -lexeme
- lex: fṣǝlle/foṣǝr
+ lex: fṣəlle/foṣər
  stem: .f.ṣ.r.|.f.ṣ.rr.
  root: fṣr
  gramm: V
@@ -1366,7 +1366,7 @@
  trans_en: to recognize; to interpret (a dream)
 
 -lexeme
- lex: mfašfašle/mfašfǝš
+ lex: mfašfašle/mfašfəš
  stem: .f.šf.š.|.f.šf.šš.
  root: fšfš
  gramm: V
@@ -1375,7 +1375,7 @@
  trans_en: [?]
 
 -lexeme
- lex: fšǝqle/fošǝq
+ lex: fšəqle/fošəq
  stem: .f.š.q.|.f.š.qq.
  root: fšq
  gramm: V
@@ -1393,7 +1393,7 @@
  trans_en: to interpret, to clarify
 
 -lexeme
- lex: fašǝr/fošǝr
+ lex: fašər/fošər
  stem: .f.š.r.|.f.š.l.|.f.š.n.|.f.š.rr.|.f.š.ll.|.f.š.nn.
  root: fšr
  gramm: V
@@ -1420,7 +1420,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ftǝḥle/fotǝḥ
+ lex: ftəḥle/fotəḥ
  stem: .f.t.ḥ.|.f.t.ḥḥ.
  root: ftḥ
  gramm: V
@@ -1438,7 +1438,7 @@
  trans_en: 
 
 -lexeme
- lex: mǝftakalle/mǝftakǝr
+ lex: məftakalle/məftakər
  stem: .f.tk.r.|.f.tk.rr.
  root: ftkr
  gramm: V
@@ -1447,7 +1447,7 @@
  trans_en: to think, to ponder; to contrive; to think of something
 
 -lexeme
- lex: fatǝl/fotǝl
+ lex: fatəl/fotəl
  stem: .f.t.l.|.f.t.ll.
  root: ftl
  gramm: V
@@ -1465,7 +1465,7 @@
  trans_en: to burst (intr.)
 
 -lexeme
- lex: fatǝr/fotǝr
+ lex: fatər/fotər
  stem: .f.t.r.|.f.t.rr.
  root: ftr
  gramm: V
@@ -1474,7 +1474,7 @@
  trans_en: to become lukewarm
 
 -lexeme
- lex: mfatašle/mfatǝš
+ lex: mfatašle/mfatəš
  stem: .f.t.š.|.p.t.š.|.f.t.šš.|.p.t.šš.
  root: ftš
  gramm: V
@@ -1483,7 +1483,7 @@
  trans_en: to search; to control
 
 -lexeme
- lex: fṭim/mǝfṭǝm
+ lex: fṭim/məfṭəm
  stem: .f.ṭ.m.|.f.ṭ.mm.
  root: fṭm
  gramm: V
@@ -1492,7 +1492,7 @@
  trans_en: to be weaned
 
 -lexeme
- lex: mafṭalle/mafṭǝr
+ lex: mafṭalle/mafṭər
  stem: .f.ṭ.r.|.f.ṭ.rr.
  root: fṭr
  gramm: V
@@ -1501,7 +1501,7 @@
  trans_en: to break the fast when the fast is over; to have a breakfast
 
 -lexeme
- lex: fṭǝṣle/foṭǝṣ
+ lex: fṭəṣle/foṭəṣ
  stem: .f.ṭ.ṣ.|.f.ṭ.ṣṣ.
  root: fṭṣ
  gramm: V
@@ -1519,7 +1519,7 @@
  trans_en: to become wide
 
 -lexeme
- lex: mfawele/mfawǝl
+ lex: mfawele/mfawəl
  stem: .f.w.l.|.f.l.|.f.w.ll.|.f.ll.
  root: fwl
  gramm: V
@@ -1528,7 +1528,7 @@
  trans_en: to tell smb's fortune
 
 -lexeme
- lex: mfayaʕle/mfayǝʕ
+ lex: mfayaʕle/mfayəʕ
  stem: .f.y.ʕ.|.f.y.ʕʕ.
  root: fyʕ
  gramm: V
@@ -1537,7 +1537,7 @@
  trans_en: to wash (the dishes)
 
 -lexeme
- lex: mfayadle/mfayǝd
+ lex: mfayadle/mfayəd
  stem: .f.y.d.|.p.y.d.|.f.y.dd.|.p.y.dd.
  root: fyd/pyd
  gramm: V
@@ -1546,7 +1546,7 @@
  trans_en: to find; to get, to acquire
 
 -lexeme
- lex: fayǝd̞/foyǝd̞
+ lex: fayəd̞/foyəd̞
  stem: .f.y.ḏ̣.|.p.y.ḏ̣.|.p.ḏ̣.|.f.y.ḏ̣̣.|.p.y.ḏ̣̣.|.f.ḏ̣̣.|.p.ḏ̣̣.
  root: fyḏ̣/pyḏ̣
  gramm: V
@@ -1555,7 +1555,7 @@
  trans_en: to stream (light) (intr.)
 
 -lexeme
- lex: fayǝḥ/foyǝḥ
+ lex: fayəḥ/foyəḥ
  stem: .f.y.ḥ.|.f.ḥ.|.f.ḥḥ.
  root: fyḥ
  gramm: V
@@ -1564,7 +1564,7 @@
  trans_en: to become cool, fresh
 
 -lexeme
- lex: fǝkle/foyǝk
+ lex: fəkle/foyək
  stem: .f.y.k.|.f.k.|.f.kk.
  root: fyk
  gramm: V
@@ -1573,7 +1573,7 @@
  trans_en: to release, to untie
 
 -lexeme
- lex: mfaykǝs/mifaykǝs
+ lex: mfaykəs/mifaykəs
  stem: .f.yk.s.|.f.yk.ss.
  root: fyks
  gramm: V
@@ -1582,7 +1582,7 @@
  trans_en: to be late for (m-) smth.
 
 -lexeme
- lex: fayǝr/foyǝr
+ lex: fayər/foyər
  stem: .f.y.r.|.f.r.|.f.rr.
  root: fyr
  gramm: V
@@ -1591,7 +1591,7 @@
  trans_en: to fly
 
 -lexeme
- lex: fayǝr/foyǝr
+ lex: fayər/foyər
  stem: .f.y.r.|.f.r.|.f.rr.
  root: fyr
  gramm: V
@@ -1600,7 +1600,7 @@
  trans_en: to evaporate (intr.); to race
 
 -lexeme
- lex: fayǝš/foyǝš
+ lex: fayəš/foyəš
  stem: .f.y.š.|.f.š.|.f.šš.
  root: fyš
  gramm: V
@@ -1609,7 +1609,7 @@
  trans_en: to stay, to remain; to be left over; to remain alive; in neg. sentences means not anymore
 
 -lexeme
- lex: fayǝt/foyǝt
+ lex: fayət/foyət
  stem: .f.y.t.|.f.t.|.f.tt.
  root: fyt
  gramm: V
@@ -1655,7 +1655,7 @@
  trans_en: to beg
 
 -lexeme
- lex: gḏile/goḏǝl
+ lex: gḏile/goḏəl
  stem: .g.ḏ.l.|.g.ḏ.ll.
  root: gḏl
  gramm: V
@@ -1664,7 +1664,7 @@
  trans_en: to braid
 
 -lexeme
- lex: mgaġgaġle/mgaġgǝġ
+ lex: mgaġgaġle/mgaġgəġ
  stem: .g.ġg.ġ.|.g.ġg.ġġ.
  root: gġgġ
  gramm: V
@@ -1673,7 +1673,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ghǝlle/gohǝr
+ lex: ghəlle/gohər
  stem: .g.h.r.|.g.h.rr.
  root: ghr
  gramm: V
@@ -1691,7 +1691,7 @@
  trans_en: to laugh
 
 -lexeme
- lex: galǝḏ/golǝḏ
+ lex: galəḏ/goləḏ
  stem: .g.l.ḏ.|.g.l.ḏḏ.
  root: glḏ
  gramm: V
@@ -1700,7 +1700,7 @@
  trans_en: to freeze (intr.); to become covered with ice
 
 -lexeme
- lex: glǝǧle/golǝǧ
+ lex: gləǧle/goləǧ
  stem: .g.l.ǧ.|.g.l.ǧǧ.
  root: glǧ
  gramm: V
@@ -1709,7 +1709,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mgalatle/mgalǝt
+ lex: mgalatle/mgalət
  stem: .g.l.t.|.g.l.tt.
  root: glt
  gramm: V
@@ -1718,7 +1718,7 @@
  trans_en: [?]
 
 -lexeme
- lex: glǝṭle/golǝṭ
+ lex: gləṭle/goləṭ
  stem: .g.l.ṭ.|.g.l.ṭṭ.
  root: glṭ
  gramm: V
@@ -1727,7 +1727,7 @@
  trans_en: to remove from paper
 
 -lexeme
- lex: mgalvačle/mgalvǝč
+ lex: mgalvačle/mgalvəč
  stem: .g.lv.č.|.g.wl.č.|.g.lv.čč.|.g.wl.čč.
  root: glvč
  gramm: V
@@ -1763,7 +1763,7 @@
  trans_en: to stain; to dirty
 
 -lexeme
- lex: mgamrakle/mgamrǝk
+ lex: mgamrakle/mgamrək
  stem: .g.mr.k.|.g.mr.kk.
  root: gmrk
  gramm: V
@@ -1781,7 +1781,7 @@
  trans_en: to roll (intr.)
 
 -lexeme
- lex: mgangele/mgangǝl
+ lex: mgangele/mgangəl
  stem: .g.ng.l.|.g.ng.ll.
  root: gngl
  gramm: V
@@ -1790,7 +1790,7 @@
  trans_en: [?]
 
 -lexeme
- lex: gnǝṣle/gonǝṣ
+ lex: gnəṣle/gonəṣ
  stem: .g.n.ṣ.|.g.n.ṣṣ.
  root: gnṣ
  gramm: V
@@ -1817,7 +1817,7 @@
  trans_en: to set (sun), to decline (day)
 
 -lexeme
- lex: mgaraʕle/mgarǝʕ
+ lex: mgaraʕle/mgarəʕ
  stem: .g.r.ʕ.|.g.r.ʕʕ.
  root: grʕ
  gramm: V
@@ -1826,7 +1826,7 @@
  trans_en: to gnaw
 
 -lexeme
- lex: grǝḏle/gorǝḏ
+ lex: grəḏle/gorəḏ
  stem: .g.r.ḏ.|.g.r.ḏḏ.
  root: grḏ
  gramm: V
@@ -1835,7 +1835,7 @@
  trans_en: to insult
 
 -lexeme
- lex: grǝfle/gorǝf
+ lex: grəfle/gorəf
  stem: .g.r.f.|.g.r.ff.
  root: grf
  gramm: V
@@ -1844,7 +1844,7 @@
  trans_en: to shove away
 
 -lexeme
- lex: mgargaḥle/mgargǝḥ
+ lex: mgargaḥle/mgargəḥ
  stem: .g.rg.ḥ.|.g.rg.ḥḥ.
  root: grgḥ
  gramm: V
@@ -1853,7 +1853,7 @@
  trans_en: to drag oneself (ruḥ-) on the ground
 
 -lexeme
- lex: mgargamle/mgargǝm
+ lex: mgargamle/mgargəm
  stem: .g.rg.m.|.g.rg.mm.
  root: grgm
  gramm: V
@@ -1871,7 +1871,7 @@
  trans_en: to drag
 
 -lexeme
- lex: mgargašle/mgargǝš
+ lex: mgargašle/mgargəš
  stem: .g.rg.š.|.g.rg.šš.
  root: grgš
  gramm: V
@@ -1879,7 +1879,7 @@
  trans_de: schleppen, hinter sich herziehen
 
 -lexeme
- lex: mgarmǝz/migarmǝz
+ lex: mgarməz/migarməz
  stem: .g.rm.z.|.g.rm.zz.
  root: grmz
  gramm: V
@@ -1897,16 +1897,16 @@
  trans_en: to grind, to mill
 
 -lexeme
- lex: grǝšle/gorǝš
+ lex: grəšle/gorəš
  stem: .g.r.š.|.g.r.šš.
  root: grš
  gramm: V
  paradigm: V_I
- trans_de: 1) ziehen, heraus-, hervor-, hochziehen, hissen, ausraufen, raufen; 2) (mit und ohne ruḥe) sich zurückziehen, entziehen (уходить+отстраняться, отказывать - разделить потом на два значения); 3) einatmen, rauchen, schnupfen; 4) eins überziehen; 5) decken (Tisch), auftragen (Essen); 6) überziehen, anziehen (Kleider); 7) decken lassen (Stute), 8) fotografieren, Aufnahmen machen (mit ṣurto - ṣuwar; film); 9) Trauer ertragen, traurig sein (mit ḥǝzniye, ḥǝzǝn); 10) mit etwas fertig werden (Verstand); 11) ausstehen, erleiden, erdulden
+ trans_de: 1) ziehen, heraus-, hervor-, hochziehen, hissen, ausraufen, raufen; 2) (mit und ohne ruḥe) sich zurückziehen, entziehen (уходить+отстраняться, отказывать - разделить потом на два значения); 3) einatmen, rauchen, schnupfen; 4) eins überziehen; 5) decken (Tisch), auftragen (Essen); 6) überziehen, anziehen (Kleider); 7) decken lassen (Stute), 8) fotografieren, Aufnahmen machen (mit ṣurto - ṣuwar; film); 9) Trauer ertragen, traurig sein (mit ḥəzniye, ḥəzən); 10) mit etwas fertig werden (Verstand); 11) ausstehen, erleiden, erdulden
  trans_en: to pull; to pull out; to cover (a table); to put on (clothes); to retreat; to take (pictures); to shoot (a video)
 
 -lexeme
- lex: mgarvalle/mgarvǝn
+ lex: mgarvalle/mgarvən
  stem: .g.rv.n.|.g.rv.nn.
  root: grvn
  gramm: V
@@ -1915,7 +1915,7 @@
  trans_en: to make round
 
 -lexeme
- lex: mgarwalle/mgarwǝn
+ lex: mgarwalle/mgarwən
  stem: .g.rw.n.|.g.rw.nn.
  root: grwn
  gramm: V
@@ -1933,7 +1933,7 @@
  trans_en: to talk to; to contact smb.
 
 -lexeme
- lex: mgaṣgaṣle/mgaṣgǝṣ
+ lex: mgaṣgaṣle/mgaṣgəṣ
  stem: .g.ṣg.ṣ.|.g.ṣg.ṣṣ.
  root: gṣgṣ
  gramm: V
@@ -1942,7 +1942,7 @@
  trans_en: to eat without appetite
 
 -lexeme
- lex: magwaǧle/magwǝǧ
+ lex: magwaǧle/magwəǧ
  stem: .g.w.ǧ.|.g.ǧ.|.g.w.ǧǧ.|.g.ǧǧ.
  root: gwǧ
  gramm: V
@@ -1951,7 +1951,7 @@
  trans_en: to become worse (illness)
 
 -lexeme
- lex: mgawhǝr/migawhǝr
+ lex: mgawhər/migawhər
  stem: .g.wh.r.|.g.wh.rr.
  root: gwhr
  gramm: V
@@ -1978,7 +1978,7 @@
  trans_en: to mix
 
 -lexeme
- lex: mgawlǝʕ/migawlǝʕ
+ lex: mgawləʕ/migawləʕ
  stem: .g.wl.ʕ.|.g.wl.ʕʕ.
  root: gwlʕ
  gramm: V
@@ -1996,7 +1996,7 @@
  trans_en: to roll around; to wallow
 
 -lexeme
- lex: mgawmalle/mgawmǝn
+ lex: mgawmalle/mgawmən
  stem: .g.wm.n.|.g.wm.l.|.g.wm.nn.|.g.wm.ll.
  root: gwmn
  gramm: V
@@ -2005,7 +2005,7 @@
  trans_en: to think; to believe; to suppose
 
 -lexeme
- lex: gawǝr/gowǝr
+ lex: gawər/gowər
  stem: .g.w.r.|.g.r.|.g.w.rr.|.g.rr.
  root: gwr
  gramm: V
@@ -2014,7 +2014,7 @@
  trans_en: to marry
 
 -lexeme
- lex: mgawtalle/mgawtǝr
+ lex: mgawtalle/mgawtər
  stem: .g.wt.r.|.g.wt.n.|.g.wt.l.|.g.wt.rr.|.g.wt.nn.|.g.wt.ll.
  root: gwtr
  gramm: V
@@ -2032,7 +2032,7 @@
  trans_en: to beg
 
 -lexeme
- lex: magǝble/magǝb
+ lex: magəble/magəb
  stem: .g.y.b.|.g.b.|.g.y.bb.|.g.bb.
  root: gyb
  gramm: V
@@ -2041,7 +2041,7 @@
  trans_en: to become scared
 
 -lexeme
- lex: gayǝž/goyǝž
+ lex: gayəž/goyəž
  stem: .g.y.ž.|.g.ž.|.g.žž.
  root: gyž
  gramm: V
@@ -2050,7 +2050,7 @@
  trans_en: to become dazed, to become stunned
 
 -lexeme
- lex: gǝṣle/goyǝṣ
+ lex: gəṣle/goyəṣ
  stem: .g.y.ṣ.|.g.ṣ.|.g.ṣṣ.
  root: gyṣ
  gramm: V
@@ -2059,7 +2059,7 @@
  trans_en: [?]
 
 -lexeme
- lex: gǝšle/goyǝš
+ lex: gəšle/goyəš
  stem: .g.y.š.|.g.š.|.g.šš.
  root: gyš
  gramm: V
@@ -2068,7 +2068,7 @@
  trans_en: to touch smb. or smth. (b-); to spy
 
 -lexeme
- lex: ġbin/mǝġbǝn
+ lex: ġbin/məġbən
  stem: .ġ.b.n.|.ġ.b.nn.
  root: ġbn
  gramm: V
@@ -2077,7 +2077,7 @@
  trans_en: to take offense
 
 -lexeme
- lex: ġdǝlle/ġodǝr
+ lex: ġdəlle/ġodər
  stem: .ġ.d.r.|.ġ.d.n.|.ġ.d.l.|.ġ.d.rr.|.ġ.d.nn.|.ġ.d.ll.
  root: ġdr
  gramm: V
@@ -2086,7 +2086,7 @@
  trans_en: to ambush
 
 -lexeme
- lex: ġaḏ̣əb/ġod̞ǝb
+ lex: ġaḏ̣əb/ġod̞əb
  stem: .ġ.d̞.b.|.ġ.d̞.bb.
  root: ġd̞b
  gramm: V
@@ -2095,7 +2095,7 @@
  trans_en: to become angry
 
 -lexeme
- lex: mġafele/mġafǝl
+ lex: mġafele/mġafəl
  stem: .ġ.f.l.|.ġ.f.ll.
  root: ġfl
  gramm: V
@@ -2104,7 +2104,7 @@
  trans_en: to forget; to neglect
 
 -lexeme
- lex: ġfǝlle/ġofǝr
+ lex: ġfəlle/ġofər
  stem: .ġ.f.r.|.ġ.f.l.|.ġ.f.n.|.ġ.f.rr.|.ġ.f.ll.|.ġ.f.nn.
  root: ġfr
  gramm: V
@@ -2113,7 +2113,7 @@
  trans_en: to forgive
 
 -lexeme
- lex: ġlǝble/ġolǝb
+ lex: ġləble/ġoləb
  stem: .ġ.l.b.|.ġ.l.bb.
  root: ġlb
  gramm: V
@@ -2122,7 +2122,7 @@
  trans_en: to win smb.; to overcome
 
 -lexeme
- lex: ġalǝṭ/ġolǝṭ
+ lex: ġaləṭ/ġoləṭ
  stem: .ġ.l.ṭ.|.ġ.l.ṭṭ.
  root: ġlṭ
  gramm: V
@@ -2149,7 +2149,7 @@
  trans_en: to become covered by clouds
 
 -lexeme
- lex: gmǝṭle/ġomǝṭ
+ lex: gməṭle/ġoməṭ
  stem: .ġ.m.ṭ.|.ġ.m.ṭṭ.
  root: ġmṭ
  gramm: V
@@ -2158,7 +2158,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ġmǝzle/ġomǝz
+ lex: ġməzle/ġoməz
  stem: .ġ.m.z.|.ġ.m.zz.
  root: ġmz
  gramm: V
@@ -2176,7 +2176,7 @@
  trans_en: to make smb. rich
 
 -lexeme
- lex: ġrǝfle/ġorǝf
+ lex: ġrəfle/ġorəf
  stem: .ġ.r.f.|.ġ.r.ff.
  root: ġrf
  gramm: V
@@ -2185,7 +2185,7 @@
  trans_en: [?]
 
 -lexeme
- lex: maġrafle/maġrǝf
+ lex: maġrafle/maġrəf
  stem: .ġ.r.f.|.ġ.r.ff.
  root: ġrf
  gramm: V
@@ -2194,7 +2194,7 @@
  trans_en: to become jealous
 
 -lexeme
- lex: mġarġalle/mġarġǝr
+ lex: mġarġalle/mġarġər
  stem: .ġ.rġ.r.|.ġ.rġ.rr.
  root: ġrġr
  gramm: V
@@ -2203,7 +2203,7 @@
  trans_en: to gargle
 
 -lexeme
- lex: ġarǝq/ġorǝq
+ lex: ġarəq/ġorəq
  stem: .ġ.r.q.|.ġ.r.qq.
  root: ġrq
  gramm: V
@@ -2212,7 +2212,7 @@
  trans_en: to sink, to go to bottom (intr.); to get caught up into
 
 -lexeme
- lex: maġrazle/maġrǝz
+ lex: maġrazle/maġrəz
  stem: .ġ.r.z.|.ġ.r.zz.
  root: ġrz
  gramm: V
@@ -2221,7 +2221,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mġašamle/mġašǝm
+ lex: mġašamle/mġašəm
  stem: .ġ.š.m.|.ġ.š.mm.
  root: ġšm
  gramm: V
@@ -2230,7 +2230,7 @@
  trans_en: to become dumb, ignorant
 
 -lexeme
- lex: ġayǝr/ġoyǝr
+ lex: ġayər/ġoyər
  stem: .ġ.y.r.|.ġ.r.|.ġ.rr.
  root: ġyr
  gramm: V
@@ -2248,7 +2248,7 @@
  trans_en: to change (tr.), to alter
 
 -lexeme
- lex: ġǝṭle/ġoyǝṭ
+ lex: ġəṭle/ġoyəṭ
  stem: .ġ.y.ṭ.|.ġ.ṭ.|.ġ.ṭṭ.
  root: ġyṭ
  gramm: V
@@ -2267,7 +2267,7 @@
  trans
 
 -lexeme
- lex: mġažmǝž/miġažmǝž
+ lex: mġažməž/miġažməž
  stem: .ġ.žm.ž.|.ġ.žm.žž.
  root: ġžmž
  gramm: V
@@ -2276,7 +2276,7 @@
  trans_en: to run to and fro (like ants); to swarm
 
 -lexeme
- lex: mǧaʕǧakle/mǧaʕǧǝk
+ lex: mǧaʕǧakle/mǧaʕǧək
  stem: .ǧ.ʕǧ.k.|.ǧ.ʕǧ.kk.
  root: ǧʕǧk
  gramm: V
@@ -2285,7 +2285,7 @@
  trans_en: to crawl on the floor, on the ground (children, turtles)
 
 -lexeme
- lex: ǧʕǝkle/ǧoʕǝk
+ lex: ǧʕəkle/ǧoʕək
  stem: .ǧ.ʕ.k.|.ǧ.ʕ.kk.
  root: ǧʕk
  gramm: V
@@ -2294,7 +2294,7 @@
  trans_en: to crawl on the floor, on the ground (children, turtles)
 
 -lexeme
- lex: ǧʕīq/mǝǧʕǝq
+ lex: ǧʕīq/məǧʕəq
  stem: .ǧ.ʕ.q.|.ǧ.ʕ.qq.
  root: ǧʕq
  gramm: V
@@ -2303,7 +2303,7 @@
  trans_en: to become dirty
 
 -lexeme
- lex: ǧbǝlle/ǧobǝr
+ lex: ǧbəlle/ǧobər
  stem: .ǧ.b.r.|.ǧ.b.l.|.ǧ.b.n.|.ž.b.r.|.ž.b.l.|.ž.b.n.|.ǧ.b.rr.|.ǧ.b.ll.|.ǧ.b.nn.|.ž.b.rr.|.ž.b.ll.|.ž.b.nn.
  root: ǧbr
  gramm: V
@@ -2312,7 +2312,7 @@
  trans_en: to force smb.
 
 -lexeme
- lex: mǧadǝd/miǧadǝd
+ lex: mǧadəd/miǧadəd
  stem: .ǧ.d.d.|.ǧ.d.dd.
  root: ǧdd
  gramm: V
@@ -2321,7 +2321,7 @@
  trans_en: to be made one more time
 
 -lexeme
- lex: mǧadele/mǧadǝl
+ lex: mǧadele/mǧadəl
  stem: .ǧ.d.l.|.ǧ.d.|.ǧ.d.ll.|.ǧ.dd.
  root: ǧdl
  gramm: V
@@ -2330,7 +2330,7 @@
  trans_en: to quarrel, to argue; to fight
 
 -lexeme
- lex: ǧafǝl/ǧofǝl
+ lex: ǧafəl/ǧofəl
  stem: .ǧ.f.l.|.ǧ.f.|.ǧ.f.n.|.ǧ.f.ll.|.ǧ.ff.|.ǧ.f.nn.
  root: ǧfl
  gramm: V
@@ -2339,7 +2339,7 @@
  trans_en: to shudder
 
 -lexeme
- lex: mǧagǧǝg/miǧagǧǝg
+ lex: mǧagǧəg/miǧagǧəg
  stem: .ǧ.gǧ.g.|.ǧ.gǧ.gg.
  root: ǧgǧg
  gramm: V
@@ -2375,7 +2375,7 @@
  trans_en: to occupy, to employ
 
 -lexeme
- lex: ǧġǝlle/ǧoġǝr
+ lex: ǧġəlle/ǧoġər
  stem: .ǧ.ġ.r.|.ǧ.ġ.l.|.ǧ.ġ.n.|.ǧ.ġ.rr.|.ǧ.ġ.ll.|.ǧ.ġ.nn.
  root: ǧġr
  gramm: V
@@ -2383,7 +2383,7 @@
  trans_de: anheizen, anzünden, schüren
 
 -lexeme
- lex: mǧahadle/mǧahǝd
+ lex: mǧahadle/mǧahəd
  stem: .ǧ.h.d.|.ǧ.h.dd.
  root: ǧhd
  gramm: V
@@ -2392,7 +2392,7 @@
  trans_en: to fight for smth.; to endeavour
 
 -lexeme
- lex: mǧahazle/mǧahǝz
+ lex: mǧahazle/mǧahəz
  stem: .ǧ.h.z.|.ǧ.h.zz.
  root: ǧhz
  gramm: V
@@ -2401,7 +2401,7 @@
  trans_en: to arm
 
 -lexeme
- lex: mǧakǧakle/mǧakǧǝk
+ lex: mǧakǧakle/mǧakǧək
  stem: .ǧ.kǧ.k.|.ǧ.kǧ.kk.
  root: ǧkǧk
  gramm: V
@@ -2410,7 +2410,7 @@
  trans_en: to crepp, to crawl
 
 -lexeme
- lex: mǧalʕaṭle/mǧalʕǝṭ
+ lex: mǧalʕaṭle/mǧalʕəṭ
  stem: .ǧ.lʕ.ṭ.|.ǧ.lʕ.ṭṭ.
  root: ǧlʕṭ
  gramm: V
@@ -2419,7 +2419,7 @@
  trans_en: to scratch
 
 -lexeme
- lex: ǧlǝdle/ǧolǝd
+ lex: ǧlədle/ǧoləd
  stem: .ǧ.l.d.|.ǧ.l.dd.
  root: ǧld
  gramm: V
@@ -2428,7 +2428,7 @@
  trans_en: to execute
 
 -lexeme
- lex: mǧalǧaʕle/mǧalǧǝʕ
+ lex: mǧalǧaʕle/mǧalǧəʕ
  stem: .ǧ.lǧ.ʕ.|.ǧ.lǧ.ʕʕ.
  root: ǧlǧʕ
  gramm: V
@@ -2437,7 +2437,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ǧlǝṭle/ǧolǝṭ
+ lex: ǧləṭle/ǧoləṭ
  stem: .ǧ.l.ṭ.|.ǧ.l.ṭṭ.
  root: ǧlṭ
  gramm: V
@@ -2464,7 +2464,7 @@
  trans_en: to produce trills of joy
 
 -lexeme
- lex: ǧmǝʕle/ǧomǝʕ
+ lex: ǧməʕle/ǧoməʕ
  stem: .ǧ.m.ʕ.|.ǧ.m.ʕʕ.
  root: ǧmʕ
  gramm: V
@@ -2473,7 +2473,7 @@
  trans_en: to gather
 
 -lexeme
- lex: ǧamǝd/ǧomǝd
+ lex: ǧaməd/ǧoməd
  stem: .ǧ.m.d.|.ǧ.m.dd.
  root: ǧmd
  gramm: V
@@ -2482,7 +2482,7 @@
  trans_en: to become cold
 
 -lexeme
- lex: mǧamele/mǧamǝl
+ lex: mǧamele/mǧaməl
  stem: .ǧ.m.l.|.ǧ.m.|.ǧ.m.n.|.ǧ.m.ll.|.ǧ.mm.|.ǧ.m.nn.
  root: ǧml
  gramm: V
@@ -2491,7 +2491,7 @@
  trans_en: to spell
 
 -lexeme
- lex: mǧaraʕle/mǧarǝʕ
+ lex: mǧaraʕle/mǧarəʕ
  stem: .ǧ.r.ʕ.|.ǧ.r.ʕʕ.
  root: ǧrʕ
  gramm: V
@@ -2500,7 +2500,7 @@
  trans_en: to dare; to gather courage to do smth.
 
 -lexeme
- lex: mǧarable/mǧarǝb
+ lex: mǧarable/mǧarəb
  stem: .ǧ.r.b.|.ǧ.r.bb.
  root: ǧrb
  gramm: V
@@ -2509,7 +2509,7 @@
  trans_en: to try; to experience
 
 -lexeme
- lex: mǧaradle/mǧarǝd
+ lex: mǧaradle/mǧarəd
  stem: .ǧ.r.d.|.ǧ.r.dd.
  root: ǧrd
  gramm: V
@@ -2518,7 +2518,7 @@
  trans_en: to tear off
 
 -lexeme
- lex: ǧrǝfle/ǧorǝf
+ lex: ǧrəfle/ǧorəf
  stem: .ǧ.r.f.|.ǧ.r.ff.
  root: ǧrf
  gramm: V
@@ -2527,7 +2527,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mǧarǧafle/mǧarǧǝf
+ lex: mǧarǧafle/mǧarǧəf
  stem: .ǧ.rǧ.f.|.ǧ.rǧ.ff.
  root: ǧrǧf
  gramm: V
@@ -2536,7 +2536,7 @@
  trans_en: to let smth. drag on the ground
 
 -lexeme
- lex: ǧrǝḥle/ǧorǝḥ
+ lex: ǧrəḥle/ǧorəḥ
  stem: .ǧ.r.ḥ.|.ǧ.r.ḥḥ.
  root: ǧrḥ
  gramm: V
@@ -2581,7 +2581,7 @@
  trans_en: to have courage; to dare
 
 -lexeme
- lex: mǧasǧasle/mǧasǧǝs
+ lex: mǧasǧasle/mǧasǧəs
  stem: .ǧ.sǧ.s.|.ǧ.sǧ.ss.
  root: ǧsǧs
  gramm: V
@@ -2590,7 +2590,7 @@
  trans_en: touch (a body, a corpse)
 
 -lexeme
- lex: mǧasalle/mǧasǝr
+ lex: mǧasalle/mǧasər
  stem: .ǧ.s.r.|.ǧ.s.l.|.ǧ.s.n.|.ǧ.s.rr.|.ǧ.s.ll.|.ǧ.s.nn.
  root: ǧsr
  gramm: V
@@ -2599,7 +2599,7 @@
  trans_en: to dare; to have courage
 
 -lexeme
- lex: mǧasasle/mǧasǝs
+ lex: mǧasasle/mǧasəs
  stem: .ǧ.s.s.|.ǧ.s.ss.
  root: ǧss
  gramm: V
@@ -2608,7 +2608,7 @@
  trans_en: to find out; to spy on (ʕal)
 
 -lexeme
- lex: mǝǧtamaʕle/mǝǧtamǝʕ
+ lex: məǧtamaʕle/məǧtaməʕ
  stem: .ǧ.tm.ʕ.|.ǧ.tm.ʕʕ.
  root: ǧtmʕ
  gramm: V
@@ -2617,7 +2617,7 @@
  trans_en: to gather (intr.)
 
 -lexeme
- lex: mǧawable/mǧawǝb
+ lex: mǧawable/mǧawəb
  stem: .ǧ.w.b.|.ǧ.w.bb.
  root: ǧwb
  gramm: V
@@ -2635,7 +2635,7 @@
  trans_en: to be moved from the place
 
 -lexeme
- lex: mǧawhalle/mǧawhǝr
+ lex: mǧawhalle/mǧawhər
  stem: .ǧ.wh.r.|.ǧ.wh.l.|.ǧ.wh.n.|.ǧ.wh.rr.|.ǧ.wh.ll.|.ǧ.wh.nn.
  root: ǧwhr
  gramm: V
@@ -2644,7 +2644,7 @@
  trans_en: to cover with cold and silver
 
 -lexeme
- lex: ǧǝzle/ǧoyǝz
+ lex: ǧəzle/ǧoyəz
  stem: .ǧ.y.z.|.ǧ.z.|.ǧ.zz.
  root: ǧyz
  gramm: V
@@ -2662,7 +2662,7 @@
  trans_en: to fine
 
 -lexeme
- lex: hbiṭ/mǝhbǝṭ
+ lex: hbiṭ/məhbəṭ
  stem: .h.b.ṭ.|.h.b.ṭṭ.
  root: hbṭ
  gramm: V
@@ -2671,7 +2671,7 @@
  trans_en: to become scared
 
 -lexeme
- lex: mhadadle/mhadǝd
+ lex: mhadadle/mhadəd
  stem: .h.d.d.|.h.d.dd.
  root: hdd
  gramm: V
@@ -2680,7 +2680,7 @@
  trans_en: to threaten; to accept, to confirm
 
 -lexeme
- lex: hdǝfle/hodǝf
+ lex: hdəfle/hodəf
  stem: .h.d.f.|.h.d.ff.
  root: hdf
  gramm: V
@@ -2689,7 +2689,7 @@
  trans_en: to destroy, to demolish, to break
 
 -lexeme
- lex: hdǝmle/hodǝm
+ lex: hdəmle/hodəm
  stem: .h.d.m.|.h.d.mm.
  root: hdm
  gramm: V
@@ -2725,7 +2725,7 @@
  trans_en: to leave
 
 -lexeme
- lex: hǧǝmle/hoǧǝm
+ lex: hǧəmle/hoǧəm
  stem: .h.ǧ.m.|.h.ǧ.mm.
  root: hǧm
  gramm: V
@@ -2734,7 +2734,7 @@
  trans_en: to jump on smb. (ʕal/l-); to attack smb. (ʕal/l-)
 
 -lexeme
- lex: mhalhele/mhalhǝl
+ lex: mhalhele/mhalhəl
  stem: .h.lh.l.|.h.lh.|.h.lh.n.|.h.lh.ll.|.h.lhh.|.h.lh.nn.
  root: hlhl
  gramm: V
@@ -2743,7 +2743,7 @@
  trans_en: to produce a trill of joy, excitement
 
 -lexeme
- lex: halǝk/holǝk
+ lex: halək/holək
  stem: .h.l.k.|.h.l.kk.
  root: hlk
  gramm: V
@@ -2752,7 +2752,7 @@
  trans_en: to perish; to disappear; to die
 
 -lexeme
- lex: mahlakle/mahlǝk
+ lex: mahlakle/mahlək
  stem: .h.l.k.|.h.l.kk.
  root: hlk
  gramm: V
@@ -2761,7 +2761,7 @@
  trans_en: to destroy, to ruin
 
 -lexeme
- lex: mhalaxle/mhalǝx
+ lex: mhalaxle/mhaləx
  stem: .h.l.x.|.h.l.xx.
  root: hlx
  gramm: V
@@ -2770,7 +2770,7 @@
  trans_en: to walk; to travel around
 
 -lexeme
- lex: mhamhamle/mhamhǝm
+ lex: mhamhamle/mhamhəm
  stem: .h.mh.m.|.h.mh.mm.
  root: hmhm
  gramm: V
@@ -2779,7 +2779,7 @@
  trans_en: to drone (intr.)
 
 -lexeme
- lex: mahmazle/mahmǝz
+ lex: mahmazle/mahməz
  stem: .h.m.z.|.h.m.zz.
  root: hmz
  gramm: V
@@ -2788,7 +2788,7 @@
  trans_en: to kidnap; to steal
 
 -lexeme
- lex: mhandasle/mhandǝs
+ lex: mhandasle/mhandəs
  stem: .h.nd.s.|.h.nd.z.|.h.nd.ss.|.h.nd.zz.
  root: hnds
  gramm: V
@@ -2815,7 +2815,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mhardele/mhardǝl
+ lex: mhardele/mhardəl
  stem: .h.rd.l.|.h.rd.|.h.rd.n.|.h.rd.ll.|.h.rdd.|.h.rd.nn.
  root: hrdl
  gramm: V
@@ -2824,7 +2824,7 @@
  trans_en: [?]
 
 -lexeme
- lex: hrǝgle/horǝg
+ lex: hrəgle/horəg
  stem: .h.r.g.|.h.r.gg.
  root: hrg
  gramm: V
@@ -2833,7 +2833,7 @@
  trans_en: to study; to occupy oneself with (b-) smth.
 
 -lexeme
- lex: mharhazle/mharhǝz
+ lex: mharhazle/mharhəz
  stem: .h.rh.z.|.h.rh.zz.
  root: hrhz
  gramm: V
@@ -2842,7 +2842,7 @@
  trans_en: to rock, to swing
 
 -lexeme
- lex: mharkašle/mharkǝš
+ lex: mharkašle/mharkəš
  stem: .h.rk.š.|.h.rk.šš.
  root: hrkš
  gramm: V
@@ -2851,7 +2851,7 @@
  trans_en: to set a dog on (ʕal) smb.
 
 -lexeme
- lex: mharmazle/mharmǝz
+ lex: mharmazle/mharməz
  stem: .h.rm.z.|.h.rm.zz.
  root: hrmz
  gramm: V
@@ -2860,7 +2860,7 @@
  trans_en: to have a secret intention; to have doubts about doing smth.
 
 -lexeme
- lex: mhaškalle/mhaškǝr
+ lex: mhaškalle/mhaškər
  stem: .h.šk.r.|.h.šk.l.|.h.šk.n.|.h.šk.rr.|.h.šk.ll.|.h.šk.nn.
  root: hškr
  gramm: V
@@ -2869,7 +2869,7 @@
  trans_en: to ma
 
 -lexeme
- lex: mhaškalle/mhaškǝr
+ lex: mhaškalle/mhaškər
  stem: .h.šk.r.|.h.šk.rr.
  root: hškr
  gramm: V
@@ -2877,7 +2877,7 @@
  trans_de: danken
 
 -lexeme
- lex: mahtakle/mahtǝk
+ lex: mahtakle/mahtək
  stem: .h.t.k.|.h.t.kk.
  root: htk
  gramm: V
@@ -2886,7 +2886,7 @@
  trans_en: to put to shame
 
 -lexeme
- lex: mhawele/mhawǝl
+ lex: mhawele/mhawəl
  stem: .h.w.l.|.h.w.ll.
  root: hwl
  gramm: V
@@ -2895,7 +2895,7 @@
  trans_en: to lift one's arm against smb. (ʕal)
 
 -lexeme
- lex: mhawlable/mhawlǝb
+ lex: mhawlable/mhawləb
  stem: .h.wl.b.|.h.wl.bb.
  root: hwlb
  gramm: V
@@ -2904,7 +2904,7 @@
  trans_en: to lift one's arm against smb. (ʕal)
 
 -lexeme
- lex: mhawalle/mhawǝn
+ lex: mhawalle/mhawən
  stem: .h.w.n.|.h.w.nn.
  root: hwn
  gramm: V
@@ -2913,7 +2913,7 @@
  trans_en: to make easy; to help
 
 -lexeme
- lex: mhawalle/mhawǝr
+ lex: mhawalle/mhawər
  stem: .h.w.r.|.h.w.rr.
  root: hwr
  gramm: V
@@ -2949,7 +2949,7 @@
  trans_en: to moisten
 
 -lexeme
- lex: hayǝd/hoyǝd
+ lex: hayəd/hoyəd
  stem: .h.y.d.|.h.d.|.h.dd.
  root: hyd
  gramm: V
@@ -2967,7 +2967,7 @@
  trans_en: to tear down
 
 -lexeme
- lex: mhaydǝn/mihaydǝn
+ lex: mhaydən/mihaydən
  stem: .h.yd.n.|.h.yd.nn.
  root: hydn
  gramm: V
@@ -2976,7 +2976,7 @@
  trans_en: to calm oneself
 
 -lexeme
- lex: hayǝǧ/hoyǝǧ
+ lex: hayəǧ/hoyəǧ
  stem: .h.y.ǧ.|.h.ǧ.|.h.ǧǧ.
  root: hyǧ
  gramm: V
@@ -2985,7 +2985,7 @@
  trans_en: to become agitated
 
 -lexeme
- lex: mhaymalle/mhaymǝn
+ lex: mhaymalle/mhaymən
  stem: .h.ym.n.|.h.ym.l.|.h.ym.nn.|.h.ym.ll.
  root: hymn
  gramm: V
@@ -2994,7 +2994,7 @@
  trans_en: to believe; to come to believe
 
 -lexeme
- lex: hǝzle/hoyǝz
+ lex: həzle/hoyəz
  stem: .h.y.z.|.h.z.|.h.zz.
  root: hyz
  gramm: V
@@ -3003,7 +3003,7 @@
  trans_en: to rock, to swing; to shake
 
 -lexeme
- lex: mahzamle/mahzǝm
+ lex: mahzamle/mahzəm
  stem: .h.z.m.|.h.z.mm.
  root: hzm
  gramm: V
@@ -3012,7 +3012,7 @@
  trans_en: to run away, to escape; to kidnap
 
 -lexeme
- lex: ḥbǝkle/ḥobǝk
+ lex: ḥbəkle/ḥobək
  stem: .ḥ.b.k.|.ḥ.b.kk.
  root: ḥbk
  gramm: V
@@ -3021,7 +3021,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mḥabasle/mḥabǝs
+ lex: mḥabasle/mḥabəs
  stem: .ḥ.b.s.|.ḥ.b.ss.
  root: ḥbs
  gramm: V
@@ -3030,7 +3030,7 @@
  trans_en: to imprison
 
 -lexeme
- lex: ḥbǝšle/ḥobǝš
+ lex: ḥbəšle/ḥobəš
  stem: .ḥ.b.š.|.ḥ.p.š.|.ḥ.b.šš.|.ḥ.p.šš.
  root: ḥbš
  gramm: V
@@ -3039,7 +3039,7 @@
  trans_en: to dig out
 
 -lexeme
- lex: ḥd̞ǝlle/ḥod̞ǝn
+ lex: ḥd̞əlle/ḥod̞ən
  stem: .ḥ.d̞.n.|.ḥ.ḏ̣.l.|.ḥ.d̞.nn.|.ḥ.ḏ̣.ll.
  root: ḥd̞n
  gramm: V
@@ -3066,7 +3066,7 @@
  trans_en: to prepare
 
 -lexeme
- lex: mḥafad̞le/mḥafǝd̞
+ lex: mḥafad̞le/mḥafəd̞
  stem: .ḥ.f.ḏ̣|.ḥ.f.ḏ̣
  root: ḥfd̞
  gramm: V
@@ -3083,7 +3083,7 @@
  trans_en: to protect
 
 -lexeme
- lex: ḥfǝlle/ḥofǝr
+ lex: ḥfəlle/ḥofər
  stem: .ḥ.f.r.//.ʕ.f.r.|.ḥ.f.l.//.ʕ.f.l.|.ḥ.f.n.//.ʕ.f.n.|.ḥ.f.rr.//.ʕ.f.rr.|.ḥ.f.ll.//.ʕ.f.ll.|.ḥ.f.nn.//.ʕ.f.nn.
  root: ḥfr/ʕfr
  gramm: V
@@ -3092,7 +3092,7 @@
  trans_en: to dig
 
 -lexeme
- lex: ḥfǝxle/ḥofǝx
+ lex: ḥfəxle/ḥofəx
  stem: .ḥ.f.x.|.ḥ.f.xx.
  root: ḥfx
  gramm: V
@@ -3101,7 +3101,7 @@
  trans_en: to throw up
 
 -lexeme
- lex: mḥaǧaǧle/mḥaǧǝǧ
+ lex: mḥaǧaǧle/mḥaǧəǧ
  stem: .ḥ.ǧ.ǧ.|.ḥ.ǧ.ǧǧ.
  root: ḥǧǧ
  gramm: V
@@ -3110,7 +3110,7 @@
  trans_en: to make up a pretense
 
 -lexeme
- lex: mḥaǧǝm/miḥaǧǝm
+ lex: mḥaǧəm/miḥaǧəm
  stem: .ḥ.ǧ.m.|.ḥ.ǧ.mm.
  root: ḥǧm
  gramm: V
@@ -3119,7 +3119,7 @@
  trans_en: to pass in; to fit
 
 -lexeme
- lex: ḥkǝmle/ḥokǝm
+ lex: ḥkəmle/ḥokəm
  stem: .ḥ.k.m.|.ḥ.k.mm.
  root: ḥkm
  gramm: V
@@ -3146,7 +3146,7 @@
  trans_en: to tell, to relate
 
 -lexeme
- lex: ḥlǝdle/ḥolǝd
+ lex: ḥlədle/ḥoləd
  stem: .ḥ.l.d.|.ḥ.l.dd.
  root: ḥld
  gramm: V
@@ -3155,7 +3155,7 @@
  trans_en: to corrode
 
 -lexeme
- lex: mḥalafle/mḥalǝf
+ lex: mḥalafle/mḥaləf
  stem: .ḥ.l.f.|.ḥ.l.ff.
  root: ḥlf
  gramm: V
@@ -3164,7 +3164,7 @@
  trans_en: to change, to substitute
 
 -lexeme
- lex: ḥaləǧ/ḥolǝǧ
+ lex: ḥaləǧ/ḥoləǧ
  stem: .ḥ.l.ǧ.|.ḥ.l.ǧǧ.
  root: ḥlǧ
  gramm: V
@@ -3173,7 +3173,7 @@
  trans_en: to limp
 
 -lexeme
- lex: ḥalǝm/ḥolǝm
+ lex: ḥaləm/ḥoləm
  stem: .ḥ.l.m.|.ḥ.l.mm.
  root: ḥlm
  gramm: V
@@ -3182,7 +3182,7 @@
  trans_en: to become thick, dense
 
 -lexeme
- lex: ḥləmle/ḥolǝm
+ lex: ḥləmle/ḥoləm
  stem: .ḥ.l.m.|.ḥ.l.mm.
  root: ḥlm
  gramm: V
@@ -3191,7 +3191,7 @@
  trans_en: dream
 
 -lexeme
- lex: ḥlǝqle/ḥolǝq
+ lex: ḥləqle/ḥoləq
  stem: .ḥ.l.q.|.ḥ.l.qq.
  root: ḥlq
  gramm: V
@@ -3200,12 +3200,12 @@
  trans_en: to shave (tr. and intr.)
 
 -lexeme
- lex: mḥalaqle/mḥalǝq
+ lex: mḥalaqle/mḥaləq
  stem: .ḥ.l.q.|.ḥ.l.qq.
  root: ḥlq
  gramm: V
  paradigm: V_II
- trans_de: 1) (trans.) a) werfen, b) schnell ausstrecken (Glied), c) schwingen,hauen (mit Schwert), d) (mit ruḥo, qarʕo) springen, sich werfen e) ausspannen (Kette); 2) (intrans. and trans. БОЛЬШИНТСВО ПРИМЕРОВ ЗДЕСЬ ТРАНЗИТИВНЫЕ) sich werfen auf, (ʕal, b-u=darbo) sich auf den Weg machen, (b-qamuṯe) vor jn. treten, ihm vorangehen, (bǝṯr) nachlaufen, hervorschiessen, befallen; 3) wegwerfen; 4) veröffentlichen; 5) (intrans.) run (e.g. blood)
+ trans_de: 1) (trans.) a) werfen, b) schnell ausstrecken (Glied), c) schwingen,hauen (mit Schwert), d) (mit ruḥo, qarʕo) springen, sich werfen e) ausspannen (Kette); 2) (intrans. and trans. БОЛЬШИНТСВО ПРИМЕРОВ ЗДЕСЬ ТРАНЗИТИВНЫЕ) sich werfen auf, (ʕal, b-u=darbo) sich auf den Weg machen, (b-qamuṯe) vor jn. treten, ihm vorangehen, (bəṯr) nachlaufen, hervorschiessen, befallen; 3) wegwerfen; 4) veröffentlichen; 5) (intrans.) run (e.g. blood)
  trans_en: to throw; to set off (ʕal/b- darbo); to move (intr.); to run (blood)
 
 -lexeme
@@ -3245,7 +3245,7 @@
  trans_en: to permit smth.; to make lawful
 
 -lexeme
- lex: ḥamǝʕ/ḥomǝʕ
+ lex: ḥaməʕ/ḥoməʕ
  stem: .ḥ.m.ʕ.|.ḥ.m.ʕʕ.
  root: ḥmʕ
  gramm: V
@@ -3254,7 +3254,7 @@
  trans_en: to turn sour
 
 -lexeme
- lex: mḥamele/mḥamǝl
+ lex: mḥamele/mḥaməl
  stem: .ḥ.m.l.|.ḥ.m.|.ḥ.m.ll.|.ḥ.mm.
  root: ḥml
  gramm: V
@@ -3272,7 +3272,7 @@
  trans_en: to carry; to bear
 
 -lexeme
- lex: mḥamamle/mḥamǝm
+ lex: mḥamamle/mḥaməm
  stem: .ḥ.m.m.|.ḥ.m.mm.
  root: ḥmm
  gramm: V
@@ -3281,7 +3281,7 @@
  trans_en: to take a bath
 
 -lexeme
- lex: ḥamǝṣ/ḥomǝṣ
+ lex: ḥaməṣ/ḥoməṣ
  stem: .ḥ.m.ṣ.|.ḥ.m.ṣṣ.
  root: ḥmṣ
  gramm: V
@@ -3308,7 +3308,7 @@
  trans_en: to protect
 
 -lexeme
- lex: mḥanḥele/mḥanḥǝl
+ lex: mḥanḥele/mḥanḥəl
  stem: .ḥ.nḥ.l.|.ḥ.nḥ.|.ḥ.nḥ.ll.|.ḥ.nḥḥ.
  root: ḥnḥl
  gramm: V
@@ -3317,7 +3317,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ḥnǝqle/ḥonǝq
+ lex: ḥnəqle/ḥonəq
  stem: .ḥ.n.q.|.ḥ.n.qq.
  root: ḥnq
  gramm: V
@@ -3335,7 +3335,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mḥaqaqle/mḥaqǝq
+ lex: mḥaqaqle/mḥaqəq
  stem: .ḥ.q.q.|.ḥ.q.qq.
  root: ḥqq
  gramm: V
@@ -3344,7 +3344,7 @@
  trans_en: to interrogate smb. (ʕam)
 
 -lexeme
- lex: mḥarable/mḥarǝb
+ lex: mḥarable/mḥarəb
  stem: .ḥ.r.b.|.ḥ.r.bb.
  root: ḥrb
  gramm: V
@@ -3353,7 +3353,7 @@
  trans_en: to fight
 
 -lexeme
- lex: ḥarǝf/ḥorǝf
+ lex: ḥarəf/ḥorəf
  stem: .ḥ.r.f.|.ḥ.r.ff.
  root: ḥrf
  gramm: V
@@ -3362,7 +3362,7 @@
  trans_en: to become spicy; to become sharp
 
 -lexeme
- lex: mḥaraǧle/mḥarǝǧ
+ lex: mḥaraǧle/mḥarəǧ
  stem: .ḥ.r.ǧ.|.ḥ.r.ǧǧ.
  root: ḥrǧ
  gramm: V
@@ -3371,12 +3371,12 @@
  trans_en: to challenge
 
 -lexeme
- lex: ḥrǝkle/ḥorǝk
+ lex: ḥrəkle/ḥorək
  stem: .ḥ.r.k.|.ḥ.r.kk.
  root: ḥrk
  gramm: V
  paradigm: V_I
- trans_de: mit dem ḥūrko genannten Stein zerreiben (z.B. das pǝḏre genannte Kraut)
+ trans_de: mit dem ḥūrko genannten Stein zerreiben (z.B. das pəḏre genannte Kraut)
  trans_en: to grind with a ḥurako stone
 
 -lexeme
@@ -3389,7 +3389,7 @@
  trans_en: to move (tr.)
 
 -lexeme
- lex: mḥarkašle/mḥarkǝš
+ lex: mḥarkašle/mḥarkəš
  stem: .ḥ.rk.š.|.ḥ.rk.šš.
  root: ḥrkš
  gramm: V
@@ -3398,7 +3398,7 @@
  trans_en: to beat up
 
 -lexeme
- lex: ḥrǝmle/ḥorǝm
+ lex: ḥrəmle/ḥorəm
  stem: .ḥ.r.m.|.ḥ.r.mm.
  root: ḥrm
  gramm: V
@@ -3424,7 +3424,7 @@
  trans_en: to stay
 
 -lexeme
- lex: ḥrǝmle/ḥorǝm
+ lex: ḥrəmle/ḥorəm
  stem: .ḥ.r.m.|.ḥ.r.mm.
  root: ḥrm
  gramm: V
@@ -3442,7 +3442,7 @@
  trans_en: to excommunicate
 
 -lexeme
- lex: mḥarmaṣle/mḥarmǝṣ
+ lex: mḥarmaṣle/mḥarməṣ
  stem: .ḥ.rm.ṣ.|.ḥ.rm.ṣṣ.
  root: ḥrmṣ
  gramm: V
@@ -3451,7 +3451,7 @@
  trans_en: to become angry
 
 -lexeme
- lex: ḥrǝsle/ḥorǝs
+ lex: ḥrəsle/ḥorəs
  stem: .ḥ.r.s.|.ḥ.r.ss.
  root: ḥrs
  gramm: V
@@ -3460,7 +3460,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mḥarašle/mḥarǝš
+ lex: mḥarašle/mḥarəš
  stem: .ḥ.r.š.|.ḥ.r.šš.
  root: ḥrš
  gramm: V
@@ -3469,7 +3469,7 @@
  trans_en: to enchant
 
 -lexeme
- lex: mḥartafle/mḥartǝf
+ lex: mḥartafle/mḥartəf
  stem: .ḥ.rt.f.|.ḥ.rt.ff.
  root: ḥrtf
  gramm: V
@@ -3496,7 +3496,7 @@
  trans_en: to defecate
 
 -lexeme
- lex: mḥasadle/mḥasǝd
+ lex: mḥasadle/mḥasəd
  stem: .ḥ.s.d.|.ḥ.s.dd.
  root: ḥsd
  gramm: V
@@ -3514,7 +3514,7 @@
  trans_en: to become envious of (m-) smb.
 
 -lexeme
- lex: ḥsǝmle/ḥosǝm
+ lex: ḥsəmle/ḥosəm
  stem: .ḥ.s.m.|.ḥ.s.mm.
  root: ḥsm
  gramm: V
@@ -3550,7 +3550,7 @@
  trans_en: to pass away; to rest in peace
 
 -lexeme
- lex: ḥṣǝdle/ḥoṣǝd
+ lex: ḥṣədle/ḥoṣəd
  stem: .ḥ.ṣ.d.|.ḥ.ṣ.dd.
  root: ḥṣd
  gramm: V
@@ -3559,7 +3559,7 @@
  trans_en: to harvest; to reap
 
 -lexeme
- lex: ḥaṣǝl/ḥoṣǝl
+ lex: ḥaṣəl/ḥoṣəl
  stem: .ḥ.ṣ.l.|.ḥ.ṣ.n.|.ḥ.ṣ.|.ḥ.ṣ.ll.|.ḥ.ṣ.nn.|.ḥ.ṣṣ.
  root: ḥṣl
  gramm: V
@@ -3577,7 +3577,7 @@
  trans_en: to press; to squeeze
 
 -lexeme
- lex: ḥṣir/mǝḥṣǝr
+ lex: ḥṣir/məḥṣər
  stem: .ḥ.ṣ.r.|.ḥ.ṣ.n.|.ḥ.ṣ.l.|.ḥ.ṣ.rr.|.ḥ.ṣ.nn.|.ḥ.ṣ.ll.
  root: ḥṣr
  gramm: V
@@ -3595,7 +3595,7 @@
  trans_en: to be locked up
 
 -lexeme
- lex: mḥaṣalle/mḥaṣǝr
+ lex: mḥaṣalle/mḥaṣər
  stem: .ḥ.ṣ.r.|.ḥ.ṣ.n.|.ḥ.ṣ.l.|.ḥ.ṣ.rr.|.ḥ.ṣ.nn.|.ḥ.ṣ.ll.
  root: ḥṣr
  gramm: V
@@ -3612,7 +3612,7 @@
  trans_de: to attach; to fix
 
 -lexeme
- lex: ḥšǝkle/ḥošǝk
+ lex: ḥšəkle/ḥošək
  stem: .ḥ.š.k.|.ḥ.š.kk.
  root: ḥšk
  gramm: V
@@ -3621,7 +3621,7 @@
  trans_en: to shove
 
 -lexeme
- lex: mḥaškašle/mḥaškǝš
+ lex: mḥaškašle/mḥaškəš
  stem: .ḥ.šk.š.|.ḥ.šk.šš.
  root: ḥškš
  gramm: V
@@ -3630,7 +3630,7 @@
  trans_en: to become dark
 
 -lexeme
- lex: maḥšamle/maḥšǝm
+ lex: maḥšamle/maḥšəm
  stem: .ḥ.š.m.|.ḥ.š.mm.
  root: ḥšm
  gramm: V
@@ -3639,7 +3639,7 @@
  trans_en: to have dinner
 
 -lexeme
- lex: ḥšǝlle/ḥošǝr
+ lex: ḥšəlle/ḥošər
  stem: .ḥ.š.r.|.ḥ.š.l.|.ḥ.š.n.|.ḥ.š.rr.|.ḥ.š.ll.|.ḥ.š.nn.
  root: ḥšr
  gramm: V
@@ -3675,7 +3675,7 @@
  trans_en: to commit a sin
 
 -lexeme
- lex: mḥavazle/mḥavǝz
+ lex: mḥavazle/mḥavəz
  stem: .ḥ.v.z.|.ḥ.v.zz.
  root: ḥvz
  gramm: V
@@ -3684,7 +3684,7 @@
  trans_en: to maintain
 
 -lexeme
- lex: mḥawdele/mḥawdǝl
+ lex: mḥawdele/mḥawdəl
  stem: .ḥ.wd.l.|.ḥ.wd.|.ḥ.wd.ll.|.ḥ.wdd.
  root: ḥwdl
  gramm: V
@@ -3693,7 +3693,7 @@
  trans_en: to muddle (liquids)
 
 -lexeme
- lex: mḥawele/mḥawǝl
+ lex: mḥawele/mḥawəl
  stem: .ḥ.w.l.|.ḥ.w.|.ḥ.w.n.|.ḥ.w.ll.|.ḥ.ww.|.ḥ.w.nn.
  root: ḥwl
  gramm: V
@@ -3711,7 +3711,7 @@
  trans_en: to marry
 
 -lexeme
- lex: ḥawǝr/ḥowǝr
+ lex: ḥawər/ḥowər
  stem: .ḥ.w.r.|.ḥ.r.|.ḥ.w.n.|.ḥ.w.l.|.ḥ.w.rr.|.ḥ.rr.|.ḥ.w.nn.|.ḥ.w.ll.
  root: ḥwr
  gramm: V
@@ -3720,7 +3720,7 @@
  trans_en: to become white
 
 -lexeme
- lex: mḥawrable/mḥawrǝb
+ lex: mḥawrable/mḥawrəb
  stem: .ḥ.wr.b.|.ḥ.wr.bb.
  root: ḥwrb
  gramm: V
@@ -3729,7 +3729,7 @@
  trans_en: to fight
 
 -lexeme
- lex: ḥwǝṭle/ḥowǝṭ
+ lex: ḥwəṭle/ḥowəṭ
  stem: .ḥ.w.ṭ.|.ḥ.ṭ.|.ḥ.w.ṭṭ.|.ḥ.ṭṭ.
  root: ḥwṭ
  gramm: V
@@ -3738,7 +3738,7 @@
  trans_en: to beat
 
 -lexeme
- lex: mḥawaṭle/mḥawǝṭ
+ lex: mḥawaṭle/mḥawəṭ
  stem: .ḥ.w.ṭ.|.ḥ.w.ṭṭ.
  root: ḥwṭ
  gramm: V
@@ -3792,7 +3792,7 @@
  trans_en: to prepare
 
 -lexeme
- lex: ḥǝfle/ḥoyǝf
+ lex: ḥəfle/ḥoyəf
  stem: .ḥ.y.f.|.ḥ.f.|.ḥ.ff.
  root: ḥyf
  gramm: V
@@ -3801,7 +3801,7 @@
  trans_en: to wash
 
 -lexeme
- lex: mḥayafle/mḥayǝf
+ lex: mḥayafle/mḥayəf
  stem: .ḥ.y.f.|.ḥ.y.ff.
  root: ḥyf
  gramm: V
@@ -3810,7 +3810,7 @@
  trans_en: to regret; to lament
 
 -lexeme
- lex: ḥǝkle/ḥoyǝk
+ lex: ḥəkle/ḥoyək
  stem: .ḥ.y.k.|.ḥ.k.|.ḥ.kk.
  root: ḥyk
  gramm: V
@@ -3819,7 +3819,7 @@
  trans_en: to scratch; to eradicate, to destroy
 
 -lexeme
- lex: mḥaykamle/mḥaykǝm
+ lex: mḥaykamle/mḥaykəm
  stem: .ḥ.yk.m.|.ḥ.yk.mm.
  root: ḥykm
  gramm: V
@@ -3828,7 +3828,7 @@
  trans_en: to berate (ruḥ-) smb. (m-); [?]
 
 -lexeme
- lex: ḥayǝm/ḥoyǝm
+ lex: ḥayəm/ḥoyəm
  stem: .ḥ.y.m.|.ḥ.m.|.ḥ.mm.
  root: ḥym
  gramm: V
@@ -3837,7 +3837,7 @@
  trans_en: [?]
 
 -lexeme
- lex: maḥǝlle/maḥǝn
+ lex: maḥəlle/maḥən
  stem: .ḥ.y.n.|.ḥ.n.|.ḥ.l.|.ḥ.y.nn.|.ḥ.nn.|.ḥ.ll.
  root: ḥyn
  gramm: V
@@ -3846,7 +3846,7 @@
  trans_en: to crave for (ʕal) smb./smth.; to have pity for (ʕal.) smb.
 
 -lexeme
- lex: ḥǝlle/ḥoyǝr
+ lex: ḥəlle/ḥoyər
  stem: .ḥ.y.r.|.ḥ.r.|.ḥ.y.n.|.ḥ.n.|.ḥ.y.rr.|.ḥ.rr.|.ḥ.ll.|.ḥ.y.nn.|.ḥ.nn.
  root: ḥyr
  gramm: V
@@ -3864,7 +3864,7 @@
  trans_en: to be at a loss; to be in need
 
 -lexeme
- lex: maḥǝsle/maḥǝs
+ lex: maḥəsle/maḥəs
  stem: .ḥ.y.s.|.ḥ.s.|.ḥ.y.ss.|.ḥ.ss.
  root: ḥys
  gramm: V
@@ -3873,7 +3873,7 @@
  trans_en: to wake up (intr.); to wake up (tr.); to notice smb./smth. (ʕal, b-)
 
 -lexeme
- lex: ḥǝṣle/ḥoyǝṣ
+ lex: ḥəṣle/ḥoyəṣ
  stem: .ḥ.y.ṣ.|.ḥ.ṣ.|.ḥ.ṣṣ.
  root: ḥyṣ
  gramm: V
@@ -3882,7 +3882,7 @@
  trans_en: to attach; to tighten; to fix; to bind; to become stronger; to shout at (ʕal) smb.
 
 -lexeme
- lex: mḥayṣele/mḥayṣǝl
+ lex: mḥayṣele/mḥayṣəl
  stem: .ḥ.yṣ.l.|.ḥ.yṣ.|.ḥ.yṣ.ll.|.ḥ.yṣṣ.
  root: ḥyṣl
  gramm: V
@@ -3891,7 +3891,7 @@
  trans_en: to get; to obtain; to catch
 
 -lexeme
- lex: maḥǝšle/maḥǝš
+ lex: maḥəšle/maḥəš
  stem: .ḥ.y.š.|.ḥ.š.|.ḥ.y.šš.|.ḥ.šš.
  root: ḥyš
  gramm: V
@@ -3900,7 +3900,7 @@
  trans_en: to pluck
 
 -lexeme
- lex: ḥǝṭle/ḥoyǝṭ
+ lex: ḥəṭle/ḥoyəṭ
  stem: .ḥ.y.ṭ.|.ḥ.ṭ.|.ḥ.ṭṭ.
  root: ḥyṭ
  gramm: V
@@ -3918,7 +3918,7 @@
  trans_en: to live
 
 -lexeme
- lex: ḥǝzle/ḥoyǝz
+ lex: ḥəzle/ḥoyəz
  stem: .ḥ.y.z.|.ḥ.z.|.ḥ.zz.
  root: ḥyz
  gramm: V
@@ -3927,7 +3927,7 @@
  trans_en: to love
 
 -lexeme
- lex: ḥzin/mǝḥzǝn
+ lex: ḥzin/məḥzən
  stem: .ḥ.z.n.|.ḥ.z.nn.
  root: ḥzn
  gramm: V
@@ -3954,7 +3954,7 @@
  trans_en: to see; to find; to live through; to see smth. done
 
 -lexeme
- lex: mkačele/mkačǝl
+ lex: mkačele/mkačəl
  stem: .k.č.l.|.k.č.|.k.č.ll.|.k.čč.
  root: kčl
  gramm: V
@@ -3963,7 +3963,7 @@
  trans_en: to become bald
 
 -lexeme
- lex: mkadǝr/mikadǝr
+ lex: mkadər/mikadər
  stem: .k.d.r.|.k.d.rr.
  root: kdr
  gramm: V
@@ -3972,7 +3972,7 @@
  trans_en: to become sad
 
 -lexeme
- lex: kfile/kofǝl
+ lex: kfile/kofəl
  stem: .k.f.l.|.k.f.|.k.f.n.|.k.f.ll.|.k.ff.|.k.f.nn.
  root: kfl
  gramm: V
@@ -3981,7 +3981,7 @@
  trans_en: to vouch for; to guarantee
 
 -lexeme
- lex: kafən/kofǝn
+ lex: kafən/kofən
  stem: .k.f.n.|.k.f.l.|.k.f.nn.|.k.f.ll.
  root: kfn
  gramm: V
@@ -3990,7 +3990,7 @@
  trans_en: to become hungry
 
 -lexeme
- lex: mkafalle/mkafǝn
+ lex: mkafalle/mkafən
  stem: .k.f.n.|.k.f.l.|.k.f.nn.|.k.f.ll.
  root: kfn
  gramm: V
@@ -3999,7 +3999,7 @@
  trans_en: to wrap in a shroud
 
 -lexeme
- lex: kafǝr/kofǝr
+ lex: kafər/kofər
  stem: .k.f.r.|.k.f.l.|.k.f.n.|.k.f.rr.|.k.f.ll.|.k.f.nn.
  root: kfr
  gramm: V
@@ -4017,7 +4017,7 @@
  trans_en: to wipe; to rub
 
 -lexeme
- lex: kfǝxle/kofǝx
+ lex: kfəxle/kofəx
  stem: .k.f.x.|.k.f.xx.
  root: kfx
  gramm: V
@@ -4062,7 +4062,7 @@
  trans_en: to be enough; to be sufficient
 
 -lexeme
- lex: mkaġatle/mkaġǝt
+ lex: mkaġatle/mkaġət
  stem: .k.ġ.t.|.k.ġ.tt.
  root: kġt
  gramm: V
@@ -4071,7 +4071,7 @@
  trans_en: to wrape in paper; to put in order
 
 -lexeme
- lex: kḥile/koḥǝl
+ lex: kḥile/koḥəl
  stem: .k.ḥ.l.|.k.ḥ.|.k.ḥ.ll.|.k.ḥḥ.
  root: kḥl
  gramm: V
@@ -4089,7 +4089,7 @@
  trans_en: to whitewash; to sprout (intr.)
 
 -lexeme
- lex: mkalafle/mkalǝf
+ lex: mkalafle/mkaləf
  stem: .k.l.f.|.k.l.ff.
  root: klf
  gramm: V
@@ -4098,7 +4098,7 @@
  trans_en: to cost (intr.); to commission smb.; to present
 
 -lexeme
- lex: mkalpašle/mkalpǝš
+ lex: mkalpašle/mkalpəš
  stem: .k.lp.š.|.k.lp.šš.
  root: klpš
  gramm: V
@@ -4107,7 +4107,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mkalpǝt/mikalpǝt
+ lex: mkalpət/mikalpət
  stem: .k.lp.t.|.k.lp.tt.
  root: klpt
  gramm: V
@@ -4116,7 +4116,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mkalašle/mkalǝš
+ lex: mkalašle/mkaləš
  stem: .k.l.š.|.k.l.šš.
  root: klš
  gramm: V
@@ -4143,7 +4143,7 @@
  trans_en: to wither
 
 -lexeme
- lex: mkamačle/mkamǝč
+ lex: mkamačle/mkaməč
  stem: .k.m.č.|.k.m.čč.
  root: kmč
  gramm: V
@@ -4170,7 +4170,7 @@
  trans_en: to become black (leaves)
 
 -lexeme
- lex: kamǝl/komǝl
+ lex: kaməl/koməl
  stem: .k.m.l.|.k.m.|.k.m.n.|.k.m.ll.|.k.mm.|.k.m.nn.
  root: kml
  gramm: V
@@ -4188,7 +4188,7 @@
  trans_en: to finish; to complete; to fulfil; to spend
 
 -lexeme
- lex: mkamasle/mkamǝs
+ lex: mkamasle/mkaməs
  stem: .k.m.s.|.k.m.ss.
  root: kms
  gramm: V
@@ -4197,7 +4197,7 @@
  trans_en: to strike somebody's head with a flat palm
 
 -lexeme
- lex: mkamašle/mkamǝš
+ lex: mkamašle/mkaməš
  stem: .k.m.š.|.k.m.šš.
  root: kmš
  gramm: V
@@ -4206,16 +4206,16 @@
  trans_en: to strike somebody's head with a flat palm
 
 -lexeme
- lex: knǝfle/konǝf
+ lex: knəfle/konəf
  stem: .k.n.f.|.k.n.ff.
  root: knf
  gramm: V
  paradigm: V_I
- trans_de: 1) einwickeln, einhüllen (in Midǝn knf - not only in Midin cf. 2/19!l); 2) platzen lassen auf (what is it?), verpassen
+ trans_de: 1) einwickeln, einhüllen (in Midən knf - not only in Midin cf. 2/19!l); 2) platzen lassen auf (what is it?), verpassen
  trans_en: to wrap, to swathe; to smack smb.
 
 -lexeme
- lex: mkanfele/mkanfǝl
+ lex: mkanfele/mkanfəl
  stem: .k.nf.l.|.k.nf.|.k.nf.n.|.k.nf.ll.|.k.nff.|.k.nf.nn.
  root: knfl
  gramm: V
@@ -4224,7 +4224,7 @@
  trans_en: to wrap, to swathe
 
 -lexeme
- lex: knǝšle/konǝš
+ lex: knəšle/konəš
  stem: .k.n.š.|.k.n.šš.
  root: knš
  gramm: V
@@ -4233,7 +4233,7 @@
  trans_en: to sweep
 
 -lexeme
- lex: knǝzle/konǝz
+ lex: knəzle/konəz
  stem: .k.n.z.|.k.n.zz.
  root: knz
  gramm: V
@@ -4242,7 +4242,7 @@
  trans_en: to retract, to pull in
 
 -lexeme
- lex: mkarable/mkarǝb
+ lex: mkarable/mkarəb
  stem: .k.r.b.|.k.r.bb.
  root: krb
  gramm: V
@@ -4260,7 +4260,7 @@
  tran_en: to become sad
 
 -lexeme
- lex: mkarfaṣle/mkarfǝṣ
+ lex: mkarfaṣle/mkarfəṣ
  stem: .k.rf.ṣ.|.k.rf.ṣṣ.
  root: krfṣ
  gramm: V
@@ -4269,7 +4269,7 @@
  trans_en: to throw to the ground with one blow; to rape
 
 -lexeme
- lex: mkaramle/mkarǝm
+ lex: mkaramle/mkarəm
  stem: .k.r.m.|.k.r.mm.
  root: krm
  gramm: V
@@ -4287,7 +4287,7 @@
  trans_en: to honour
 
 -lexeme
- lex: mkaralle/mkarǝr
+ lex: mkaralle/mkarər
  stem: .k.r.r.|.k.r.l.|.k.r.n.|.k.r.rr.|.k.r.ll.|.k.r.nn.
  root: krr
  gramm: V
@@ -4296,7 +4296,7 @@
  trans_en: to repeat
 
 -lexeme
- lex: mkarsaḥle/mkarsǝḥ
+ lex: mkarsaḥle/mkarsəḥ
  stem: .k.rs.ḥ.|.k.rs.ḥḥ.
  root: krsḥ
  gramm: V
@@ -4314,7 +4314,7 @@
  trans_en: to till, to plough
 
 -lexeme
- lex: karǝx/korǝx
+ lex: karəx/korəx
  stem: .k.r.x.|.k.r.xx.
  root: krx
  gramm: V
@@ -4350,7 +4350,7 @@
  trans_en: to rent
 
 -lexeme
- lex: krǝzle/korǝz
+ lex: krəzle/korəz
  stem: .k.r.z.|.k.r.zz.
  root: krz
  gramm: V
@@ -4368,7 +4368,7 @@
  trans_en: to gain; to win; to acquire
 
 -lexeme
- lex: ksǝdle/kosǝd
+ lex: ksədle/kosəd
  stem: .k.s.d.|.k.z.d.|.k.s.dd.|.k.z.dd.
  root: ksd
  gramm: V
@@ -4377,7 +4377,7 @@
  trans_en: to salt
 
 -lexeme
- lex: ksǝḥle/kosǝḥ
+ lex: ksəḥle/kosəḥ
  stem: .k.s.ḥ.|.k.s.ḥḥ.
  root: ksḥ
  gramm: V
@@ -4386,7 +4386,7 @@
  trans_en: to cut; to prune
 
 -lexeme
- lex: mkasmasle/mkasmǝs
+ lex: mkasmasle/mkasməs
  stem: .k.sm.s.|.k.sm.ss.
  root: ksms
  gramm: V
@@ -4404,7 +4404,7 @@
  trans_en: to cover
 
 -lexeme
- lex: kšǝfle/košǝf
+ lex: kšəfle/košəf
  stem: .k.š.f.|.k.š.ff.
  root: kšf
  gramm: V
@@ -4413,7 +4413,7 @@
  trans_en: to discover; to invent; to examine medically
 
 -lexeme
- lex: ktǝfle/kotǝf
+ lex: ktəfle/kotəf
  stem: .k.t.f.|.k.t.ff.
  root: ktf
  gramm: V
@@ -4422,7 +4422,7 @@
  trans_en: to cross
 
 -lexeme
- lex: mǝktafele/mǝktafe
+ lex: məktafele/məktafe
  stem: .k.tf.y.|.k.tf.|.k.tf.yy.|.k.tff.
  root: ktfy
  gramm: V
@@ -4440,7 +4440,7 @@
  trans_en: to write
 
 -lexeme
- lex: mkawkazle/mkawkǝz
+ lex: mkawkazle/mkawkəz
  stem: .k.wk.z.|.k.wk.zz.
  root: kwkz
  gramm: V
@@ -4449,7 +4449,7 @@
  trans_en: to complain about a difficult situations and ask for help
 
 -lexeme
- lex: mkawamle/mkawǝm
+ lex: mkawamle/mkawəm
  stem: .k.w.m.|.k.w.mm.
  root: kwm
  gramm: V
@@ -4458,7 +4458,7 @@
  trans_en: to put in heaps; to pile up
 
 -lexeme
- lex: mkawrasle/mkawrǝs
+ lex: mkawrasle/mkawrəs
  stem: .k.wr.s.|.k.wr.ss.
  root: kwrs
  gramm: V
@@ -4467,7 +4467,7 @@
  trans_en: to cut off short branches with an axe; to prune
 
 -lexeme
- lex: kwǝšle/kowǝš
+ lex: kwəšle/kowəš
  stem: .k.w.š.|.k.š.|.k.w.ž.|.k.ž.|.k.w.šš.|.k.šš.|.k.w.žž.|.k.žž.
  root: kwš
  gramm: V
@@ -4476,7 +4476,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mkawǝt/mikawǝt
+ lex: mkawət/mikawət
  stem: .k.w.t.|.k.w.tt.
  root: kwt
  gramm: V
@@ -4494,7 +4494,7 @@
  trans_en: to cauterize
 
 -lexeme
- lex: mkawzalle/mkawzǝr
+ lex: mkawzalle/mkawzər
  stem: .k.wz.r.|.k.wz.n.|.k.wz.l.|.k.wz.rr.|.k.wz.nn.|.k.wz.ll.
  root: kwzr
  gramm: V
@@ -6514,7 +6514,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mparpaṭle/mparpǝṭ
+ lex: mparpaṭle/mparpəṭ
  stem: .p.rp.ṭ.|.p.rp.ṭṭ.
  root: prpṭ
  gramm: V
@@ -6523,7 +6523,7 @@
  trans_en: to shred
 
 -lexeme
- lex: mparpaxle/mparpǝx
+ lex: mparpaxle/mparpəx
  stem: .p.rp.x.|.p.rp.xx.
  root: prpx
  gramm: V
@@ -6532,7 +6532,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mparqaʕle/mparqǝʕ
+ lex: mparqaʕle/mparqəʕ
  stem: .p.rq.ʕ.|.p.rq.ʕʕ.
  root: prqʕ
  gramm: V
@@ -6550,7 +6550,7 @@
  trans_en: to burst (intr.)
 
 -lexeme
- lex: prǝṭle/porǝṭ
+ lex: prəṭle/porəṭ
  stem: .p.r.ṭ.|.p.r.ṭṭ.
  root: prṭ
  gramm: V
@@ -6559,7 +6559,7 @@
  trans_en: to depilate
 
 -lexeme
- lex: mparaṭle/mparǝṭ
+ lex: mparaṭle/mparəṭ
  stem: .p.r.ṭ.|.p.r.ṭṭ.
  root: prṭ
  gramm: V
@@ -6577,7 +6577,7 @@
  trans_en: to burn (tr.)
 
 -lexeme
- lex: mparxǝl/miparxǝl
+ lex: mparxəl/miparxəl
  stem: .p.rx.l.|.p.rx.ll.
  root: prxl
  gramm: V
@@ -6586,7 +6586,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mpaspasle/mpaspǝs
+ lex: mpaspasle/mpaspəs
  stem: .p.sp.s.|.p.sp.ss.
  root: psps
  gramm: V
@@ -6595,7 +6595,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mpašmalle/mpašmǝn
+ lex: mpašmalle/mpašmən
  stem: .p.šm.n.|.p.šm.l.|.p.šm.nn.|.p.šm.ll.
  root: pšmn
  gramm: V
@@ -6604,7 +6604,7 @@
  trans_en: to regret
 
 -lexeme
- lex: mpašpǝš/mipašpǝš
+ lex: mpašpəš/mipašpəš
  stem: .p.šp.š.|.p.šp.šš.
  root: pšpš
  gramm: V
@@ -6613,7 +6613,7 @@
  trans_en: to become inedible
 
 -lexeme
- lex: pšǝṭle/pošǝṭ
+ lex: pšəṭle/pošəṭ
  stem: .p.š.ṭ.|.p.š.ṭṭ.
  root: pšṭ
  gramm: V
@@ -6622,7 +6622,7 @@
  trans_en: to stretch
 
 -lexeme
- lex: mpatpatle/mpatpǝt
+ lex: mpatpatle/mpatpət
  stem: .p.tp.t.|.p.tp.tt.
  root: ptpt
  gramm: V
@@ -6640,7 +6640,7 @@
  trans_en: to emit a sound from which one can conclude that a stone is not firm
 
 -lexeme
- lex: mpatašle/mpatǝš
+ lex: mpatašle/mpatəš
  stem: .p.t.š.|.p.t.šš.
  root: ptš
  gramm: V
@@ -6648,7 +6648,7 @@
  trans_de: suchen
 
 -lexeme
- lex: mpataxle/mpatǝx
+ lex: mpataxle/mpatəx
  stem: .p.t.x.|.p.t.xx.
  root: ptx
  gramm: V
@@ -6657,7 +6657,7 @@
  trans_en: to lead into bankruptcy
 
 -lexeme
- lex: pǝčle/poyǝč
+ lex: pəčle/poyəč
  stem: .p.y.č.|.p.č.|.p.čč.
  root: pyč
  gramm: V
@@ -6675,7 +6675,7 @@
  trans_en: to empty
 
 -lexeme
- lex: mapǝsle/mapǝs
+ lex: mapəsle/mapəs
  stem: .p.s.|.p.ss.
  root: pys
  gramm: V
@@ -6702,7 +6702,7 @@
  trans_en: to accept; to agree; to receive; to grow; to succeed; to develop (intr.)
 
 -lexeme
- lex: qabǝz/qobǝz
+ lex: qabəz/qobəz
  stem: .q.b.z.|.q.b.zz.
  root: qbz
  gramm: V
@@ -6711,7 +6711,7 @@
  trans_en: to jump
 
 -lexeme
- lex: qdǝḥle/qodǝḥ
+ lex: qdəḥle/qodəḥ
  stem: .q.d.ḥ.|.q.d.ḥḥ.
  root: qdḥ
  gramm: V
@@ -6720,7 +6720,7 @@
  trans_en: to set on fire; to burn (intr.); to blaze (intr.)
 
 -lexeme
- lex: mqadamle/mqadǝm
+ lex: mqadamle/mqadəm
  stem: .q.d.m.|.q.d.mm.
  root: qdm
  gramm: V
@@ -6729,7 +6729,7 @@
  trans_en: to send forward; to advance; to present; to offer; to approach, to come close
 
 -lexeme
- lex: qadǝr/qodǝr
+ lex: qadər/qodər
  stem: .q.d.r.|.q.d.rr.
  root: qdr
  gramm: V
@@ -6738,7 +6738,7 @@
  trans_en: to be able; to overcome smb. (ʕal)
 
 -lexeme
- lex: mqadašle/mqadǝš
+ lex: mqadašle/mqadəš
  stem: .q.d.š.|.q.d.šš.
  root: qdš
  gramm: V
@@ -6756,7 +6756,7 @@
  trans_en: to be turned on; to ligh; to be ignited
 
 -lexeme
- lex: maqḏaḥle/maqḏǝḥ
+ lex: maqḏaḥle/maqḏəḥ
  stem: .q.ḏ.ḥ.|.q.d.ḥ.|.q.ḏ.ḥḥ.|.q.d.ḥḥ.
  root: qḏḥ
  gramm: V
@@ -6782,7 +6782,7 @@
  trans_en: to spend
 
 -lexeme
- lex: qafǝl/qofǝl
+ lex: qafəl/qofəl
  stem: .q.f.l.|.q.f.|.q.f.n.|.q.f.ll.|.q.ff.|.q.f.nn.
  root: qfl
  gramm: V
@@ -6800,7 +6800,7 @@
  trans_en: to find; to obtain
 
 -lexeme
- lex: qaḥǝl/qoḥǝl
+ lex: qaḥəl/qoḥəl
  stem: .q.ḥ.l.|.q.ḥ.|.q.ḥ.n.|.q.ḥ.ll.|.q.ḥḥ.|.q.ḥ.nn.
  root: qḥl
  gramm: V
@@ -6809,7 +6809,7 @@
  trans_en: to collapse
 
 -lexeme
- lex: qḥǝlle/qoḥǝr
+ lex: qḥəlle/qoḥər
  stem: .q.ḥ.r.|.q.h.r.|.q.ḥ.l.|.q.h.l.|.q.h.n.|.q.ḥ.n.|.q.ḥ.rr.|.q.h.rr.|.q.ḥ.ll.|.q.h.ll.|.q.h.nn.|.q.ḥ.nn.
  root: qḥr
  gramm: V
@@ -6827,7 +6827,7 @@
  trans_en: to become angry at (m-) smb.
 
 -lexeme
- lex: qlǝʕle/qoləʕ
+ lex: qləʕle/qoləʕ
  stem: .q.l.ʕ.|.q.l.ʕʕ.
  root: qlʕ
  gramm: V
@@ -6845,7 +6845,7 @@
  trans_en: to flow
 
 -lexeme
- lex: maqlaʕle/maqlǝʕ
+ lex: maqlaʕle/maqləʕ
  stem: .q.l.ʕ.|.q.l.ʕʕ.
  root: qlʕ
  gramm: V
@@ -6854,7 +6854,7 @@
  trans_en: to gallop (tr.)
 
 -lexeme
- lex: qalǝb/qolǝb
+ lex: qaləb/qoləb
  stem: .q.l.b.|.q.l.bb.
  root: qlb
  gramm: V
@@ -6863,7 +6863,7 @@
  trans_en: to tip; to tip over, to turn over; to roll; turn round; to suddenly change, to transform; to settle
 
 -lexeme
- lex: maqlaḏle/maqlǝḏ
+ lex: maqlaḏle/maqləḏ
  stem: .q.l.ḏ.|.q.l.ḏḏ.
  root: qlḏ
  gramm: V
@@ -6881,7 +6881,7 @@
  trans_en: to peel off (intr.)
 
 -lexeme
- lex: mqalaqle/mqalǝq
+ lex: mqalaqle/mqaləq
  stem: .q.l.q.|.q.l.qq.
  root: qlq
  gramm: V
@@ -6935,7 +6935,7 @@
  trans_en: to lose in a game
 
 -lexeme
- lex: mqamalle/mqamǝr
+ lex: mqamalle/mqamər
  stem: .q.m.r.|.q.m.l.|.q.m.n.|.q.m.rr.|.q.m.ll.|.q.m.nn.
  root: qmr
  gramm: V
@@ -6944,7 +6944,7 @@
  trans_en: to roast; to dry (tr.)
 
 -lexeme
- lex: qanǝʕ/qonǝʕ
+ lex: qanəʕ/qonəʕ
  stem: .q.n.ʕ.|.q.n.ʕʕ.
  root: qnʕ
  gramm: V
@@ -6953,7 +6953,7 @@
  trans_en: to be persuaded; to agree
 
 -lexeme
- lex: mqandaġle/mqandǝġ
+ lex: mqandaġle/mqandəġ
  stem: .q.nd.ġ.|.q.nd.ġġ.
  root: qndġ
  gramm: V
@@ -6962,7 +6962,7 @@
  trans_en: to wrap (a child)
 
 -lexeme
- lex: mqanqele/mqanqǝl
+ lex: mqanqele/mqanqəl
  stem: .q.nq.l.|.q.nq.|.q.nq.n.|.q.nq.ll.|.q.nqq.|.q.nq.nn.
  root: qnql
  gramm: V
@@ -6971,7 +6971,7 @@
  trans_en: [?]
 
 -lexeme
- lex: qpǝčle/qopǝč
+ lex: qpəčle/qopəč
  stem: .q.p.č.|.q.p.čč.
  root: qpč
  gramm: V
@@ -6980,7 +6980,7 @@
  trans_en: to grab quickly
 
 -lexeme
- lex: mqapaṭle/mqapǝṭ
+ lex: mqapaṭle/mqapəṭ
  stem: .q.p.ṭ.|.q.p.ṭṭ.
  root: qpṭ
  gramm: V
@@ -6989,7 +6989,7 @@
  trans_en: to close; to cover
 
 -lexeme
- lex: qrif/mǝqrǝf
+ lex: qrif/məqrəf
  stem: .q.r.f.|.q.r.ff.
  root: qrf
  gramm: V
@@ -7007,7 +7007,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mqarfasle/mqarfǝs
+ lex: mqarfasle/mqarfəs
  stem: .q.rf.s.|.q.rf.ss.
  root: qrfs
  gramm: V
@@ -7016,7 +7016,7 @@
  trans_en: to ruin
 
 -lexeme
- lex: mqarǝm/miqarǝm
+ lex: mqarəm/miqarəm
  stem: .q.r.m.|.q.r.mm.
  root: qrm
  gramm: V
@@ -7025,7 +7025,7 @@
  trans_en: to become tired (body parts)
 
 -lexeme
- lex: mqarǝm/miqarǝm
+ lex: mqarəm/miqarəm
  stem: .q.r.m.|.q.r.mm.
  root: qrm
  gramm: V
@@ -7042,7 +7042,7 @@
  trans_de: gewinnen, siegen; (mit ʕal) besiegen, schlagen (im Spiel)
 
 -lexeme
- lex: mqarmaǧle/mqarmǝǧ
+ lex: mqarmaǧle/mqarməǧ
  stem: .q.rm.ǧ.|.q.rm.č.|.q.rm.ǧǧ.|.q.rm.čč.
  root: qrmǧ
  gramm: V
@@ -7051,7 +7051,7 @@
  trans_en: to make creased, wrinkled
 
 -lexeme
- lex: mqarmaṭle/mqarmǝṭ
+ lex: mqarmaṭle/mqarməṭ
  stem: .q.rm.ṭ.|.q.rm.ṭṭ.
  root: qrmṭ
  gramm: V
@@ -7060,7 +7060,7 @@
  trans_en: to ruin
 
 -lexeme
- lex: mqarpele/mqarpǝl
+ lex: mqarpele/mqarpəl
  stem: .q.rp.l.|.q.rp.|.q.rp.n.|.q.rp.ll.|.q.rpp.|.q.rp.nn.
  root: qrpl
  gramm: V
@@ -7069,7 +7069,7 @@
  trans_en: to move (an object)
 
 -lexeme
- lex: mqaralle/mqarǝr
+ lex: mqaralle/mqarər
  stem: .q.r.r.|.q.r.l.|.q.r.n.|.q.r.rr.|.q.r.ll.|.q.r.nn.
  root: qrr
  gramm: V
@@ -7078,7 +7078,7 @@
  trans_en: to decide
 
 -lexeme
- lex: qrǝsle/qorǝs
+ lex: qrəsle/qorəs
  stem: .q.r.s.|.q.r.ss.
  root: qrs
  gramm: V
@@ -7096,7 +7096,7 @@
  trans_en: to pull out, to lever out
 
 -lexeme
- lex: qrǝṣle/qorǝṣ
+ lex: qrəṣle/qorəṣ
  stem: .q.r.ṣ.|.q.r.ṣṣ.
  root: qrṣ
  gramm: V
@@ -7105,7 +7105,7 @@
  trans_en: to pinch
 
 -lexeme
- lex: mqarṣǝf/miqarṣǝf
+ lex: mqarṣəf/miqarṣəf
  stem: .q.rṣ.f.|.q.rṣ.ff.
  root: qrṣf
  gramm: V
@@ -7114,7 +7114,7 @@
  trans_en: to fall behind in growth
 
 -lexeme
- lex: qarǝš/qorǝš
+ lex: qarəš/qorəš
  stem: .q.r.š.|.q.r.šš.
  root: qrš
  gramm: V
@@ -7123,7 +7123,7 @@
  trans_en: to freeze, to feel cold (with l-)
 
 -lexeme
- lex: qrǝšle/qorǝš
+ lex: qrəšle/qorəš
  stem: .q.r.š.|.q.r.šš.
  root: qrš
  gramm: V
@@ -7132,7 +7132,7 @@
  trans_en: to pick up; (with ʕayno) to cheat
 
 -lexeme
- lex: mqarašle/mqarǝš
+ lex: mqarašle/mqarəš
  stem: .q.r.š.|.q.r.šš.
  root: qrš
  gramm: V
@@ -7141,7 +7141,7 @@
  trans_en: to interfere in (b-) smth.
 
 -lexeme
- lex: qrǝṭle/qorǝṭ
+ lex: qrəṭle/qorəṭ
  stem: .q.r.ṭ.|.q.r.ṭṭ.
  root: qrṭ
  gramm: V
@@ -7150,7 +7150,7 @@
  trans_en: to grind (teeth)
 
 -lexeme
- lex: maqraṭle/maqrǝṭ
+ lex: maqraṭle/maqrəṭ
  stem: .q.r.ṭ.|.q.r.ṭṭ.
  root: qrṭ
  gramm: V
@@ -7195,7 +7195,7 @@
  trans_en: to teach
 
 -lexeme
- lex: mqasadle/mqasǝd
+ lex: mqasadle/mqasəd
  stem: .q.s.d.|.q.s.dd.
  root: qsd
  gramm: V
@@ -7204,7 +7204,7 @@
  trans_en: to send
 
 -lexeme
- lex: qasǝm/qosǝm
+ lex: qasəm/qosəm
  stem: .q.s.m.|.q.s.mm.
  root: qsm
  gramm: V
@@ -7213,7 +7213,7 @@
  trans_en: to guess right
 
 -lexeme
- lex: qṣǝdle/qoṣǝd
+ lex: qṣədle/qoṣəd
  stem: .q.ṣ.d.|.q.ṣ.dd.
  root: qṣd
  gramm: V
@@ -7240,7 +7240,7 @@
  trans_en: to visit smb. (ʕal)
 
 -lexeme
- lex: qṣǝfle/qoṣǝf
+ lex: qṣəfle/qoṣəf
  stem: .q.ṣ.f.|.q.ṣ.ff.
  root: qṣf
  gramm: V
@@ -7249,7 +7249,7 @@
  trans_en: to shorten; to stop
 
 -lexeme
- lex: qṣile/qoṣǝl
+ lex: qṣile/qoṣəl
  stem: .q.ṣ.l.|.q.ṣ.|.q.ṣ.n.|.q.ṣ.ll.|.q.ṣṣ.|.q.ṣ.nn.
  root: qṣl
  gramm: V
@@ -7258,7 +7258,7 @@
  trans_en: to cut
 
 -lexeme
- lex: mqaṣqaṣle/mqaṣqǝṣ
+ lex: mqaṣqaṣle/mqaṣqəṣ
  stem: .q.ṣq.ṣ.|.q.ṣq.ṣṣ.
  root: qṣqṣ
  gramm: V
@@ -7267,7 +7267,7 @@
  trans_en: to cut into pieces
 
 -lexeme
- lex: qṣǝlle/qoṣǝr
+ lex: qṣəlle/qoṣər
  stem: .q.ṣ.r.|.q.ṣ.l.|.q.ṣ.n.|.q.ṣ.rr.|.q.ṣ.ll.|.q.ṣ.nn.
  root: qṣr
  gramm: V
@@ -7294,7 +7294,7 @@
  trans_en: to break the bread
 
 -lexeme
- lex: qšǝʕle/qošǝʕ
+ lex: qšəʕle/qošəʕ
  stem: .q.š.ʕ.|.q.š.ʕʕ.
  root: qšʕ
  gramm: V
@@ -7303,7 +7303,7 @@
  trans_en: to knock out; to remove; to destroy, to exterminate
 
 -lexeme
- lex: mqašǝf/miqašǝf
+ lex: mqašəf/miqašəf
  stem: .q.š.f.|.q.š.ff.
  root: qšf
  gramm: V
@@ -7312,7 +7312,7 @@
  trans_en: to become callous (skin)
 
 -lexeme
- lex: mqašmalle/mqašmǝr
+ lex: mqašmalle/mqašmər
  stem: .q.šm.r.|.q.šm.l.|.q.šm.n.|.q.šm.rr.|.q.šm.ll.|.q.šm.nn.
  root: qšmr
  gramm: V
@@ -7321,7 +7321,7 @@
  trans_en: to make fun of (ʕal, b-) smb.; to fool smb. (ʕal, b-)
 
 -lexeme
- lex: qšiṭ/mǝqšǝṭ
+ lex: qšiṭ/məqšəṭ
  stem: .q.š.ṭ.|.q.š.ṭṭ.
  root: qšṭ
  gramm: V
@@ -7339,7 +7339,7 @@
  trans_en: to become stiff; to become firm; to harden (heart)
 
 -lexeme
- lex: mqatele/mqatǝl
+ lex: mqatele/mqatəl
  stem: .q.t.l.|.q.t.|.q.t.n.|.q.t.ll.|.q.tt.|.q.t.nn.
  root: qtl
  gramm: V
@@ -7348,16 +7348,16 @@
  trans_en: to fight
 
 -lexeme
- lex: qṭǝʕle/qoṭǝʕ
+ lex: qṭəʕle/qoṭəʕ
  stem: .q.ṭ.ʕ.|.q.ṭ.ʕʕ.
  root: qṭʕ
  gramm: V
  paradigm: V_I
- trans_de: 1) abschneiden, abschlagen, abhauen, zerreissen; 2) abschliessen (Ehe), entscheiden (Rechtshandel); 3) (ʕaqǝl) seiner sicher sein, sich zutrauen; [ПОКА НЕ ОЧЕНЬ ПОНЯТНО] 4) ein Billet lösen; 5) sauer werden (Milch); 8) beenden - [это занчение нужно удалить, так как оно взято из немецкого небуквального перевода (пример из LB 103), хотя, судя по тексту, понимать тут нужно этот глагол в первом значении]; 9) ausschliessen; 10) (ruḥe) sich lossagen von (mi-); 11) überschreiten (Grenze) см. qṭʕ2
+ trans_de: 1) abschneiden, abschlagen, abhauen, zerreissen; 2) abschliessen (Ehe), entscheiden (Rechtshandel); 3) (ʕaqəl) seiner sicher sein, sich zutrauen; [ПОКА НЕ ОЧЕНЬ ПОНЯТНО] 4) ein Billet lösen; 5) sauer werden (Milch); 8) beenden - [это занчение нужно удалить, так как оно взято из немецкого небуквального перевода (пример из LB 103), хотя, судя по тексту, понимать тут нужно этот глагол в первом значении]; 9) ausschliessen; 10) (ruḥe) sich lossagen von (mi-); 11) überschreiten (Grenze) см. qṭʕ2
  trans_en: to cut; to cut off; to separate; to finish; to exclude
 
 -lexeme
- lex: qaṭǝʕ/qoṭǝʕ
+ lex: qaṭəʕ/qoṭəʕ
  stem: .q.ṭ.ʕ.|.q.ṭ.ʕʕ.
  root: qṭʕ
  gramm: V
@@ -7375,7 +7375,7 @@
  trans_en: to cut into pieces
 
 -lexeme
- lex: qṭǝfle/qoṭǝf
+ lex: qṭəfle/qoṭəf
  stem: .q.ṭ.f.|.q.ṭ.ff.
  root: qṭf
  gramm: V
@@ -7384,7 +7384,7 @@
  trans_en: to pluck
 
 -lexeme
- lex: qṭile/qoṭǝl
+ lex: qṭile/qoṭəl
  stem: .q.ṭ.l.|.q.ṭ.|.q.ṭ.n.|.q.ṭ.ll.|.q.ṭṭ.|.q.ṭ.nn.
  root: qṭl
  gramm: V
@@ -7393,7 +7393,7 @@
  trans_en: to kill
 
 -lexeme
- lex: qṭǝlle/qoṭǝr
+ lex: qṭəlle/qoṭər
  stem: .q.ṭ.r.|.q.ṭ.l.|.q.ṭ.n.|.q.ṭ.rr.|.q.ṭ.ll.|.q.ṭ.nn.
  root: qṭr
  gramm: V
@@ -7411,7 +7411,7 @@
  trans_en: to become sour; to turn into yoghurt
 
 -lexeme
- lex: qaṭǝṣ/qoṭǝṣ
+ lex: qaṭəṣ/qoṭəṣ
  stem: .q.ṭ.ṣ.|.q.ṭ.ṣṣ.
  root: qṭṣ
  gramm: V
@@ -7429,7 +7429,7 @@
  trans_en: [?]
 
 -lexeme
- lex: qwile/qowǝl
+ lex: qwile/qowəl
  stem: .q.w.l.|.q.l.|.q.|.q.n.|.q.w.|.q.w.n.|.q.w.ll.|.q.ll.|.qq.|.q.nn.|.q.ww.|.q.w.nn.
  root: qwl
  gramm: V
@@ -7447,7 +7447,7 @@
  trans_en: to promise; to pledge
 
 -lexeme
- lex: mqawlǝǧ/miqawlǝǧ
+ lex: mqawləǧ/miqawləǧ
  stem: .q.wl.ǧ.|.q.wl.ǧǧ.
  root: qwlǧ
  gramm: V
@@ -7456,7 +7456,7 @@
  trans_en: to suffer from a colic
 
 -lexeme
- lex: mqawamle/mqawǝm
+ lex: mqawamle/mqawəm
  stem: .q.w.m.|.q.w.mm.
  root: qwm
  gramm: V
@@ -7474,7 +7474,7 @@
  trans_en: to occur, to happen
 
 -lexeme
- lex: mqawqašle/mqawqǝš
+ lex: mqawqašle/mqawqəš
  stem: .q.wq.š.|.q.wq.šš.
  root: qwqš
  gramm: V
@@ -7483,7 +7483,7 @@
  trans_en: to bundle together; to round up
 
 -lexeme
- lex: qwǝlle/qowǝr
+ lex: qwəlle/qowər
  stem: .q.w.r.|.q.r.|.q.w.l.|.q.w.n.|.q.w.rr.|.q.rr.|.q.w.ll.|.q.w.nn.
  root: qwr
  gramm: V
@@ -7492,7 +7492,7 @@
  trans_en: to bury
 
 -lexeme
- lex: mqawasle/mqawǝs
+ lex: mqawasle/mqawəs
  stem: .q.w.s.|.q.s.|.q.w.ss.|.q.ss.
  root: qws
  gramm: V
@@ -7501,7 +7501,7 @@
  trans_en: to form by lightly beating and rolling in hands
 
 -lexeme
- lex: mqawaṣle/mqawǝṣ
+ lex: mqawaṣle/mqawəṣ
  stem: .q.w.ṣ.|.q.w.ṣṣ.
  root: qwṣ
  gramm: V
@@ -7510,7 +7510,7 @@
  trans_en: to shoot; to discharge
 
 -lexeme
- lex: mqawatle/mqawǝt
+ lex: mqawatle/mqawət
  stem: .q.w.t.|.q.w.tt.
  root: qwt
  gramm: V
@@ -7546,7 +7546,7 @@
  trans_en: to commit; to set
 
 -lexeme
- lex: mqayadle/mqayǝd
+ lex: mqayadle/mqayəd
  stem: .q.y.d.|.q.y.dd.
  root: qyd
  gramm: V
@@ -7555,7 +7555,7 @@
  trans_en: to chain, to shackle; to register; to make a record about smb.
 
 -lexeme
- lex: mqayaḏ̣le/mqayǝḏ̣
+ lex: mqayaḏ̣le/mqayəḏ̣
  stem: .q.y.ḏ̣.|.q.y.ḏ̣̣.
  root: qyḏ̣
  gramm: V
@@ -7564,7 +7564,7 @@
  trans_en: to change; to exchange
 
 -lexeme
- lex: qayǝm/qoyǝm
+ lex: qayəm/qoyəm
  stem: .q.y.m.|.q.m.|.q.mm.
  root: qym
  gramm: V
@@ -7573,7 +7573,7 @@
  trans_en: to get up; to stand up; to come into a vertical position; to wake up; to rise; to appear, to emerge; to stand out; to stand up and leave; to begin, to rise (wind); as a verb without its own meaning before others: cf. English ‘to up’
 
 -lexeme
- lex: mqayaqle/mqayǝq
+ lex: mqayaqle/mqayəq
  stem: .q.y.q.|.q.q.|.q.y.qq.|.q.qq.
  root: qyq
  gramm: V
@@ -7582,7 +7582,7 @@
  trans_en: to beat
 
 -lexeme
- lex: qayǝr/qoyǝr
+ lex: qayər/qoyər
  stem: .q.y.r.|.q.r.|.q.n.|.q.l.|.q.y.l.|.q.y.rr.|.q.rr.|.q.y.nn.|.q.nn.|.q.ll.|.q.y.ll.
  root: qyr
  gramm: V
@@ -7591,7 +7591,7 @@
  trans_en: to become cold
 
 -lexeme
- lex: maqǝlle/maqǝr
+ lex: maqəlle/maqər
  stem: .q.r.|.q.l.|.q.n.|.q.rr.|.q.ll.|.q.nn.
  root: qyr
  gramm: V
@@ -7600,7 +7600,7 @@
  trans_en: to say; to reveal
 
 -lexeme
- lex: mqayasle/mqayǝs
+ lex: mqayasle/mqayəs
  stem: .q.y.s.|.q.y.ss.
  root: qys
  gramm: V
@@ -7609,7 +7609,7 @@
  trans_en: to compare; to imagine, to fathom
 
 -lexeme
- lex: qǝṣle/qoyǝṣ
+ lex: qəṣle/qoyəṣ
  stem: .q.y.ṣ.|.q.ṣ.|.q.ṣṣ.
  root: qyṣ
  gramm: V
@@ -7627,7 +7627,7 @@
  trans_en: (with lebo) become suspicious
 
 -lexeme
- lex: qǝšle/qoyǝš
+ lex: qəšle/qoyəš
  stem: .q.y.š.|.q.š.|.q.šš.
  root: qyš
  gramm: V
@@ -7636,7 +7636,7 @@
  trans_en: to skim
 
 -lexeme
- lex: qayǝṯ/qoyǝṯ
+ lex: qayəṯ/qoyəṯ
  stem: .q.y.ṯ.|.q.ṯ.|.q.ṯṯ.
  root: qyṯ
  gramm: V
@@ -7645,7 +7645,7 @@
  trans_en: to bump into (b-, l-) smth.; to meet (about objects); to befell; to find; to fall to smb's lot; to ignite (intr.)
 
 -lexeme
- lex: mqayzalle/mqayzǝn
+ lex: mqayzalle/mqayzən
  stem: .q.yz.n.|.q.yz.l.|.q.yz.nn.|.q.yz.ll.
  root: qyzn
  gramm: V
@@ -7654,7 +7654,7 @@
  trans_en: to win
 
 -lexeme
- lex: qazǝf/qozǝf
+ lex: qazəf/qozəf
  stem: .q.z.f.|.q.z.ff.
  root: qzf
  gramm: V
@@ -7672,7 +7672,7 @@
  trans_en: to apply
 
 -lexeme
- lex: raʕǝl/roʕǝl
+ lex: raʕəl/roʕəl
  stem: .r.ʕ.l.|.r.ʕ.|.r.ʕ.n.|.r.ʕ.ll.|.r.ʕʕ.|.r.ʕ.nn.
  root: rʕl
  gramm: V
@@ -7717,7 +7717,7 @@
  trans_en: to graze (intr.)
 
 -lexeme
- lex: rbǝṭle/robǝṭ
+ lex: rbəṭle/robəṭ
  stem: .r.b.ṭ.|.r.b.ṭṭ.
  root: rbṭ
  gramm: V
@@ -7762,7 +7762,7 @@
  trans_en: to agree; to be pleased with (b-) smb., to like smb. (b-)
 
 -lexeme
- lex: rafǝʕ/rofǝʕ
+ lex: rafəʕ/rofəʕ
  stem: .r.f.ʕ.|.r.f.ʕʕ.
  root: rfʕ
  gramm: V
@@ -7771,7 +7771,7 @@
  trans_en: to become thin
 
 -lexeme
- lex: rfǝd̞le/rofǝd̞
+ lex: rfəd̞le/rofəd̞
  stem: .r.f.ḏ̣.|.r.f.ḏ̣̣.
  root: rfd̞
  gramm: V
@@ -7780,7 +7780,7 @@
  trans_en: to refuse; to reject
 
 -lexeme
- lex: mrafrafle/mrafrǝf
+ lex: mrafrafle/mrafrəf
  stem: .r.fr.f.|.r.fr.ff.
  root: rfrf
  gramm: V
@@ -7789,7 +7789,7 @@
  trans_en: to open and close eyelids
 
 -lexeme
- lex: rfǝṣle/rofǝṣ
+ lex: rfəṣle/rofəṣ
  stem: .r.f.ṣ.|.r.f.ṣṣ.
  root: rfṣ
  gramm: V
@@ -7817,7 +7817,7 @@
  trans_en: to let go; to let out; to leave; to put; to throw; to free; to send; to begin; to issue
 
 -lexeme
- lex: margaʕle/margǝʕ
+ lex: margaʕle/margəʕ
  stem: .r.g.ʕ.|.r.g.ʕʕ.
  root: rgʕ
  gramm: V
@@ -7826,7 +7826,7 @@
  trans_en: to roll around
 
 -lexeme
- lex: rġiz/mǝrġǝz
+ lex: rġiz/mərġəz
  stem: .r.ġ.z.|.r.ġ.zz.
  root: rġz
  gramm: V
@@ -7844,7 +7844,7 @@
  trans_en: to let swell in water
 
 -lexeme
- lex: raǧǝf/roǧǝf
+ lex: raǧəf/roǧəf
  stem: .r.ǧ.f.|.r.ǧ.ff.
  root: rǧf
  gramm: V
@@ -7871,7 +7871,7 @@
  trans_en: to ask
 
 -lexeme
- lex: marhamle/marhǝm
+ lex: marhamle/marhəm
  stem: .r.h.m.|.r.h.mm.
  root: rhm
  gramm: V
@@ -7880,7 +7880,7 @@
  trans_en: to rain
 
 -lexeme
- lex: rahǝṭ/rohǝṭ
+ lex: rahəṭ/rohəṭ
  stem: .r.h.ṭ.|.r.h.ṭṭ.
  root: rhṭ
  gramm: V
@@ -7889,12 +7889,12 @@
  trans_en: to run
 
 -lexeme
- lex: mraḥable/mraḥǝb
+ lex: mraḥable/mraḥəb
  stem: .r.ḥ.b.|.r.ḥ.bb.
  root: rḥb
  gramm: V
  paradigm: V_II
- trans_de: begrüssen (mraḥǝb - mraḥable)
+ trans_de: begrüssen (mraḥəb - mraḥable)
  trans_en: to greet
 
 -lexeme
@@ -7907,7 +7907,7 @@
  trans_en: to greet
 
 -lexeme
- lex: mraḥele/mraḥǝl
+ lex: mraḥele/mraḥəl
  stem: .r.ḥ.l.|.r.ḥ.|.r.ḥ.n.|.r.ḥ.ll.|.r.ḥḥ.|.r.ḥ.nn.
  root: rḥl
  gramm: V
@@ -7916,7 +7916,7 @@
  trans_en: to depart
 
 -lexeme
- lex: rḥǝmle/roḥǝm
+ lex: rḥəmle/roḥəm
  stem: .r.ḥ.m.|.r.ḥ.mm.
  root: rḥm
  gramm: V
@@ -7925,7 +7925,7 @@
  trans_en: to love; to like
 
 -lexeme
- lex: raḥǝq/roḥǝq
+ lex: raḥəq/roḥəq
  stem: .r.ḥ.q.|.r.ḥ.qq.
  root: rḥq
  gramm: V
@@ -7934,7 +7934,7 @@
  trans_en: to leave; to go away
 
 -lexeme
- lex: rakǝd/rokǝd
+ lex: rakəd/rokəd
  stem: .r.k.d.|.r.k.dd.
  root: rkd
  gramm: V
@@ -7970,7 +7970,7 @@
  trans_en: to sit; to mount; to fit smb. (ʕal)
 
 -lexeme
- lex: rakǝx/rokǝx
+ lex: rakəx/rokəx
  stem: .r.k.x.|.r.k.xx.
  root: rkx
  gramm: V
@@ -7979,7 +7979,7 @@
  trans_en: to become soft
 
 -lexeme
- lex: mramadle/mramǝd
+ lex: mramadle/mraməd
  stem: .r.m.d.|.r.m.dd.
  root: rmd
  gramm: V
@@ -7988,7 +7988,7 @@
  trans_en: to throw ashes on one's own head
 
 -lexeme
- lex: ramǝš/romǝš
+ lex: raməš/roməš
  stem: .r.m.š.|.r.m.šš.
  root: rmš
  gramm: V
@@ -8006,7 +8006,7 @@
  trans_en: to distribute
 
 -lexeme
- lex: mrapaṣle/mrapǝṣ
+ lex: mrapaṣle/mrapəṣ
  stem: .r.p.ṣ.|.r.p.ṣṣ.
  root: rpṣ
  gramm: V
@@ -8015,7 +8015,7 @@
  trans_en: to tread down
 
 -lexeme
- lex: raqǝḏ̣/roqəḏ̣
+ lex: raqəḏ̣/roqəḏ̣
  stem: .r.q.ḏ̣.//.r.q.ḏ.|.r.q.ḏ̣̣ḏ.//.r.q.ḏḏ.
  root: rqḏ/rqḏ̣
  gramm: V
@@ -8024,7 +8024,7 @@
  trans_en: to dance
 
 -lexeme
- lex: rqǝfle/roqǝf
+ lex: rqəfle/roqəf
  stem: .r.q.f.|.r.q.ff.
  root: rqf
  gramm: V
@@ -8042,7 +8042,7 @@
  trans_en: to patch
 
 -lexeme
- lex: raqǝq/roqǝq
+ lex: raqəq/roqəq
  stem: .r.q.q.|.r.q.qq.
  root: rqq
  gramm: V
@@ -8078,7 +8078,7 @@
  trans_en: to ordain
 
 -lexeme
- lex: mrastaqle/mrastǝq
+ lex: mrastaqle/mrastəq
  stem: .r.st.q.|.r.st.qq.
  root: rstq
  gramm: V
@@ -8096,7 +8096,7 @@
  trans_en: to come across (ʕal) smb. or smth.
 
 -lexeme
- lex: mraṣaʕle/mraṣǝʕ
+ lex: mraṣaʕle/mraṣəʕ
  stem: .r.ṣ.ʕ.|.r.ṣ.ʕʕ.
  root: rṣʕ
  gramm: V
@@ -8105,7 +8105,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mrašaḥle/mrašǝḥ
+ lex: mrašaḥle/mrašəḥ
  stem: .r.š.ḥ.|.r.š.ḥḥ.
  root: ršḥ
  gramm: V
@@ -8114,7 +8114,7 @@
  trans_en: to determine
 
 -lexeme
- lex: ršǝmle/rošǝm
+ lex: ršəmle/rošəm
  stem: .r.š.m.|.r.š.mm.
  root: ršm
  gramm: V
@@ -8123,7 +8123,7 @@
  trans_en: to name
 
 -lexeme
- lex: mratable/mratǝb
+ lex: mratable/mratəb
  stem: .r.t.b.|.r.t.bb.
  root: rtb
  gramm: V
@@ -8132,7 +8132,7 @@
  trans_en: to set up; to establish
 
 -lexeme
- lex: rṭim/mǝrṭǝm
+ lex: rṭim/mərṭəm
  stem: .r.ṭ.m.|.r.ṭ.mm.
  root: rṭm
  gramm: V
@@ -8141,7 +8141,7 @@
  trans_en: to become covered (with snow, sand)
 
 -lexeme
- lex: raṯǝḥ/roṯǝḥ
+ lex: raṯəḥ/roṯəḥ
  stem: .r.ṯ.ḥ.|.r.ṯ.ḥḥ.
  root: rṯḥ
  gramm: V
@@ -8150,7 +8150,7 @@
  trans_en: to boil (intr.)
 
 -lexeme
- lex: rawǝʕ/rowǝʕ
+ lex: rawəʕ/rowəʕ
  stem: .r.w.ʕ.|.r.ʕ.|.r.w.ʕʕ.|.r.ʕʕ.
  root: rwʕ
  gramm: V
@@ -8159,7 +8159,7 @@
  trans_en: to lie down (animals)
 
 -lexeme
- lex: rawǝḥ/rowǝḥ
+ lex: rawəḥ/rowəḥ
  stem: .r.w.ḥ.|.r.ḥ.|.r.w.ḥḥ.|.r.ḥḥ.
  root: rwḥ
  gramm: V
@@ -8186,7 +8186,7 @@
  trans_en: to broaden; to make wide
 
 -lexeme
- lex: mrawaqle/mrawǝq
+ lex: mrawaqle/mrawəq
  stem: .r.w.q.|.r.w.qq.
  root: rwq
  gramm: V
@@ -8195,7 +8195,7 @@
  trans_en: to strengthen; to freshen up
 
 -lexeme
- lex: mrawaqle/mrawǝq
+ lex: mrawaqle/mrawəq
  stem: .r.w.q.|.r.w.qq.
  root: rwq
  gramm: V
@@ -8204,7 +8204,7 @@
  trans_en: to spin
 
 -lexeme
- lex: mrawašle/mrawǝš
+ lex: mrawašle/mrawəš
  stem: .r.w.š.|.r.š.|.r.w.šš.|.r.šš.
  root: rwš
  gramm: V
@@ -8240,7 +8240,7 @@
  trans_en: to become drunk
 
 -lexeme
- lex: mraxaṣle/mraxǝṣ
+ lex: mraxaṣle/mraxəṣ
  stem: .r.x.ṣ.|.r.x.ṣṣ.
  root: rxṣ
  gramm: V
@@ -8258,7 +8258,7 @@
  trans_en: to mount; to sit
 
 -lexeme
- lex: rǝfle/royǝf
+ lex: rəfle/royəf
  stem: .r.y.f.|.r.f.|.r.ff.
  root: ryf
  gramm: V
@@ -8267,7 +8267,7 @@
  trans_en: to flutter
 
 -lexeme
- lex: rayəg/royǝg
+ lex: rayəg/royəg
  stem: .r.y.g.|.r.g.|.r.gg.
  root: ryg
  gramm: V
@@ -8276,7 +8276,7 @@
  trans_en: to desire (with l-)
 
 -lexeme
- lex: rǝkle/royǝk
+ lex: rəkle/royək
  stem: .r.y.k.|.r.k.|.r.kk.
  root: ryk
  gramm: V
@@ -8285,7 +8285,7 @@
  trans_en: to fill the foundation walls of a building with earth and stones
 
 -lexeme
- lex: rǝqle/royǝq
+ lex: rəqle/royəq
  stem: .r.y.q.|.r.q.|.r.qq.
  root: ryq
  gramm: V
@@ -8348,7 +8348,7 @@
  trans_en: to spray; to drizzle
 
 -lexeme
- lex: rǝzle/royǝz
+ lex: rəzle/royəz
  stem: .r.y.z.|.r.z.|.r.zz.
  root: ryz
  gramm: V
@@ -8357,7 +8357,7 @@
  trans_en: to strew; to line up
 
 -lexeme
- lex: mrayzele/mrayzǝl
+ lex: mrayzele/mrayzəl
  stem: .r.yz.l.|.r.yz.|.r.yz.n.|.r.yz.ll.|.r.yzz.|.r.yz.nn.
  root: ryzl
  gramm: V
@@ -8366,7 +8366,7 @@
  trans_en: to bring to shame
 
 -lexeme
- lex: mtarzǝl/mitarzǝl
+ lex: mtarzəl/mitarzəl
  stem: .r.z.l.|.r.z.n.|.r.z.|.r.z.ll.|.r.z.nn.|.r.zz.
  root: rzl
  gramm: V
@@ -8375,7 +8375,7 @@
  trans_en: to bring shame on oneself
 
 -lexeme
- lex: msaʕadle/msaʕǝd
+ lex: msaʕadle/msaʕəd
  stem: .s.ʕ.d.|.s.ʕ.dd.
  root: sʕd
  gramm: V
@@ -8384,7 +8384,7 @@
  trans_en: to help; to allow
 
 -lexeme
- lex: msabable/msabǝb
+ lex: msabable/msabəb
  stem: .s.b.b.|.s.b.bb.
  root: sbb
  gramm: V
@@ -8393,7 +8393,7 @@
  trans_en: [?]
 
 -lexeme
- lex: sbǝḥle/sobǝḥ
+ lex: sbəḥle/sobəḥ
  stem: .s.b.ḥ.|.s.b.ḥḥ.
  root: sbḥ
  gramm: V
@@ -8402,7 +8402,7 @@
  trans_en: to swim
 
 -lexeme
- lex: msabaqle/msabǝq
+ lex: msabaqle/msabəq
  stem: .s.b.q.|.s.b.qq.
  root: sbq
  gramm: V
@@ -8411,7 +8411,7 @@
  trans_en: to give birth prematurely
 
 -lexeme
- lex: sfǝqle/sofǝq
+ lex: sfəqle/sofəq
  stem: .s.f.q.|.s.f.qq.
  root: sfq
  gramm: V
@@ -8420,7 +8420,7 @@
  trans_en: to slap
 
 -lexeme
- lex: msafalle/msafǝr
+ lex: msafalle/msafər
  stem: .s.f.r.|.s.f.l.|.s.f.n.|.s.f.rr.|.s.f.ll.|.s.f.nn.
  root: sfr
  gramm: V
@@ -8438,7 +8438,7 @@
  trans_en: to fill
 
 -lexeme
- lex: sġǝdle/soġǝd
+ lex: sġədle/soġəd
  stem: .s.ġ.d.|.s.ġ.dd.
  root: sġd
  gramm: V
@@ -8447,7 +8447,7 @@
  trans_en: to worship smb. (l-)
 
 -lexeme
- lex: msaǧele/msaǧǝl
+ lex: msaǧele/msaǧəl
  stem: .s.ǧ.l.|.s.ǧ.|.s.ǧ.n.|.s.ǧ.ll.|.s.ǧǧ.|.s.ǧ.nn.
  root: sǧl
  gramm: V
@@ -8456,7 +8456,7 @@
  trans_en: to record (on a tape)
 
 -lexeme
- lex: shǝḏle/sohǝḏ
+ lex: shəḏle/sohəḏ
  stem: .s.h.ḏ.|.s.h.ḏḏ.
  root: shḏ
  gramm: V
@@ -8465,7 +8465,7 @@
  trans_en: to witness; to testify against (ʕal) smb.
 
 -lexeme
- lex: msahele/msahǝl
+ lex: msahele/msahəl
  stem: .s.h.l.|.s.h.|.s.h.n.|.s.h.ll.|.s.hh.|.s.h.nn.
  root: shl
  gramm: V
@@ -8474,7 +8474,7 @@
  trans_en: to comfort, to console
 
 -lexeme
- lex: sahǝr/sohǝr
+ lex: sahər/sohər
  stem: .s.h.r.|.s.h.l.|.s.h.n.|.s.h.rr.|.s.h.ll.|.s.h.nn.
  root: shr
  gramm: V
@@ -8492,7 +8492,7 @@
  trans_en: to spend the night
 
 -lexeme
- lex: sḥǝlle/soḥǝn
+ lex: sḥəlle/soḥən
  stem: .s.ḥ.n.|.ṣ.ḥ.l.|.s.ḥ.nn.|.ṣ.ḥ.ll.
  root: sḥn
  gramm: V
@@ -8501,7 +8501,7 @@
  trans_en: to pound (e.g. coffee in a mortar)
 
 -lexeme
- lex: msaḥalle/msaḥǝr
+ lex: msaḥalle/msaḥər
  stem: .s.ḥ.r.|.s.ḥ.l.|.s.ḥ.n.|.s.ḥ.rr.|.s.ḥ.ll.|.s.ḥ.nn.
  root: sḥr
  gramm: V
@@ -8528,7 +8528,7 @@
  trans_en: to be silent
 
 -lexeme
- lex: msaktalle/msaktǝr
+ lex: msaktalle/msaktər
  stem: .s.kt.r.|.s.kt.l.|.s.kt.n.|.s.kt.rr.|.s.kt.ll.|.s.kt.nn.
  root: sktr
  gramm: V
@@ -8546,7 +8546,7 @@
  trans_en: to delete, to erase
 
 -lexeme
- lex: msalaḥle/msalǝḥ
+ lex: msalaḥle/msaləḥ
  stem: .s.l.ḥ.|.s.l.ḥḥ.
  root: slḥ
  gramm: V
@@ -8555,7 +8555,7 @@
  trans_en: to arm
 
 -lexeme
- lex: msalamle/msalǝm
+ lex: msalamle/msaləm
  stem: .s.l.m.|.s.l.mm.
  root: slm
  gramm: V
@@ -8582,7 +8582,7 @@
  trans_en: to climb up, to jump up
 
 -lexeme
- lex: salǝq/solǝq
+ lex: saləq/soləq
  stem: .s.l.q.|.s.l.qq.
  root: slq
  gramm: V
@@ -8591,7 +8591,7 @@
  trans_en: to go up, to ascend
 
 -lexeme
- lex: slǝxle/solǝx
+ lex: sləxle/soləx
  stem: .s.l.x.|.s.l.xx.
  root: slx
  gramm: V
@@ -8609,7 +8609,7 @@
  trans_en: to entertain
 
 -lexeme
- lex: smǝḥle/somǝḥ
+ lex: sməḥle/soməḥ
  stem: .s.m.ḥ.|.s.m.ḥḥ.
  root: smḥ
  gramm: V
@@ -8627,7 +8627,7 @@
  trans_en: to forgive
 
 -lexeme
- lex: msamamle/msamǝm
+ lex: msamamle/msaməm
  stem: .s.m.m.|.s.m.mm.
  root: smm
  gramm: V
@@ -8636,7 +8636,7 @@
  trans_en: to poison
 
 -lexeme
- lex: samǝq/somǝq
+ lex: saməq/soməq
  stem: .s.m.q.|.s.m.qq.
  root: smq
  gramm: V
@@ -8645,7 +8645,7 @@
  trans_en: to become red
 
 -lexeme
- lex: smǝxle/somǝx
+ lex: sməxle/soməx
  stem: .s.m.x.|.s.m.xx.
  root: smx
  gramm: V
@@ -8663,7 +8663,7 @@
  trans_en: to become blind
 
 -lexeme
- lex: snǝdle/sonǝd
+ lex: snədle/sonəd
  stem: .s.n.d.|.s.n.dd.
  root: snd
  gramm: V
@@ -8690,7 +8690,7 @@
  trans_en: to need smth. (l-)
 
 -lexeme
- lex: sqǝṭle/soqǝt
+ lex: sqəṭle/soqət
  stem: .s.q.ṭ.|.ṣ.q.ṭ.|.s.q.ṭṭ.|.ṣ.q.ṭṭ.
  root: sqṭ
  gramm: V
@@ -8708,7 +8708,7 @@
  trans_en: to lame, to cripple
 
 -lexeme
- lex: msargǝl/misargǝl
+ lex: msargəl/misargəl
  stem: .s.rg.l.|.s.rg.|.s.rg.n.|.s.rg.ll.|.s.rgg.|.s.rg.nn.
  root: srgl
  gramm: V
@@ -8717,7 +8717,7 @@
  trans_en: to advance
 
 -lexeme
- lex: msargalle/msargǝn
+ lex: msargalle/msargən
  stem: .s.rg.n.|.s.rg.nn.
  root: srgn
  gramm: V
@@ -8726,7 +8726,7 @@
  trans_en: to banish; to exile
 
 -lexeme
- lex: msaraḥle/msarǝḥ
+ lex: msaraḥle/msarəḥ
  stem: .s.r.ḥ.|.s.r.ḥḥ.
  root: srḥ
  gramm: V
@@ -8735,7 +8735,7 @@
  trans_en: to release
 
 -lexeme
- lex: srǝqle/sorǝq
+ lex: srəqle/sorəq
  stem: .s.r.q.|.s.r.qq.
  root: srq
  gramm: V
@@ -8780,7 +8780,7 @@
  trans_en: to decay, to rot
 
 -lexeme
- lex: mǝstaʔǧalle/mǝstaʔǧǝr
+ lex: məstaʔǧalle/məstaʔǧər
  stem: .st.ʔǧ.r.|.st.ʔǧ.l.|.st.ʔǧ.n.|.st.ʔž.r.|.st.ʔž.l.|.st.ʔz.n.|.st.ʔǧ.rr.|.st.ʔǧ.ll.|.st.ʔǧ.nn.|.st.ʔž.rr.|.st.ʔž.ll.|.st.ʔz.nn.
  root: stʔǧr
  gramm: V
@@ -8789,7 +8789,7 @@
  trans_en: to rent
 
 -lexeme
- lex: mǝstaʔhele/mǝstaʔhǝl
+ lex: məstaʔhele/məstaʔhəl
  stem: .st.ʔh.l.|.st.ʔh.|.st.ʔh.n.|.st.ʔh.ll.|.st.ʔhh.|.st.ʔh.nn.
  root: stʔhl
  gramm: V
@@ -8798,7 +8798,7 @@
  trans_en: in negative sentences: not deserve
 
 -lexeme
- lex: mǝstaḥfawle/mǝstaḥfu
+ lex: məstaḥfawle/məstaḥfu
  stem: .st.ḥf.w.|.st.ḥf.|.st.ḥf.ww.|.st.ḥff.
  root: stʕfw
  gramm: V
@@ -8806,7 +8806,7 @@
  trans_de: sich entschuldigen, sich drücken
 
 -lexeme
- lex: mǝstaʕmele/mǝstaʕmǝl
+ lex: məstaʕmele/məstaʕməl
  stem: .st.ʕm.l.|.st.ʕm.|.st.ʕm.n.|.st.ʕm.ll.|.st.ʕmm.|.st.ʕm.nn.
  root: stʕml
  gramm: V
@@ -8815,7 +8815,7 @@
  trans_en: to use; to copulate with smb.
 
 -lexeme
- lex: mǝstaʕrafle/mǝstaʕrǝf
+ lex: məstaʕrafle/məstaʕrəf
  stem: .st.ʕr.f.|.st.ʕr.ff.
  root: stʕrf
  gramm: V
@@ -8824,7 +8824,7 @@
  trans_en: to confess
 
 -lexeme
- lex: mǝstafadle/mǝstafǝd
+ lex: məstafadle/məstafəd
  stem: .st.f.d.|.st.f.dd.
  root: stfd
  gramm: V
@@ -8833,7 +8833,7 @@
  trans_en: to take advantage of (m-) smth.
 
 -lexeme
- lex: mǝstafhamle/mǝstafhǝm
+ lex: məstafhamle/məstafhəm
  stem: .st.fh.m.|.st.fh.mm.
  root: stfhm
  gramm: V
@@ -8842,7 +8842,7 @@
  trans_en: to find out
 
 -lexeme
- lex: mǝstalamle/mǝstalǝm
+ lex: məstalamle/məstaləm
  stem: .st.l.m.|.st.l.mm.
  root: stlm
  gramm: V
@@ -8860,7 +8860,7 @@
  trans_en: to wait; to expect
 
 -lexeme
- lex: mǝstaqbele/mǝstaqbǝl
+ lex: məstaqbele/məstaqbəl
  stem: .st.qb.l.|.st.qb.|.st.qb.n.|.st.qb.ll.|.st.qbb.|.st.qb.nn.
  root: stqbl
  gramm: V
@@ -8869,7 +8869,7 @@
  trans_en: to receive, to welcome
 
 -lexeme
- lex: satǝr/sotǝr
+ lex: satər/sotər
  stem: .s.t.r.|.s.t.l.|.s.t.n.|.s.t.rr.|.s.t.ll.|.s.t.nn.
  root: str
  gramm: V
@@ -8887,7 +8887,7 @@
  trans_en: to find refuge
 
 -lexeme
- lex: sawǝʕ/sowǝʕ
+ lex: sawəʕ/sowəʕ
  stem: .s.w.ʕ.|.s.ʕ.|.s.w.ʕʕ.|.s.ʕʕ.
  root: swʕ
  gramm: V
@@ -8896,7 +8896,7 @@
  trans_en: to become satisfied, full
 
 -lexeme
- lex: msawgalle/msawgǝr
+ lex: msawgalle/msawgər
  stem: .s.wg.r.|.s.wg.l.|.s.wg.n.|.s.wg.rr.|.s.wg.ll.|.s.wg.nn.
  root: swgr
  gramm: V
@@ -8905,7 +8905,7 @@
  trans_en: to ensure, to guarantee
 
 -lexeme
- lex: msawaḥle/msawǝḥ
+ lex: msawaḥle/msawəḥ
  stem: .s.w.ḥ.|.s.w.ḥḥ.
  root: swḥ
  gramm: V
@@ -8923,7 +8923,7 @@
  trans_en: to level
 
 -lexeme
- lex: sxǝlle/soxǝr
+ lex: sxəlle/soxər
  stem: .s.x.r.|.s.x.l.|.s.x.n.|.ṣ.x.r.|.ṣ.x.l.|.ṣ.x.n.|.s.x.rr.|.s.x.ll.|.s.x.nn.|.ṣ.x.rr.|.ṣ.x.ll.|.ṣ.x.nn.
  root: sxr/ṣxr
  gramm: V
@@ -8941,7 +8941,7 @@
  trans_en: to dare; to be generous
 
 -lexeme
- lex: msayballe/msaybǝr
+ lex: msayballe/msaybər
  stem: .s.yb.r.|.s.yb.l.|.s.yb.n.|.ṣ.yb.r.|.ṣ.yb.l.|.ṣ.yb.n.|.s.yb.rr.|.s.yb.ll.|.s.yb.nn.|.ṣ.yb.rr.|.ṣ.yb.ll.|.ṣ.yb.nn.
  root: sybr/ṣybr
  gramm: V
@@ -8950,7 +8950,7 @@
  trans_en: to be patient
 
 -lexeme
- lex: sayǝf/soyǝf
+ lex: sayəf/soyəf
  stem: .s.y.f.|.s.f.|.s.ff.
  root: syf
  gramm: V
@@ -8959,7 +8959,7 @@
  trans_en: to stop (intr.); to rub off (intr.)
 
 -lexeme
- lex: sǝġle/soyǝġ
+ lex: səġle/soyəġ
  stem: .s.y.ġ.|.s.ġ.|.s.ġġ.
  root: syġ
  gramm: V
@@ -8968,7 +8968,7 @@
  trans_en: to fence
 
 -lexeme
- lex: sile/soyǝl
+ lex: sile/soyəl
  stem: .s.y.l.|.s.|.s.n.|.s.y.ll.|.ss.|.s.ll.|.s.nn.
  root: syl
  gramm: V
@@ -8977,7 +8977,7 @@
  trans_en: to erase
 
 -lexeme
- lex: sǝmle/soyǝm
+ lex: səmle/soyəm
  stem: .s.y.m.|.s.m.|.s.mm.
  root: sym
  gramm: V
@@ -8986,7 +8986,7 @@
  trans_en: to do; to make; to cook; to have sex with (ʕam) smb.
 
 -lexeme
- lex: msayalle/msayǝr
+ lex: msayalle/msayər
  stem: .s.y.r.|.s.y.l.|.s.y.n.|.s.y.rr.|.s.y.ll.|.s.y.nn.
  root: syr
  gramm: V
@@ -9004,7 +9004,7 @@
  trans_en: to become old
 
 -lexeme
- lex: sǝxle/soyǝx
+ lex: səxle/soyəx
  stem: .s.y.x.|.s.x.|.s.xx.
  root: syx
  gramm: V
@@ -9022,7 +9022,7 @@
  trans_en: to become difficult
 
 -lexeme
- lex: mṣaʕalle/mṣaʕǝr
+ lex: mṣaʕalle/mṣaʕər
  stem: .ṣ.ʕ.r.|.ṣ.ʕ.l.|.ṣ.ʕ.n.|.ṣ.ʕ.rr.|.ṣ.ʕ.ll.|.ṣ.ʕ.nn.
  root: ṣʕr
  gramm: V
@@ -9031,7 +9031,7 @@
  trans_en: to scold smb. (l-), to insult smb. (l-)
 
 -lexeme
- lex: ṣbǝlle/ṣobǝr
+ lex: ṣbəlle/ṣobər
  stem: .ṣ.b.r.|.ṣ.b.l.|.ṣ.b.n.|.ṣ.b.rr.|.ṣ.b.ll.|.ṣ.b.nn.
  root: ṣbr
  gramm: V
@@ -9058,7 +9058,7 @@
  trans_en: to want
 
 -lexeme
- lex: ṣadǝf/ṣodǝf
+ lex: ṣadəf/ṣodəf
  stem: .ṣ.d.f.|.ṣ.d.ff.
  root: ṣdf
  gramm: V
@@ -9076,7 +9076,7 @@
  trans_en: to come accidentally; to meet accidentally
 
 -lexeme
- lex: mṣadaqle/mṣadǝq
+ lex: mṣadaqle/mṣadəq
  stem: .ṣ.d.q.|.ṣ.d.qq.
  root: ṣdq
  gramm: V
@@ -9085,7 +9085,7 @@
  trans_en: to believe; to confirm
 
 -lexeme
- lex: ṣfǝlle/ṣofǝr
+ lex: ṣfəlle/ṣofər
  stem: .ṣ.f.r.|.ṣ.f.l.|.ṣ.f.n.|.ṣ.f.rr.|.ṣ.f.ll.|.ṣ.f.nn.
  root: ṣfr
  gramm: V
@@ -9112,7 +9112,7 @@
  trans_en: to finish, to complete; to settle; to clean
 
 -lexeme
- lex: ṣhile/ṣohǝl
+ lex: ṣhile/ṣohəl
  stem: .ṣ.h.l.|.ṣ.h.|.ṣ.h.n.|.ṣ.h.ll.|.ṣ.hh.|.ṣ.h.nn.
  root: ṣhl
  gramm: V
@@ -9130,7 +9130,7 @@
  trans_en: to become thirsty
 
 -lexeme
- lex: mṣaḥaḥle/mṣaḥǝḥ
+ lex: mṣaḥaḥle/mṣaḥəḥ
  stem: .ṣ.ḥ.ḥ.|.ṣ.ḥ.ḥḥ.
  root: ṣḥḥ
  gramm: V
@@ -9139,7 +9139,7 @@
  trans_en: to correct
 
 -lexeme
- lex: ṣhǝlle/ṣohǝr
+ lex: ṣhəlle/ṣohər
  stem: .ṣ.h.r.|.ṣ.ḥ.l.|.ṣ.ḥ.n.|.ṣ.h.rr.|.ṣ.ḥ.ll.|.ṣ.ḥ.nn.
  root: ṣhr
  gramm: V
@@ -9148,7 +9148,7 @@
  trans_en: to enchant
 
 -lexeme
- lex: mṣaḥṣaḥle/mṣaḥṣǝḥ
+ lex: mṣaḥṣaḥle/mṣaḥṣəḥ
  stem: .ṣ.ḥṣ.ḥ.|.ṣ.ḥṣ.ḥḥ.
  root: ṣḥṣḥ
  gramm: V
@@ -9157,7 +9157,7 @@
  trans_en: to understand exactly; to correct
 
 -lexeme
- lex: ṣakǝr/ṣokǝr
+ lex: ṣakər/ṣokər
  stem: .ṣ.k.r.|.ṣ.k.l.|.ṣ.k.n.|.ṣ.k.rr.|.ṣ.k.ll.|.ṣ.k.nn.
  root: ṣkr
  gramm: V
@@ -9166,7 +9166,7 @@
  trans_en: to become drunk
 
 -lexeme
- lex: mṣakalle/mṣakǝr
+ lex: mṣakalle/mṣakər
  stem: .ṣ.k.r.|.ṣ.k.l.|.ṣ.k.n.|.ṣ.k.rr.|.ṣ.k.ll.|.ṣ.k.nn.
  root: ṣkr
  gramm: V
@@ -9175,7 +9175,7 @@
  trans_en: to lose
 
 -lexeme
- lex: ṣlǝfle/ṣolǝf
+ lex: ṣləfle/ṣoləf
  stem: .ṣ.l.f.|.ṣ.l.ff.
  root: ṣlf
  gramm: V
@@ -9184,7 +9184,7 @@
  trans_en: to injure
 
 -lexeme
- lex: ṣlǝḥle/ṣolǝḥ
+ lex: ṣləḥle/ṣoləḥ
  stem: .ṣ.l.ḥ.|.ṣ.l.ḥḥ.
  root: ṣlḥ
  gramm: V
@@ -9193,7 +9193,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mṣalaḥle/mṣalǝḥ
+ lex: mṣalaḥle/mṣaləḥ
  stem: .ṣ.l.ḥ.|.ṣ.l.ḥḥ.
  root: ṣlḥ
  gramm: V
@@ -9247,7 +9247,7 @@
  trans_en: to make dirty; to soil
 
 -lexeme
- lex: ṣamǝt/ṣomǝt
+ lex: ṣamət/ṣomət
  stem: .ṣ.m.t.|.ṣ.m.tt.
  root: ṣmt
  gramm: V
@@ -9256,7 +9256,7 @@
  trans_en: to scald oneself in hot water
 
 -lexeme
- lex: mṣamaṭle/mṣamǝṭ
+ lex: mṣamaṭle/mṣaməṭ
  stem: .ṣ.m.ṭ.|.ṣ.m.ṭṭ.
  root: ṣmṭ
  gramm: V
@@ -9265,7 +9265,7 @@
  trans_en: to pour hot water
 
 -lexeme
- lex: mṣanǧǝr/miṣanǧǝr
+ lex: mṣanǧər/miṣanǧər
  stem: .ṣ.nǧ.r.|.ṣ.nǧ.l.|.ṣ.nǧ.n.|.ṣ.nǧ.rr.|.ṣ.nǧ.ll.|.ṣ.nǧ.nn.
  root: ṣnǧr
  gramm: V
@@ -9274,7 +9274,7 @@
  trans_en: to become scorching hot
 
 -lexeme
- lex: mṣanṣele/mṣanṣǝl
+ lex: mṣanṣele/mṣanṣəl
  stem: .ṣ.nṣ.l.|.ṣ.nṣ.|.ṣ.nṣ.n.|.ṣ.nṣ.ll.|.ṣ.nṣṣ.|.ṣ.nṣ.nn.
  root: ṣnṣl
  gramm: V
@@ -9283,7 +9283,7 @@
  trans_en: to distil
 
 -lexeme
- lex: mṣanaṭle/mṣanǝṭ
+ lex: mṣanaṭle/mṣanəṭ
  stem: .ṣ.n.ṭ.|.ṣ.n.ṭṭ.
  root: ṣnṭ
  gramm: V
@@ -9301,7 +9301,7 @@
  trans_en: to sieve coarsely
 
 -lexeme
- lex: ṣrǝfle/ṣorǝf
+ lex: ṣrəfle/ṣorəf
  stem: .ṣ.r.f.|.ṣ.r.ff.
  root: ṣrf
  gramm: V
@@ -9319,7 +9319,7 @@
  trans_en: to absorb
 
 -lexeme
- lex: mṣarafle/mṣarǝf
+ lex: mṣarafle/mṣarəf
  stem: .ṣ.r.f.|.ṣ.r.ff.
  root: ṣrf
  gramm: V
@@ -9337,7 +9337,7 @@
  trans_en: to spend
 
 -lexeme
- lex: mṣarṣaʕle/mṣarṣǝʕ
+ lex: mṣarṣaʕle/mṣarṣəʕ
  stem: .ṣ.rṣ.ʕ.|.ṣ.rṣ.ʕʕ.
  root: ṣrṣʕ
  gramm: V
@@ -9346,7 +9346,7 @@
  trans_en: to cry, to shriek
 
 -lexeme
- lex: ṣrǝṭle/ṣorǝṭ
+ lex: ṣrəṭle/ṣorəṭ
  stem: .ṣ.r.ṭ.|.ṣ.r.ṭṭ.
  root: ṣrṭ
  gramm: V
@@ -9355,7 +9355,7 @@
  trans_en: to slit
 
 -lexeme
- lex: mǝṣtafele/mǝṣtafǝl
+ lex: məṣtafele/məṣtafəl
  stem: .ṣt.f.l.|.ṣt.f.|.ṣt.f.n.|.ṣt.f.ll.|.ṣt.ff.|.ṣt.f.nn.
  root: ṣtfl
  gramm: V
@@ -9364,7 +9364,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mṣaṭafle/mṣaṭǝf
+ lex: mṣaṭafle/mṣaṭəf
  stem: .ṣ.ṭ.f.|.ṣ.ṭ.ff.
  root: ṣṭf
  gramm: V
@@ -9373,7 +9373,7 @@
  trans_en: to chop; to mince
 
 -lexeme
- lex: ṣṭǝmle/ṣoṭǝm
+ lex: ṣṭəmle/ṣoṭəm
  stem: .ṣ.ṭ.m.|.ṣ.ṭ.mm.
  root: ṣṭm
  gramm: V
@@ -9382,7 +9382,7 @@
  trans_en: to block
 
 -lexeme
- lex: ṣwǝʕle/ṣowǝʕ
+ lex: ṣwəʕle/ṣowəʕ
  stem: .ṣ.w.ʕ.|.ṣ.ʕ.|.ṣ.w.ʕʕ.|.ṣ.ʕʕ.
  root: ṣwʕ
  gramm: V
@@ -9400,7 +9400,7 @@
  trans_en: to color, to dye
 
 -lexeme
- lex: mṣawele/mṣawǝl
+ lex: mṣawele/mṣawəl
  stem: .ṣ.w.l.|.ṣ.l.|.ṣ.w.n.|.ṣ.w.ll.|.ṣ.ll.|.ṣ.w.nn.
  root: ṣwl
  gramm: V
@@ -9409,7 +9409,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mṣawalle/mṣawǝr
+ lex: mṣawalle/mṣawər
  stem: .ṣ.w.r.|.ṣ.w.l.|.ṣ.w.n.|.ṣ.w.rr.|.ṣ.w.ll.|.ṣ.w.nn.
  root: ṣwr
  gramm: V
@@ -9418,7 +9418,7 @@
  trans_en: to paint; to picture; to represent
 
 -lexeme
- lex: maṣǝble/maṣǝb
+ lex: maṣəble/maṣəb
  stem: .ṣ.y.b.|.ṣ.y.bb.
  root: ṣyb
  gramm: V
@@ -9427,7 +9427,7 @@
  trans_en: to meet
 
 -lexeme
- lex: ṣǝdle/ṣoyǝd
+ lex: ṣədle/ṣoyəd
  stem: .ṣ.y.d.|.ṣ.d.|.ṣ.dd.
  root: ṣyd
  gramm: V
@@ -9445,7 +9445,7 @@
  trans_en: to hunt; to fish
 
 -lexeme
- lex: mṣayafle/mṣayǝf
+ lex: mṣayafle/mṣayəf
  stem: .ṣ.y.f.|.ṣ.y.ff.
  root: ṣyf
  gramm: V
@@ -9454,7 +9454,7 @@
  trans_en: to plough a field with large gaps (?)
 
 -lexeme
- lex: maṣǝḥle/maṣǝḥ
+ lex: maṣəḥle/maṣəḥ
  stem: .ṣ.ḥ.|.ṣ.ḥḥ.
  root: ṣyḥ
  gramm: V
@@ -9472,7 +9472,7 @@
  trans_en: to fast
 
 -lexeme
- lex: ṣayǝr/ṣoyǝr
+ lex: ṣayər/ṣoyər
  stem: .ṣ.y.r.|.ṣ.r.|.ṣ.rr.
  root: ṣyr
  gramm: V
@@ -9481,7 +9481,7 @@
  trans_en: to overheat (intr.)
 
 -lexeme
- lex: maṣǝṯle/maṣǝṯ
+ lex: maṣəṯle/maṣəṯ
  stem: .ṣ.ṯ.|.ṣ.ṯṯ.
  root: ṣyṯ
  gramm: V
@@ -9490,7 +9490,7 @@
  trans_en: to listen to (ʕal) smb.
 
 -lexeme
- lex: mšaʕbadle/mšaʕbǝd
+ lex: mšaʕbadle/mšaʕbəd
  stem: .š.ʕb.d.|.š.ʕb.dd.
  root: šʕbd
  gramm: V
@@ -9499,7 +9499,7 @@
  trans_en: to enslave
 
 -lexeme
- lex: šʕile/šoʕǝl
+ lex: šʕile/šoʕəl
  stem: .š.ʕ.l.|.š.ʕ.|.š.ʕ.n.|.š.ʕ.ll.|.š.ʕʕ.|.š.ʕ.nn.
  root: šʕl
  gramm: V
@@ -9508,7 +9508,7 @@
  trans_en: to cough
 
 -lexeme
- lex: šaʕǝṯ/šoʕǝṯ
+ lex: šaʕəṯ/šoʕəṯ
  stem: .š.ʕ.ṯ.|.š.ʕ.ṯṯ.
  root: šʕṯ
  gramm: V
@@ -9553,7 +9553,7 @@
  trans_en: to praise, to glorify
 
 -lexeme
- lex: mšadalle/mšadǝr
+ lex: mšadalle/mšadər
  stem: .š.d.r.|.š.d.l.|.š.d.n.|.š.d.rr.|.š.d.ll.|.š.d.nn.
  root: šdr
  gramm: V
@@ -9567,7 +9567,7 @@
  root: šḏy
  gramm: V
  paradigm: V_I_3y
- trans_de: 1) krempeln (Baumwolle); 2) (bǝṯr-) hinter jm. herstürzen, ihn verfolgen; 3) loslassen, anzünden (Feuer); 4) hinter jemand herstürzen, ihn verfolgen
+ trans_de: 1) krempeln (Baumwolle); 2) (bəṯr-) hinter jm. herstürzen, ihn verfolgen; 3) loslassen, anzünden (Feuer); 4) hinter jemand herstürzen, ihn verfolgen
  trans_en: comb and clean (wool); to pursue
 
 -lexeme
@@ -9580,7 +9580,7 @@
  trans_en: to pass by; to forgive smb. (b-)
 
 -lexeme
- lex: mšafǝl/mišafǝl
+ lex: mšafəl/mišafəl
  stem: .š.f.l.|.š.f.|.š.f.n.|.š.f.ll.|.š.ff.|.š.f.nn.
  root: šfl
  gramm: V
@@ -9589,7 +9589,7 @@
  trans_en: to become flat
 
 -lexeme
- lex: šafǝr/šofǝr
+ lex: šafər/šofər
  stem: .š.f.r.|.š.f.l.|.š.f.n.|.š.f.rr.|.š.f.ll.|.š.f.nn.
  root: šfr
  gramm: V
@@ -9598,7 +9598,7 @@
  trans_en: to become beatiful; to like (with l-)
 
 -lexeme
- lex: šaġǝl/šoġǝl
+ lex: šaġəl/šoġəl
  stem: .š.ġ.l.|.š.ġ.|.š.ġ.n.|.š.ġ.ll.|.š.ġġ.|.š.ġ.nn.
  root: šġl
  gramm: V
@@ -9625,7 +9625,7 @@
  trans_en: to confuse, to mislead
 
 -lexeme
- lex: šhǝdle/šohǝd
+ lex: šhədle/šohəd
  stem: .š.h.d.|.š.h.dd.
  root: šhd
  gramm: V
@@ -9652,7 +9652,7 @@
  trans_en: to desire
 
 -lexeme
- lex: mšaḥlafle/mšaḥlǝf
+ lex: mšaḥlafle/mšaḥləf
  stem: .š.ḥl.f.|.š.ḥl.ff.
  root: šḥlf
  gramm: V
@@ -9661,7 +9661,7 @@
  trans_en: to change; to turn into
 
 -lexeme
- lex: šaḥǝn/šoḥǝn
+ lex: šaḥən/šoḥən
  stem: .š.ḥ.n.|.š.ḥ.l.|.š.ḥ.nn.|.š.ḥ.ll.
  root: šḥn
  gramm: V
@@ -9688,7 +9688,7 @@
  trans_en: to warm
 
 -lexeme
- lex: šḥiṭ/mǝšḥǝṭ
+ lex: šḥiṭ/məšḥəṭ
  stem: .š.ḥ.ṭ.|.š.ḥ.ṭṭ.
  root: šḥṭ
  gramm: V
@@ -9697,7 +9697,7 @@
  trans_en: to remain small; to become thirsty; to become exhausted
 
 -lexeme
- lex: mšakakle/mšakǝk
+ lex: mšakakle/mšakək
  stem: .š.k.k.|.š.k.kk.
  root: škk
  gramm: V
@@ -9706,7 +9706,7 @@
  trans_en: to doubt
 
 -lexeme
- lex: mšakele/mšakǝl
+ lex: mšakele/mšakəl
  stem: .š.k.l.|.š.k.|.š.k.n.|.š.k.ll.|.š.kk.|.š.k.nn.
  root: škl
  gramm: V
@@ -9715,7 +9715,7 @@
  trans_en: to shape; to take form
 
 -lexeme
- lex: maškalle/maškǝr
+ lex: maškalle/maškər
  stem: .š.k.r.|.š.k.l.|.š.k.n.|.š.k.rr.|.š.k.ll.|.š.k.nn.
  root: škr
  gramm: V
@@ -9724,7 +9724,7 @@
  trans_en: to thank smb. (l-)
 
 -lexeme
- lex: mšakšakle/mšakšǝk
+ lex: mšakšakle/mšakšək
  stem: .š.kš.k.|.š.kš.kk.
  root: škšk
  gramm: V
@@ -9742,7 +9742,7 @@
  trans_en: to complain on (ʕal) smb.
 
 -lexeme
- lex: šlǝḥle/šolǝḥ
+ lex: šləḥle/šoləḥ
  stem: .š.l.ḥ.|.š.l.ḥḥ.
  root: šlḥ
  gramm: V
@@ -9769,7 +9769,7 @@
  trans_en: to strip; to rob
 
 -lexeme
- lex: mšalkaḥle/mšalkǝḥ
+ lex: mšalkaḥle/mšalkəḥ
  stem: .š.lk.ḥ.|.š.lk.ḥḥ.
  root: šlkḥ
  gramm: V
@@ -9778,7 +9778,7 @@
  trans_en: to lick smb.; to gnaw
 
 -lexeme
- lex: mašlamle/mašlǝm
+ lex: mašlamle/mašləm
  stem: .š.l.m.|.š.l.mm.
  root: šlm
  gramm: V
@@ -9787,7 +9787,7 @@
  trans_en: to break a fast
 
 -lexeme
- lex: šlǝqle/šolǝq
+ lex: šləqle/šoləq
  stem: .š.l.q.|.š.l.qq.
  root: šlq
  gramm: V
@@ -9796,7 +9796,7 @@
  trans_en: to boil; to roast
 
 -lexeme
- lex: mšalaṭle/mšalǝṭ
+ lex: mšalaṭle/mšaləṭ
  stem: .š.l.ṭ.|.š.l.ṭṭ.
  root: šlṭ
  gramm: V
@@ -9814,7 +9814,7 @@
  trans_en: [?]
 
 -lexeme
- lex: šamǝʕ/šomǝʕ
+ lex: šaməʕ/šoməʕ
  stem: .š.m.ʕ.|.š.m.ʕʕ.
  root: šmʕ
  gramm: V
@@ -9823,7 +9823,7 @@
  trans_en: to hear
 
 -lexeme
- lex: mšamahle/mšamǝh
+ lex: mšamahle/mšaməh
  stem: .š.m.h.|.š.m.hh.
  root: šmh
  gramm: V
@@ -9832,7 +9832,7 @@
  trans_en: to name
 
 -lexeme
- lex: mšamele/mšamǝl
+ lex: mšamele/mšaməl
  stem: .š.m.l.|.š.m.|.š.m.n.|.š.m.ll.|.š.mm.|.š.m.nn.
  root: šml
  gramm: V
@@ -9850,7 +9850,7 @@
  trans_en: to burn incense
 
 -lexeme
- lex: mšamalle/mšamǝr
+ lex: mšamalle/mšamər
  stem: .š.m.r.|.š.m.l.|.š.m.n.|.š.m.rr.|.š.m.ll.|.š.m.nn.
  root: šmr
  gramm: V
@@ -9859,7 +9859,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mšamašle/mšamǝš
+ lex: mšamašle/mšaməš
  stem: .š.m.š.|.š.m.šš.
  root: šmš
  gramm: V
@@ -9868,7 +9868,7 @@
  trans_en: [?]
 
 -lexeme
- lex: šmǝṭle/šomǝṭ
+ lex: šməṭle/šoməṭ
  stem: .š.m.ṭ.|.š.m.ṭṭ.
  root: šmṭ
  gramm: V
@@ -9886,7 +9886,7 @@
  trans_en: to slip
 
 -lexeme
- lex: šnǝqle/šonǝq
+ lex: šnəqle/šonəq
  stem: .š.n.q.|.š.n.qq.
  root: šnq
  gramm: V
@@ -9895,7 +9895,7 @@
  trans_en: to hang
 
 -lexeme
- lex: mšantalle/mšantǝr
+ lex: mšantalle/mšantər
  stem: .š.nt.r.|.š.nt.l.|.š.nt.n.|.š.nt.rr.|.š.nt.ll.|.š.nt.nn.
  root: šntr
  gramm: V
@@ -9922,16 +9922,16 @@
  trans_en: to patch (shoes)
 
 -lexeme
- lex: šqile/šoqǝl
+ lex: šqile/šoqəl
  stem: .š.q.l.|.š.q.|.š.q.n.|.š.q.ll.|.š.qq.|.š.q.nn.
  root: šql
  gramm: V
  paradigm: V_I_3l
- trans_de: 1) nehmen, an sich nehmen, wegnehmen, einnehmen, aufnehmen; 2) zum Gatten nehmen; 3) kaufen; 4) (šoqǝl i=nuro) Feuer fangen; 5) kassieren (???); 6) auf Tonband nehmen (e.g. ḥǝs) 7) aufnehmen, aufwerfen (die Frage) ???
+ trans_de: 1) nehmen, an sich nehmen, wegnehmen, einnehmen, aufnehmen; 2) zum Gatten nehmen; 3) kaufen; 4) (šoqəl i=nuro) Feuer fangen; 5) kassieren (???); 6) auf Tonband nehmen (e.g. ḥəs) 7) aufnehmen, aufwerfen (die Frage) ???
  trans_en: to take; to buy; to marry; to record
 
 -lexeme
- lex: šqǝṣle/šoqǝṣ
+ lex: šqəṣle/šoqəṣ
  stem: .š.q.ṣ.|.š.q.ṣṣ.
  root: šqṣ
  gramm: V
@@ -9949,7 +9949,7 @@
  trans_en: (with ruḥ-) volunteer for a task or service
 
 -lexeme
- lex: mšaqšaqle/mšaqšǝq
+ lex: mšaqšaqle/mšaqšəq
  stem: .š.qš.q.|.š.qš.qq.
  root: šqšq
  gramm: V
@@ -9958,7 +9958,7 @@
  trans_en: [?]
 
 -lexeme
- lex: šqǝṭle/šoqǝṭ
+ lex: šqəṭle/šoqəṭ
  stem: .š.q.ṭ.|.š.q.ṭṭ.
  root: šqṭ
  gramm: V
@@ -9985,7 +9985,7 @@
  trans_en: sharpen
 
 -lexeme
- lex: mašraʕle/mašrǝʕ
+ lex: mašraʕle/mašrəʕ
  stem: .š.r.ʕ.|.š.r.ʕʕ.
  root: šrʕ
  gramm: V
@@ -9994,7 +9994,7 @@
  trans_en: to drop dung
 
 -lexeme
- lex: mšarbaṭle/mšarbǝṭ
+ lex: mšarbaṭle/mšarbəṭ
  stem: .š.rb.ṭ.|.š.rb.ṭṭ.
  root: šrbṭ
  gramm: V
@@ -10012,7 +10012,7 @@
  trans_en: to follow; to run away (?)
 
 -lexeme
- lex: mašrafle/mašrǝf
+ lex: mašrafle/mašrəf
  stem: .š.r.f.|.š.r.ff.
  root: šrf
  gramm: V
@@ -10021,7 +10021,7 @@
  trans_en: to drop excrements (birds)
 
 -lexeme
- lex: šrǝḥle/šorǝḥ
+ lex: šrəḥle/šorəḥ
  stem: .š.r.ḥ.|.š.r.ḥḥ.
  root: šrḥ
  gramm: V
@@ -10030,7 +10030,7 @@
  trans_en: to clarify; to analyze
 
 -lexeme
- lex: mšarakle/mšarǝk
+ lex: mšarakle/mšarək
  stem: .š.r.k.|.š.r.kk.
  root: šrk
  gramm: V
@@ -10039,7 +10039,7 @@
  trans_en: to take part
 
 -lexeme
- lex: mšarmaṭle/mšarmǝṭ
+ lex: mšarmaṭle/mšarməṭ
  stem: .š.rm.ṭ.|.š.rm.ṭṭ.
  root: šrmṭ
  gramm: V
@@ -10048,7 +10048,7 @@
  trans_en: to tear off without the root; abrade
 
 -lexeme
- lex: mašraqle/mašrǝq
+ lex: mašraqle/mašrəq
  stem: .š.r.q.|.š.r.qq.
  root: šrq
  gramm: V
@@ -10057,7 +10057,7 @@
  trans_en: to whistle; to blow (wind)
 
 -lexeme
- lex: mšarqamle/mšarqǝm
+ lex: mšarqamle/mšarqəm
  stem: .š.rq.m.|.š.rq.mm.
  root: šrqm
  gramm: V
@@ -10075,7 +10075,7 @@
  trans_en: to take apart; to dismantle; to unravel
 
 -lexeme
- lex: šriṭ/mǝšrǝṭ
+ lex: šriṭ/məšrəṭ
  stem: .š.r.ṭ.|.š.r.ṭṭ.
  root: šrṭ
  gramm: V
@@ -10084,7 +10084,7 @@
  trans_en: to untwine; to become undone; to roll out
 
 -lexeme
- lex: mšaraṭle/mšarǝṭ
+ lex: mšaraṭle/mšarəṭ
  stem: .š.r.ṭ.|.š.r.ṭṭ.
  root: šrṭ
  gramm: V
@@ -10120,7 +10120,7 @@
  trans_en: to unfasten
 
 -lexeme
- lex: mǝštaʕele/mǝštaʕe
+ lex: məštaʕele/məštaʕe
  stem: .št.ʕ.y.|.št.ʕ.
  root: štʕy
  gramm: V
@@ -10129,7 +10129,7 @@
  trans_en: to play
 
 -lexeme
- lex: mǝštahele/mǝštahe
+ lex: məštahele/məštahe
  stem: .št.h.y.|.št.h.|.št.h.yy.|.št.hh.
  root: šthy
  gramm: V
@@ -10138,7 +10138,7 @@
  trans_en: to desire
 
 -lexeme
- lex: štile/šotǝl
+ lex: štile/šotəl
  stem: .š.t.l.|.š.t.|.š.t.n.|.š.t.ll.|.š.tt.|.š.t.nn.
  root: štl
  gramm: V
@@ -10147,7 +10147,7 @@
  trans_en: to make a new thing out of an old one
 
 -lexeme
- lex: mǝštamaʕle/mǝštamǝʕ
+ lex: məštamaʕle/məštaməʕ
  stem: .št.m.ʕ.|.ǧt.m.ʕ.|.št.m.ʕʕ.|.ǧt.m.ʕʕ.
  root: štmʕ
  gramm: V
@@ -10165,7 +10165,7 @@
  trans_en: to drink; to smoke
 
 -lexeme
- lex: šṭǝfle/šoṭǝf
+ lex: šṭəfle/šoṭəf
  stem: .š.ṭ.f.|.š.ṭ.ff.
  root: šṭf
  gramm: V
@@ -10183,7 +10183,7 @@
  trans_en: to tear; to cut; to split
 
 -lexeme
- lex: šṭǝḥle/šoṭǝḥ
+ lex: šṭəḥle/šoṭəḥ
  stem: .š.ṭ.ḥ.|.š.ṭ.ḥḥ.
  root: šṭḥ
  gramm: V
@@ -10192,7 +10192,7 @@
  trans_en: to stretch
 
 -lexeme
- lex: mšawdǝʕ/mišawdǝʕ
+ lex: mšawdəʕ/mišawdəʕ
  stem: .š.wd.ʕ.|.š.wd.ʕʕ.
  root: šwdʕ
  gramm: V
@@ -10201,7 +10201,7 @@
  trans_en: to feel disgusted
 
 -lexeme
- lex: mšawlǝq/mišawlǝq
+ lex: mšawləq/mišawləq
  stem: .š.wl.q.|.š.wl.qq.
  root: šwlq
  gramm: V
@@ -10210,7 +10210,7 @@
  trans_en: to get sunburnt and get a new skin as the result
 
 -lexeme
- lex: mšawalle/mšawǝr
+ lex: mšawalle/mšawər
  stem: .š.w.r.|.š.w.l.|.š.w.n.|.š.w.rr.|.š.w.ll.|.š.w.nn.
  root: šwr
  gramm: V
@@ -10219,7 +10219,7 @@
  trans_en: to ask for advice from (b-) smb.
 
 -lexeme
- lex: šwǝšle/šowǝš
+ lex: šwəšle/šowəš
  stem: .š.w.š.|.š.š.|.š.w.šš.|.š.šš.
  root: šwš
  gramm: V
@@ -10255,7 +10255,7 @@
  trans_en: to be worthy of (l-) smth.
 
 -lexeme
- lex: šǝʕle/šoyǝʕ
+ lex: šəʕle/šoyəʕ
  stem: .š.y.ʕ.|.š.ʕ.|.š.ʕʕ.
  root: šyʕ
  gramm: V
@@ -10273,7 +10273,7 @@
  trans_en: to send
 
 -lexeme
- lex: šayǝb/šoyǝb
+ lex: šayəb/šoyəb
  stem: .š.y.b.|.š.b.|.š.bb.
  root: šyb
  gramm: V
@@ -10282,7 +10282,7 @@
  trans_en: to not become ripe
 
 -lexeme
- lex: šǝfle/šoyǝf
+ lex: šəfle/šoyəf
  stem: .š.y.f.|.š.f.|.š.ff.
  root: šyf
  gramm: V
@@ -10291,7 +10291,7 @@
  trans_en: to rub; to massage; to brood; to break up
 
 -lexeme
- lex: mašǝġle/mašǝġ
+ lex: mašəġle/mašəġ
  stem: .š.ġ.|.š.ġġ.
  root: šyġ
  gramm: V
@@ -10300,7 +10300,7 @@
  trans_en: to wash; to bathe
 
 -lexeme
- lex: mašǝkle/mašǝk
+ lex: mašəkle/mašək
  stem: .š.k.|.š.kk.
  root: šyk
  gramm: V
@@ -10309,7 +10309,7 @@
  trans_en: to notice
 
 -lexeme
- lex: mšayele/mšayǝl
+ lex: mšayele/mšayəl
  stem: .š.y.l.|.š.y.|.š.y.n.|.š.y.ll.|.š.yy.|.š.y.nn.
  root: šyl
  gramm: V
@@ -10318,7 +10318,7 @@
  trans_en: to ask smb. (akk; m-) about (ʕal) smth.
 
 -lexeme
- lex: mašele/mašǝl
+ lex: mašele/mašəl
  stem: .š.l.|.š.|.š.n.|.š.ll.|.šš.|.š.nn.
  root: šyl
  gramm: V
@@ -10336,7 +10336,7 @@
  trans_en: to split; to crack
 
 -lexeme
- lex: šǝlle(šayǝr)/šoyǝr
+ lex: šəlle(šayər)/šoyər
  stem: .š.y.r.|.š.r.|.š.l.|.š.y.n.|.š.n.|.š.y.rr.|.š.rr.|.š.y.ll.|.š.ll.|.š.y.nn.|.š.nn.
  root: šyr
  gramm: V
@@ -10345,7 +10345,7 @@
  trans_en: to slip
 
 -lexeme
- lex: mašǝlle/mašǝr
+ lex: mašəlle/mašər
  stem: .š.r.|.š.l.|.š.n.|.š.rr.|.š.ll.|.š.nn.
  root: šyr
  gramm: V
@@ -10354,7 +10354,7 @@
  trans_en: to give advice
 
 -lexeme
- lex: mašǝlle/mašǝr
+ lex: mašəlle/mašər
  stem: .š.r.|.š.l.|.š.n.|.š.rr.|.š.ll.|.š.nn.
  root: šyr
  gramm: V
@@ -10363,7 +10363,7 @@
  trans_en: to believe
 
 -lexeme
- lex: mšayrǝz/mišayrǝz
+ lex: mšayrəz/mišayrəz
  stem: .š.yr.z.|.š.yr.zz.
  root: šyrz
  gramm: V
@@ -10372,7 +10372,7 @@
  trans_en: to be glued
 
 -lexeme
- lex: šayǝṭ/šoyǝṭ
+ lex: šayəṭ/šoyəṭ
  stem: .š.y.ṭ.|.š.ṭ.|.š.ṭṭ.
  root: šyṭ
  gramm: V
@@ -10381,7 +10381,7 @@
  trans_en: to become brown (from sun); to glide; to speak a lot
 
 -lexeme
- lex: mǝtʔahele/mǝtʔahǝl
+ lex: mətʔahele/mətʔahəl
  stem: .tʔ.h.l.|.tʔ.h.|.tʔ.h.n.|.tʔ.h.ll.|.tʔ.hh.|.tʔ.h.nn.
  root: tʔhl
  gramm: V
@@ -10390,7 +10390,7 @@
  trans_en: to welcome
 
 -lexeme
- lex: mǝtʔasafle/mǝtʔasǝf
+ lex: mətʔasafle/mətʔasəf
  stem: .tʔ.s.f.|.tʔ.s.ff.
  root: tʔsf
  gramm: V
@@ -10399,7 +10399,7 @@
  trans_en: to regret
 
 -lexeme
- lex: mǝtʔaṯalle/mǝtʔaṯǝr
+ lex: mətʔaṯalle/mətʔaṯər
  stem: .tʔ.ṯ.r.|.tʔ.ṯ.l.|.tʔ.ṯ.n.|.tʔ.ṯ.rr.|.tʔ.ṯ.ll.|.tʔ.ṯ.nn.
  root: tʔṯr
  gramm: V
@@ -10408,7 +10408,7 @@
  trans_en: to become sad, worried
 
 -lexeme
- lex: taʕǝb/toʕǝb
+ lex: taʕəb/toʕəb
  stem: .t.ʕ.b.|.t.ʕ.bb.
  root: tʕb
  gramm: V
@@ -10417,7 +10417,7 @@
  trans_en: to become tired; to endeavor
 
 -lexeme
- lex: mǝtʕadele/mǝtʕade
+ lex: mətʕadele/mətʕade
  stem: .tʕ.d.y.|.tʕ.d.|.tʕ.d.yy.|.tʕ.dd.
  root: tʕdy
  gramm: V
@@ -10435,7 +10435,7 @@
  trans_en: to be surprised; to wonder
 
 -lexeme
- lex: mtaʕmažle/mtaʕmǝž
+ lex: mtaʕmažle/mtaʕməž
  stem: .t.ʕm.ž.|.t.ʕm.žž.
  root: tʕmž
  gramm: V
@@ -10444,7 +10444,7 @@
  trans_en: to say "taʕmiž" in a game
 
 -lexeme
- lex: mtaʕǝn/mitaʕǝn
+ lex: mtaʕən/mitaʕən
  stem: .t.ʕ.n.|.t.ʕ.l.|.ṭ.ʕ.n.|.ṭ.ʕ.l.|.t.ʕ.nn.|.t.ʕ.ll.|.ṭ.ʕ.nn.|.ṭ.ʕ.ll.
  root: tʕn
  gramm: V
@@ -10453,7 +10453,7 @@
  trans_en: take smth. to heart
 
 -lexeme
- lex: tbǝʕle/tobǝʕ
+ lex: tbəʕle/tobəʕ
  stem: .t.b.ʕ.|.t.b.ʕʕ.
  root: tbʕ
  gramm: V
@@ -10480,7 +10480,7 @@
  trans_en: to shatter, to crush
 
 -lexeme
- lex: mǝtbaraʕle/mǝtbarǝʕ
+ lex: mətbaraʕle/mətbarəʕ
  stem: .tb.r.ʕ.|.tb.r.ʕʕ.
  root: tbrʕ
  gramm: V
@@ -10489,7 +10489,7 @@
  trans_en: to break away
 
 -lexeme
- lex: mtabǝt/mitabǝt
+ lex: mtabət/mitabət
  stem: .t.b.t.|.t.b.tt.
  root: tbt
  gramm: V
@@ -10498,7 +10498,7 @@
  trans_en: to have peace; to rest
 
 -lexeme
- lex: mǝtfahamle/mǝtfahǝm
+ lex: mətfahamle/mətfahəm
  stem: .tf.h.m.|.tf.h.mm.
  root: tfhm
  gramm: V
@@ -10507,7 +10507,7 @@
  trans_en: to communicate; to agree
 
 -lexeme
- lex: tfǝkle/tofǝk
+ lex: tfəkle/tofək
  stem: .t.f.k.|.t.f.q.|.t.f.kk.|.t.f.qq.
  root: tfk/tfq
  gramm: V
@@ -10516,7 +10516,7 @@
  trans_en: to hit; to push
 
 -lexeme
- lex: mǝtfakalle/mǝtfakǝr
+ lex: mətfakalle/mətfakər
  stem: .tf.k.r.|.tf.k.l.|.tf.k.n.|.tf.k.rr.|.tf.k.ll.|.tf.k.nn.
  root: tfkr
  gramm: V
@@ -10525,7 +10525,7 @@
  trans_en: to think; to ponder
 
 -lexeme
- lex: tfǝqle/tofǝq
+ lex: tfəqle/tofəq
  stem: .t.f.q.|.t.f.qq.
  root: tfq
  gramm: V
@@ -10533,7 +10533,7 @@
  trans_de: stossen; treffen, antreffen, begegnen
 
 -lexeme
- lex: tfǝsle/tofǝs
+ lex: tfəsle/tofəs
  stem: .t.f.s.|.t.f.ss.
  root: tfs
  gramm: V
@@ -10542,7 +10542,7 @@
  trans_en: to block
 
 -lexeme
- lex: mǝtǧaballe/mǝtǧabǝr
+ lex: mətǧaballe/mətǧabər
  stem: .tǧ.b.r.|.tǧ.b.l.|.tǧ.b.n.|.tǧ.b.rr.|.tǧ.b.ll.|.tǧ.b.nn.
  root: tǧbr
  gramm: V
@@ -10551,7 +10551,7 @@
  trans_en: to become arrogant
 
 -lexeme
- lex: mtahtahle/mtahtǝh
+ lex: mtahtahle/mtahtəh
  stem: .t.ht.h.|.t.ht.hh.
  root: thth
  gramm: V
@@ -10560,7 +10560,7 @@
  trans_en: to drive apart
 
 -lexeme
- lex: mtaḥmele/mtaḥmǝl
+ lex: mtaḥmele/mtaḥməl
  stem: .t.ḥm.l.|.t.ḥm.|.t.ḥm.n.|.t.ḥm.ll.|.t.ḥmm.|.t.ḥm.nn.
  root: tḥml
  gramm: V
@@ -10569,7 +10569,7 @@
  trans_en: to withstand; to tolerate; to endure
 
 -lexeme
- lex: mtaḥqable/mtaḥqǝb
+ lex: mtaḥqable/mtaḥqəb
  stem: .t.ḥq.b.|.t.ḥq.bb.
  root: tḥqb
  gramm: V
@@ -10578,7 +10578,7 @@
  trans_en: to follow; to watch; to observe
 
 -lexeme
- lex: mtaḥqalle/mtaḥqǝr
+ lex: mtaḥqalle/mtaḥqər
  stem: .t.ḥq.r.|.t.ḥq.l.|.t.ḥq.n.|.t.ḥq.rr.|.t.ḥq.ll.|.t.ḥq.nn.
  root: tḥqr
  gramm: V
@@ -10587,7 +10587,7 @@
  trans_en: to insult
 
 -lexeme
- lex: mtaḥsǝd/mitaḥsǝd
+ lex: mtaḥsəd/mitaḥsəd
  stem: .t.ḥs.d.|.t.ḥs.dd.
  root: tḥsd
  gramm: V
@@ -10596,7 +10596,7 @@
  trans_en: to become envious of (m-) smb. or smth.
 
 -lexeme
- lex: mǝtḥawele/mǝtḥawe
+ lex: mətḥawele/mətḥawe
  stem: .tḥ.w.y.|.tḥ.w.|.tḥ.w.yy.|.tḥ.ww.
  root: tḥwy
  gramm: V
@@ -10605,7 +10605,7 @@
  trans_en: to come back home
 
 -lexeme
- lex: mǝtḥayafle/mǝtḥayǝf
+ lex: mətḥayafle/mətḥayəf
  stem: .tḥ.y.f.|.tḥ.y.ff.
  root: tḥyf
  gramm: V
@@ -10614,7 +10614,7 @@
  trans_en: to regret very much; to be very disappointed
 
 -lexeme
- lex: mǝtkaballe/mǝtkabǝr
+ lex: mətkaballe/mətkabər
  stem: .tk.b.r.|.tk.b.l.|.tk.b.n.|.tk.b.rr.|.tk.b.ll.|.tk.b.nn.
  root: tkbr
  gramm: V
@@ -10623,7 +10623,7 @@
  trans_en: to become arrogant
 
 -lexeme
- lex: mǝtkadalle/mǝtkadǝr
+ lex: mətkadalle/mətkadər
  stem: .tk.d.r.|.tk.d.l.|.tk.d.n.|.tk.d.rr.|.tk.d.ll.|.tk.d.nn.
  root: tkdr
  gramm: V
@@ -10632,7 +10632,7 @@
  trans_en: to grieve
 
 -lexeme
- lex: mǝtkarable/mǝtkarǝb
+ lex: mətkarable/mətkarəb
  stem: .tk.r.b.|.tk.r.bb.
  root: tkrb
  gramm: V
@@ -10641,7 +10641,7 @@
  trans_en: to grieve
 
 -lexeme
- lex: mǝtkaramle/mǝtkarǝm
+ lex: mətkaramle/mətkarəm
  stem: .tk.r.m.|.tk.r.mm.
  root: tkrm
  gramm: V
@@ -10659,7 +10659,7 @@
  trans_en: to sink; to fall
 
 -lexeme
- lex: mǝtkayafle/mǝtkayǝf
+ lex: mətkayafle/mətkayəf
  stem: .tk.y.f.|.tk.y.ff.
  root: tkyf
  gramm: V
@@ -10668,7 +10668,7 @@
  trans_en: to have fun  
 
 -lexeme
- lex: mtakazle/mtakǝz
+ lex: mtakazle/mtakəz
  stem: .t.k.z.|.t.k.zz.
  root: tkz
  gramm: V
@@ -10677,7 +10677,7 @@
  trans_en: to prepare flawlessly
 
 -lexeme
- lex: talǝf/tolǝf
+ lex: taləf/toləf
  stem: .t.l.f.|.t.l.ff.
  root: tlf
  gramm: V
@@ -10704,7 +10704,7 @@
  trans_en: to destroy
 
 -lexeme
- lex: talǝġ/tolǝġ
+ lex: taləġ/toləġ
  stem: .t.l.ġ.|.t.l.ġġ.
  root: tlġ
  gramm: V
@@ -10722,7 +10722,7 @@
  trans_en: to lift; to take off; to cut off; to leave rapidly; to hide; to bury; to catch; to deduct (a sum of money)
 
 -lexeme
- lex: mtambahle/mtambǝh
+ lex: mtambahle/mtambəh
  stem: .t.mb.h.|.t.mb.hh.
  root: tmbh
  gramm: V
@@ -10731,7 +10731,7 @@
  trans-en: to insruct
 
 -lexeme
- lex: tmǝġle/tomǝġ
+ lex: tməġle/toməġ
  stem: .t.m.ġ.|.t.m.ġġ.
  root: tmġ
  gramm: V
@@ -10740,7 +10740,7 @@
  trans_en: to stamp
 
 -lexeme
- lex: mǝtmanele/mǝtmane
+ lex: mətmanele/mətmane
  stem: .tm.n.y.|.tm.n.|.tm.n.yy.|.tm.nn.
  root: tmny
  gramm: V
@@ -10749,7 +10749,7 @@
  trans_en: to wish; to hope
 
 -lexeme
- lex: mtanǝq/mitanǝq
+ lex: mtanəq/mitanəq
  stem: .t.n.q.|.t.n.qq.
  root: tnq
  gramm: V
@@ -10767,7 +10767,7 @@
  trans_en: to say; to react (in negative sentences)
 
 -lexeme
- lex: mǝtnazele/mǝtnazǝl
+ lex: mətnazele/mətnazəl
  stem: .tn.z.l.|.tn.z.|.tn.z.n.|.tn.z.ll.|.tn.zz.|.tn.z.nn.
  root: tnzl
  gramm: V
@@ -10776,7 +10776,7 @@
  trans_en: to deign
 
 -lexeme
- lex: tqile/toqǝl
+ lex: tqile/toqəl
  stem: .t.q.l.|.t.q.|.t.q.n.|.t.q.ll.|.t.qq.|.t.q.nn.
  root: tql
  gramm: V
@@ -10785,7 +10785,7 @@
  trans_en: to weight
 
 -lexeme
- lex: taqǝn/toqǝn
+ lex: taqən/toqən
  stem: .t.q.n.|.t.q.l.|.t.q.nn.|.t.q.ll.
  root: tqn
  gramm: V
@@ -10803,7 +10803,7 @@
  trans_en: to be stuck
 
 -lexeme
- lex: mtarġǝl/mitarġǝl
+ lex: mtarġəl/mitarġəl
  stem: .r.ġ.l.|.r.ġ.ll.
  root: rġl
  gramm: V
@@ -10812,7 +10812,7 @@
  trans_en: to stutter
 
 -lexeme
- lex: mtarǧamle/mtarǧǝm
+ lex: mtarǧamle/mtarǧəm
  stem: .t.rǧ.m.|.t.rǧ.mm.
  root: trǧm
  gramm: V
@@ -10830,7 +10830,7 @@
  trans_en: to ask from (m-) smb.
 
 -lexeme
- lex: mtarakle/mtarǝk
+ lex: mtarakle/mtarək
  stem: .t.r.k.|.t.r.kk.
  root: trk
  gramm: V
@@ -10848,7 +10848,7 @@
  trans_en: to give up; to leave
 
 -lexeme
- lex: mtarpele/mtarpǝl
+ lex: mtarpele/mtarpəl
  stem: .t.rp.l.|.t.rp.|.t.rp.n.|.t.rp.ll.|.t.rpp.|.t.rp.nn.
  root: trpl
  gramm: V
@@ -10857,7 +10857,7 @@
  trans_en: to stumble
 
 -lexeme
- lex: mtaraqle/mtarǝq
+ lex: mtaraqle/mtarəq
  stem: .t.r.q.|.t.r.qq.
  root: trq
  gramm: V
@@ -10866,7 +10866,7 @@
  trans_en: to hammer
 
 -lexeme
- lex: mtarasle/mtarǝs
+ lex: mtarasle/mtarəs
  stem: .t.r.s.|.t.r.ss.
  root: trs
  gramm: V
@@ -10884,7 +10884,7 @@
  trans_en: to become wet
 
 -lexeme
- lex: mtaslamle/mtaslǝm
+ lex: mtaslamle/mtasləm
  stem: .t.sl.m.|.t.sl.mm.
  root: tslm
  gramm: V
@@ -10893,7 +10893,7 @@
  trans_en: to hand over; to transfer
 
 -lexeme
- lex: mtasyalle/mtasyǝr
+ lex: mtasyalle/mtasyər
  stem: .t.sy.r.|.t.sy.l.|.t.sy.n.|.t.sy.rr.|.t.sy.ll.|.t.sy.nn.
  root: tsyr
  gramm: V
@@ -10902,7 +10902,7 @@
  trans_en: to go for a walk
 
 -lexeme
- lex: mǝtšahele/mǝtšahe
+ lex: mətšahele/mətšahe
  stem: .tš.h.y.|.tš.h.|.tš.h.yy.|.tš.hh.
  root: tšhy
  gramm: V
@@ -10911,7 +10911,7 @@
  trans_en: to crave for (l-) smb. or smth.
 
 -lexeme
- lex: mtawable/mtawǝb
+ lex: mtawable/mtawəb
  stem: .t.w.b.|.t.b.|.t.w.bb.|.t.bb.
  root: twb
  gramm: V
@@ -10920,7 +10920,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mtawǝg/mitawǝg
+ lex: mtawəg/mitawəg
  stem: .t.w.g.|.t.w.gg.
  root: twg
  gramm: V
@@ -10929,7 +10929,7 @@
  trans_en: to remain damaged after an injury
 
 -lexeme
- lex: mtawaǧle/mtawǝǧ
+ lex: mtawaǧle/mtawəǧ
  stem: .t.w.ǧ.|.t.w.ǧǧ.
  root: twǧ
  gramm: V
@@ -10938,7 +10938,7 @@
  trans_en: to crown
 
 -lexeme
- lex: mǝtwakele/mǝtwakǝl
+ lex: mətwakele/mətwakəl
  stem: .tw.k.l.|.tw.k.|.tw.k.n.|.tw.k.ll.|.tw.kk.|.tw.k.nn.
  root: twkl
  gramm: V
@@ -10946,7 +10946,7 @@
  trans_de: sich verlassen auf (ʕal)
 
 -lexeme
- lex: mtawlǝʕ/mitawlǝʕ
+ lex: mtawləʕ/mitawləʕ
  stem: .t.wl.ʕ.|.t.wl.ʕʕ.
  root: twlʕ
  gramm: V
@@ -10955,7 +10955,7 @@
  trans_en: to become filled with worms
 
 -lexeme
- lex: mtawlafle/mtawlǝf
+ lex: mtawlafle/mtawləf
  stem: .t.wl.f.|.t.wl.ff.
  root: twlf
  gramm: V
@@ -10964,7 +10964,7 @@
  trans_en: to destroy
 
 -lexeme
- lex: twǝlle/towǝr
+ lex: twəlle/towər
  stem: .t.w.r.|.t.r.|.t.w.l.|.t.w.n.|.t.w.rr.|.t.rr.|.t.w.ll.|.t.w.nn.
  root: twr
  gramm: V
@@ -10982,7 +10982,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mtaxalle/mtaxǝr
+ lex: mtaxalle/mtaxər
  stem: .t.x.r.|.t.x.l.|.t.x.n.|.t.x.rr.|.t.x.ll.|.t.x.nn.
  root: txr
  gramm: V
@@ -10991,7 +10991,7 @@
  trans_en: to withdraw, to step back
 
 -lexeme
- lex: txǝsle/toxǝs
+ lex: txəsle/toxəs
  stem: .t.x.s.|.t.x.ss.
  root: txs
  gramm: V
@@ -11000,7 +11000,7 @@
  trans_en: [?]
 
 -lexeme
- lex: tayǝb/toyǝb
+ lex: tayəb/toyəb
  stem: .t.y.b.|.t.b.|.t.bb.
  root: tyb
  gramm: V
@@ -11009,7 +11009,7 @@
  trans_en: to regret; to repent
 
 -lexeme
- lex: tayǝh/toyǝh
+ lex: tayəh/toyəh
  stem: .t.y.h.|.t.h.|.t.hh.
  root: tyh
  gramm: V
@@ -11018,7 +11018,7 @@
  trans_en: to scatter
 
 -lexeme
- lex: tayǝm/toyǝm
+ lex: tayəm/toyəm
  stem: .t.y.m.|.t.m.|.t.mm.
  root: tym
  gramm: V
@@ -11027,7 +11027,7 @@
  trans_en: to come to an end; to be finished
 
 -lexeme
- lex: tǝqle/toyǝq
+ lex: təqle/toyəq
  stem: .t.y.q.|.t.q.|.t.qq.
  root: tyq
  gramm: V
@@ -11036,7 +11036,7 @@
  trans_en: to burst (tr.)
 
 -lexeme
- lex: mǝtyaqalle/mǝtyaqǝn
+ lex: mətyaqalle/mətyaqən
  stem: .ty.q.n.|.ty.q.l.|.ty.q.nn.|.ty.q.ll.
  root: tyqn
  gramm: V
@@ -11045,7 +11045,7 @@
  trans_en: to believe
 
 -lexeme
- lex: tayǝz/toyǝz
+ lex: tayəz/toyəz
  stem: .t.y.z.|.t.z.|.t.zz.
  root: tyz
  gramm: V
@@ -11054,7 +11054,7 @@
  trans_en: to jump up from sleep
 
 -lexeme
- lex: mtazbaṭle/mtazbǝṭ
+ lex: mtazbaṭle/mtazbəṭ
  stem: .t.zb.ṭ.|.t.zb.ṭṭ.
  root: tzbṭ
  gramm: V
@@ -11063,7 +11063,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mṭaʕamle/mṭaʕǝm
+ lex: mṭaʕamle/mṭaʕəm
  stem: .ṭ.ʕ.m.|.ṭ.ʕ.mm.
  root: ṭʕm
  gramm: V
@@ -11072,7 +11072,7 @@
  trans_en: to graft (a tree, a plant)
 
 -lexeme
- lex: ṭʕǝnle/ṭoʕǝn
+ lex: ṭʕənle/ṭoʕən
  stem: .ṭ.ʕ.n.|.ṭ.ʕ.l.|.ṭ.ʕ.nn.|.ṭ.ʕ.ll.
  root: ṭʕn
  gramm: V
@@ -11090,7 +11090,7 @@
  trans_en: to forgive
 
 -lexeme
- lex: ṭbǝʕle/ṭobǝʕ
+ lex: ṭbəʕle/ṭobəʕ
  stem: .ṭ.b.ʕ.|.ṭ.b.ʕʕ.
  root: ṭbʕ
  gramm: V
@@ -11099,7 +11099,7 @@
  trans_en: to print
 
 -lexeme
- lex: ṭbǝqle/ṭobǝq
+ lex: ṭbəqle/ṭobəq
  stem: .ṭ.b.q.|.ṭ.b.qq.
  root: ṭbq
  gramm: V
@@ -11108,7 +11108,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mṭabaqle/mṭabǝq
+ lex: mṭabaqle/mṭabəq
  stem: .ṭ.b.q.|.ṭ.b.qq.
  root: ṭbq
  gramm: V
@@ -11117,7 +11117,7 @@
  trans_en: to concur; to agree
 
 -lexeme
- lex: ṭbǝxle/ṭobǝx
+ lex: ṭbəxle/ṭobəx
  stem: .ṭ.b.x.|.ṭ.b.xx.
  root: ṭbx
  gramm: V
@@ -11135,7 +11135,7 @@
  trans_en: to go out (fire)
 
 -lexeme
- lex: mṭaġmaġle/mṭaġmǝġ
+ lex: mṭaġmaġle/mṭaġməġ
  stem: .ṭ.ġm.ġ.|.ṭ.ġm.ġġ.
  root: ṭġmġ
  gramm: V
@@ -11144,7 +11144,7 @@
  trans_en: to give an evasive answer
 
 -lexeme
- lex: mṭahalle/mṭahǝr
+ lex: mṭahalle/mṭahər
  stem: .ṭ.h.r.|.ṭ.h.l.|.ṭ.h.n.|.ṭ.h.rr.|.ṭ.h.ll.|.ṭ.h.nn.
  root: ṭhr
  gramm: V
@@ -11153,7 +11153,7 @@
  trans_en: to cut, to trim
 
 -lexeme
- lex: ṭḥǝnle/ṭoḥǝn
+ lex: ṭḥənle/ṭoḥən
  stem: .ṭ.ḥ.n.|.ṭ.ḥ.l.|.ṭ.ḥ.nn.|.ṭ.ḥ.ll.
  root: ṭḥn
  gramm: V
@@ -11162,12 +11162,12 @@
  trans_en: to grind, to mill
 
 -lexeme
- lex: ṭlǝble/ṭolǝb
+ lex: ṭləble/ṭoləb
  stem: .ṭ.l.b.|.ṭ.l.bb.
  root: ṭlb
  gramm: V
  paradigm: V_I
- trans_de: 1) fordern, verlangen, bitten um (mit mi- der Person), beten; 2) (um ein Mädchen) freien, werben, anhalten; 3) (xaṭǝr m-) sich verabschieden von
+ trans_de: 1) fordern, verlangen, bitten um (mit mi- der Person), beten; 2) (um ein Mädchen) freien, werben, anhalten; 3) (xaṭər m-) sich verabschieden von
  trans_en: to ask; to request; ask for smb.'s hand
 
 -lexeme
@@ -11180,7 +11180,7 @@
  trans_en: to request
 
 -lexeme
- lex: mṭalaqle/mṭalǝq
+ lex: mṭalaqle/mṭaləq
  stem: .ṭ.l.q.|.ṭ.l.qq.
  root: ṭlq
  gramm: V
@@ -11189,7 +11189,7 @@
  trans_en: to cast out
 
 -lexeme
- lex: mṭalṭašle/mṭalṭǝš
+ lex: mṭalṭašle/mṭalṭəš
  stem: .ṭ.lṭ.š.|.ṭ.lṭ.šš.
  root: ṭlṭš
  gramm: V
@@ -11198,7 +11198,7 @@
  trans_en: to spread out
 
 -lexeme
- lex: ṭamǝʕ/ṭomǝʕ
+ lex: ṭaməʕ/ṭoməʕ
  stem: .ṭ.m.ʕ.|.ṭ.m.ʕʕ.
  root: ṭmʕ
  gramm: V
@@ -11225,7 +11225,7 @@
  trans_en: to make greedy
 
 -lexeme
- lex: ṭmǝlle/ṭomǝr
+ lex: ṭməlle/ṭomər
  stem: .ṭ.m.r.|.ṭ.m.l.|.ṭ.m.n.|.ṭ.m.rr.|.ṭ.m.ll.|.ṭ.m.nn.
  root: ṭmr
  gramm: V
@@ -11243,7 +11243,7 @@
  trans_en: to cover with earth; to bury
 
 -lexeme
- lex: ṭmǝšle/ṭomǝš
+ lex: ṭməšle/ṭoməš
  stem: .ṭ.m.š.|.ṭ.m.šš.
  root: ṭmš
  gramm: V
@@ -11252,7 +11252,7 @@
  trans_en: to dip
 
 -lexeme
- lex: mṭamaṣle/mṭamǝṣ
+ lex: mṭamaṣle/mṭaməṣ
  stem: .ṭ.m.ṣ.|.ṭ.m.ṣṣ.
  root: ṭmṣ
  gramm: V
@@ -11261,7 +11261,7 @@
  trans_en: to close the eyes
 
 -lexeme
- lex: mṭaqṭaqle/mṭaqṭǝq
+ lex: mṭaqṭaqle/mṭaqṭəq
  stem: .ṭ.qṭ.q.|.ṭ.qṭ.qq.
  root: ṭqṭq
  gramm: V
@@ -11270,7 +11270,7 @@
  trans_en: to knock
 
 -lexeme
- lex: ṭrǝḏle/ṭorǝḏ
+ lex: ṭrəḏle/ṭorəḏ
  stem: .ṭ.r.ḏ.|.ṭ.r.ḏḏ.
  root: ṭrḏ
  gramm: V
@@ -11279,7 +11279,7 @@
  trans_en: to drive away
 
 -lexeme
- lex: ṭrǝfle/ṭorǝf
+ lex: ṭrəfle/ṭorəf
  stem: .ṭ.r.f.|.ṭ.r.ff.
  root: ṭrf
  gramm: V
@@ -11297,7 +11297,7 @@
  trans_en: [?]
 
 -lexeme
- lex: ṭrǝḥle/ṭorǝḥ
+ lex: ṭrəḥle/ṭorəḥ
  stem: .ṭ.r.ḥ.|.ṭ.r.ḥḥ.
  root: ṭrḥ
  gramm: V
@@ -11324,7 +11324,7 @@
  trans_en: to give a premature birth
 
 -lexeme
- lex: mṭarpažle/mṭarpǝž
+ lex: mṭarpažle/mṭarpəž
  stem: .ṭ.rp.ž.|.ṭ.rp.žž.
  root: ṭrpž
  gramm: V
@@ -11333,7 +11333,7 @@
  trans_en: to hit; to strike
 
 -lexeme
- lex: ṭrǝṣle/ṭorǝṣ
+ lex: ṭrəṣle/ṭorəṣ
  stem: .ṭ.r.ṣ.|.ṭ.r.ṣṣ.
  root: ṭrṣ
  gramm: V
@@ -11351,7 +11351,7 @@
  trans_en: to roll around (intr.)
 
 -lexeme
- lex: mṭarṭamle/mṭarṭǝm
+ lex: mṭarṭamle/mṭarṭəm
  stem: .ṭ.rṭ.m.|.ṭ.rṭ.mm.
  root: ṭrṭm
  gramm: V
@@ -11377,7 +11377,7 @@
  trans_de: laufen, sausen, galoppieren lassen
 
 -lexeme
- lex: ṭawǝʕ/ṭowǝʕ
+ lex: ṭawəʕ/ṭowəʕ
  stem: .ṭ.w.ʕ.|.ṭ.ʕ.|.ṭ.w.ʕʕ.|.ṭ.ʕʕ.
  root: ṭwʕ
  gramm: V
@@ -11386,7 +11386,7 @@
  trans_en: to fall asleep; to set (sun)
 
 -lexeme
- lex: mṭawele/mṭawǝl
+ lex: mṭawele/mṭawəl
  stem: .ṭ.w.l.|.ṭ.w.|.ṭ.w.n.|.ṭ.w.ll.|.ṭ.ww.|.ṭ.w.nn.
  root: ṭwl
  gramm: V
@@ -11395,7 +11395,7 @@
  trans_en: to stable
 
 -lexeme
- lex: mṭawele/mṭawǝl
+ lex: mṭawele/mṭawəl
  stem: .ṭ.w.l.|.ṭ.l.|.ṭ.w.ll.|.ṭ.ll.
  root: ṭwl
  gramm: V
@@ -11430,7 +11430,7 @@
  trans_en: to fry
 
 -lexeme
- lex: maṭǝʕle/maṭǝʕ
+ lex: maṭəʕle/maṭəʕ
  stem: .ṭ.y.ʕ.|.ṭ.ʕ.|.ṭ.y.ʕʕ.|.ṭ.ʕʕ.
  root: ṭyʕ
  gramm: V
@@ -11439,7 +11439,7 @@
  trans_en: to obey to (l-) smb.
 
 -lexeme
- lex: ṭayǝf/ṭoyǝf
+ lex: ṭayəf/ṭoyəf
  stem: .ṭ.y.f.|.ṭ.f.|.ṭ.ff.
  root: ṭyf
  gramm: V
@@ -11448,7 +11448,7 @@
  trans_en: to overflow
 
 -lexeme
- lex: ṭǝmle/ṭoyǝm
+ lex: ṭəmle/ṭoyəm
  stem: .ṭ.y.m.|.ṭ.m.|.ṭ.mm.
  root: ṭym
  gramm: V
@@ -11457,7 +11457,7 @@
  trans_en: to close the eyes
 
 -lexeme
- lex: ṭayǝr/ṭoyǝr
+ lex: ṭayər/ṭoyər
  stem: .ṭ.y.r.|.ṭ.r.|.ṭ.rr.
  root: ṭyr
  gramm: V
@@ -11466,7 +11466,7 @@
  trans_en: to fly, to fly up
 
 -lexeme
- lex: ṭǝšle/ṭoyǝš
+ lex: ṭəšle/ṭoyəš
  stem: .ṭ.y.š.|.ṭ.š.|.ṭ.šš.
  root: ṭyš
  gramm: V
@@ -11475,7 +11475,7 @@
  trans_en: to coat; to soap
 
 -lexeme
- lex: mṯabatle/mṯabǝt
+ lex: mṯabatle/mṯabət
  stem: .ṯ.b.t.|.ṯ.b.tt.
  root: ṯbt
  gramm: V
@@ -11493,7 +11493,7 @@
  trans_en: to show; to prove
 
 -lexeme
- lex: ṯkǝlle/ṯokǝr
+ lex: ṯkəlle/ṯokər
  stem: .ṯ.k.r.|.ṯ.k.l.|.ṯ.k.n.|.ṯ.k.rr.|.ṯ.k.ll.|.ṯ.k.nn.
  root: ṯkr
  gramm: V
@@ -11511,7 +11511,7 @@
  trans_en: to mention; to remember
 
 -lexeme
- lex: ṯniḥ/mǝṯnǝḥ
+ lex: ṯniḥ/məṯnəḥ
  stem: .ṯ.n.ḥ.|.ṯ.n.ḥḥ.
  root: ṯnḥ
  gramm: V
@@ -11538,7 +11538,7 @@
  trans_en: to do for the second time
 
 -lexeme
- lex: mvarvalle/mvarvǝn
+ lex: mvarvalle/mvarvən
  stem: .v.rv.n.|.v.rv.l.|.v.rv.nn.|.v.rv.ll.
  root: vrvn
  gramm: V
@@ -11547,7 +11547,7 @@
  trans_en: to throw
 
 -lexeme
- lex: mvayaʕle/mvayǝʕ
+ lex: mvayaʕle/mvayəʕ
  stem: .v.y.ʕ.|.v.ʕ.|.v.y.ʕʕ.|.v.ʕʕ.
  root: vyʕ
  gramm: V
@@ -11556,7 +11556,7 @@
  trans_en: to lose
 
 -lexeme
- lex: mwaʕadle/mwaʕǝd
+ lex: mwaʕadle/mwaʕəd
  stem: .w.ʕ.d.|.w.ʕ.dd.
  root: wʕd
  gramm: V
@@ -11565,7 +11565,7 @@
  trans_en: to promise; to agree
 
 -lexeme
- lex: mwabaxle/mwabǝx
+ lex: mwabaxle/mwabəx
  stem: .w.b.x.|.w.b.xx.
  root: wbx
  gramm: V
@@ -11574,7 +11574,7 @@
  trans_en: to provide
 
 -lexeme
- lex: mwadaʕle/mwadǝʕ
+ lex: mwadaʕle/mwadəʕ
  stem: .w.d.ʕ.|.w.d.ʕʕ.
  root: wdʕ
  gramm: V
@@ -11583,7 +11583,7 @@
  trans_en: to say goodbye; to see off
 
 -lexeme
- lex: mwad̞aḥle/mwad̞ǝḥ
+ lex: mwad̞aḥle/mwad̞əḥ
  stem: .w.d̞.ḥ.|.w.d̞.ḥḥ.
  root: wd̞ḥ
  gramm: V
@@ -11592,7 +11592,7 @@
  trans_en: to explain
 
 -lexeme
- lex: mwafaqle/mwafǝq
+ lex: mwafaqle/mwafəq
  stem: .w.f.q.|.w.f.qq.
  root: wfq
  gramm: V
@@ -11609,7 +11609,7 @@
  trans_en: to have success, to have suppport
 
 -lexeme
- lex: mwaǧahle/mwaǧǝh
+ lex: mwaǧahle/mwaǧəh
  stem: .w.ǧ.h.|.w.ǧ.hh.
  root: wǧh
  gramm: V
@@ -11618,7 +11618,7 @@
  trans_en: to clean up
 
 -lexeme
- lex: mwakele/mwakǝl
+ lex: mwakele/mwakəl
  stem: .w.k.l.|.w.k.|.w.k.n.|.w.k.ll.|.w.kk.|.w.k.nn.
  root: wkl
  gramm: V
@@ -11627,7 +11627,7 @@
  trans_en: to delegate; to assign
 
 -lexeme
- lex: mwaladle/mwalǝd
+ lex: mwaladle/mwaləd
  stem: .w.l.d.|.w.l.dd.
  root: wld
  gramm: V
@@ -11645,7 +11645,7 @@
  trans_en: to be born
 
 -lexeme
- lex: mwalwele/mwalwǝl
+ lex: mwalwele/mwalwəl
  stem: .w.lw.l.|.w.lw.|.w.lw.n.|.w.lw.ll.|.w.lww.|.w.lw.nn.
  root: wlwl
  gramm: V
@@ -11654,7 +11654,7 @@
  trans_en: to lament
 
 -lexeme
- lex: mwanasle/mwanǝs
+ lex: mwanasle/mwanəs
  stem: .w.n.s.|.w.n.ss.
  root: wns
  gramm: V
@@ -11663,7 +11663,7 @@
  trans_en: to entertain
 
 -lexeme
- lex: mwarable/mwarǝb
+ lex: mwarable/mwarəb
  stem: .w.r.b.|.w.r.bb.
  root: wrb
  gramm: V
@@ -11672,7 +11672,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mwaraṭle/mwarǝṭ
+ lex: mwaraṭle/mwarəṭ
  stem: .w.r.ṭ.|.w.r.ṭṭ.
  root: wrṭ
  gramm: V
@@ -11681,7 +11681,7 @@
  trans_en: to cheat, to deceive
 
 -lexeme
- lex: mwaṣafle/mwaṣǝf
+ lex: mwaṣafle/mwaṣəf
  stem: .w.ṣ.f.|.w.ṣ.ff.
  root: wṣf
  gramm: V
@@ -11690,7 +11690,7 @@
  trans_en: to praise; to honour
 
 -lexeme
- lex: mwaṣele/mwaṣǝl
+ lex: mwaṣele/mwaṣəl
  stem: .w.ṣ.l.|.w.ṣ.|.w.ṣ.n.|.w.ṣ.ll.|.w.ṣṣ.|.w.ṣ.nn.
  root: wṣl
  gramm: V
@@ -11726,7 +11726,7 @@
  trans_en: to whisper
 
 -lexeme
- lex: mǝttafaqle/mǝttafǝq
+ lex: məttafaqle/məttafəq
  stem: .tt.f.q.|.tt.f.qq.
  root: ttfq
  gramm: V
@@ -11744,7 +11744,7 @@
  trans_en: to be late
 
 -lexeme
- lex: mxaballe/mxabǝr
+ lex: mxaballe/mxabər
  stem: .x.b.r.|.x.b.l.|.x.b.n.|.x.b.rr.|.x.b.ll.|.x.b.nn.
  root: xbr
  gramm: V
@@ -11753,7 +11753,7 @@
  trans_en: to report
 
 -lexeme
- lex: mxabaṭle/mxabǝṭ
+ lex: mxabaṭle/mxabəṭ
  stem: .x.b.ṭ.|.x.b.ṭṭ.
  root: xbṭ
  gramm: V
@@ -11762,7 +11762,7 @@
  trans_en: to search; to dig; to rummage
 
 -lexeme
- lex: xdǝmle/xodǝm
+ lex: xdəmle/xodəm
  stem: .x.d.m.|.x.d.mm.
  root: xdm
  gramm: V
@@ -11771,7 +11771,7 @@
  trans_en: to serve
 
 -lexeme
- lex: xfis/mǝxfǝs
+ lex: xfis/məxfəs
  stem: .x.f.s.|.x.f.ss.
  root: xfs
  gramm: V
@@ -11780,7 +11780,7 @@
  trans_en: to collapse
 
 -lexeme
- lex: mxažele/mxažǝl
+ lex: mxažele/mxažəl
  stem: .x.ž.l.|.x.ž.|.x.ž.n.|.x.ž.ll.|.x.žž.|.x.ž.nn.
  root: xžl
  gramm: V
@@ -11789,7 +11789,7 @@
  trans_en: to shame
 
 -lexeme
- lex: maxlaʕle/maxlǝʕ
+ lex: maxlaʕle/maxləʕ
  stem: .x.l.ʕ.|.x.l.ʕʕ.
  root: xlʕ
  gramm: V
@@ -11798,7 +11798,7 @@
  trans_en: to make a present
 
 -lexeme
- lex: xlǝdle/xolǝd
+ lex: xlədle/xoləd
  stem: .x.l.d.|.x.l.dd.
  root: xld
  gramm: V
@@ -11807,7 +11807,7 @@
  trans_en: to rummage
 
 -lexeme
- lex: mxalafle/mxalǝf
+ lex: mxalafle/mxaləf
  stem: .x.l.f.|.x.l.ff.
  root: xlf
  gramm: V
@@ -11825,7 +11825,7 @@
  trans_en: to produce
 
 -lexeme
- lex: xlǝqle/xolǝq
+ lex: xləqle/xoləq
  stem: .x.l.q.|.x.l.qq.
  root: xlq
  gramm: V
@@ -11834,7 +11834,7 @@
  trans_en: to create
 
 -lexeme
- lex: xalǝṣ/xolǝṣ
+ lex: xaləṣ/xoləṣ
  stem: .x.l.ṣ.|.x.l.ṣṣ.
  root: xlṣ
  gramm: V
@@ -11843,7 +11843,7 @@
  trans_en: to be finished; to come to an end; to be released; to escape; to come by
 
 -lexeme
- lex: xlǝṭle/xolǝṭ
+ lex: xləṭle/xoləṭ
  stem: .x.l.ṭ.|.x.l.ṭṭ.
  root: xlṭ
  gramm: V
@@ -11852,7 +11852,7 @@
  trans_en: to mix
 
 -lexeme
- lex: mxalxele/mxalxǝl
+ lex: mxalxele/mxalxəl
  stem: .x.lx.l.|.x.lx.|.x.lx.n.|.x.lx.ll.|.x.lxx.|.x.lx.nn.
  root: xlxl
  gramm: V
@@ -11870,7 +11870,7 @@
  trans_en: to become empty, to become vacant
 
 -lexeme
- lex: xamǝd/xomǝd
+ lex: xaməd/xoməd
  stem: .x.m.d.|.x.m.dd.
  root: xmd
  gramm: V
@@ -11879,7 +11879,7 @@
  trans_en: to char; to become extinguished
 
 -lexeme
- lex: mxamele/mxamǝl
+ lex: mxamele/mxaməl
  stem: .x.m.l.|.x.m.|.x.m.n.|.x.m.ll.|.x.mm.|.x.m.nn.
  root: xml
  gramm: V
@@ -11888,7 +11888,7 @@
  trans_en: to dress up; to adorn
 
 -lexeme
- lex: mxamxamle/mxamxǝm
+ lex: mxamxamle/mxamxəm
  stem: .x.mx.m.|.x.mx.mm.
  root: xmxm
  gramm: V
@@ -11897,7 +11897,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mxanǧalle/mxanǧǝr
+ lex: mxanǧalle/mxanǧər
  stem: .x.nǧ.r.|.x.nǧ.l.|.x.nǧ.n.|.x.nǧ.rr.|.x.nǧ.ll.|.x.nǧ.nn.
  root: xnǧr
  gramm: V
@@ -11906,7 +11906,7 @@
  trans_en: to stab
 
 -lexeme
- lex: mxanxele/mxanxǝl
+ lex: mxanxele/mxanxəl
  stem: .x.nx.l.|.x.nx.|.x.nx.n.|.x.nx.ll.|.x.nxx.|.x.nx.nn.
  root: xnxl
  gramm: V
@@ -11924,7 +11924,7 @@
  trans_en: to swell
 
 -lexeme
- lex: mxapalle/mxapǝr
+ lex: mxapalle/mxapər
  stem: .x.p.r.|.x.p.l.|.x.p.n.|.x.p.rr.|.x.p.ll.|.x.p.nn.
  root: xpr
  gramm: V
@@ -11933,7 +11933,7 @@
  trans_en: to dig up
 
 -lexeme
- lex: xapǝs/xopǝs
+ lex: xapəs/xopəs
  stem: .x.p.s.|.x.p.ss.
  root: xps
  gramm: V
@@ -11951,7 +11951,7 @@
  trans_en: to cheat, to deceit
 
 -lexeme
- lex: mxarbaqle/mxarbǝq
+ lex: mxarbaqle/mxarbəq
  stem: .x.rb.q.|.x.rb.qq.
  root: xrbq
  gramm: V
@@ -11960,7 +11960,7 @@
  trans_en: to disarrange; to mix up; to tie a knot
 
 -lexeme
- lex: mxarbaṭle/mxarbǝṭ
+ lex: mxarbaṭle/mxarbəṭ
  stem: .x.rb.ṭ.|.x.rb.ṭṭ.
  root: xrbṭ
  gramm: V
@@ -11969,7 +11969,7 @@
  trans_en: to disarrange; to mix up
 
 -lexeme
- lex: maxrafle/maxrǝf
+ lex: maxrafle/maxrəf
  stem: .x.r.f.|.x.r.ff.
  root: xrf
  gramm: V
@@ -11978,7 +11978,7 @@
  trans_en: to behave in a childish manner
 
 -lexeme
- lex: mxarfašle/mxarfǝš
+ lex: mxarfašle/mxarfəš
  stem: .x.rf.š.|.x.rf.šš.
  root: xrfš
  gramm: V
@@ -12015,7 +12015,7 @@
  trans_en: to spend; to exhaust
 
 -lexeme
- lex: xrǝmle/xorǝm
+ lex: xrəmle/xorəm
  stem: .x.r.m.|.x.r.mm.
  root: xrm
  gramm: V
@@ -12033,7 +12033,7 @@
  trans_en: to scratch
 
 -lexeme
- lex: xarǝq/xorǝq
+ lex: xarəq/xorəq
  stem: .x.r.q.|.x.r.qq.
  root: xrq
  gramm: V
@@ -12051,7 +12051,7 @@
  trans_en: [?]
 
 -lexeme
- lex: xrǝṭle/xorǝṭ
+ lex: xrəṭle/xorəṭ
  stem: .x.r.ṭ.|.x.r.ṭṭ.
  root: xrṭ
  gramm: V
@@ -12060,7 +12060,7 @@
  trans_en: to scrape
 
 -lexeme
- lex: mxarxalle/mxarxǝr
+ lex: mxarxalle/mxarxər
  stem: .x.rx.r.|.x.rx.l.|.x.rx.n.|.x.rx.rr.|.x.rx.ll.|.x.rx.nn.
  root: xrxr
  gramm: V
@@ -12069,7 +12069,7 @@
  trans_en: to snore
 
 -lexeme
- lex: mxarxaṭle/mxarxǝṭ
+ lex: mxarxaṭle/mxarxəṭ
  stem: .x.rx.ṭ.|.x.rx.ṭṭ.
  root: xrxṭ
  gramm: V
@@ -12078,7 +12078,7 @@
  trans_en: [?]
 
 -lexeme
- lex: xrǝzle/xorǝz
+ lex: xrəzle/xorəz
  stem: .x.r.z.|.x.r.zz.
  root: xrz
  gramm: V
@@ -12087,7 +12087,7 @@
  trans_en: to insert; to stick; to thread; to squeeze
 
 -lexeme
- lex: xaṣǝr/xoṣǝr
+ lex: xaṣər/xoṣər
  stem: .x.ṣ.r.|.x.ṣ.l.|.x.ṣ.n.|.x.ṣ.rr.|.x.ṣ.ll.|.x.ṣ.nn.
  root: xṣr
  gramm: V
@@ -12114,7 +12114,7 @@
  trans_en: to become fat
 
 -lexeme
- lex: mǝxtalafle/mǝxtalǝf
+ lex: məxtalafle/məxtaləf
  stem: .xt.l.f.|.xt.l.ff.
  root: xtlf
  gramm: V
@@ -12123,7 +12123,7 @@
  trans_en: to fall out with smb. about (ʕal) smth.
 
 -lexeme
- lex: mǝxtaraʕle/mǝxtarǝʕ
+ lex: məxtaraʕle/məxtarəʕ
  stem: .xt.r.ʕ.|.xt.r.ʕʕ.
  root: xtrʕ
  gramm: V
@@ -12141,7 +12141,7 @@
  trans_en: to reel; to wobble; to swing
 
 -lexeme
- lex: mxawxaḏle/mxawxǝḏ
+ lex: mxawxaḏle/mxawxəḏ
  stem: .x.wx.ḏ.|.x.wx.ḏḏ.
  root: xwxḏ
  gramm: V
@@ -12150,7 +12150,7 @@
  trans_en: to stir up; to shake
 
 -lexeme
- lex: mxawzaqle/mxawzǝq
+ lex: mxawzaqle/mxawzəq
  stem: .x.wz.q.|.x.wz.qq.
  root: xwzq
  gramm: V
@@ -12159,7 +12159,7 @@
  trans_en: [?]
 
 -lexeme
- lex: xayǝb/xoyǝb
+ lex: xayəb/xoyəb
  stem: .x.y.b.|.x.b.|.x.bb.
  root: xyb
  gramm: V
@@ -12168,7 +12168,7 @@
  trans_en: to become fruitless
 
 -lexeme
- lex: xayǝf/xoyǝf
+ lex: xayəf/xoyəf
  stem: .x.y.f.|.x.f.|.x.ff.
  root: xyf
  gramm: V
@@ -12177,7 +12177,7 @@
  trans_en: to become light; to become easy; to become early; to become quick
 
 -lexeme
- lex: maxǝlle/maxǝn
+ lex: maxəlle/maxən
  stem: .x.n.|.x.l.|.x.nn.|.x.ll.
  root: xyn
  gramm: V
@@ -12186,7 +12186,7 @@
  trans_en: to betray
 
 -lexeme
- lex: xayǝr/xoyǝr
+ lex: xayər/xoyər
  stem: .x.y.r.|.x.r.|.x.l.|.x.y.n.|.x.n.|.x.y.rr.|.x.rr.|.x.y.ll.|.x.ll.|.x.y.nn.|.x.nn.
  root: xyr
  gramm: V
@@ -12195,7 +12195,7 @@
  trans_en: to flow
 
 -lexeme
- lex: maxǝšle/maxǝš
+ lex: maxəšle/maxəš
  stem: .x.š.|.x.šš.
  root: xyš
  gramm: V
@@ -12204,7 +12204,7 @@
  trans_en: to pay (a debt)
 
 -lexeme
- lex: mxazaqle/mxazǝq
+ lex: mxazaqle/mxazəq
  stem: .x.z.q.|.x.z.qq.
  root: xzq
  gramm: V
@@ -12247,7 +12247,7 @@
  trans_en: to pay off; to compensate
 
 -lexeme
- lex: mawžadle/mawžǝd
+ lex: mawžadle/mawžəd
  stem: .w.ž.d.|.ž.d.|.w.ž.dd.|.ž.dd.
  root: yžd
  gramm: V
@@ -12256,7 +12256,7 @@
  trans_en: to stretch; to extend
 
 -lexeme
- lex: yalǝf/yolǝf
+ lex: yaləf/yoləf
  stem: .y.l.f.|.y.l.ff.
  root: ylf
  gramm: V
@@ -12292,7 +12292,7 @@
  trans_en: to make swear
 
 -lexeme
- lex: inǝqle/yonǝq
+ lex: inəqle/yonəq
  stem: .y.n.q.|.n.q.|.y.n.qq.|.n.qq.
  root: ynq
  gramm: V
@@ -12310,7 +12310,7 @@
  trans_en: to suckle
 
 -lexeme
- lex: yaqǝḏ/yoqǝḏ
+ lex: yaqəḏ/yoqəḏ
  stem: .y.q.ḏ.|.y.q.ḏḏ.
  root: yqḏ
  gramm: V
@@ -12328,7 +12328,7 @@
  trans_en: to set on fire; to burn (tr.)
 
 -lexeme
- lex: yaqǝr/yoqǝr
+ lex: yaqər/yoqər
  stem: .y.q.r.|.y.q.l.|.y.q.n.|.y.q.rr.|.y.q.ll.|.y.q.nn.
  root: yqr
  gramm: V
@@ -12346,7 +12346,7 @@
  trans_en: to make slow; to make heavy
 
 -lexeme
- lex: yarǝm/yorǝm
+ lex: yarəm/yorəm
  stem: .y.r.m.|.y.r.mm.
  root: yrm
  gramm: V
@@ -12355,7 +12355,7 @@
  trans_en: to swell
 
 -lexeme
- lex: yarǝq/yorǝq
+ lex: yarəq/yorəq
  stem: .y.r.q.|.y.r.qq.
  root: yrq
  gramm: V
@@ -12418,7 +12418,7 @@
  trans_en: to stretch; to lengthen
 
 -lexeme
- lex: yasǝq/yosǝq
+ lex: yasəq/yosəq
  stem: .y.s.q.|.y.s.qq.
  root: ysq
  gramm: V
@@ -12481,7 +12481,7 @@
  trans_en: to increase
 
 -lexeme
- lex: mzaʕballe/mzaʕbǝr
+ lex: mzaʕballe/mzaʕbər
  stem: .z.ʕb.r.|.z.ʕb.l.|.z.ʕb.n.|.z.ʕb.rr.|.z.ʕb.ll.|.z.ʕb.nn.
  root: zʕbr
  gramm: V
@@ -12490,7 +12490,7 @@
  trans_en: to scold; to berate
 
 -lexeme
- lex: zʕǝfle/zoʕǝf
+ lex: zʕəfle/zoʕəf
  stem: .z.ʕ.f.|.z.ḥ.f.|.z.ʕ.ff.|.z.ḥ.ff.
  root: zʕf/zḥf
  gramm: V
@@ -12508,7 +12508,7 @@
  trans_en: to become thin, to become lean, to become emaciated
 
 -lexeme
- lex: mazʕaqle/mazʕǝq
+ lex: mazʕaqle/mazʕəq
  stem: .z.ʕ.q.|.z.ʕ.qq.
  root: zʕq
  gramm: V
@@ -12517,7 +12517,7 @@
  trans_en: to scream
 
 -lexeme
- lex: mzaʕwaqle/mzaʕwǝq
+ lex: mzaʕwaqle/mzaʕwəq
  stem: .z.ʕw.q.|.z.ʕw.qq.
  root: zʕwq
  gramm: V
@@ -12544,7 +12544,7 @@
  trans_en: to chase away
 
 -lexeme
- lex: mazballe/mazbǝr
+ lex: mazballe/mazbər
  stem: .z.b.r.|.z.b.l.|.z.b.n.|.z.b.rr.|.z.b.ll.|.z.b.nn.
  root: zbr
  gramm: V
@@ -12553,7 +12553,7 @@
  trans_en: to learn by heart
 
 -lexeme
- lex: zbǝṭle/zobǝṭ
+ lex: zbəṭle/zobəṭ
  stem: .z.b.ṭ.|.z.b.ṭṭ.
  root: zbṭ
  gramm: V
@@ -12580,7 +12580,7 @@
  trans_en: [?]
 
 -lexeme
- lex: zġele/zoġǝl
+ lex: zġele/zoġəl
  stem: .z.ġ.l.|.z.ġ.|.z.ġ.n.|.z.ġ.ll.|.z.ġġ.|.z.ġ.nn.
  root: zġl
  gramm: V
@@ -12589,7 +12589,7 @@
  trans_en: to counterfeit by mixing
 
 -lexeme
- lex: mzaġalle/mzaġǝr
+ lex: mzaġalle/mzaġər
  stem: .z.ġ.r.|.z.ġ.l.|.z.ġ.n.|.z.ġ.rr.|.z.ġ.ll.|.z.ġ.nn.
  root: zġr
  gramm: V
@@ -12598,7 +12598,7 @@
  trans_en: to block
 
 -lexeme
- lex: mazhalle/mazhǝr
+ lex: mazhalle/mazhər
  stem: .z.h.r.|.z.h.l.|.z.h.n.|.z.h.rr.|.z.h.ll.|.z.h.nn.
  root: zhr
  gramm: V
@@ -12607,7 +12607,7 @@
  trans_en: to blaze (intr.)
 
 -lexeme
- lex: mzaḥamle/mzaḥǝm
+ lex: mzaḥamle/mzaḥəm
  stem: .z.ḥ.m.|.z.ḥ.mm.
  root: zḥm
  gramm: V
@@ -12616,7 +12616,7 @@
  trans_en: to make stinky, inedible
 
 -lexeme
- lex: mzakzakle/mzakzǝk
+ lex: mzakzakle/mzakzək
  stem: .z.kz.k.|.z.kz.kk.
  root: zkzk
  gramm: V
@@ -12625,7 +12625,7 @@
  trans_en: to stuff
 
 -lexeme
- lex: mzalʕaṭle/mzalʕǝṭ
+ lex: mzalʕaṭle/mzalʕəṭ
  stem: .z.lʕ.ṭ.|.z.lʕ.ṭṭ.
  root: zlʕṭ
  gramm: V
@@ -12634,7 +12634,7 @@
  trans_en: to scratch
 
 -lexeme
- lex: zlǝqle/zolǝq
+ lex: zləqle/zoləq
  stem: .z.l.q.|.z.l.qq.
  root: zlq
  gramm: V
@@ -12643,7 +12643,7 @@
  trans_en: to stick
 
 -lexeme
- lex: zalǝṭ/zolǝṭ
+ lex: zaləṭ/zoləṭ
  stem: .z.l.ṭ.|.z.l.ṭṭ.
  root: zlṭ
  gramm: V
@@ -12652,7 +12652,7 @@
  trans_en: to slide
 
 -lexeme
- lex: mzalṭalle/mzalṭǝn
+ lex: mzalṭalle/mzalṭən
  stem: .z.lṭ.n.|.z.lṭ.l.|.z.lṭ.nn.|.z.lṭ.ll.
  root: zlṭn
  gramm: V
@@ -12661,7 +12661,7 @@
  trans_en: to strip nacked
 
 -lexeme
- lex: mzalzǝq/mizalzǝq
+ lex: mzalzəq/mizalzəq
  stem: .z.lz.q.|.z.lz.qq.
  root: zlzq
  gramm: V
@@ -12670,7 +12670,7 @@
  trans_en: to dangle, to swing
 
 -lexeme
- lex: zmǝlle/zomǝr
+ lex: zməlle/zomər
  stem: .z.m.r.|.z.m.l.|.z.m.n.|.z.m.rr.|.z.m.ll.|.z.m.nn.
  root: zmr
  gramm: V
@@ -12679,7 +12679,7 @@
  trans_en: to sing
 
 -lexeme
- lex: mzanʕalle/mzanʕǝr
+ lex: mzanʕalle/mzanʕər
  stem: .z.nʕ.r.|.z.nʕ.l.|.z.nʕ.n.|.z.nʕ.rr.|.z.nʕ.ll.|.z.nʕ.nn.
  root: znʕr
  gramm: V
@@ -12688,7 +12688,7 @@
  trans_en: to make a hee-haw sound
 
 -lexeme
- lex: mzangǝr/mizangǝr
+ lex: mzangər/mizangər
  stem: .z.ng.r.|.z.ng.l.|.z.ng.n.|.z.ng.rr.|.z.ng.ll.|.z.ng.nn.
  root: zngr
  gramm: V
@@ -12697,7 +12697,7 @@
  trans_en: to rust
 
 -lexeme
- lex: mzanǧalle/mzanǧǝr
+ lex: mzanǧalle/mzanǧər
  stem: .z.nǧ.r.|.z.nǧ.l.|.z.nǧ.n.|.z.nǧ.rr.|.z.nǧ.ll.|.z.nǧ.nn.
  root: znǧr
  gramm: V
@@ -12715,7 +12715,7 @@
  trans_en: to fornicate
 
 -lexeme
- lex: mzanzǝl/mizanzǝl
+ lex: mzanzəl/mizanzəl
  stem: .z.nz.l.|.z.nz.|.z.nz.n.|.z.nz.ll.|.z.nzz.|.z.nz.nn.
  root: znzl
  gramm: V
@@ -12724,7 +12724,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mzapzaple/mzapzǝp
+ lex: mzapzaple/mzapzəp
  stem: .z.pz.p.|.z.pz.pp.
  root: zpzp
  gramm: V
@@ -12733,7 +12733,7 @@
  trans_en: to fill up, to make overflow
 
 -lexeme
- lex: zqǝfle/zoqǝf
+ lex: zqəfle/zoqəf
  stem: .z.q.f.|.z.q.ff.
  root: zqf
  gramm: V
@@ -12742,7 +12742,7 @@
  trans_en: to crucify
 
 -lexeme
- lex: mzaqafle/mzaqǝf
+ lex: mzaqafle/mzaqəf
  stem: .z.q.f.|.z.q.ff.
  root: zqf
  gramm: V
@@ -12751,7 +12751,7 @@
  trans_en: [?]
 
 -lexeme
- lex: zqǝlle/zoqǝr
+ lex: zqəlle/zoqər
  stem: .z.q.r.|.z.q.l.|.z.q.n.|.z.q.rr.|.z.q.ll.|.z.q.nn.
  root: zqr
  gramm: V
@@ -12760,7 +12760,7 @@
  trans_en: to weave
 
 -lexeme
- lex: zqǝṭle/zoqǝṭ
+ lex: zqəṭle/zoqəṭ
  stem: .z.q.ṭ.|.z.q.ṭṭ.
  root: zqṭ
  gramm: V
@@ -12769,7 +12769,7 @@
  trans_en: to drive (tr.)
 
 -lexeme
- lex: zrǝʕle/zorǝʕ
+ lex: zrəʕle/zorəʕ
  stem: .z.r.ʕ.|.z.r.ʕʕ.
  root: zrʕ
  gramm: V
@@ -12778,7 +12778,7 @@
  trans_en: to plant; to sow
 
 -lexeme
- lex: zrǝgle/zorǝg
+ lex: zrəgle/zorəg
  stem: .z.r.g.|.z.r.gg.
  root: zrg
  gramm: V
@@ -12787,7 +12787,7 @@
  trans_en: to throw
 
 -lexeme
- lex: mazraqle/mazrǝq
+ lex: mazraqle/mazrəq
  stem: .z.r.q.|.z.r.qq.
  root: zrq
  gramm: V
@@ -12796,7 +12796,7 @@
  trans_en: to urinate
 
 -lexeme
- lex: mzaraṭle/mzarǝṭ
+ lex: mzaraṭle/mzarəṭ
  stem: .z.r.ṭ.|.z.r.ṭṭ.
  root: zrṭ
  gramm: V
@@ -12805,7 +12805,7 @@
  trans_en: to threaten; to berate
 
 -lexeme
- lex: mzarzǝl/mizarzǝl
+ lex: mzarzəl/mizarzəl
  stem: .z.rz.l.|.z.rz.|.z.rz.n.|.z.rz.ll.|.z.rzz.|.z.rz.nn.
  root: zrzl
  gramm: V
@@ -12814,7 +12814,7 @@
  trans_en: to tatter
 
 -lexeme
- lex: zwǝlle/zowǝn
+ lex: zwəlle/zowən
  stem: .z.w.n.|.z.w.l.|.z.n.|.z.w.nn.|.z.w.ll.|.z.nn.
  root: zwn
  gramm: V
@@ -12832,7 +12832,7 @@
  trans_en: to sell
 
 -lexeme
- lex: mzawaqle/mzawǝq
+ lex: mzawaqle/mzawəq
  stem: .z.w.q.|.z.w.qq.
  root: zwq
  gramm: V
@@ -12850,7 +12850,7 @@
  trans_en: to attach
 
 -lexeme
- lex: zayǝʕ/zoyǝʕ
+ lex: zayəʕ/zoyəʕ
  stem: .z.y.ʕ.|.z.ʕ.|.z.ʕʕ.
  root: zyʕ
  gramm: V
@@ -12859,7 +12859,7 @@
  trans_en: to get scared; to become afraid
 
 -lexeme
- lex: mzayʕafle/mzayʕǝf
+ lex: mzayʕafle/mzayʕəf
  stem: .z.yʕ.f.|.z.yʕ.ff.
  root: zyʕf
  gramm: V
@@ -12868,7 +12868,7 @@
  trans_en: to become weak; to become thin
 
 -lexeme
- lex: zayǝd/zoyǝd
+ lex: zayəd/zoyəd
  stem: .z.y.d.|.z.d.|.z.dd.
  root: zyd
  gramm: V
@@ -12886,7 +12886,7 @@
  trans_en: to multiply
 
 -lexeme
- lex: zile/zoyǝl
+ lex: zile/zoyəl
  stem: .z.y.l.|.z.l.|.z.n.|.z.y.ll.|.z.ll.|.zz.|.z.nn.
  root: zyl
  gramm: V
@@ -12895,7 +12895,7 @@
  trans_en: to remove admixtures
 
 -lexeme
- lex: mzayalle/mzayǝn
+ lex: mzayalle/mzayən
  stem: .z.y.n.|.z.y.l.|.z.y.nn.|.z.y.ll.
  root: zyn
  gramm: V
@@ -12904,7 +12904,7 @@
  trans_en: to decorate
 
 -lexeme
- lex: zǝlle/zoyǝr
+ lex: zəlle/zoyər
  stem: .z.y.r.|.z.y.l.|.z.r.|.z.l.|.z.n.|.z.y.rr.|.z.y.ll.|.z.y.nn.|.z.rr.|.z.ll.|.z.nn.
  root: zyr
  gramm: V
@@ -12913,7 +12913,7 @@
  trans_en: to visit
 
 -lexeme
- lex: zayǝr/zoyǝr
+ lex: zayər/zoyər
  stem: .z.y.r.|.z.r.|.z.l.|.z.y.n.|.z.n.|.z.y.rr.|.z.rr.|.z.y.ll.|.z.ll.|.z.y.nn.|.z.nn.
  root: zyr
  gramm: V
@@ -12931,7 +12931,7 @@
  trans_en: to dip grapes into a special liquid
 
 -lexeme
- lex: abǝʕ/obǝʕ
+ lex: abəʕ/obəʕ
  stem: ..b.ʕ.|..b.ʕʕ.
  root: ʔbʕ
  gramm: V
@@ -12940,7 +12940,7 @@
  trans_en: to want; to be necessary to (l-) smb.
 
 -lexeme
- lex: mʔadǝb/miʔadǝb
+ lex: mʔadəb/miʔadəb
  stem: ..d.b.|..d.bb.
  root: ʔdb
  gramm: V
@@ -12949,7 +12949,7 @@
  trans_en: to behave oneself well
 
 -lexeme
- lex: aḏǝʕ/oḏǝʕ
+ lex: aḏəʕ/oḏəʕ
  stem: ..ḏ.ʕ.|..ḏ.ʕʕ.
  root: ʔḏʕ
  gramm: V
@@ -12974,7 +12974,7 @@
  trans_en: to hurt, to inflict pain
 
 -lexeme
- lex: mʔaǧadle/mʔaǧǝd
+ lex: mʔaǧadle/mʔaǧəd
  stem: ..ǧ.d.|..ǧ.dd.
  root: ʔǧd
  gramm: V
@@ -12983,7 +12983,7 @@
  trans_en: to discover
 
 -lexeme
- lex: maḥǝḏle/maḥǝḏ
+ lex: maḥəḏle/maḥəḏ
  stem: ..ḥ.ḏ.|..ḥ.ḏḏ.
  root: ʔḥḏ
  gramm: V
@@ -12992,7 +12992,7 @@
  trans_en: to lock
 
 -lexeme
- lex: mʔalafle/mʔalǝf
+ lex: mʔalafle/mʔaləf
  stem: ..l.f.|..l.ff.
  root: ʔlf
  gramm: V
@@ -13001,7 +13001,7 @@
  trans_en: to be(come) old
 
 -lexeme
- lex: mʔamalle/mʔamǝn
+ lex: mʔamalle/mʔamən
  stem: ..m.n.|..m.nn.
  root: ʔmn
  gramm: V
@@ -13010,16 +13010,16 @@
  trans_en: to guarantee; to trust; to create security; to provide
 
 -lexeme
- lex: mǝlle/omǝr
+ lex: məlle/omər
  stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
  root: ʔmr
  gramm: V
  paradigm: to_say
- trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmǝr) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomǝr zu korrigieren]
+ trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmər) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomər zu korrigieren]
  trans_en: to say; to name smb. or smth.; to emit a sound
 
 -lexeme
- lex: mʔamalle/mʔamǝr
+ lex: mʔamalle/mʔamər
  stem: ..m.r.|..m.rr.
  root: ʔmr
  gramm: V
@@ -13028,7 +13028,7 @@
  trans_en: to order
 
 -lexeme
- lex: mʔanalle/manǝn
+ lex: mʔanalle/manən
  stem: ..n.n.|..n.nn.
  root: ʔnn
  gramm: V
@@ -13037,7 +13037,7 @@
  trans_en: to moan
 
 -lexeme
- lex: mʔasasle/masǝs
+ lex: mʔasasle/masəs
  stem: ..s.s.|..s.ss.
  root: ʔss
  gramm: V
@@ -13046,7 +13046,7 @@
  trans_en: to found
 
 -lexeme
- lex: maṣǝlle/maṣǝr
+ lex: maṣəlle/maṣər
  stem: ..ṣ.r.|..ṣ.rr.
  root: ʔṣr
  gramm: V
@@ -13055,7 +13055,7 @@
  trans_en: to tie, to bind
 
 -lexeme
- lex: mʔašalle/mʔašǝr
+ lex: mʔašalle/mʔašər
  stem: ..š.r.|..š.rr.
  root: ʔšr
  gramm: V
@@ -13073,7 +13073,7 @@
  trans_en: to bring
 
 -lexeme
- lex: mʔaṯalle/mʔaṯǝr
+ lex: mʔaṯalle/mʔaṯər
  stem: ..ṯ.r.|..ṯ.rr.
  root: ʔṯr
  gramm: V
@@ -13087,7 +13087,7 @@
  root: ʔṯy
  gramm: V
  paradigm: V_I_3y
- trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lǝ-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, mǝqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mǝn-; k-oṯe mǝn- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥǝmto); 16) entgegengehen (l-qamuṯo)
+ trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lə-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, məqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mən-; k-oṯe mən- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥəmto); 16) entgegengehen (l-qamuṯo)
  trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow;
 
 -lexeme
@@ -13118,12 +13118,12 @@
  trans_en: to bring, to fetch
 
 -lexeme
- lex: xile/oxǝl
+ lex: xile/oxəl
  stem: ..x.l.|..x.ll.
  root: ʔxl
  gramm: V
  paradigm: V_I_3l
- trans_de: 1) essen; 2) (axile ruḥe) er verzehrte sich im Affekt, er wurde innerlich wütend; 3) (l-i=emo axila yalda, u=waldayḏa) es gab einen grossen Trubel, ein grosses Gedränge, Streit; 4) (axile qarʕe d-u=babo) er hat den Vater ins Grab gebracht (so sagt man etwa von einem Unglückskind, das gerade geboren wurde, als der Vater starb); 5) (k-oxǝl aʕle) er passt für ihn, er verdient; er ist wert; 6) Lebensunterhalt bekommen; 7) verzehren, für das Essen ausgeben (съесть, проесть деньги, т.е. потратить их на еду)
+ trans_de: 1) essen; 2) (axile ruḥe) er verzehrte sich im Affekt, er wurde innerlich wütend; 3) (l-i=emo axila yalda, u=waldayḏa) es gab einen grossen Trubel, ein grosses Gedränge, Streit; 4) (axile qarʕe d-u=babo) er hat den Vater ins Grab gebracht (so sagt man etwa von einem Unglückskind, das gerade geboren wurde, als der Vater starb); 5) (k-oxəl aʕle) er passt für ihn, er verdient; er ist wert; 6) Lebensunterhalt bekommen; 7) verzehren, für das Essen ausgeben (съесть, проесть деньги, т.е. потратить их на еду)
  trans_en: to eat
 
 -lexeme
@@ -13136,7 +13136,7 @@
  trans_en: to feed
 
 -lexeme
- lex: mʔaxǝr/miʔaxǝr
+ lex: mʔaxər/miʔaxər
  stem: ..x.r.|..x.rr.
  root: ʔxr
  gramm: V
@@ -13154,7 +13154,7 @@
  trans_en: to go; to get lost
 
 -lexeme
- lex: ʕbǝdle/ʕobǝd
+ lex: ʕbədle/ʕobəd
  stem: .ʕ.b.d.|.ʕ.b.dd.
  root: ʕbd
  gramm: V
@@ -13163,8 +13163,8 @@
  trans_en: to serve (God), to pray
 
 -lexeme
- lex: ʕabǝr/ʕobǝr
- stem: .ʕ.b.r.|.ʕ.b.rr.
+ lex: ʕabər/ʕobər
+ stem: .ʕ.b.r.|.ʕ.b.l.|.ʕ.b.n|.ʕ.b.rr.
  root: ʕbr
  gramm: V
  paradigm: V_I_3r
@@ -13172,7 +13172,7 @@
  trans_en: to enter
 
 -lexeme
- lex: mʕadele/mʕadǝl
+ lex: mʕadele/mʕadəl
  stem: .ʕ.d.l.|.ʕ.d.ll.
  root: ʕdl
  gramm: V
@@ -13181,7 +13181,7 @@
  trans_en: to restore; to improve
 
 -lexeme
- lex: ʕdǝmle/ʕodǝm
+ lex: ʕdəmle/ʕodəm
  stem: .ʕ.d.m.|.ʕ.d.mm.
  root: ʕdm
  gramm: V
@@ -13190,7 +13190,7 @@
  trans_en: to destroy
 
 -lexeme
- lex: mʕaḏable/mʕaḏǝb
+ lex: mʕaḏable/mʕaḏəb
  stem: .ʕ.ḏ.b.|.ʕ.z.b.|.ʕ.ḏ.bb.|.ʕ.z.bb.
  root: ʕḏb
  gramm: V
@@ -13199,7 +13199,7 @@
  trans_en: to trouble; to torture, to torment
 
 -lexeme
- lex: mʕafnakle/mʕafnǝk
+ lex: mʕafnakle/mʕafnək
  stem: .ʕ.fn.k.|.ʕ.fn.kk.
  root: ʕfnk
  gramm: V
@@ -13217,7 +13217,7 @@
  trans_en: to forgive
 
 -lexeme
- lex: mʕagele/mʕagǝl
+ lex: mʕagele/mʕagəl
  stem: .ʕ.g.l.|.ʕ.g.ll.
  root: ʕgl
  gramm: V
@@ -13262,7 +13262,7 @@
  trans_en: to hurry; to speak quickly
 
 -lexeme
- lex: ʕǧǝlle/ʕoǧǝn
+ lex: ʕǧəlle/ʕoǧən
  stem: .ʕ.ǧ.n.|.ʕ.ǧ.nn.
  root: ʕǧn
  gramm: V
@@ -13271,7 +13271,7 @@
  trans_en: to stamp
 
 -lexeme
- lex: ʕǧǝqle/ʕoǧǝq
+ lex: ʕǧəqle/ʕoǧəq
  stem: .ʕ.ǧ.q.|.ʕ.ǧ.qq.
  root: ʕǧq
  gramm: V
@@ -13280,7 +13280,7 @@
  trans_en: to make dirty
 
 -lexeme
- lex: ʕaǧǝz/ʕoǧǝz
+ lex: ʕaǧəz/ʕoǧəz
  stem: .ʕ.ǧ.z.|.ʕ.ǧ.zz.
  root: ʕǧz
  gramm: V
@@ -13289,7 +13289,7 @@
  trans_en: to be fed up with (me) smb./smth.; to be exhausted; to be annoyed; to be tired; to be angry
 
 -lexeme
- lex: mʕakǝs/miʕakǝs
+ lex: mʕakəs/miʕakəs
  stem: .ʕ.k.s.|.ʕ.k.ss.
  root: ʕks
  gramm: V
@@ -13298,7 +13298,7 @@
  trans_en: to be stubborn; to disagree; to be(come) angry
 
 -lexeme
- lex: mʕalafle/mʕalǝf
+ lex: mʕalafle/mʕaləf
  stem: .ʕ.l.f.|.ʕ.l.ff.
  root: ʕlf
  gramm: V
@@ -13307,7 +13307,7 @@
  trans_en: to feed
 
 -lexeme
- lex: maʕlamle/maʕlǝm
+ lex: maʕlamle/maʕləm
  stem: .ʕ.l.m.|.ʕ.l.mm.
  root: ʕlm
  gramm: V
@@ -13316,7 +13316,7 @@
  trans_en: to inform, to notify
 
 -lexeme
- lex: mʕalaqle/mʕalǝq
+ lex: mʕalaqle/mʕaləq
  stem: .ʕ.l.q.|.ʕ.l.qq.
  root: ʕlq
  gramm: V
@@ -13325,7 +13325,7 @@
  trans_en: to hang
 
 -lexeme
- lex: mʕarčazle/mʕarčǝz
+ lex: mʕarčazle/mʕarčəz
  stem: .ʕ.rč.z.|.ʕ.rč.zz.
  root: ʕrčz
  gramm: V
@@ -13343,7 +13343,7 @@
  trans_en: to rise
 
 -lexeme
- lex: mʕamballe/mʕambǝr
+ lex: mʕamballe/mʕambər
  stem: .ʕ.mb.r.|.ʕ.mb.rr.
  root: ʕmbr
  gramm: V
@@ -13352,7 +13352,7 @@
  trans_en: to store
 
 -lexeme
- lex: ʕmǝḏle/ʕomǝḏ
+ lex: ʕməḏle/ʕoməḏ
  stem: .ʕ.m.ḏ.|.ʕ.m.ḏḏ.
  root: ʕmḏ
  gramm: V
@@ -13370,7 +13370,7 @@
  trans_en: to baptize
 
 -lexeme
- lex: ʕmile/ʕomǝl
+ lex: ʕmile/ʕoməl
  stem: .ʕ.m.l.|.ʕ.m.ll.
  root: ʕml
  gramm: V
@@ -13379,7 +13379,7 @@
  trans_en: to copulate with smb.
 
 -lexeme
- lex: ʕamǝq/ʕomǝq
+ lex: ʕaməq/ʕoməq
  stem: .ʕ.m.q.|.ʕ.m.qq.
  root: ʕmq
  gramm: V
@@ -13388,7 +13388,7 @@
  trans_en: to become deep
 
 -lexeme
- lex: ʕamǝr/ʕomǝr
+ lex: ʕamər/ʕomər
  stem: .ʕ.m.r.|.ʕ.m.rr.
  root: ʕmr
  gramm: V
@@ -13397,7 +13397,7 @@
  trans_en: to become populated
 
 -lexeme
- lex: ʕamǝr/ʕomǝr
+ lex: ʕamər/ʕomər
  stem: .ʕ.m.r.|.ʕ.m.rr.
  root: ʕmr
  gramm: V
@@ -13415,7 +13415,7 @@
  trans_en: to build
 
 -lexeme
- lex: mʕamaṣle/mʕamǝṣ
+ lex: mʕamaṣle/mʕaməṣ
  stem: .ʕ.m.ṣ.|.ʕ.m.ṣṣ.
  root: ʕmṣ
  gramm: V
@@ -13424,7 +13424,7 @@
  trans_en: to close one's eyes
 
 -lexeme
- lex: mʕangǝr/miʕangǝr
+ lex: mʕangər/miʕangər
  stem: .ʕ.ng.r.|.ʕ.ng.rr.
  root: ʕngr
  gramm: V
@@ -13433,7 +13433,7 @@
  trans_en: to disagree, to behave stubbornly
 
 -lexeme
- lex: mʕanatle/mʕanǝt
+ lex: mʕanatle/mʕanət
  stem: .ʕ.n.t.|.ʕ.n.tt.
  root: ʕnt
  gramm: V
@@ -13442,7 +13442,7 @@
  trans_en: to be(come) angry at (me) smb.
 
 -lexeme
- lex: mʕanṭele/mʕanṭǝl
+ lex: mʕanṭele/mʕanṭəl
  stem: .ʕ.nṭ.l.|.ʕ.nṭ.ll.
  root: ʕnṭl
  gramm: V
@@ -13469,7 +13469,7 @@
  trans_en: to get acquainted
 
 -lexeme
- lex: mʕarǧaqle/mʕarǧǝq
+ lex: mʕarǧaqle/mʕarǧəq
  stem: .ʕ.rǧ.q.|.ʕ.rǧ.qq.
  root: ʕrǧq
  gramm: V
@@ -13478,7 +13478,7 @@
  trans_en: to crush
 
 -lexeme
- lex: mʕaramle/mʕarǝm
+ lex: mʕaramle/mʕarəm
  stem: .ʕ.r.m.|.ʕ.r.mm.
  root: ʕrm
  gramm: V
@@ -13487,7 +13487,7 @@
  trans_en: to fill
 
 -lexeme
- lex: ʕarǝq/ʕorǝq
+ lex: ʕarəq/ʕorəq
  stem: .ʕ.r.q.|.ʕ.r.qq.
  root: ʕrq
  gramm: V
@@ -13496,7 +13496,7 @@
  trans_en: to run away
 
 -lexeme
- lex: mʕaraṭle/mʕarǝṭ
+ lex: mʕaraṭle/mʕarəṭ
  stem: .ʕ.r.ṭ.|.ʕ.r.ṭṭ.
  root: ʕrṭ
  gramm: V
@@ -13505,7 +13505,7 @@
  trans_en: to fart
 
 -lexeme
- lex: mʕarṭazle/mʕarṭǝz
+ lex: mʕarṭazle/mʕarṭəz
  stem: .ʕ.rṭ.z.|.ʕ.rṭ.zz.
  root: ʕrṭz
  gramm: V
@@ -13541,7 +13541,7 @@
  trans_en: to limp
 
 -lexeme
- lex: ʕṣǝlle/ʕoṣǝr
+ lex: ʕṣəlle/ʕoṣər
  stem: .ʕ.ṣ.r.|.ḥ.ṣ.r.|.ʕ.ṣ.rr.|.ḥ.ṣ.rr.
  root: ʕṣr
  gramm: V
@@ -13568,7 +13568,7 @@
  trans_en: to weed
 
 -lexeme
- lex: mʕaškašle/mʕaškǝš
+ lex: mʕaškašle/mʕaškəš
  stem: .ʕ.šk.š.|.ʕ.šk.šš.
  root: ʕškš
  gramm: V
@@ -13577,7 +13577,7 @@
  trans_en: to be(come) dark (after sunset)
 
 -lexeme
- lex: mʕašaqle/mʕašǝq
+ lex: mʕašaqle/mʕašəq
  stem: .ʕ.š.q.|.ʕ.š.qq.
  root: ʕšq
  gramm: V
@@ -13586,7 +13586,7 @@
  trans_en: to fall in love with (l-) smb.
 
 -lexeme
- lex: mʕašalle/mʕašǝr
+ lex: mʕašalle/mʕašər
  stem: .ʕ.š.r.|.ʕ.š.rr.
  root: ʕšr
  gramm: V
@@ -13595,7 +13595,7 @@
  trans_en: to be mounted
 
 -lexeme
- lex: mʕašalle/mʕašǝr
+ lex: mʕašalle/mʕašər
  stem: .ʕ.š.r.|.ʕ.š.rr.
  root: ʕšr
  gramm: V
@@ -13604,7 +13604,7 @@
  trans_en: to indicate
 
 -lexeme
- lex: mǝʕtaballe/mǝʕtabǝr
+ lex: məʕtaballe/məʕtabər
  stem: .ʕ.tb.r.|.ʕ.tb.rr.
  root: ʕtbr
  gramm: V
@@ -13613,7 +13613,7 @@
  trans_en: to respect, to reckon with
 
 -lexeme
- lex: mǝʕtadele/mǝʕtade
+ lex: məʕtadele/məʕtade
  stem: .ʕ.td.y.|.ʕ.td.|.ʕ.td.yy.|.ʕ.tdd.
  root: ʕtdy
  gramm: V
@@ -13622,7 +13622,7 @@
  trans_en: to lay hands on (ʕal) smb.
 
 -lexeme
- lex: mǝʕtaḏalle/mǝʕtaḏǝr
+ lex: məʕtaḏalle/məʕtaḏər
  stem: .ʕ.tḏ.r.|.ʕ.tḏ.rr.
  root: ʕtḏr
  gramm: V
@@ -13631,7 +13631,7 @@
  trans_en: to apologize
 
 -lexeme
- lex: ʕatǝm/ʕotǝm
+ lex: ʕatəm/ʕotəm
  stem: .ʕ.t.m.|.ʕ.t.mm.
  root: ʕtm
  gramm: V
@@ -13649,7 +13649,7 @@
  trans_en: to object
 
 -lexeme
- lex: mǝʕtarafle/mǝʕtarǝf
+ lex: məʕtarafle/məʕtarəf
  stem: .ʕ.tr.f.|.ʕ.tr.ff.
  root: ʕtrf
  gramm: V
@@ -13658,7 +13658,7 @@
  trans_en: to confess; to profess smb. (b-); to admit
 
 -lexeme
- lex: mʕaṭafle/mʕaṭǝf
+ lex: mʕaṭafle/mʕaṭəf
  stem: .ʕ.ṭ.f.|.ʕ.ṭ.ff.
  root: ʕṭf
  gramm: V
@@ -13667,7 +13667,7 @@
  trans_en: to pick small grapes
 
 -lexeme
- lex: mʕaṭašle/mʕaṭǝš
+ lex: mʕaṭašle/mʕaṭəš
  stem: .ʕ.ṭ.š.|.ʕ.ṭ.šš.
  root: ʕṭš
  gramm: V
@@ -13676,7 +13676,7 @@
  trans_en: to sneeze
 
 -lexeme
- lex: mʕavǧaqle/mʕavǧǝq
+ lex: mʕavǧaqle/mʕavǧəq
  stem: .ʕ.vǧ.q.|.ʕ.vǧ.qq.
  root: ʕvǧq
  gramm: V
@@ -13712,7 +13712,7 @@
  trans_en: to become sharp; to become spicy
 
 -lexeme
- lex: mʕawad̞le/mʕawǝd̞
+ lex: mʕawad̞le/mʕawəd̞
  stem: .ʕ.wd.̞.|.ʕ.wd.̞̞.
  root: ʕwd̞
  gramm: V
@@ -13721,7 +13721,7 @@
  trans_en: to recompense; to substitute
 
 -lexeme
- lex: ʕwǝǧle/ʕowǝǧ
+ lex: ʕwəǧle/ʕowəǧ
  stem: .ʕ.w.ǧ.|.ʕ.ǧ.|.ʕ.w.ǧǧ.|.ʕ.ǧǧ.
  root: ʕwǧ
  gramm: V
@@ -13730,7 +13730,7 @@
  trans_en: to make crooked, bent
 
 -lexeme
- lex: mʕawalle/mʕawǝn
+ lex: mʕawalle/mʕawən
  stem: .ʕ.w.n.|.ʕ.w.nn.
  root: ʕwn
  gramm: V
@@ -13739,7 +13739,7 @@
  trans_en: to help smb. (l-)
 
 -lexeme
- lex: mʕawaqle/mʕawǝq
+ lex: mʕawaqle/mʕawəq
  stem: .ʕ.w.q.|.ʕ.w.qq.
  root: ʕwq
  gramm: V
@@ -13748,7 +13748,7 @@
  trans_en: to hold smb. up; to delay smth.
 
 -lexeme
- lex: mʕawzalle/mʕawzǝr
+ lex: mʕawzalle/mʕawzər
  stem: .ʕ.wz.r.|.ʕ.wz.rr.
  root: ʕwzr
  gramm: V
@@ -13757,7 +13757,7 @@
  trans_en: to pack together
 
 -lexeme
- lex: mʕayaḏle/mʕayǝḏ
+ lex: mʕayaḏle/mʕayəḏ
  stem: .ʕ.y.ḏ.|.ʕ.y.ḏḏ.
  root: ʕyḏ
  gramm: V
@@ -13766,7 +13766,7 @@
  trans_en: to celebrate
 
 -lexeme
- lex: ʕayǝf/ʕoyǝf
+ lex: ʕayəf/ʕoyəf
  stem: .ʕ.y.f.|.ʕ.f.|.ʕ.ff.
  root: ʕyf
  gramm: V
@@ -13775,7 +13775,7 @@
  trans_en: to become fed up with (m-) smth.; to be tired of (m-) smth.
 
 -lexeme
- lex: mʕayfǝn/miʕayfǝn
+ lex: mʕayfən/miʕayfən
  stem: .ʕ.yf.n.|.ʕ.yf.nn.
  root: ʕyfn
  gramm: V
@@ -13784,7 +13784,7 @@
  trans_en: to become mouldy
 
 -lexeme
- lex: ʕayǝǧ/ʕoyǝǧ
+ lex: ʕayəǧ/ʕoyəǧ
  stem: .ʕ.y.ǧ.|.ʕ.ǧ.|.ʕ.ǧǧ.
  root: ʕyǧ
  gramm: V
@@ -13793,7 +13793,7 @@
  trans_en: to spread around (intr.)
 
 -lexeme
- lex: mʕayamle/mʕayǝm
+ lex: mʕayamle/mʕayəm
  stem: .ʕ.y.m.|.ʕ.y.mm.
  root: ʕym
  gramm: V
@@ -13802,7 +13802,7 @@
  trans_en: to become cloudy
 
 -lexeme
- lex: mʕayalle/mʕayǝn
+ lex: mʕayalle/mʕayən
  stem: .ʕ.y.n.|.ʕ.y.nn.
  root: ʕyn
  gramm: V
@@ -13811,7 +13811,7 @@
  trans_en: to determine; to establish; to examine (a patient
 
 -lexeme
- lex: maʕǝlle/maʕǝn
+ lex: maʕəlle/maʕən
  stem: .ʕ.y.n.|.ʕ.n.|.ʕ.l.|.ʕ.y.nn.|.ʕ.nn.|.ʕ.ll.
  root: ʕyn
  gramm: V
@@ -13820,7 +13820,7 @@
  trans_en: to cause pain
 
 -lexeme
- lex: ʕayǝq/ʕoyǝq
+ lex: ʕayəq/ʕoyəq
  stem: .ʕ.y.q.|.ʕ.q.|.ʕ.qq.
  root: ʕyq
  gramm: V
@@ -13829,7 +13829,7 @@
  trans_en: to become angry (l-); to grieve; to feel bad (l-); to become narrow
 
 -lexeme
- lex: mʕayalle/mʕayǝr
+ lex: mʕayalle/mʕayər
  stem: .ʕ.y.r.|.ʕ.y.rr.
  root: ʕyr
  gramm: V
@@ -13847,7 +13847,7 @@
  trans_en: to feel ashamed of (b-) smb.
 
 -lexeme
- lex: ʕayǝš/ʕoyǝš
+ lex: ʕayəš/ʕoyəš
  stem: .ʕ.y.š.|.ʕ.š.|.ʕ.šš.
  root: ʕyš
  gramm: V
@@ -13856,7 +13856,7 @@
  trans_en: to live
 
 -lexeme
- lex: mʕayašle/mʕayǝš
+ lex: mʕayašle/mʕayəš
  stem: .ʕ.y.š.|.ʕ.y.šš.
  root: ʕyš
  gramm: V
@@ -13865,7 +13865,7 @@
  trans_en: to observe; to spot; to aim
 
 -lexeme
- lex: mʕayaṭle/mʕayǝṭ
+ lex: mʕayaṭle/mʕayəṭ
  stem: .ʕ.y.ṭ.|.ʕ.y.ṭṭ.
  root: ʕyṭ
  gramm: V
@@ -13901,7 +13901,7 @@
  trans_en: to honour
 
 -lexeme
- lex: ʕzile/ʕozǝl
+ lex: ʕzile/ʕozəl
  stem: .ʕ.z.l.|.ʕ.z.ll.
  root: ʕzl
  gramm: V
@@ -13910,7 +13910,7 @@
  trans_en: to spin
 
 -lexeme
- lex: maʕzele/maʕzǝl
+ lex: maʕzele/maʕzəl
  stem: .ʕ.z.l.|.ʕ.z.ll.
  root: ʕzl
  gramm: V
@@ -13919,7 +13919,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mʕazamle/mʕazǝm
+ lex: mʕazamle/mʕazəm
  stem: .ʕ.z.m.|.ʕ.z.mm.
  root: ʕzm
  gramm: V
@@ -13937,7 +13937,7 @@
  trans_ne: to invite
 
 -lexeme
- lex: mʕazalle/mʕazǝr
+ lex: mʕazalle/mʕazər
  stem: .ʕ.z.r.|.ʕ.z.rr.
  root: ʕzr
  gramm: V
@@ -13955,7 +13955,7 @@
  trans_en: to honour
 
 -lexeme
- lex: mbaʕbakle/mbaʕbǝk
+ lex: mbaʕbakle/mbaʕbək
  stem: .b.ʕb.k.|.b.ʕb.kk.
  root: bʕbk
  gramm: V
@@ -13964,7 +13964,7 @@
  trans_en: to damage smb. in a fight
 
 -lexeme
- lex: bʕǝǧle/boʕǝǧ
+ lex: bʕəǧle/boʕəǧ
  stem: .b.ʕ.ǧ.|.b.ʕ.ž.|.b.ʕ.ǧǧ.|.b.ʕ.žž.
  root: bʕǧ
  gramm: V
@@ -13973,7 +13973,7 @@
  trans_en: to suffocate smb.
 
 -lexeme
- lex: mbaʕalle/mbaʕǝr
+ lex: mbaʕalle/mbaʕər
  stem: .b.ʕ.r.|.b.ʕ.l.|.b.ʕ.rr.|.b.ʕ.ll.
  root: bʕr
  gramm: V
@@ -13982,7 +13982,7 @@
  trans_en: to drop dung
 
 -lexeme
- lex: bʕǝṭle/boʕǝṭ
+ lex: bʕəṭle/boʕəṭ
  stem: .b.ʕ.ṭ.|.b.ʕ.ṭṭ.
  root: bʕṭ
  gramm: V
@@ -14009,7 +14009,7 @@
  trans_en: [?]
 
 -lexeme
- lex: bčǝqle/bočǝq
+ lex: bčəqle/bočəq
  stem: .b.č.q.|.b.č.qq.
  root: bčq
  gramm: V
@@ -14018,7 +14018,7 @@
  trans_en: to crush
 
 -lexeme
- lex: mbadele/mbadǝl
+ lex: mbadele/mbadəl
  stem: .b.d.l.|.b.d.|.b.d.ll.|.b.dd.
  root: bdl
  gramm: V
@@ -14063,7 +14063,7 @@
  trans_en: to become angry
 
 -lexeme
- lex: mbahdele/mbahdǝl
+ lex: mbahdele/mbahdəl
  stem: .b.hd.l.|.b.hd.|.b.hd.ll.|.b.hdd.
  root: bhdl
  gramm: V
@@ -14072,7 +14072,7 @@
  trans_en: to dishonour; to put to shame
 
 -lexeme
- lex: bahǝr/bohǝr
+ lex: bahər/bohər
  stem: .b.h.r.|.b.h.rr.
  root: bhr
  gramm: V
@@ -14081,7 +14081,7 @@
  trans_en: to become bright
 
 -lexeme
- lex: bḥǝlle/boḥǝr
+ lex: bḥəlle/boḥər
  stem: .b.ḥ.r.|.b.ḥ.rr.
  root: bḥr
  gramm: V
@@ -14090,7 +14090,7 @@
  trans_en: to explore
 
 -lexeme
- lex: mbaḥalle/mbaḥǝr
+ lex: mbaḥalle/mbaḥər
  stem: .b.ḥ.r.|.b.ḥ.rr.
  root: bḥr
  gramm: V
@@ -14099,7 +14099,7 @@
  trans_en: to dirty
 
 -lexeme
- lex: mbaḥasle/mbaḥǝs
+ lex: mbaḥasle/mbaḥəs
  stem: .b.ḥ.s.|.b.ḥ.ss.
  root: bḥs
  gramm: V
@@ -14108,7 +14108,7 @@
  trans_en: to talk about (m-) smth.; to discuss smth. (m-)
 
 -lexeme
- lex: blǝʕle/bolǝʕ
+ lex: bləʕle/boləʕ
  stem: .b.l.ʕ.|.b.l.ʕʕ.
  root: blʕ
  gramm: V
@@ -14117,7 +14117,7 @@
  trans_en: to swallow
 
 -lexeme
- lex: mbalʕakle/mbalʕǝk
+ lex: mbalʕakle/mbalʕək
  stem: .b.lʕ.k.|.b.lʕ.kk.
  root: blʕk
  gramm: V
@@ -14126,7 +14126,7 @@
  trans_en: to damage smb. in a fight
 
 -lexeme
- lex: mbalʕaṭle/mbalʕǝṭ
+ lex: mbalʕaṭle/mbalʕəṭ
  stem: .b.lʕ.ṭ.|.b.lʕ.ṭṭ.
  root: blʕṭ
  gramm: V
@@ -14135,7 +14135,7 @@
  trans_en: to fix
 
 -lexeme
- lex: mbalʕazle/mbalʕǝz
+ lex: mbalʕazle/mbalʕəz
  stem: .b.lʕ.z.|.b.lʕ.zz.
  root: blʕz
  gramm: V
@@ -14153,7 +14153,7 @@
  trans_en: to part with (m-) smb.
 
 -lexeme
- lex: mbalaġle/mbalǝġ
+ lex: mbalaġle/mbaləġ
  stem: .b.l.ġ.|.b.l.ġġ.
  root: blġ
  gramm: V
@@ -14171,7 +14171,7 @@
  trans_en: to become angry at (ʕal) smb.
 
 -lexeme
- lex: balǝq/bolǝq
+ lex: baləq/boləq
  stem: .b.l.q.|.b.l.qq.
  root: blq
  gramm: V
@@ -14180,7 +14180,7 @@
  trans_en: to appear; to visit
 
 -lexeme
- lex: mbalaqle/mbalǝq
+ lex: mbalaqle/mbaləq
  stem: .b.l.q.|.b.l.qq.
  root: blq
  gramm: V
@@ -14189,7 +14189,7 @@
  trans_en: to open wide (eyes)
 
 -lexeme
- lex: blǝšle/bolǝš
+ lex: bləšle/boləš
  stem: .b.l.š.|.b.l.šš.
  root: blš
  gramm: V
@@ -14198,7 +14198,7 @@
  trans_en: to touch
 
 -lexeme
- lex: mbalašle/mbalǝš
+ lex: mbalašle/mbaləš
  stem: .b.l.š.|.b.l.šš.
  root: blš
  gramm: V
@@ -14207,7 +14207,7 @@
  trans_en: to begin
 
 -lexeme
- lex: mbalatle/mbalǝt
+ lex: mbalatle/mbalət
  stem: .b.l.t.|.b.l.tt.
  root: blt
  gramm: V
@@ -14216,7 +14216,7 @@
  trans_en: to ripen
 
 -lexeme
- lex: mbamxalle/mbamxǝr
+ lex: mbamxalle/mbamxər
  stem: .b.mx.r.|.b.mx.rr.
  root: bmxr
  gramm: V
@@ -14243,7 +14243,7 @@
  trans_en: to count; to number
 
 -lexeme
- lex: mabraʕle/mabrǝʕ
+ lex: mabraʕle/mabrəʕ
  stem: .b.r.ʕ.|.b.r.ʕʕ.
  root: brʕ
  gramm: V
@@ -14252,7 +14252,7 @@
  trans_en: to drop dung
 
 -lexeme
- lex: mbarbaʕle/mbarbǝʕ
+ lex: mbarbaʕle/mbarbəʕ
  stem: .b.rb.ʕ.|.b.rb.ʕʕ.
  root: brbʕ
  gramm: V
@@ -14261,7 +14261,7 @@
  trans_en: to bark at smb. and scare him
 
 -lexeme
- lex: mbarbazale/mbarbǝz
+ lex: mbarbazale/mbarbəz
  stem: .b.rb.z.|.b.rb.zz.
  root: brbz
  gramm: V
@@ -14270,7 +14270,7 @@
  trans_en: to disperse smb. or smth.; to spread smth.
 
 -lexeme
- lex: barǝd/borǝd
+ lex: barəd/borəd
  stem: .b.r.d.|.b.r.dd.
  root: brd
  gramm: V
@@ -14279,7 +14279,7 @@
  trans_en: to become cold
 
 -lexeme
- lex: brǝdle/borǝd
+ lex: brədle/borəd
  stem: .b.r.d.|.b.r.dd.
  root: brd
  gramm: V
@@ -14288,7 +14288,7 @@
  trans_en: to grind (steel), to polish
 
 -lexeme
- lex: brǝkle/borǝk
+ lex: brəkle/borək
  stem: .b.r.k.|.b.r.kk.
  root: brk
  gramm: V
@@ -14297,7 +14297,7 @@
  trans_en: to kneel down
 
 -lexeme
- lex: barəm/borǝm
+ lex: barəm/borəm
  stem: .b.r.m.|.b.r.mm.
  root: brm
  gramm: V
@@ -14306,7 +14306,7 @@
  trans_en: to turn around (intr.), to rotate; to go around; to proceed (about work); to turn (tr.)
 
 -lexeme
- lex: barǝq/borǝq
+ lex: barəq/borəq
  stem: .b.r.q.|.b.r.qq.
  root: brq
  gramm: V
@@ -14324,7 +14324,7 @@
  trans_en: to shine; to radiate
 
 -lexeme
- lex: mbarṭele/mbarṭǝl
+ lex: mbarṭele/mbarṭəl
  stem: .b.rṭ.l.|.b.rṭ.|.b.rṭ.ll.|.b.rṭṭ.
  root: brṭl
  gramm: V
@@ -14333,7 +14333,7 @@
  trans_en: to bribe
 
 -lexeme
- lex: mbarṭamle/mbarṭǝm
+ lex: mbarṭamle/mbarṭəm
  stem: .b.rṭ.m.|.b.rṭ.mm.
  root: brṭm
  gramm: V
@@ -14360,7 +14360,7 @@
  trans_en: to absolve
 
 -lexeme
- lex: barǝz/borǝz
+ lex: barəz/borəz
  stem: .b.r.z.|.b.r.zz.
  root: brz
  gramm: V
@@ -14378,7 +14378,7 @@
  trans_en: to say rude words to (l-) smb.
 
 -lexeme
- lex: mbarzaqle/mbarzǝq
+ lex: mbarzaqle/mbarzəq
  stem: .b.rz.q.|.b.rz.qq.
  root: brzq
  gramm: V
@@ -14387,7 +14387,7 @@
  trans_en: [?]
 
 -lexeme
- lex: basǝm/bosǝm
+ lex: basəm/bosəm
  stem: .b.s.m.|.b.s.mm.
  root: bsm
  gramm: V
@@ -14396,7 +14396,7 @@
  trans_en: to become pleasant; to like (l-)
 
 -lexeme
- lex: mbasmalle/mbasmǝr
+ lex: mbasmalle/mbasmər
  stem: .b.sm.r.|.b.sm.rr.
  root: bsmr
  gramm: V
@@ -14405,7 +14405,7 @@
  trans_en: to nail
 
 -lexeme
- lex: mbaṣbaṣle/mbaṣbǝṣ
+ lex: mbaṣbaṣle/mbaṣbəṣ
  stem: .b.ṣb.ṣ.|.b.ṣb.ṣṣ.
  root: bṣbṣ
  gramm: V
@@ -14414,7 +14414,7 @@
  trans_ne: to sparkle
 
 -lexeme
- lex: mbaṣaṭle/mbaṣǝṭ
+ lex: mbaṣaṭle/mbaṣəṭ
  stem: .b.ṣ.ṭ.|.b.ṣ.ṭṭ.
  root: bṣṭ
  gramm: V
@@ -14432,7 +14432,7 @@
  trans_en: to lighten up; to make a pleasant face
 
 -lexeme
- lex: bašǝl/bošǝl
+ lex: bašəl/bošəl
  stem: .b.š.l.|.b.š.ll.
  root: bšl
  gramm: V
@@ -14450,7 +14450,7 @@
  trans_en: to cook (tr.)
 
 -lexeme
- lex: mbašalle/mbašǝr
+ lex: mbašalle/mbašər
  stem: .b.š.r.|.b.š.rr.
  root: bšr
  gramm: V
@@ -14459,7 +14459,7 @@
  trans_en: to give good news
 
 -lexeme
- lex: baṭǝl/boṭǝl
+ lex: baṭəl/boṭəl
  stem: .b.ṭ.l.|.b.ṭ.ll.
  root: bṭl
  gramm: V
@@ -14468,7 +14468,7 @@
  trans_en: to stope, to cease; to become tired
 
 -lexeme
- lex: mbawaqle/mbawǝq
+ lex: mbawaqle/mbawəq
  stem: .b.w.q.|.b.w.qq.
  root: bwq
  gramm: V
@@ -14477,7 +14477,7 @@
  trans_en: to begin a fight
 
 -lexeme
- lex: mbawašle/mbawǝš
+ lex: mbawašle/mbawəš
  stem: .b.w.š.|.b.w.šš.
  root: bwš
  gramm: V
@@ -14486,7 +14486,7 @@
  trans_en: to collect money for village schools, wardens, etc.
 
 -lexeme
- lex: mbaxbašle/mbaxbǝš
+ lex: mbaxbašle/mbaxbəš
  stem: .b.xb.š.|.b.xb.šš.
  root: bxbš
  gramm: V
@@ -14495,7 +14495,7 @@
  trans_en: to give as a gift; to bribe
 
 -lexeme
- lex: mbaxǝl/mibaxǝl
+ lex: mbaxəl/mibaxəl
  stem: .b.x.l.|.b.x.ll.
  root: bxl
  gramm: V
@@ -14522,7 +14522,7 @@
  trans_en: to cry
 
 -lexeme
- lex: mbayad̞le/mbayǝd̞
+ lex: mbayad̞le/mbayəd̞
  stem: .b.y.ḏ̣.|.b.y.ḏ̣̣.
  root: byd̞
  gramm: V
@@ -14531,7 +14531,7 @@
  trans_en: to tin; to whiten
 
 -lexeme
- lex: mbayaġle/mbayǝġ
+ lex: mbayaġle/mbayəġ
  stem: .b.y.ġ.|.b.y.ġġ.
  root: byġ
  gramm: V
@@ -14540,7 +14540,7 @@
  trans_en: to polish, to shine (shoes)
 
 -lexeme
- lex: mbayalle/mbayǝn
+ lex: mbayalle/mbayən
  stem: .b.y.n.|.b.y.nn.
  root: byn
  gramm: V
@@ -14558,7 +14558,7 @@
  trans_en: to appear; to become visible; to become evident;
 
 -lexeme
- lex: bayǝq/boyǝq
+ lex: bayəq/boyəq
  stem: .b.y.q.|.b.q.|.b.qq.
  root: byq
  gramm: V
@@ -14567,7 +14567,7 @@
  trans_en: to rot; to become mouldy
 
 -lexeme
- lex: bayǝr/boyǝr
+ lex: bayər/boyər
  stem: .b.y.r.|.b.r.|.b.rr.
  root: byr
  gramm: V
@@ -14576,7 +14576,7 @@
  trans_en: to lose (taste, color)
 
 -lexeme
- lex: bǝṭle/boyǝṭ
+ lex: bəṭle/boyəṭ
  stem: .b.y.ṭ.|.b.ṭ.|.b.ṭṭ.
  root: byṭ
  gramm: V
@@ -14585,7 +14585,7 @@
  trans_en: to burst open (tr.), to rip
 
 -lexeme
- lex: mabǝxle/mabǝx
+ lex: mabəxle/mabəx
  stem: .b.x.|.b.xx.
  root: byx
  gramm: V
@@ -14594,7 +14594,7 @@
  trans_en: [?]
 
 -lexeme
- lex: bǝzle/boyǝz
+ lex: bəzle/boyəz
  stem: .b.y.z.|.b.z.|.b.zz.
  root: byz
  gramm: V
@@ -14603,7 +14603,7 @@
  trans_en: to pour; to pour out; to spill
 
 -lexeme
- lex: mbayzalle/mbayzǝr
+ lex: mbayzalle/mbayzər
  stem: .b.yz.r.|.b.yz.rr.
  root: byzr
  gramm: V
@@ -14612,7 +14612,7 @@
  trans_en: to bargain for (b-) something; to negotiate for (b-) something;
 
 -lexeme
- lex: bzǝlle/bozǝr
+ lex: bzəlle/bozər
  stem: .b.z.r.|.b.z.l.|.b.z.rr.|.b.z.ll.
  root: bzr
  gramm: V
@@ -14621,7 +14621,7 @@
  trans_en: to sow
 
 -lexeme
- lex: čfǝxle/čofǝx
+ lex: čfəxle/čofəx
  stem: .č.f.x.|.č.f.xx.
  root: čfx
  gramm: V
@@ -14630,7 +14630,7 @@
  trans_en: to spin smth. and to empty it, with a quick movement
 
 -lexeme
- lex: mčakčakle/mčakčǝk
+ lex: mčakčakle/mčakčək
  stem: .č.kč.k.|.č.kč.kk.
  root: čkčk
  gramm: V
@@ -14639,7 +14639,7 @@
  trans_en: to roll up (the sleeves); to pierce
 
 -lexeme
- lex: mčalakle/mčalǝk
+ lex: mčalakle/mčalək
  stem: .č.l.k.|.č.l.kk.
  root: člk
  gramm: V
@@ -14648,7 +14648,7 @@
  trans_en: to deplete, to exhaust (a well or a cisterne)
 
 -lexeme
- lex: člǝple/čolǝp
+ lex: čləple/čoləp
  stem: .č.l.p.|.č.l.pp.
  root: člp
  gramm: V
@@ -14666,7 +14666,7 @@
  trans_en: to pull the trigger
 
 -lexeme
- lex: člǝqle/čolǝq
+ lex: čləqle/čoləq
  stem: .č.l.q.|.č.l.qq.
  root: člq
  gramm: V
@@ -14675,7 +14675,7 @@
  trans_en: to pull down an eyelid or a lip with a finger, so that one can see flesh behind it
 
 -lexeme
- lex: mčalqazle/mčalqǝz
+ lex: mčalqazle/mčalqəz
  stem: .č.lq.z.|.č.lq.zz.
  root: člqz
  gramm: V
@@ -14684,7 +14684,7 @@
  trans_en: [?]
 
 -lexeme
- lex: mačlaṣle/mačlǝṣ
+ lex: mačlaṣle/mačləṣ
  stem: .č.l.ṣ.|.č.l.ṣṣ.
  root: člṣ
  gramm: V
@@ -14693,7 +14693,7 @@
  trans_en: to shine; to radiate
 
 -lexeme
- lex: mčamatle/mčamǝt
+ lex: mčamatle/mčamət
  stem: .č.m.t.|.č.m.tt.
  root: čmt
  gramm: V
@@ -14702,7 +14702,7 @@
  trans_en: to cement
 
 -lexeme
- lex: čmǝzle/čomǝz
+ lex: čməzle/čoməz
  stem: .č.m.z.|.č.m.zz.
  root: čmz
  gramm: V
@@ -14711,7 +14711,7 @@
  trans_en: to make a sad face
 
 -lexeme
- lex: mčančalle/mčančǝr
+ lex: mčančalle/mčančər
  stem: .č.nč.r.|.č.nč.rr.
  root: čnčr
  gramm: V
@@ -14720,7 +14720,7 @@
  trans_en: to tear (clothes)
 
 -lexeme
- lex: mčanqele/mčanqǝl
+ lex: mčanqele/mčanqəl
  stem: .č.nq.l.|.č.nq.|.č.nq.ll.|.č.nqq.
  root: čnql
  gramm: V
@@ -14729,7 +14729,7 @@
  trans_en: to latch with a hook
 
 -lexeme
- lex: mčapele/mčapǝl
+ lex: mčapele/mčapəl
  stem: .č.p.l.|.č.p.|.č.p.ll.|.č.pp.
  root: čpl
  gramm: V
@@ -14738,7 +14738,7 @@
  trans_en: to dirty
 
 -lexeme
- lex: mčaqčaqle/mčaqčǝq
+ lex: mčaqčaqle/mčaqčəq
  stem: .č.qč.q.|.č.qč.qq.
  root: čqčq
  gramm: V
@@ -14747,7 +14747,7 @@
  trans_en: to heat smth. so much that it starts sizzling
 
 -lexeme
- lex: mčaqlable/mčaqlǝb
+ lex: mčaqlable/mčaqləb
  stem: .č.ql.b.|.č.ql.bb.
  root: čqlb
  gramm: V
@@ -14756,7 +14756,7 @@
  trans_en: to turn a vessel over so that the contents run out
 
 -lexeme
- lex: mčaqazle/mčaqǝz
+ lex: mčaqazle/mčaqəz
  stem: .č.q.z.|.č.q.zz.
  root: čqz
  gramm: V
@@ -14765,7 +14765,7 @@
  trans_en: to jump around (about children or lambs)
 
 -lexeme
- lex: mčarčafle/mčarčǝf
+ lex: mčarčafle/mčarčəf
  stem: .č.rč.f.|.č.rč.ff.
  root: črčf
  gramm: V
@@ -14774,7 +14774,7 @@
  trans_en: to throw over a ladies' shawl
 
 -lexeme
- lex: mčarčalle/mčarčǝr
+ lex: mčarčalle/mčarčər
  stem: .č.rč.r.|.č.rč.l.|.č.rč.rr.|.č.rč.ll.
  root: črčr
  gramm: V
@@ -14783,7 +14783,7 @@
  trans_en: to tear
 
 -lexeme
- lex: črǝfle/čorǝf
+ lex: črəfle/čorəf
  stem: .č.r.f.|.č.r.ff.
  root: črf
  gramm: V
@@ -14792,7 +14792,7 @@
  trans_en: to break into pieces in a handmill
 
 -lexeme
- lex: mčaragle/mčarǝg
+ lex: mčaragle/mčarəg
  stem: .č.r.g.|.č.r.k.|.č.r.gg.|.č.r.kk.
  root: črg
  gramm: V
@@ -14801,7 +14801,7 @@
  trans_en: to ruin
 
 -lexeme
- lex: črǝxle/čorǝx
+ lex: črəxle/čorəx
  stem: .č.r.x.|.č.r.xx.
  root: črx
  gramm: V
@@ -14810,7 +14810,7 @@
  trans_en: to grind, to sharpen
 
 -lexeme
- lex: mčawramle/mčawrǝm
+ lex: mčawramle/mčawrəm
  stem: .č.wr.m.|.č.wr.mm.
  root: čwrm
  gramm: V
@@ -14819,7 +14819,7 @@
  trans_en: to turn around
 
 -lexeme
- lex: čǝkle/čoyǝk
+ lex: čəkle/čoyək
  stem: .č.y.k.|.č.k.|.č.kk.
  root: čyk
  gramm: V
