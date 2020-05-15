@@ -16,7 +16,7 @@
  trans_en: between
 -lexeme
  lex: b
- stem: .b.|.bb.|b.
+ stem: .b.|.pp.|b.
  root: b
  gramm: prep
  paradigm: PREP_1
@@ -72,15 +72,23 @@
  trans_en: for
 -lexeme
  lex: bəṯṯər
- stem: bəṯr.|bəṯṯər.
+ stem: bəṯr.//bəṯṯər.//bəṯər.
  root: ʔṯr
  gramm: prep
  paradigm: PREP_3
  trans_de: [?]
  trans_en: after
 -lexeme
+ lex: dlo
+ stem: dlo.
+ root: dl
+ gramm: prep
+ paradigm: unchangeable
+ trans_de: ohne
+ trans_en: without
+-lexeme
  lex: qum
- stem: qum.|qm.|qəm.
+ stem: qum.//qm.//qum.
  root: qdm
  gramm: prep
  paradigm: PREP_3
@@ -88,7 +96,7 @@
  trans_en: before; in front of
 -lexeme
  lex: xəd/xud
- stem: xəd.|xud.|xtoṯ.|xoṯ.|xədwoṯ.
+ stem: xəd.//xd.//xud.|xtoṯ.|xoṯ.|xədwoṯ.|x.
  root: xd
  gramm: prep
  paradigm: PREP_xud
