@@ -73,7 +73,7 @@
   paradigm: def_art_1
 
 -paradigm: PREP_3
- -flex: <1>.
+ -flex: <0>.
   gramm: 
  -flex: <0>.i
   gramm: 1,sg
@@ -111,21 +111,28 @@
   gramm: 3,pl
 
 -paradigm: PREP_xud
- -flex: <0>.//<1>.
+ -flex: <0>.
   gramm:
- -flex: <2>.i//<3>.i//<4>.i
+ -flex: <1>.i//<2>.i//<3>.i
   gramm: 1,sg
- -flex: <2>.ux//<2>.ox//<3>.ux//<3>.ox//<4>.ux//<4>.ox
+ -flex: <1>.ux//<1>.ox//<2>.ux//<2>.ox//<3>.ux//<3>.ox
   gramm: 2,sg,m
- -flex: <2>.ax//<2>.əx//<3>.ax//<3>.əx//<4>.ax//<4>.əx
+ -flex: <1>.ax//<1>.əx//<2>.ax//<2>.əx//<3>.ax//<3>.əx
   gramm: 2,sg,f
- -flex: <2>.e//<3>.e//<4>.e
+ -flex: <1>.e//<2>.e//<3>.e
   gramm: 3,sg,m
- -flex: <2>.a//<3>.a//<4>.a
+ -flex: <1>.a//<2>.a//<3>.a
   gramm: 3,sg,f
- -flex: <2>.an//<2>.ayna//<3>.an//<3>.ayna//<4>.an//<4>.ayna
+ -flex: <1>.an//<1>.ayna//<2>.an//<2>.ayna//<3>.an//<3>.ayna
   gramm: 1,pl
- -flex: <2>.ayxu//<3>.ayxu//<4>.ayxu
+ -flex: <1>.ayxu//<2>.ayxu//<3>.ayxu
   gramm: 2,pl
- -flex: <2>.ayye//<3>.ayye//<4>.ayye
+ -flex: <1>.ayye//<2>.ayye//<3>.ayye
   gramm: 3,pl
+
+  # Definite article
+ -flex: <4>.<.>
+  gramm:
+  paradigm: def_art_1
+
+
