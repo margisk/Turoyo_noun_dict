@@ -3,13 +3,13 @@
 # Bare form
  -flex: <1>.i//<1>.ino
   gramm: prs,1,sg
- -flex: <1>.ux//<1>.ox
+ -flex: <1>.ux//<1>.ox//<1>.olux
   gramm: prs,2,sg,m
- -flex: <1>.ax//<1>.əx
+ -flex: <1>.ax//<1>.əx//<1>.əlax
   gramm: prs,2,sg,f
- -flex: <1>.e//<1>.eyo
+ -flex: <1>.e//<1>.eyo//<1>.ele
   gramm: prs,3,sg,m
- -flex: <1>.a//<1>.ayo
+ -flex: <1>.a//<1>.ayo//<1>.ala
   gramm: prs,3,sg,f
  -flex: <1>.an//<1>.ano
   gramm: prs,1,pl
@@ -21,19 +21,19 @@
 # Past
  -flex: <0>.i//<0>.ino
   gramm: pst,1,sg
- -flex: <0>.ux//<0>.ox
+ -flex: <0>.ux//<0>.ox//<0>.olux
   gramm: pst,2,sg,m
- -flex: <0>.ax//<0>.əx
+ -flex: <0>.ax//<0>.əx//<0>.alax
   gramm: pst,2,sg,f
- -flex: <0>.e//<0>.eyo
+ -flex: <0>.e//<0>.eyo//<0>.ele
   gramm: pst,3,sg,m
- -flex: <0>.a//<0>.ayo
+ -flex: <0>.a//<0>.ayo//<0>.ala
   gramm: pst,3,sg,f
  -flex: <0>.an//<0>.ano
   gramm: pst,1,pl
  -flex: <0>.oxu
   gramm: pst,2,pl
- -flex: <0>.ən//<0>.ehən//<0>.ehənyo
+ -flex: <0>.ən//<0>.ehən//<0>.ehənyo//<0>.ənne
   gramm: pst,3,pl
 
 # Present + ko
@@ -84,7 +84,7 @@
   gramm: ipf,3,sg,m
  -flex: <1>.awa//<1>.awo
   gramm: ipf,3,sg,f
- -flex: <1>.iwayna//<1>.awayna//<1>.anwo
+ -flex: <1>.iwayna//<1>.awayna//<1>.anwo//<1>.anowo
   gramm: ipf,1,pl
  -flex: <1>.oxuwa//<1>.oxuwo
   gramm: ipf,2,pl
@@ -128,11 +128,11 @@
   gramm: pst,3,pl
 
 # Imperative
- -flex: <2>.ux//<2>.ox
+ -flex: <2>.ux//<2>.ox//<2>i.ux//<2>i.ox//<2>i.olux
   gramm: imv,sg,m
- -flex: <2>.ax//<2>.əx
+ -flex: <2>.ax//<2>.əx//<2>i.ax//<2>i.əx//<2>i.olax
   gramm: imv,sg,f
- -flex: <2>.oxu
+ -flex: <2>.oxu//<2>i.oxu
   gramm: imv,pl
 
 -paradigm: to_give
