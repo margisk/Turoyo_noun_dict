@@ -1,21 +1,21 @@
 -paradigm: PRTCL_1
- -flex: <0>.
+ -flex: .
   gramm:
- -flex: <0>.i//<0>.ino//<1>.i//<2>.i//<3>.i//<4>.i
+ -flex: .i//.ino
   gramm: 1,sg
- -flex: <0>.ux//<0>.ox//<1>.ux//<1>.ox//<2>.ux//<2>.ox//<3>.ux//<3>.ox//<4>.ux//<4>.ox
+ -flex: .ux//.ox
   gramm: 2,sg,m
- -flex: <0>.ax//<0>.əx//<1>.ax//<1>.əx//<2>.ax//<2>.əx//<3>.ax//<3>.əx//<4>.ax//<4>.əx
+ -flex: .ax//.əx
   gramm: 2,sg,f
- -flex: <0>.e//<0>.eyo//<1>.e//<2>.e//<3>.e//<4>.e
+ -flex: .e//.eyo
   gramm: 3,sg,m
- -flex: <0>.a//<0>.ayo//<1>.a//<2>.a//<3>.a//<4>.a
+ -flex: .a//.ayo
   gramm: 3,sg,f
- -flex: <0>.an//<1>.an//<2>.an//<3>.an//<4>.an
+ -flex: .an
   gramm: 1,pl
- -flex: <0>.oxu//<0>.xu//<1>.oxu//<1>.axu//<2>.oxu//<2>.axu//<3>.oxu//<3>.axu//<4>.oxu//<4>.axu
+ -flex: .oxu//.xu
   gramm: 2,pl
- -flex: <0>.ənne//<0>.ən//<0>.en//<1>.ən//<1>.en//<2>.ən//<2>.en//<3>.ən//<3>.en//<4>.ən//<4>.en//<5>.//<5>.ne//<6>.ne
+ -flex: .ənne//.ən//.en//.ən
   gramm: 3,pl
 
 -paradigm: COP_PRES
