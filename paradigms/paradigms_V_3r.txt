@@ -796,7 +796,7 @@
   gramm: ipf,2,sg
  -flex: <0>.ə..ətwa
   gramm: ipf,2,sg
- -flex: <0>.o.a.wa//<0>.o.a.wo
+ -flex: <0>.o.a.wa//<0>.o.a.wo//<0>.u.a.wo//<0>.ə.a.wo
   gramm: ipf,3,sg,m
  -flex: <0>.ə..owa
   gramm: ipf,3,sg,f
@@ -868,6 +868,9 @@
   gramm: ipf,3,sg,m,2.o,pl.o
  -flex: <0>.o.a.walle
   gramm: ipf,3,sg,m,3.o,pl.o
+
+ # 3rd person feminine with suffixes
+ -flex: <0>.ə..owali
 
 # TBC: 3fs, 1pl, 2pl, 3pl
   
