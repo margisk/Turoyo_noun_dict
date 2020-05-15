@@ -13146,7 +13146,7 @@
 
 -lexeme
  lex: azze/əzze
- stem: .azz.|.əzz.|z.
+ stem: .azz.|.əzz.|.z.
  root: ʔzl
  gramm: V
  paradigm: to_go
