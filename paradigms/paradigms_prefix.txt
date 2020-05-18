@@ -1,6 +1,6 @@
 -paradigm: vb_prefix_pres_fut
  -flex: .
-  gramm: bare
+  gramm:
  -flex: k.
   gramm: prs
  -flex: ko.
