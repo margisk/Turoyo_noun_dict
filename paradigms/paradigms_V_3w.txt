@@ -610,7 +610,7 @@
  -flex: <1>.ə..ətwayle
   gramm: ipf,2,sg,m,3.o,sg.o,m.o
  -flex: <1>.ə..ətwayla
-  gramm: ipfs,2,sg,m,3.o,sg.o,f.o
+  gramm: ipf,2,sg,m,3.o,sg.o,f.o
  -flex: <1>.ə..ətwaylan
   gramm: ipf,2,sg,m,3.o,sg.o,f.o
  -flex: <1>.ə..ətwalxu
