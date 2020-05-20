@@ -20,12 +20,12 @@
  -flex: .
   gramm:
  -flex: ko.
-  gramm: perf
+  gramm: pf
  -flex: kə.
-  gramm: perf
+  gramm: pf
  -flex: k.
-  gramm: perf
+  gramm: pf
  -flex: g.
-  gramm: perf
+  gramm: pf
  -flex: gə.
-  gramm: perf
+  gramm: pf
