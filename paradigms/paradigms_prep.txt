@@ -105,9 +105,9 @@
   gramm: 3,sg,f
  -flex: <3>.an//<3>.ayna
   gramm: 1,pl
- -flex: <3>.ayxu
+ -flex: <3>.ayxu//<0>.aṯxu
   gramm: 2,pl
- -flex: <3>.ayye
+ -flex: <3>.ayye//<0>.aṯṯe
   gramm: 3,pl
 
 -paradigm: PREP_xud
