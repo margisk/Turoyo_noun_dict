@@ -2,469 +2,469 @@
 
 # Bare form
  -flex: <0><.>.o.a.no//<0><.>.u.a.no//<0><.>.ə.a.no//<2><.>.o.a.no//<2><.>.u.a.no//<2><.>.ə.a.no
-  gramm: prs,1,sg,m
+  gramm: prs_stem,1,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ono//<1><.>.u.ono
-  gramm: prs,1,sg,f
+  gramm: prs_stem,1,sg,f
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.at//<1>.u.at
-  gramm: prs,2,sg
+  gramm: prs_stem,2,sg
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ət//<1>.u.ət
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.ə.
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.o//<1><.>.u.o
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ina//<1><.>.u.ina
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.utu//<1><.>.ə.itu//<1><.>.u.utu//<1><.>.u.itu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.i//<1><.>.u.i
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
   paradigm: vb_prefix_pres_fut
 
 # Bare form + suffixes
  # 1st person sgm bare + suffixes
  -flex: <0><.>.o.a.nolux//<0><.>.o.a.nux//<2><.>.o.a.nolux//<2><.>.o.a.nux//<0><.>.o.a.nolox//<0><.>.o.a.nox//<2><.>.o.a.nolox//<2><.>.o.a.nox//<0><.>.u.a.nolox//<0><.>.u.a.nox//<0><.>.ə.a.nolox//<0><.>.ə.a.nox//<2><.>.u.a.nolox//<2><.>.u.a.nox//<2><.>.ə.a.nolox//<2><.>.ə.a.nox
- gramm: prs,1,sg,m,2.o,sg.o,m.o
+ gramm: prs_stem,1,sg,m,2.o,sg.o,m.o
  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.anolax//<0><.>.o.a.nax//<2><.>.o.a.nolax//<2><.>.o.a.nax//<0><.>.o.a.noləx//<0><.>.o.a.nəx//<2><.>.o.a.noləx//<2><.>.o.a.nəx//<0><.>.u.a.noləx//<0><.>.u.a.nəx//<0><.>.ə.a.noləx//<0><.>.ə.a.nəx//<2><.>.u.a.noləx//<2><.>.u.a.nəx//<2><.>.ə.a.noləx//<2><.>.ə.a.nəx
-  gramm: prs,1,sg,m,2.o,sg.o,f.o
+  gramm: prs_stem,1,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.nole//<0><.>.o.a.ne//<2><.>.o.a.nole//<2><.>.o.a.ne//<0><.>.u.a.nole//<0><.>.u.a.ne//<2><.>.u.a.nole//<2><.>.u.a.ne//<0><.>.ə.a.nole//<0><.>.ə.a.ne//<2><.>.ə.a.nole//<2><.>.ə.a.ne
-  gramm: prs,1,sg,m,3.o,sg.o,m.o
+  gramm: prs_stem,1,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.nola//<0><.>.o.a.na//<2><.>.o.a.nola//<2><.>.o.a.na//<0><.>.u.a.nola//<0><.>.u.a.na//<2><.>.u.a.nola//<2><.>.u.a.na//<0><.>.ə.a.nola//<0><.>.ə.a.na//<2><.>.ə.a.nola//<2><.>.ə.a.na
-  gramm: prs,1,sg,m,3.o,sg.o,f.o
+  gramm: prs_stem,1,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.nanxu//<0><.>.o.a.nuxxu//<2><.>.o.a.nanxu//<2><.>.o.a.nuxxu//<0><.>.u.a.nanxu//<0><.>.u.a.nuxxu//<2><.>.u.a.nanxu//<2><.>.u.a.nuxxu//<0><.>.ə.a.nanxu//<0><.>.ə.a.nuxxu//<2><.>.ə.a.nanxu//<2><.>.ə.a.nuxxu
-  gramm: prs,1,sg,m,2.o,pl.o
+  gramm: prs_stem,1,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.nanne//<2><.>.o.a.nanne//<0><.>.u.a.nanne//<2><.>.u.a.nanne//<0><.>.ə.a.nanne//<2><.>.ə.a.nanne//<0><.>.u.a.nolən//<2><.>.u.a.nolən//<0><.>.ə.a.nolən//<2><.>.ə.a.nolən
-  gramm: prs,1,sg,m,3.o,pl.o
+  gramm: prs_stem,1,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 1st person sgf bare + suffixes
  -flex: <1><.>.ə.allux//<1><.>.ə.allox//<1><.>.u.allux//<1><.>.u.allox
-  gramm: prs,1,sg,f,2.o,sg.o,m.o
+  gramm: prs_stem,1,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.allax//<1><.>.ə.alləx//<1><.>.u.allax//<1><.>.u.alləx
-  gramm: prs,1,sg,f,2.o,sg.o,f.o
+  gramm: prs_stem,1,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.alle//<1><.>.u.alle
-  gramm: prs,1,sg,f,3.o,sg.o,m.o
+  gramm: prs_stem,1,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.alla//<1><.>.u.alla
-  gramm: prs,1,sg,f,3.o,sg.o,f.o
+  gramm: prs_stem,1,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.alxu//<1><.>.ə.axxu//<1><.>.u.alxu//<1><.>.u.axxu
-  gramm: prs,1,sg,f,2.o,pl.o
+  gramm: prs_stem,1,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.anne//<1><.>.u.anne
-  gramm: prs,1,sg,f,3.o,pl.o
+  gramm: prs_stem,1,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
 
  # 2nd person bare + suffixes
  -flex: <1><.>.ə.atli//<1><.>.u.atli
-  gramm: prs,2,sg,1.o,sg.o
+  gramm: prs_stem,2,sg,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.atle//<1><.>.u.atle
-  gramm: prs,2,sg,3.o,sg.o,m.o
+  gramm: prs_stem,2,sg,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.atla//<1><.>.u.atla
-  gramm: prs,2,sg,3.o,sg.o,f.o
+  gramm: prs_stem,2,sg,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.atlan//<1><.>.u.atlan
-  gramm: prs,2,sg,1.o,pl.o
+  gramm: prs_stem,2,sg,1.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.atte//<1><.>.u.atte
-  gramm: prs,2,sg,3.o,pl.o
+  gramm: prs_stem,2,sg,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 2nd person masculin (Midən) bare form + suffixes
  -flex: <1><.>.ə.ətli//<1><.>.u.ətli
-  gramm: prs,2,sg,m,1.o,sg.o
+  gramm: prs_stem,2,sg,m,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ətle//<1><.>.u.ətle
-  gramm: prs,2,sg,m,3.o,sg.o,m.o
+  gramm: prs_stem,2,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ətla//<1><.>.u.ətla
-  gramm: prs,2,sg,m,3.o,sg.o,f.o
+  gramm: prs_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ətlan//<1><.>.u.ətlan
-  gramm: prs,2,sg,m,1.o,pl.o
+  gramm: prs_stem,2,sg,m,1.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ətte//<1><.>.u.ətte
-  gramm: prs,2,sg,m,3.o,pl.o
+  gramm: prs_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
 
  # 3rd person sgm bare form + suffixes
  -flex: <0><.>.o.a.lux//<0><.>.u.a.lox//<0><.>.ə.a.lox//<4><.>.o.a.lux//<4><.>.u.a.lox//<4><.>.ə.a.lox
-  gramm: prs,3,sg,m,2.o,sg.o,m.o
+  gramm: prs_stem,3,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.lax//<0><.>.u.a.ləx//<0><.>.ə.a.ləx//<4><.>.o.a.lax//<4><.>.u.a.ləx//<4><.>.ə.a.ləx
-  gramm: prs,3,sg,m,2.o,sg.o,f.o
+  gramm: prs_stem,3,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.le//<0><.>.u.a.le//<0><.>.ə.a.le//<4><.>.o.a.le//<4><.>.u.a.le//<4><.>.ə.a.le
-  gramm: prs,3,sg,m,3.o,sg.o,m.o
+  gramm: prs_stem,3,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.la//<0><.>.u.a.la//<0><.>.ə.a.la//<4><.>.o.a.le//<4><.>.u.a.le//<4><.>.ə.a.le
-  gramm: prs,3,sg,m,3.o,sg.o,f.o
+  gramm: prs_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.lan//<0><.>.u.a.lan//<0><.>.ə.a.lan//<4><.>.o.a.lan//<4><.>.u.a.lan//<4><.>.ə.a.lan
-  gramm: prs,3,sg,m,1.o,pl.o
+  gramm: prs_stem,3,sg,m,1.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.xu//<0><.>.u.a.xu//<0><.>.ə.a.xu
-  gramm: prs,3,sg,m,2.o,pl.o
+  gramm: prs_stem,3,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.re//<0><.>.u.a.re//<0><.>.ə.a.re
-  gramm: prs,3,sg,m,3.o,pl.o
+  gramm: prs_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 3rd person sgf bare + suffixes
  -flex: <1><.>.ə.oli//<1><.>.u.oli
-  gramm: prs,3,sg,f,1.o,sg.o
+  gramm: prs_stem,3,sg,f,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.olux//<1><.>.ə.olox//<1><.>.u.olux//<1><.>.u.olox
-  gramm: prs,3,sg,f,2.o,sg.o,m.o
+  gramm: prs_stem,3,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.olax//<1><.>.ə.oləx//<1><.>.u.olax//<1><.>.u.oləx
-  gramm: prs,3,sg,f,2.o,sg.o,f.o
+  gramm: prs_stem,3,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ole//<1><.>.u.ole
-  gramm: prs,3,sg,f,3.o,sg.o,m.o
+  gramm: prs_stem,3,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ola//<1><.>.u.ola
-  gramm: prs,3,sg,f,3.o,sg.o,f.o
+  gramm: prs_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.olan//<1><.>.u.olan
-  gramm: prs,3,sg,f,1.o,pl.o
+  gramm: prs_stem,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.alxu//<1><.>.u.alxu
-  gramm: prs,3,sg,f,2.o,pl.o
+  gramm: prs_stem,3,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.alle//<1><.>.ə.ulle//<1><.>.u.alle//<1><.>.u.ulle
-  gramm: prs,3,sg,f,3.o,pl.o
+  gramm: prs_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 1st person pl bare + suffixes
  -flex: <1><.>.ə.inalux//<1><.>.ə.inalox//<1><.>.u.inalux//<1><.>.u.inalox
-  gramm: prs,1,pl,2.o,sg.o,m.o
+  gramm: prs_stem,1,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.inalax//<1><.>.ə.inaləx//<1><.>.u.inalax//<1><.>.u.inaləx
-  gramm: prs,1,pl,2.o,sg.o,f.o
+  gramm: prs_stem,1,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.inale//<1><.>.u.inale
-  gramm: prs,1,pl,3.o,sg.o,m.o
+  gramm: prs_stem,1,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.inala//<1><.>.u.inala
-  gramm: prs,1,pl,3.o,sg.o,f.o
+  gramm: prs_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.inanxu//<1><.>.ə.inalxu//<1><.>.u.inanxu//<1><.>.u.inalxu
-  gramm: prs,1,pl,2.o,pl.o
+  gramm: prs_stem,1,pl,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.inanne//<1><.>.u.inanne
-  gramm: prs,1,pl,3.o,pl.o
+  gramm: prs_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 2nd person pl bare + suffixes
  -flex: <1><.>.ə.utəlli//<1><.>.ə.utli//<1><.>.ə.utuli//<1><.>.ə.itulli//<1><.>.u.utəlli//<1><.>.u.utli//<1><.>.u.utuli//<1><.>.u.itulli
-  gramm: prs,2,pl,1.o,sg.o
+  gramm: prs_stem,2,pl,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.utəllan//<1><.>.ə.utlan//<1><.>.ə.utulan//<1><.>.ə.itullan//<1><.>.u.utəllan//<1><.>.u.utlan//<1><.>.u.utulan//<1><.>.u.itullan
-  gramm: prs,2,pl,1.o,pl.o
+  gramm: prs_stem,2,pl,1.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.utəlle//<1><.>.ə.utle//<1><.>.ə.utule//<1><.>.ə.itulle//<1><.>.u.utəlle//<1><.>.u.utle//<1><.>.u.utule//<1><.>.u.itulle
-  gramm: prs,2,pl,3.o,sg.o,m.o
+  gramm: prs_stem,2,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.utəlla//<1><.>.ə.utlan//<1><.>.ə.utula//<1><.>.ə.itulla//<1><.>.u.utəlla//<1><.>.u.utlan//<1><.>.u.utula//<1><.>.u.itulla
-  gramm: prs,2,pl,3.o,sg.o,f.o
+  gramm: prs_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.utənne//<1><.>.ə.itunne//<1><.>.u.utənne//<1><.>.u.itunne
-  gramm: prs,2,pl,3.o,pl.o
+  gramm: prs_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
  # 3rd person pl bare + suffixes
  -flex: <1><.>.ə.ili//<1><.>.u.ili
-  gramm: prs,3,pl,1.o,sg.o
+  gramm: prs_stem,3,pl,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ilux//<1><.>.ə.ilox//<1><.>.u.ilux//<1><.>.u.ilox
-  gramm: prs,3,pl,2.o,sg.o,m.o
+  gramm: prs_stem,3,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ilax//<1><.>.ə.iləx//<1><.>.u.ilax//<1><.>.u.iləx
-  gramm: prs,3,pl,2.o,sg.o,f.o
+  gramm: prs_stem,3,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ile//<1><.>.u.ile
-  gramm: prs,3,pl,3.o,sg.o,m.o
+  gramm: prs_stem,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ila//<1><.>.u.ila
-  gramm: prs,3,pl,3.o,sg.o,f.o
+  gramm: prs_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ənxu//<1><.>.u.ənxu
-  gramm: prs,3,pl,2.o,pl.o
+  gramm: prs_stem,3,pl,2.o,pl.o
   paradigm: vb_prefix_pres_fut
  -flex: <1><.>.ə.ənne//<1><.>.u.ənne
-  gramm: prs,3,pl,3.o,pl.o
+  gramm: prs_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
  
 
 # Preterite
  -flex: <3><.>.ə.li//<4><.>.ə.li
-  gramm: pst,1,sg
+  gramm: pst_stem,1,sg
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lux//<3><.>.ə.lox//<4><.>.ə.lux//<4><.>.ə.lox
-  gramm: pst,2,sg,m
+  gramm: pst_stem,2,sg,m
   paradigm: vb_prefix_perf
  -flex: <3.ə.lax//<3><.>.ə.ləx//<4><.>.ə.lax//<4><.>.ə.ləx
-  gramm: pst,2,sg,f
+  gramm: pst_stem,2,sg,f
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.le//<4><.>.ə.le
-  gramm: pst,3,sg,m
+  gramm: pst_stem,3,sg,m
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.la//<4><.>.ə.la
-  gramm: pst,3,sg,f
+  gramm: pst_stem,3,sg,f
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lan//<4><.>.ə.lan
-  gramm: pst,1,pl
+  gramm: pst_stem,1,pl
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xu
-  gramm: pst,2,pl
+  gramm: pst_stem,2,pl
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.re//<3><.>.ə.lən
-  gramm: pst,3,pl
+  gramm: pst_stem,3,pl
   paradigm: vb_prefix_perf
 
 # Preterite + suffixes
 
  # Preterite, 3fs inner ob
  -flex: <3><.>.i.oli//<3><.>.ə.oli
-  gramm: pst,1,sg,3.o,sg.o,f.o
+  gramm: pst_stem,1,sg,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.olux//<3><.>.ə.olox
-  gramm: pst,2,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.olax//<3><.>.ə.oləx
-  gramm: pst,2,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ole//<3><.>.ə.ole
-  gramm: pst,3,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ola//<3><.>.ə.ola
-  gramm: pst,3,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.olan//<3><.>.ə.olan
-  gramm: pst,1,pl,3.o,sg.o,f.o
+  gramm: pst_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.alxu//<3><.>.ə.alxu
-  gramm: pst,2,pl,3.o,sg.o,f.o
+  gramm: pst_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.alle//<3><.>.ə.alle//<3><.>.ə.ulle
-  gramm: pst,3,pl,3.o,sg.o,f.o
+  gramm: pst_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  
  # Preterite, 3pl inner ob
  -flex: <3><.>.i.ili//<3><.>.ə.ili
-  gramm: pst,1,sg,3.o,pl.o
+  gramm: pst_stem,1,sg,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ilux//<3><.>.ə.ilox
-  gramm: pst,2,sg,m,3.o,pl.o
+  gramm: pst_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ilax//<3><.>.ə.iləx
-  gramm: pst,2,sg,f,3.o,pl.o
+  gramm: pst_stem,2,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ile//<3><.>.ə.ile
-  gramm: pst,3,sg,m,3.o,pl.o
+  gramm: pst_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ila//<3><.>.ə.ila
-  gramm: pst,3,sg,f,3.o,pl.o
+  gramm: pst_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ilan//<3><.>.ə.ilan
-  gramm: pst,1,pl,3.o,pl.o
+  gramm: pst_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ənxu//<3><.>.ə.ənxu
-  gramm: pst,2,pl,3.o,pl.o
+  gramm: pst_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.i.ənne//<3><.>.ə.ənne
-  gramm: pst,3,pl,3.o,pl.o
+  gramm: pst_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_perf
 
 # Preterite with dative/accusative suffixes
  # 1st person sg + suffixes
  -flex: <3><.>.ə.lilux//<3><.>.ə.lilox//<4><.>.ə.lilux//<4><.>.ə.lilox
-  gramm: pst,1,sg,2.o,sg.o,m.o
+  gramm: pst_stem,1,sg,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lilax//<3><.>.ə.liləx//<4><.>.ə.lilax//<4><.>.ə.liləx
-  gramm: pst,1,sg,2.o,sg.o,f.o
+  gramm: pst_stem,1,sg,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lile//<4><.>.ə.lile
-  gramm: pst,1,sg,3.o,sg.o,m.o
+  gramm: pst_stem,1,sg,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lila//<4><.>.ə.lila
-  gramm: pst,1,sg,3.o,sg.o,f.o
+  gramm: pst_stem,1,sg,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lilxu//<3><.>.ə.lilalxu//<4><.>.ə.lilxu//<4><.>.ə.lilalxu
-  gramm: pst,1,sg,2.o,pl.o
+  gramm: pst_stem,1,sg,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lilən//<3><.>.ə.lille//<3><.>.ə.lilalle//<4><.>.ə.lilən//<4><.>.ə.lille//<4><.>.ə.lilalle
-  gramm: pst,1,sg,3.o,pl.o
+  gramm: pst_stem,1,sg,3.o,pl.o
   paradigm: vb_prefix_perf
 
  # 2nd person sgm + suffixes
  -flex: <3><.>.ə.luxli//<3><.>.ə.loxli//<4><.>.ə.luxli//<4><.>.ə.loxli
-  gramm: pst,2,sg,m,1.o,sg.o
+  gramm: pst_stem,2,sg,m,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.luxle//<3><.>.ə.loxle//<4><.>.ə.luxle//<4><.>.ə.loxle
-  gramm: pst,2,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.luxla//<3><.>.ə.loxla//<4><.>.ə.luxla//<4><.>.ə.loxla
-  gramm: pst,2,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.luxlan//<3><.>.ə.loxlan//<4><.>.ə.loxlan//<4><.>.ə.loxlan
-  gramm: pst,2,sg,m,1.o,pl.o
+  gramm: pst_stem,2,sg,m,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.luxxe//<3><.>.ə.loxlən//<3><.>.ə.luxlalle//<4><.>.ə.luxxe//<4><.>.ə.loxlən//<4><.>.ə.luxlalle
-  gramm: pst,2,sg,m,3.o,pl.o
+  gramm: pst_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
  
  # 2nd person sgf + suffixes
  -flex: <3><.>.ə.laxli//<3><.>.ə.ləxli//<4><.>.ə.laxli//<4><.>.ə.ləxli
-  gramm: pst,2,sg,f,1.o,sg.o
+  gramm: pst_stem,2,sg,f,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.laxle//<3><.>.ə.ləxle//<4><.>.ə.laxle//<4><.>.ə.ləxle
-  gramm: pst,2,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.laxla//<3><.>.ə.ləxla//<4><.>.ə.laxla//<4><.>.ə.ləxla
-  gramm: pst,2,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.laxlan//<3><.>.ə.ləxlan//<4><.>.ə.ləxlan//<4><.>.ə.ləxlan
-  gramm: pst,2,sg,f,1.o,pl.o
+  gramm: pst_stem,2,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.laxxe//<3><.>.ə.ləxlən//<3><.>.ə.laxlalle//<4><.>.ə.laxxe//<4><.>.ə.ləxlən//<4><.>.ə.laxlalle
-  gramm: pst,2,sg,f,3.o,pl.o
+  gramm: pst_stem,2,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
 
  # 3rd person sgm + suffixes
  -flex: <3><.>.ə.leli//<4><.>.ə.leli
-  gramm: pst,3,sg,m,1.o,sg.o
+  gramm: pst_stem,3,sg,m,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lelux//<3><.>.ə.lelox//<4><.>.ə.lelux//<4><.>.ə.lelox
-  gramm: pst,3,sg,m,2.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lelax//<3><.>.ə.leləx//<4><.>.ə.lelax//<4><.>.ə.leləx
-  gramm: pst,3,sg,m,2.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lele//<4><.>.ə.lele
-  gramm: pst,3,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lela//<4><.>.ə.lela
-  gramm: pst,3,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lelan//<4><.>.ə.lelan
-  gramm: pst,3,sg,m,1.o,pl.o
+  gramm: pst_stem,3,sg,m,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalxu//<3><.>.ə.lelalxu//<4><.>.ə.lalxu//<4><.>.ə.lelalxu
-  gramm: pst,3,sg,m,2.o,pl.o
+  gramm: pst_stem,3,sg,m,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalle//<3><.>.ə.lelalle//<4><.>.ə.lalle//<4><.>.ə.lelalle
-  gramm: pst,3,sg,m,3.o,pl.o
+  gramm: pst_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
  
  # 3rd person sgf + suffixes
  -flex: <3><.>.ə.lali//<4><.>.ə.lali
-  gramm: pst,3,sg,f,1.o,sg.o
+  gramm: pst_stem,3,sg,f,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalux//<3><.>.ə.lalox//<4><.>.ə.lalux//<4><.>.ə.lalox
-  gramm: pst,3,sg,f,2.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalax//<3><.>.ə.laləx//<4><.>.ə.lalax//<4><.>.ə.laləx
-  gramm: pst,3,sg,f,2.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lale//<4><.>.ə.lale
-  gramm: pst,3,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lala//<4><.>.ə.lala
-  gramm: pst,3,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalan//<4><.>.ə.lalan
-  gramm: pst,3,sg,f,1.o,pl.o
+  gramm: pst_stem,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalxu//<3><.>.ə.lalalxu//<4><.>.ə.lalxu//<4><.>.ə.lalalxu
-  gramm: pst,3,sg,f,2.o,pl.o
+  gramm: pst_stem,3,sg,f,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lalla//<3><.>.ə.lalalla//<4><.>.ə.lalla//<4><.>.ə.lalalla
-  gramm: pst,3,sg,f,3.o,pl.o
+  gramm: pst_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
  
  # 1st person pl + suffixes
  -flex: <3><.>.ə.lanlux//<3><.>.ə.lanlox//<4><.>.ə.lanlux//<4><.>.ə.lanlox
-  gramm: pst,1,pl,2.o,sg.o,m.o
+  gramm: pst_stem,1,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lanlax//<3><.>.ə.lanləx//<4><.>.ə.lanlax//<4><.>.ə.lanləx
-  gramm: pst,1,pl,2.o,sg.o,f.o
+  gramm: pst_stem,1,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lanle//<4><.>.ə.lanle
-  gramm: pst,1,pl,3.o,sg.o,m.o
+  gramm: pst_stem,1,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lanla//<4><.>.ə.lanla
-  gramm: pst,1,pl,3.o,sg.o,f.o
+  gramm: pst_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lanxu//<3><.>.ə.lanlalxu//<4><.>.ə.lanxu//<4><.>.ə.lanlalxu
-  gramm: pst,1,pl,2.o,pl.o
+  gramm: pst_stem,1,pl,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.lanne//<3><.>.ə.lanlalle//<4><.>.ə.lanne//<4><.>.ə.lanlalle
-  gramm: pst,1,pl,3.o,pl.o
+  gramm: pst_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_perf
  
  # 2nd person pl + suffixes
  -flex: <3><.>.ə.xulli
-  gramm: pst,2,pl,1.o,sg.o
+  gramm: pst_stem,2,pl,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xulle
-  gramm: pst,2,pl,3.o,sg.o,m.o
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xulla
-  gramm: pst,2,pl,3.o,sg.o,f.o
+  gramm: pst_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xullan
-  gramm: pst,2,pl,1.o,pl.o
+  gramm: pst_stem,2,pl,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xunxu
-  gramm: pst,2,pl,2.o,pl.o
+  gramm: pst_stem,2,pl,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.xunne//<3><.>.ə.xulən
-  gramm: pst,2,pl,3.o,pl.o
+  gramm: pst_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_perf
  
  # 3rd person pl + suffixes
  -flex: <3><.>.ə.ralli
-  gramm: pst,3,pl,1.o,sg.o
+  gramm: pst_stem,3,pl,1.o,sg.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.rallux//<3><.>.ə.rallox
-  gramm: pst,3,pl,2.o,sg.o,m.o
+  gramm: pst_stem,3,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.rallax//<3><.>.ə.ralləx
-  gramm: pst,3,pl,2.o,sg.o,f.o
+  gramm: pst_stem,3,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.ralle
-  gramm: pst,3,pl,3.o,sg.o,m.o
+  gramm: pst_stem,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.ralla
-  gramm: pst,3,pl,3.o,sg.o,f.o
+  gramm: pst_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.rallan
-  gramm: pst,3,pl,1.o,pl.o
+  gramm: pst_stem,3,pl,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.ralxu
-  gramm: pst,3,pl,2.o,pl.o
+  gramm: pst_stem,3,pl,2.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.ranne
-  gramm: pst,3,pl,3.o,pl.o
+  gramm: pst_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_perf
 
 # Imperfect

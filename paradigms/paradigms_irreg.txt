@@ -2,76 +2,76 @@
 
 # Bare form
  -flex: <1>.i//<1>.ino
-  gramm: prs,1,sg
+  gramm: prs_stem,1,sg
  -flex: <1>.ux//<1>.ox//<1>.olux
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <1>.ax//<1>.əx//<1>.əlax
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <1>.e//<1>.eyo//<1>.ele
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <1>.a//<1>.ayo//<1>.ala
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <1>.an//<1>.ano
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <1>.oxu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <1>.ən//<1>.ehən//<1>.ehənyo
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
 
 # Past
  -flex: <0>.i//<0>.ino
-  gramm: pst,1,sg
+  gramm: pst_stem,1,sg
  -flex: <0>.ux//<0>.ox//<0>.olux
-  gramm: pst,2,sg,m
+  gramm: pst_stem,2,sg,m
  -flex: <0>.ax//<0>.əx//<0>.alax
-  gramm: pst,2,sg,f
+  gramm: pst_stem,2,sg,f
  -flex: <0>.e//<0>.eyo//<0>.ele
-  gramm: pst,3,sg,m
+  gramm: pst_stem,3,sg,m
  -flex: <0>.a//<0>.ayo//<0>.ala
-  gramm: pst,3,sg,f
+  gramm: pst_stem,3,sg,f
  -flex: <0>.an//<0>.ano
-  gramm: pst,1,pl
+  gramm: pst_stem,1,pl
  -flex: <0>.oxu
-  gramm: pst,2,pl
+  gramm: pst_stem,2,pl
  -flex: <0>.ən//<0>.ehən//<0>.ehənyo//<0>.ənne
-  gramm: pst,3,pl
+  gramm: pst_stem,3,pl
 
 # Present + ko
  -flex: <1>k.i//<1>k.ino
-  gramm: prs,1,sg
+  gramm: prs_stem,1,sg
  -flex: <1>k.ux//<1>k.ox
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <1>k.ax//<1>k.əx
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <1>k.e//<1>k.eyo
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <1>k.a//<1>k.ayo
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <1>k.an//<1>k.ano
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <1>k.oxu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <1>k.ən//<1>k.ehən//<1>k.ehənyo
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
 
 # Future
 
  -flex: <1>g.i//<1>g.ino//<1>gd.i//<1>gd.ino//
-  gramm: prs,1,sg
+  gramm: prs_stem,1,sg
  -flex: <1>g.ux//<1>.ox//<1>g.ux//<1>.ox
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <1>g.ax//<1>.əx//<1>g.ux//<1>.ox
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <1>g.e//<1>g.eyo//<1>gd.e//<1>gd.eyo
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <1>g.a//<1>g.ayo//<1>gd.a//<1>gd.ayo
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <1>g.an//<1>g.ano//<1>gd.an//<1>gd.ano
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <1>g.oxu//<1>g.oxu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <1>g.ən//<1>g.ehən//<1>g.ehənyo//<1>gd.ən//<1>gd.ehən//<1>gd.ehənyo
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
 
 # Imperfect
  -flex: <1>.iwayno//<1>.inowo
@@ -111,21 +111,21 @@
 
 # Perfect
  -flex: <0>k.i//<0>k.ino
-  gramm: pst,1,sg
+  gramm: pst_stem,1,sg
  -flex: <0>k.ux//<0>k.ox
-  gramm: pst,2,sg,m
+  gramm: pst_stem,2,sg,m
  -flex: <0>k.ax//<0>k.əx
-  gramm: pst,2,sg,f
+  gramm: pst_stem,2,sg,f
  -flex: <0>k.e//<0>k.eyo
-  gramm: pst,3,sg,m
+  gramm: pst_stem,3,sg,m
  -flex: <0>k.a//<0>k.ayo
-  gramm: pst,3,sg,f
+  gramm: pst_stem,3,sg,f
  -flex: <0>k.an//<0>k.ano
-  gramm: pst,1,pl
+  gramm: pst_stem,1,pl
  -flex: <0>k.oxu
-  gramm: pst,2,pl
+  gramm: pst_stem,2,pl
  -flex: <0>k.ən//<0>k.ehən//<0>k.ehənyo
-  gramm: pst,3,pl
+  gramm: pst_stem,3,pl
 
 # Imperative
  -flex: <2>.ux//<2>.ox//<2>i.ux//<2>i.ox//<2>i.olux
@@ -139,383 +139,383 @@
 
 # Bare
  -flex: <0>.o.eno//<0>.ə.eno//<0>.u.eno
-  gramm: prs,1,sg,m
+  gramm: prs_stem,1,sg,m
  -flex: <0>.o.ono//<0>.ə.ono//<0>.u.ono
-  gramm: prs,1,sg,f
+  gramm: prs_stem,1,sg,f
  -flex: <0>.o.at//<0>.o.ət
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <0>.o.at//<0>.o.ət
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <0>.o.e
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <0>.o.o
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <0>.o.ina//<0>.o.ena
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <0>.o.utu//<0>.o.itu//<0>.o.etu//<0>.ə.itu//<0>.ə.etu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <0>.o.ən//<0>.o.i
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
 
 # Bare with obj./dat. suffixes
   
   # 1st person sgm + suffixes
 
  -flex: <0>.o.enoli//<0>.ə.enoli//<0>.o.eni//<0>.ə.eni//<0>.u.enoli//<0>.u.eni
-  gramm: prs,1,sg,m,1.o,sg.o
+  gramm: prs_stem,1,sg,m,1.o,sg.o
  -flex: <0>.o.enolux//<0>.ə.enolux//<0>.o.enolox//<0>.ə.enolox//<0>.o.enux//<0>.ə.enux//<0>.o.enox//<0>.ə.enox//<0>.u.enolox//<0>.u.enox
-  gramm: prs,1,sg,m,2.o,sg.o,m.o
+  gramm: prs_stem,1,sg,m,2.o,sg.o,m.o
  -flex: <0>.o.enolax//<0>.ə.enolax//<0>.o.enoləx//<0>.ə.enoləx//<0>.o.enax//<0>.ə.enax//<0>.o.enəx//<0>.ə.enəx//<0>.u.enoləx//<0>.u.enəx
-  gramm: prs,1,sg,m,2.o,sg.o,f.o
+  gramm: prs_stem,1,sg,m,2.o,sg.o,f.o
  -flex: <0>.o.enole//<0>.ə.enole//<0>.o.ene//<0>.ə.ene//<0>.u.enole//<0>.u.ene
-  gramm: prs,1,sg,m,3.o,sg.o,m.o
+  gramm: prs_stem,1,sg,m,3.o,sg.o,m.o
  -flex: <0>.o.enola//<0>.ə.enola//<0>.o.ena//<0>.ə.ena//<0>.u.enola//<0>.u.ena
-  gramm: prs,1,sg,m,3.o,sg.o,f.o
+  gramm: prs_stem,1,sg,m,3.o,sg.o,f.o
  -flex: <0>.o.enolan//<0>.ə.enolan//<0>.o.enan//<0>.ə.enan//<0>.u.enolan//<0>.u.enan
-  gramm: prs,1,sg,m,1.o,pl.o
+  gramm: prs_stem,1,sg,m,1.o,pl.o
  -flex: <0>.o.enalxu//<0>.ə.enalxu//<0>.o.anxu//<0>.ə.anxu//<0>.o.enanxu//<0>.ə.enanxu//<0>.u.enulxu
-  gramm: prs,1,sg,m,2.o,pl.o
+  gramm: prs_stem,1,sg,m,2.o,pl.o
  -flex: <0>.o.enalle//<0>.ə.enalle//<0>.o.enanne//<0>.ə.enanne//<0>.u.enulle//<0>.u.enolən
 
   # 1st person sgf + suffixes
 
  -flex: <0>.o.onoli//<0>.o.alli//<0>.ə.onoli//<0>.ə.alli//<0>.u.onoli//<0>.u.alli
-  gramm: prs,1,sg,f,1.o,sg.o
+  gramm: prs_stem,1,sg,f,1.o,sg.o
  -flex: <0>.o.onolux//<0>.o.allux//<0>.ə.onolox//<0>.ə.allox//<0>.u.onolox//<0>.u.allox
-  gramm: prs,1,sg,f,2.o,sg.o,m.o
+  gramm: prs_stem,1,sg,f,2.o,sg.o,m.o
  -flex: <0>.o.onolax//<0>.o.allax//<0>.ə.onoləx//<0>.ə.alləx//<0>.u.onoləx//<0>.u.alləx
-  gramm: prs,1,sg,f,2.o,sg.o,f.o
+  gramm: prs_stem,1,sg,f,2.o,sg.o,f.o
  -flex: <0>.o.onole//<0>.o.alle//<0>.ə.onole//<0>.ə.alle//<0>.u.onole//<0>.u.alle
-  gramm: prs,1,sg,f,3.o,sg.o,m.o
+  gramm: prs_stem,1,sg,f,3.o,sg.o,m.o
  -flex: <0>.o.onola//<0>.o.alla//<0>.ə.onola//<0>.ə.alla//<0>.u.onola//<0>.u.alla
-  gramm: prs,1,sg,f,3.o,sg.o,f.o
+  gramm: prs_stem,1,sg,f,3.o,sg.o,f.o
  -flex: <0>.o.onolan//<0>.ə.onolan//<0>.u.onolan
-  gramm: prs,1,sg,f,1.o,pl.o
+  gramm: prs_stem,1,sg,f,1.o,pl.o
  -flex: <0>.o.anxu//<0>.ə.anxu//<0>.u.anxu
-  gramm: prs,1,sg,f,2.o,pl.o
+  gramm: prs_stem,1,sg,f,2.o,pl.o
  -flex: <0>.o.anne//<0>.ə.anne//<0>.u.anne//<0>.ə.onolən//<0>.u.onolən//<0>.ə.allən//<0>.u.allən
-  gramm: prs,1,sg,f,3.o,pl.o
+  gramm: prs_stem,1,sg,f,3.o,pl.o
 
 
   # 2nd person sg + suffixes
  -flex: <0>.o.atli//<0>.ə.atli//<0>.u.atli
-  gramm: prs,2,sg,1.o,sg.o
+  gramm: prs_stem,2,sg,1.o,sg.o
  -flex: <0>.o.atlux//<0>.ə.atlox//<0>.u.atlox
-  gramm: prs,2,sg,2.o,sg.o,m.o
+  gramm: prs_stem,2,sg,2.o,sg.o,m.o
  -flex: <0>.o.atlax//<0>.ə.atləx//<0>.u.atləx
-  gramm: prs,2,sg,2.o,sg.o,f.o
+  gramm: prs_stem,2,sg,2.o,sg.o,f.o
  -flex: <0>.o.atle//<0>.ə.atle//<0>.u.atle
-  gramm: prs,2,sg,3.o,sg.o,m.o
+  gramm: prs_stem,2,sg,3.o,sg.o,m.o
  -flex: <0>.o.atla//<0>.ə.atla//<0>.u.atla
-  gramm: prs,2,sg,3.o,sg.o,f.o
+  gramm: prs_stem,2,sg,3.o,sg.o,f.o
  -flex: <0>.o.atlan//<0>.ə.atlan//<0>.u.atlan
-  gramm: prs,2,sg,1.o,pl.o
+  gramm: prs_stem,2,sg,1.o,pl.o
  -flex: <0>.o.atte//<0>.ə.atte//<0>.u.atte
-  gramm: prs,2,sg,3.o,pl.o
+  gramm: prs_stem,2,sg,3.o,pl.o
 
   # 3rd person sgm + suffixes
 
  -flex: <0>.o.eli//<0>.ə.eli//<0>.u.eli
-  gramm: prs,3,sg,m,1.o,sg.o
+  gramm: prs_stem,3,sg,m,1.o,sg.o
  -flex: <0>.o.elux//<0>.ə.elox//<0>.u.elox
-  gramm: prs,3,sg,m,2.o,sg.o,m.o
+  gramm: prs_stem,3,sg,m,2.o,sg.o,m.o
  -flex: <0>.o.elax//<0>.ə.eləx//<0>.u.eləx
-  gramm: prs,3,sg,m,2.o,sg.o,f.o
+  gramm: prs_stem,3,sg,m,2.o,sg.o,f.o
  -flex: <0>.o.ele//<0>.ə.ele//<0>.u.ele
-  gramm: prs,3,sg,m,3.o,sg.o,m.o
+  gramm: prs_stem,3,sg,m,3.o,sg.o,m.o
  -flex: <0>.o.ela//<0>.ə.ela//<0>.u.ela
-  gramm: prs,3,sg,m,3.o,sg.o,f.o
+  gramm: prs_stem,3,sg,m,3.o,sg.o,f.o
  -flex: <0>.o.elan//<0>.ə.elan//<0>.u.elan
-  gramm: prs,3,sg,m,1.o,pl.o
+  gramm: prs_stem,3,sg,m,1.o,pl.o
  -flex: <0>.o.alxu//<0>.ə.alxu//<0>.u.alxu//<0>.ə.elxu//<0>.u.elxu
-  gramm: prs,3,sg,m,2.o,pl.o
+  gramm: prs_stem,3,sg,m,2.o,pl.o
  -flex: <0>.o.alle//<0>.ə.alle//<0>.u.alle//<0>.ə.elən//<0>.u.elən
 
   # 3rd person sgf + suffixes
 
  -flex: <0>.o.oli//<0>.ə.oli//<0>.u.oli
-  gramm: prs,3,sg,f,1.o,sg.o
+  gramm: prs_stem,3,sg,f,1.o,sg.o
  -flex: <0>.o.olux//<0>.ə.olox//<0>.u.olox
-  gramm: prs,3,sg,f,2.o,sg.o,m.o
+  gramm: prs_stem,3,sg,f,2.o,sg.o,m.o
  -flex: <0>.o.olax//<0>.ə.oləx//<0>.u.oləx
-  gramm: prs,3,sg,f,2.o,sg.o,f.o
+  gramm: prs_stem,3,sg,f,2.o,sg.o,f.o
  -flex: <0>.o.ole//<0>.ə.ole//<0>.u.ole
-  gramm: prs,3,sg,f,3.o,sg.o,m.o
+  gramm: prs_stem,3,sg,f,3.o,sg.o,m.o
  -flex: <0>.o.ola//<0>.ə.ola//<0>.u.ola
-  gramm: prs,3,sg,f,3.o,sg.o,f.o
+  gramm: prs_stem,3,sg,f,3.o,sg.o,f.o
  -flex: <0>.o.olan//<0>.ə.olan//<0>.u.olan
-  gramm: prs,3,sg,f,1.o,pl.o
+  gramm: prs_stem,3,sg,f,1.o,pl.o
  -flex: <0>.o.alxu//<0>.ə.alxu//<0>.u.alxu
-  gramm: prs,3,sg,f,2.o,pl.o
+  gramm: prs_stem,3,sg,f,2.o,pl.o
  -flex: <0>.o.alle//<0>.ə.alle//<0>.u.alle//<0>.ə.olən//<0>.u.olən
-  gramm: prs,3,sg,f,3.o,pl.o
+  gramm: prs_stem,3,sg,f,3.o,pl.o
   
   # 1st person pl + suffixes
  -flex: <0>.o.inali//<0>.ə.inali//<0>.u.inali
-  gramm: prs,1,pl,1.o,sg.o
+  gramm: prs_stem,1,pl,1.o,sg.o
  -flex: <0>.o.inalux//<0>.ə.inalox//<0>.u.inalox
-  gramm: prs,1,pl,2.o,sg.o,m.o
+  gramm: prs_stem,1,pl,2.o,sg.o,m.o
  -flex: <0>.o.inalax//<0>.ə.inaləx//<0>.u.inaləx
-  gramm: prs,1,pl,2.o,sg.o,f.o
+  gramm: prs_stem,1,pl,2.o,sg.o,f.o
  -flex: <0>.o.inale//<0>.ə.inale//<0>.u.inale
-  gramm: prs,1,pl,3.o,sg.o,m.o
+  gramm: prs_stem,1,pl,3.o,sg.o,m.o
  -flex: <0>.o.inala//<0>.ə.inala//<0>.u.inala
-  gramm: prs,1,pl,3sg.fo
+  gramm: prs_stem,1,pl,3sg.fo
  -flex: <0>.o.inalan//<0>.ə.inalan//<0>.u.inalan
-  gramm: prs,1,pl,1.o,pl.o
+  gramm: prs_stem,1,pl,1.o,pl.o
  -flex: <0>.o.inalxu//<0>.ə.inalxu//<0>.u.inalxu
-  gramm: prs,1,pl,2.o,pl.o
+  gramm: prs_stem,1,pl,2.o,pl.o
  -flex: <0>.o.inalle//<0>.o.inanne//<0>.ə.inalle//<0>.ə.inanne//<0>.u.inalle//<0>.u.inanne//<0>.u.inalən//<0>.ə.inalən
-  gramm: prs,1,pl,3.o,pl.o
+  gramm: prs_stem,1,pl,3.o,pl.o
 
   # 2nd person pl + suffixes
  -flex: <0>.o.utəlli//<0>.ə.itulli//<0>.u.itulli//<o>.o.utli
-  gramm: prs,2,pl,1.o,sg.o
+  gramm: prs_stem,2,pl,1.o,sg.o
  -flex: <0>.o.utəllux//<0>.ə.itullox//<0>.u.itullox//<0>.o.utlux
-  gramm: prs,2,pl,2.o,sg.o,m.o
+  gramm: prs_stem,2,pl,2.o,sg.o,m.o
  -flex: <0>.o.utəllax//<0>.ə.itulləx//<0>.u.itulləx//<0>.o.utlax
-  gramm: prs,2,pl,2.o,sg.o,f.o
+  gramm: prs_stem,2,pl,2.o,sg.o,f.o
  -flex: <0>.o.utəlle//<0>.ə.itulle//<0>.u.itulle//<0>.ə.itəlle//<0>.u.itəlle//<0>.o.utle
-  gramm: prs,2,pl,3.o,sg.o,m.o
+  gramm: prs_stem,2,pl,3.o,sg.o,m.o
  -flex: <0>.o.utəlla//<0>.ə.itulla//<0>.u.itulla//<0>.ə.itəlla//<0>.u.itəlla//<0>.o.utla
-  gramm: prs,2,pl,3.o,sg.o,f.o
+  gramm: prs_stem,2,pl,3.o,sg.o,f.o
  -flex: <0>.o.utəllan//<0>.ə.itullan//<0>.u.itullan//<0>.o.utlan
-  gramm: prs,2,pl,1.o,pl.o
+  gramm: prs_stem,2,pl,1.o,pl.o
  -flex: <0>.o.utənne//<0>.ə.itunne//<0>.u.itunne//<0>.o.utne
-  gramm: prs,2,pl,3.o,pl.o
+  gramm: prs_stem,2,pl,3.o,pl.o
 
  # 3rd person pl + suffixes
  -flex: <0>.o.ili//<0>.ə.ili//<0>.u.ili//<0>.o.əlli//<0>.ə.əlli//<0>.u.əlli
-  gramm: prs,3,pl,1.o,sg.o
+  gramm: prs_stem,3,pl,1.o,sg.o
  -flex: <0>.o.ilux//<0>.ə.ilox//<0>.u.ilox//<0>.o.əllux//<0>.ə.əllox//<0>u.əllox
-  gramm: prs,3,pl,2.o,sg.o,m.o
+  gramm: prs_stem,3,pl,2.o,sg.o,m.o
  -flex: <0>.o.ilax//<0>.ə.iləx//<0>.u.iləx//<0>.o.əllax//<0>.ə.əlləx//<0>.u.əlləx
-  gramm: prs,3,pl,2.o,sg.o,f.o
+  gramm: prs_stem,3,pl,2.o,sg.o,f.o
  -flex: <0>.o.ile//<0>.ə.ile//<0>.u.ile//<0>.o.əlle//<0>.ə.əlle//<0>.u.əlle
-  gramm: prs,3,pl,3.o,sg.o,m.o
+  gramm: prs_stem,3,pl,3.o,sg.o,m.o
  -flex: <0>.o.ila//<0>.ə.ila//<0>.u.ila//<0>.o.əlla//<0>.ə.əlla//<0>.u.əlla
-  gramm: prs,3,pl,3.o,sg.o,f.o
+  gramm: prs_stem,3,pl,3.o,sg.o,f.o
  -flex: <0>.o.ilan//<0>.ə.ilan//<0>.u.ilan//<0>.o.əllan//<0>.ə.əllan//<0>.u.əllan
-  gramm: prs,3,pl,1.o,pl.o
+  gramm: prs_stem,3,pl,1.o,pl.o
  -flex: <0>.o.ənxu//<0>.ə.ənxu//<0>.u.ənxu
-  gramm: prs,3,pl,2.o,pl.o
+  gramm: prs_stem,3,pl,2.o,pl.o
  -flex: <0>.o.ənne//<0>.ə.ənne//<0>.u.ənne//<0>.u.ilən//<0>.ə.ilən
-  gramm: prs,3,pl,3.o,pl.o
+  gramm: prs_stem,3,pl,3.o,pl.o
 
   # Ko + Present
  -flex: <0>k.o.eno//<0>k.ə.eno
-  gramm: prs,1,sg
+  gramm: prs_stem,1,sg
  -flex: <0>k.o.at//<0>k.o.ət
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <0>k.o.at//<0>k.o.ət
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <0>k.o.e
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <0>k.o.o
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <0>k.o.ina//<0>k.o.ena
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <0>k.o.utu//<0>k.o.itu//<0>k.o.etu//<0>k.ə.itu//<0>.k.ə.etu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <0>k.o.ən//<0>k.o.i
-  gramm: prs,3,pl 
+  gramm: prs_stem,3,pl 
 
   # Ko + Present + obj./dat. suffixes
  -flex: <0>k.o.eno//<0>k.ə.eno
-  gramm: prs,1,sg
+  gramm: prs_stem,1,sg
  -flex: <0>k.o.at//<0>k.o.ət
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <0>k.o.at//<0>k.o.ət
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <0>k.o.e
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <0>k.o.o
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <0>k.o.ina//<0>k.o.ena
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
  -flex: <0>k.o.utu//<0>k.o.itu//<0>k.o.etu//<0>k.ə.itu//<0>.k.ə.etu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <0>k.o.ən//<0>k.o.i
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
 
 # Preterite, 3ms inner obj
  -flex: <1>.li
-  gramm: pst,1,sg,3.o,sg.o,m.o
+  gramm: pst_stem,1,sg,3.o,sg.o,m.o
  -flex: <1>.lux//<1>.lox
-  gramm: pst,2,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
  -flex: <1>.lax//<1>.ləx
-  gramm: pst,2,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
  -flex: <1>.le
-  gramm: pst,3,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
  -flex: <1>.la
-  gramm: pst,3,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
  -flex: <1>.lan
-  gramm: pst,1,pl,3.o,sg.o,m.o
+  gramm: pst_stem,1,pl,3.o,sg.o,m.o
  -flex: <1>.xu
-  gramm: pst,2,pl,3.o,sg.o,m.o
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
  -flex: <1>.wwe//<1>.we
-  gramm: pst,2,pl,3.o,sg.o,m.o
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
 
 # Preterite, 3fs inner obj
  -flex: <2>.i.oli//<2>.ə.oli//<2>.u.oli
-  gramm: pst,1,sg,3.o,sg.o,f.o
+  gramm: pst_stem,1,sg,3.o,sg.o,f.o
  -flex: <2>.i.olux//<2>.ə.olox//<2>.u.olox
-  gramm: pst,2,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
  -flex: <2>.i.olax//<2>.ə.oləx//<2>.u.oləx
-  gramm: pst,2,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
  -flex: <2>.i.ole//<2>.ə.ole//<2>.u.ole
-  gramm: pst,3,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
  -flex: <2>.i.ola//<2>.ə.ola//<2>.u.ola
-  gramm: pst,3,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
  -flex: <2>.i.olan//<2>.ə.olan//<2>.u.olan
-  gramm: pst,1,pl,3.o,sg.o,f.o
+  gramm: pst_stem,1,pl,3.o,sg.o,f.o
  -flex: <2>.i.alxu//<2>.ə̣.alxu//<2>.ə.ulxu//<2>.u.alxu//<2>.u.ulxu
-  gramm: pst,2,pl,3.o,sg.o,f.o
+  gramm: pst_stem,2,pl,3.o,sg.o,f.o
  -flex: <2>.i.alle//<2>.ə.ulle//<2>.u.ulle
-  gramm: pst,3,pl,3.o,sg.o,f.o
+  gramm: pst_stem,3,pl,3.o,sg.o,f.o
 
 # Preterite, 3pl inner obj
  -flex: <2>.i.ili//<2>.ə.ili//<2>.u.ili
-  gramm: pst,1,sg,3.o,pl.o
+  gramm: pst_stem,1,sg,3.o,pl.o
  -flex: <2>.i.lux//<2>.ə.ilox//<2>.u.ilox
-  gramm: pst,2,sg,m,3.o,pl.o
+  gramm: pst_stem,2,sg,m,3.o,pl.o
  -flex: <2>.i.ilax//<2>.ə.iləx//<2>.u.iləx
-  gramm: pst,2,sg,f,3.o,pl.o
+  gramm: pst_stem,2,sg,f,3.o,pl.o
  -flex: <2>.i.ile//<2>.ə.ile//<2>.u.ile
-  gramm: pst,3,sg,m,3.o,pl.o
+  gramm: pst_stem,3,sg,m,3.o,pl.o
  -flex: <2>.i.ila//<2>.ə.ila//<2>.u.ila
-  gramm: pst,3,sg,f,3.o,pl.o
+  gramm: pst_stem,3,sg,f,3.o,pl.o
  -flex: <2>.i.ilan//<2>.ə.ilan//<2>.u.ilan
-  gramm: pst,1,pl,3.o,pl.o
+  gramm: pst_stem,1,pl,3.o,pl.o
  -flex: <2>.i.ənxu//<2>.ə.ənxu//<2>.u.ənxu
-  gramm: pst,2,pl,3.o,pl.o
+  gramm: pst_stem,2,pl,3.o,pl.o
  -flex: <2>.i.ənne//<2>.ə.ənne//<2>.u.ənne
-  gramm: pst,3,pl,3.o,pl.o
+  gramm: pst_stem,3,pl,3.o,pl.o
 
 # Preterite with dative/accusative suffixes
   # 1st person sg + suffixes
 
  -flex: <1>.lili
-  gramm: pst,1,sg,1.o,sg.o
+  gramm: pst_stem,1,sg,1.o,sg.o
  -flex: <1>.lilux//<1>.lilox
-  gramm: pst,1,sg,2.o,sg.o,m.o
+  gramm: pst_stem,1,sg,2.o,sg.o,m.o
  -flex: <1>.lilax//<1>.liləx
-  gramm: pst,1,sg,2.o,sg.o,f.o
+  gramm: pst_stem,1,sg,2.o,sg.o,f.o
  -flex: <1>.lile
-  gramm: pst,1,sg,3.o,sg.o,m.o
+  gramm: pst_stem,1,sg,3.o,sg.o,m.o
  -flex: <1>.lila
-  gramm: pst,1,sg,3.o,sg.o,f.o
+  gramm: pst_stem,1,sg,3.o,sg.o,f.o
  -flex: <1>.lilan
-  gramm: pst,1,sg,1.o,pl.o
+  gramm: pst_stem,1,sg,1.o,pl.o
  -flex: <1>.lilxu//<1>.ləlxu
-  gramm: pst,1,sg,2.o,pl.o
+  gramm: pst_stem,1,sg,2.o,pl.o
  -flex: <1>.lille//<1>.lilən
-  gramm: pst,1,sg,3.o,pl.o
+  gramm: pst_stem,1,sg,3.o,pl.o
   
   # 2nd person sgm + suffixes
  -flex: <1>.luxli//<1>.loxli
-  gramm: pst,2,sg,m,1.o,sg.o
+  gramm: pst_stem,2,sg,m,1.o,sg.o
  -flex: <1>.luxle//<1>.loxle
-  gramm: pst,2,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
  -flex: <1>.luxla//<1>.loxla
-  gramm: pst,2,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
  -flex: <1>.luxlan//<1>.loxlan
-  gramm: pst,2,sg,m,1.o,pl.o
+  gramm: pst_stem,2,sg,m,1.o,pl.o
  -flex: <1>.luxxe//<1>.loxlən
-  gramm: pst,2,sg,m,3.o,pl.o
+  gramm: pst_stem,2,sg,m,3.o,pl.o
 
   # 2nd person sgf + suffixes
 
  -flex: <1>.laxli//<1>.ləxli
-  gramm: pst,2,sg,f,1.o,sg.o
+  gramm: pst_stem,2,sg,f,1.o,sg.o
  -flex: <1>.laxle//<1>.ləxle
-  gramm: pst,2,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
  -flex: <1>.laxla//<1>.ləxla
-  gramm: pst,2,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
  -flex: <1>.laxlan//<1>.ləxlan
-  gramm: pst,2,sg,f,1.o,pl.o
+  gramm: pst_stem,2,sg,f,1.o,pl.o
  -flex: <1>.laxxe//<1>.ləxlən
-  gramm: pst,2,sg,f,3.o,pl.o
+  gramm: pst_stem,2,sg,f,3.o,pl.o
   
   # 3rd person sgm + suffixes
 
  -flex: <1>.leli
-  gramm: pst,3,sg,m,1.o,sg.o
+  gramm: pst_stem,3,sg,m,1.o,sg.o
  -flex: <1>.lelux//<1>.lelox
-  gramm: pst,3,sg,m,2.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,2.o,sg.o,m.o
  -flex: <1>.lelax//<1>.leləx
-  gramm: pst,3,sg,m,2.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,2.o,sg.o,f.o
  -flex: <1>.lele
-  gramm: pst,3,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
  -flex: <1>.lela
-  gramm: pst,3,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
  -flex: <1>.lelan
-  gramm: pst,3,sg,m,1.o,pl.o
+  gramm: pst_stem,3,sg,m,1.o,pl.o
  -flex: <1>.lalxu//<1>.lelxu
-  gramm: pst,3,sg,m,2.o,pl.o
+  gramm: pst_stem,3,sg,m,2.o,pl.o
 
   # 3rd person sgf + suffixes
 
  -flex: <1>.lali
-  gramm: pst,3,sg,f,1.o,sg.o
+  gramm: pst_stem,3,sg,f,1.o,sg.o
  -flex: <1>.lalux//<1>.lalox
-  gramm: pst,3,sg,f,2.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,2.o,sg.o,m.o
  -flex: <1>.lalax//<1>.laləx
-  gramm: pst,3,sg,f,2.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,2.o,sg.o,f.o
  -flex: <1>.lale
-  gramm: pst,3,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
  -flex: <1>.lala
-  gramm: pst,3,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
  -flex: <1>.lalan
-  gramm: pst,3,sg,f,1.o,pl.o
+  gramm: pst_stem,3,sg,f,1.o,pl.o
  -flex: <1>.lalxu
-  gramm: pst,3,sg,f,2.o,pl.o
+  gramm: pst_stem,3,sg,f,2.o,pl.o
  -flex: <1>.lalle//<1>.lalən
-  gramm: pst,3,sg,f,3.o,pl.o
+  gramm: pst_stem,3,sg,f,3.o,pl.o
 
  # 1st person plural + suffixes
  -flex: <1>.lanlux//<1>.lanlox
-  gramm: pst,1,pl,2.o,sg.o,m.o
+  gramm: pst_stem,1,pl,2.o,sg.o,m.o
  -flex: <1>.lanlax//<1>.lanləx
-  gramm: pst,1,pl,2.o,sg.o,f.o
+  gramm: pst_stem,1,pl,2.o,sg.o,f.o
  -flex: <1>.lanle
-  gramm: pst,1,pl,3.o,sg.o,m.o
+  gramm: pst_stem,1,pl,3.o,sg.o,m.o
  -flex: <1>.lanla
-  gramm: pst,1,pl,3.o,sg.o,f.o
+  gramm: pst_stem,1,pl,3.o,sg.o,f.o
  -flex: <1>.lanxu
-  gramm: pst,1,pl,2.o,pl.o
+  gramm: pst_stem,1,pl,2.o,pl.o
  -flex: <1>.lanne
-  gramm: pst,1,pl,3.o,pl.o
+  gramm: pst_stem,1,pl,3.o,pl.o
 
  # 2nd person plural + suffixes
  -flex: <1>.xulli
-  gramm: pst,2,pl,1.o,sg.o
+  gramm: pst_stem,2,pl,1.o,sg.o
  -flex: <1>.xulle
-  gramm: pst,2,pl,3.o,sg.o,m.o
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
  -flex: <1>.xulla
-  gramm: pst,2,pl,3.o,sg.o,f.o
+  gramm: pst_stem,2,pl,3.o,sg.o,f.o
  -flex: <1>.xullan
-  gramm: pst,2,pl,1.o,pl.o
+  gramm: pst_stem,2,pl,1.o,pl.o
  -flex: <1>.xunne
-  gramm: pst,2,pl,3.o,pl.o
+  gramm: pst_stem,2,pl,3.o,pl.o
 
  # 3rd person plural + suffixes
  -flex: <1>.wwalli
-  gramm: pst,3,pl,1.o,sg.o
+  gramm: pst_stem,3,pl,1.o,sg.o
  -flex: <1>.wwallux//<1>.wwallox
-  gramm: pst,3,pl,2.o,sg.o,m.o
+  gramm: pst_stem,3,pl,2.o,sg.o,m.o
  -flex: <1>.wwallax//<1>.wwalləx
-  gramm: pst,3,pl,2.o,sg.o,f.o
+  gramm: pst_stem,3,pl,2.o,sg.o,f.o
  -flex: <1>.wwalle
-  gramm: pst,3,pl,3.o,sg.o,m.o
+  gramm: pst_stem,3,pl,3.o,sg.o,m.o
  -flex: <1>.wwalla
-  gramm: pst,3,pl,3.o,sg.o,f.o
+  gramm: pst_stem,3,pl,3.o,sg.o,f.o
  -flex: <1>.wwallan
-  gramm: pst,3,pl,1.o,pl.o
+  gramm: pst_stem,3,pl,1.o,pl.o
  -flex: <1>.wwalxu//<1>.wwanxu
-  gramm: pst,3,pl,2.o,pl.o
+  gramm: pst_stem,3,pl,2.o,pl.o
  -flex: <1>.wwanne
-  gramm: pst,3,pl,3.o,pl.o
+  gramm: pst_stem,3,pl,3.o,pl.o
 
 # Imperfect
  -flex: <0>.o.ewayno//<0>.u.enowo//<0>.ə.enowo

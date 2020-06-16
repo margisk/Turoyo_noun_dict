@@ -1,23 +1,23 @@
 -paradigm: V_I_2w
  # Present
  -flex: <0>.o.ə.
-  gramm: prs,3,sg,m
+  gramm: prs_stem,3,sg,m
  -flex: <1>.u.ət
-  gramm: prs,2,sg,m
+  gramm: prs_stem,2,sg,m
  -flex: <0>.o.a.no
-  gramm: prs,1,sg,m
+  gramm: prs_stem,1,sg,m
  -flex: <1>.u.o
-  gramm: prs,3,sg,f
+  gramm: prs_stem,3,sg,f
  -flex: <1>.u.at
-  gramm: prs,2,sg,f
+  gramm: prs_stem,2,sg,f
  -flex: <1>.u.ono
-  gramm: prs,1,sg,f
+  gramm: prs_stem,1,sg,f
  -flex: <1>.u.i
-  gramm: prs,3,pl
+  gramm: prs_stem,3,pl
  -flex: <1>.u.utu
-  gramm: prs,2,pl
+  gramm: prs_stem,2,pl
  -flex: <1>.u.ina
-  gramm: prs,1,pl
+  gramm: prs_stem,1,pl
 
 
  # Imperfect
@@ -42,72 +42,72 @@
  
  # Intransitive preterite
  -flex: <0>.a.ə.
-  gramm: pst,3,sg,m
+  gramm: pst_stem,3,sg,m
  -flex: <0>.a.i.ət
-  gramm: pst,2,sg,m
+  gramm: pst_stem,2,sg,m
  -flex: <0>.a.ə.no
-  gramm: pst,1,sg,m
+  gramm: pst_stem,1,sg,m
  -flex: <0>.a.i.o
-  gramm: pst,3,sg,f
+  gramm: pst_stem,3,sg,f
  -flex: <0>.a.i.at
-  gramm: pst,2,sg,f
+  gramm: pst_stem,2,sg,f
  -flex: <0>.a.i.ono
-  gramm: pst,1,sg,f
+  gramm: pst_stem,1,sg,f
  -flex: <0>.a.i.i
-  gramm: pst,3,pl
+  gramm: pst_stem,3,pl
  -flex: <0>.a.i.utu
-  gramm: pst,2,pl
+  gramm: pst_stem,2,pl
  -flex: <0>.a.i.ina
-  gramm: pst,1,pl
+  gramm: pst_stem,1,pl
  
  # Preterite
  -flex: <0>..ə.le
-  gramm: pst,3,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
  -flex: <0>..ə.ləx
-  gramm: pst,2,sg,m,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
  -flex: <0>..ə.la
-  gramm: pst,3,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
  -flex: <0>..ə.lax
-  gramm: pst,2,sg,f,3.o,sg.o,m.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
  -flex: <0>..ə.li
-  gramm: pst,1,sg,3.o,sg.o,m.o
+  gramm: pst_stem,1,sg,3.o,sg.o,m.o
  -flex: <2>..ə.e
-  gramm: pst,3,pl,3.o,sg.o,m.o
+  gramm: pst_stem,3,pl,3.o,sg.o,m.o
  -flex: <0>..ə.xu
-  gramm: pst,2,pl,3.o,sg.o,m.o
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
  -flex: <0>..ə.lan
-  gramm: pst,1,pl,3.o,sg.o,m.o
+  gramm: pst_stem,1,pl,3.o,sg.o,m.o
  -flex: <0>..i.ole
-  gramm: pst,3,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
  -flex: <0>..i.oləx
-  gramm: pst,2,sg,m,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
  -flex: <0>..i.ola
-  gramm: pst,3,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
  -flex: <0>..i.olax
-  gramm: pst,2,sg,f,3.o,sg.o,f.o
+  gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
  -flex: <0>..i.oli
-  gramm: pst,1,sg,3.o,sg.o,f.o
+  gramm: pst_stem,1,sg,3.o,sg.o,f.o
  -flex: <0>..i.alle
-  gramm: pst,3,pl,3.o,sg.o,f.o
+  gramm: pst_stem,3,pl,3.o,sg.o,f.o
  -flex: <0>..i.alxu
-  gramm: pst,2,pl,3.o,sg.o,f.o
+  gramm: pst_stem,2,pl,3.o,sg.o,f.o
  -flex: <0>..i.olan
-  gramm: pst,1,pl,3.o,sg.o,f.o
+  gramm: pst_stem,1,pl,3.o,sg.o,f.o
  -flex: <0>..i.ile
-  gramm: pst,3,sg,m,3.o,pl.o
+  gramm: pst_stem,3,sg,m,3.o,pl.o
  -flex: <0>..i.iləx
-  gramm: pst,2,sg,m,3.o,pl.o
+  gramm: pst_stem,2,sg,m,3.o,pl.o
  -flex: <0>..i.ila
-  gramm: pst,3,sg,f,3.o,pl.o
+  gramm: pst_stem,3,sg,f,3.o,pl.o
  -flex: <0>..i.ilax
-  gramm: pst,2,sg,f,3.o,pl.o
+  gramm: pst_stem,2,sg,f,3.o,pl.o
  -flex: <0>..i.ili
-  gramm: pst,1,sg,3.o,pl.o
+  gramm: pst_stem,1,sg,3.o,pl.o
  -flex: <0>..i.ənne
-  gramm: pst,3,pl,3.o,pl.o
+  gramm: pst_stem,3,pl,3.o,pl.o
  -flex: <0>..i.ənxu
-  gramm: pst,2,pl,3.o,pl.o
+  gramm: pst_stem,2,pl,3.o,pl.o
  -flex: <0>..i.ilan
-  gramm: pst,1,pl,3.o,pl.o
+  gramm: pst_stem,1,pl,3.o,pl.o
 
 

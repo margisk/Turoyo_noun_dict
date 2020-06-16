@@ -1,12 +1,12 @@
 -paradigm: vb_prefix_pres_fut
  -flex: .
-  gramm:
+  gramm: subj
  -flex: k.
-  gramm: prs
+  gramm: prs_stem
  -flex: ko.
-  gramm: prs
+  gramm: prs_stem
  -flex: kə.
-  gramm: prs
+  gramm: prs_stem
  -flex: gə.
   gramm: fut
  -flex: gd.
@@ -18,7 +18,7 @@
 
 -paradigm: vb_prefix_perf
  -flex: .
-  gramm:
+  gramm: pret
  -flex: ko.
   gramm: pf
  -flex: kə.
