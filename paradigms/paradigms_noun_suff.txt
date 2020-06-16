@@ -51,3 +51,25 @@
   gramm: dem_prn_far,f
  -flex: .anək
   gramm: dem_prn_far,pl
+
+-paradigm: kul
+ -flex: <0>.
+  gramm: 
+ -flex: <0>.i
+  gramm: 1,sg
+ -flex: <0>.ux//<0>.ox
+  gramm: 2,sg,m
+ -flex: <0>.ax//<0>.əx
+  gramm: 2,sg,f
+ -flex: <0>.e
+  gramm: 3,sg,m
+ -flex: <0>.a
+  gramm: 3,sg,f
+ -flex: <0>.an//<0>.ayna
+  gramm: 1,pl
+ -flex: <0>.xu
+  gramm: 2,pl
+ -flex: <0>.le
+  gramm: 3,pl
+
+
