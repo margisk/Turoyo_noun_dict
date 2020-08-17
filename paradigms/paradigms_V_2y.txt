@@ -1077,496 +1077,496 @@
 
 -paradigm: V_III_2y
  # Present
- -flex: <.>ma.ə.
+ -flex: <0><.>ma.ə.
   gramm: prs_stem,3,sg,m
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ət//<.>ma.i.at
+ -flex: <0><.>ma.i.ət//<0><.>ma.i.at
   gramm: prs_stem,2,sg,m
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.no
+ -flex: <0><.>ma.ə.no
   gramm: prs_stem,1,sg,m
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.o
+ -flex: <0><.>ma.i.o
   gramm: prs_stem,3,sg,f
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ət//<.>ma.i.at
+ -flex: <0><.>ma.i.ət//<0><.>ma.i.at
   gramm: prs_stem,2,sg,f
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ono
+ -flex: <0><.>ma.i.ono
   gramm: prs_stem,1,sg,f
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.i
+ -flex: <0><.>ma.i.i
   gramm: prs_stem,3,pl
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itu//<.>ma.i.utu
+ -flex: <0><.>ma.i.itu//<0><.>ma.i.utu
   gramm: prs_stem,2,pl
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ina
+ -flex: <0><.>ma.i.ina
   gramm: prs_stem,1,pl
   paradigm: vb_prefix_pres_fut
   
  # Present + obj./dat. suffixes
- -flex: <.>ma.ə.le
+ -flex: <0><.>ma.ə.le
   gramm: prs_stem,3,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.la
+ -flex: <0><.>ma.ə.la
   gramm: prs_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.lox//<.>ma.ə.lux
+ -flex: <0><.>ma.ə.lox//<0><.>ma.ə.lux
   gramm: prs_stem,3,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.ləx//<.>ma.ə.lax
+ -flex: <0><.>ma.ə.ləx//<0><.>ma.ə.lax
   gramm: prs_stem,3,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.li
+ -flex: <0><.>ma.ə.li
   gramm: prs_stem,3,sg,m,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə..e
+ -flex: <1><.>ma.ə.e
   gramm: prs_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.xu//<.>ma.ə.xun
+ -flex: <0><.>ma.ə.xu//<0><.>ma.ə.xun
   gramm: prs_stem,3,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.lan
+ -flex: <0><.>ma.ə.lan
   gramm: prs_stem,3,sg,m,1.o,pl.o 
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atle//<.>ma.i.ətle
+ -flex: <0><.>ma.i.atle//<0><.>ma.i.ətle
   gramm: prs_stem,2,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atla//<.>ma.i.ətla
+ -flex: <0><.>ma.i.atla//<0><.>ma.i.ətla
   gramm: prs_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atlox//<.>ma.i.atlux//<.>ma.i.ətlux
+ -flex: <0><.>ma.i.atlox//<0><.>ma.i.atlux//<0><.>ma.i.ətlux
   gramm: prs_stem,2,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atli//<.>ma.i.ətli
+ -flex: <0><.>ma.i.atli//<0><.>ma.i.ətli
   gramm: prs_stem,2,sg,m,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atte//<.>ma.i.ətte
+ -flex: <0><.>ma.i.atte//<0><.>ma.i.ətte
   gramm: prs_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atxu//<.>ma.i.atxun//<.>ma.i.ətxu//<.>ma.i.ətxun
+ -flex: <0><.>ma.i.atxu//<0><.>ma.i.atxun//<0><.>ma.i.ətxu//<0><.>ma.i.ətxun
   gramm: prs_stem,2,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atlan//<.>ma.i.ətlan
+ -flex: <0><.>ma.i.atlan//<0><.>ma.i.ətlan
   gramm: prs_stem,2,sg,m,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atle
+ -flex: <0><.>ma.i.atle
   gramm: prs_stem,2,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atla
+ -flex: <0><.>ma.i.atla
   gramm: prs_stem,2,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atlax//<.>ma.i.atləx
+ -flex: <0><.>ma.i.atlax//<0><.>ma.i.atləx
   gramm: prs_stem,2,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atli
+ -flex: <0><.>ma.i.atli
   gramm: prs_stem,2,sg,f,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atte
+ -flex: <0><.>ma.i.atte
   gramm: prs_stem,2,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atxu//<.>ma.i.atxun
+ -flex: <0><.>ma.i.atxu//<0><.>ma.i.atxun
   gramm: prs_stem,2,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.atlan
+ -flex: <0><.>ma.i.atlan
   gramm: prs_stem,2,sg,f,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nole//<.>ma.ə.ne
+ -flex: <0><.>ma.ə.nole//<0><.>ma.ə.ne
   gramm: prs_stem,1,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nola//<.>ma.ə.na
+ -flex: <0><.>ma.ə.nola//<0><.>ma.ə.na
   gramm: prs_stem,1,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nolox//<.>ma.ə.nox//<.>ma.ə.nux//<.>ma.ə.nolux
+ -flex: <0><.>ma.ə.nolox//<0><.>ma.ə.nox//<0><.>ma.ə.nux//<0><.>ma.ə.nolux
   gramm: prs_stem,1,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.noləx//<.>ma.ə.nəx//<.>ma.ə.nax//<.>ma.ə.nolax
+ -flex: <0><.>ma.ə.noləx//<0><.>ma.ə.nəx//<0><.>ma.ə.nax//<0><.>ma.ə.nolax
   gramm: prs_stem,1,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.noli//<.>ma.ə.ni
+ -flex: <0><.>ma.ə.noli//<0><.>ma.ə.ni
   gramm: prs_stem,1,sg,m,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nolən//<.>ma.ə.nulle//<.>ma.ə.nən//<.>ma.ə.nanne//<.>ma.ə.nənne//<.>ma.ə.nalle
+ -flex: <0><.>ma.ə.nolən//<0><.>ma.ə.nulle//<0><.>ma.ə.nən//<0><.>ma.ə.nanne//<0><.>ma.ə.nənne//<0><.>ma.ə.nalle
   gramm: prs_stem,1,sg,m,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nulxu//<.>ma.ə.nulxun//<.>ma.ə.nanxu//<.>ma.ə.nanxun//<.>ma.ə.nalxu//<.>ma.ə.nalxun//<.>ma.ə.nuxxu//<.>ma.ə.nuxxun
+ -flex: <0><.>ma.ə.nulxu//<0><.>ma.ə.nulxun//<0><.>ma.ə.nanxu//<0><.>ma.ə.nanxun//<0><.>ma.ə.nalxu//<0><.>ma.ə.nalxun//<0><.>ma.ə.nuxxu//<0><.>ma.ə.nuxxun
   gramm: prs_stem,1,sg,m,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.ə.nolan
+ -flex: <0><.>ma.ə.nolan
   gramm: prs_stem,1,sg,m,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ole
+ -flex: <0><.>ma.i.ole
   gramm: prs_stem,3,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ola
+ -flex: <0><.>ma.i.ola
   gramm: prs_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.olox//<.>ma.i.olux
+ -flex: <0><.>ma.i.olox//<0><.>ma.i.olux
   gramm: prs_stem,3,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.oləx//<.>ma.i.olax
+ -flex: <0><.>ma.i.oləx//<0><.>ma.i.olax
   gramm: prs_stem,3,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.oli
+ -flex: <0><.>ma.i.oli
   gramm: prs_stem,3,sg,f,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.olən//<.>ma.i.alle//<.>ma.i.ulle//<.>ma.i.əlle
+ -flex: <0><.>ma.i.olən//<0><.>ma.i.alle//<0><.>ma.i.ulle//<0><.>ma.i.əlle
   gramm: prs_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ulxu//<.>ma.i.ulxun//<.>ma.i.alxu//<.>ma.i.alxun//<.>ma.i.əlxu//<.>ma.i.əlxun
+ -flex: <0><.>ma.i.ulxu//<0><.>ma.i.ulxun//<0><.>ma.i.alxu//<0><.>ma.i.alxun//<0><.>ma.i.əlxu//<0><.>ma.i.əlxun
   gramm: prs_stem,3,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.olan
+ -flex: <0><.>ma.i.olan
   gramm: prs_stem,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onole//<.>ma.i.alle
+ -flex: <0><.>ma.i.onole//<0><.>ma.i.alle
   gramm: prs_stem,1,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onola//<.>ma.i.alla
+ -flex: <0><.>ma.i.onola//<0><.>ma.i.alla
   gramm: prs_stem,1,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onolox//<.>ma.i.allox//<.>ma.i.allux//<.>ma.i.onolux
+ -flex: <0><.>ma.i.onolox//<0><.>ma.i.allox//<0><.>ma.i.allux//<0><.>ma.i.onolux
   gramm: prs_stem,1,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onoləx//<.>ma.i.alləx//<.>ma.i.allax//<.>ma.i.onolax
+ -flex: <0><.>ma.i.onoləx//<0><.>ma.i.alləx//<0><.>ma.i.allax//<0><.>ma.i.onolax
   gramm: prs_stem,1,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.alli
+ -flex: <0><.>ma.i.alli
   gramm: prs_stem,1,sg,f,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onolən//<.>ma.i.anne
+ -flex: <0><.>ma.i.onolən//<0><.>ma.i.anne
   gramm: prs_stem,1,sg,f,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.onolxu//<.>ma.i.onolxun//<.>ma.i.anxu//<.>ma.i.anxun//<.>ma.i.axxu//<.>ma.i.axxun
+ -flex: <0><.>ma.i.onolxu//<0><.>ma.i.onolxun//<0><.>ma.i.anxu//<0><.>ma.i.anxun//<0><.>ma.i.axxu//<0><.>ma.i.axxun
   gramm: prs_stem,1,sg,f,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.allan
+ -flex: <0><.>ma.i.allan
   gramm: prs_stem,1,sg,f,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ile
+ -flex: <0><.>ma.i.ile
   gramm: prs_stem,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ila
+ -flex: <0><.>ma.i.ila
   gramm: prs_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ilox//<.>ma.i.ilux
+ -flex: <0><.>ma.i.ilox//<0><.>ma.i.ilux
   gramm: prs_stem,3,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.iləx//<.>ma.i.ilax
+ -flex: <0><.>ma.i.iləx//<0><.>ma.i.ilax
   gramm: prs_stem,3,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ili
+ -flex: <0><.>ma.i.ili
   gramm: prs_stem,3,pl,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ənne
+ -flex: <0><.>ma.i.ənne
   gramm: prs_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ənxu//<.>ma.i.ənxun//<.>ma.i.əxxu//<.>ma.i.əxxu
+ -flex: <0><.>ma.i.ənxu//<0><.>ma.i.ənxun//<0><.>ma.i.əxxu//<0><.>ma.i.əxxu
   gramm: prs_stem,3,pl,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.ilan
+ -flex: <0><.>ma.i.ilan
   gramm: prs_stem,3,pl,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itulle//<.>ma.i.utəlle//<.>ma.i.utle
+ -flex: <0><.>ma.i.itulle//<0><.>ma.i.utəlle//<0><.>ma.i.utle
   gramm: prs_stem,2,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itulla//<.>ma.i.utəlla//<.>ma.i.utla
+ -flex: <0><.>ma.i.itulla//<0><.>ma.i.utəlla//<0><.>ma.i.utla
   gramm: prs_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itulli//<.>ma.i.utəlli//<.>ma.i.utli
+ -flex: <0><.>ma.i.itulli//<0><.>ma.i.utəlli//<0><.>ma.i.utli
   gramm: prs_stem,2,pl,1.o,sg.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itunne//<.>ma.i.utənne//<.>ma.i.utne
+ -flex: <0><.>ma.i.itunne//<0><.>ma.i.utənne//<0><.>ma.i.utne
   gramm: prs_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itunxu//<.>ma.i.itunxun//<.>ma.i.utunxu//<.>ma.i.utunxun//<.>ma.i.ituxxu//<.>ma.i.ituxxun
+ -flex: <0><.>ma.i.itunxu//<0><.>ma.i.itunxun//<0><.>ma.i.utunxu//<0><.>ma.i.utunxun//<0><.>ma.i.ituxxu//<0><.>ma.i.ituxxun
   gramm: prs_stem,2,pl,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.itullan//<.>ma.i.utəllan//<.>ma.i.utlan
+ -flex: <0><.>ma.i.itullan//<0><.>ma.i.utəllan//<0><.>ma.i.utlan
   gramm: prs_stem,2,pl,1.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inale
+ -flex: <0><.>ma.i.inale
   gramm: prs_stem,1,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inala
+ -flex: <0><.>ma.i.inala
   gramm: prs_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inalox//<.>ma.i.inalux
+ -flex: <0><.>ma.i.inalox//<0><.>ma.i.inalux
   gramm: prs_stem,1,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inaləx//<.>ma.i.inalax
+ -flex: <0><.>ma.i.inaləx//<0><.>ma.i.inalax
   gramm: prs_stem,1,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inalən//<.>ma.i.inalle//<.>ma.i.inanne
+ -flex: <0><.>ma.i.inalən//<0><.>ma.i.inalle//<0><.>ma.i.inanne
   gramm: prs_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inalxu//<.>ma.i.inalxun//<.>ma.i.inanxu//<.>ma.i.inanxun//<.>ma.i.inaxxu//<.>ma.i.inaxxun
+ -flex: <0><.>ma.i.inalxu//<0><.>ma.i.inalxun//<0><.>ma.i.inanxu//<0><.>ma.i.inanxun//<0><.>ma.i.inaxxu//<0><.>ma.i.inaxxun
   gramm: prs_stem,1,pl,2.o,pl.o
   paradigm: vb_prefix_pres_fut
- -flex: <.>ma.i.inalan
+ -flex: <0><.>ma.i.inalan
   gramm: prs_stem,1,pl,1.o,pl.o
   paradigm: vb_prefix_pres_fut
 
  # Imperfect
- -flex: ma.ə.wo//ma.ə.wa
+ -flex: <0><.>ma.ə.wo//<0><.>ma.ə.wa
   gramm: ipf,3,sg,m
- -flex: ma.i.ətwa//ma.i.atwo//ma.i.atwa
+ -flex: <0><.>ma.i.ətwa//<0><.>ma.i.atwo//<0><.>ma.i.atwa
   gramm: ipf,2,sg,m
- -flex: ma.ə.nowo//ma.ə.wayno
+ -flex: <0><.>ma.ə.nowo//<0><.>ma.ə.wayno
   gramm: ipf,1,sg,m
- -flex: ma.i.owa
+ -flex: <0><.>ma.i.owa
   gramm: ipf,3,sg,f
- -flex: ma.i.atwo//ma.i.atwa
+ -flex: <0><.>ma.i.atwo//<0><.>ma.i.atwa
   gramm: ipf,2,sg,f
- -flex: ma.i.onowo//ma.i.owayno
+ -flex: <0><.>ma.i.onowo//<0><.>ma.i.owayno
   gramm: ipf,1,sg,f
- -flex: ma.i.iwo//ma.i.iwa
+ -flex: <0><.>ma.i.iwo//<0><.>ma.i.iwa
   gramm: ipf,3,pl
- -flex: ma.i.ituwo//ma.i.utuwa
+ -flex: <0><.>ma.i.ituwo//<0><.>ma.i.utuwa
   gramm: ipf,2,pl
- -flex: ma.i.inawo//ma.i.iwayna
+ -flex: <0><.>ma.i.inawo//<0><.>ma.i.iwayna
   gramm: ipf,1,pl
   
  # Imperfect + obj./dat. suffixes
- -flex: ma.ə.wole//ma.ə.wayle
+ -flex: <0><.>ma.ə.wole//<0><.>ma.ə.wayle
   gramm: ipf,3,sg,m,3.o,sg.o,m.o
- -flex: ma.ə.wola//ma.ə.wayla
+ -flex: <0><.>ma.ə.wola//<0><.>ma.ə.wayla
   gramm: ipf,3,sg,m,3.o,sg.o,f.o
- -flex: ma.ə.wolox//ma.ə.waylux
+ -flex: <0><.>ma.ə.wolox//<0><.>ma.ə.waylux
   gramm: ipf,3,sg,m,2.o,sg.o,m.o
- -flex: ma.ə.woləx//ma.ə.waylax
+ -flex: <0><.>ma.ə.woləx//<0><.>ma.ə.waylax
   gramm: ipf,3,sg,m,2.o,sg.o,f.o
- -flex: ma.ə.woli//ma.ə.wayli
+ -flex: <0><.>ma.ə.woli//<0><.>ma.ə.wayli
   gramm: ipf,3,sg,m,1.o,sg.o
- -flex: ma.ə.wolən//ma.ə.wulle//ma.ə.walle
+ -flex: <0><.>ma.ə.wolən//<0><.>ma.ə.wulle//<0><.>ma.ə.walle
   gramm: ipf,3,sg,m,3.o,pl.o
- -flex: ma.ə.wolxu//ma.ə.walxu//ma.ə.walxun
+ -flex: <0><.>ma.ə.wolxu//<0><.>ma.ə.walxu//<0><.>ma.ə.walxun
   gramm: ipf,3,sg,m,2.o,pl.o
- -flex: ma.ə.wolan//ma.ə.waylan
+ -flex: <0><.>ma.ə.wolan//<0><.>ma.ə.waylan
   gramm: ipf,3,sg,m,1.o,pl.o  
- -flex: ma.i.atwole//ma.i.atwayle//ma.i.ətwayle
+ -flex: <0><.>ma.i.atwole//<0><.>ma.i.atwayle//<0><.>ma.i.ətwayle
   gramm: ipf,2,sg,m,3.o,sg.o,m.o
- -flex: ma.i.atwola//ma.i.atwayla//ma.i.ətwayla
+ -flex: <0><.>ma.i.atwola//<0><.>ma.i.atwayla//<0><.>ma.i.ətwayla
   gramm: ipf,2,sg,m,3.o,sg.o,f.o
- -flex: ma.i.atwolox//ma.i.atwaylux//ma.i.ətwaylux
+ -flex: <0><.>ma.i.atwolox//<0><.>ma.i.atwaylux//<0><.>ma.i.ətwaylux
   gramm: ipf,2,sg,m,2.o,sg.o,m.o
- -flex: ma.i.atwoli//ma.i.atwayli//ma.i.ətwayli
+ -flex: <0><.>ma.i.atwoli//<0><.>ma.i.atwayli//<0><.>ma.i.ətwayli
   gramm: ipf,2,sg,m,1.o,sg.o
- -flex: ma.i.atwolən//ma.i.atwulle//ma.i.atwalle//ma.i.ətwalle
+ -flex: <0><.>ma.i.atwolən//<0><.>ma.i.atwulle//<0><.>ma.i.atwalle//<0><.>ma.i.ətwalle
   gramm: ipf,2,sg,m,3.o,pl.o
- -flex: ma.i.atwolxu//ma.i.atwalxu//ma.i.atwalxun//ma.i.ətwalxu//ma.i.ətwalxun
+ -flex: <0><.>ma.i.atwolxu//<0><.>ma.i.atwalxu//<0><.>ma.i.atwalxun//<0><.>ma.i.ətwalxu//<0><.>ma.i.ətwalxun
   gramm: ipf,2,sg,m,2.o,pl.o
- -flex: ma.i.atwolan//ma.i.atwaylan//ma.i.ətwaylan
+ -flex: <0><.>ma.i.atwolan//<0><.>ma.i.atwaylan//<0><.>ma.i.ətwaylan
   gramm: ipf,2,sg,m,1.o,pl.o  
- -flex: ma.i.atwole//ma.i.atwayle
+ -flex: <0><.>ma.i.atwole//<0><.>ma.i.atwayle
   gramm: ipf,2,sg,f,3.o,sg.o,m.o
- -flex: ma.i.atwola//ma.i.atwayla
+ -flex: <0><.>ma.i.atwola//<0><.>ma.i.atwayla
   gramm: ipf,2,sg,f,3.o,sg.o,f.o
- -flex: ma.i.atwoləx//ma.i.atwaylax
+ -flex: <0><.>ma.i.atwoləx//<0><.>ma.i.atwaylax
   gramm: ipf,2,sg,f,2.o,sg.o,f.o
- -flex: ma.i.atwoli//ma.i.atwayli
+ -flex: <0><.>ma.i.atwoli//<0><.>ma.i.atwayli
   gramm: ipf,2,sg,f,1.o,sg.o
- -flex: ma.i.atwolən//ma.i.atwulle//ma.i.atwalle
+ -flex: <0><.>ma.i.atwolən//<0><.>ma.i.atwulle//<0><.>ma.i.atwalle
   gramm: ipf,2,sg,f,3.o,pl.o
- -flex: ma.i.atwolxu//ma.i.atwalxu//ma.i.atwalxun
+ -flex: <0><.>ma.i.atwolxu//<0><.>ma.i.atwalxu//<0><.>ma.i.atwalxun
   gramm: ipf,2,sg,f,2.o,pl.o
- -flex: ma.i.atwolan//ma.i.atwaylan
+ -flex: <0><.>ma.i.atwolan//<0><.>ma.i.atwaylan
   gramm: ipf,2,sg,f,1.o,pl.o  
- -flex: ma.ə.nowole//ma.ə.waynole
+ -flex: <0><.>ma.ə.nowole//<0><.>ma.ə.waynole
   gramm: ipf,1,sg,m,3.o,sg.o,m.o
- -flex: ma.ə.nowola//ma.ə.waynola
+ -flex: <0><.>ma.ə.nowola//<0><.>ma.ə.waynola
   gramm: ipf,1,sg,m,3.o,sg.o,f.o
- -flex: ma.ə.nowolox//ma.ə.waynolux
+ -flex: <0><.>ma.ə.nowolox//<0><.>ma.ə.waynolux
   gramm: ipf,1,sg,m,2.o,sg.o,m.o
- -flex: ma.ə.nowoləx//ma.ə.waynolax
+ -flex: <0><.>ma.ə.nowoləx//<0><.>ma.ə.waynolax
   gramm: ipf,1,sg,m,2.o,sg.o,f.o
- -flex: ma.ə.nowoli//ma.ə.waynoli
+ -flex: <0><.>ma.ə.nowoli//<0><.>ma.ə.waynoli
   gramm: ipf,1,sg,m,1.o,sg.o
- -flex: ma.ə.nowolən//ma.ə.nowulle//ma.ə.waynanne
+ -flex: <0><.>ma.ə.nowolən//<0><.>ma.ə.nowulle//<0><.>ma.ə.waynanne
   gramm: ipf,1,sg,m,3.o,pl.o
- -flex: ma.ə.nowolxu//ma.ə.waynanxu//ma.ə.waynanxun
+ -flex: <0><.>ma.ə.nowolxu//<0><.>ma.ə.waynanxu//<0><.>ma.ə.waynanxun
   gramm: ipf,1,sg,m,2.o,pl.o
- -flex: ma.ə.nowolan//ma.ə.waynolan
+ -flex: <0><.>ma.ə.nowolan//<0><.>ma.ə.waynolan
   gramm: ipf,1,sg,m,1.o,pl.o  
- -flex: ma.i.owale//ma.i.owayle
+ -flex: <0><.>ma.i.owale//<0><.>ma.i.owayle
   gramm: ipf,3,sg,f,3.o,sg.o,m.o
- -flex: ma.i.owala//ma.i.owayla
+ -flex: <0><.>ma.i.owala//<0><.>ma.i.owayla
   gramm: ipf,3,sg,f,3.o,sg.o,f.o
- -flex: ma.i.owalox//ma.i.owaylux
+ -flex: <0><.>ma.i.owalox//<0><.>ma.i.owaylux
   gramm: ipf,3,sg,f,2.o,sg.o,m.o
- -flex: ma.i.owaləx//ma.i.owaylax
+ -flex: <0><.>ma.i.owaləx//<0><.>ma.i.owaylax
   gramm: ipf,3,sg,f,2.o,sg.o,f.o
- -flex: ma.i.owali//ma.i.owayli
+ -flex: <0><.>ma.i.owali//<0><.>ma.i.owayli
   gramm: ipf,3,sg,f,1.o,sg.o
- -flex: ma.i.owalən//ma.i.owalle
+ -flex: <0><.>ma.i.owalən//<0><.>ma.i.owalle
   gramm: ipf,3,sg,f,3.o,pl.o
- -flex: ma.i.owalxu//ma.i.owalxun
+ -flex: <0><.>ma.i.owalxu//<0><.>ma.i.owalxun
   gramm: ipf,3,sg,f,2.o,pl.o
- -flex: ma.i.owalan//ma.i.owaylan
+ -flex: <0><.>ma.i.owalan//<0><.>ma.i.owaylan
   gramm: ipf,3,sg,f,1.o,pl.o  
- -flex: ma.i.anwole//ma.i.owaynole
+ -flex: <0><.>ma.i.anwole//<0><.>ma.i.owaynole
   gramm: ipf,1,sg,f,3.o,sg.o,m.o
- -flex: ma.i.anwola//ma.i.owaynola
+ -flex: <0><.>ma.i.anwola//<0><.>ma.i.owaynola
   gramm: ipf,1,sg,f,3.o,sg.o,f.o
- -flex: ma.i.anwolox//ma.i.owaynolux
+ -flex: <0><.>ma.i.anwolox//<0><.>ma.i.owaynolux
   gramm: ipf,1,sg,f,2.o,sg.o,m.o
- -flex: ma.i.anwoləx//ma.i.owaynolax
+ -flex: <0><.>ma.i.anwoləx//<0><.>ma.i.owaynolax
   gramm: ipf,1,sg,f,2.o,sg.o,f.o
- -flex: ma.i.anwoli//ma.i.owaynoli
+ -flex: <0><.>ma.i.anwoli//<0><.>ma.i.owaynoli
   gramm: ipf,1,sg,f,1.o,sg.o
- -flex: ma.i.anwolən//ma.i.anwulle//ma.i.owaynanne
+ -flex: <0><.>ma.i.anwolən//<0><.>ma.i.anwulle//<0><.>ma.i.owaynanne
   gramm: ipf,1,sg,f,3.o,pl.o
- -flex: ma.i.anwolxu//ma.i.owaynanxu//ma.i.owaynanxun
+ -flex: <0><.>ma.i.anwolxu//<0><.>ma.i.owaynanxu//<0><.>ma.i.owaynanxun
   gramm: ipf,1,sg,f,2.o,pl.o
- -flex: ma.i.anwolan//ma.i.owaynolan
+ -flex: <0><.>ma.i.anwolan//<0><.>ma.i.owaynolan
   gramm: ipf,1,sg,f,1.o,pl.o  
- -flex: ma.i.iwole//ma.i.iwayle
+ -flex: <0><.>ma.i.iwole//<0><.>ma.i.iwayle
   gramm: ipf,3,pl,3.o,sg.o,m.o
- -flex: ma.i.iwola//ma.i.iwayla
+ -flex: <0><.>ma.i.iwola//<0><.>ma.i.iwayla
   gramm: ipf,3,pl,3.o,sg.o,f.o
- -flex: ma.i.iwolox//ma.i.iwaylux
+ -flex: <0><.>ma.i.iwolox//<0><.>ma.i.iwaylux
   gramm: ipf,3,pl,2.o,sg.o,m.o
- -flex: ma.i.iwoləx//ma.i.iwaylax
+ -flex: <0><.>ma.i.iwoləx//<0><.>ma.i.iwaylax
   gramm: ipf,3,pl,2.o,sg.o,f.o
- -flex: ma.i.iwoli//ma.i.iwayli
+ -flex: <0><.>ma.i.iwoli//<0><.>ma.i.iwayli
   gramm: ipf,3,pl,1.o,sg.o
- -flex: ma.i.iwolən//ma.i.iwunne//ma.i.iwanne
+ -flex: <0><.>ma.i.iwolən//<0><.>ma.i.iwunne//<0><.>ma.i.iwanne
   gramm: ipf,3,pl,3.o,pl.o
- -flex: ma.i.iwolxu//ma.i.iwanxu//ma.i.iwanxun
+ -flex: <0><.>ma.i.iwolxu//<0><.>ma.i.iwanxu//<0><.>ma.i.iwanxun
   gramm: ipf,3,pl,2.o,pl.o
- -flex: ma.i.iwolan//ma.i.iwaylan
+ -flex: <0><.>ma.i.iwolan//<0><.>ma.i.iwaylan
   gramm: ipf,3,pl,1.o,pl.o  
- -flex: ma.i.ituwole//ma.i.utuwayle
+ -flex: <0><.>ma.i.ituwole//<0><.>ma.i.utuwayle
   gramm: ipf,2,pl,3.o,sg.o,m.o
- -flex: ma.i.ituwola//ma.i.utuwayla
+ -flex: <0><.>ma.i.ituwola//<0><.>ma.i.utuwayla
   gramm: ipf,2,pl,3.o,sg.o,f.o
- -flex: ma.i.ituwoli//ma.i.utuwayli
+ -flex: <0><.>ma.i.ituwoli//<0><.>ma.i.utuwayli
   gramm: ipf,2,pl,1.o,sg.o
- -flex: ma.i.ituwolən//ma.i.utuwanne//ma.i.utunwanne
+ -flex: <0><.>ma.i.ituwolən//<0><.>ma.i.utuwanne//<0><.>ma.i.utunwanne
   gramm: ipf,2,pl,3.o,pl.o
- -flex: ma.i.ituwolxu//ma.i.utuwanxu//ma.i.utuwanxun//ma.i.utunwanxu//ma.i.utunwanxun
+ -flex: <0><.>ma.i.ituwolxu//<0><.>ma.i.utuwanxu//<0><.>ma.i.utuwanxun//<0><.>ma.i.utunwanxu//<0><.>ma.i.utunwanxun
   gramm: ipf,2,pl,2.o,pl.o
- -flex: ma.i.ituwolan//ma.i.utuwaylan//ma.i.utunwaylan
+ -flex: <0><.>ma.i.ituwolan//<0><.>ma.i.utuwaylan//<0><.>ma.i.utunwaylan
   gramm: ipf,2,pl,1.o,pl.o  
- -flex: ma.i.inawole//ma.i.iwaynale
+ -flex: <0><.>ma.i.inawole//<0><.>ma.i.iwaynale
   gramm: ipf,1,pl,3.o,sg.o,m.o
- -flex: ma.i.inawola//ma.i.iwaynala
+ -flex: <0><.>ma.i.inawola//<0><.>ma.i.iwaynala
   gramm: ipf,1,pl,3.o,sg.o,f.o
- -flex: ma.i.inawolox//ma.i.iwaynalux
+ -flex: <0><.>ma.i.inawolox//<0><.>ma.i.iwaynalux
   gramm: ipf,1,pl,2.o,sg.o,m.o
- -flex: ma.i.inawoləx//ma.i.iwaynalax
+ -flex: <0><.>ma.i.inawoləx//<0><.>ma.i.iwaynalax
   gramm: ipf,1,pl,2.o,sg.o,f.o
- -flex: ma.i.inawolən//ma.i.inawulle//ma.i.iwaynanne
+ -flex: <0><.>ma.i.inawolən//<0><.>ma.i.inawulle//<0><.>ma.i.iwaynanne
   gramm: ipf,1,pl,3.o,pl.o
- -flex: ma.i.inawolxu//ma.i.iwaynanxu//ma.i.iwaynanxun
+ -flex: <0><.>ma.i.inawolxu//<0><.>ma.i.iwaynanxu//<0><.>ma.i.iwaynanxun
   gramm: ipf,1,pl,2.o,pl.o
- -flex: ma.i.inawolan//ma.i.iwaynalan
+ -flex: <0><.>ma.i.inawolan//<0><.>ma.i.iwaynalan
   gramm: ipf,1,pl,1.o,pl.o
   
  # Preterite
- -flex: <.>ma.ə.le
+ -flex: <0><.>ma.ə.le
   gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lox//<.>ma.ə.lux
+ -flex: <0><.>ma.ə.lox//<0><.>ma.ə.lux
   gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.la
+ -flex: <0><.>ma.ə.la
   gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lax//<.>ma.ə.ləx
+ -flex: <0><.>ma.ə.lax//<0><.>ma.ə.ləx
   gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.li
+ -flex: <0><.>ma.ə.li
   gramm: pst_stem,1,sg,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
  -flex: <1><.>ma.ə.e
   gramm: pst_stem,3,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xu//<.>ma.ə.xun
+ -flex: <0><.>ma.ə.xu//<0><.>ma.ə.xun
   gramm: pst_stem,2,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lan
+ -flex: <0><.>ma.ə.lan
   gramm: pst_stem,1,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ole
+ -flex: <0><.>ma.i.ole
   gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.olox//<.>ma.i.olux
+ -flex: <0><.>ma.i.olox//<0><.>ma.i.olux
   gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ola
+ -flex: <0><.>ma.i.ola
   gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.olax//<.>ma.i.oləx
+ -flex: <0><.>ma.i.olax//<0><.>ma.i.oləx
   gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.oli
+ -flex: <0><.>ma.i.oli
   gramm: pst_stem,1,sg,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.alle//<.>ma.i.ulle//<.>ma.i.əlle
+ -flex: <0><.>ma.i.alle//<0><.>ma.i.ulle//<0><.>ma.i.əlle
   gramm: pst_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.alxu//<.>ma.i.alxun//<.>ma.i.əlxu//<.>ma.i.əlxun//<.>ma.i.ulxu//<.>ma.i.ulxun
+ -flex: <0><.>ma.i.alxu//<0><.>ma.i.alxun//<0><.>ma.i.əlxu//<0><.>ma.i.əlxun//<0><.>ma.i.ulxu//<0><.>ma.i.ulxun
   gramm: pst_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.olan
+ -flex: <0><.>ma.i.olan
   gramm: pst_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ile
+ -flex: <0><.>ma.i.ile
   gramm: pst_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ilox//<.>ma.i.ilux
+ -flex: <0><.>ma.i.ilox//<0><.>ma.i.ilux
   gramm: pst_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ila
+ -flex: <0><.>ma.i.ila
   gramm: pst_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ilax//<.>ma.i.iləx
+ -flex: <0><.>ma.i.ilax//<0><.>ma.i.iləx
   gramm: pst_stem,2,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ili
+ -flex: <0><.>ma.i.ili
   gramm: pst_stem,1,sg,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ənne
+ -flex: <0><.>ma.i.ənne
   gramm: pst_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ənxu//<.>ma.i.ənxun
+ -flex: <0><.>ma.i.ənxu//<0><.>ma.i.ənxun
   gramm: pst_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.i.ilan
+ -flex: <0><.>ma.i.ilan
   gramm: pst_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_perf
   
  # Preterite + obj/dat. suffixes
- -flex: <.>ma.ə.lelox//<.>ma.ə.lelux
+ -flex: <0><.>ma.ə.lelox//<0><.>ma.ə.lelux
   gramm: pst_stem,3,sg,m,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.leli
+ -flex: <0><.>ma.ə.leli
   gramm: pst_stem,3,sg,m,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.leləx//<.>ma.ə.lelax
+ -flex: <0><.>ma.ə.leləx//<0><.>ma.ə.lelax
   gramm: pst_stem,3,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lelxu//<.>ma.ə.lalxu//<.>ma.ə.lalxun//<.>ma.ə.lelalxu
+ -flex: <0><.>ma.ə.lelxu//<0><.>ma.ə.lalxu//<0><.>ma.ə.lalxun//<0><.>ma.ə.lelalxu
   gramm: pst_stem,3,sg,m,2.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lelan
+ -flex: <0><.>ma.ə.lelan
   gramm: pst_stem,3,sg,m,1.o,pl.o 
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lalox//<.>ma.ə.lalux
+ -flex: <0><.>ma.ə.lalox//<0><.>ma.ə.lalux
   gramm: pst_stem,3,sg,f,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lali
+ -flex: <0><.>ma.ə.lali
   gramm: pst_stem,3,sg,f,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.laləx//<.>ma.ə.lalax
+ -flex: <0><.>ma.ə.laləx//<0><.>ma.ə.lalax
   gramm: pst_stem,3,sg,f,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lalxu//<.>ma.ə.lalxun//<.>ma.ə.lalalxu
+ -flex: <0><.>ma.ə.lalxu//<0><.>ma.ə.lalxun//<0><.>ma.ə.lalalxu
   gramm: pst_stem,3,sg,f,2.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lalan
+ -flex: <0><.>ma.ə.lalan
   gramm: pst_stem,3,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
  -flex: <1>ma.ə.allox//<1>ma.ə.allux
@@ -1584,60 +1584,60 @@
  -flex: <1>ma.ə.allan
   gramm: pst_stem,3,pl,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxli//<.>ma.ə.luxli
+ -flex: <0><.>ma.ə.loxli//<0><.>ma.ə.luxli
   gramm: pst_stem,2,sg,m,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxlan//<.>ma.ə.luxlan
+ -flex: <0><.>ma.ə.loxlan//<0><.>ma.ə.luxlan
   gramm: pst_stem,2,sg,m,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxli//<.>ma.ə.laxli
+ -flex: <0><.>ma.ə.ləxli//<0><.>ma.ə.laxli
   gramm: pst_stem,2,sg,f,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxlan//<.>ma.ə.laxlan
+ -flex: <0><.>ma.ə.ləxlan//<0><.>ma.ə.laxlan
   gramm: pst_stem,2,sg,f,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xulli
+ -flex: <0><.>ma.ə.xulli
   gramm: pst_stem,2,pl,1.o,sg.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xullan
+ -flex: <0><.>ma.ə.xullan
   gramm: pst_stem,2,pl,1.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lilox//<.>ma.ə.lilux
+ -flex: <0><.>ma.ə.lilox//<0><.>ma.ə.lilux
   gramm: pst_stem,1,sg,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.liləx//<.>ma.ə.lilax
+ -flex: <0><.>ma.ə.liləx//<0><.>ma.ə.lilax
   gramm: pst_stem,1,sg,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləlxu//<.>ma.ə.ləlxun//<.>ma.ə.lilalxu
+ -flex: <0><.>ma.ə.ləlxu//<0><.>ma.ə.ləlxun//<0><.>ma.ə.lilalxu
   gramm: pst_stem,1,sg,2.o,pl.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lanlox//<.>ma.ə.lanlux//<.>ma.ə..allox//<.>ma.ə..allux
+ -flex: <0><.>ma.ə.lanlox//<0><.>ma.ə.lanlux//<0><.>ma.ə..allox//<0><.>ma.ə..allux
   gramm: pst_stem,1,pl,2.o,sg.o,m.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lanləx//<.>ma.ə..alləx//<.>ma.ə.lanlax
+ -flex: <0><.>ma.ə.lanləx//<0><.>ma.ə..alləx//<0><.>ma.ə.lanlax
   gramm: pst_stem,1,pl,2.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lanxu//<.>ma.ə..anxu//<.>ma.ə.lanxun//<.>ma.ə.lanlalxu
+ -flex: <0><.>ma.ə.lanxu//<0><.>ma.ə..anxu//<0><.>ma.ə.lanxun//<0><.>ma.ə.lanlalxu
   gramm: pst_stem,1,pl,2.o,pl.o
   paradigm: vb_prefix_perf
   
  # Preterite + dat. suffixes
- -flex: <.>ma.ə.lele
+ -flex: <0><.>ma.ə.lele
   gramm: pst_stem,3,sg,m,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lela
+ -flex: <0><.>ma.ə.lela
   gramm: pst_stem,3,sg,m,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lelən//<.>ma.ə.lalle//<.>ma.ə.lelalle
+ -flex: <0><.>ma.ə.lelən//<0><.>ma.ə.lalle//<0><.>ma.ə.lelalle
   gramm: pst_stem,3,sg,m,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lale
+ -flex: <0><.>ma.ə.lale
   gramm: pst_stem,3,sg,f,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lala
+ -flex: <0><.>ma.ə.lala
   gramm: pst_stem,3,sg,f,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lalən//<.>ma.ə.lalle//<.>ma.ə.lalalle
+ -flex: <0><.>ma.ə.lalən//<0><.>ma.ə.lalle//<0><.>ma.ə.lalalle
   gramm: pst_stem,3,sg,f,3pl.d
   paradigm: vb_prefix_perf
  -flex: <1>ma.ə.alle
@@ -1649,161 +1649,163 @@
  -flex: <1>ma.ə.anne
   gramm: pst_stem,3,pl,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxle//<.>ma.ə.luxle
+ -flex: <0><.>ma.ə.loxle//<0><.>ma.ə.luxle
   gramm: pst_stem,2,sg,m,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxlox//<.>ma.ə.luxlux
+ -flex: <0><.>ma.ə.loxlox//<0><.>ma.ə.luxlux
   gramm: pst_stem,2,sg,m,2sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxla//<.>ma.ə.luxla
+ -flex: <0><.>ma.ə.loxla//<0><.>ma.ə.luxla
   gramm: pst_stem,2,sg,m,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.loxlən//<.>ma.ə.luxxe//<.>ma.ə.luxlalle
+ -flex: <0><.>ma.ə.loxlən//<0><.>ma.ə.luxxe//<0><.>ma.ə.luxlalle
   gramm: pst_stem,2,sg,m,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxle//<.>ma.ə.laxle
+ -flex: <0><.>ma.ə.ləxle//<0><.>ma.ə.laxle
   gramm: pst_stem,2,sg,f,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxla//<.>ma.ə.laxla
+ -flex: <0><.>ma.ə.ləxla//<0><.>ma.ə.laxla
   gramm: pst_stem,2,sg,f,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxləx//<.>ma.ə.laxlax
+ -flex: <0><.>ma.ə.ləxləx//<0><.>ma.ə.laxlax
   gramm: pst_stem,2,sg,f,2sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.ləxlən//<.>ma.ə.laxxe//<.>ma.ə.laxlalle
+ -flex: <0><.>ma.ə.ləxlən//<0><.>ma.ə.laxxe//<0><.>ma.ə.laxlalle
   gramm: pst_stem,2,sg,f,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xulle
+ -flex: <0><.>ma.ə.xulle
   gramm: pst_stem,2,pl,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xulla
+ -flex: <0><.>ma.ə.xulla
   gramm: pst_stem,2,pl,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xullən//<.>ma.ə.xunne
+ -flex: <0><.>ma.ə.xullən//<0><.>ma.ə.xunne
   gramm: pst_stem,2,pl,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.xunxu//<.>ma.ə.xunxun
+ -flex: <0><.>ma.ə.xunxu//<0><.>ma.ə.xunxun
   gramm: pst_stem,2,pl,2pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lile
+ -flex: <0><.>ma.ə.lile
   gramm: pst_stem,1,sg,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lili
+ -flex: <0><.>ma.ə.lili
   gramm: pst_stem,1,sg,1sg.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lila
+ -flex: <0><.>ma.ə.lila
   gramm: pst_stem,1,sg,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lilən//<.>ma.ə.ləlle//<.>ma.ə.lilalle
+ -flex: <0><.>ma.ə.lilən//<0><.>ma.ə.ləlle//<0><.>ma.ə.lilalle
   gramm: pst_stem,1,sg,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lilan
+ -flex: <0><.>ma.ə.lilan
   gramm: pst_stem,1,sg,1pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lanle//<.>ma.ə..alle
+ -flex: <0><.>ma.ə.lanle//<0><.>ma.ə..alle
   gramm: pst_stem,1,pl,3sg.m.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə.lanla//<.>ma.ə..alla
+ -flex: <0><.>ma.ə.lanla//<0><.>ma.ə..alla
   gramm: pst_stem,1,pl,3sg.f.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..anne//<.>ma.ə.lanne//<.>ma.ə.lanlalle
+ -flex: <0><.>ma.ə..anne//<0><.>ma.ə.lanne//<0><.>ma.ə.lanlalle
   gramm: pst_stem,1,pl,3pl.d
   paradigm: vb_prefix_perf
- -flex: <.>ma.ə..allan//<.>ma.ə.lanlan
+ -flex: <0><.>ma.ə..allan//<0><.>ma.ə.lanlan
   gramm: pst_stem,1,pl,1pl.d
   paradigm: vb_prefix_perf
   
   # Pluperfect
- -flex: ma.ə.wole//ma.ə.wayle
+ -flex: <0><.>ma.ə.wole//<0><.>ma.ə.wayle
   gramm: plpf,3,sg,m,3.o,sg.o,m.o
- -flex: ma.ə.wolox//ma.ə.waylux
+ -flex: <0><.>ma.ə.wolox//<0><.>ma.ə.waylux
   gramm: plpf,2,sg,m,3.o,sg.o,m.o
- -flex: ma.ə.wola//ma.ə.wayla
+ -flex: <0><.>ma.ə.wola//<0><.>ma.ə.wayla
   gramm: plpf,3,sg,f,3.o,sg.o,m.o
- -flex: ma.ə.woləx//ma.ə.waylax
+ -flex: <0><.>ma.ə.woləx//<0><.>ma.ə.waylax
   gramm: plpf,2,sg,f,3.o,sg.o,m.o
- -flex: ma.ə.woli//ma.ə.wayli
+ -flex: <0><.>ma.ə.woli//<0><.>ma.ə.wayli
   gramm: plpf,1,sg,3.o,sg.o,m.o
- -flex: ma.ə.wulle//ma.ə.wolən//ma.ə.walle
+ -flex: <0><.>ma.ə.wulle//<0><.>ma.ə.wolən//<0><.>ma.ə.walle
   gramm: plpf,3,pl,3.o,sg.o,m.o
- -flex: ma.ə.wolxu//ma.ə.walxu//ma.ə.walxun
+ -flex: <0><.>ma.ə.wolxu//<0><.>ma.ə.walxu//<0><.>ma.ə.walxun
   gramm: plpf,2,pl,3.o,sg.o,m.o
- -flex: ma.ə.wolan//ma.ə.waylan
+ -flex: <0><.>ma.ə.wolan//<0><.>ma.ə.waylan
   gramm: plpf,1,pl,3.o,sg.o,m.o
- -flex: ma.i.owale//ma.i.owayle
+ -flex: <0><.>ma.i.owale//<0><.>ma.i.owayle
   gramm: plpf,3,sg,m,3.o,sg.o,f.o
- -flex: ma.i.owalox//ma.i.owaylux
+ -flex: <0><.>ma.i.owalox//<0><.>ma.i.owaylux
   gramm: plpf,2,sg,m,3.o,sg.o,f.o
- -flex: ma.i.owala//ma.i.owayla
+ -flex: <0><.>ma.i.owala//<0><.>ma.i.owayla
   gramm: plpf,3,sg,f,3.o,sg.o,f.o
- -flex: ma.i.owaləx//ma.i.owaylax
+ -flex: <0><.>ma.i.owaləx//<0><.>ma.i.owaylax
   gramm: plpf,2,sg,f,3.o,sg.o,f.o
- -flex: ma.i.owali//ma.i.owayli
+ -flex: <0><.>ma.i.owali//<0><.>ma.i.owayli
   gramm: plpf,1,sg,3.o,sg.o,f.o
- -flex: ma.i.owalle//ma.i.owalən
+ -flex: <0><.>ma.i.owalle//<0><.>ma.i.owalən
   gramm: plpf,3,pl,3.o,sg.o,f.o
- -flex: ma.i.owalxu//ma.i.owalxun
+ -flex: <0><.>ma.i.owalxu//<0><.>ma.i.owalxun
   gramm: plpf,2,pl,3.o,sg.o,f.o
- -flex: ma.i.owalan//ma.i.owaylan
+ -flex: <0><.>ma.i.owalan//<0><.>ma.i.owaylan
   gramm: plpf,1,pl,3.o,sg.o,f.o
- -flex: ma.i.iwole//ma.i.iwayle
+ -flex: <0><.>ma.i.iwole//<0><.>ma.i.iwayle
   gramm: plpf,3,sg,m,3.o,pl.o
- -flex: ma.i.iwolox//ma.i.iwaylux
+ -flex: <0><.>ma.i.iwolox//<0><.>ma.i.iwaylux
   gramm: plpf,2,sg,m,3.o,pl.o
- -flex: ma.i.iwola//ma.i.iwayla
+ -flex: <0><.>ma.i.iwola//<0><.>ma.i.iwayla
   gramm: plpf,3,sg,f,3.o,pl.o
- -flex: ma.i.iwoləx//ma.i.iwaylax
+ -flex: <0><.>ma.i.iwoləx//<0><.>ma.i.iwaylax
   gramm: plpf,2,sg,f,3.o,pl.o
- -flex: ma.i.iwoli//ma.i.iwayli
+ -flex: <0><.>ma.i.iwoli//<0><.>ma.i.iwayli
   gramm: plpf,1,sg,3.o,pl.o
- -flex: ma.i.iwunne//ma.i.ənwanne
+ -flex: <0><.>ma.i.iwunne//<0><.>ma.i.ənwanne
   gramm: plpf,3,pl,3.o,pl.o
- -flex: ma.i.iwulxu//ma.i.ənwanxu//ma.i.ənwanxun
+ -flex: <0><.>ma.i.iwulxu//<0><.>ma.i.ənwanxu//<0><.>ma.i.ənwanxun
   gramm: plpf,2,pl,3.o,pl.o
- -flex: ma.i.iwolan//ma.i.iwaylan
+ -flex: <0><.>ma.i.iwolan//<0><.>ma.i.iwaylan
   gramm: plpf,1,pl,3.o,pl.o
   
  # Imperative
- -flex: a.ə.//ma.ə.
+ -flex: <0>a.ə.//<0>ma.ə.
   gramm: imv,sg
- -flex: a.i.u//ma.i.u
+ -flex: <0>a.i.u//<0>ma.i.u
   gramm: imv,pl 
   
  # Imperative + obj./dat. suffixes
- -flex: a.i.e//ma.i.e
+ -flex: <0>a.i.e//<0><.>ma.i.e
   gramm: imv,sg,3.o,sg.o,m.o
- -flex: a.i.a//ma.i.a
+ -flex: <0>a.i.a//<0><.>ma.i.a
   gramm: imv,sg,3.o,sg.o,f.o
- -flex: a.i.ən//ma.i.ən//a.i.ene//ma.i.ene
+ -flex: <0>a.i.ən//<0><.>ma.i.ən//a.i.ene//<0><.>ma.i.ene
   gramm: imv,sg,3.o,pl.o
- -flex: a.ə.li//ma.ə.li
+ -flex: <0>a.ə.li//<0><.>ma.ə.li
   gramm: imv,sg,1.o,sg.o
- -flex: a.ə.lan//ma.ə.lan
+ -flex: <0>a.ə.lan//<0><.>ma.ə.lan
   gramm: imv,sg,1.o,pl.o
- -flex: a.ə.lox//ma.ə.lox//a.ə.lux//ma.ə.lux
+ -flex: <0>a.ə.lox//<0><.>ma.ə.lox//<0>a.ə.lux//<0><.>ma.ə.lux
   gramm: imv,sg,2sg.m.d
- -flex: a.ə.loxyo//ma.ə.loxyo//a.ə.luxyo//ma.ə.luxyo
+ -flex: <0>a.ə.loxyo//<0><.>ma.ə.loxyo//<0>a.ə.luxyo//<0><.>ma.ə.luxyo
   gramm: imv,sg,2sg.m.d,3.o,sg.o
- -flex: a.ə.loxne//ma.ə.loxne//a.ə.luxne//ma.ə.luxne
+ -flex: <0>a.ə.loxne//<0><.>ma.ə.loxne//<0>a.ə.luxne//<0><.>ma.ə.luxne
   gramm: imv,sg,2sg.m.d,3.o,pl.o
- -flex: a.ə.ləx//ma.ə.ləx//a.ə.lax//ma.ə.lax
+ -flex: <0>a.ə.ləx//<0><.>ma.ə.ləx//<0>a.ə.lax//<0><.>ma.ə.lax
   gramm: imv,sg,2sg.f.d
- -flex: a.ə.ləxyo//ma.ə.ləxyo//a.ə.laxyo//ma.ə.laxyo
+ -flex: <0>a.ə.ləxyo//<0><.>ma.ə.ləxyo//<0>a.ə.laxyo//<0><.>ma.ə.laxyo
   gramm: imv,sg,2sg.f.d,3.o,sg.o
- -flex: a.ə.ləxne//ma.ə.ləxne//a.ə.laxne//ma.ə.laxne
+ -flex: <0>a.ə.ləxne//<0><.>ma.ə.ləxne//<0>a.ə.laxne//<0><.>ma.ə.laxne
   gramm: imv,sg,2sg.f.d,3.o,pl.o
- -flex: a.i.ulle//ma.i.ulle//a.i.le//ma.i.le//a.i.ule//ma.i.ule
+ -flex: <0>a.i.ulle//<0><.>ma.i.ulle//<0>a.i.le//<0><.>ma.i.le//<0>a.i.ule//<0><.>ma.i.ule
   gramm: imv,pl,3.o,sg.o,m.o
- -flex: a.i.ulla//ma.i.ulla//a.i.la//ma.i.la//a.i.ula//ma.i.ula
+ -flex: <0>a.i.ulla//<0><.>ma.i.ulla//<0>a.i.la//<0><.>ma.i.la//<0>a.i.ula//<0><.>ma.i.ula
   gramm: imv,pl,3.o,sg.o,f.o
- -flex: a.i.unne//ma.i.unne//a.i.ne//ma.i.ne
+ -flex: <0>a.i.unne//<0><.>ma.i.unne//<0>a.i.ne//<0><.>ma.i.ne
   gramm: imv,pl,3.o,pl.o
- -flex: a.i.unxu//ma.i.unxu//a.i.xu//ma.i.xu
+ -flex: <0>a.i.unxu//<0><.>ma.i.unxu//<0>a.i.xu//<0><.>ma.i.xu
   gramm: imv,pl,2pl.d
- -flex: a.i.ulli//ma.i.ulli//a.i.li//ma.i.li//a.i.uli//ma.i.uli
+ -flex: <0>a.i.ulli//<0><.>ma.i.ulli//<0>a.i.li//<0><.>ma.i.li//<0>a.i.uli//<0><.>ma.i.uli
   gramm: imv,pl,1.o,sg.o
- -flex: a.i.ullan//ma.i.ullan//a.i.lan//ma.i.lan//a.i.ulan//ma.i.ulan
+ -flex: <0>a.i.ullan//<0><.>ma.i.ullan//<0>a.i.lan//<0><.>ma.i.lan//<0>a.i.ulan//<0><.>ma.i.ulan
   gramm: imv,pl,1.o,pl.o
+
+# finish
   
 -paradigm: V_IIIp_2y
 
