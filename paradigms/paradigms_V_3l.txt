@@ -268,34 +268,26 @@
  -flex: <1><.>..ili
   gramm: pst_stem,1,sg
   paradigm: vb_prefix_perf
-  paradigm: vb_prefix_perf
  -flex: <1><.>..ilux//<1><.>..ilox
   gramm: pst_stem,2,sg,m
-  paradigm: vb_prefix_perf
   paradigm: vb_prefix_perf
  -flex: <1><.>..ilax//<1><.>..iləx
   gramm: pst_stem,2,sg,f
   paradigm: vb_prefix_perf
-  paradigm: vb_prefix_perf
  -flex: <1><.>..ile
   gramm: pst_stem,3,sg,m
-  paradigm: vb_prefix_perf
   paradigm: vb_prefix_perf
  -flex: <1><.>..ila
   gramm: pst_stem,3,sg,f
   paradigm: vb_prefix_perf
-  paradigm: vb_prefix_perf
  -flex: <1><.>..ilan
   gramm: pst_stem,1,pl
-  paradigm: vb_prefix_perf
   paradigm: vb_prefix_perf
  -flex: <3><.>..ə.e
   gramm: pst_stem,3,pl
   paradigm: vb_prefix_perf
-  paradigm: vb_prefix_perf
  -flex: <0><.>..ə.xu
   gramm: pst_stem,2,pl
-  paradigm: vb_prefix_perf
   paradigm: vb_prefix_perf
 
  # Preterite Transitive 3fs inner object
