@@ -2,7 +2,7 @@
  lex: l
  stem: .l.|.ll.|l.
  root: l
- gramm: prep
+ gramm: PREP
  paradigm: PREP_1
  trans_de: [?]
  trans_en: to; towards; for
@@ -10,7 +10,7 @@
  lex: bayn
  stem: bayn.|bayne.|bayna.|baynoṯ.
  root: byn
- gramm: prep
+ gramm: PREP
  paradigm: PREP_bayn
  trans_de: [?]
  trans_en: between
@@ -18,7 +18,7 @@
  lex: b
  stem: .b.|.pp.|b.
  root: b
- gramm: prep
+ gramm: PREP
  paradigm: PREP_1
  trans_de: [?]
  trans_en: in; with the help of
@@ -26,7 +26,7 @@
  lex: me/mə/m
  stem: mə.|me.|m.|min.|mən.|men.
  root: m
- gramm: prep
+ gramm: PREP
  paradigm: PREP_me
  trans_de: [?]
  trans_en: from
@@ -34,7 +34,7 @@
  lex: se/sə/s
  stem: sə.|se.|s.|sid.|sət.
  root: s
- gramm: prep
+ gramm: PREP
  paradigm: PREP_se
  trans_de: [?]
  trans_en: at; by; towards
@@ -42,7 +42,7 @@
  lex: ʕal
  stem: aʕl.|ʕal.
  root: ʕl
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: on; upon
@@ -50,7 +50,7 @@
  lex: ʕam
  stem: aʕm.|ʕam.
  root: ʕm
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: with
@@ -58,7 +58,7 @@
  lex: gab
  stem: gab.
  root: gb
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: at; by; towards
@@ -66,7 +66,7 @@
  lex: lašan
  stem: lašan.//laǧan.//lažan.//lašən.//šan.//lšan.
  root: lšn
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: for
@@ -74,7 +74,7 @@
  lex: bəṯṯər
  stem: bəṯr.//bəṯṯər.//bəṯər.
  root: ʔṯr
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: after
@@ -82,7 +82,7 @@
  lex: dlo
  stem: dlo.
  root: dl
- gramm: prep
+ gramm: PREP
  paradigm: unchangeable
  trans_de: ohne
  trans_en: without
@@ -90,7 +90,7 @@
  lex: qum
  stem: qum.//qm.//qum.
  root: qdm
- gramm: prep
+ gramm: PREP
  paradigm: PREP_3
  trans_de: [?]
  trans_en: before; in front of
@@ -98,16 +98,144 @@
  lex: xəd/xud
  stem: xəd.//xd.//xud.|xtoṯ.|xoṯ.|xədwoṯ.|x.
  root: xd
- gramm: prep
+ gramm: PREP
  paradigm: PREP_xud
  trans_de: wie
  trans_en: like
 -lexeme
  lex: d
- stem: d.//di.
+ stem: d.
  root: d
- gramm: prep
+ gramm: PREP
  paradigm: unchangeable
  trans_de: Genitivpartikel
  trans_en: genitive particle
+-lexeme
+ lex: taḥt
+ stem: taḥte.//taḥt.
+ root: tḥt
+ gramm: PREP
+ paradigm: PREP_3
+ trans_de: unter
+ trans_en: under
+-lexeme
+ lex: ġayn/ġayni
+ stem: ġayn.//ġayni.
+ root: ġyn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: außer (ġayn me)
+ trans_en: beside (ġayn me)
+-lexeme
+ lex: ġayr
+ stem: ġayr.//ġer.
+ root: ġyr
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: außer; außer (ġayr me); außer, es sei denn, dass (əlla ġayr m-)
+ trans_en: beside; beside (ġayr me); beside, unless (əlla ġayr m-)
+-lexeme
+ lex: ḥḏ̣or/ḥeḏ̣ar/ḥeḏ̣ər/ḥeḏ̣or
+ stem: ḥḏ̣or.//ḥḏor.//ḥeḏ̣ar.//ḥeḏar.//ḥeḏ̣ər.//ḥeḏər.//ḥeḏ̣or.//ḥeḏor.
+ root: ḥḏ̣r
+ gramm: PREP
+ paradigm: PREP_3
+ trans_de: um ... herum
+ trans_en: around
+-lexeme
+ lex: məḥləf
+ stem: məḥləf.//məḥlaf.//məḥlof.
+ root: ḥlf
+ gramm: PREP
+ paradigm: PREP_3
+ trans_de: anstatt, anstelle
+ trans_en: instead of
+-lexeme
+ lex: mqabəl
+ stem: mqabəl.//muqabəl.//məqabəl.
+ root: qbl
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: gegenüber
+ trans_en: on the opposite side of, in front of
+-lexeme
+ lex: qaršə/qarišši
+ stem: qaršə.//qarišši.
+ root: qrš
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: gegen, gegenüber
+ trans_en: against, on the opposite side
+-lexeme
+ lex: qul
+ stem: qul.
+ root: ql
+ gramm: PREP
+ paradigm: PREP_3
+ trans_de: vor (l qul)
+ trans_en: before (l qul)
+-lexeme
+ lex: rišo/rešo
+ stem: rišo.//rešo.
+ root: rš
+ gramm: PREP
+ paradigm: PREP_3
+ trans_de: (mit und) als Präposition: zu (l riš-, riš-): bei (riš-)
+ trans_en: (with and) as a preposition: to, towards (l riš-, riš-); near, at (riš-)
+-lexeme
+ lex: žbona/žboni
+ stem: žbona//žboni.
+ root: žbn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: um ... willen, für
+ trans_en: for the sake of, for
+-lexeme
+ lex: žboyi
+ stem: žboyi.//žboy.
+ root: žby
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: wegen jemandem, um einer willen (žboyi d-)
+ trans_en: because of someone, for one's sake (žboyi d-)
+ -lexeme
+ lex: žġayni/žġeni
+ stem: žġayni.//žġeni.
+ root: žġn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: außer
+ trans_en: except
+-lexeme
+ lex: žġer/ǧġer
+ stem: žġer.//ǧġer.
+ root: žġr
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: außer
+ trans_en: except
+-lexeme
+ lex: barra
+ stem: barra.
+ root: br
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: neben, bei, vor;
+ trans_en: near, by, before
+-lexeme
+ lex: barban
+ stem: barban.
+ root: brbn
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de: neben, gegenüber, entlang (barban d-)
+ trans_en: near; in front of; to the opposite of; along (barban d-)
+-lexeme
+ lex: xlaf
+ stem: xlaf.
+ root: xlf
+ gramm: PREP
+ paradigm: unchangeable
+ trans_de:
+ trans_en: instead of (xlaf me)
 
