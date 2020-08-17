@@ -9,10 +9,10 @@
 
 -lexeme
  lex: čəlle/čoyər
- stem: .č.y.r.|.č.r.|.č.rr.
+ stem: .č.y.r.|.č.r.|.č.l.|.č.y.n.|.č.n.|.č.rr.
  root: čyr
  gramm: V
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: 1) zerreissen, einreissen; 2) zur Verzweiflung bringen (???)
  trans_en: to tear, rip
 
@@ -45,7 +45,7 @@
 
 -lexeme
  lex: daʕər/doʕər
- stem: .d.ʕ.r.|.d.ʕ.l.|.d.ʕ.n.|.d.ʕ.rr.|.d.ʕ.ll.
+ stem: .d.ʕ.r.|.d.ʕ.l.|.d.ʕ.n.|.d.ʕ.rr.
  root: dʕr
  gramm: V
  paradigm: V_I_3r
@@ -72,7 +72,7 @@
 
 -lexeme
  lex: mdaʕele/mdaʕe
- stem: .d.ʕ.y.|.d.ʕ.|.d.ʕ.yy.|.d.ʕʕ.
+ stem: .d.ʕ.y.|.d.ʕ.
  root: dʕy
  gramm: V
  paradigm: V_II_3y
@@ -90,7 +90,7 @@
 
 -lexeme
  lex: mdaballe/mdabər
- stem: .d.b.r.|.d.b.l.|.d.b.rr.|.d.b.ll.
+ stem: .d.b.r.|.d.b.l.|.d.b.n.|.d.b.rr.
  root: dbr
  gramm: V
  paradigm: V_II_3r
@@ -116,8 +116,8 @@
  trans_en: to protect
 
 -lexeme
- lex: dfn
- stem: .d.f.n.|.d.f.l.|.d.f.nn.|.d.f.ll.
+ lex: dofən/dfəlle
+ stem: .d.f.n.|.d.f.l.|.d.f.nn.
  root: dfn
  gramm: V
  paradigm: V_I_3n
@@ -125,8 +125,8 @@
  trans_en: to bury
 
 -lexeme
- lex: dfn
- stem: .d.f.n.|.d.f.l.|.d.f.nn.|.d.f.ll.
+ lex: mdafən/mdafalle
+ stem: .d.f.n.|.d.f.l.|.d.f.nn.
  root: dfn
  gramm: V
  paradigm: V_II_3n
@@ -135,7 +135,7 @@
 
 -lexeme
  lex: mdagele/mdagəl
- stem: .d.g.l.|.d.g.|.d.g.ll.|.d.gg.
+ stem: .d.g.l.|.d.g.|.d.g.n.|.d.g.ll.
  root: dgl
  gramm: V
  paradigm: V_II_3l
@@ -153,7 +153,7 @@
 
 -lexeme
  lex: mdagəš/midagəš
- stem: .d.g.š.|.d.g.šš.
+ stem: .d.g.š.
  root: dgš
  gramm: V
  paradigm: V_II_2p
@@ -171,7 +171,7 @@
 
 -lexeme
  lex: dġəlle/doġər
- stem: .d.ġ.r.|.d.ġ.l.|.d.ġ.rr.|.d.ġ.ll.
+ stem: .d.ġ.r.|.d.ġ.l.|.d.ġ.n.|.d.ġ.rr.
  root: dġr
  gramm: V
  paradigm: V_I_3r
@@ -180,7 +180,7 @@
 
 -lexeme
  lex: mdaġele/mdaġe
- stem: .d.ġ.y.|.d.ġ.|.d.ġ.yy.|.d.ġġ.
+ stem: .d.ġ.y.|.d.ġ.
  root: dġy
  gramm: V
  paradigm: V_II_3y
@@ -189,7 +189,7 @@
 
 -lexeme
  lex: mdahəb/midahəb
- stem: .d.h.b.|.d.h.bb.
+ stem: .d.h.b.
  root: dhb
  gramm: V
  paradigm: V_IIp
@@ -198,7 +198,7 @@
 
 -lexeme
  lex: mdahdalle/mdahdər
- stem: .d.hd.r.|.d.hd.rr.
+ stem: .d.hd.r.|.d.hd.l.|.d.hd.n.|.d.hd.rr.
  root: dhdr
  gramm: V
  paradigm: V_Q_3r
@@ -207,7 +207,7 @@
 
 -lexeme
  lex: dḥile/doḥəl
- stem: .d.ḥ.l.|.d.ḥ.|.d.ḥ.ll.|.d.ḥḥ.
+ stem: .d.ḥ.l.|.d.ḥ.|.d.ḥ.n.|.d.ḥ.ll.
  root: dḥl
  gramm: V
  paradigm: V_I_3l
@@ -216,7 +216,7 @@
 
 -lexeme
  lex: dhəlle/dohən
- stem: .d.h.n.|.d.h.l.|.d.h.nn.|.d.h.ll.
+ stem: .d.h.l.|.d.h.|.d.h.n.|.d.h.ll.
  root: dhn
  gramm: V
  paradigm: V_I_3n
@@ -225,7 +225,7 @@
 
 -lexeme
  lex: mdahalle/mdahən
- stem: .d.h.n.|.d.h.l.|.d.h.nn.|.d.h.ll.
+ stem: .d.h.l.|.d.h.|d.h.n.|.d.h.ll.
  root: dhn
  gramm: V
  paradigm: V_II_3n
@@ -270,7 +270,7 @@
 
 -lexeme
  lex: mdalele/mdaləl
- stem: .d.l.l.|.d.l.|.d.l.ll.|.d.ll.
+ stem: .d.l.l.|.d.l.|.d.l.n.|.d.l.ll.
  root: dll
  gramm: V
  paradigm: V_II_3l
@@ -315,7 +315,7 @@
 
 -lexeme
  lex: mdamalle/mdamən
- stem: .d.m.n.|.d.m.l.|.d.m.nn.|.d.m.ll.
+ stem: .d.m.n.|.d.m.l.|.d.m.ll.
  root: dmn
  gramm: V
  paradigm: V_II_3n
@@ -324,7 +324,7 @@
 
 -lexeme
  lex: mdamalle/mdamər
- stem: .d.m.r.|.d.m.l.|.d.m.rr.|.d.m.ll.
+ stem: .d.m.r.|.d.m.l.|.d.m.n.|.d.m.rr.
  root: dmr
  gramm: V
  paradigm: V_II_3r
@@ -333,10 +333,10 @@
 
 -lexeme
  lex: mdamər/midamər
- stem: .d.m.r.|.d.m.l.|d.m.n.|.d.m.rr.|.d.m.ll.|d.m.nn.
+ stem: .d.m.r.|.d.m.l.|.d.m.n.|.d.m.rr.
  root: dmr
  gramm: V
- paradigm: V_IIp
+ paradigm: V_IIp_3r
  trans_de: staunen
  trans_en: to be astonished
 
@@ -369,7 +369,7 @@
 
 -lexeme
  lex: mdamele/mdame
- stem: .d.m.y.|.d.m.|.d.m.yy.|.d.mm.
+ stem: .d.m.y.|.d.m.
  root: dmy
  gramm: V
  paradigm: V_II_3y
@@ -405,7 +405,7 @@
 
 -lexeme
  lex: mdaqalle/mdaqər
- stem: .d.q.r.|.d.q.rr.
+ stem: .d.q.r.|.d.q.l.|.d.q.n.|.d.q.rr.
  root: dqr
  gramm: V
  paradigm: V_II_3r
@@ -423,7 +423,7 @@
 
 -lexeme
  lex: mdarəd/midarəd
- stem: .d.r.d.|.d.r.dd.
+ stem: .d.r.d.
  root: drd
  gramm: V
  paradigm: V_IIp
@@ -459,7 +459,7 @@
 
 -lexeme
  lex: mdarmalle/mdarmən
- stem: .d.rm.n.|.d.rm.l.|.d.rm.nn.|.d.rm.ll.
+ stem: .d.rm.n.|.d.rm.l.|.d.rm.nn.
  root: drmn
  gramm: V
  paradigm: V_Q_3n
@@ -468,7 +468,7 @@
 
 -lexeme
  lex: drəlle/dorən
- stem: .d.r.n.|.d.r.l.|.d.r.nn.|.d.r.ll.
+ stem: .d.r.n.|.d.r.l.|.d.r.nn.
  root: drn
  gramm: V
  paradigm: V_I_3n
@@ -495,7 +495,7 @@
 
 -lexeme
  lex: mdarele/mdare
- stem: .d.r.y.|.d.r.|.d.r.yy.|.d.rr.
+ stem: .d.r.y.|.d.r.
  root: dry
  gramm: V
  paradigm: V_II_3y
@@ -530,7 +530,7 @@
  trans_en: to stamp around, to trample, to push
 
 -lexeme
- lex: mdawdaḥle/mdawdəḥ
+ lex: mdawdaḥle/mdawdəḥ/mṭawṭaḥle/mṭawṭəḥ/mtawtəḥ/mtawtaḥle
  stem: .d.wd.ḥ.|.ṭ.wṭ.ḥ.|.t.wt.ḥ.|.d.wd.ḥḥ.|.ṭ.wṭ.ḥḥ.|.t.wt.ḥḥ.
  root: dwdḥ/twtḥ/ṭwṭḥ
  gramm: V
@@ -539,8 +539,8 @@
  trans_en: to let smth. fall down
 
 -lexeme
- lex: mdawdəḥ/midawdəḥ
- stem: .d.wd.ḥ.|.ṭ.wṭ.ḥ.|.t.wt.ḥ.|.d.wd.ḥḥ.|.ṭ.wṭ.ḥḥ.|.t.wt.ḥḥ.
+ lex: mdawdəḥ/midawdəḥ/mṭawṭəḥ/miṭawṭəḥ/mitawtəḥ/mitawtəḥ
+ stem: .d.wd.ḥ.|.ṭ.wṭ.ḥ.|.t.wt.ḥ.
  root: dwdḥ/twtḥ/ṭwṭḥ
  gramm: V
  paradigm: V_Qp
@@ -549,7 +549,7 @@
 
 -lexeme
  lex: mdawdəl/midawdəl
- stem: .d.wd.l.|.d.wd.|.d.wd.ll.|.d.wdd.
+ stem: .d.wd.l.|.d.wd.|.d.wd.n.
  root: dwdl
  gramm: V
  paradigm: V_Qp_3l
@@ -558,7 +558,7 @@
 
 -lexeme
  lex: dwəġle/dowəġ
- stem: .d.w.ġ.|.d.ġ.|.d.w.ġġ.|.d.ġġ.
+ stem: .d.w.ġ.|.d.ġ.|.d.w.ġġ.
  root: dwġ
  gramm: V
  paradigm: V_I_2w
@@ -576,7 +576,7 @@
 
 -lexeme
  lex: mdawhalle/mdawhər
- stem: .d.wh.r.|.d.wh.l.|.d.wh.rr.|.d.wh.ll.
+ stem: .d.wh.r.|.d.wh.l.|.d.wh.n.|.d.wh.rr.
  root: dwhr
  gramm: V
  paradigm: V_Q_3r
@@ -594,7 +594,7 @@
 
 -lexeme
  lex: mdawamle/mdawəm
- stem: .d.w.m.|.d.m.|.d.w.mm.|.d.mm.
+ stem: .d.w.m.|.d.w.mm.
  root: dwm
  gramm: V
  paradigm: V_II_2w
@@ -603,16 +603,16 @@
 
 -lexeme
  lex: mdawmər/midawmər
- stem: .d.wm.r.|.d.wm.rr.
+ stem: .d.wm.r.|.d.wm.l.|.d.wm.n.|.d.wm.rr.
  root: dwmr
  gramm: V
- paradigm: V_Qp
+ paradigm: V_Qp_3r
  trans_de: (Detrans.) auf's höchste Erstaunt, verblüfft sein
  trans_en: to be astonished, to be amazed
 
 -lexeme
  lex: dwəqle/dowəq
- stem: .d.w.q.|.d.q.|.d.w.qq.|.d.qq.
+ stem: .d.w.q.|.d.q.|.d.w.qq.
  root: dwq
  gramm: V
  paradigm: V_I_2w
@@ -621,25 +621,25 @@
 
 -lexeme
  lex: dwəlle/dowər
- stem: .d.w.r.|.d.r.|.d.w.rr.|.d.rr.
+ stem: .d.w.r.|.d.r.|.d.w.rr.|.d.w.l.|.d.w.n.
  root: dwr
  gramm: V
- paradigm: V_I_2w
+ paradigm: V_I_2w_3r
  trans_de: ackern, pflügen (mit ʕal), speziell das zweite Ackern nach dem krōwo, dem Aufackern des Brachlandes, mit den Furchen senkrecht zu dem krowo
  trans_en: to plough, to till
 
 -lexeme
  lex: mdawalle/mdawər
- stem: .d.w.r.|.d.r.|.d.w.rr.|.d.rr.
+ stem: .d.w.r.|.d.w.rr.|.d.w.l.|.d.w.n.
  root: dwr
  gramm: V
- paradigm: V_II_2w
+ paradigm: V_II_2w_3r
  trans_de: eine Wand aufrichten rings über der Decke (qṭoro) des Hauses, das gegiebelte Dachwerk rings auffüllen
  trans_en: to erect a wall around the roof of the house
 
 -lexeme
  lex: mdawasle/mdawəs
- stem: .d.w.s.|.d.s.|.d.w.ss.|.d.ss.
+ stem: .d.w.s.|.d.w.ss.
  root: dws
  gramm: V
  paradigm: V_II_2w
@@ -648,7 +648,7 @@
 
 -lexeme
  lex: dwəṣle/dowəṣ
- stem: .d.w.ṣ.|.d.ṣ.|.d.w.ṣṣ.|.d.ṣṣ.
+ stem: .d.w.ṣ.|.d.ṣ.|.d.w.ṣṣ.
  root: dwṣ
  gramm: V
  paradigm: V_I_2w
@@ -657,7 +657,7 @@
 
 -lexeme
  lex: mdawele/mdawe
- stem: .d.w.y.|.d.w.|.d.w.yy.|.d.ww.
+ stem: .d.w.y.|.d.w.
  root: dwy
  gramm: V
  paradigm: V_II_3y
@@ -666,7 +666,7 @@
 
 -lexeme
  lex: mdaxele/mdaxəl
- stem: .d.x.l.|.d.x.|.d.x.ll.|.d.xx.
+ stem: .d.x.l.|.d.x.|.d.x.n.|.d.x.ll.
  root: dxl
  gramm: V
  paradigm: V_II_3l
@@ -684,7 +684,7 @@
 
 -lexeme
  lex: madile/madəl
- stem: .d.y.l.|.d.l.|.d.|.d.y.ll.|.d.ll.|.dd.
+ stem: .d.l.|.d.|.d.n.|.d.ll.
  root: dyl
  gramm: V
  paradigm: V_III_2y_3l
@@ -693,7 +693,7 @@
 
 -lexeme
  lex: madəmle/madəm
- stem: .d.y.m.|.d.m.|.d.y.mm.|.d.mm.
+ stem: .d.m.|.d.mm.
  root: dym
  gramm: V
  paradigm: V_III_2y
@@ -702,7 +702,7 @@
 
 -lexeme
  lex: mdayalle/mdayən
- stem: .d.y.n.|.d.n.|.d.l.|.d.y.nn.|.d.nn.|.d.ll.
+ stem: .d.y.n.|.d.y.l.|.d.y.nn.
  root: dyn
  gramm: V
  paradigm: V_II_3n
@@ -711,34 +711,34 @@
 
 -lexeme
  lex: mdayən/midayən
- stem: .d.y.n.|.d.n.|.d.y.nn.|.d.nn.
+ stem: .d.y.n.|.d.y.l.
  root: dyn
  gramm: V
- paradigm: V_IIp
+ paradigm: V_IIp_3n
  trans_de: sich anlehnen
  trans_en: to borrow
 
 -lexeme
  lex: mdayalle/mdayən
- stem: .d.y.n.|.d.y.l.|.d.y.nn.|.d.y.ll.
+ stem: .d.y.n.|.d.y.l.|.d.y.nn.
  root: dyn
  gramm: V
- paradigm: V_II
+ paradigm: V_II_3n
  trans_de: sich anlehnen
  trans_en: to recline
 
 -lexeme
  lex: dəqle/doyəq
- stem: .d.y.q.|.d.q.|.d.y.qq.|.d.qq.
+ stem: .d.y.q.|.d.q.|.d.qq.
  root: dyq
  gramm: V
- paradigm: V_I
+ paradigm: V_I_2y
  trans_de: 1) klopfen (an Tür) (akk. ʕal, b-); 2) einrahmen, einstossen, (mit dem Hammer) schlagen; 3) drücken, aufdrücken, stempeln; 4) Berühren anfassen, anrühren; 5) spielen (Karten u.a.); 6) spielen (Musikinstrument); 7) (ʕal) anzeigen (bei der Polizei); 8) (Detrans.) berühren, treffen auf, fallen auf (ʕal, b-); 9) pound, grind
  trans_en: to beat; to knock (on the door); to pound, to grind; to play (a musical instrument); to touch
 
 -lexeme
  lex: madəqle/madəq
- stem: .d.y.q.|.d.q.|.d.y.qq.|.d.qq.
+ stem: .d.q.|.d.qq.
  root: dyq
  gramm: V
  paradigm: V_III_2y
@@ -756,7 +756,7 @@
 
 -lexeme
  lex: mdayšalle/mdayšən
- stem: .d.yš.n.|.d.yš.nn.
+ stem: .d.yš.n.|.d.yš.l.|.d.yš.nn.
  root: dyšn
  gramm: V
  paradigm: V_Q_3n
@@ -765,7 +765,7 @@
 
 -lexeme
  lex: mdaywalle/mdaywən
- stem: .d.yw.n.|.d.yw.nn.
+ stem: .d.yw.n.|.d.yw.l.|.d.yw.nn.
  root: dywn
  gramm: V
  paradigm: V_Q_3n
@@ -774,7 +774,7 @@
 
 -lexeme
  lex: madəxle/madəx
- stem: .d.y.x.|.d.x.|.d.y.xx.|.d.xx.
+ stem: .d.x.|.d.xx.
  root: dyx
  gramm: V
  paradigm: V_III_2y
@@ -783,7 +783,7 @@
 
 -lexeme
  lex: maḏəble/maḏəb
- stem: .ḏ.y.b.|.ḏ.b.|.ḏ.y.bb.|.ḏ.bb.
+ stem: .ḏ.b.|.ḏ.bb.
  root: ḏyb
  gramm: V
  paradigm: V_III_2y
@@ -819,16 +819,16 @@
 
 -lexeme
  lex: md̞aḥele/md̞aḥe
- stem: .ḏ̣.ḥ.y.|.ḏ̣.ḥ.|.ḏ̣.ḥ.yy.|.ḏ̣.ḥḥ.
+ stem: .ḏ̣.ḥ.y.//.ḏ.ḥ.y.|.ḏ̣.ḥ.//.ḏ.ḥ.
  root: d̞ḥy
  gramm: V
- paradigm: V_II
+ paradigm: V_II_3y
  trans_de: aufopfern
  trans_en: to sacrifice
 
 -lexeme
  lex: d̞ləmle/d̞oləm
- stem: .ḏ̣.l.m.|.ḏ̣.l.mm.
+ stem: .ḏ̣.l.m.//.ḏ.l.m.|.ḏ̣.l.mm.//.ḏ.l.mm.
  root: d̞lm
  gramm: V
  paradigm: V_I
@@ -837,7 +837,7 @@
 
 -lexeme
  lex: md̞ayaʕle/md̞ayəʕ
- stem: .ḏ̣.y.ʕ.|.v.y.ʕ.|.ḏ̣.y.ʕʕ.|.v.y.ʕʕ.
+ stem: .ḏ̣.y.ʕ.//.v.y.ʕ.|.ḏ̣.y.ʕʕ.//.v.y.ʕʕ.
  root: d̞yʕ
  gramm: V
  paradigm: V_II
@@ -846,16 +846,16 @@
 
 -lexeme
  lex: d̞ayəf/d̞oyəf
- stem: .ḏ̣.y.f.|.ḏ̣.f.|.ḏ̣.y.ff.|.ḏ̣.ff.
+ stem: .ḏ̣.y.f.//.ḏ.y.f.|.ḏ̣.f.//.ḏ.f.|.ḏ̣.ff.//.ḏ.ff.
  root: d̞yf
  gramm: V
- paradigm: V_I
+ paradigm: V_I_2y
  trans_de: zu Gaste sein
  trans_en: to stay as a guest
 
 -lexeme
  lex: mḏ̣ayafle/mḏ̣ayəf
- stem: .ḏ̣.y.f.|.ḏ̣.y.ff.
+ stem: .ḏ̣.y.f.//.ḏ.y.f.|.ḏ̣.y.ff.//.ḏ.y.ff.
  root: ḏ̣yf
  gramm: V
  paradigm: V_II_2y
@@ -864,17 +864,17 @@
 
 -lexeme
  lex: maḏ̣əfle/maḏ̣əf
- stem: .ḏ.y.f.|.ḏ.f.|.ḏ.y.ff.|.ḏ.ff.
+ stem: .ḏ̣.f.//.ḏ.f.|.ḏ̣.ff.//.ḏ.ff.
  root: ḏ̣yf
  gramm: V
- paradigm: V_II_2y
+ paradigm: V_III_2y
  trans_de: [?]
  trans_en: to stay as a guest
 
 -lexeme
  lex: mad̞əlle/mad̞ər
- stem: .ḏ̣.y.r.|.ḏ̣.r.|.ḏ̣.n.|.ḏ̣.l.|.ḏ̣.y.rr.|.ḏ̣.rr.|.ḏ̣.nn.|.ḏ̣.ll.
- root: d̞yr
+ stem: .ḏ̣.r.//.ḏ.r.|.ḏ̣.l.//.ḏ.l.|.ḏ̣.n.//.ḏ.n.|.ḏ̣.rr.//.ḏ.rr.
+ root: d̞yr/ḏyr
  gramm: V
  paradigm: V_III_2y_3r
  trans_de: das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
@@ -882,8 +882,8 @@
 
 -lexeme
  lex: mad̞əlle/mad̞ər
- stem: .ḏ̣.y.r.|.ḏ.r.|.ḏ̣.y.rr.|.ḏ.rr.
- root: d̞yr
+ stem: .ḏ̣.r.//.ḏ.r.|.ḏ̣.l.//.ḏ.l.|.ḏ̣.n.//.ḏ.n.|.ḏ̣.rr.//.ḏ.rr.
+ root: d̞yr/ḏyr
  gramm: V
  paradigm: V_III
  trans_de: schaden
@@ -891,7 +891,7 @@
 
 -lexeme
  lex: fʕile/foʕəl
- stem: .f.ʕ.l.|.f.ʕ.|.f.ʕ.ll.|.f.ʕʕ.
+ stem: .f.ʕ.l.|.f.ʕ.|.f.ʕ.n.|.f.ʕ.ll.
  root: fʕl
  gramm: V
  paradigm: V_I_3l
@@ -918,7 +918,7 @@
 
 -lexeme
  lex: mafd̞aḥle/mafd̞əḥ
- stem: .f.ḏ̣.ḥ.|.f.ḏ̣.ḥḥ.
+ stem: .f.ḏ̣.ḥ.//.f.ḏ.ḥ.|.f.ḏ̣.ḥḥ.//.f.ḏ.ḥḥ.
  root: fd̞ḥ
  gramm: V
  paradigm: V_III
@@ -927,7 +927,7 @@
 
 -lexeme
  lex: fad̞əl/fod̞əl
- stem: .f.d̞.l.|.f.ḏ̣.|.f.d̞.ll.|.f.ḏ̣̣.
+ stem: .f.d̞.l.//.f.ḏ.l.|.f.ḏ̣.//.f.ḏ.|.f.ḏ̣.n.//.f.ḏ.n.|.f.d̞.ll.//.f.ḏ.ll.
  root: fd̞l
  gramm: V
  paradigm: V_I_3l
@@ -936,7 +936,7 @@
 
 -lexeme
  lex: mfaḏ̣ele/mfaḏ̣əl
- stem: .f.ḏ̣.l.|.f.ḏ.|.f.ḏ̣.ll.|.f.ḏḏ.
+ stem: .f.ḏ̣.l.//.f.ḏ.l.|.f.ḏ̣.//.f.ḏ.|.f.ḏ̣.n.//.f.ḏ.n.|.f.ḏ̣.ll.//.f.ḏ.ll.
  root: fḏ̣l
  gramm: V
  paradigm: V_II_3l
@@ -963,7 +963,7 @@
 
 -lexeme
  lex: mfahalle/mfahər
- stem: .f.h.r.|.f.h.n.|.f.h.rr.|.f.h.nn.
+ stem: .f.h.r.|.f.h.l.|.f.h.n.|.f.h.rr.
  root: fhr
  gramm: V
  paradigm: V_II_3r
@@ -972,7 +972,7 @@
 
 -lexeme
  lex: mfaḥele/mfaḥəl
- stem: .f.ḥ.l.|.f.ḥ.|.f.ḥ.ll.|.f.ḥḥ.
+ stem: .f.ḥ.l.|.f.ḥ.|.f.ḥ.n.|.f.ḥ.ll.
  root: fḥl
  gramm: V
  paradigm: V_II_3l
@@ -1026,7 +1026,7 @@
 
 -lexeme
  lex: mfakər/mifakər
- stem: .f.k.r.|.f.k.n.|.f.k.l.|.p.k.r.|.p.k.n.|.p.k.l.|.f.k.rr.|.f.k.nn.|.f.k.ll.|.p.k.rr.|.p.k.nn.|.p.k.ll.
+ stem: .f.k.r.//.p.k.r.|.f.k.l.//.p.k.l.|.f.k.n.//.p.k.n.
  root: fkr
  gramm: V
  paradigm: V_IIp_3r
@@ -1035,7 +1035,7 @@
 
 -lexeme
  lex: mfakalle/mfakər
- stem: .f.k.r.|.f.k.l.|.f.k.n.|.f.k.rr.|.f.k.ll.|.f.k.nn.
+ stem: .f.k.r.//.p.k.r.|.f.k.l.//p.k.l.|.f.k.n.//.p.k.n.|.f.k.rr.//.p.k.rr.
  root: fkr
  gramm: V
  paradigm: V_II_3r
@@ -1044,7 +1044,7 @@
 
 -lexeme
  lex: fləġle/foləġ
- stem: .f.l.ġ.|.p.l.ġ.|.f.l.ġġ.|.p.l.ġġ.
+ stem: .f.l.ġ.//.p.l.ġ.|.f.l.ġġ.//.p.l.ġġ.
  root: flġ
  gramm: V
  paradigm: V_I
@@ -1053,7 +1053,7 @@
 
 -lexeme
  lex: mfalaġle/mfaləġ
- stem: .f.l.ġ.|.p.l.ġ.|.f.l.ġġ.|.p.l.ġġ.
+ stem: .f.l.ġ.//.p.l.ġ.|.f.l.ġġ.//.p.l.ġġ.
  root: flġ
  gramm: V
  paradigm: V_II
@@ -1079,7 +1079,7 @@
 
 -lexeme
  lex: mfalele/mfale
- stem: .f.l.y.|.f.l.|.f.l.yy.|.f.ll.
+ stem: .f.l.y.|.f.l.
  root: fly
  gramm: V
  paradigm: V_II_3y
@@ -1088,7 +1088,7 @@
 
 -lexeme
  lex: mfanfəl
- stem: .f.nf.l.|.f.nf.|.f.nf.n.|.f.nf.ll.|.f.nff.|.f.nf.nn.
+ stem: .f.nf.l.|.f.nf.|.f.nf.n.|.f.nf.ll.
  root: fnfl
  gramm: V
  paradigm: V_Qp_3l
@@ -1160,7 +1160,7 @@
 
 -lexeme
  lex: mfaradle/mfarəd
- stem: .f.r.d.|.p.r.d.|.p.r.ḏ.|.f.r.dd.|.p.r.dd.|.p.r.ḏḏ.
+ stem: .f.r.d.//.p.r.d.//.p.r.ḏ.//.f.r.ḏ|.f.r.dd.|.p.r.dd.|.p.r.ḏḏ.//.f.r.ḏḏ.
  root: frd
  gramm: V
  paradigm: V_II
@@ -1169,7 +1169,7 @@
 
 -lexeme
  lex: frəd̞le/forəd̞
- stem: .f.r.ḏ̣.|.f.r.ḏ̣̣.
+ stem: .f.r.ḏ̣.//.f.r.ḏ.|.f.r.ḏ̣̣ḏ̣.//.f.r.ḏḏ.
  root: frd̞
  gramm: V
  paradigm: V_I
