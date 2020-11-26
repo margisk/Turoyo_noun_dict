@@ -31,12 +31,13 @@ def add_reduplicated_stem(m):
     return 'stem: ' + stems + stemsNew
 
 
-def make_lexeme(lex, stem, gramm, root, paradigm, transDe, transEn):
+def make_lexeme(lex, stem, gramm, root, paradigm, transDe, transEn, stamm):
     return '-lexeme\n' \
            ' lex: ' + lex + '\n' \
            ' stem: ' + stem + '\n' \
            ' gramm: ' + gramm + '\n' \
            ' root: ' + root + '\n' \
+           ' stamm: ' + stamm + '\n' \
            ' paradigm: V_' + paradigm + '\n' \
            ' trans_de: ' + transDe + '\n' \
            ' trans_en: ' + transEn + '\n'
@@ -50,15 +51,18 @@ def generate_derivations(lex, stem, gramm, root, paradigm,
     paraDeviation = mPara.group(2)
     if paraBase == 'I':
         paradigmNew = 'III'
+        stamm = 'III'
         if len(paraDeviation) > 0:
             paradigmNew += '_' + paraDeviation
         if len(stem) == 3:
+            stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
             # Lemma consists of two parts: prs and pst
             # Present form
             if paraDeviation == '3y':
                 lexPrs = 'ma' + stem[0] + 'e'
             elif paraDeviation == '3w':
                 lexPrs = 'ma' + stem[:2] + 'u'
+                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + '.'.join(stem) + '.'
             elif paraDeviation in ('2y', '2y_3l', '2y_3r', '2y_3n'):
                 lexPrs = 'ma' + stem[0] + 'ə' + stem[2]
             elif paraDeviation == '2y_3w':
@@ -68,43 +72,54 @@ def generate_derivations(lex, stem, gramm, root, paradigm,
 
             if paraDeviation == '2y':
                 lexPst = 'ma' + stem[0] + 'ə' + stem[2] + 'le'
+                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + stem[0] + '.' + stem[2] + '.'
             elif paraDeviation in ('3y', '3l'):
                 lexPst = 'ma' + stem[:2] + 'ele'
+                stemNew = '.' + stem[0] + '.' + stem[1] + '.'
             elif paraDeviation in ('3r', '3n'):
                 lexPst = 'ma' + stem[:2] + 'alle'
+                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.'
             elif paraDeviation == '3l':
                 lexPst = 'ma' + stem[:2] + 'ele'
+                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.'
             elif paraDeviation == '2y_3l':
                 lexPst = 'ma' + stem[0] + 'ile'
+                stemNew = '.' + stem[0] + '.' + stem[2] + '.|.' + stem[0] + '.'
             elif paraDeviation in ('2y_3r', '2y_3n'):
                 lexPst = 'ma' + stem[0] + 'əlle'
+                stemNew = '.' + stem[0] + '.' + stem[2] + '.|.' + stem[0] + '.'
             elif paraDeviation == '2y_3w':
                 lexPst = 'ma' + stem[0] + 'ule'
+                stemNew = '.' + stem[0] + '.'
             else:
                 lexPst = 'ma' + stem[:2] + 'a' + stem[2] + 'le'
 
             lexNew = lexPrs + '/' + lexPst
             if lexNew not in existingLemmata:
-                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
                 transEnNew = transEn + ' (III)'
                 transDeNew = transDe + ' (III)'
                 yield make_lexeme(lexNew, stemNew, gramm, root, paradigmNew,
-                                  transDeNew, transEnNew)
+                                  transDeNew, transEnNew, stamm)
 
         paradigmNew = 'Ip'
+        stamm = 'Ip'
         if len(paraDeviation) > 0:
             paradigmNew += '_' + paraDeviation
         if len(stem) == 3:
-            if paraDeviation == '2y':
+            stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
+            if paraDeviation.startswith('2y'):
                 lexPrs = 'mə' + stem[0] + 'ə' + stem[2]
+                stemNew = '.' + stem[0] + '.' + stem[2] + '.'
             elif paraDeviation == '3w':
                 lexPrs = 'mə' + stem[:2] + 'u'
+                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + '.'.join(stem) + '.'
             elif paraDeviation == '3y':
                 lexPrs = 'mə' + stem[:2] + 'e'
+                stemNew = '.' + stem[0] + '.' + stem[1] + '.'
             else:
                 lexPrs = 'mə' + stem[:2] + 'ə' + stem[2]
 
-            if paraDeviation == '2y':
+            if paraDeviation.startswith('2y'):
                 lexPst = stem[0] + 'i' + stem[2]
             elif paraDeviation == '3y':
                 lexPst = stem[:2] + 'e'
@@ -112,11 +127,10 @@ def generate_derivations(lex, stem, gramm, root, paradigm,
                 lexPst = stem[:2] + 'i' + stem[2]
             lexNew = lexPrs + '/' + lexPst
             if lexNew not in existingLemmata:
-                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
                 transEnNew = transEn + ' (Ip)'
                 transDeNew = transDe + ' (Ip)'
                 yield make_lexeme(lexNew, stemNew, gramm, root, paradigmNew,
-                                  transDeNew, transEnNew)
+                                  transDeNew, transEnNew, stamm)
 
 
 fIn = open('lexemes-V.txt', 'r', encoding='utf-8-sig')
