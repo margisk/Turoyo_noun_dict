@@ -6854,6 +6854,16 @@
  trans_en: to preserve; to wait
 
 -lexeme
+ lex: manṭele/manṭe
+ stem: .n.ṭ.y.|.n.ṭ.
+ root: nṭy
+ gramm: V
+ stamm: III
+ paradigm: V_III_3y
+ trans_de: bringen
+ trans_en: to bring
+
+-lexeme
  lex: naṯər/noṯər
  stem: .n.ṯ.r.|.n.ṯ.rr.
  root: nṯr
@@ -13458,11 +13468,11 @@
 
 -lexeme
  lex: mobəl/mbele
- stem: .w.b.l.|.b.l.|.w.b.|.b.|.w.b.n.|.b.n.|.w.b.ll.|.b.ll.|.w.bb.|.bb.|.w.b.nn.|.b.nn.
+ stem: .w.b.l.|.b.l.|.w.b.n.|.b.n.
  root: ybl
  gramm: V
  stamm: III
- paradigm: V_III_1y
+ paradigm: V_III_1y_3l
 
 -lexeme
  lex: mawdele/mawde
