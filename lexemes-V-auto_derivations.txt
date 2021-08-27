@@ -1,6 +1,6 @@
 -lexeme
  lex: mačər/mačəlle
- stem: .č.r.|.č.
+ stem: .č.r.|.č.l.|.č.n.|.č.rr.
  gramm: V
  root: čyr
  stamm: III
@@ -9,8 +9,8 @@
  trans_en: to tear, rip (III)
 
 -lexeme
- lex: məčər/čir
- stem: .č.r.
+ lex: mičər/čir
+ stem: .č.r.|.č.n.
  gramm: V
  root: čyr
  stamm: Ip
@@ -30,7 +30,7 @@
 
 -lexeme
  lex: mədʕəf/dʕif
- stem: .d.ʕ.f.|.d.ʕ.ff.
+ stem: .d.ʕ.f.
  gramm: V
  root: dʕf
  stamm: Ip
@@ -50,7 +50,7 @@
 
 -lexeme
  lex: mədʕək/dʕik
- stem: .d.ʕ.k.|.d.ʕ.kk.
+ stem: .d.ʕ.k.
  gramm: V
  root: dʕk
  stamm: Ip
@@ -60,7 +60,7 @@
 
 -lexeme
  lex: madʕər/madʕalle
- stem: .d.ʕ.r.|.d.ʕ.
+ stem: .d.ʕ.r.|.d.ʕ.l.|.d.ʕ.n.|.d.ʕ.rr.
  gramm: V
  root: dʕr
  stamm: III
@@ -70,7 +70,7 @@
 
 -lexeme
  lex: mədʕər/dʕir
- stem: .d.ʕ.r.|.d.ʕ.rr.
+ stem: .d.ʕ.r.|.d.ʕ.n.
  gramm: V
  root: dʕr
  stamm: Ip
@@ -90,7 +90,7 @@
 
 -lexeme
  lex: mədʕəṯ/dʕiṯ
- stem: .d.ʕ.ṯ.|.d.ʕ.ṯṯ.
+ stem: .d.ʕ.ṯ.
  gramm: V
  root: dʕṯ
  stamm: Ip
@@ -99,8 +99,8 @@
  trans_en: to sweat (Ip)
 
 -lexeme
- lex: made/madʕele
- stem: .d.ʕ.
+ lex: madʕe/madʕele
+ stem: .d.ʕ.y.|.d.ʕ.
  gramm: V
  root: dʕy
  stamm: III
@@ -110,7 +110,7 @@
 
 -lexeme
  lex: mədʕe/dʕe
- stem: .d.ʕ.
+ stem: .d.ʕ.y.|.d.ʕ.
  gramm: V
  root: dʕy
  stamm: Ip
@@ -130,7 +130,7 @@
 
 -lexeme
  lex: mədfəʕ/dfiʕ
- stem: .d.f.ʕ.|.d.f.ʕʕ.
+ stem: .d.f.ʕ.
  gramm: V
  root: dfʕ
  stamm: Ip
@@ -140,7 +140,7 @@
 
 -lexeme
  lex: madfən/madfalle
- stem: .d.f.n.|.d.f.
+ stem: .d.f.n.|.d.f.l.|.d.f.nn.
  gramm: V
  root: dfn
  stamm: III
@@ -150,7 +150,7 @@
 
 -lexeme
  lex: mədfən/dfin
- stem: .d.f.n.|.d.f.nn.
+ stem: .d.f.n.
  gramm: V
  root: dfn
  stamm: Ip
@@ -160,7 +160,7 @@
 
 -lexeme
  lex: madġər/madġalle
- stem: .d.ġ.r.|.d.ġ.
+ stem: .d.ġ.r.|.d.ġ.l.|.d.ġ.n.|.d.ġ.rr.
  gramm: V
  root: dġr
  stamm: III
@@ -170,7 +170,7 @@
 
 -lexeme
  lex: mədġər/dġir
- stem: .d.ġ.r.|.d.ġ.rr.
+ stem: .d.ġ.r.|.d.ġ.n.
  gramm: V
  root: dġr
  stamm: Ip
@@ -180,7 +180,7 @@
 
 -lexeme
  lex: madḥəl/madḥele
- stem: .d.ḥ.
+ stem: .d.ḥ.l.|.d.ḥ.
  gramm: V
  root: dḥl
  stamm: III
@@ -190,7 +190,7 @@
 
 -lexeme
  lex: mədḥəl/dḥil
- stem: .d.ḥ.l.|.d.ḥ.ll.
+ stem: .d.ḥ.l.|.d.ḥ.n.
  gramm: V
  root: dḥl
  stamm: Ip
@@ -199,8 +199,8 @@
  trans_en: to fear (Ip)
 
 -lexeme
- lex: madhəl/madhalle
- stem: .d.h.l.|.d.h.
+ lex: madhən/madhalle
+ stem: .d.h.n.|.d.h.l.|.d.h.nn.
  gramm: V
  root: dhn
  stamm: III
@@ -209,8 +209,8 @@
  trans_en: to oil; to smooth (III)
 
 -lexeme
- lex: mədhəl/dhil
- stem: .d.h.l.|.d.h.ll.
+ lex: mədhən/dhin
+ stem: .d.h.n.
  gramm: V
  root: dhn
  stamm: Ip
@@ -230,7 +230,7 @@
 
 -lexeme
  lex: mədləf/dlif
- stem: .d.l.f.|.d.l.ff.
+ stem: .d.l.f.
  gramm: V
  root: dlf
  stamm: Ip
@@ -250,7 +250,7 @@
 
 -lexeme
  lex: mədlək/dlik
- stem: .d.l.k.|.d.l.kk.
+ stem: .d.l.k.
  gramm: V
  root: dlk
  stamm: Ip
@@ -270,7 +270,7 @@
 
 -lexeme
  lex: mədləq/dliq
- stem: .d.l.q.|.d.l.qq.
+ stem: .d.l.q.
  gramm: V
  root: dlq
  stamm: Ip
@@ -290,7 +290,7 @@
 
 -lexeme
  lex: mədməʕ/dmiʕ
- stem: .d.m.ʕ.|.d.m.ʕʕ.
+ stem: .d.m.ʕ.
  gramm: V
  root: dmʕ
  stamm: Ip
@@ -310,7 +310,7 @@
 
 -lexeme
  lex: mədməġ/dmiġ
- stem: .d.m.ġ.|.d.m.ġġ.
+ stem: .d.m.ġ.
  gramm: V
  root: dmġ
  stamm: Ip
@@ -330,7 +330,7 @@
 
 -lexeme
  lex: mədməx/dmix
- stem: .d.m.x.|.d.m.xx.
+ stem: .d.m.x.
  gramm: V
  root: dmx
  stamm: Ip
@@ -339,8 +339,8 @@
  trans_en: to sleep; to lie down (Ip)
 
 -lexeme
- lex: made/madmele
- stem: .d.m.
+ lex: madme/madmele
+ stem: .d.m.y.|.d.m.
  gramm: V
  root: dmy
  stamm: III
@@ -350,7 +350,7 @@
 
 -lexeme
  lex: mədme/dme
- stem: .d.m.
+ stem: .d.m.y.|.d.m.
  gramm: V
  root: dmy
  stamm: Ip
@@ -370,7 +370,7 @@
 
 -lexeme
  lex: mədnəg/dnig
- stem: .d.n.g.|.d.n.gg.
+ stem: .d.n.g.
  gramm: V
  root: dng
  stamm: Ip
@@ -380,7 +380,7 @@
 
 -lexeme
  lex: madrən/madralle
- stem: .d.r.n.|.d.r.
+ stem: .d.r.n.|.d.r.l.|.d.r.nn.
  gramm: V
  root: drn
  stamm: III
@@ -390,7 +390,7 @@
 
 -lexeme
  lex: mədrən/drin
- stem: .d.r.n.|.d.r.nn.
+ stem: .d.r.n.
  gramm: V
  root: drn
  stamm: Ip
@@ -410,7 +410,7 @@
 
 -lexeme
  lex: mədrəх/driх
- stem: .d.r.х.|.d.r.хх.
+ stem: .d.r.х.
  gramm: V
  root: drх
  stamm: Ip
@@ -419,8 +419,8 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: made/madrele
- stem: .d.r.
+ lex: madre/madrele
+ stem: .d.r.y.|.d.r.
  gramm: V
  root: dry
  stamm: III
@@ -430,7 +430,7 @@
 
 -lexeme
  lex: mədre/dre
- stem: .d.r.
+ stem: .d.r.y.|.d.r.
  gramm: V
  root: dry
  stamm: Ip
@@ -450,7 +450,7 @@
 
 -lexeme
  lex: mədrəz/driz
- stem: .d.r.z.|.d.r.zz.
+ stem: .d.r.z.
  gramm: V
  root: drz
  stamm: Ip
@@ -470,7 +470,7 @@
 
 -lexeme
  lex: mədrəz/driz
- stem: .d.r.z.|.d.r.zz.
+ stem: .d.r.z.
  gramm: V
  root: drz
  stamm: Ip
@@ -490,13 +490,33 @@
 
 -lexeme
  lex: mədwəġ/dwiġ
- stem: .d.w.ġ.|.d.w.ġġ.
+ stem: .d.w.ġ.
  gramm: V
  root: dwġ
  stamm: Ip
  paradigm: V_Ip_2w
  trans_de: ein Brandmal aufdrücken, kauterisieren (Ip)
  trans_en: to brand; to cauterize (Ip)
+
+-lexeme
+ lex: madwəl/madwalle
+ stem: .d.w.l.|.d.w.ll.
+ gramm: V
+ root: dwlb
+ stamm: III
+ paradigm: V_III
+ trans_de: vorstehen, verwalten, die Arbeit verteilen (III)
+ trans_en: to head, to govern; to distribute the work (III)
+
+-lexeme
+ lex: mədwəl/dwil
+ stem: .d.w.l.
+ gramm: V
+ root: dwlb
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: vorstehen, verwalten, die Arbeit verteilen (Ip)
+ trans_en: to head, to govern; to distribute the work (Ip)
 
 -lexeme
  lex: madwəq/madwaqle
@@ -510,7 +530,7 @@
 
 -lexeme
  lex: mədwəq/dwiq
- stem: .d.w.q.|.d.w.qq.
+ stem: .d.w.q.
  gramm: V
  root: dwq
  stamm: Ip
@@ -519,8 +539,8 @@
  trans_en: to bake pitas; to stick the dough for pitas to the inside wall of the baking oven (Ip)
 
 -lexeme
- lex: madwər/madwarle
- stem: .d.w.r.|.d.w.rr.
+ lex: madwər/madwalle
+ stem: .d.w.r.|.d.w.l.|.d.w.n.|.d.w.rr.
  gramm: V
  root: dwr
  stamm: III
@@ -530,7 +550,7 @@
 
 -lexeme
  lex: mədwər/dwir
- stem: .d.w.r.|.d.w.rr.
+ stem: .d.w.r.|.d.w.n.
  gramm: V
  root: dwr
  stamm: Ip
@@ -550,7 +570,7 @@
 
 -lexeme
  lex: mədwəṣ/dwiṣ
- stem: .d.w.ṣ.|.d.w.ṣṣ.
+ stem: .d.w.ṣ.
  gramm: V
  root: dwṣ
  stamm: Ip
@@ -560,7 +580,7 @@
 
 -lexeme
  lex: madəf/madəfle
- stem: .d.y.|.d.f.
+ stem: .d.f.|.d.ff.
  gramm: V
  root: dyf
  stamm: III
@@ -569,7 +589,7 @@
  trans_en: to coat (III)
 
 -lexeme
- lex: mədəf/dif
+ lex: midəf/dif
  stem: .d.f.
  gramm: V
  root: dyf
@@ -580,7 +600,7 @@
 
 -lexeme
  lex: madəq/madəqle
- stem: .d.y.|.d.q.
+ stem: .d.q.|.d.qq.
  gramm: V
  root: dyq
  stamm: III
@@ -589,7 +609,7 @@
  trans_en: to beat; to knock (on the door); to pound, to grind; to play (a musical instrument); to touch (III)
 
 -lexeme
- lex: mədəq/diq
+ lex: midəq/diq
  stem: .d.q.
  gramm: V
  root: dyq
@@ -600,7 +620,7 @@
 
 -lexeme
  lex: madəš/madəšle
- stem: .d.y.|.d.š.
+ stem: .d.š.|.d.šš.
  gramm: V
  root: dyš
  stamm: III
@@ -609,7 +629,7 @@
  trans_en: to tread; to run over (III)
 
 -lexeme
- lex: mədəš/diš
+ lex: midəš/diš
  stem: .d.š.
  gramm: V
  root: dyš
@@ -620,7 +640,7 @@
 
 -lexeme
  lex: maḏəm/maḏəmle
- stem: .ḏ.y.|.ḏ.m.
+ stem: .ḏ.m.|.ḏ.mm.
  gramm: V
  root: ḏym
  stamm: III
@@ -629,7 +649,7 @@
  trans_en: to criticize (III)
 
 -lexeme
- lex: məḏəm/ḏim
+ lex: miḏəm/ḏim
  stem: .ḏ.m.
  gramm: V
  root: ḏym
@@ -640,7 +660,7 @@
 
 -lexeme
  lex: maḏəq/maḏəqle
- stem: .ḏ.y.|.ḏ.q.
+ stem: .ḏ.q.|.ḏ.qq.
  gramm: V
  root: ḏyq
  stamm: III
@@ -649,7 +669,7 @@
  trans_en: to taste (III)
 
 -lexeme
- lex: məḏəq/ḏiq
+ lex: miḏəq/ḏiq
  stem: .ḏ.q.
  gramm: V
  root: ḏyq
@@ -659,8 +679,68 @@
  trans_en: to taste (Ip)
 
 -lexeme
+ lex: mad̞əʕ/mad̞aʕle
+ stem: .d.̞.ʕ.|.d.̞.ʕʕ.
+ gramm: V
+ root: d̞ʕf
+ stamm: III
+ paradigm: V_III
+ trans_de: schwach werden, abmagern (III)
+ trans_en: to become weak, emaciated (III)
+
+-lexeme
+ lex: məd̞əʕ/d̞iʕ
+ stem: .d.̞.ʕ.
+ gramm: V
+ root: d̞ʕf
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: schwach werden, abmagern (Ip)
+ trans_en: to become weak, emaciated (Ip)
+
+-lexeme
+ lex: mad̞əl/mad̞alle
+ stem: .d.̞.l.|.d.̞.ll.
+ gramm: V
+ root: d̞lm
+ stamm: III
+ paradigm: V_III
+ trans_de: Unrecht tun (III)
+ trans_en: to do wrong (III)
+
+-lexeme
+ lex: məd̞əl/d̞il
+ stem: .d.̞.l.
+ gramm: V
+ root: d̞lm
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: Unrecht tun (Ip)
+ trans_en: to do wrong (Ip)
+
+-lexeme
+ lex: madəy/madəyle
+ stem: .d.y.|.d.yy.
+ gramm: V
+ root: d̞yf
+ stamm: III
+ paradigm: V_III_2y
+ trans_de: zu Gaste sein (III)
+ trans_en: to stay as a guest (III)
+
+-lexeme
+ lex: midəy/diy
+ stem: .d.y.
+ gramm: V
+ root: d̞yf
+ stamm: Ip
+ paradigm: V_Ip_2y
+ trans_de: zu Gaste sein (Ip)
+ trans_en: to stay as a guest (Ip)
+
+-lexeme
  lex: mafʕəl/mafʕele
- stem: .f.ʕ.
+ stem: .f.ʕ.l.|.f.ʕ.
  gramm: V
  root: fʕl
  stamm: III
@@ -670,7 +750,7 @@
 
 -lexeme
  lex: məfʕəl/fʕil
- stem: .f.ʕ.l.|.f.ʕ.ll.
+ stem: .f.ʕ.l.|.f.ʕ.n.
  gramm: V
  root: fʕl
  stamm: Ip
@@ -690,7 +770,7 @@
 
 -lexeme
  lex: məfčəx/fčix
- stem: .f.č.x.|.f.č.xx.
+ stem: .f.č.x.
  gramm: V
  root: fčx
  stamm: Ip
@@ -699,8 +779,8 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: mafe/mafdele
- stem: .f.d.
+ lex: mafde/mafdele
+ stem: .f.d.y.|.f.d.
  gramm: V
  root: fdy
  stamm: III
@@ -710,13 +790,33 @@
 
 -lexeme
  lex: məfde/fde
- stem: .f.d.
+ stem: .f.d.y.|.f.d.
  gramm: V
  root: fdy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: opfern (Ip)
  trans_en: to sacrifice (Ip)
+
+-lexeme
+ lex: mafdə̞/mafdele
+ stem: .f.d.̞.|.f.d.
+ gramm: V
+ root: fd̞l
+ stamm: III
+ paradigm: V_III_3l
+ trans_de: reichlich vorhanden (III)
+ trans_en: to abound; to be left over (III)
+
+-lexeme
+ lex: məfdə̞/fdi̞
+ stem: .f.d.̞.|.f.d.n.
+ gramm: V
+ root: fd̞l
+ stamm: Ip
+ paradigm: V_Ip_3l
+ trans_de: reichlich vorhanden (Ip)
+ trans_en: to abound; to be left over (Ip)
 
 -lexeme
  lex: mafhəm/mafhamle
@@ -730,7 +830,7 @@
 
 -lexeme
  lex: məfhəm/fhim
- stem: .f.h.m.|.f.h.mm.
+ stem: .f.h.m.
  gramm: V
  root: fhm
  stamm: Ip
@@ -750,7 +850,7 @@
 
 -lexeme
  lex: məfḥəṣ/fḥiṣ
- stem: .f.ḥ.ṣ.|.f.ḥ.ṣṣ.
+ stem: .f.ḥ.ṣ.
  gramm: V
  root: fḥṣ
  stamm: Ip
@@ -770,7 +870,7 @@
 
 -lexeme
  lex: məfləġ/fliġ
- stem: .f.l.ġ.|.f.l.ġġ.
+ stem: .f.l.ġ.
  gramm: V
  root: flġ
  stamm: Ip
@@ -790,7 +890,7 @@
 
 -lexeme
  lex: məfləḥ/fliḥ
- stem: .f.l.ḥ.|.f.l.ḥḥ.
+ stem: .f.l.ḥ.
  gramm: V
  root: flḥ
  stamm: Ip
@@ -810,7 +910,7 @@
 
 -lexeme
  lex: məflət/flit
- stem: .f.l.t.|.f.l.tt.
+ stem: .f.l.t.
  gramm: V
  root: flt
  stamm: Ip
@@ -819,8 +919,8 @@
  trans_en: to escape, to get away; be at large; to pursue smb. (ʕal, b-, l-, bəṯr-, bayn-) (Ip)
 
 -lexeme
- lex: mafe/mafnele
- stem: .f.n.
+ lex: mafne/mafnele
+ stem: .f.n.y.|.f.n.
  gramm: V
  root: fny
  stamm: III
@@ -830,7 +930,7 @@
 
 -lexeme
  lex: məfne/fne
- stem: .f.n.
+ stem: .f.n.y.|.f.n.
  gramm: V
  root: fny
  stamm: Ip
@@ -850,7 +950,7 @@
 
 -lexeme
  lex: məfqəḥ/fqiḥ
- stem: .f.q.ḥ.|.f.q.ḥḥ.
+ stem: .f.q.ḥ.
  gramm: V
  root: fqḥ
  stamm: Ip
@@ -870,7 +970,7 @@
 
 -lexeme
  lex: məfrəʕ/friʕ
- stem: .f.r.ʕ.|.f.r.ʕʕ.
+ stem: .f.r.ʕ.
  gramm: V
  root: frʕ
  stamm: Ip
@@ -890,13 +990,33 @@
 
 -lexeme
  lex: məfrəd/frid
- stem: .f.r.d.|.f.r.dd.
+ stem: .f.r.d.
  gramm: V
  root: frd
  stamm: Ip
  paradigm: V_Ip
  trans_de: [?] (Ip)
  trans_en: to crumble (intr.) (Ip)
+
+-lexeme
+ lex: mafrəd/mafradle
+ stem: .f.r.d.|.f.r.dd.
+ gramm: V
+ root: frd̞
+ stamm: III
+ paradigm: V_III
+ trans_de: von Rechtswegen gehören (III)
+ trans_en: to belong legally, rightfully (III)
+
+-lexeme
+ lex: məfrəd/frid
+ stem: .f.r.d.
+ gramm: V
+ root: frd̞
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: von Rechtswegen gehören (Ip)
+ trans_en: to belong legally, rightfully (Ip)
 
 -lexeme
  lex: mafrəq/mafraqle
@@ -910,7 +1030,7 @@
 
 -lexeme
  lex: məfrəq/friq
- stem: .f.r.q.|.f.r.qq.
+ stem: .f.r.q.
  gramm: V
  root: frq
  stamm: Ip
@@ -930,7 +1050,7 @@
 
 -lexeme
  lex: məfrəs/fris
- stem: .f.r.s.|.f.r.ss.
+ stem: .f.r.s.
  gramm: V
  root: frs
  stamm: Ip
@@ -950,7 +1070,7 @@
 
 -lexeme
  lex: məfrəš/friš
- stem: .f.r.š.|.f.r.šš.
+ stem: .f.r.š.
  gramm: V
  root: frš
  stamm: Ip
@@ -970,7 +1090,7 @@
 
 -lexeme
  lex: məfrəṭ/friṭ
- stem: .f.r.ṭ.|.f.r.ṭṭ.
+ stem: .f.r.ṭ.
  gramm: V
  root: frṭ
  stamm: Ip
@@ -990,7 +1110,7 @@
 
 -lexeme
  lex: məfrəx/frix
- stem: .f.r.x.|.f.r.xx.
+ stem: .f.r.x.
  gramm: V
  root: frx
  stamm: Ip
@@ -1010,7 +1130,7 @@
 
 -lexeme
  lex: məfsəd/fsid
- stem: .f.s.d.|.f.s.dd.
+ stem: .f.s.d.
  gramm: V
  root: fsd
  stamm: Ip
@@ -1030,7 +1150,7 @@
 
 -lexeme
  lex: məfsəx/fsix
- stem: .f.s.x.|.f.s.xx.
+ stem: .f.s.x.
  gramm: V
  root: fsx
  stamm: Ip
@@ -1040,7 +1160,7 @@
 
 -lexeme
  lex: mafṣər/mafṣalle
- stem: .f.ṣ.r.|.f.ṣ.
+ stem: .f.ṣ.r.|.f.ṣ.l.|.f.ṣ.n.|.f.ṣ.rr.
  gramm: V
  root: fṣr
  stamm: III
@@ -1050,7 +1170,7 @@
 
 -lexeme
  lex: məfṣər/fṣir
- stem: .f.ṣ.r.|.f.ṣ.rr.
+ stem: .f.ṣ.r.|.f.ṣ.n.
  gramm: V
  root: fṣr
  stamm: Ip
@@ -1070,7 +1190,7 @@
 
 -lexeme
  lex: məfšəq/fšiq
- stem: .f.š.q.|.f.š.qq.
+ stem: .f.š.q.
  gramm: V
  root: fšq
  stamm: Ip
@@ -1080,7 +1200,7 @@
 
 -lexeme
  lex: mafšər/mafšalle
- stem: .f.š.r.|.f.š.
+ stem: .f.š.r.|.f.š.l.|.f.š.n.|.f.š.rr.
  gramm: V
  root: fšr
  stamm: III
@@ -1090,7 +1210,7 @@
 
 -lexeme
  lex: məfšər/fšir
- stem: .f.š.r.|.f.š.rr.
+ stem: .f.š.r.|.f.š.n.
  gramm: V
  root: fšr
  stamm: Ip
@@ -1110,7 +1230,7 @@
 
 -lexeme
  lex: məftəḥ/ftiḥ
- stem: .f.t.ḥ.|.f.t.ḥḥ.
+ stem: .f.t.ḥ.
  gramm: V
  root: ftḥ
  stamm: Ip
@@ -1120,7 +1240,7 @@
 
 -lexeme
  lex: maftəl/maftele
- stem: .f.t.
+ stem: .f.t.l.|.f.t.
  gramm: V
  root: ftl
  stamm: III
@@ -1130,7 +1250,7 @@
 
 -lexeme
  lex: məftəl/ftil
- stem: .f.t.l.|.f.t.ll.
+ stem: .f.t.l.|.f.t.n.
  gramm: V
  root: ftl
  stamm: Ip
@@ -1140,7 +1260,7 @@
 
 -lexeme
  lex: maftər/maftalle
- stem: .f.t.r.|.f.t.
+ stem: .f.t.r.|.f.t.l.|.f.t.n.|.f.t.rr.
  gramm: V
  root: ftr
  stamm: III
@@ -1150,7 +1270,7 @@
 
 -lexeme
  lex: məftər/ftir
- stem: .f.t.r.|.f.t.rr.
+ stem: .f.t.r.|.f.t.n.
  gramm: V
  root: ftr
  stamm: Ip
@@ -1170,7 +1290,7 @@
 
 -lexeme
  lex: məfṭəṣ/fṭiṣ
- stem: .f.ṭ.ṣ.|.f.ṭ.ṣṣ.
+ stem: .f.ṭ.ṣ.
  gramm: V
  root: fṭṣ
  stamm: Ip
@@ -1179,8 +1299,8 @@
  trans_en: to suffocate, to choke (Ip)
 
 -lexeme
- lex: mafe/mafṯele
- stem: .f.ṯ.
+ lex: mafṯe/mafṯele
+ stem: .f.ṯ.y.|.f.ṯ.
  gramm: V
  root: fṯy
  stamm: III
@@ -1190,7 +1310,7 @@
 
 -lexeme
  lex: məfṯe/fṯe
- stem: .f.ṯ.
+ stem: .f.ṯ.y.|.f.ṯ.
  gramm: V
  root: fṯy
  stamm: Ip
@@ -1199,8 +1319,28 @@
  trans_en: to become wide (Ip)
 
 -lexeme
+ lex: mafəḏ/mafəḏle
+ stem: .f.ḏ.|.f.ḏḏ.
+ gramm: V
+ root: fyḏ̣/pyḏ̣
+ stamm: III
+ paradigm: V_III_2y
+ trans_de: strömen (Licht) (III)
+ trans_en: to stream (light) (intr.) (III)
+
+-lexeme
+ lex: mifəḏ/fiḏ
+ stem: .f.ḏ.
+ gramm: V
+ root: fyḏ̣/pyḏ̣
+ stamm: Ip
+ paradigm: V_Ip_2y
+ trans_de: strömen (Licht) (Ip)
+ trans_en: to stream (light) (intr.) (Ip)
+
+-lexeme
  lex: mafəḥ/mafəḥle
- stem: .f.y.|.f.ḥ.
+ stem: .f.ḥ.|.f.ḥḥ.
  gramm: V
  root: fyḥ
  stamm: III
@@ -1209,7 +1349,7 @@
  trans_en: to become cool, fresh (III)
 
 -lexeme
- lex: məfəḥ/fiḥ
+ lex: mifəḥ/fiḥ
  stem: .f.ḥ.
  gramm: V
  root: fyḥ
@@ -1220,7 +1360,7 @@
 
 -lexeme
  lex: mafək/mafəkle
- stem: .f.y.|.f.k.
+ stem: .f.k.|.f.kk.
  gramm: V
  root: fyk
  stamm: III
@@ -1229,7 +1369,7 @@
  trans_en: to release, to untie (III)
 
 -lexeme
- lex: məfək/fik
+ lex: mifək/fik
  stem: .f.k.
  gramm: V
  root: fyk
@@ -1240,7 +1380,7 @@
 
 -lexeme
  lex: mafər/mafərle
- stem: .f.y.|.f.r.
+ stem: .f.r.|.f.rr.
  gramm: V
  root: fyr
  stamm: III
@@ -1249,7 +1389,7 @@
  trans_en: to fly (III)
 
 -lexeme
- lex: məfər/fir
+ lex: mifər/fir
  stem: .f.r.
  gramm: V
  root: fyr
@@ -1260,7 +1400,7 @@
 
 -lexeme
  lex: mafər/mafərle
- stem: .f.y.|.f.r.
+ stem: .f.r.|.f.rr.
  gramm: V
  root: fyr
  stamm: III
@@ -1269,7 +1409,7 @@
  trans_en: to evaporate (intr.); to race (III)
 
 -lexeme
- lex: məfər/fir
+ lex: mifər/fir
  stem: .f.r.
  gramm: V
  root: fyr
@@ -1280,7 +1420,7 @@
 
 -lexeme
  lex: mafəš/mafəšle
- stem: .f.y.|.f.š.
+ stem: .f.š.|.f.šš.
  gramm: V
  root: fyš
  stamm: III
@@ -1289,7 +1429,7 @@
  trans_en: to stay, to remain; to be left over; to remain alive; in neg. sentences means not anymore (III)
 
 -lexeme
- lex: məfəš/fiš
+ lex: mifəš/fiš
  stem: .f.š.
  gramm: V
  root: fyš
@@ -1300,7 +1440,7 @@
 
 -lexeme
  lex: mafət/mafətle
- stem: .f.y.|.f.t.
+ stem: .f.t.|.f.tt.
  gramm: V
  root: fyt
  stamm: III
@@ -1309,7 +1449,7 @@
  trans_en: to go by, to pass; to skip; to occur; to refuse smth. (m-) (III)
 
 -lexeme
- lex: məfət/fit
+ lex: mifət/fit
  stem: .f.t.
  gramm: V
  root: fyt
@@ -1320,7 +1460,7 @@
 
 -lexeme
  lex: mafəx/mafəxle
- stem: .f.y.|.f.x.
+ stem: .f.x.|.f.xx.
  gramm: V
  root: fyx
  stamm: III
@@ -1329,7 +1469,7 @@
  trans_en: to crumble (intr.) (III)
 
 -lexeme
- lex: məfəx/fix
+ lex: mifəx/fix
  stem: .f.x.
  gramm: V
  root: fyx
@@ -1339,8 +1479,8 @@
  trans_en: to crumble (intr.) (Ip)
 
 -lexeme
- lex: mage/magʕele
- stem: .g.ʕ.
+ lex: magʕe/magʕele
+ stem: .g.ʕ.y.|.g.ʕ.
  gramm: V
  root: gʕy
  stamm: III
@@ -1350,7 +1490,7 @@
 
 -lexeme
  lex: məgʕe/gʕe
- stem: .g.ʕ.
+ stem: .g.ʕ.y.|.g.ʕ.
  gramm: V
  root: gʕy
  stamm: Ip
@@ -1360,7 +1500,7 @@
 
 -lexeme
  lex: magḏəl/magḏele
- stem: .g.ḏ.
+ stem: .g.ḏ.l.|.g.ḏ.
  gramm: V
  root: gḏl
  stamm: III
@@ -1370,7 +1510,7 @@
 
 -lexeme
  lex: məgḏəl/gḏil
- stem: .g.ḏ.l.|.g.ḏ.ll.
+ stem: .g.ḏ.l.|.g.ḏ.n.
  gramm: V
  root: gḏl
  stamm: Ip
@@ -1380,7 +1520,7 @@
 
 -lexeme
  lex: maghər/maghalle
- stem: .g.h.r.|.g.h.
+ stem: .g.h.r.|.g.h.l.|.g.h.n.|.g.h.rr.
  gramm: V
  root: ghr
  stamm: III
@@ -1390,7 +1530,7 @@
 
 -lexeme
  lex: məghər/ghir
- stem: .g.h.r.|.g.h.rr.
+ stem: .g.h.r.|.g.h.n.
  gramm: V
  root: ghr
  stamm: Ip
@@ -1410,7 +1550,7 @@
 
 -lexeme
  lex: məgḥək/gḥik
- stem: .g.ḥ.k.|.g.ḥ.kk.
+ stem: .g.ḥ.k.
  gramm: V
  root: gḥk/gḥx
  stamm: Ip
@@ -1430,7 +1570,7 @@
 
 -lexeme
  lex: məgləḏ/gliḏ
- stem: .g.l.ḏ.|.g.l.ḏḏ.
+ stem: .g.l.ḏ.
  gramm: V
  root: glḏ
  stamm: Ip
@@ -1450,7 +1590,7 @@
 
 -lexeme
  lex: məgləǧ/gliǧ
- stem: .g.l.ǧ.|.g.l.ǧǧ.
+ stem: .g.l.ǧ.
  gramm: V
  root: glǧ
  stamm: Ip
@@ -1470,7 +1610,7 @@
 
 -lexeme
  lex: məgləṭ/gliṭ
- stem: .g.l.ṭ.|.g.l.ṭṭ.
+ stem: .g.l.ṭ.
  gramm: V
  root: glṭ
  stamm: Ip
@@ -1479,8 +1619,8 @@
  trans_en: to remove from paper (Ip)
 
 -lexeme
- lex: mage/maglele
- stem: .g.l.
+ lex: magle/maglele
+ stem: .g.l.y.|.g.l.
  gramm: V
  root: gly
  stamm: III
@@ -1490,7 +1630,7 @@
 
 -lexeme
  lex: məgle/gle
- stem: .g.l.
+ stem: .g.l.y.|.g.l.
  gramm: V
  root: gly
  stamm: Ip
@@ -1510,7 +1650,7 @@
 
 -lexeme
  lex: məgnəṣ/gniṣ
- stem: .g.n.ṣ.|.g.n.ṣṣ.
+ stem: .g.n.ṣ.
  gramm: V
  root: gnṣ
  stamm: Ip
@@ -1519,8 +1659,8 @@
  trans_en: to snarl (Ip)
 
 -lexeme
- lex: magnu/magnawle
- stem: .g.n.|.g.n.w.
+ lex: magnu/magnule
+ stem: .g.n.w.|.g.n.|.g.n.ww.
  gramm: V
  root: gnw
  stamm: III
@@ -1530,7 +1670,7 @@
 
 -lexeme
  lex: məgnu/gniw
- stem: .g.n.|.g.n.w.
+ stem: .g.n.w.|.g.n.
  gramm: V
  root: gnw
  stamm: Ip
@@ -1539,8 +1679,8 @@
  trans_en: to steal (Ip)
 
 -lexeme
- lex: mage/magnele
- stem: .g.n.
+ lex: magne/magnele
+ stem: .g.n.y.|.g.n.
  gramm: V
  root: gny
  stamm: III
@@ -1550,7 +1690,7 @@
 
 -lexeme
  lex: məgne/gne
- stem: .g.n.
+ stem: .g.n.y.|.g.n.
  gramm: V
  root: gny
  stamm: Ip
@@ -1570,7 +1710,7 @@
 
 -lexeme
  lex: məgrəḏ/griḏ
- stem: .g.r.ḏ.|.g.r.ḏḏ.
+ stem: .g.r.ḏ.
  gramm: V
  root: grḏ
  stamm: Ip
@@ -1590,13 +1730,33 @@
 
 -lexeme
  lex: məgrəf/grif
- stem: .g.r.f.|.g.r.ff.
+ stem: .g.r.f.
  gramm: V
  root: grf
  stamm: Ip
  paradigm: V_Ip
  trans_de: (weg)schieben (Ip)
  trans_en: to shove away (Ip)
+
+-lexeme
+ lex: magrəg/magragle
+ stem: .g.r.g.|.g.r.gg.
+ gramm: V
+ root: grgš
+ stamm: III
+ paradigm: V_III
+ trans_de: schleppen, hinter sich herziehen (III)
+ trans_en:  (III)
+
+-lexeme
+ lex: məgrəg/grig
+ stem: .g.r.g.
+ gramm: V
+ root: grgš
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: schleppen, hinter sich herziehen (Ip)
+ trans_en:  (Ip)
 
 -lexeme
  lex: magrəs/magrasle
@@ -1610,7 +1770,7 @@
 
 -lexeme
  lex: məgrəs/gris
- stem: .g.r.s.|.g.r.ss.
+ stem: .g.r.s.
  gramm: V
  root: grs
  stamm: Ip
@@ -1630,7 +1790,7 @@
 
 -lexeme
  lex: məgrəš/griš
- stem: .g.r.š.|.g.r.šš.
+ stem: .g.r.š.
  gramm: V
  root: grš
  stamm: Ip
@@ -1639,8 +1799,8 @@
  trans_en: to pull; to pull out; to cover (a table); to put on (clothes); to retreat; to take (pictures); to shoot (a video) (Ip)
 
 -lexeme
- lex: magwəl/magwalle
- stem: .g.w.l.|.g.w.ll.
+ lex: magwəl/magwele
+ stem: .g.w.l.|.g.w.
  gramm: V
  root: gwl
  stamm: III
@@ -1650,7 +1810,7 @@
 
 -lexeme
  lex: məgwəl/gwil
- stem: .g.w.l.|.g.w.ll.
+ stem: .g.w.l.|.g.w.n.
  gramm: V
  root: gwl
  stamm: Ip
@@ -1670,7 +1830,7 @@
 
 -lexeme
  lex: məgwər/gwir
- stem: .g.w.r.|.g.w.rr.
+ stem: .g.w.r.
  gramm: V
  root: gwr
  stamm: Ip
@@ -1679,8 +1839,8 @@
  trans_en: to marry (Ip)
 
 -lexeme
- lex: magwəy/magwayle
- stem: .g.w.y.|.g.w.yy.
+ lex: magwe/magwele
+ stem: .g.w.y.|.g.w.|.g.y.
  gramm: V
  root: gwy
  stamm: III
@@ -1689,8 +1849,8 @@
  trans_en: to beg (III)
 
 -lexeme
- lex: məgwəy/gwiy
- stem: .g.w.y.|.g.w.yy.
+ lex: məgwe/gwe
+ stem: .g.w.y.|.g.w.
  gramm: V
  root: gwy
  stamm: Ip
@@ -1700,7 +1860,7 @@
 
 -lexeme
  lex: magəž/magəžle
- stem: .g.y.|.g.ž.
+ stem: .g.ž.|.g.žž.
  gramm: V
  root: gyž
  stamm: III
@@ -1709,7 +1869,7 @@
  trans_en: to become dazed, to become stunned (III)
 
 -lexeme
- lex: məgəž/giž
+ lex: migəž/giž
  stem: .g.ž.
  gramm: V
  root: gyž
@@ -1720,7 +1880,7 @@
 
 -lexeme
  lex: magəṣ/magəṣle
- stem: .g.y.|.g.ṣ.
+ stem: .g.ṣ.|.g.ṣṣ.
  gramm: V
  root: gyṣ
  stamm: III
@@ -1729,7 +1889,7 @@
  trans_en: [?] (III)
 
 -lexeme
- lex: məgəṣ/giṣ
+ lex: migəṣ/giṣ
  stem: .g.ṣ.
  gramm: V
  root: gyṣ
@@ -1740,7 +1900,7 @@
 
 -lexeme
  lex: magəš/magəšle
- stem: .g.y.|.g.š.
+ stem: .g.š.|.g.šš.
  gramm: V
  root: gyš
  stamm: III
@@ -1749,7 +1909,7 @@
  trans_en: to touch smb. or smth. (b-); to spy (III)
 
 -lexeme
- lex: məgəš/giš
+ lex: migəš/giš
  stem: .g.š.
  gramm: V
  root: gyš
@@ -1760,7 +1920,7 @@
 
 -lexeme
  lex: maġdər/maġdalle
- stem: .ġ.d.r.|.ġ.d.
+ stem: .ġ.d.r.|.ġ.d.l.|.ġ.d.n.|.ġ.d.rr.
  gramm: V
  root: ġdr
  stamm: III
@@ -1770,7 +1930,7 @@
 
 -lexeme
  lex: məġdər/ġdir
- stem: .ġ.d.r.|.ġ.d.rr.
+ stem: .ġ.d.r.|.ġ.d.n.
  gramm: V
  root: ġdr
  stamm: Ip
@@ -1779,8 +1939,28 @@
  trans_en: to ambush (Ip)
 
 -lexeme
+ lex: maġdə̞/maġda̞le
+ stem: .ġ.d.̞.|.ġ.d.̞̞.
+ gramm: V
+ root: ġd̞b
+ stamm: III
+ paradigm: V_III
+ trans_de: zornig werden (III)
+ trans_en: to become angry (III)
+
+-lexeme
+ lex: məġdə̞/ġdi̞
+ stem: .ġ.d.̞.
+ gramm: V
+ root: ġd̞b
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: zornig werden (Ip)
+ trans_en: to become angry (Ip)
+
+-lexeme
  lex: maġfər/maġfalle
- stem: .ġ.f.r.|.ġ.f.
+ stem: .ġ.f.r.|.ġ.f.l.|.ġ.f.n.|.ġ.f.rr.
  gramm: V
  root: ġfr
  stamm: III
@@ -1790,7 +1970,7 @@
 
 -lexeme
  lex: məġfər/ġfir
- stem: .ġ.f.r.|.ġ.f.rr.
+ stem: .ġ.f.r.|.ġ.f.n.
  gramm: V
  root: ġfr
  stamm: Ip
@@ -1810,7 +1990,7 @@
 
 -lexeme
  lex: məġləb/ġlib
- stem: .ġ.l.b.|.ġ.l.bb.
+ stem: .ġ.l.b.
  gramm: V
  root: ġlb
  stamm: Ip
@@ -1830,7 +2010,7 @@
 
 -lexeme
  lex: məġləṭ/ġliṭ
- stem: .ġ.l.ṭ.|.ġ.l.ṭṭ.
+ stem: .ġ.l.ṭ.
  gramm: V
  root: ġlṭ
  stamm: Ip
@@ -1850,7 +2030,7 @@
 
 -lexeme
  lex: məġməṭ/ġmiṭ
- stem: .ġ.m.ṭ.|.ġ.m.ṭṭ.
+ stem: .ġ.m.ṭ.
  gramm: V
  root: ġmṭ
  stamm: Ip
@@ -1870,7 +2050,7 @@
 
 -lexeme
  lex: məġməz/ġmiz
- stem: .ġ.m.z.|.ġ.m.zz.
+ stem: .ġ.m.z.
  gramm: V
  root: ġmz
  stamm: Ip
@@ -1890,7 +2070,7 @@
 
 -lexeme
  lex: məġrəf/ġrif
- stem: .ġ.r.f.|.ġ.r.ff.
+ stem: .ġ.r.f.
  gramm: V
  root: ġrf
  stamm: Ip
@@ -1910,7 +2090,7 @@
 
 -lexeme
  lex: məġrəq/ġriq
- stem: .ġ.r.q.|.ġ.r.qq.
+ stem: .ġ.r.q.
  gramm: V
  root: ġrq
  stamm: Ip
@@ -1920,7 +2100,7 @@
 
 -lexeme
  lex: maġər/maġərle
- stem: .ġ.y.|.ġ.r.
+ stem: .ġ.r.|.ġ.rr.
  gramm: V
  root: ġyr
  stamm: III
@@ -1929,7 +2109,7 @@
  trans_en: to sink (intr.) (III)
 
 -lexeme
- lex: məġər/ġir
+ lex: miġər/ġir
  stem: .ġ.r.
  gramm: V
  root: ġyr
@@ -1940,7 +2120,7 @@
 
 -lexeme
  lex: maġəṭ/maġəṭle
- stem: .ġ.y.|.ġ.ṭ.
+ stem: .ġ.ṭ.|.ġ.ṭṭ.
  gramm: V
  root: ġyṭ
  stamm: III
@@ -1949,7 +2129,7 @@
  trans_en: to dip; to put into (III)
 
 -lexeme
- lex: məġəṭ/ġiṭ
+ lex: miġəṭ/ġiṭ
  stem: .ġ.ṭ.
  gramm: V
  root: ġyṭ
@@ -1960,7 +2140,7 @@
 
 -lexeme
  lex: maġəṭ/maġəṭle
- stem: .ġ.y.|.ġ.ṭ.
+ stem: .ġ.ṭ.|.ġ.ṭṭ.
  gramm: V
  root: ġyṭ
  stamm: III
@@ -1969,7 +2149,7 @@
  trans_en: to sink (intr.) (III)
 
 -lexeme
- lex: məġəṭ/ġiṭ
+ lex: miġəṭ/ġiṭ
  stem: .ġ.ṭ.
  gramm: V
  root: ġyṭ
@@ -1990,7 +2170,7 @@
 
 -lexeme
  lex: məǧʕək/ǧʕik
- stem: .ǧ.ʕ.k.|.ǧ.ʕ.kk.
+ stem: .ǧ.ʕ.k.
  gramm: V
  root: ǧʕk
  stamm: Ip
@@ -2000,7 +2180,7 @@
 
 -lexeme
  lex: maǧbər/maǧballe
- stem: .ǧ.b.r.|.ǧ.b.
+ stem: .ǧ.b.r.|.ǧ.b.l.|.ǧ.b.n.|.ǧ.b.rr.
  gramm: V
  root: ǧbr
  stamm: III
@@ -2010,7 +2190,7 @@
 
 -lexeme
  lex: məǧbər/ǧbir
- stem: .ǧ.b.r.|.ǧ.b.rr.
+ stem: .ǧ.b.r.|.ǧ.b.n.
  gramm: V
  root: ǧbr
  stamm: Ip
@@ -2020,7 +2200,7 @@
 
 -lexeme
  lex: maǧfəl/maǧfele
- stem: .ǧ.f.
+ stem: .ǧ.f.l.|.ǧ.f.
  gramm: V
  root: ǧfl
  stamm: III
@@ -2030,7 +2210,7 @@
 
 -lexeme
  lex: məǧfəl/ǧfil
- stem: .ǧ.f.l.|.ǧ.f.ll.
+ stem: .ǧ.f.l.|.ǧ.f.n.
  gramm: V
  root: ǧfl
  stamm: Ip
@@ -2050,7 +2230,7 @@
 
 -lexeme
  lex: məǧġər/ǧġir
- stem: .ǧ.ġ.r.|.ǧ.ġ.rr.
+ stem: .ǧ.ġ.r.
  gramm: V
  root: ǧġr
  stamm: Ip
@@ -2070,7 +2250,7 @@
 
 -lexeme
  lex: məǧləd/ǧlid
- stem: .ǧ.l.d.|.ǧ.l.dd.
+ stem: .ǧ.l.d.
  gramm: V
  root: ǧld
  stamm: Ip
@@ -2090,7 +2270,7 @@
 
 -lexeme
  lex: məǧləṭ/ǧliṭ
- stem: .ǧ.l.ṭ.|.ǧ.l.ṭṭ.
+ stem: .ǧ.l.ṭ.
  gramm: V
  root: ǧlṭ
  stamm: Ip
@@ -2099,8 +2279,8 @@
  trans_en: to remove, to tear off (Ip)
 
 -lexeme
- lex: maǧe/maǧlele
- stem: .ǧ.l.
+ lex: maǧle/maǧlele
+ stem: .ǧ.l.y.|.ǧ.l.
  gramm: V
  root: ǧly
  stamm: III
@@ -2110,7 +2290,7 @@
 
 -lexeme
  lex: məǧle/ǧle
- stem: .ǧ.l.
+ stem: .ǧ.l.y.|.ǧ.l.
  gramm: V
  root: ǧly
  stamm: Ip
@@ -2130,7 +2310,7 @@
 
 -lexeme
  lex: məǧməʕ/ǧmiʕ
- stem: .ǧ.m.ʕ.|.ǧ.m.ʕʕ.
+ stem: .ǧ.m.ʕ.
  gramm: V
  root: ǧmʕ
  stamm: Ip
@@ -2150,7 +2330,7 @@
 
 -lexeme
  lex: məǧməd/ǧmid
- stem: .ǧ.m.d.|.ǧ.m.dd.
+ stem: .ǧ.m.d.
  gramm: V
  root: ǧmd
  stamm: Ip
@@ -2170,7 +2350,7 @@
 
 -lexeme
  lex: məǧrəf/ǧrif
- stem: .ǧ.r.f.|.ǧ.r.ff.
+ stem: .ǧ.r.f.
  gramm: V
  root: ǧrf
  stamm: Ip
@@ -2190,7 +2370,7 @@
 
 -lexeme
  lex: məǧrəḥ/ǧriḥ
- stem: .ǧ.r.ḥ.|.ǧ.r.ḥḥ.
+ stem: .ǧ.r.ḥ.
  gramm: V
  root: ǧrḥ
  stamm: Ip
@@ -2199,8 +2379,8 @@
  trans_en: to injure (Ip)
 
 -lexeme
- lex: maǧe/maǧrele
- stem: .ǧ.r.
+ lex: maǧre/maǧrele
+ stem: .ǧ.r.y.|.ǧ.r.
  gramm: V
  root: ǧry
  stamm: III
@@ -2210,7 +2390,7 @@
 
 -lexeme
  lex: məǧre/ǧre
- stem: .ǧ.r.
+ stem: .ǧ.r.y.|.ǧ.r.
  gramm: V
  root: ǧry
  stamm: Ip
@@ -2220,7 +2400,7 @@
 
 -lexeme
  lex: maǧəz/maǧəzle
- stem: .ǧ.y.|.ǧ.z.
+ stem: .ǧ.z.|.ǧ.zz.
  gramm: V
  root: ǧyz
  stamm: III
@@ -2229,7 +2409,7 @@
  trans_en: to be allowed; to be suitable (III)
 
 -lexeme
- lex: məǧəz/ǧiz
+ lex: miǧəz/ǧiz
  stem: .ǧ.z.
  gramm: V
  root: ǧyz
@@ -2250,7 +2430,7 @@
 
 -lexeme
  lex: məhdəf/hdif
- stem: .h.d.f.|.h.d.ff.
+ stem: .h.d.f.
  gramm: V
  root: hdf
  stamm: Ip
@@ -2270,7 +2450,7 @@
 
 -lexeme
  lex: məhdəm/hdim
- stem: .h.d.m.|.h.d.mm.
+ stem: .h.d.m.
  gramm: V
  root: hdm
  stamm: Ip
@@ -2280,7 +2460,7 @@
 
 -lexeme
  lex: mahǧər/mahǧalle
- stem: .h.ǧ.r.|.h.ǧ.
+ stem: .h.ǧ.r.|.h.ǧ.l.|.h.ǧ.n.|.h.ǧ.rr.
  gramm: V
  root: hǧr
  stamm: III
@@ -2290,7 +2470,7 @@
 
 -lexeme
  lex: məhǧər/hǧir
- stem: .h.ǧ.r.|.h.ǧ.rr.
+ stem: .h.ǧ.r.|.h.ǧ.n.
  gramm: V
  root: hǧr
  stamm: Ip
@@ -2310,7 +2490,7 @@
 
 -lexeme
  lex: məhǧəm/hǧim
- stem: .h.ǧ.m.|.h.ǧ.mm.
+ stem: .h.ǧ.m.
  gramm: V
  root: hǧm
  stamm: Ip
@@ -2330,7 +2510,7 @@
 
 -lexeme
  lex: məhlək/hlik
- stem: .h.l.k.|.h.l.kk.
+ stem: .h.l.k.
  gramm: V
  root: hlk
  stamm: Ip
@@ -2339,8 +2519,8 @@
  trans_en: to perish; to disappear; to die (Ip)
 
 -lexeme
- lex: mahe/mahnele
- stem: .h.n.
+ lex: mahne/mahnele
+ stem: .h.n.y.|.h.n.
  gramm: V
  root: hny
  stamm: III
@@ -2350,7 +2530,7 @@
 
 -lexeme
  lex: məhne/hne
- stem: .h.n.
+ stem: .h.n.y.|.h.n.
  gramm: V
  root: hny
  stamm: Ip
@@ -2370,7 +2550,7 @@
 
 -lexeme
  lex: məhrəg/hrig
- stem: .h.r.g.|.h.r.gg.
+ stem: .h.r.g.
  gramm: V
  root: hrg
  stamm: Ip
@@ -2379,8 +2559,28 @@
  trans_en: to study; to occupy oneself with (b-) smth. (Ip)
 
 -lexeme
- lex: mahwəy/mahwayle
- stem: .h.w.y.|.h.w.yy.
+ lex: mahšək/mahšakle
+ stem: .h.š.k.|.h.š.kk.
+ gramm: V
+ root: hškr
+ stamm: III
+ paradigm: V_III
+ trans_de: danken (III)
+ trans_en:  (III)
+
+-lexeme
+ lex: məhšək/hšik
+ stem: .h.š.k.
+ gramm: V
+ root: hškr
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: danken (Ip)
+ trans_en:  (Ip)
+
+-lexeme
+ lex: mahwe/mahwele
+ stem: .h.w.y.|.h.w.|.h.y.
  gramm: V
  root: hwy
  stamm: III
@@ -2389,8 +2589,8 @@
  trans_en: to become; to appear, to come into being; to be born; to occur, to happen (III)
 
 -lexeme
- lex: məhwəy/hwiy
- stem: .h.w.y.|.h.w.yy.
+ lex: məhwe/hwe
+ stem: .h.w.y.|.h.w.
  gramm: V
  root: hwy
  stamm: Ip
@@ -2400,7 +2600,7 @@
 
 -lexeme
  lex: mahəd/mahədle
- stem: .h.y.|.h.d.
+ stem: .h.d.|.h.dd.
  gramm: V
  root: hyd
  stamm: III
@@ -2409,7 +2609,7 @@
  trans_en: to fall down; to collapse (intr.) (III)
 
 -lexeme
- lex: məhəd/hid
+ lex: mihəd/hid
  stem: .h.d.
  gramm: V
  root: hyd
@@ -2420,7 +2620,7 @@
 
 -lexeme
  lex: mahəǧ/mahəǧle
- stem: .h.y.|.h.ǧ.
+ stem: .h.ǧ.|.h.ǧǧ.
  gramm: V
  root: hyǧ
  stamm: III
@@ -2429,7 +2629,7 @@
  trans_en: to become agitated (III)
 
 -lexeme
- lex: məhəǧ/hiǧ
+ lex: mihəǧ/hiǧ
  stem: .h.ǧ.
  gramm: V
  root: hyǧ
@@ -2440,7 +2640,7 @@
 
 -lexeme
  lex: mahəz/mahəzle
- stem: .h.y.|.h.z.
+ stem: .h.z.|.h.zz.
  gramm: V
  root: hyz
  stamm: III
@@ -2449,7 +2649,7 @@
  trans_en: to rock, to swing; to shake (III)
 
 -lexeme
- lex: məhəz/hiz
+ lex: mihəz/hiz
  stem: .h.z.
  gramm: V
  root: hyz
@@ -2470,7 +2670,7 @@
 
 -lexeme
  lex: məḥbək/ḥbik
- stem: .ḥ.b.k.|.ḥ.b.kk.
+ stem: .ḥ.b.k.
  gramm: V
  root: ḥbk
  stamm: Ip
@@ -2490,13 +2690,53 @@
 
 -lexeme
  lex: məḥbəš/ḥbiš
- stem: .ḥ.b.š.|.ḥ.b.šš.
+ stem: .ḥ.b.š.
  gramm: V
  root: ḥbš
  stamm: Ip
  paradigm: V_Ip
  trans_de: 1) einsperren, einschlissen, ins Grab legen; 2) (metath. aus bḥš) graben (Ip)
  trans_en: to dig out (Ip)
+
+-lexeme
+ lex: maḥdə̞/maḥdalle
+ stem: .ḥ.d.̞.|.ḥ.d.l.|.ḥ.d.̞̞.
+ gramm: V
+ root: ḥd̞n
+ stamm: III
+ paradigm: V_III_3n
+ trans_de: umarmen (III)
+ trans_en: to hug (III)
+
+-lexeme
+ lex: məḥdə̞/ḥdi̞
+ stem: .ḥ.d.̞.
+ gramm: V
+ root: ḥd̞n
+ stamm: Ip
+ paradigm: V_Ip_3n
+ trans_de: umarmen (Ip)
+ trans_en: to hug (Ip)
+
+-lexeme
+ lex: maḥḏə̣/maḥḏalle
+ stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
+ gramm: V
+ root: ḥḏ̣r
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: sich einstellen, zugegen sein, erscheinen, anwesend sein, bereit werden; (III)
+ trans_en: to be present; to be ready; to appear (III)
+
+-lexeme
+ lex: məḥḏə̣/ḥḏị
+ stem: .ḥ.ḏ.̣.|.ḥ.ḏ.n.
+ gramm: V
+ root: ḥḏ̣r
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: sich einstellen, zugegen sein, erscheinen, anwesend sein, bereit werden; (Ip)
+ trans_en: to be present; to be ready; to appear (Ip)
 
 -lexeme
  lex: maḥfər/maḥfarle
@@ -2510,7 +2750,7 @@
 
 -lexeme
  lex: məḥfər/ḥfir
- stem: .ḥ.f.r.|.ḥ.f.rr.
+ stem: .ḥ.f.r.
  gramm: V
  root: ḥfr/ʕfr
  stamm: Ip
@@ -2530,7 +2770,7 @@
 
 -lexeme
  lex: məḥfəx/ḥfix
- stem: .ḥ.f.x.|.ḥ.f.xx.
+ stem: .ḥ.f.x.
  gramm: V
  root: ḥfx
  stamm: Ip
@@ -2550,7 +2790,7 @@
 
 -lexeme
  lex: məḥkəm/ḥkim
- stem: .ḥ.k.m.|.ḥ.k.mm.
+ stem: .ḥ.k.m.
  gramm: V
  root: ḥkm
  stamm: Ip
@@ -2570,7 +2810,7 @@
 
 -lexeme
  lex: məḥləd/ḥlid
- stem: .ḥ.l.d.|.ḥ.l.dd.
+ stem: .ḥ.l.d.
  gramm: V
  root: ḥld
  stamm: Ip
@@ -2590,7 +2830,7 @@
 
 -lexeme
  lex: məḥləǧ/ḥliǧ
- stem: .ḥ.l.ǧ.|.ḥ.l.ǧǧ.
+ stem: .ḥ.l.ǧ.
  gramm: V
  root: ḥlǧ
  stamm: Ip
@@ -2610,7 +2850,7 @@
 
 -lexeme
  lex: məḥləm/ḥlim
- stem: .ḥ.l.m.|.ḥ.l.mm.
+ stem: .ḥ.l.m.
  gramm: V
  root: ḥlm
  stamm: Ip
@@ -2630,7 +2870,7 @@
 
 -lexeme
  lex: məḥləm/ḥlim
- stem: .ḥ.l.m.|.ḥ.l.mm.
+ stem: .ḥ.l.m.
  gramm: V
  root: ḥlm
  stamm: Ip
@@ -2650,7 +2890,7 @@
 
 -lexeme
  lex: məḥləq/ḥliq
- stem: .ḥ.l.q.|.ḥ.l.qq.
+ stem: .ḥ.l.q.
  gramm: V
  root: ḥlq
  stamm: Ip
@@ -2659,8 +2899,8 @@
  trans_en: to shave (tr. and intr.) (Ip)
 
 -lexeme
- lex: maḥlu/maḥlawle
- stem: .ḥ.l.|.ḥ.l.w.
+ lex: maḥlu/maḥlule
+ stem: .ḥ.l.w.|.ḥ.l.|.ḥ.l.ww.
  gramm: V
  root: ḥlw
  stamm: III
@@ -2670,7 +2910,7 @@
 
 -lexeme
  lex: məḥlu/ḥliw
- stem: .ḥ.l.|.ḥ.l.w.
+ stem: .ḥ.l.w.|.ḥ.l.
  gramm: V
  root: ḥlw
  stamm: Ip
@@ -2679,8 +2919,8 @@
  trans_en: to milk (Ip)
 
 -lexeme
- lex: maḥe/maḥlele
- stem: .ḥ.l.
+ lex: maḥle/maḥlele
+ stem: .ḥ.l.y.|.ḥ.l.
  gramm: V
  root: ḥly
  stamm: III
@@ -2690,7 +2930,7 @@
 
 -lexeme
  lex: məḥle/ḥle
- stem: .ḥ.l.
+ stem: .ḥ.l.y.|.ḥ.l.
  gramm: V
  root: ḥly
  stamm: Ip
@@ -2710,7 +2950,7 @@
 
 -lexeme
  lex: məḥməʕ/ḥmiʕ
- stem: .ḥ.m.ʕ.|.ḥ.m.ʕʕ.
+ stem: .ḥ.m.ʕ.
  gramm: V
  root: ḥmʕ
  stamm: Ip
@@ -2730,7 +2970,7 @@
 
 -lexeme
  lex: məḥməṣ/ḥmiṣ
- stem: .ḥ.m.ṣ.|.ḥ.m.ṣṣ.
+ stem: .ḥ.m.ṣ.
  gramm: V
  root: ḥmṣ
  stamm: Ip
@@ -2750,7 +2990,7 @@
 
 -lexeme
  lex: məḥnəq/ḥniq
- stem: .ḥ.n.q.|.ḥ.n.qq.
+ stem: .ḥ.n.q.
  gramm: V
  root: ḥnq
  stamm: Ip
@@ -2770,7 +3010,7 @@
 
 -lexeme
  lex: məḥrəf/ḥrif
- stem: .ḥ.r.f.|.ḥ.r.ff.
+ stem: .ḥ.r.f.
  gramm: V
  root: ḥrf
  stamm: Ip
@@ -2790,7 +3030,7 @@
 
 -lexeme
  lex: məḥrək/ḥrik
- stem: .ḥ.r.k.|.ḥ.r.kk.
+ stem: .ḥ.r.k.
  gramm: V
  root: ḥrk
  stamm: Ip
@@ -2810,7 +3050,7 @@
 
 -lexeme
  lex: məḥrəm/ḥrim
- stem: .ḥ.r.m.|.ḥ.r.mm.
+ stem: .ḥ.r.m.
  gramm: V
  root: ḥrm
  stamm: Ip
@@ -2830,7 +3070,7 @@
 
 -lexeme
  lex: məḥrəm/ḥrim
- stem: .ḥ.r.m.|.ḥ.r.mm.
+ stem: .ḥ.r.m.
  gramm: V
  root: ḥrm
  stamm: Ip
@@ -2850,7 +3090,7 @@
 
 -lexeme
  lex: məḥrəs/ḥris
- stem: .ḥ.r.s.|.ḥ.r.ss.
+ stem: .ḥ.r.s.
  gramm: V
  root: ḥrs
  stamm: Ip
@@ -2859,8 +3099,28 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: maḥru/maḥrawle
- stem: .ḥ.r.|.ḥ.r.w.
+ lex: maḥrət/maḥratle
+ stem: .ḥ.r.t.|.ḥ.r.tt.
+ gramm: V
+ root: ḥrtf
+ stamm: III
+ paradigm: V_III
+ trans_de: scharf, wütend werden (III)
+ trans_en: to become furious, angry (III)
+
+-lexeme
+ lex: məḥrət/ḥrit
+ stem: .ḥ.r.t.
+ gramm: V
+ root: ḥrtf
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: scharf, wütend werden (Ip)
+ trans_en: to become furious, angry (Ip)
+
+-lexeme
+ lex: maḥru/maḥrule
+ stem: .ḥ.r.w.|.ḥ.r.|.ḥ.r.ww.
  gramm: V
  root: ḥrw
  stamm: III
@@ -2870,7 +3130,7 @@
 
 -lexeme
  lex: məḥru/ḥriw
- stem: .ḥ.r.|.ḥ.r.w.
+ stem: .ḥ.r.w.|.ḥ.r.
  gramm: V
  root: ḥrw
  stamm: Ip
@@ -2879,8 +3139,8 @@
  trans_en: to perish; to decay; to become drunk; to care, to bother (with l- in impersonal sentences) (Ip)
 
 -lexeme
- lex: maḥe/maḥrele
- stem: .ḥ.r.
+ lex: maḥre/maḥrele
+ stem: .ḥ.r.y.|.ḥ.r.
  gramm: V
  root: ḥry
  stamm: III
@@ -2890,7 +3150,7 @@
 
 -lexeme
  lex: məḥre/ḥre
- stem: .ḥ.r.
+ stem: .ḥ.r.y.|.ḥ.r.
  gramm: V
  root: ḥry
  stamm: Ip
@@ -2910,7 +3170,7 @@
 
 -lexeme
  lex: məḥsəm/ḥsim
- stem: .ḥ.s.m.|.ḥ.s.mm.
+ stem: .ḥ.s.m.
  gramm: V
  root: ḥsm
  stamm: Ip
@@ -2919,8 +3179,8 @@
  trans_en: to envy (Ip)
 
 -lexeme
- lex: maḥe/maḥsele
- stem: .ḥ.s.
+ lex: maḥse/maḥsele
+ stem: .ḥ.s.y.|.ḥ.s.
  gramm: V
  root: ḥsy
  stamm: III
@@ -2930,7 +3190,7 @@
 
 -lexeme
  lex: məḥse/ḥse
- stem: .ḥ.s.
+ stem: .ḥ.s.y.|.ḥ.s.
  gramm: V
  root: ḥsy
  stamm: Ip
@@ -2950,7 +3210,7 @@
 
 -lexeme
  lex: məḥṣəd/ḥṣid
- stem: .ḥ.ṣ.d.|.ḥ.ṣ.dd.
+ stem: .ḥ.ṣ.d.
  gramm: V
  root: ḥṣd
  stamm: Ip
@@ -2960,7 +3220,7 @@
 
 -lexeme
  lex: maḥṣəl/maḥṣele
- stem: .ḥ.ṣ.
+ stem: .ḥ.ṣ.l.|.ḥ.ṣ.
  gramm: V
  root: ḥṣl
  stamm: III
@@ -2970,7 +3230,7 @@
 
 -lexeme
  lex: məḥṣəl/ḥṣil
- stem: .ḥ.ṣ.l.|.ḥ.ṣ.ll.
+ stem: .ḥ.ṣ.l.|.ḥ.ṣ.n.
  gramm: V
  root: ḥṣl
  stamm: Ip
@@ -2980,7 +3240,7 @@
 
 -lexeme
  lex: maḥṣər/maḥṣalle
- stem: .ḥ.ṣ.r.|.ḥ.ṣ.
+ stem: .ḥ.ṣ.r.|.ḥ.ṣ.l.|.ḥ.ṣ.n.|.ḥ.ṣ.rr.
  gramm: V
  root: ḥṣr
  stamm: III
@@ -2990,7 +3250,7 @@
 
 -lexeme
  lex: məḥṣər/ḥṣir
- stem: .ḥ.ṣ.r.|.ḥ.ṣ.rr.
+ stem: .ḥ.ṣ.r.|.ḥ.ṣ.n.
  gramm: V
  root: ḥṣr
  stamm: Ip
@@ -3010,7 +3270,7 @@
 
 -lexeme
  lex: məḥšək/ḥšik
- stem: .ḥ.š.k.|.ḥ.š.kk.
+ stem: .ḥ.š.k.
  gramm: V
  root: ḥšk
  stamm: Ip
@@ -3020,7 +3280,7 @@
 
 -lexeme
  lex: maḥšər/maḥšalle
- stem: .ḥ.š.r.|.ḥ.š.
+ stem: .ḥ.š.r.|.ḥ.š.l.|.ḥ.š.n.|.ḥ.š.rr.
  gramm: V
  root: ḥšr
  stamm: III
@@ -3030,7 +3290,7 @@
 
 -lexeme
  lex: məḥšər/ḥšir
- stem: .ḥ.š.r.|.ḥ.š.rr.
+ stem: .ḥ.š.r.|.ḥ.š.n.
  gramm: V
  root: ḥšr
  stamm: Ip
@@ -3039,8 +3299,8 @@
  trans_en: to lock; to put into a predicament (Ip)
 
 -lexeme
- lex: maḥšu/maḥšawle
- stem: .ḥ.š.|.ḥ.š.w.
+ lex: maḥšu/maḥšule
+ stem: .ḥ.š.w.|.ḥ.š.|.ḥ.š.ww.
  gramm: V
  root: ḥšw
  stamm: III
@@ -3050,7 +3310,7 @@
 
 -lexeme
  lex: məḥšu/ḥšiw
- stem: .ḥ.š.|.ḥ.š.w.
+ stem: .ḥ.š.w.|.ḥ.š.
  gramm: V
  root: ḥšw
  stamm: Ip
@@ -3059,8 +3319,8 @@
  trans_en: to think, to believe; to feel (ruḥ-); to respect (Ip)
 
 -lexeme
- lex: maḥe/maḥšele
- stem: .ḥ.š.
+ lex: maḥše/maḥšele
+ stem: .ḥ.š.y.|.ḥ.š.
  gramm: V
  root: ḥšy
  stamm: III
@@ -3070,7 +3330,7 @@
 
 -lexeme
  lex: məḥše/ḥše
- stem: .ḥ.š.
+ stem: .ḥ.š.y.|.ḥ.š.
  gramm: V
  root: ḥšy
  stamm: Ip
@@ -3079,8 +3339,8 @@
  trans_en: to fill (Ip)
 
 -lexeme
- lex: maḥe/maḥṭele
- stem: .ḥ.ṭ.
+ lex: maḥṭe/maḥṭele
+ stem: .ḥ.ṭ.y.|.ḥ.ṭ.
  gramm: V
  root: ḥṭy
  stamm: III
@@ -3090,7 +3350,7 @@
 
 -lexeme
  lex: məḥṭe/ḥṭe
- stem: .ḥ.ṭ.
+ stem: .ḥ.ṭ.y.|.ḥ.ṭ.
  gramm: V
  root: ḥṭy
  stamm: Ip
@@ -3099,8 +3359,8 @@
  trans_en: to commit a sin (Ip)
 
 -lexeme
- lex: maḥwər/maḥwarle
- stem: .ḥ.w.r.|.ḥ.w.rr.
+ lex: maḥwər/maḥwalle
+ stem: .ḥ.w.r.|.ḥ.w.l.|.ḥ.w.n.|.ḥ.w.rr.
  gramm: V
  root: ḥwr
  stamm: III
@@ -3110,7 +3370,7 @@
 
 -lexeme
  lex: məḥwər/ḥwir
- stem: .ḥ.w.r.|.ḥ.w.rr.
+ stem: .ḥ.w.r.|.ḥ.w.n.
  gramm: V
  root: ḥwr
  stamm: Ip
@@ -3130,7 +3390,7 @@
 
 -lexeme
  lex: məḥwəṭ/ḥwiṭ
- stem: .ḥ.w.ṭ.|.ḥ.w.ṭṭ.
+ stem: .ḥ.w.ṭ.
  gramm: V
  root: ḥwṭ
  stamm: Ip
@@ -3139,8 +3399,8 @@
  trans_en: to beat (Ip)
 
 -lexeme
- lex: maḥwəy/maḥwayle
- stem: .ḥ.w.y.|.ḥ.w.yy.
+ lex: maḥwe/maḥwele
+ stem: .ḥ.w.y.|.ḥ.w.|.ḥ.y.
  gramm: V
  root: ḥwy
  stamm: III
@@ -3149,8 +3409,8 @@
  trans_en: to accommodate; to host (III)
 
 -lexeme
- lex: məḥwəy/ḥwiy
- stem: .ḥ.w.y.|.ḥ.w.yy.
+ lex: məḥwe/ḥwe
+ stem: .ḥ.w.y.|.ḥ.w.
  gramm: V
  root: ḥwy
  stamm: Ip
@@ -3160,7 +3420,7 @@
 
 -lexeme
  lex: maḥəf/maḥəfle
- stem: .ḥ.y.|.ḥ.f.
+ stem: .ḥ.f.|.ḥ.ff.
  gramm: V
  root: ḥyf
  stamm: III
@@ -3169,7 +3429,7 @@
  trans_en: to wash (III)
 
 -lexeme
- lex: məḥəf/ḥif
+ lex: miḥəf/ḥif
  stem: .ḥ.f.
  gramm: V
  root: ḥyf
@@ -3180,7 +3440,7 @@
 
 -lexeme
  lex: maḥək/maḥəkle
- stem: .ḥ.y.|.ḥ.k.
+ stem: .ḥ.k.|.ḥ.kk.
  gramm: V
  root: ḥyk
  stamm: III
@@ -3189,7 +3449,7 @@
  trans_en: to scratch; to eradicate, to destroy (III)
 
 -lexeme
- lex: məḥək/ḥik
+ lex: miḥək/ḥik
  stem: .ḥ.k.
  gramm: V
  root: ḥyk
@@ -3200,7 +3460,7 @@
 
 -lexeme
  lex: maḥəm/maḥəmle
- stem: .ḥ.y.|.ḥ.m.
+ stem: .ḥ.m.|.ḥ.mm.
  gramm: V
  root: ḥym
  stamm: III
@@ -3209,7 +3469,7 @@
  trans_en: [?] (III)
 
 -lexeme
- lex: məḥəm/ḥim
+ lex: miḥəm/ḥim
  stem: .ḥ.m.
  gramm: V
  root: ḥym
@@ -3220,7 +3480,7 @@
 
 -lexeme
  lex: maḥər/maḥəlle
- stem: .ḥ.r.|.ḥ.
+ stem: .ḥ.r.|.ḥ.l.|.ḥ.n.|.ḥ.rr.
  gramm: V
  root: ḥyr
  stamm: III
@@ -3229,8 +3489,8 @@
  trans_en: to look at (ʕal) smb./smth.; to look out (e.g. at the street); to take care of (l-) smb. (III)
 
 -lexeme
- lex: məḥər/ḥir
- stem: .ḥ.r.
+ lex: miḥər/ḥir
+ stem: .ḥ.r.|.ḥ.n.
  gramm: V
  root: ḥyr
  stamm: Ip
@@ -3240,7 +3500,7 @@
 
 -lexeme
  lex: maḥəṣ/maḥəṣle
- stem: .ḥ.y.|.ḥ.ṣ.
+ stem: .ḥ.ṣ.|.ḥ.ṣṣ.
  gramm: V
  root: ḥyṣ
  stamm: III
@@ -3249,7 +3509,7 @@
  trans_en: to attach; to tighten; to fix; to bind; to become stronger; to shout at (ʕal) smb. (III)
 
 -lexeme
- lex: məḥəṣ/ḥiṣ
+ lex: miḥəṣ/ḥiṣ
  stem: .ḥ.ṣ.
  gramm: V
  root: ḥyṣ
@@ -3260,7 +3520,7 @@
 
 -lexeme
  lex: maḥəṭ/maḥəṭle
- stem: .ḥ.y.|.ḥ.ṭ.
+ stem: .ḥ.ṭ.|.ḥ.ṭṭ.
  gramm: V
  root: ḥyṭ
  stamm: III
@@ -3269,7 +3529,7 @@
  trans_en: to sew (III)
 
 -lexeme
- lex: məḥəṭ/ḥiṭ
+ lex: miḥəṭ/ḥiṭ
  stem: .ḥ.ṭ.
  gramm: V
  root: ḥyṭ
@@ -3279,8 +3539,28 @@
  trans_en: to sew (Ip)
 
 -lexeme
+ lex: maḥəy/maḥəyle
+ stem: .ḥ.y.|.ḥ.yy.
+ gramm: V
+ root: ḥyy
+ stamm: III
+ paradigm: V_III_2y
+ trans_de: leben (III)
+ trans_en: to live (III)
+
+-lexeme
+ lex: miḥəy/ḥiy
+ stem: .ḥ.y.
+ gramm: V
+ root: ḥyy
+ stamm: Ip
+ paradigm: V_Ip_2y
+ trans_de: leben (Ip)
+ trans_en: to live (Ip)
+
+-lexeme
  lex: maḥəz/maḥəzle
- stem: .ḥ.y.|.ḥ.z.
+ stem: .ḥ.z.|.ḥ.zz.
  gramm: V
  root: ḥyz
  stamm: III
@@ -3289,7 +3569,7 @@
  trans_en: to love (III)
 
 -lexeme
- lex: məḥəz/ḥiz
+ lex: miḥəz/ḥiz
  stem: .ḥ.z.
  gramm: V
  root: ḥyz
@@ -3299,8 +3579,8 @@
  trans_en: to love (Ip)
 
 -lexeme
- lex: maḥe/maḥzele
- stem: .ḥ.z.
+ lex: maḥze/maḥzele
+ stem: .ḥ.z.y.|.ḥ.z.
  gramm: V
  root: ḥzy
  stamm: III
@@ -3310,7 +3590,7 @@
 
 -lexeme
  lex: məḥze/ḥze
- stem: .ḥ.z.
+ stem: .ḥ.z.y.|.ḥ.z.
  gramm: V
  root: ḥzy
  stamm: Ip
@@ -3330,7 +3610,7 @@
 
 -lexeme
  lex: məkfəl/kfil
- stem: .k.f.l.|.k.f.ll.
+ stem: .k.f.l.
  gramm: V
  root: kfl
  stamm: Ip
@@ -3340,7 +3620,7 @@
 
 -lexeme
  lex: makfən/makfalle
- stem: .k.f.n.|.k.f.
+ stem: .k.f.n.|.k.f.l.|.k.f.nn.
  gramm: V
  root: kfn
  stamm: III
@@ -3350,7 +3630,7 @@
 
 -lexeme
  lex: məkfən/kfin
- stem: .k.f.n.|.k.f.nn.
+ stem: .k.f.n.
  gramm: V
  root: kfn
  stamm: Ip
@@ -3360,7 +3640,7 @@
 
 -lexeme
  lex: makfər/makfalle
- stem: .k.f.r.|.k.f.
+ stem: .k.f.r.|.k.f.l.|.k.f.n.|.k.f.rr.
  gramm: V
  root: kfr
  stamm: III
@@ -3370,7 +3650,7 @@
 
 -lexeme
  lex: məkfər/kfir
- stem: .k.f.r.|.k.f.rr.
+ stem: .k.f.r.|.k.f.n.
  gramm: V
  root: kfr
  stamm: Ip
@@ -3390,7 +3670,7 @@
 
 -lexeme
  lex: məkfəx/kfix
- stem: .k.f.x.|.k.f.xx.
+ stem: .k.f.x.
  gramm: V
  root: kfx
  stamm: Ip
@@ -3399,8 +3679,8 @@
  trans_en: to pour, to pour out (Ip)
 
 -lexeme
- lex: make/makfele
- stem: .k.f.
+ lex: makfe/makfele
+ stem: .k.f.y.|.k.f.
  gramm: V
  root: kfy
  stamm: III
@@ -3410,7 +3690,7 @@
 
 -lexeme
  lex: məkfe/kfe
- stem: .k.f.
+ stem: .k.f.y.|.k.f.
  gramm: V
  root: kfy
  stamm: Ip
@@ -3420,7 +3700,7 @@
 
 -lexeme
  lex: makḥəl/makḥele
- stem: .k.ḥ.
+ stem: .k.ḥ.l.|.k.ḥ.
  gramm: V
  root: kḥl
  stamm: III
@@ -3430,7 +3710,7 @@
 
 -lexeme
  lex: məkḥəl/kḥil
- stem: .k.ḥ.l.|.k.ḥ.ll.
+ stem: .k.ḥ.l.|.k.ḥ.n.
  gramm: V
  root: kḥl
  stamm: Ip
@@ -3439,8 +3719,8 @@
  trans_en: to put makeup on eyes (Ip)
 
 -lexeme
- lex: make/maklele
- stem: .k.l.
+ lex: makle/maklele
+ stem: .k.l.y.|.k.l.
  gramm: V
  root: kly
  stamm: III
@@ -3450,7 +3730,7 @@
 
 -lexeme
  lex: məkle/kle
- stem: .k.l.
+ stem: .k.l.y.|.k.l.
  gramm: V
  root: kly
  stamm: Ip
@@ -3470,7 +3750,7 @@
 
 -lexeme
  lex: məkməč/kmič
- stem: .k.m.č.|.k.m.čč.
+ stem: .k.m.č.
  gramm: V
  root: kmč
  stamm: Ip
@@ -3490,7 +3770,7 @@
 
 -lexeme
  lex: məkməd/kmid
- stem: .k.m.d.|.k.m.dd.
+ stem: .k.m.d.
  gramm: V
  root: kmd
  stamm: Ip
@@ -3500,7 +3780,7 @@
 
 -lexeme
  lex: makməl/makmele
- stem: .k.m.
+ stem: .k.m.l.|.k.m.
  gramm: V
  root: kml
  stamm: III
@@ -3510,7 +3790,7 @@
 
 -lexeme
  lex: məkməl/kmil
- stem: .k.m.l.|.k.m.ll.
+ stem: .k.m.l.|.k.m.n.
  gramm: V
  root: kml
  stamm: Ip
@@ -3530,7 +3810,7 @@
 
 -lexeme
  lex: məknəf/knif
- stem: .k.n.f.|.k.n.ff.
+ stem: .k.n.f.
  gramm: V
  root: knf
  stamm: Ip
@@ -3550,7 +3830,7 @@
 
 -lexeme
  lex: məknəš/kniš
- stem: .k.n.š.|.k.n.šš.
+ stem: .k.n.š.
  gramm: V
  root: knš
  stamm: Ip
@@ -3570,7 +3850,7 @@
 
 -lexeme
  lex: məknəz/kniz
- stem: .k.n.z.|.k.n.zz.
+ stem: .k.n.z.
  gramm: V
  root: knz
  stamm: Ip
@@ -3579,8 +3859,8 @@
  trans_en: to retract, to pull in (Ip)
 
 -lexeme
- lex: makru/makrawle
- stem: .k.r.|.k.r.w.
+ lex: makru/makrule
+ stem: .k.r.w.|.k.r.|.k.r.ww.
  gramm: V
  root: krw
  stamm: III
@@ -3590,7 +3870,7 @@
 
 -lexeme
  lex: məkru/kriw
- stem: .k.r.|.k.r.w.
+ stem: .k.r.w.|.k.r.
  gramm: V
  root: krw
  stamm: Ip
@@ -3610,7 +3890,7 @@
 
 -lexeme
  lex: məkrəx/krix
- stem: .k.r.x.|.k.r.xx.
+ stem: .k.r.x.
  gramm: V
  root: krx
  stamm: Ip
@@ -3619,8 +3899,8 @@
  trans_en: to go around; to travel around; to go for a walk; to search, to look for (ʕal) smth.; to gather (intr.); to treat smb. (ʕam) (Ip)
 
 -lexeme
- lex: make/makrele
- stem: .k.r.
+ lex: makre/makrele
+ stem: .k.r.y.|.k.r.
  gramm: V
  root: kry
  stamm: III
@@ -3630,7 +3910,7 @@
 
 -lexeme
  lex: məkre/kre
- stem: .k.r.
+ stem: .k.r.y.|.k.r.
  gramm: V
  root: kry
  stamm: Ip
@@ -3650,7 +3930,7 @@
 
 -lexeme
  lex: məkrəz/kriz
- stem: .k.r.z.|.k.r.zz.
+ stem: .k.r.z.
  gramm: V
  root: krz
  stamm: Ip
@@ -3670,7 +3950,7 @@
 
 -lexeme
  lex: məksəb/ksib
- stem: .k.s.b.|.k.s.bb.
+ stem: .k.s.b.
  gramm: V
  root: ksb
  stamm: Ip
@@ -3690,7 +3970,7 @@
 
 -lexeme
  lex: məksəd/ksid
- stem: .k.s.d.|.k.s.dd.
+ stem: .k.s.d.
  gramm: V
  root: ksd
  stamm: Ip
@@ -3710,7 +3990,7 @@
 
 -lexeme
  lex: məksəḥ/ksiḥ
- stem: .k.s.ḥ.|.k.s.ḥḥ.
+ stem: .k.s.ḥ.
  gramm: V
  root: ksḥ
  stamm: Ip
@@ -3730,7 +4010,7 @@
 
 -lexeme
  lex: məkšəf/kšif
- stem: .k.š.f.|.k.š.ff.
+ stem: .k.š.f.
  gramm: V
  root: kšf
  stamm: Ip
@@ -3750,7 +4030,7 @@
 
 -lexeme
  lex: məktəf/ktif
- stem: .k.t.f.|.k.t.ff.
+ stem: .k.t.f.
  gramm: V
  root: ktf
  stamm: Ip
@@ -3759,8 +4039,8 @@
  trans_en: to cross (Ip)
 
 -lexeme
- lex: makṯu/makṯawle
- stem: .k.ṯ.|.k.ṯ.w.
+ lex: makṯu/makṯule
+ stem: .k.ṯ.w.|.k.ṯ.|.k.ṯ.ww.
  gramm: V
  root: kṯw
  stamm: III
@@ -3770,7 +4050,7 @@
 
 -lexeme
  lex: məkṯu/kṯiw
- stem: .k.ṯ.|.k.ṯ.w.
+ stem: .k.ṯ.w.|.k.ṯ.
  gramm: V
  root: kṯw
  stamm: Ip
@@ -3790,7 +4070,7 @@
 
 -lexeme
  lex: məkwəš/kwiš
- stem: .k.w.š.|.k.w.šš.
+ stem: .k.w.š.
  gramm: V
  root: kwš
  stamm: Ip
@@ -3799,8 +4079,8 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: makwəy/makwayle
- stem: .k.w.y.|.k.w.yy.
+ lex: makwe/makwele
+ stem: .k.w.y.|.k.w.|.k.y.
  gramm: V
  root: kwy
  stamm: III
@@ -3809,8 +4089,8 @@
  trans_en: to cauterize (III)
 
 -lexeme
- lex: məkwəy/kwiy
- stem: .k.w.y.|.k.w.yy.
+ lex: məkwe/kwe
+ stem: .k.w.y.|.k.w.
  gramm: V
  root: kwy
  stamm: Ip
@@ -3820,7 +4100,7 @@
 
 -lexeme
  lex: makəb/makəble
- stem: .k.y.|.k.b.
+ stem: .k.b.|.k.bb.
  gramm: V
  root: kyb/kyf
  stamm: III
@@ -3829,7 +4109,7 @@
  trans_en: to bend (tr. and intr.) (III)
 
 -lexeme
- lex: məkəb/kib
+ lex: mikəb/kib
  stem: .k.b.
  gramm: V
  root: kyb/kyf
@@ -3850,7 +4130,7 @@
 
 -lexeme
  lex: məkyəm/kyim
- stem: .k.y.m.|.k.y.mm.
+ stem: .k.y.m.
  gramm: V
  root: kym
  stamm: Ip
@@ -3860,7 +4140,7 @@
 
 -lexeme
  lex: makət/makətle
- stem: .k.y.|.k.t.
+ stem: .k.t.|.k.tt.
  gramm: V
  root: kyt
  stamm: III
@@ -3869,7 +4149,7 @@
  trans_en: to remain behind in growth (III)
 
 -lexeme
- lex: məkət/kit
+ lex: mikət/kit
  stem: .k.t.
  gramm: V
  root: kyt
@@ -3880,7 +4160,7 @@
 
 -lexeme
  lex: maku/makule
- stem: .k.
+ stem: .k.|.k.w.
  gramm: V
  root: kyw
  stamm: III
@@ -3889,8 +4169,8 @@
  trans_en: to hurt, to ache; to become ill (l-) (III)
 
 -lexeme
- lex: məkəw/kiw
- stem: .k.w.
+ lex: miku/kiw
+ stem: .k.w.|.k.
  gramm: V
  root: kyw
  stamm: Ip
@@ -3910,7 +4190,7 @@
 
 -lexeme
  lex: məlʕəf/lʕif
- stem: .l.ʕ.f.|.l.ʕ.ff.
+ stem: .l.ʕ.f.
  gramm: V
  root: lʕf
  stamm: Ip
@@ -3930,7 +4210,7 @@
 
 -lexeme
  lex: məlʕəs/lʕis
- stem: .l.ʕ.s.|.l.ʕ.ss.
+ stem: .l.ʕ.s.
  gramm: V
  root: lʕs
  stamm: Ip
@@ -3950,7 +4230,7 @@
 
 -lexeme
  lex: məlbək/lbik
- stem: .l.b.k.|.l.b.kk.
+ stem: .l.b.k.
  gramm: V
  root: lbk
  stamm: Ip
@@ -3970,7 +4250,7 @@
 
 -lexeme
  lex: məlbək/lbik
- stem: .l.b.k.|.l.b.kk.
+ stem: .l.b.k.
  gramm: V
  root: lbk
  stamm: Ip
@@ -3990,7 +4270,7 @@
 
 -lexeme
  lex: məlbəṭ/lbiṭ
- stem: .l.b.ṭ.|.l.b.ṭṭ.
+ stem: .l.b.ṭ.
  gramm: V
  root: lbṭ
  stamm: Ip
@@ -4010,7 +4290,7 @@
 
 -lexeme
  lex: məlḥək/lḥik
- stem: .l.ḥ.k.|.l.ḥ.kk.
+ stem: .l.ḥ.k.
  gramm: V
  root: lḥk
  stamm: Ip
@@ -4030,7 +4310,7 @@
 
 -lexeme
  lex: məlhəṭ/lhiṭ
- stem: .l.h.ṭ.|.l.h.ṭṭ.
+ stem: .l.h.ṭ.
  gramm: V
  root: lhṭ
  stamm: Ip
@@ -4050,7 +4330,7 @@
 
 -lexeme
  lex: məlḥəm/lḥim
- stem: .l.ḥ.m.|.l.ḥ.mm.
+ stem: .l.ḥ.m.
  gramm: V
  root: lḥm
  stamm: Ip
@@ -4059,8 +4339,8 @@
  trans_en: to enclose smth. (ʕal); to become attached to (ʕal) smth. (Ip)
 
 -lexeme
- lex: male/malḥele
- stem: .l.ḥ.
+ lex: malḥe/malḥele
+ stem: .l.ḥ.y.|.l.ḥ.
  gramm: V
  root: lḥy
  stamm: III
@@ -4070,7 +4350,7 @@
 
 -lexeme
  lex: məlḥe/lḥe
- stem: .l.ḥ.
+ stem: .l.ḥ.y.|.l.ḥ.
  gramm: V
  root: lḥy
  stamm: Ip
@@ -4090,7 +4370,7 @@
 
 -lexeme
  lex: məlqəf/lqif
- stem: .l.q.f.|.l.q.ff.
+ stem: .l.q.f.
  gramm: V
  root: lqf
  stamm: Ip
@@ -4110,7 +4390,7 @@
 
 -lexeme
  lex: məlqəṭ/lqiṭ
- stem: .l.q.ṭ.|.l.q.ṭṭ.
+ stem: .l.q.ṭ.
  gramm: V
  root: lqṭ
  stamm: Ip
@@ -4119,8 +4399,8 @@
  trans_en: to pick up; to catch (Ip)
 
 -lexeme
- lex: male/malqele
- stem: .l.q.
+ lex: malqe/malqele
+ stem: .l.q.y.|.l.q.
  gramm: V
  root: lqy
  stamm: III
@@ -4130,7 +4410,7 @@
 
 -lexeme
  lex: məlqe/lqe
- stem: .l.q.
+ stem: .l.q.y.|.l.q.
  gramm: V
  root: lqy
  stamm: Ip
@@ -4139,8 +4419,8 @@
  trans_en: to meet smb. (b-) (Ip)
 
 -lexeme
- lex: male/malṣele
- stem: .l.ṣ.
+ lex: malṣe/malṣele
+ stem: .l.ṣ.y.|.l.ṣ.
  gramm: V
  root: lṣy
  stamm: III
@@ -4150,7 +4430,7 @@
 
 -lexeme
  lex: məlṣe/lṣe
- stem: .l.ṣ.
+ stem: .l.ṣ.y.|.l.ṣ.
  gramm: V
  root: lṣy
  stamm: Ip
@@ -4170,7 +4450,7 @@
 
 -lexeme
  lex: məltəm/ltim
- stem: .l.t.m.|.l.t.mm.
+ stem: .l.t.m.
  gramm: V
  root: ltm
  stamm: Ip
@@ -4190,7 +4470,7 @@
 
 -lexeme
  lex: məlṭəʕ/lṭiʕ
- stem: .l.ṭ.ʕ.|.l.ṭ.ʕʕ.
+ stem: .l.ṭ.ʕ.
  gramm: V
  root: lṭʕ
  stamm: Ip
@@ -4210,7 +4490,7 @@
 
 -lexeme
  lex: məlṭəš/lṭiš
- stem: .l.ṭ.š.|.l.ṭ.šš.
+ stem: .l.ṭ.š.
  gramm: V
  root: lṭš
  stamm: Ip
@@ -4230,7 +4510,7 @@
 
 -lexeme
  lex: məlwəḏ/lwiḏ
- stem: .l.w.ḏ.|.l.w.ḏḏ.
+ stem: .l.w.ḏ.
  gramm: V
  root: lwḏ
  stamm: Ip
@@ -4250,7 +4530,7 @@
 
 -lexeme
  lex: məlwəš/lwiš
- stem: .l.w.š.|.l.w.šš.
+ stem: .l.w.š.
  gramm: V
  root: lwš
  stamm: Ip
@@ -4259,8 +4539,8 @@
  trans_en: to wear; to put on clothes (Ip)
 
 -lexeme
- lex: malwəy/malwayle
- stem: .l.w.y.|.l.w.yy.
+ lex: malwe/malwele
+ stem: .l.w.y.|.l.w.|.l.y.
  gramm: V
  root: lwy
  stamm: III
@@ -4269,8 +4549,8 @@
  trans_en: to follow (III)
 
 -lexeme
- lex: məlwəy/lwiy
- stem: .l.w.y.|.l.w.yy.
+ lex: məlwe/lwe
+ stem: .l.w.y.|.l.w.
  gramm: V
  root: lwy
  stamm: Ip
@@ -4280,7 +4560,7 @@
 
 -lexeme
  lex: maləd/malədle
- stem: .l.y.|.l.d.
+ stem: .l.d.|.l.dd.
  gramm: V
  root: lyd
  stamm: III
@@ -4289,7 +4569,7 @@
  trans_en: to lay eggs (III)
 
 -lexeme
- lex: mələd/lid
+ lex: miləd/lid
  stem: .l.d.
  gramm: V
  root: lyd
@@ -4300,7 +4580,7 @@
 
 -lexeme
  lex: maləf/maləfle
- stem: .l.y.|.l.f.
+ stem: .l.f.|.l.ff.
  gramm: V
  root: lyf
  stamm: III
@@ -4309,7 +4589,7 @@
  trans_en: to wrap; to envelop; to spin (III)
 
 -lexeme
- lex: mələf/lif
+ lex: miləf/lif
  stem: .l.f.
  gramm: V
  root: lyf
@@ -4320,7 +4600,7 @@
 
 -lexeme
  lex: maləm/maləmle
- stem: .l.y.|.l.m.
+ stem: .l.m.|.l.mm.
  gramm: V
  root: lym
  stamm: III
@@ -4329,7 +4609,7 @@
  trans_en: to gather (intr.) (III)
 
 -lexeme
- lex: mələm/lim
+ lex: miləm/lim
  stem: .l.m.
  gramm: V
  root: lym
@@ -4340,7 +4620,7 @@
 
 -lexeme
  lex: maləq/maləqle
- stem: .l.y.|.l.q.
+ stem: .l.q.|.l.qq.
  gramm: V
  root: lyq
  stamm: III
@@ -4349,7 +4629,7 @@
  trans_en: to be suitable; to pass (III)
 
 -lexeme
- lex: mələq/liq
+ lex: miləq/liq
  stem: .l.q.
  gramm: V
  root: lyq
@@ -4360,7 +4640,7 @@
 
 -lexeme
  lex: maləṭ/maləṭle
- stem: .l.y.|.l.ṭ.
+ stem: .l.ṭ.|.l.ṭṭ.
  gramm: V
  root: lyṭ
  stamm: III
@@ -4369,7 +4649,7 @@
  trans_en: to curse (III)
 
 -lexeme
- lex: mələṭ/liṭ
+ lex: miləṭ/liṭ
  stem: .l.ṭ.
  gramm: V
  root: lyṭ
@@ -4380,7 +4660,7 @@
 
 -lexeme
  lex: maləš/maləšle
- stem: .l.y.|.l.š.
+ stem: .l.š.|.l.šš.
  gramm: V
  root: lyš
  stamm: III
@@ -4389,7 +4669,7 @@
  trans_en: to knead (III)
 
 -lexeme
- lex: mələš/liš
+ lex: miləš/liš
  stem: .l.š.
  gramm: V
  root: lyš
@@ -4410,7 +4690,7 @@
 
 -lexeme
  lex: məlzəm/lzim
- stem: .l.z.m.|.l.z.mm.
+ stem: .l.z.m.
  gramm: V
  root: lzm
  stamm: Ip
@@ -4430,7 +4710,7 @@
 
 -lexeme
  lex: məlzəq/lziq
- stem: .l.z.q.|.l.z.qq.
+ stem: .l.z.q.
  gramm: V
  root: lzq
  stamm: Ip
@@ -4440,7 +4720,7 @@
 
 -lexeme
  lex: mamʕər/mamʕalle
- stem: .m.ʕ.r.|.m.ʕ.
+ stem: .m.ʕ.r.|.m.ʕ.l.|.m.ʕ.n.|.m.ʕ.rr.
  gramm: V
  root: mʕr
  stamm: III
@@ -4450,7 +4730,7 @@
 
 -lexeme
  lex: məmʕər/mʕir
- stem: .m.ʕ.r.|.m.ʕ.rr.
+ stem: .m.ʕ.r.|.m.ʕ.n.
  gramm: V
  root: mʕr
  stamm: Ip
@@ -4459,8 +4739,28 @@
  trans_en: to crush (Ip)
 
 -lexeme
+ lex: mamḏe/mamḏele
+ stem: .m.ḏ.̣.|.m.ḏ.
+ gramm: V
+ root: mḏ̣y
+ stamm: III
+ paradigm: V_III_3y
+ trans_de: unterschreiben (III)
+ trans_en: to sign (III)
+
+-lexeme
+ lex: məmḏe/mḏe
+ stem: .m.ḏ.̣.|.m.ḏ.
+ gramm: V
+ root: mḏ̣y
+ stamm: Ip
+ paradigm: V_Ip_3y
+ trans_de: unterschreiben (Ip)
+ trans_en: to sign (Ip)
+
+-lexeme
  lex: mamhər/mamhalle
- stem: .m.h.r.|.m.h.
+ stem: .m.h.r.|.m.h.l.|.m.h.n.|.m.h.rr.
  gramm: V
  root: mhr
  stamm: III
@@ -4470,7 +4770,7 @@
 
 -lexeme
  lex: məmhər/mhir
- stem: .m.h.r.|.m.h.rr.
+ stem: .m.h.r.|.m.h.n.
  gramm: V
  root: mhr
  stamm: Ip
@@ -4480,7 +4780,7 @@
 
 -lexeme
  lex: mamhər/mamhalle
- stem: .m.h.r.|.m.h.
+ stem: .m.h.r.|.m.h.l.|.m.h.n.|.m.h.rr.
  gramm: V
  root: mhr
  stamm: III
@@ -4490,7 +4790,7 @@
 
 -lexeme
  lex: məmhər/mhir
- stem: .m.h.r.|.m.h.rr.
+ stem: .m.h.r.|.m.h.n.
  gramm: V
  root: mhr
  stamm: Ip
@@ -4499,8 +4799,8 @@
  trans_en: to seal; to choose (Ip)
 
 -lexeme
- lex: mame/mamḥele
- stem: .m.ḥ.
+ lex: mamḥe/mamḥele
+ stem: .m.ḥ.y.|.m.ḥ.
  gramm: V
  root: mḥy
  stamm: III
@@ -4510,7 +4810,7 @@
 
 -lexeme
  lex: məmḥe/mḥe
- stem: .m.ḥ.
+ stem: .m.ḥ.y.|.m.ḥ.
  gramm: V
  root: mḥy
  stamm: Ip
@@ -4530,7 +4830,7 @@
 
 -lexeme
  lex: məmlək/mlik
- stem: .m.l.k.|.m.l.kk.
+ stem: .m.l.k.
  gramm: V
  root: mlk
  stamm: Ip
@@ -4550,7 +4850,7 @@
 
 -lexeme
  lex: məmləs/mlis
- stem: .m.l.s.|.m.l.ss.
+ stem: .m.l.s.
  gramm: V
  root: mls
  stamm: Ip
@@ -4570,7 +4870,7 @@
 
 -lexeme
  lex: məmləx/mlix
- stem: .m.l.x.|.m.l.xx.
+ stem: .m.l.x.
  gramm: V
  root: mlx
  stamm: Ip
@@ -4579,8 +4879,8 @@
  trans_en: to rule (Ip)
 
 -lexeme
- lex: mame/mamlele
- stem: .m.l.
+ lex: mamle/mamlele
+ stem: .m.l.y.|.m.l.
  gramm: V
  root: mly
  stamm: III
@@ -4590,7 +4890,7 @@
 
 -lexeme
  lex: məmle/mle
- stem: .m.l.
+ stem: .m.l.y.|.m.l.
  gramm: V
  root: mly
  stamm: Ip
@@ -4610,7 +4910,7 @@
 
 -lexeme
  lex: məmrəd/mrid
- stem: .m.r.d.|.m.r.dd.
+ stem: .m.r.d.
  gramm: V
  root: mrd
  stamm: Ip
@@ -4630,7 +4930,7 @@
 
 -lexeme
  lex: məmrəs/mris
- stem: .m.r.s.|.m.r.ss.
+ stem: .m.r.s.
  gramm: V
  root: mrs
  stamm: Ip
@@ -4650,7 +4950,7 @@
 
 -lexeme
  lex: məmsək/msik
- stem: .m.s.k.|.m.s.kk.
+ stem: .m.s.k.
  gramm: V
  root: msk
  stamm: Ip
@@ -4670,7 +4970,7 @@
 
 -lexeme
  lex: məmšəḥ/mšiḥ
- stem: .m.š.ḥ.|.m.š.ḥḥ.
+ stem: .m.š.ḥ.
  gramm: V
  root: mšḥ
  stamm: Ip
@@ -4690,7 +4990,7 @@
 
 -lexeme
  lex: məmšəy/mšiy
- stem: .m.š.y.|.m.š.yy.
+ stem: .m.š.y.
  gramm: V
  root: mšy
  stamm: Ip
@@ -4699,8 +4999,8 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: mame/mamṭele
- stem: .m.ṭ.
+ lex: mamṭe/mamṭele
+ stem: .m.ṭ.y.|.m.ṭ.
  gramm: V
  root: mṭy
  stamm: III
@@ -4710,7 +5010,7 @@
 
 -lexeme
  lex: məmṭe/mṭe
- stem: .m.ṭ.
+ stem: .m.ṭ.y.|.m.ṭ.
  gramm: V
  root: mṭy
  stamm: Ip
@@ -4719,8 +5019,8 @@
  trans_en: to reach smth. or smb. (l-); to become ripe (Ip)
 
 -lexeme
- lex: mame/mamṭele
- stem: .m.ṭ.
+ lex: mamṭe/mamṭele
+ stem: .m.ṭ.y.|.m.ṭ.
  gramm: V
  root: mṭy
  stamm: III
@@ -4730,7 +5030,7 @@
 
 -lexeme
  lex: məmṭe/mṭe
- stem: .m.ṭ.
+ stem: .m.ṭ.y.|.m.ṭ.
  gramm: V
  root: mṭy
  stamm: Ip
@@ -4739,8 +5039,8 @@
  trans_en: to bring; to get a wife, to marry (Ip)
 
 -lexeme
- lex: mame/mamxele
- stem: .m.x.
+ lex: mamxe/mamxele
+ stem: .m.x.y.|.m.x.
  gramm: V
  root: mxy
  stamm: III
@@ -4750,7 +5050,7 @@
 
 -lexeme
  lex: məmxe/mxe
- stem: .m.x.
+ stem: .m.x.y.|.m.x.
  gramm: V
  root: mxy
  stamm: Ip
@@ -4760,7 +5060,7 @@
 
 -lexeme
  lex: maməʕ/maməʕle
- stem: .m.y.|.m.ʕ.
+ stem: .m.ʕ.|.m.ʕʕ.
  gramm: V
  root: myʕ
  stamm: III
@@ -4769,7 +5069,7 @@
  trans_en: to churn butter (III)
 
 -lexeme
- lex: məməʕ/miʕ
+ lex: miməʕ/miʕ
  stem: .m.ʕ.
  gramm: V
  root: myʕ
@@ -4780,7 +5080,7 @@
 
 -lexeme
  lex: maməd/mamədle
- stem: .m.y.|.m.d.
+ stem: .m.d.|.m.dd.
  gramm: V
  root: myd
  stamm: III
@@ -4789,7 +5089,7 @@
  trans_en: to take smth. or smb. (l-) (III)
 
 -lexeme
- lex: məməd/mid
+ lex: miməd/mid
  stem: .m.d.
  gramm: V
  root: myd
@@ -4800,7 +5100,7 @@
 
 -lexeme
  lex: mamər/maməlle
- stem: .m.r.|.m.
+ stem: .m.r.|.m.l.|.m.n.|.m.rr.
  gramm: V
  root: myr
  stamm: III
@@ -4809,8 +5109,8 @@
  trans_en: to become bitter; to become intoxicated (III)
 
 -lexeme
- lex: məmər/mir
- stem: .m.r.
+ lex: mimər/mir
+ stem: .m.r.|.m.n.
  gramm: V
  root: myr
  stamm: Ip
@@ -4820,7 +5120,7 @@
 
 -lexeme
  lex: maməṣ/maməṣle
- stem: .m.y.|.m.ṣ.
+ stem: .m.ṣ.|.m.ṣṣ.
  gramm: V
  root: myṣ
  stamm: III
@@ -4829,7 +5129,7 @@
  trans_en: to suck (III)
 
 -lexeme
- lex: məməṣ/miṣ
+ lex: miməṣ/miṣ
  stem: .m.ṣ.
  gramm: V
  root: myṣ
@@ -4840,7 +5140,7 @@
 
 -lexeme
  lex: maməṯ/maməṯle
- stem: .m.y.|.m.ṯ.
+ stem: .m.ṯ.|.m.ṯṯ.
  gramm: V
  root: myṯ
  stamm: III
@@ -4849,7 +5149,7 @@
  trans_en: to die (III)
 
 -lexeme
- lex: məməṯ/miṯ
+ lex: miməṯ/miṯ
  stem: .m.ṯ.
  gramm: V
  root: myṯ
@@ -4870,7 +5170,7 @@
 
 -lexeme
  lex: məmžəd/mžid
- stem: .m.ž.d.|.m.ž.dd.
+ stem: .m.ž.d.
  gramm: V
  root: mžd
  stamm: Ip
@@ -4890,7 +5190,7 @@
 
 -lexeme
  lex: mənʕəs/nʕis
- stem: .n.ʕ.s.|.n.ʕ.ss.
+ stem: .n.ʕ.s.
  gramm: V
  root: nʕs
  stamm: Ip
@@ -4900,7 +5200,7 @@
 
 -lexeme
  lex: manḏər/manḏalle
- stem: .n.ḏ.r.|.n.ḏ.
+ stem: .n.ḏ.r.|.n.ḏ.l.|.n.ḏ.n.|.n.ḏ.rr.
  gramm: V
  root: nḏr
  stamm: III
@@ -4910,13 +5210,53 @@
 
 -lexeme
  lex: mənḏər/nḏir
- stem: .n.ḏ.r.|.n.ḏ.rr.
+ stem: .n.ḏ.r.|.n.ḏ.n.
  gramm: V
  root: nḏr
  stamm: Ip
  paradigm: V_Ip_3r
  trans_de: [?] (Ip)
  trans_en: to vow (Ip)
+
+-lexeme
+ lex: manḏə̣/manḏạle
+ stem: .n.ḏ.̣.|.n.ḏ.̣̣.
+ gramm: V
+ root: nḏ̣f
+ stamm: III
+ paradigm: V_III
+ trans_de: sauber werden (III)
+ trans_en: to become clean (III)
+
+-lexeme
+ lex: mənḏə̣/nḏị
+ stem: .n.ḏ.̣.
+ gramm: V
+ root: nḏ̣f
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: sauber werden (Ip)
+ trans_en: to become clean (Ip)
+
+-lexeme
+ lex: manḏə̣/manḏalle
+ stem: .n.ḏ.̣.|.n.ḏ.l.|.n.ḏ.n.|.n.ḏ.̣̣.
+ gramm: V
+ root: nḏ̣r
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: erblicken, sehen, anschauen (III)
+ trans_en: to look (III)
+
+-lexeme
+ lex: mənḏə̣/nḏị
+ stem: .n.ḏ.̣.|.n.ḏ.n.
+ gramm: V
+ root: nḏ̣r
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: erblicken, sehen, anschauen (Ip)
+ trans_en: to look (Ip)
 
 -lexeme
  lex: manfəḥ/manfaḥle
@@ -4930,7 +5270,7 @@
 
 -lexeme
  lex: mənfəḥ/nfiḥ
- stem: .n.f.ḥ.|.n.f.ḥḥ.
+ stem: .n.f.ḥ.
  gramm: V
  root: nfḥ
  stamm: Ip
@@ -4940,7 +5280,7 @@
 
 -lexeme
  lex: manfəl/manfele
- stem: .n.f.
+ stem: .n.f.l.|.n.f.
  gramm: V
  root: nfl
  stamm: III
@@ -4950,7 +5290,7 @@
 
 -lexeme
  lex: mənfəl/nfil
- stem: .n.f.l.|.n.f.ll.
+ stem: .n.f.l.|.n.f.n.
  gramm: V
  root: nfl
  stamm: Ip
@@ -4970,7 +5310,7 @@
 
 -lexeme
  lex: mənfəq/nfiq
- stem: .n.f.q.|.n.f.qq.
+ stem: .n.f.q.
  gramm: V
  root: nfq
  stamm: Ip
@@ -4990,7 +5330,7 @@
 
 -lexeme
  lex: mənfəṣ/nfiṣ
- stem: .n.f.ṣ.|.n.f.ṣṣ.
+ stem: .n.f.ṣ.
  gramm: V
  root: nfṣ
  stamm: Ip
@@ -5010,7 +5350,7 @@
 
 -lexeme
  lex: mənǧəf/nǧif
- stem: .n.ǧ.f.|.n.ǧ.ff.
+ stem: .n.ǧ.f.
  gramm: V
  root: nǧf
  stamm: Ip
@@ -5030,7 +5370,7 @@
 
 -lexeme
  lex: mənǧəḥ/nǧiḥ
- stem: .n.ǧ.ḥ.|.n.ǧ.ḥḥ.
+ stem: .n.ǧ.ḥ.
  gramm: V
  root: nǧḥ
  stamm: Ip
@@ -5040,7 +5380,7 @@
 
 -lexeme
  lex: manǧəl/manǧele
- stem: .n.ǧ.
+ stem: .n.ǧ.l.|.n.ǧ.
  gramm: V
  root: nǧl
  stamm: III
@@ -5050,7 +5390,7 @@
 
 -lexeme
  lex: mənǧəl/nǧil
- stem: .n.ǧ.l.|.n.ǧ.ll.
+ stem: .n.ǧ.l.|.n.ǧ.n.
  gramm: V
  root: nǧl
  stamm: Ip
@@ -5060,7 +5400,7 @@
 
 -lexeme
  lex: manǧər/manǧalle
- stem: .n.ǧ.r.|.n.ǧ.
+ stem: .n.ǧ.r.|.n.ǧ.l.|.n.ǧ.n.|.n.ǧ.rr.
  gramm: V
  root: nǧr
  stamm: III
@@ -5070,7 +5410,7 @@
 
 -lexeme
  lex: mənǧər/nǧir
- stem: .n.ǧ.r.|.n.ǧ.rr.
+ stem: .n.ǧ.r.|.n.ǧ.n.
  gramm: V
  root: nǧr
  stamm: Ip
@@ -5090,7 +5430,7 @@
 
 -lexeme
  lex: mənhəm/nhim
- stem: .n.h.m.|.n.h.mm.
+ stem: .n.h.m.
  gramm: V
  root: nhm
  stamm: Ip
@@ -5100,7 +5440,7 @@
 
 -lexeme
  lex: manhər/manhalle
- stem: .n.h.r.|.n.h.
+ stem: .n.h.r.|.n.h.l.|.n.h.n.|.n.h.rr.
  gramm: V
  root: nhr
  stamm: III
@@ -5110,7 +5450,7 @@
 
 -lexeme
  lex: mənhər/nhir
- stem: .n.h.r.|.n.h.rr.
+ stem: .n.h.r.|.n.h.n.
  gramm: V
  root: nhr
  stamm: Ip
@@ -5120,7 +5460,7 @@
 
 -lexeme
  lex: manḥəl/manḥele
- stem: .n.ḥ.
+ stem: .n.ḥ.l.|.n.ḥ.
  gramm: V
  root: nḥl
  stamm: III
@@ -5130,7 +5470,7 @@
 
 -lexeme
  lex: mənḥəl/nḥil
- stem: .n.ḥ.l.|.n.ḥ.ll.
+ stem: .n.ḥ.l.|.n.ḥ.n.
  gramm: V
  root: nḥl
  stamm: Ip
@@ -5140,7 +5480,7 @@
 
 -lexeme
  lex: manḥər/manḥalle
- stem: .n.ḥ.r.|.n.ḥ.
+ stem: .n.ḥ.r.|.n.ḥ.l.|.n.ḥ.n.|.n.ḥ.rr.
  gramm: V
  root: nḥr
  stamm: III
@@ -5150,7 +5490,7 @@
 
 -lexeme
  lex: mənḥər/nḥir
- stem: .n.ḥ.r.|.n.ḥ.rr.
+ stem: .n.ḥ.r.|.n.ḥ.n.
  gramm: V
  root: nḥr
  stamm: Ip
@@ -5170,7 +5510,7 @@
 
 -lexeme
  lex: mənḥət/nḥit
- stem: .n.ḥ.t.|.n.ḥ.tt.
+ stem: .n.ḥ.t.
  gramm: V
  root: nḥt
  stamm: Ip
@@ -5190,7 +5530,7 @@
 
 -lexeme
  lex: mənḥət/nḥit
- stem: .n.ḥ.t.|.n.ḥ.tt.
+ stem: .n.ḥ.t.
  gramm: V
  root: nḥt
  stamm: Ip
@@ -5210,7 +5550,7 @@
 
 -lexeme
  lex: mənkət/nkit
- stem: .n.k.t.|.n.k.tt.
+ stem: .n.k.t.
  gramm: V
  root: nkt
  stamm: Ip
@@ -5230,7 +5570,7 @@
 
 -lexeme
  lex: mənqəḥ/nqiḥ
- stem: .n.q.ḥ.|.n.q.ḥḥ.
+ stem: .n.q.ḥ.
  gramm: V
  root: nqḥ
  stamm: Ip
@@ -5240,7 +5580,7 @@
 
 -lexeme
  lex: manqəl/manqele
- stem: .n.q.
+ stem: .n.q.l.|.n.q.
  gramm: V
  root: nql
  stamm: III
@@ -5250,7 +5590,7 @@
 
 -lexeme
  lex: mənqəl/nqil
- stem: .n.q.l.|.n.q.ll.
+ stem: .n.q.l.|.n.q.n.
  gramm: V
  root: nql
  stamm: Ip
@@ -5260,7 +5600,7 @@
 
 -lexeme
  lex: manqər/manqalle
- stem: .n.q.r.|.n.q.
+ stem: .n.q.r.|.n.q.l.|.n.q.n.|.n.q.rr.
  gramm: V
  root: nqr
  stamm: III
@@ -5270,7 +5610,7 @@
 
 -lexeme
  lex: mənqər/nqir
- stem: .n.q.r.|.n.q.rr.
+ stem: .n.q.r.|.n.q.n.
  gramm: V
  root: nqr
  stamm: Ip
@@ -5280,7 +5620,7 @@
 
 -lexeme
  lex: manqər/manqalle
- stem: .n.q.r.|.n.q.
+ stem: .n.q.r.|.n.q.l.|.n.q.n.|.n.q.rr.
  gramm: V
  root: nqr
  stamm: III
@@ -5290,7 +5630,7 @@
 
 -lexeme
  lex: mənqər/nqir
- stem: .n.q.r.|.n.q.rr.
+ stem: .n.q.r.|.n.q.n.
  gramm: V
  root: nqr
  stamm: Ip
@@ -5310,7 +5650,7 @@
 
 -lexeme
  lex: mənqəṣ/nqiṣ
- stem: .n.q.ṣ.|.n.q.ṣṣ.
+ stem: .n.q.ṣ.
  gramm: V
  root: nqṣ
  stamm: Ip
@@ -5330,7 +5670,7 @@
 
 -lexeme
  lex: mənqəš/nqiš
- stem: .n.q.š.|.n.q.šš.
+ stem: .n.q.š.
  gramm: V
  root: nqš
  stamm: Ip
@@ -5350,13 +5690,33 @@
 
 -lexeme
  lex: mənqəṭ/nqiṭ
- stem: .n.q.ṭ.|.n.q.ṭṭ.
+ stem: .n.q.ṭ.
  gramm: V
  root: nqṭ
  stamm: Ip
  paradigm: V_Ip
  trans_de: tropfen (Ip)
  trans_en: to drop; to drip (Ip)
+
+-lexeme
+ lex: manqu/manqule
+ stem: .n.q.w.|.n.q.|.n.q.ww.
+ gramm: V
+ root: nqw
+ stamm: III
+ paradigm: V_III_3w
+ trans_de: durchlöchern (III)
+ trans_en: to pierce (III)
+
+-lexeme
+ lex: mənqu/nqiw
+ stem: .n.q.w.|.n.q.
+ gramm: V
+ root: nqw
+ stamm: Ip
+ paradigm: V_Ip_3w
+ trans_de: durchlöchern (Ip)
+ trans_en: to pierce (Ip)
 
 -lexeme
  lex: manqəz/manqazle
@@ -5370,7 +5730,7 @@
 
 -lexeme
  lex: mənqəz/nqiz
- stem: .n.q.z.|.n.q.zz.
+ stem: .n.q.z.
  gramm: V
  root: nqz
  stamm: Ip
@@ -5390,7 +5750,7 @@
 
 -lexeme
  lex: mənsəf/nsif
- stem: .n.s.f.|.n.s.ff.
+ stem: .n.s.f.
  gramm: V
  root: nsf
  stamm: Ip
@@ -5410,7 +5770,7 @@
 
 -lexeme
  lex: mənṣəb/nṣib
- stem: .n.ṣ.b.|.n.ṣ.bb.
+ stem: .n.ṣ.b.
  gramm: V
  root: nṣb
  stamm: Ip
@@ -5430,7 +5790,7 @@
 
 -lexeme
  lex: mənṣəf/nṣif
- stem: .n.ṣ.f.|.n.ṣ.ff.
+ stem: .n.ṣ.f.
  gramm: V
  root: nṣf
  stamm: Ip
@@ -5440,7 +5800,7 @@
 
 -lexeme
  lex: manṣəl/manṣele
- stem: .n.ṣ.
+ stem: .n.ṣ.l.|.n.ṣ.
  gramm: V
  root: nṣl
  stamm: III
@@ -5450,7 +5810,7 @@
 
 -lexeme
  lex: mənṣəl/nṣil
- stem: .n.ṣ.l.|.n.ṣ.ll.
+ stem: .n.ṣ.l.|.n.ṣ.n.
  gramm: V
  root: nṣl
  stamm: Ip
@@ -5470,7 +5830,7 @@
 
 -lexeme
  lex: mənšəf/nšif
- stem: .n.š.f.|.n.š.ff.
+ stem: .n.š.f.
  gramm: V
  root: nšf
  stamm: Ip
@@ -5490,7 +5850,7 @@
 
 -lexeme
  lex: mənšəm/nšim
- stem: .n.š.m.|.n.š.mm.
+ stem: .n.š.m.
  gramm: V
  root: nšm
  stamm: Ip
@@ -5510,7 +5870,7 @@
 
 -lexeme
  lex: mənšəq/nšiq
- stem: .n.š.q.|.n.š.qq.
+ stem: .n.š.q.
  gramm: V
  root: nšq
  stamm: Ip
@@ -5520,7 +5880,7 @@
 
 -lexeme
  lex: manšər/manšalle
- stem: .n.š.r.|.n.š.
+ stem: .n.š.r.|.n.š.l.|.n.š.n.|.n.š.rr.
  gramm: V
  root: nšr
  stamm: III
@@ -5530,7 +5890,7 @@
 
 -lexeme
  lex: mənšər/nšir
- stem: .n.š.r.|.n.š.rr.
+ stem: .n.š.r.|.n.š.n.
  gramm: V
  root: nšr
  stamm: Ip
@@ -5550,7 +5910,7 @@
 
 -lexeme
  lex: məntən/ntin
- stem: .n.t.n.|.n.t.nn.
+ stem: .n.t.n.
  gramm: V
  root: ntn
  stamm: Ip
@@ -5560,7 +5920,7 @@
 
 -lexeme
  lex: mantər/mantalle
- stem: .n.t.r.|.n.t.
+ stem: .n.t.r.|.n.t.l.|.n.t.n.|.n.t.rr.
  gramm: V
  root: ntr
  stamm: III
@@ -5570,7 +5930,7 @@
 
 -lexeme
  lex: məntər/ntir
- stem: .n.t.r.|.n.t.rr.
+ stem: .n.t.r.|.n.t.n.
  gramm: V
  root: ntr
  stamm: Ip
@@ -5590,7 +5950,7 @@
 
 -lexeme
  lex: məntəš/ntiš
- stem: .n.t.š.|.n.t.šš.
+ stem: .n.t.š.
  gramm: V
  root: ntš
  stamm: Ip
@@ -5600,7 +5960,7 @@
 
 -lexeme
  lex: manṭər/manṭalle
- stem: .n.ṭ.r.|.n.ṭ.
+ stem: .n.ṭ.r.|.n.ṭ.l.|.n.ṭ.n.|.n.ṭ.rr.
  gramm: V
  root: nṭr
  stamm: III
@@ -5610,7 +5970,7 @@
 
 -lexeme
  lex: mənṭər/nṭir
- stem: .n.ṭ.r.|.n.ṭ.rr.
+ stem: .n.ṭ.r.|.n.ṭ.n.
  gramm: V
  root: nṭr
  stamm: Ip
@@ -5630,7 +5990,7 @@
 
 -lexeme
  lex: mənṯər/nṯir
- stem: .n.ṯ.r.|.n.ṯ.rr.
+ stem: .n.ṯ.r.
  gramm: V
  root: nṯr
  stamm: Ip
@@ -5650,7 +6010,7 @@
 
 -lexeme
  lex: mənwəḥ/nwiḥ
- stem: .n.w.ḥ.|.n.w.ḥḥ.
+ stem: .n.w.ḥ.
  gramm: V
  root: nwḥ
  stamm: Ip
@@ -5670,7 +6030,7 @@
 
 -lexeme
  lex: mənwəḥ/nwiḥ
- stem: .n.w.ḥ.|.n.w.ḥḥ.
+ stem: .n.w.ḥ.
  gramm: V
  root: nwḥ
  stamm: Ip
@@ -5690,7 +6050,7 @@
 
 -lexeme
  lex: mənwəṣ/nwiṣ
- stem: .n.w.ṣ.|.n.w.ṣṣ.
+ stem: .n.w.ṣ.
  gramm: V
  root: nwṣ
  stamm: Ip
@@ -5710,7 +6070,7 @@
 
 -lexeme
  lex: mənxəš/nxiš
- stem: .n.x.š.|.n.x.šš.
+ stem: .n.x.š.
  gramm: V
  root: nxš
  stamm: Ip
@@ -5720,7 +6080,7 @@
 
 -lexeme
  lex: manəḥ/manəḥle
- stem: .n.y.|.n.ḥ.
+ stem: .n.ḥ.|.n.ḥḥ.
  gramm: V
  root: nyḥ
  stamm: III
@@ -5729,7 +6089,7 @@
  trans_en: to heal (intr.); to get well (III)
 
 -lexeme
- lex: mənəḥ/niḥ
+ lex: minəḥ/niḥ
  stem: .n.ḥ.
  gramm: V
  root: nyḥ
@@ -5740,7 +6100,7 @@
 
 -lexeme
  lex: manək/manəkle
- stem: .n.y.|.n.k.
+ stem: .n.k.|.n.kk.
  gramm: V
  root: nyk
  stamm: III
@@ -5749,7 +6109,7 @@
  trans_en: to copulate with (III)
 
 -lexeme
- lex: mənək/nik
+ lex: minək/nik
  stem: .n.k.
  gramm: V
  root: nyk
@@ -5760,7 +6120,7 @@
 
 -lexeme
  lex: manəs/manəsle
- stem: .n.y.|.n.s.
+ stem: .n.s.|.n.ss.
  gramm: V
  root: nys
  stamm: III
@@ -5769,7 +6129,7 @@
  trans_en: to become sleepy (III)
 
 -lexeme
- lex: mənəs/nis
+ lex: minəs/nis
  stem: .n.s.
  gramm: V
  root: nys
@@ -5780,7 +6140,7 @@
 
 -lexeme
  lex: manəṭ/manəṭle
- stem: .n.y.|.n.ṭ.
+ stem: .n.ṭ.|.n.ṭṭ.
  gramm: V
  root: nyṭ
  stamm: III
@@ -5789,7 +6149,7 @@
  trans_en:  (III)
 
 -lexeme
- lex: mənəṭ/niṭ
+ lex: minəṭ/niṭ
  stem: .n.ṭ.
  gramm: V
  root: nyṭ
@@ -5800,7 +6160,7 @@
 
 -lexeme
  lex: manzər/manzalle
- stem: .n.z.r.|.n.z.
+ stem: .n.z.r.|.n.z.l.|.n.z.n.|.n.z.rr.
  gramm: V
  root: nzr
  stamm: III
@@ -5810,7 +6170,7 @@
 
 -lexeme
  lex: mənzər/nzir
- stem: .n.z.r.|.n.z.rr.
+ stem: .n.z.r.|.n.z.n.
  gramm: V
  root: nzr
  stamm: Ip
@@ -5830,13 +6190,53 @@
 
 -lexeme
  lex: məpčəq/pčiq
- stem: .p.č.q.|.p.č.qq.
+ stem: .p.č.q.
  gramm: V
  root: pčq
  stamm: Ip
  paradigm: V_Ip
  trans_de: zerquetschen, zermalmen (Ip)
  trans_en: to crush (Ip)
+
+-lexeme
+ lex: maprəp/mapraple
+ stem: .p.r.p.|.p.r.pp.
+ gramm: V
+ root: prpṭ
+ stamm: III
+ paradigm: V_III
+ trans_de: zerfetzen, zerreissen, (ruḥe) zappeln beim Geschlachtet werden (Vogel, z.B. Hahn), (fig.) Lügen erzählen, aufschneiden (wenn einer z.B. behauptet, er habe einen 20m langen Fisch gesehen) (III)
+ trans_en: to shred (III)
+
+-lexeme
+ lex: məprəp/prip
+ stem: .p.r.p.
+ gramm: V
+ root: prpṭ
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: zerfetzen, zerreissen, (ruḥe) zappeln beim Geschlachtet werden (Vogel, z.B. Hahn), (fig.) Lügen erzählen, aufschneiden (wenn einer z.B. behauptet, er habe einen 20m langen Fisch gesehen) (Ip)
+ trans_en: to shred (Ip)
+
+-lexeme
+ lex: maprəp/mapraple
+ stem: .p.r.p.|.p.r.pp.
+ gramm: V
+ root: prpx
+ stamm: III
+ paradigm: V_III
+ trans_de: zertrümmen (III)
+ trans_en: [?] (III)
+
+-lexeme
+ lex: məprəp/prip
+ stem: .p.r.p.
+ gramm: V
+ root: prpx
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: zertrümmen (Ip)
+ trans_en: [?] (Ip)
 
 -lexeme
  lex: maprəṭ/mapraṭle
@@ -5850,7 +6250,7 @@
 
 -lexeme
  lex: məprəṭ/priṭ
- stem: .p.r.ṭ.|.p.r.ṭṭ.
+ stem: .p.r.ṭ.
  gramm: V
  root: prṭ
  stamm: Ip
@@ -5870,7 +6270,7 @@
 
 -lexeme
  lex: məpšəṭ/pšiṭ
- stem: .p.š.ṭ.|.p.š.ṭṭ.
+ stem: .p.š.ṭ.
  gramm: V
  root: pšṭ
  stamm: Ip
@@ -5880,7 +6280,7 @@
 
 -lexeme
  lex: mapəč/mapəčle
- stem: .p.y.|.p.č.
+ stem: .p.č.|.p.čč.
  gramm: V
  root: pyč
  stamm: III
@@ -5889,7 +6289,7 @@
  trans_en: to empty (III)
 
 -lexeme
- lex: məpəč/pič
+ lex: mipəč/pič
  stem: .p.č.
  gramm: V
  root: pyč
@@ -5910,7 +6310,7 @@
 
 -lexeme
  lex: məqbəz/qbiz
- stem: .q.b.z.|.q.b.zz.
+ stem: .q.b.z.
  gramm: V
  root: qbz
  stamm: Ip
@@ -5930,7 +6330,7 @@
 
 -lexeme
  lex: məqdəḥ/qdiḥ
- stem: .q.d.ḥ.|.q.d.ḥḥ.
+ stem: .q.d.ḥ.
  gramm: V
  root: qdḥ
  stamm: Ip
@@ -5950,7 +6350,7 @@
 
 -lexeme
  lex: məqdər/qdir
- stem: .q.d.r.|.q.d.rr.
+ stem: .q.d.r.
  gramm: V
  root: qdr
  stamm: Ip
@@ -5970,7 +6370,7 @@
 
 -lexeme
  lex: məqḏəḥ/qḏiḥ
- stem: .q.ḏ.ḥ.|.q.ḏ.ḥḥ.
+ stem: .q.ḏ.ḥ.
  gramm: V
  root: qḏḥ
  stamm: Ip
@@ -5979,8 +6379,28 @@
  trans_en: to be turned on; to ligh; to be ignited (Ip)
 
 -lexeme
+ lex: maqḏe/maqḏele
+ stem: .q.ḏ.̣.|.q.ḏ.
+ gramm: V
+ root: qḏ̣y
+ stamm: III
+ paradigm: V_III_3y
+ trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden (III)
+ trans_en: to come to an end; to be finished; to pass (III)
+
+-lexeme
+ lex: məqḏe/qḏe
+ stem: .q.ḏ.̣.|.q.ḏ.
+ gramm: V
+ root: qḏ̣y
+ stamm: Ip
+ paradigm: V_Ip_3y
+ trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden (Ip)
+ trans_en: to come to an end; to be finished; to pass (Ip)
+
+-lexeme
  lex: maqfəl/maqfele
- stem: .q.f.
+ stem: .q.f.l.|.q.f.
  gramm: V
  root: qfl
  stamm: III
@@ -5990,7 +6410,7 @@
 
 -lexeme
  lex: məqfəl/qfil
- stem: .q.f.l.|.q.f.ll.
+ stem: .q.f.l.|.q.f.n.
  gramm: V
  root: qfl
  stamm: Ip
@@ -6000,7 +6420,7 @@
 
 -lexeme
  lex: maqḥəl/maqḥele
- stem: .q.ḥ.
+ stem: .q.ḥ.l.|.q.ḥ.
  gramm: V
  root: qḥl
  stamm: III
@@ -6010,7 +6430,7 @@
 
 -lexeme
  lex: məqḥəl/qḥil
- stem: .q.ḥ.l.|.q.ḥ.ll.
+ stem: .q.ḥ.l.|.q.ḥ.n.
  gramm: V
  root: qḥl
  stamm: Ip
@@ -6020,7 +6440,7 @@
 
 -lexeme
  lex: maqḥər/maqḥalle
- stem: .q.ḥ.r.|.q.ḥ.
+ stem: .q.ḥ.r.|.q.ḥ.l.|.q.ḥ.n.|.q.ḥ.rr.
  gramm: V
  root: qḥr
  stamm: III
@@ -6030,7 +6450,7 @@
 
 -lexeme
  lex: məqḥər/qḥir
- stem: .q.ḥ.r.|.q.ḥ.rr.
+ stem: .q.ḥ.r.|.q.ḥ.n.
  gramm: V
  root: qḥr
  stamm: Ip
@@ -6050,7 +6470,7 @@
 
 -lexeme
  lex: məqləʕ/qliʕ
- stem: .q.l.ʕ.|.q.l.ʕʕ.
+ stem: .q.l.ʕ.
  gramm: V
  root: qlʕ
  stamm: Ip
@@ -6070,7 +6490,7 @@
 
 -lexeme
  lex: məqləʕ/qliʕ
- stem: .q.l.ʕ.|.q.l.ʕʕ.
+ stem: .q.l.ʕ.
  gramm: V
  root: qlʕ
  stamm: Ip
@@ -6090,7 +6510,7 @@
 
 -lexeme
  lex: məqləb/qlib
- stem: .q.l.b.|.q.l.bb.
+ stem: .q.l.b.
  gramm: V
  root: qlb
  stamm: Ip
@@ -6100,7 +6520,7 @@
 
 -lexeme
  lex: maqmər/maqmalle
- stem: .q.m.r.|.q.m.
+ stem: .q.m.r.|.q.m.l.|.q.m.n.|.q.m.rr.
  gramm: V
  root: qmr
  stamm: III
@@ -6110,7 +6530,7 @@
 
 -lexeme
  lex: məqmər/qmir
- stem: .q.m.r.|.q.m.rr.
+ stem: .q.m.r.|.q.m.n.
  gramm: V
  root: qmr
  stamm: Ip
@@ -6130,7 +6550,7 @@
 
 -lexeme
  lex: məqnəʕ/qniʕ
- stem: .q.n.ʕ.|.q.n.ʕʕ.
+ stem: .q.n.ʕ.
  gramm: V
  root: qnʕ
  stamm: Ip
@@ -6150,13 +6570,33 @@
 
 -lexeme
  lex: məqpəč/qpič
- stem: .q.p.č.|.q.p.čč.
+ stem: .q.p.č.
  gramm: V
  root: qpč
  stamm: Ip
  paradigm: V_Ip
  trans_de: 1) schnell packen; 2) nehmen und nicht geben (Ip)
  trans_en: to grab quickly (Ip)
+
+-lexeme
+ lex: maqrəf/maqrafle
+ stem: .q.r.f.|.q.r.ff.
+ gramm: V
+ root: qrfs
+ stamm: III
+ paradigm: V_III
+ trans_de: eine Pflanze so ausreissen, dass die Wurzel stecken bleibt, (fig.) abschneiden, ruinieren (III)
+ trans_en: to ruin (III)
+
+-lexeme
+ lex: məqrəf/qrif
+ stem: .q.r.f.
+ gramm: V
+ root: qrfs
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: eine Pflanze so ausreissen, dass die Wurzel stecken bleibt, (fig.) abschneiden, ruinieren (Ip)
+ trans_en: to ruin (Ip)
 
 -lexeme
  lex: maqrəm/maqramle
@@ -6170,7 +6610,7 @@
 
 -lexeme
  lex: məqrəm/qrim
- stem: .q.r.m.|.q.r.mm.
+ stem: .q.r.m.
  gramm: V
  root: qrm
  stamm: Ip
@@ -6190,7 +6630,7 @@
 
 -lexeme
  lex: məqrəs/qris
- stem: .q.r.s.|.q.r.ss.
+ stem: .q.r.s.
  gramm: V
  root: qrs
  stamm: Ip
@@ -6210,7 +6650,7 @@
 
 -lexeme
  lex: məqrəṣ/qriṣ
- stem: .q.r.ṣ.|.q.r.ṣṣ.
+ stem: .q.r.ṣ.
  gramm: V
  root: qrṣ
  stamm: Ip
@@ -6230,7 +6670,7 @@
 
 -lexeme
  lex: məqrəš/qriš
- stem: .q.r.š.|.q.r.šš.
+ stem: .q.r.š.
  gramm: V
  root: qrš
  stamm: Ip
@@ -6250,7 +6690,7 @@
 
 -lexeme
  lex: məqrəš/qriš
- stem: .q.r.š.|.q.r.šš.
+ stem: .q.r.š.
  gramm: V
  root: qrš
  stamm: Ip
@@ -6270,7 +6710,7 @@
 
 -lexeme
  lex: məqrəṭ/qriṭ
- stem: .q.r.ṭ.|.q.r.ṭṭ.
+ stem: .q.r.ṭ.
  gramm: V
  root: qrṭ
  stamm: Ip
@@ -6279,8 +6719,8 @@
  trans_en: to grind (teeth) (Ip)
 
 -lexeme
- lex: maqru/maqrawle
- stem: .q.r.|.q.r.w.
+ lex: maqru/maqrule
+ stem: .q.r.w.|.q.r.|.q.r.ww.
  gramm: V
  root: qrw
  stamm: III
@@ -6290,7 +6730,7 @@
 
 -lexeme
  lex: məqru/qriw
- stem: .q.r.|.q.r.w.
+ stem: .q.r.w.|.q.r.
  gramm: V
  root: qrw
  stamm: Ip
@@ -6299,8 +6739,8 @@
  trans_en: to come close to (l-) smb.; to approach smb. (l-) (Ip)
 
 -lexeme
- lex: maqe/maqrele
- stem: .q.r.
+ lex: maqre/maqrele
+ stem: .q.r.y.|.q.r.
  gramm: V
  root: qry
  stamm: III
@@ -6310,7 +6750,7 @@
 
 -lexeme
  lex: məqre/qre
- stem: .q.r.
+ stem: .q.r.y.|.q.r.
  gramm: V
  root: qry
  stamm: Ip
@@ -6330,7 +6770,7 @@
 
 -lexeme
  lex: məqsəm/qsim
- stem: .q.s.m.|.q.s.mm.
+ stem: .q.s.m.
  gramm: V
  root: qsm
  stamm: Ip
@@ -6350,7 +6790,7 @@
 
 -lexeme
  lex: məqṣəd/qṣid
- stem: .q.ṣ.d.|.q.ṣ.dd.
+ stem: .q.ṣ.d.
  gramm: V
  root: qṣd
  stamm: Ip
@@ -6370,7 +6810,7 @@
 
 -lexeme
  lex: məqṣəf/qṣif
- stem: .q.ṣ.f.|.q.ṣ.ff.
+ stem: .q.ṣ.f.
  gramm: V
  root: qṣf
  stamm: Ip
@@ -6390,7 +6830,7 @@
 
 -lexeme
  lex: məqṣəl/qṣil
- stem: .q.ṣ.l.|.q.ṣ.ll.
+ stem: .q.ṣ.l.
  gramm: V
  root: qṣl
  stamm: Ip
@@ -6400,7 +6840,7 @@
 
 -lexeme
  lex: maqṣər/maqṣalle
- stem: .q.ṣ.r.|.q.ṣ.
+ stem: .q.ṣ.r.|.q.ṣ.l.|.q.ṣ.n.|.q.ṣ.rr.
  gramm: V
  root: qṣr
  stamm: III
@@ -6410,7 +6850,7 @@
 
 -lexeme
  lex: məqṣər/qṣir
- stem: .q.ṣ.r.|.q.ṣ.rr.
+ stem: .q.ṣ.r.|.q.ṣ.n.
  gramm: V
  root: qṣr
  stamm: Ip
@@ -6419,8 +6859,8 @@
  trans_en: to wash (Ip)
 
 -lexeme
- lex: maqe/maqṣele
- stem: .q.ṣ.
+ lex: maqṣe/maqṣele
+ stem: .q.ṣ.y.|.q.ṣ.
  gramm: V
  root: qṣy
  stamm: III
@@ -6430,7 +6870,7 @@
 
 -lexeme
  lex: məqṣe/qṣe
- stem: .q.ṣ.
+ stem: .q.ṣ.y.|.q.ṣ.
  gramm: V
  root: qṣy
  stamm: Ip
@@ -6450,7 +6890,7 @@
 
 -lexeme
  lex: məqšəʕ/qšiʕ
- stem: .q.š.ʕ.|.q.š.ʕʕ.
+ stem: .q.š.ʕ.
  gramm: V
  root: qšʕ
  stamm: Ip
@@ -6459,8 +6899,28 @@
  trans_en: to knock out; to remove; to destroy, to exterminate (Ip)
 
 -lexeme
- lex: maqe/maqšele
- stem: .q.š.
+ lex: maqšəm/maqšalle
+ stem: .q.š.m.|.q.š.l.|.q.š.n.|.q.š.mm.
+ gramm: V
+ root: qšmr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: sich lustig machen über, zum Narren halten (ʕal, b-) (III)
+ trans_en: to make fun of (ʕal, b-) smb.; to fool smb. (ʕal, b-) (III)
+
+-lexeme
+ lex: məqšəm/qšim
+ stem: .q.š.m.|.q.š.n.
+ gramm: V
+ root: qšmr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: sich lustig machen über, zum Narren halten (ʕal, b-) (Ip)
+ trans_en: to make fun of (ʕal, b-) smb.; to fool smb. (ʕal, b-) (Ip)
+
+-lexeme
+ lex: maqše/maqšele
+ stem: .q.š.y.|.q.š.
  gramm: V
  root: qšy
  stamm: III
@@ -6470,7 +6930,7 @@
 
 -lexeme
  lex: məqše/qše
- stem: .q.š.
+ stem: .q.š.y.|.q.š.
  gramm: V
  root: qšy
  stamm: Ip
@@ -6490,7 +6950,7 @@
 
 -lexeme
  lex: məqṭəʕ/qṭiʕ
- stem: .q.ṭ.ʕ.|.q.ṭ.ʕʕ.
+ stem: .q.ṭ.ʕ.
  gramm: V
  root: qṭʕ
  stamm: Ip
@@ -6510,7 +6970,7 @@
 
 -lexeme
  lex: məqṭəʕ/qṭiʕ
- stem: .q.ṭ.ʕ.|.q.ṭ.ʕʕ.
+ stem: .q.ṭ.ʕ.
  gramm: V
  root: qṭʕ
  stamm: Ip
@@ -6530,7 +6990,7 @@
 
 -lexeme
  lex: məqṭəf/qṭif
- stem: .q.ṭ.f.|.q.ṭ.ff.
+ stem: .q.ṭ.f.
  gramm: V
  root: qṭf
  stamm: Ip
@@ -6540,7 +7000,7 @@
 
 -lexeme
  lex: maqṭəl/maqṭele
- stem: .q.ṭ.
+ stem: .q.ṭ.l.|.q.ṭ.
  gramm: V
  root: qṭl
  stamm: III
@@ -6550,7 +7010,7 @@
 
 -lexeme
  lex: məqṭəl/qṭil
- stem: .q.ṭ.l.|.q.ṭ.ll.
+ stem: .q.ṭ.l.|.q.ṭ.n.
  gramm: V
  root: qṭl
  stamm: Ip
@@ -6560,7 +7020,7 @@
 
 -lexeme
  lex: maqṭər/maqṭalle
- stem: .q.ṭ.r.|.q.ṭ.
+ stem: .q.ṭ.r.|.q.ṭ.l.|.q.ṭ.n.|.q.ṭ.rr.
  gramm: V
  root: qṭr
  stamm: III
@@ -6570,7 +7030,7 @@
 
 -lexeme
  lex: məqṭər/qṭir
- stem: .q.ṭ.r.|.q.ṭ.rr.
+ stem: .q.ṭ.r.|.q.ṭ.n.
  gramm: V
  root: qṭr
  stamm: Ip
@@ -6580,7 +7040,7 @@
 
 -lexeme
  lex: maqṭər/maqṭalle
- stem: .q.ṭ.r.|.q.ṭ.
+ stem: .q.ṭ.r.|.q.ṭ.l.|.q.ṭ.n.|.q.ṭ.rr.
  gramm: V
  root: qṭr
  stamm: III
@@ -6590,7 +7050,7 @@
 
 -lexeme
  lex: məqṭər/qṭir
- stem: .q.ṭ.r.|.q.ṭ.rr.
+ stem: .q.ṭ.r.|.q.ṭ.n.
  gramm: V
  root: qṭr
  stamm: Ip
@@ -6610,7 +7070,7 @@
 
 -lexeme
  lex: məqṭəṣ/qṭiṣ
- stem: .q.ṭ.ṣ.|.q.ṭ.ṣṣ.
+ stem: .q.ṭ.ṣ.
  gramm: V
  root: qṭṣ
  stamm: Ip
@@ -6619,8 +7079,8 @@
  trans_en: to become long (shadows) (Ip)
 
 -lexeme
- lex: maqwəl/maqwalle
- stem: .q.w.l.|.q.w.ll.
+ lex: maqwəl/maqwele
+ stem: .q.w.l.|.q.w.
  gramm: V
  root: qwl
  stamm: III
@@ -6630,7 +7090,7 @@
 
 -lexeme
  lex: məqwəl/qwil
- stem: .q.w.l.|.q.w.ll.
+ stem: .q.w.l.|.q.w.n.
  gramm: V
  root: qwl
  stamm: Ip
@@ -6639,8 +7099,8 @@
  trans_en: to promise (Ip)
 
 -lexeme
- lex: maqwər/maqwarle
- stem: .q.w.r.|.q.w.rr.
+ lex: maqwər/maqwalle
+ stem: .q.w.r.|.q.w.l.|.q.w.n.|.q.w.rr.
  gramm: V
  root: qwr
  stamm: III
@@ -6650,7 +7110,7 @@
 
 -lexeme
  lex: məqwər/qwir
- stem: .q.w.r.|.q.w.rr.
+ stem: .q.w.r.|.q.w.n.
  gramm: V
  root: qwr
  stamm: Ip
@@ -6659,8 +7119,8 @@
  trans_en: to bury (Ip)
 
 -lexeme
- lex: maqwəy/maqwayle
- stem: .q.w.y.|.q.w.yy.
+ lex: maqwe/maqwele
+ stem: .q.w.y.|.q.w.|.q.y.
  gramm: V
  root: qwy
  stamm: III
@@ -6669,8 +7129,8 @@
  trans_en: to become strong, powerful (III)
 
 -lexeme
- lex: məqwəy/qwiy
- stem: .q.w.y.|.q.w.yy.
+ lex: məqwe/qwe
+ stem: .q.w.y.|.q.w.
  gramm: V
  root: qwy
  stamm: Ip
@@ -6680,7 +7140,7 @@
 
 -lexeme
  lex: maqəm/maqəmle
- stem: .q.y.|.q.m.
+ stem: .q.m.|.q.mm.
  gramm: V
  root: qym
  stamm: III
@@ -6689,7 +7149,7 @@
  trans_en: to get up; to stand up; to come into a vertical position; to wake up; to rise; to appear, to emerge; to stand out; to stand up and leave; to begin, to rise (wind); as a verb without its own meaning before others: cf. English ‘to up’ (III)
 
 -lexeme
- lex: məqəm/qim
+ lex: miqəm/qim
  stem: .q.m.
  gramm: V
  root: qym
@@ -6700,7 +7160,7 @@
 
 -lexeme
  lex: maqər/maqəlle
- stem: .q.r.|.q.
+ stem: .q.r.|.q.l.|.q.n.|.q.rr.
  gramm: V
  root: qyr
  stamm: III
@@ -6709,8 +7169,8 @@
  trans_en: to become cold (III)
 
 -lexeme
- lex: məqər/qir
- stem: .q.r.
+ lex: miqər/qir
+ stem: .q.r.|.q.n.
  gramm: V
  root: qyr
  stamm: Ip
@@ -6720,7 +7180,7 @@
 
 -lexeme
  lex: maqəṣ/maqəṣle
- stem: .q.y.|.q.ṣ.
+ stem: .q.ṣ.|.q.ṣṣ.
  gramm: V
  root: qyṣ
  stamm: III
@@ -6729,7 +7189,7 @@
  trans_en: to cut; to chop off (III)
 
 -lexeme
- lex: məqəṣ/qiṣ
+ lex: miqəṣ/qiṣ
  stem: .q.ṣ.
  gramm: V
  root: qyṣ
@@ -6740,7 +7200,7 @@
 
 -lexeme
  lex: maqəš/maqəšle
- stem: .q.y.|.q.š.
+ stem: .q.š.|.q.šš.
  gramm: V
  root: qyš
  stamm: III
@@ -6749,7 +7209,7 @@
  trans_en: to skim (III)
 
 -lexeme
- lex: məqəš/qiš
+ lex: miqəš/qiš
  stem: .q.š.
  gramm: V
  root: qyš
@@ -6760,7 +7220,7 @@
 
 -lexeme
  lex: maqəṯ/maqəṯle
- stem: .q.y.|.q.ṯ.
+ stem: .q.ṯ.|.q.ṯṯ.
  gramm: V
  root: qyṯ
  stamm: III
@@ -6769,7 +7229,7 @@
  trans_en: to bump into (b-, l-) smth.; to meet (about objects); to befell; to find; to fall to smb's lot; to ignite (intr.) (III)
 
 -lexeme
- lex: məqəṯ/qiṯ
+ lex: miqəṯ/qiṯ
  stem: .q.ṯ.
  gramm: V
  root: qyṯ
@@ -6790,7 +7250,7 @@
 
 -lexeme
  lex: məqzəf/qzif
- stem: .q.z.f.|.q.z.ff.
+ stem: .q.z.f.
  gramm: V
  root: qzf
  stamm: Ip
@@ -6800,7 +7260,7 @@
 
 -lexeme
  lex: marʕəl/marʕele
- stem: .r.ʕ.
+ stem: .r.ʕ.l.|.r.ʕ.
  gramm: V
  root: rʕl
  stamm: III
@@ -6810,7 +7270,7 @@
 
 -lexeme
  lex: mərʕəl/rʕil
- stem: .r.ʕ.l.|.r.ʕ.ll.
+ stem: .r.ʕ.l.|.r.ʕ.n.
  gramm: V
  root: rʕl
  stamm: Ip
@@ -6819,8 +7279,8 @@
  trans_en: to tremble (Ip)
 
 -lexeme
- lex: mare/marʕele
- stem: .r.ʕ.
+ lex: marʕe/marʕele
+ stem: .r.ʕ.y.|.r.ʕ.
  gramm: V
  root: rʕy
  stamm: III
@@ -6830,7 +7290,7 @@
 
 -lexeme
  lex: mərʕe/rʕe
- stem: .r.ʕ.
+ stem: .r.ʕ.y.|.r.ʕ.
  gramm: V
  root: rʕy
  stamm: Ip
@@ -6839,8 +7299,8 @@
  trans_en: to graze (tr. and intr.) (Ip)
 
 -lexeme
- lex: mare/marʕele
- stem: .r.ʕ.
+ lex: marʕe/marʕele
+ stem: .r.ʕ.y.|.r.ʕ.
  gramm: V
  root: rʕy
  stamm: III
@@ -6850,7 +7310,7 @@
 
 -lexeme
  lex: mərʕe/rʕe
- stem: .r.ʕ.
+ stem: .r.ʕ.y.|.r.ʕ.
  gramm: V
  root: rʕy
  stamm: Ip
@@ -6870,7 +7330,7 @@
 
 -lexeme
  lex: mərbəṭ/rbiṭ
- stem: .r.b.ṭ.|.r.b.ṭṭ.
+ stem: .r.b.ṭ.
  gramm: V
  root: rbṭ
  stamm: Ip
@@ -6879,8 +7339,8 @@
  trans_en: to tie, to bind (Ip)
 
 -lexeme
- lex: mare/marbele
- stem: .r.b.
+ lex: marbe/marbele
+ stem: .r.b.y.|.r.b.
  gramm: V
  root: rby
  stamm: III
@@ -6890,13 +7350,33 @@
 
 -lexeme
  lex: mərbe/rbe
- stem: .r.b.
+ stem: .r.b.y.|.r.b.
  gramm: V
  root: rby
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: (heran)wachsen, gross werden (Ip)
  trans_en: to grow (intr.) (Ip)
+
+-lexeme
+ lex: marḏe/marḏele
+ stem: .r.ḏ.̣.|.r.ḏ.
+ gramm: V
+ root: rḏ̣y
+ stamm: III
+ paradigm: V_III_3y
+ trans_de: 1) gefallen (mit b-); 2) einverstanden werden; 3) aussuchen (III)
+ trans_en: to agree; to be pleased with (b-) smb., to like smb. (b-) (III)
+
+-lexeme
+ lex: mərḏe/rḏe
+ stem: .r.ḏ.̣.|.r.ḏ.
+ gramm: V
+ root: rḏ̣y
+ stamm: Ip
+ paradigm: V_Ip_3y
+ trans_de: 1) gefallen (mit b-); 2) einverstanden werden; 3) aussuchen (Ip)
+ trans_en: to agree; to be pleased with (b-) smb., to like smb. (b-) (Ip)
 
 -lexeme
  lex: marfəʕ/marfaʕle
@@ -6910,13 +7390,33 @@
 
 -lexeme
  lex: mərfəʕ/rfiʕ
- stem: .r.f.ʕ.|.r.f.ʕʕ.
+ stem: .r.f.ʕ.
  gramm: V
  root: rfʕ
  stamm: Ip
  paradigm: V_Ip
  trans_de: dünn werden (Ip)
  trans_en: to become thin (Ip)
+
+-lexeme
+ lex: marfəd/marfadle
+ stem: .r.f.d.|.r.f.dd.
+ gramm: V
+ root: rfd̞
+ stamm: III
+ paradigm: V_III
+ trans_de: ablehnen, zurückweisen (III)
+ trans_en: to refuse; to reject (III)
+
+-lexeme
+ lex: mərfəd/rfid
+ stem: .r.f.d.
+ gramm: V
+ root: rfd̞
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: ablehnen, zurückweisen (Ip)
+ trans_en: to refuse; to reject (Ip)
 
 -lexeme
  lex: marfəṣ/marfaṣle
@@ -6930,7 +7430,7 @@
 
 -lexeme
  lex: mərfəṣ/rfiṣ
- stem: .r.f.ṣ.|.r.f.ṣṣ.
+ stem: .r.f.ṣ.
  gramm: V
  root: rfṣ
  stamm: Ip
@@ -6939,8 +7439,8 @@
  trans_en: to kick (Ip)
 
 -lexeme
- lex: mare/marfele
- stem: .r.f.
+ lex: marfe/marfele
+ stem: .r.f.y.|.r.f.
  gramm: V
  root: rfy
  stamm: III
@@ -6950,7 +7450,7 @@
 
 -lexeme
  lex: mərfe/rfe
- stem: .r.f.
+ stem: .r.f.y.|.r.f.
  gramm: V
  root: rfy
  stamm: Ip
@@ -6970,7 +7470,7 @@
 
 -lexeme
  lex: mərǧəf/rǧif
- stem: .r.ǧ.f.|.r.ǧ.ff.
+ stem: .r.ǧ.f.
  gramm: V
  root: rǧf
  stamm: Ip
@@ -6990,7 +7490,7 @@
 
 -lexeme
  lex: mərǧəm/rǧim
- stem: .r.ǧ.m.|.r.ǧ.mm.
+ stem: .r.ǧ.m.
  gramm: V
  root: rǧm
  stamm: Ip
@@ -7010,7 +7510,7 @@
 
 -lexeme
  lex: mərhəṭ/rhiṭ
- stem: .r.h.ṭ.|.r.h.ṭṭ.
+ stem: .r.h.ṭ.
  gramm: V
  root: rhṭ
  stamm: Ip
@@ -7030,7 +7530,7 @@
 
 -lexeme
  lex: mərḥəm/rḥim
- stem: .r.ḥ.m.|.r.ḥ.mm.
+ stem: .r.ḥ.m.
  gramm: V
  root: rḥm
  stamm: Ip
@@ -7050,7 +7550,7 @@
 
 -lexeme
  lex: mərḥəq/rḥiq
- stem: .r.ḥ.q.|.r.ḥ.qq.
+ stem: .r.ḥ.q.
  gramm: V
  root: rḥq
  stamm: Ip
@@ -7070,7 +7570,7 @@
 
 -lexeme
  lex: mərkəd/rkid
- stem: .r.k.d.|.r.k.dd.
+ stem: .r.k.d.
  gramm: V
  root: rkd
  stamm: Ip
@@ -7079,8 +7579,8 @@
  trans_en: to calm down (intr.) (Ip)
 
 -lexeme
- lex: marku/markawle
- stem: .r.k.|.r.k.w.
+ lex: marku/markule
+ stem: .r.k.w.|.r.k.|.r.k.ww.
  gramm: V
  root: rkw
  stamm: III
@@ -7090,7 +7590,7 @@
 
 -lexeme
  lex: mərku/rkiw
- stem: .r.k.|.r.k.w.
+ stem: .r.k.w.|.r.k.
  gramm: V
  root: rkw
  stamm: Ip
@@ -7110,7 +7610,7 @@
 
 -lexeme
  lex: mərkəx/rkix
- stem: .r.k.x.|.r.k.xx.
+ stem: .r.k.x.
  gramm: V
  root: rkx
  stamm: Ip
@@ -7130,7 +7630,7 @@
 
 -lexeme
  lex: mərməš/rmiš
- stem: .r.m.š.|.r.m.šš.
+ stem: .r.m.š.
  gramm: V
  root: rmš
  stamm: Ip
@@ -7139,8 +7639,8 @@
  trans_en: to move (intr.) (Ip)
 
 -lexeme
- lex: mare/marmele
- stem: .r.m.
+ lex: marme/marmele
+ stem: .r.m.y.|.r.m.
  gramm: V
  root: rmy
  stamm: III
@@ -7150,13 +7650,33 @@
 
 -lexeme
  lex: mərme/rme
- stem: .r.m.
+ stem: .r.m.y.|.r.m.
  gramm: V
  root: rmy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: verteilen (Ip)
  trans_en: to distribute (Ip)
+
+-lexeme
+ lex: marqəḏ/marqaḏle
+ stem: .r.q.ḏ.|.r.q.ḏḏ.
+ gramm: V
+ root: rqḏ/rqḏ̣
+ stamm: III
+ paradigm: V_III
+ trans_de: tanzen (III)
+ trans_en: to dance (III)
+
+-lexeme
+ lex: mərqəḏ/rqiḏ
+ stem: .r.q.ḏ.
+ gramm: V
+ root: rqḏ/rqḏ̣
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: tanzen (Ip)
+ trans_en: to dance (Ip)
 
 -lexeme
  lex: marqəf/marqafle
@@ -7170,7 +7690,7 @@
 
 -lexeme
  lex: mərqəf/rqif
- stem: .r.q.f.|.r.q.ff.
+ stem: .r.q.f.
  gramm: V
  root: rqf
  stamm: Ip
@@ -7190,7 +7710,7 @@
 
 -lexeme
  lex: mərqəq/rqiq
- stem: .r.q.q.|.r.q.qq.
+ stem: .r.q.q.
  gramm: V
  root: rqq
  stamm: Ip
@@ -7210,7 +7730,7 @@
 
 -lexeme
  lex: mərsəm/rsim
- stem: .r.s.m.|.r.s.mm.
+ stem: .r.s.m.
  gramm: V
  root: rsm
  stamm: Ip
@@ -7230,7 +7750,7 @@
 
 -lexeme
  lex: məršəm/ršim
- stem: .r.š.m.|.r.š.mm.
+ stem: .r.š.m.
  gramm: V
  root: ršm
  stamm: Ip
@@ -7250,7 +7770,7 @@
 
 -lexeme
  lex: mərṯəḥ/rṯiḥ
- stem: .r.ṯ.ḥ.|.r.ṯ.ḥḥ.
+ stem: .r.ṯ.ḥ.
  gramm: V
  root: rṯḥ
  stamm: Ip
@@ -7270,7 +7790,7 @@
 
 -lexeme
  lex: mərwəʕ/rwiʕ
- stem: .r.w.ʕ.|.r.w.ʕʕ.
+ stem: .r.w.ʕ.
  gramm: V
  root: rwʕ
  stamm: Ip
@@ -7290,7 +7810,7 @@
 
 -lexeme
  lex: mərwəḥ/rwiḥ
- stem: .r.w.ḥ.|.r.w.ḥḥ.
+ stem: .r.w.ḥ.
  gramm: V
  root: rwḥ
  stamm: Ip
@@ -7310,7 +7830,7 @@
 
 -lexeme
  lex: mərwəx/rwix
- stem: .r.w.x.|.r.w.xx.
+ stem: .r.w.x.
  gramm: V
  root: rwx
  stamm: Ip
@@ -7319,8 +7839,8 @@
  trans_en: to climb; to sit; to mount (Ip)
 
 -lexeme
- lex: marwəy/marwayle
- stem: .r.w.y.|.r.w.yy.
+ lex: marwe/marwele
+ stem: .r.w.y.|.r.w.|.r.y.
  gramm: V
  root: rwy
  stamm: III
@@ -7329,8 +7849,8 @@
  trans_en: to grow (III)
 
 -lexeme
- lex: mərwəy/rwiy
- stem: .r.w.y.|.r.w.yy.
+ lex: mərwe/rwe
+ stem: .r.w.y.|.r.w.
  gramm: V
  root: rwy
  stamm: Ip
@@ -7339,8 +7859,8 @@
  trans_en: to grow (Ip)
 
 -lexeme
- lex: marwəy/marwayle
- stem: .r.w.y.|.r.w.yy.
+ lex: marwe/marwele
+ stem: .r.w.y.|.r.w.|.r.y.
  gramm: V
  root: rwy
  stamm: III
@@ -7349,8 +7869,8 @@
  trans_en: to become drunk (III)
 
 -lexeme
- lex: mərwəy/rwiy
- stem: .r.w.y.|.r.w.yy.
+ lex: mərwe/rwe
+ stem: .r.w.y.|.r.w.
  gramm: V
  root: rwy
  stamm: Ip
@@ -7359,8 +7879,8 @@
  trans_en: to become drunk (Ip)
 
 -lexeme
- lex: marxu/marxawle
- stem: .r.x.|.r.x.w.
+ lex: marxu/marxule
+ stem: .r.x.w.|.r.x.|.r.x.ww.
  gramm: V
  root: rxw
  stamm: III
@@ -7370,7 +7890,7 @@
 
 -lexeme
  lex: mərxu/rxiw
- stem: .r.x.|.r.x.w.
+ stem: .r.x.w.|.r.x.
  gramm: V
  root: rxw
  stamm: Ip
@@ -7380,7 +7900,7 @@
 
 -lexeme
  lex: marəf/marəfle
- stem: .r.y.|.r.f.
+ stem: .r.f.|.r.ff.
  gramm: V
  root: ryf
  stamm: III
@@ -7389,7 +7909,7 @@
  trans_en: to flutter (III)
 
 -lexeme
- lex: mərəf/rif
+ lex: mirəf/rif
  stem: .r.f.
  gramm: V
  root: ryf
@@ -7400,7 +7920,7 @@
 
 -lexeme
  lex: marəg/marəgle
- stem: .r.y.|.r.g.
+ stem: .r.g.|.r.gg.
  gramm: V
  root: ryg
  stamm: III
@@ -7409,7 +7929,7 @@
  trans_en: to desire (with l-) (III)
 
 -lexeme
- lex: mərəg/rig
+ lex: mirəg/rig
  stem: .r.g.
  gramm: V
  root: ryg
@@ -7420,7 +7940,7 @@
 
 -lexeme
  lex: marək/marəkle
- stem: .r.y.|.r.k.
+ stem: .r.k.|.r.kk.
  gramm: V
  root: ryk
  stamm: III
@@ -7429,7 +7949,7 @@
  trans_en: to fill the foundation walls of a building with earth and stones (III)
 
 -lexeme
- lex: mərək/rik
+ lex: mirək/rik
  stem: .r.k.
  gramm: V
  root: ryk
@@ -7440,7 +7960,7 @@
 
 -lexeme
  lex: marəq/marəqle
- stem: .r.y.|.r.q.
+ stem: .r.q.|.r.qq.
  gramm: V
  root: ryq
  stamm: III
@@ -7449,7 +7969,7 @@
  trans_en: to spit (III)
 
 -lexeme
- lex: mərəq/riq
+ lex: mirəq/riq
  stem: .r.q.
  gramm: V
  root: ryq
@@ -7460,7 +7980,7 @@
 
 -lexeme
  lex: marəs/marəsle
- stem: .r.y.|.r.s.
+ stem: .r.s.|.r.ss.
  gramm: V
  root: rys
  stamm: III
@@ -7469,7 +7989,7 @@
  trans_en: to sprinkle; to scatter (III)
 
 -lexeme
- lex: mərəs/ris
+ lex: mirəs/ris
  stem: .r.s.
  gramm: V
  root: rys
@@ -7480,7 +8000,7 @@
 
 -lexeme
  lex: marəṣ/marəṣle
- stem: .r.y.|.r.ṣ.
+ stem: .r.ṣ.|.r.ṣṣ.
  gramm: V
  root: ryṣ
  stamm: III
@@ -7489,7 +8009,7 @@
  trans_en: to sprinkle; to scatter (III)
 
 -lexeme
- lex: mərəṣ/riṣ
+ lex: mirəṣ/riṣ
  stem: .r.ṣ.
  gramm: V
  root: ryṣ
@@ -7500,7 +8020,7 @@
 
 -lexeme
  lex: marəš/marəšle
- stem: .r.y.|.r.š.
+ stem: .r.š.|.r.šš.
  gramm: V
  root: ryš
  stamm: III
@@ -7509,7 +8029,7 @@
  trans_en: to sprinkle; to scatter (III)
 
 -lexeme
- lex: mərəš/riš
+ lex: mirəš/riš
  stem: .r.š.
  gramm: V
  root: ryš
@@ -7520,7 +8040,7 @@
 
 -lexeme
  lex: marəz/marəzle
- stem: .r.y.|.r.z.
+ stem: .r.z.|.r.zz.
  gramm: V
  root: ryz
  stamm: III
@@ -7529,7 +8049,7 @@
  trans_en: to strew; to line up (III)
 
 -lexeme
- lex: mərəz/riz
+ lex: mirəz/riz
  stem: .r.z.
  gramm: V
  root: ryz
@@ -7550,7 +8070,7 @@
 
 -lexeme
  lex: məsbəḥ/sbiḥ
- stem: .s.b.ḥ.|.s.b.ḥḥ.
+ stem: .s.b.ḥ.
  gramm: V
  root: sbḥ
  stamm: Ip
@@ -7570,7 +8090,7 @@
 
 -lexeme
  lex: məsfəq/sfiq
- stem: .s.f.q.|.s.f.qq.
+ stem: .s.f.q.
  gramm: V
  root: sfq
  stamm: Ip
@@ -7579,8 +8099,8 @@
  trans_en: to slap (Ip)
 
 -lexeme
- lex: mase/masfele
- stem: .s.f.
+ lex: masfe/masfele
+ stem: .s.f.y.|.s.f.
  gramm: V
  root: sfy
  stamm: III
@@ -7590,7 +8110,7 @@
 
 -lexeme
  lex: məsfe/sfe
- stem: .s.f.
+ stem: .s.f.y.|.s.f.
  gramm: V
  root: sfy
  stamm: Ip
@@ -7610,7 +8130,7 @@
 
 -lexeme
  lex: məsġəd/sġid
- stem: .s.ġ.d.|.s.ġ.dd.
+ stem: .s.ġ.d.
  gramm: V
  root: sġd
  stamm: Ip
@@ -7630,7 +8150,7 @@
 
 -lexeme
  lex: məshəḏ/shiḏ
- stem: .s.h.ḏ.|.s.h.ḏḏ.
+ stem: .s.h.ḏ.
  gramm: V
  root: shḏ
  stamm: Ip
@@ -7640,7 +8160,7 @@
 
 -lexeme
  lex: mashər/mashalle
- stem: .s.h.r.|.s.h.
+ stem: .s.h.r.|.s.h.l.|.s.h.n.|.s.h.rr.
  gramm: V
  root: shr
  stamm: III
@@ -7650,7 +8170,7 @@
 
 -lexeme
  lex: məshər/shir
- stem: .s.h.r.|.s.h.rr.
+ stem: .s.h.r.|.s.h.n.
  gramm: V
  root: shr
  stamm: Ip
@@ -7660,7 +8180,7 @@
 
 -lexeme
  lex: masḥən/masḥalle
- stem: .s.ḥ.n.|.s.ḥ.
+ stem: .s.ḥ.n.|.s.ḥ.l.|.s.ḥ.nn.
  gramm: V
  root: sḥn
  stamm: III
@@ -7670,7 +8190,7 @@
 
 -lexeme
  lex: məsḥən/sḥin
- stem: .s.ḥ.n.|.s.ḥ.nn.
+ stem: .s.ḥ.n.
  gramm: V
  root: sḥn
  stamm: Ip
@@ -7679,8 +8199,8 @@
  trans_en: to pound (e.g. coffee in a mortar) (Ip)
 
 -lexeme
- lex: mase/masḥele
- stem: .s.ḥ.
+ lex: masḥe/masḥele
+ stem: .s.ḥ.y.|.s.ḥ.
  gramm: V
  root: sḥy
  stamm: III
@@ -7690,7 +8210,7 @@
 
 -lexeme
  lex: məsḥe/sḥe
- stem: .s.ḥ.
+ stem: .s.ḥ.y.|.s.ḥ.
  gramm: V
  root: sḥy
  stamm: Ip
@@ -7710,7 +8230,7 @@
 
 -lexeme
  lex: məskət/skit
- stem: .s.k.t.|.s.k.tt.
+ stem: .s.k.t.
  gramm: V
  root: skt
  stamm: Ip
@@ -7730,7 +8250,7 @@
 
 -lexeme
  lex: məsləg/slig
- stem: .s.l.g.|.s.l.gg.
+ stem: .s.l.g.
  gramm: V
  root: slg
  stamm: Ip
@@ -7750,7 +8270,7 @@
 
 -lexeme
  lex: məsləq/sliq
- stem: .s.l.q.|.s.l.qq.
+ stem: .s.l.q.
  gramm: V
  root: slq
  stamm: Ip
@@ -7770,7 +8290,7 @@
 
 -lexeme
  lex: məsləx/slix
- stem: .s.l.x.|.s.l.xx.
+ stem: .s.l.x.
  gramm: V
  root: slx
  stamm: Ip
@@ -7790,7 +8310,7 @@
 
 -lexeme
  lex: məsməḥ/smiḥ
- stem: .s.m.ḥ.|.s.m.ḥḥ.
+ stem: .s.m.ḥ.
  gramm: V
  root: smḥ
  stamm: Ip
@@ -7810,7 +8330,7 @@
 
 -lexeme
  lex: məsməq/smiq
- stem: .s.m.q.|.s.m.qq.
+ stem: .s.m.q.
  gramm: V
  root: smq
  stamm: Ip
@@ -7830,7 +8350,7 @@
 
 -lexeme
  lex: məsməx/smix
- stem: .s.m.x.|.s.m.xx.
+ stem: .s.m.x.
  gramm: V
  root: smx
  stamm: Ip
@@ -7839,8 +8359,8 @@
  trans_en: to lean against (l-) smth. (Ip)
 
 -lexeme
- lex: mase/masmele
- stem: .s.m.
+ lex: masme/masmele
+ stem: .s.m.y.|.s.m.
  gramm: V
  root: smy
  stamm: III
@@ -7850,7 +8370,7 @@
 
 -lexeme
  lex: məsme/sme
- stem: .s.m.
+ stem: .s.m.y.|.s.m.
  gramm: V
  root: smy
  stamm: Ip
@@ -7870,7 +8390,7 @@
 
 -lexeme
  lex: məsnəd/snid
- stem: .s.n.d.|.s.n.dd.
+ stem: .s.n.d.
  gramm: V
  root: snd
  stamm: Ip
@@ -7890,7 +8410,7 @@
 
 -lexeme
  lex: məsnəq/sniq
- stem: .s.n.q.|.s.n.qq.
+ stem: .s.n.q.
  gramm: V
  root: snq
  stamm: Ip
@@ -7910,13 +8430,33 @@
 
 -lexeme
  lex: məsqəṭ/sqiṭ
- stem: .s.q.ṭ.|.s.q.ṭṭ.
+ stem: .s.q.ṭ.
  gramm: V
  root: sqṭ
  stamm: Ip
  paradigm: V_Ip
  trans_de: des Amtes entheben (Ip)
  trans_en: to suspend (Ip)
+
+-lexeme
+ lex: masrəg/masragle
+ stem: .s.r.g.|.s.r.gg.
+ gramm: V
+ root: srgn
+ stamm: III
+ paradigm: V_III
+ trans_de: verbannen (III)
+ trans_en: to banish; to exile (III)
+
+-lexeme
+ lex: məsrəg/srig
+ stem: .s.r.g.
+ gramm: V
+ root: srgn
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: verbannen (Ip)
+ trans_en: to banish; to exile (Ip)
 
 -lexeme
  lex: masrəq/masraqle
@@ -7930,7 +8470,7 @@
 
 -lexeme
  lex: məsrəq/sriq
- stem: .s.r.q.|.s.r.qq.
+ stem: .s.r.q.
  gramm: V
  root: srq
  stamm: Ip
@@ -7939,8 +8479,8 @@
  trans_en: to comb; to groom (Ip)
 
 -lexeme
- lex: mase/masrele
- stem: .s.r.
+ lex: masre/masrele
+ stem: .s.r.y.|.s.r.
  gramm: V
  root: sry
  stamm: III
@@ -7950,7 +8490,7 @@
 
 -lexeme
  lex: məsre/sre
- stem: .s.r.
+ stem: .s.r.y.|.s.r.
  gramm: V
  root: sry
  stamm: Ip
@@ -7959,8 +8499,28 @@
  trans_en: to decay, to rot (Ip)
 
 -lexeme
+ lex: mastəf/mastafle
+ stem: .s.t.f.|.s.t.ff.
+ gramm: V
+ root: stfhm
+ stamm: III
+ paradigm: V_III
+ trans_de: herausfinden (III)
+ trans_en: to find out (III)
+
+-lexeme
+ lex: məstəf/stif
+ stem: .s.t.f.
+ gramm: V
+ root: stfhm
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: herausfinden (Ip)
+ trans_en: to find out (Ip)
+
+-lexeme
  lex: mastər/mastalle
- stem: .s.t.r.|.s.t.
+ stem: .s.t.r.|.s.t.l.|.s.t.n.|.s.t.rr.
  gramm: V
  root: str
  stamm: III
@@ -7970,7 +8530,7 @@
 
 -lexeme
  lex: məstər/stir
- stem: .s.t.r.|.s.t.rr.
+ stem: .s.t.r.|.s.t.n.
  gramm: V
  root: str
  stamm: Ip
@@ -7990,7 +8550,7 @@
 
 -lexeme
  lex: məswəʕ/swiʕ
- stem: .s.w.ʕ.|.s.w.ʕʕ.
+ stem: .s.w.ʕ.
  gramm: V
  root: swʕ
  stamm: Ip
@@ -8000,7 +8560,7 @@
 
 -lexeme
  lex: masxər/masxalle
- stem: .s.x.r.|.s.x.
+ stem: .s.x.r.|.s.x.l.|.s.x.n.|.s.x.rr.
  gramm: V
  root: sxr/ṣxr
  stamm: III
@@ -8010,7 +8570,7 @@
 
 -lexeme
  lex: məsxər/sxir
- stem: .s.x.r.|.s.x.rr.
+ stem: .s.x.r.|.s.x.n.
  gramm: V
  root: sxr/ṣxr
  stamm: Ip
@@ -8020,7 +8580,7 @@
 
 -lexeme
  lex: masəf/masəfle
- stem: .s.y.|.s.f.
+ stem: .s.f.|.s.ff.
  gramm: V
  root: syf
  stamm: III
@@ -8029,7 +8589,7 @@
  trans_en: to stop (intr.); to rub off (intr.) (III)
 
 -lexeme
- lex: məsəf/sif
+ lex: misəf/sif
  stem: .s.f.
  gramm: V
  root: syf
@@ -8040,7 +8600,7 @@
 
 -lexeme
  lex: masəġ/masəġle
- stem: .s.y.|.s.ġ.
+ stem: .s.ġ.|.s.ġġ.
  gramm: V
  root: syġ
  stamm: III
@@ -8049,7 +8609,7 @@
  trans_en: to fence (III)
 
 -lexeme
- lex: məsəġ/siġ
+ lex: misəġ/siġ
  stem: .s.ġ.
  gramm: V
  root: syġ
@@ -8069,8 +8629,8 @@
  trans_en: to erase (III)
 
 -lexeme
- lex: məsəl/sil
- stem: .s.l.
+ lex: misəl/sil
+ stem: .s.l.|.s.n.
  gramm: V
  root: syl
  stamm: Ip
@@ -8080,7 +8640,7 @@
 
 -lexeme
  lex: masəm/masəmle
- stem: .s.y.|.s.m.
+ stem: .s.m.|.s.mm.
  gramm: V
  root: sym
  stamm: III
@@ -8089,7 +8649,7 @@
  trans_en: to do; to make; to cook; to have sex with (ʕam) smb. (III)
 
 -lexeme
- lex: məsəm/sim
+ lex: misəm/sim
  stem: .s.m.
  gramm: V
  root: sym
@@ -8100,7 +8660,7 @@
 
 -lexeme
  lex: masəx/masəxle
- stem: .s.y.|.s.x.
+ stem: .s.x.|.s.xx.
  gramm: V
  root: syx
  stamm: III
@@ -8109,7 +8669,7 @@
  trans_en: to pressure, to harass (III)
 
 -lexeme
- lex: məsəx/six
+ lex: misəx/six
  stem: .s.x.
  gramm: V
  root: syx
@@ -8130,7 +8690,7 @@
 
 -lexeme
  lex: məṣʕəb/ṣʕib
- stem: .ṣ.ʕ.b.|.ṣ.ʕ.bb.
+ stem: .ṣ.ʕ.b.
  gramm: V
  root: ṣʕb
  stamm: Ip
@@ -8140,7 +8700,7 @@
 
 -lexeme
  lex: maṣbər/maṣballe
- stem: .ṣ.b.r.|.ṣ.b.
+ stem: .ṣ.b.r.|.ṣ.b.l.|.ṣ.b.n.|.ṣ.b.rr.
  gramm: V
  root: ṣbr
  stamm: III
@@ -8150,7 +8710,7 @@
 
 -lexeme
  lex: məṣbər/ṣbir
- stem: .ṣ.b.r.|.ṣ.b.rr.
+ stem: .ṣ.b.r.|.ṣ.b.n.
  gramm: V
  root: ṣbr
  stamm: Ip
@@ -8159,8 +8719,8 @@
  trans_en: to be patient (Ip)
 
 -lexeme
- lex: maṣe/maṣbele
- stem: .ṣ.b.
+ lex: maṣbe/maṣbele
+ stem: .ṣ.b.y.|.ṣ.b.
  gramm: V
  root: ṣby
  stamm: III
@@ -8170,7 +8730,7 @@
 
 -lexeme
  lex: məṣbe/ṣbe
- stem: .ṣ.b.
+ stem: .ṣ.b.y.|.ṣ.b.
  gramm: V
  root: ṣby
  stamm: Ip
@@ -8190,7 +8750,7 @@
 
 -lexeme
  lex: məṣdəf/ṣdif
- stem: .ṣ.d.f.|.ṣ.d.ff.
+ stem: .ṣ.d.f.
  gramm: V
  root: ṣdf
  stamm: Ip
@@ -8210,7 +8770,7 @@
 
 -lexeme
  lex: məṣfər/ṣfir
- stem: .ṣ.f.r.|.ṣ.f.rr.
+ stem: .ṣ.f.r.
  gramm: V
  root: ṣfr
  stamm: Ip
@@ -8219,8 +8779,8 @@
  trans_en: to whistle (Ip)
 
 -lexeme
- lex: maṣe/maṣfele
- stem: .ṣ.f.
+ lex: maṣfe/maṣfele
+ stem: .ṣ.f.y.|.ṣ.f.
  gramm: V
  root: ṣfy
  stamm: III
@@ -8230,7 +8790,7 @@
 
 -lexeme
  lex: məṣfe/ṣfe
- stem: .ṣ.f.
+ stem: .ṣ.f.y.|.ṣ.f.
  gramm: V
  root: ṣfy
  stamm: Ip
@@ -8240,7 +8800,7 @@
 
 -lexeme
  lex: maṣhəl/maṣhele
- stem: .ṣ.h.
+ stem: .ṣ.h.l.|.ṣ.h.
  gramm: V
  root: ṣhl
  stamm: III
@@ -8250,7 +8810,7 @@
 
 -lexeme
  lex: məṣhəl/ṣhil
- stem: .ṣ.h.l.|.ṣ.h.ll.
+ stem: .ṣ.h.l.|.ṣ.h.n.
  gramm: V
  root: ṣhl
  stamm: Ip
@@ -8259,8 +8819,8 @@
  trans_en: to neigh (Ip)
 
 -lexeme
- lex: maṣe/maṣhele
- stem: .ṣ.h.
+ lex: maṣhe/maṣhele
+ stem: .ṣ.h.y.|.ṣ.h.
  gramm: V
  root: ṣhy
  stamm: III
@@ -8270,7 +8830,7 @@
 
 -lexeme
  lex: məṣhe/ṣhe
- stem: .ṣ.h.
+ stem: .ṣ.h.y.|.ṣ.h.
  gramm: V
  root: ṣhy
  stamm: Ip
@@ -8290,7 +8850,7 @@
 
 -lexeme
  lex: məṣhər/ṣhir
- stem: .ṣ.h.r.|.ṣ.h.rr.
+ stem: .ṣ.h.r.
  gramm: V
  root: ṣhr
  stamm: Ip
@@ -8300,7 +8860,7 @@
 
 -lexeme
  lex: maṣkər/maṣkalle
- stem: .ṣ.k.r.|.ṣ.k.
+ stem: .ṣ.k.r.|.ṣ.k.l.|.ṣ.k.n.|.ṣ.k.rr.
  gramm: V
  root: ṣkr
  stamm: III
@@ -8310,7 +8870,7 @@
 
 -lexeme
  lex: məṣkər/ṣkir
- stem: .ṣ.k.r.|.ṣ.k.rr.
+ stem: .ṣ.k.r.|.ṣ.k.n.
  gramm: V
  root: ṣkr
  stamm: Ip
@@ -8330,7 +8890,7 @@
 
 -lexeme
  lex: məṣləf/ṣlif
- stem: .ṣ.l.f.|.ṣ.l.ff.
+ stem: .ṣ.l.f.
  gramm: V
  root: ṣlf
  stamm: Ip
@@ -8350,7 +8910,7 @@
 
 -lexeme
  lex: məṣləḥ/ṣliḥ
- stem: .ṣ.l.ḥ.|.ṣ.l.ḥḥ.
+ stem: .ṣ.l.ḥ.
  gramm: V
  root: ṣlḥ
  stamm: Ip
@@ -8359,8 +8919,8 @@
  trans_en: [?] (Ip)
 
 -lexeme
- lex: maṣlu/maṣlawle
- stem: .ṣ.l.|.ṣ.l.w.
+ lex: maṣlu/maṣlule
+ stem: .ṣ.l.w.|.ṣ.l.|.ṣ.l.ww.
  gramm: V
  root: ṣlw
  stamm: III
@@ -8370,7 +8930,7 @@
 
 -lexeme
  lex: məṣlu/ṣliw
- stem: .ṣ.l.|.ṣ.l.w.
+ stem: .ṣ.l.w.|.ṣ.l.
  gramm: V
  root: ṣlw
  stamm: Ip
@@ -8390,7 +8950,7 @@
 
 -lexeme
  lex: məṣmət/ṣmit
- stem: .ṣ.m.t.|.ṣ.m.tt.
+ stem: .ṣ.m.t.
  gramm: V
  root: ṣmt
  stamm: Ip
@@ -8410,7 +8970,7 @@
 
 -lexeme
  lex: məṣrəḏ/ṣriḏ
- stem: .ṣ.r.ḏ.|.ṣ.r.ḏḏ.
+ stem: .ṣ.r.ḏ.
  gramm: V
  root: ṣrḏ
  stamm: Ip
@@ -8430,7 +8990,7 @@
 
 -lexeme
  lex: məṣrəf/ṣrif
- stem: .ṣ.r.f.|.ṣ.r.ff.
+ stem: .ṣ.r.f.
  gramm: V
  root: ṣrf
  stamm: Ip
@@ -8450,7 +9010,7 @@
 
 -lexeme
  lex: məṣrəṭ/ṣriṭ
- stem: .ṣ.r.ṭ.|.ṣ.r.ṭṭ.
+ stem: .ṣ.r.ṭ.
  gramm: V
  root: ṣrṭ
  stamm: Ip
@@ -8470,7 +9030,7 @@
 
 -lexeme
  lex: məṣṭəm/ṣṭim
- stem: .ṣ.ṭ.m.|.ṣ.ṭ.mm.
+ stem: .ṣ.ṭ.m.
  gramm: V
  root: ṣṭm
  stamm: Ip
@@ -8490,7 +9050,7 @@
 
 -lexeme
  lex: məṣwəʕ/ṣwiʕ
- stem: .ṣ.w.ʕ.|.ṣ.w.ʕʕ.
+ stem: .ṣ.w.ʕ.
  gramm: V
  root: ṣwʕ
  stamm: Ip
@@ -8500,7 +9060,7 @@
 
 -lexeme
  lex: maṣəd/maṣədle
- stem: .ṣ.y.|.ṣ.d.
+ stem: .ṣ.d.|.ṣ.dd.
  gramm: V
  root: ṣyd
  stamm: III
@@ -8509,7 +9069,7 @@
  trans_en: to hunt; to fish; to catch; to receive (III)
 
 -lexeme
- lex: məṣəd/ṣid
+ lex: miṣəd/ṣid
  stem: .ṣ.d.
  gramm: V
  root: ṣyd
@@ -8520,7 +9080,7 @@
 
 -lexeme
  lex: maṣəm/maṣəmle
- stem: .ṣ.y.|.ṣ.m.
+ stem: .ṣ.m.|.ṣ.mm.
  gramm: V
  root: ṣym
  stamm: III
@@ -8529,7 +9089,7 @@
  trans_en: to fast (III)
 
 -lexeme
- lex: məṣəm/ṣim
+ lex: miṣəm/ṣim
  stem: .ṣ.m.
  gramm: V
  root: ṣym
@@ -8540,7 +9100,7 @@
 
 -lexeme
  lex: maṣər/maṣərle
- stem: .ṣ.y.|.ṣ.r.
+ stem: .ṣ.r.|.ṣ.rr.
  gramm: V
  root: ṣyr
  stamm: III
@@ -8549,7 +9109,7 @@
  trans_en: to overheat (intr.) (III)
 
 -lexeme
- lex: məṣər/ṣir
+ lex: miṣər/ṣir
  stem: .ṣ.r.
  gramm: V
  root: ṣyr
@@ -8559,8 +9119,28 @@
  trans_en: to overheat (intr.) (Ip)
 
 -lexeme
+ lex: mašʕəb/mašʕable
+ stem: .š.ʕ.b.|.š.ʕ.bb.
+ gramm: V
+ root: šʕbd
+ stamm: III
+ paradigm: V_III
+ trans_de: knechten (III)
+ trans_en: to enslave (III)
+
+-lexeme
+ lex: məšʕəb/šʕib
+ stem: .š.ʕ.b.
+ gramm: V
+ root: šʕbd
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: knechten (Ip)
+ trans_en: to enslave (Ip)
+
+-lexeme
  lex: mašʕəl/mašʕele
- stem: .š.ʕ.
+ stem: .š.ʕ.l.|.š.ʕ.
  gramm: V
  root: šʕl
  stamm: III
@@ -8570,7 +9150,7 @@
 
 -lexeme
  lex: məšʕəl/šʕil
- stem: .š.ʕ.l.|.š.ʕ.ll.
+ stem: .š.ʕ.l.|.š.ʕ.n.
  gramm: V
  root: šʕl
  stamm: Ip
@@ -8590,7 +9170,7 @@
 
 -lexeme
  lex: məšʕəṯ/šʕiṯ
- stem: .š.ʕ.ṯ.|.š.ʕ.ṯṯ.
+ stem: .š.ʕ.ṯ.
  gramm: V
  root: šʕṯ
  stamm: Ip
@@ -8610,7 +9190,7 @@
 
 -lexeme
  lex: məšbəh/šbih
- stem: .š.b.h.|.š.b.hh.
+ stem: .š.b.h.
  gramm: V
  root: šbh
  stamm: Ip
@@ -8619,8 +9199,8 @@
  trans_en: to be similar to (l-) smb. or smth.; to look like (l-) smb. or smth. (Ip)
 
 -lexeme
- lex: maše/mašḏele
- stem: .š.ḏ.
+ lex: mašḏe/mašḏele
+ stem: .š.ḏ.y.|.š.ḏ.
  gramm: V
  root: šḏy
  stamm: III
@@ -8630,7 +9210,7 @@
 
 -lexeme
  lex: məšḏe/šḏe
- stem: .š.ḏ.
+ stem: .š.ḏ.y.|.š.ḏ.
  gramm: V
  root: šḏy
  stamm: Ip
@@ -8650,7 +9230,7 @@
 
 -lexeme
  lex: məšfəʕ/šfiʕ
- stem: .š.f.ʕ.|.š.f.ʕʕ.
+ stem: .š.f.ʕ.
  gramm: V
  root: šfʕ/špʕ
  stamm: Ip
@@ -8660,7 +9240,7 @@
 
 -lexeme
  lex: mašfər/mašfalle
- stem: .š.f.r.|.š.f.
+ stem: .š.f.r.|.š.f.l.|.š.f.n.|.š.f.rr.
  gramm: V
  root: šfr
  stamm: III
@@ -8670,7 +9250,7 @@
 
 -lexeme
  lex: məšfər/šfir
- stem: .š.f.r.|.š.f.rr.
+ stem: .š.f.r.|.š.f.n.
  gramm: V
  root: šfr
  stamm: Ip
@@ -8680,7 +9260,7 @@
 
 -lexeme
  lex: mašġəl/mašġele
- stem: .š.ġ.
+ stem: .š.ġ.l.|.š.ġ.
  gramm: V
  root: šġl
  stamm: III
@@ -8690,7 +9270,7 @@
 
 -lexeme
  lex: məšġəl/šġil
- stem: .š.ġ.l.|.š.ġ.ll.
+ stem: .š.ġ.l.|.š.ġ.n.
  gramm: V
  root: šġl
  stamm: Ip
@@ -8700,7 +9280,7 @@
 
 -lexeme
  lex: mašġəl/mašġele
- stem: .š.ġ.
+ stem: .š.ġ.l.|.š.ġ.
  gramm: V
  root: šġl
  stamm: III
@@ -8710,7 +9290,7 @@
 
 -lexeme
  lex: məšġəl/šġil
- stem: .š.ġ.l.|.š.ġ.ll.
+ stem: .š.ġ.l.|.š.ġ.n.
  gramm: V
  root: šġl
  stamm: Ip
@@ -8730,7 +9310,7 @@
 
 -lexeme
  lex: məšġəš/šġiš
- stem: .š.ġ.š.|.š.ġ.šš.
+ stem: .š.ġ.š.
  gramm: V
  root: šġš
  stamm: Ip
@@ -8750,7 +9330,7 @@
 
 -lexeme
  lex: məšhəd/šhid
- stem: .š.h.d.|.š.h.dd.
+ stem: .š.h.d.
  gramm: V
  root: šhd
  stamm: Ip
@@ -8760,7 +9340,7 @@
 
 -lexeme
  lex: mašḥən/mašḥalle
- stem: .š.ḥ.n.|.š.ḥ.
+ stem: .š.ḥ.n.|.š.ḥ.l.|.š.ḥ.nn.
  gramm: V
  root: šḥn
  stamm: III
@@ -8770,7 +9350,7 @@
 
 -lexeme
  lex: məšḥən/šḥin
- stem: .š.ḥ.n.|.š.ḥ.nn.
+ stem: .š.ḥ.n.
  gramm: V
  root: šḥn
  stamm: Ip
@@ -8790,7 +9370,7 @@
 
 -lexeme
  lex: məšləḥ/šliḥ
- stem: .š.l.ḥ.|.š.l.ḥḥ.
+ stem: .š.l.ḥ.
  gramm: V
  root: šlḥ
  stamm: Ip
@@ -8810,7 +9390,7 @@
 
 -lexeme
  lex: məšləq/šliq
- stem: .š.l.q.|.š.l.qq.
+ stem: .š.l.q.
  gramm: V
  root: šlq
  stamm: Ip
@@ -8819,8 +9399,8 @@
  trans_en: to boil; to roast (Ip)
 
 -lexeme
- lex: maše/mašlele
- stem: .š.l.
+ lex: mašle/mašlele
+ stem: .š.l.y.|.š.l.
  gramm: V
  root: šly
  stamm: III
@@ -8830,7 +9410,7 @@
 
 -lexeme
  lex: məšle/šle
- stem: .š.l.
+ stem: .š.l.y.|.š.l.
  gramm: V
  root: šly
  stamm: Ip
@@ -8850,13 +9430,33 @@
 
 -lexeme
  lex: məšməʕ/šmiʕ
- stem: .š.m.ʕ.|.š.m.ʕʕ.
+ stem: .š.m.ʕ.
  gramm: V
  root: šmʕ
  stamm: Ip
  paradigm: V_Ip
  trans_de: hören; glauben (Ip)
  trans_en: to hear (Ip)
+
+-lexeme
+ lex: mašməl/mašmalle
+ stem: .š.m.l.|.š.m.ll.
+ gramm: V
+ root: šmly
+ stamm: III
+ paradigm: V_III
+ trans_de: räuchern (in der Kirche) (III)
+ trans_en: to burn incense (III)
+
+-lexeme
+ lex: məšməl/šmil
+ stem: .š.m.l.
+ gramm: V
+ root: šmly
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: räuchern (in der Kirche) (Ip)
+ trans_en: to burn incense (Ip)
 
 -lexeme
  lex: mašməṭ/mašmaṭle
@@ -8870,7 +9470,7 @@
 
 -lexeme
  lex: məšməṭ/šmiṭ
- stem: .š.m.ṭ.|.š.m.ṭṭ.
+ stem: .š.m.ṭ.
  gramm: V
  root: šmṭ
  stamm: Ip
@@ -8890,7 +9490,7 @@
 
 -lexeme
  lex: məšməṭ/šmiṭ
- stem: .š.m.ṭ.|.š.m.ṭṭ.
+ stem: .š.m.ṭ.
  gramm: V
  root: šmṭ
  stamm: Ip
@@ -8910,7 +9510,7 @@
 
 -lexeme
  lex: məšnəq/šniq
- stem: .š.n.q.|.š.n.qq.
+ stem: .š.n.q.
  gramm: V
  root: šnq
  stamm: Ip
@@ -8920,7 +9520,7 @@
 
 -lexeme
  lex: mašqəl/mašqele
- stem: .š.q.
+ stem: .š.q.l.|.š.q.
  gramm: V
  root: šql
  stamm: III
@@ -8930,7 +9530,7 @@
 
 -lexeme
  lex: məšqəl/šqil
- stem: .š.q.l.|.š.q.ll.
+ stem: .š.q.l.|.š.q.n.
  gramm: V
  root: šql
  stamm: Ip
@@ -8950,7 +9550,7 @@
 
 -lexeme
  lex: məšqəṣ/šqiṣ
- stem: .š.q.ṣ.|.š.q.ṣṣ.
+ stem: .š.q.ṣ.
  gramm: V
  root: šqṣ
  stamm: Ip
@@ -8970,7 +9570,7 @@
 
 -lexeme
  lex: məšqəṭ/šqiṭ
- stem: .š.q.ṭ.|.š.q.ṭṭ.
+ stem: .š.q.ṭ.
  gramm: V
  root: šqṭ
  stamm: Ip
@@ -8990,7 +9590,7 @@
 
 -lexeme
  lex: məšrəd/šrid
- stem: .š.r.d.|.š.r.dd.
+ stem: .š.r.d.
  gramm: V
  root: šrd
  stamm: Ip
@@ -9010,7 +9610,7 @@
 
 -lexeme
  lex: məšrəḥ/šriḥ
- stem: .š.r.ḥ.|.š.r.ḥḥ.
+ stem: .š.r.ḥ.
  gramm: V
  root: šrḥ
  stamm: Ip
@@ -9030,7 +9630,7 @@
 
 -lexeme
  lex: məšrəṭ/šriṭ
- stem: .š.r.ṭ.|.š.r.ṭṭ.
+ stem: .š.r.ṭ.
  gramm: V
  root: šrṭ
  stamm: Ip
@@ -9050,7 +9650,7 @@
 
 -lexeme
  lex: məšrəṭ/šriṭ
- stem: .š.r.ṭ.|.š.r.ṭṭ.
+ stem: .š.r.ṭ.
  gramm: V
  root: šrṭ
  stamm: Ip
@@ -9059,8 +9659,8 @@
  trans_en: to untwine; to become undone; to roll out (Ip)
 
 -lexeme
- lex: maše/mašrele
- stem: .š.r.
+ lex: mašre/mašrele
+ stem: .š.r.y.|.š.r.
  gramm: V
  root: šry
  stamm: III
@@ -9070,7 +9670,7 @@
 
 -lexeme
  lex: məšre/šre
- stem: .š.r.
+ stem: .š.r.y.|.š.r.
  gramm: V
  root: šry
  stamm: Ip
@@ -9080,7 +9680,7 @@
 
 -lexeme
  lex: maštəl/maštele
- stem: .š.t.
+ stem: .š.t.l.|.š.t.
  gramm: V
  root: štl
  stamm: III
@@ -9090,7 +9690,7 @@
 
 -lexeme
  lex: məštəl/štil
- stem: .š.t.l.|.š.t.ll.
+ stem: .š.t.l.|.š.t.n.
  gramm: V
  root: štl
  stamm: Ip
@@ -9099,8 +9699,8 @@
  trans_en: to make a new thing out of an old one (Ip)
 
 -lexeme
- lex: maše/maštele
- stem: .š.t.
+ lex: mašte/maštele
+ stem: .š.t.y.|.š.t.
  gramm: V
  root: šty
  stamm: III
@@ -9110,7 +9710,7 @@
 
 -lexeme
  lex: məšte/šte
- stem: .š.t.
+ stem: .š.t.y.|.š.t.
  gramm: V
  root: šty
  stamm: Ip
@@ -9130,7 +9730,7 @@
 
 -lexeme
  lex: məšṭəf/šṭif
- stem: .š.ṭ.f.|.š.ṭ.ff.
+ stem: .š.ṭ.f.
  gramm: V
  root: šṭf
  stamm: Ip
@@ -9150,7 +9750,7 @@
 
 -lexeme
  lex: məšṭəḥ/šṭiḥ
- stem: .š.ṭ.ḥ.|.š.ṭ.ḥḥ.
+ stem: .š.ṭ.ḥ.
  gramm: V
  root: šṭḥ
  stamm: Ip
@@ -9170,7 +9770,7 @@
 
 -lexeme
  lex: məšwəš/šwiš
- stem: .š.w.š.|.š.w.šš.
+ stem: .š.w.š.
  gramm: V
  root: šwš
  stamm: Ip
@@ -9179,8 +9779,8 @@
  trans_en: to confuse (Ip)
 
 -lexeme
- lex: mašwəy/mašwayle
- stem: .š.w.y.|.š.w.yy.
+ lex: mašwe/mašwele
+ stem: .š.w.y.|.š.w.|.š.y.
  gramm: V
  root: šwy
  stamm: III
@@ -9189,8 +9789,8 @@
  trans_en: to reel, to coil (III)
 
 -lexeme
- lex: məšwəy/šwiy
- stem: .š.w.y.|.š.w.yy.
+ lex: məšwe/šwe
+ stem: .š.w.y.|.š.w.
  gramm: V
  root: šwy
  stamm: Ip
@@ -9199,8 +9799,8 @@
  trans_en: to reel, to coil (Ip)
 
 -lexeme
- lex: mašwəy/mašwayle
- stem: .š.w.y.|.š.w.yy.
+ lex: mašwe/mašwele
+ stem: .š.w.y.|.š.w.|.š.y.
  gramm: V
  root: šwy
  stamm: III
@@ -9209,8 +9809,8 @@
  trans_en: to be worthy of (l-) smth. (III)
 
 -lexeme
- lex: məšwəy/šwiy
- stem: .š.w.y.|.š.w.yy.
+ lex: məšwe/šwe
+ stem: .š.w.y.|.š.w.
  gramm: V
  root: šwy
  stamm: Ip
@@ -9220,7 +9820,7 @@
 
 -lexeme
  lex: mašəʕ/mašəʕle
- stem: .š.y.|.š.ʕ.
+ stem: .š.ʕ.|.š.ʕʕ.
  gramm: V
  root: šyʕ
  stamm: III
@@ -9229,7 +9829,7 @@
  trans_en: to smear; to wall up (III)
 
 -lexeme
- lex: məšəʕ/šiʕ
+ lex: mišəʕ/šiʕ
  stem: .š.ʕ.
  gramm: V
  root: šyʕ
@@ -9240,7 +9840,7 @@
 
 -lexeme
  lex: mašəb/mašəble
- stem: .š.y.|.š.b.
+ stem: .š.b.|.š.bb.
  gramm: V
  root: šyb
  stamm: III
@@ -9249,7 +9849,7 @@
  trans_en: to not become ripe (III)
 
 -lexeme
- lex: məšəb/šib
+ lex: mišəb/šib
  stem: .š.b.
  gramm: V
  root: šyb
@@ -9260,7 +9860,7 @@
 
 -lexeme
  lex: mašəf/mašəfle
- stem: .š.y.|.š.f.
+ stem: .š.f.|.š.ff.
  gramm: V
  root: šyf
  stamm: III
@@ -9269,7 +9869,7 @@
  trans_en: to rub; to massage; to brood; to break up (III)
 
 -lexeme
- lex: məšəf/šif
+ lex: mišəf/šif
  stem: .š.f.
  gramm: V
  root: šyf
@@ -9280,7 +9880,7 @@
 
 -lexeme
  lex: mašəq/mašəqle
- stem: .š.y.|.š.q.
+ stem: .š.q.|.š.qq.
  gramm: V
  root: šyq
  stamm: III
@@ -9289,7 +9889,7 @@
  trans_en: to split; to crack (III)
 
 -lexeme
- lex: məšəq/šiq
+ lex: mišəq/šiq
  stem: .š.q.
  gramm: V
  root: šyq
@@ -9300,7 +9900,7 @@
 
 -lexeme
  lex: mašər/mašərle
- stem: .š.y.|.š.r.
+ stem: .š.r.|.š.rr.
  gramm: V
  root: šyr
  stamm: III
@@ -9309,7 +9909,7 @@
  trans_en: to slip (III)
 
 -lexeme
- lex: məšər/šir
+ lex: mišər/šir
  stem: .š.r.
  gramm: V
  root: šyr
@@ -9320,7 +9920,7 @@
 
 -lexeme
  lex: mašəṭ/mašəṭle
- stem: .š.y.|.š.ṭ.
+ stem: .š.ṭ.|.š.ṭṭ.
  gramm: V
  root: šyṭ
  stamm: III
@@ -9329,7 +9929,7 @@
  trans_en: to become brown (from sun); to glide; to speak a lot (III)
 
 -lexeme
- lex: məšəṭ/šiṭ
+ lex: mišəṭ/šiṭ
  stem: .š.ṭ.
  gramm: V
  root: šyṭ
@@ -9350,7 +9950,7 @@
 
 -lexeme
  lex: mətʕəb/tʕib
- stem: .t.ʕ.b.|.t.ʕ.bb.
+ stem: .t.ʕ.b.
  gramm: V
  root: tʕb
  stamm: Ip
@@ -9370,7 +9970,7 @@
 
 -lexeme
  lex: mətbəʕ/tbiʕ
- stem: .t.b.ʕ.|.t.b.ʕʕ.
+ stem: .t.b.ʕ.
  gramm: V
  root: tbʕ
  stamm: Ip
@@ -9390,7 +9990,7 @@
 
 -lexeme
  lex: mətfək/tfik
- stem: .t.f.k.|.t.f.kk.
+ stem: .t.f.k.
  gramm: V
  root: tfk/tfq
  stamm: Ip
@@ -9410,7 +10010,7 @@
 
 -lexeme
  lex: mətfəq/tfiq
- stem: .t.f.q.|.t.f.qq.
+ stem: .t.f.q.
  gramm: V
  root: tfq
  stamm: Ip
@@ -9430,7 +10030,7 @@
 
 -lexeme
  lex: mətfəs/tfis
- stem: .t.f.s.|.t.f.ss.
+ stem: .t.f.s.
  gramm: V
  root: tfs
  stamm: Ip
@@ -9439,8 +10039,28 @@
  trans_en: to block (Ip)
 
 -lexeme
- lex: mate/matkele
- stem: .t.k.
+ lex: matkəd/matkalle
+ stem: .t.k.d.|.t.k.l.|.t.k.n.|.t.k.dd.
+ gramm: V
+ root: tkdr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: sich betrüben (III)
+ trans_en: to grieve (III)
+
+-lexeme
+ lex: mətkəd/tkid
+ stem: .t.k.d.|.t.k.n.
+ gramm: V
+ root: tkdr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: sich betrüben (Ip)
+ trans_en: to grieve (Ip)
+
+-lexeme
+ lex: matke/matkele
+ stem: .t.k.y.|.t.k.
  gramm: V
  root: tky
  stamm: III
@@ -9450,7 +10070,7 @@
 
 -lexeme
  lex: mətke/tke
- stem: .t.k.
+ stem: .t.k.y.|.t.k.
  gramm: V
  root: tky
  stamm: Ip
@@ -9470,7 +10090,7 @@
 
 -lexeme
  lex: mətləf/tlif
- stem: .t.l.f.|.t.l.ff.
+ stem: .t.l.f.
  gramm: V
  root: tlf
  stamm: Ip
@@ -9490,7 +10110,7 @@
 
 -lexeme
  lex: mətləġ/tliġ
- stem: .t.l.ġ.|.t.l.ġġ.
+ stem: .t.l.ġ.
  gramm: V
  root: tlġ
  stamm: Ip
@@ -9499,8 +10119,8 @@
  trans_en: to moisten (Ip)
 
 -lexeme
- lex: mate/matlele
- stem: .t.l.
+ lex: matle/matlele
+ stem: .t.l.y.|.t.l.
  gramm: V
  root: tly
  stamm: III
@@ -9510,7 +10130,7 @@
 
 -lexeme
  lex: mətle/tle
- stem: .t.l.
+ stem: .t.l.y.|.t.l.
  gramm: V
  root: tly
  stamm: Ip
@@ -9530,7 +10150,7 @@
 
 -lexeme
  lex: mətməġ/tmiġ
- stem: .t.m.ġ.|.t.m.ġġ.
+ stem: .t.m.ġ.
  gramm: V
  root: tmġ
  stamm: Ip
@@ -9540,7 +10160,7 @@
 
 -lexeme
  lex: matqəl/matqele
- stem: .t.q.
+ stem: .t.q.l.|.t.q.
  gramm: V
  root: tql
  stamm: III
@@ -9550,7 +10170,7 @@
 
 -lexeme
  lex: mətqəl/tqil
- stem: .t.q.l.|.t.q.ll.
+ stem: .t.q.l.|.t.q.n.
  gramm: V
  root: tql
  stamm: Ip
@@ -9560,7 +10180,7 @@
 
 -lexeme
  lex: matqən/matqalle
- stem: .t.q.n.|.t.q.
+ stem: .t.q.n.|.t.q.l.|.t.q.nn.
  gramm: V
  root: tqn
  stamm: III
@@ -9570,7 +10190,7 @@
 
 -lexeme
  lex: mətqən/tqin
- stem: .t.q.n.|.t.q.nn.
+ stem: .t.q.n.
  gramm: V
  root: tqn
  stamm: Ip
@@ -9579,8 +10199,8 @@
  trans_en: to become fat (Ip)
 
 -lexeme
- lex: mate/matrele
- stem: .t.r.
+ lex: matre/matrele
+ stem: .t.r.y.|.t.r.
  gramm: V
  root: try
  stamm: III
@@ -9590,7 +10210,7 @@
 
 -lexeme
  lex: mətre/tre
- stem: .t.r.
+ stem: .t.r.y.|.t.r.
  gramm: V
  root: try
  stamm: Ip
@@ -9610,7 +10230,7 @@
 
 -lexeme
  lex: mətwər/twir
- stem: .t.w.r.|.t.w.rr.
+ stem: .t.w.r.
  gramm: V
  root: twr
  stamm: Ip
@@ -9630,7 +10250,7 @@
 
 -lexeme
  lex: mətxəs/txis
- stem: .t.x.s.|.t.x.ss.
+ stem: .t.x.s.
  gramm: V
  root: txs
  stamm: Ip
@@ -9640,7 +10260,7 @@
 
 -lexeme
  lex: matəb/matəble
- stem: .t.y.|.t.b.
+ stem: .t.b.|.t.bb.
  gramm: V
  root: tyb
  stamm: III
@@ -9649,7 +10269,7 @@
  trans_en: to regret; to repent (III)
 
 -lexeme
- lex: mətəb/tib
+ lex: mitəb/tib
  stem: .t.b.
  gramm: V
  root: tyb
@@ -9660,7 +10280,7 @@
 
 -lexeme
  lex: matəh/matəhle
- stem: .t.y.|.t.h.
+ stem: .t.h.|.t.hh.
  gramm: V
  root: tyh
  stamm: III
@@ -9669,7 +10289,7 @@
  trans_en: to scatter (III)
 
 -lexeme
- lex: mətəh/tih
+ lex: mitəh/tih
  stem: .t.h.
  gramm: V
  root: tyh
@@ -9680,7 +10300,7 @@
 
 -lexeme
  lex: matəm/matəmle
- stem: .t.y.|.t.m.
+ stem: .t.m.|.t.mm.
  gramm: V
  root: tym
  stamm: III
@@ -9689,7 +10309,7 @@
  trans_en: to come to an end; to be finished (III)
 
 -lexeme
- lex: mətəm/tim
+ lex: mitəm/tim
  stem: .t.m.
  gramm: V
  root: tym
@@ -9700,7 +10320,7 @@
 
 -lexeme
  lex: matəq/matəqle
- stem: .t.y.|.t.q.
+ stem: .t.q.|.t.qq.
  gramm: V
  root: tyq
  stamm: III
@@ -9709,7 +10329,7 @@
  trans_en: to burst (tr.) (III)
 
 -lexeme
- lex: mətəq/tiq
+ lex: mitəq/tiq
  stem: .t.q.
  gramm: V
  root: tyq
@@ -9720,7 +10340,7 @@
 
 -lexeme
  lex: matəz/matəzle
- stem: .t.y.|.t.z.
+ stem: .t.z.|.t.zz.
  gramm: V
  root: tyz
  stamm: III
@@ -9729,7 +10349,7 @@
  trans_en: to jump up from sleep (III)
 
 -lexeme
- lex: mətəz/tiz
+ lex: mitəz/tiz
  stem: .t.z.
  gramm: V
  root: tyz
@@ -9740,7 +10360,7 @@
 
 -lexeme
  lex: maṭʕən/maṭʕalle
- stem: .ṭ.ʕ.n.|.ṭ.ʕ.
+ stem: .ṭ.ʕ.n.|.ṭ.ʕ.l.|.ṭ.ʕ.nn.
  gramm: V
  root: ṭʕn
  stamm: III
@@ -9750,7 +10370,7 @@
 
 -lexeme
  lex: məṭʕən/ṭʕin
- stem: .ṭ.ʕ.n.|.ṭ.ʕ.nn.
+ stem: .ṭ.ʕ.n.
  gramm: V
  root: ṭʕn
  stamm: Ip
@@ -9759,8 +10379,8 @@
  trans_en: to carry; to load (Ip)
 
 -lexeme
- lex: maṭe/maṭʕele
- stem: .ṭ.ʕ.
+ lex: maṭʕe/maṭʕele
+ stem: .ṭ.ʕ.y.|.ṭ.ʕ.
  gramm: V
  root: ṭʕy
  stamm: III
@@ -9770,7 +10390,7 @@
 
 -lexeme
  lex: məṭʕe/ṭʕe
- stem: .ṭ.ʕ.
+ stem: .ṭ.ʕ.y.|.ṭ.ʕ.
  gramm: V
  root: ṭʕy
  stamm: Ip
@@ -9790,7 +10410,7 @@
 
 -lexeme
  lex: məṭbəʕ/ṭbiʕ
- stem: .ṭ.b.ʕ.|.ṭ.b.ʕʕ.
+ stem: .ṭ.b.ʕ.
  gramm: V
  root: ṭbʕ
  stamm: Ip
@@ -9810,7 +10430,7 @@
 
 -lexeme
  lex: məṭbəq/ṭbiq
- stem: .ṭ.b.q.|.ṭ.b.qq.
+ stem: .ṭ.b.q.
  gramm: V
  root: ṭbq
  stamm: Ip
@@ -9830,7 +10450,7 @@
 
 -lexeme
  lex: məṭbəx/ṭbix
- stem: .ṭ.b.x.|.ṭ.b.xx.
+ stem: .ṭ.b.x.
  gramm: V
  root: ṭbx
  stamm: Ip
@@ -9839,8 +10459,8 @@
  trans_en: to cook (Ip)
 
 -lexeme
- lex: maṭe/maṭfele
- stem: .ṭ.f.
+ lex: maṭfe/maṭfele
+ stem: .ṭ.f.y.|.ṭ.f.
  gramm: V
  root: ṭfy
  stamm: III
@@ -9850,7 +10470,7 @@
 
 -lexeme
  lex: məṭfe/ṭfe
- stem: .ṭ.f.
+ stem: .ṭ.f.y.|.ṭ.f.
  gramm: V
  root: ṭfy
  stamm: Ip
@@ -9860,7 +10480,7 @@
 
 -lexeme
  lex: maṭḥən/maṭḥalle
- stem: .ṭ.ḥ.n.|.ṭ.ḥ.
+ stem: .ṭ.ḥ.n.|.ṭ.ḥ.l.|.ṭ.ḥ.nn.
  gramm: V
  root: ṭḥn
  stamm: III
@@ -9870,7 +10490,7 @@
 
 -lexeme
  lex: məṭḥən/ṭḥin
- stem: .ṭ.ḥ.n.|.ṭ.ḥ.nn.
+ stem: .ṭ.ḥ.n.
  gramm: V
  root: ṭḥn
  stamm: Ip
@@ -9890,7 +10510,7 @@
 
 -lexeme
  lex: məṭləb/ṭlib
- stem: .ṭ.l.b.|.ṭ.l.bb.
+ stem: .ṭ.l.b.
  gramm: V
  root: ṭlb
  stamm: Ip
@@ -9910,7 +10530,7 @@
 
 -lexeme
  lex: məṭməʕ/ṭmiʕ
- stem: .ṭ.m.ʕ.|.ṭ.m.ʕʕ.
+ stem: .ṭ.m.ʕ.
  gramm: V
  root: ṭmʕ
  stamm: Ip
@@ -9920,7 +10540,7 @@
 
 -lexeme
  lex: maṭmər/maṭmalle
- stem: .ṭ.m.r.|.ṭ.m.
+ stem: .ṭ.m.r.|.ṭ.m.l.|.ṭ.m.n.|.ṭ.m.rr.
  gramm: V
  root: ṭmr
  stamm: III
@@ -9930,7 +10550,7 @@
 
 -lexeme
  lex: məṭmər/ṭmir
- stem: .ṭ.m.r.|.ṭ.m.rr.
+ stem: .ṭ.m.r.|.ṭ.m.n.
  gramm: V
  root: ṭmr
  stamm: Ip
@@ -9950,7 +10570,7 @@
 
 -lexeme
  lex: məṭməš/ṭmiš
- stem: .ṭ.m.š.|.ṭ.m.šš.
+ stem: .ṭ.m.š.
  gramm: V
  root: ṭmš
  stamm: Ip
@@ -9970,7 +10590,7 @@
 
 -lexeme
  lex: məṭrəḏ/ṭriḏ
- stem: .ṭ.r.ḏ.|.ṭ.r.ḏḏ.
+ stem: .ṭ.r.ḏ.
  gramm: V
  root: ṭrḏ
  stamm: Ip
@@ -9990,7 +10610,7 @@
 
 -lexeme
  lex: məṭrəf/ṭrif
- stem: .ṭ.r.f.|.ṭ.r.ff.
+ stem: .ṭ.r.f.
  gramm: V
  root: ṭrf
  stamm: Ip
@@ -10010,7 +10630,7 @@
 
 -lexeme
  lex: məṭrəḥ/ṭriḥ
- stem: .ṭ.r.ḥ.|.ṭ.r.ḥḥ.
+ stem: .ṭ.r.ḥ.
  gramm: V
  root: ṭrḥ
  stamm: Ip
@@ -10030,7 +10650,7 @@
 
 -lexeme
  lex: məṭrəṣ/ṭriṣ
- stem: .ṭ.r.ṣ.|.ṭ.r.ṣṣ.
+ stem: .ṭ.r.ṣ.
  gramm: V
  root: ṭrṣ
  stamm: Ip
@@ -10039,8 +10659,8 @@
  trans_en: to roll (intr.) (Ip)
 
 -lexeme
- lex: maṭe/maṭrele
- stem: .ṭ.r.
+ lex: maṭre/maṭrele
+ stem: .ṭ.r.y.|.ṭ.r.
  gramm: V
  root: ṭry
  stamm: III
@@ -10050,7 +10670,7 @@
 
 -lexeme
  lex: məṭre/ṭre
- stem: .ṭ.r.
+ stem: .ṭ.r.y.|.ṭ.r.
  gramm: V
  root: ṭry
  stamm: Ip
@@ -10070,7 +10690,7 @@
 
 -lexeme
  lex: məṭwəʕ/ṭwiʕ
- stem: .ṭ.w.ʕ.|.ṭ.w.ʕʕ.
+ stem: .ṭ.w.ʕ.
  gramm: V
  root: ṭwʕ
  stamm: Ip
@@ -10079,8 +10699,8 @@
  trans_en: to fall asleep; to set (sun) (Ip)
 
 -lexeme
- lex: maṭwəy/maṭwayle
- stem: .ṭ.w.y.|.ṭ.w.yy.
+ lex: maṭwe/maṭwele
+ stem: .ṭ.w.y.|.ṭ.w.|.ṭ.y.
  gramm: V
  root: ṭwy
  stamm: III
@@ -10089,8 +10709,8 @@
  trans_en: to be worth; to cost (III)
 
 -lexeme
- lex: məṭwəy/ṭwiy
- stem: .ṭ.w.y.|.ṭ.w.yy.
+ lex: məṭwe/ṭwe
+ stem: .ṭ.w.y.|.ṭ.w.
  gramm: V
  root: ṭwy
  stamm: Ip
@@ -10099,8 +10719,8 @@
  trans_en: to be worth; to cost (Ip)
 
 -lexeme
- lex: maṭwəy/maṭwayle
- stem: .ṭ.w.y.|.ṭ.w.yy.
+ lex: maṭwe/maṭwele
+ stem: .ṭ.w.y.|.ṭ.w.|.ṭ.y.
  gramm: V
  root: ṭwy
  stamm: III
@@ -10109,8 +10729,8 @@
  trans_en: to fold (III)
 
 -lexeme
- lex: məṭwəy/ṭwiy
- stem: .ṭ.w.y.|.ṭ.w.yy.
+ lex: məṭwe/ṭwe
+ stem: .ṭ.w.y.|.ṭ.w.
  gramm: V
  root: ṭwy
  stamm: Ip
@@ -10120,7 +10740,7 @@
 
 -lexeme
  lex: maṭəf/maṭəfle
- stem: .ṭ.y.|.ṭ.f.
+ stem: .ṭ.f.|.ṭ.ff.
  gramm: V
  root: ṭyf
  stamm: III
@@ -10129,7 +10749,7 @@
  trans_en: to overflow (III)
 
 -lexeme
- lex: məṭəf/ṭif
+ lex: miṭəf/ṭif
  stem: .ṭ.f.
  gramm: V
  root: ṭyf
@@ -10140,7 +10760,7 @@
 
 -lexeme
  lex: maṭəm/maṭəmle
- stem: .ṭ.y.|.ṭ.m.
+ stem: .ṭ.m.|.ṭ.mm.
  gramm: V
  root: ṭym
  stamm: III
@@ -10149,7 +10769,7 @@
  trans_en: to close the eyes (III)
 
 -lexeme
- lex: məṭəm/ṭim
+ lex: miṭəm/ṭim
  stem: .ṭ.m.
  gramm: V
  root: ṭym
@@ -10160,7 +10780,7 @@
 
 -lexeme
  lex: maṭər/maṭərle
- stem: .ṭ.y.|.ṭ.r.
+ stem: .ṭ.r.|.ṭ.rr.
  gramm: V
  root: ṭyr
  stamm: III
@@ -10169,7 +10789,7 @@
  trans_en: to fly, to fly up (III)
 
 -lexeme
- lex: məṭər/ṭir
+ lex: miṭər/ṭir
  stem: .ṭ.r.
  gramm: V
  root: ṭyr
@@ -10180,7 +10800,7 @@
 
 -lexeme
  lex: maṭəš/maṭəšle
- stem: .ṭ.y.|.ṭ.š.
+ stem: .ṭ.š.|.ṭ.šš.
  gramm: V
  root: ṭyš
  stamm: III
@@ -10189,7 +10809,7 @@
  trans_en: to coat; to soap (III)
 
 -lexeme
- lex: məṭəš/ṭiš
+ lex: miṭəš/ṭiš
  stem: .ṭ.š.
  gramm: V
  root: ṭyš
@@ -10200,7 +10820,7 @@
 
 -lexeme
  lex: maṯkər/maṯkalle
- stem: .ṯ.k.r.|.ṯ.k.
+ stem: .ṯ.k.r.|.ṯ.k.l.|.ṯ.k.n.|.ṯ.k.rr.
  gramm: V
  root: ṯkr
  stamm: III
@@ -10210,7 +10830,7 @@
 
 -lexeme
  lex: məṯkər/ṯkir
- stem: .ṯ.k.r.|.ṯ.k.rr.
+ stem: .ṯ.k.r.|.ṯ.k.n.
  gramm: V
  root: ṯkr
  stamm: Ip
@@ -10219,8 +10839,8 @@
  trans_en: to mention; to remember (Ip)
 
 -lexeme
- lex: maṯe/maṯnele
- stem: .ṯ.n.
+ lex: maṯne/maṯnele
+ stem: .ṯ.n.y.|.ṯ.n.
  gramm: V
  root: ṯny
  stamm: III
@@ -10230,7 +10850,7 @@
 
 -lexeme
  lex: məṯne/ṯne
- stem: .ṯ.n.
+ stem: .ṯ.n.y.|.ṯ.n.
  gramm: V
  root: ṯny
  stamm: Ip
@@ -10250,7 +10870,7 @@
 
 -lexeme
  lex: məxdəm/xdim
- stem: .x.d.m.|.x.d.mm.
+ stem: .x.d.m.
  gramm: V
  root: xdm
  stamm: Ip
@@ -10270,7 +10890,7 @@
 
 -lexeme
  lex: məxləd/xlid
- stem: .x.l.d.|.x.l.dd.
+ stem: .x.l.d.
  gramm: V
  root: xld
  stamm: Ip
@@ -10290,7 +10910,7 @@
 
 -lexeme
  lex: məxləq/xliq
- stem: .x.l.q.|.x.l.qq.
+ stem: .x.l.q.
  gramm: V
  root: xlq
  stamm: Ip
@@ -10310,7 +10930,7 @@
 
 -lexeme
  lex: məxləṣ/xliṣ
- stem: .x.l.ṣ.|.x.l.ṣṣ.
+ stem: .x.l.ṣ.
  gramm: V
  root: xlṣ
  stamm: Ip
@@ -10330,7 +10950,7 @@
 
 -lexeme
  lex: məxləṭ/xliṭ
- stem: .x.l.ṭ.|.x.l.ṭṭ.
+ stem: .x.l.ṭ.
  gramm: V
  root: xlṭ
  stamm: Ip
@@ -10339,8 +10959,8 @@
  trans_en: to mix (Ip)
 
 -lexeme
- lex: maxe/maxlele
- stem: .x.l.
+ lex: maxle/maxlele
+ stem: .x.l.y.|.x.l.
  gramm: V
  root: xly
  stamm: III
@@ -10350,7 +10970,7 @@
 
 -lexeme
  lex: məxle/xle
- stem: .x.l.
+ stem: .x.l.y.|.x.l.
  gramm: V
  root: xly
  stamm: Ip
@@ -10370,7 +10990,7 @@
 
 -lexeme
  lex: məxməd/xmid
- stem: .x.m.d.|.x.m.dd.
+ stem: .x.m.d.
  gramm: V
  root: xmd
  stamm: Ip
@@ -10390,7 +11010,7 @@
 
 -lexeme
  lex: məxpəs/xpis
- stem: .x.p.s.|.x.p.ss.
+ stem: .x.p.s.
  gramm: V
  root: xps
  stamm: Ip
@@ -10410,7 +11030,7 @@
 
 -lexeme
  lex: məxrəǧ/xriǧ
- stem: .x.r.ǧ.|.x.r.ǧǧ.
+ stem: .x.r.ǧ.
  gramm: V
  root: xrǧ
  stamm: Ip
@@ -10430,7 +11050,7 @@
 
 -lexeme
  lex: məxrəm/xrim
- stem: .x.r.m.|.x.r.mm.
+ stem: .x.r.m.
  gramm: V
  root: xrm
  stamm: Ip
@@ -10450,7 +11070,7 @@
 
 -lexeme
  lex: məxrəq/xriq
- stem: .x.r.q.|.x.r.qq.
+ stem: .x.r.q.
  gramm: V
  root: xrq
  stamm: Ip
@@ -10470,7 +11090,7 @@
 
 -lexeme
  lex: məxrəṭ/xriṭ
- stem: .x.r.ṭ.|.x.r.ṭṭ.
+ stem: .x.r.ṭ.
  gramm: V
  root: xrṭ
  stamm: Ip
@@ -10490,7 +11110,7 @@
 
 -lexeme
  lex: məxrəz/xriz
- stem: .x.r.z.|.x.r.zz.
+ stem: .x.r.z.
  gramm: V
  root: xrz
  stamm: Ip
@@ -10500,7 +11120,7 @@
 
 -lexeme
  lex: maxṣər/maxṣalle
- stem: .x.ṣ.r.|.x.ṣ.
+ stem: .x.ṣ.r.|.x.ṣ.l.|.x.ṣ.n.|.x.ṣ.rr.
  gramm: V
  root: xṣr
  stamm: III
@@ -10510,7 +11130,7 @@
 
 -lexeme
  lex: məxṣər/xṣir
- stem: .x.ṣ.r.|.x.ṣ.rr.
+ stem: .x.ṣ.r.|.x.ṣ.n.
  gramm: V
  root: xṣr
  stamm: Ip
@@ -10520,7 +11140,7 @@
 
 -lexeme
  lex: maxšən/maxšalle
- stem: .x.š.n.|.x.š.
+ stem: .x.š.n.|.x.š.l.|.x.š.nn.
  gramm: V
  root: xšn
  stamm: III
@@ -10530,7 +11150,7 @@
 
 -lexeme
  lex: məxšən/xšin
- stem: .x.š.n.|.x.š.nn.
+ stem: .x.š.n.
  gramm: V
  root: xšn
  stamm: Ip
@@ -10540,7 +11160,7 @@
 
 -lexeme
  lex: maxəb/maxəble
- stem: .x.y.|.x.b.
+ stem: .x.b.|.x.bb.
  gramm: V
  root: xyb
  stamm: III
@@ -10549,7 +11169,7 @@
  trans_en: to become fruitless (III)
 
 -lexeme
- lex: məxəb/xib
+ lex: mixəb/xib
  stem: .x.b.
  gramm: V
  root: xyb
@@ -10560,7 +11180,7 @@
 
 -lexeme
  lex: maxəf/maxəfle
- stem: .x.y.|.x.f.
+ stem: .x.f.|.x.ff.
  gramm: V
  root: xyf
  stamm: III
@@ -10569,7 +11189,7 @@
  trans_en: to become light; to become easy; to become early; to become quick (III)
 
 -lexeme
- lex: məxəf/xif
+ lex: mixəf/xif
  stem: .x.f.
  gramm: V
  root: xyf
@@ -10580,7 +11200,7 @@
 
 -lexeme
  lex: maxər/maxərle
- stem: .x.y.|.x.r.
+ stem: .x.r.|.x.rr.
  gramm: V
  root: xyr
  stamm: III
@@ -10589,7 +11209,7 @@
  trans_en: to flow (III)
 
 -lexeme
- lex: məxər/xir
+ lex: mixər/xir
  stem: .x.r.
  gramm: V
  root: xyr
@@ -10599,8 +11219,8 @@
  trans_en: to flow (Ip)
 
 -lexeme
- lex: maye/mayʕele
- stem: .y.ʕ.
+ lex: mayʕe/mayʕele
+ stem: .y.ʕ.y.|.y.ʕ.
  gramm: V
  root: yʕy
  stamm: III
@@ -10610,7 +11230,7 @@
 
 -lexeme
  lex: məyʕe/yʕe
- stem: .y.ʕ.
+ stem: .y.ʕ.y.|.y.ʕ.
  gramm: V
  root: yʕy
  stamm: Ip
@@ -10630,7 +11250,7 @@
 
 -lexeme
  lex: məyləf/ylif
- stem: .y.l.f.|.y.l.ff.
+ stem: .y.l.f.
  gramm: V
  root: ylf
  stamm: Ip
@@ -10639,8 +11259,28 @@
  trans_en: to learn; to get accustomed to (l-) smth. (Ip)
 
 -lexeme
- lex: maynəq/maynaqle
- stem: .y.n.q.|.y.n.qq.
+ lex: mawme/mawmele
+ stem: .w.m.y.|.w.m.
+ gramm: V
+ root: ymy
+ stamm: III
+ paradigm: V_III_1y_3y
+ trans_de: schwören (jm l-, bei b-); beschwören (ʕal) (III)
+ trans_en: to swear (III)
+
+-lexeme
+ lex: mime/ime
+ stem: .m.y.|.y.m.
+ gramm: V
+ root: ymy
+ stamm: Ip
+ paradigm: V_Ip_1y_3y
+ trans_de: schwören (jm l-, bei b-); beschwören (ʕal) (Ip)
+ trans_en: to swear (Ip)
+
+-lexeme
+ lex: mawnəq/mawnaqle
+ stem: .w.n.q.|.n.q.|.w.n.qq.|.n.qq.
  gramm: V
  root: ynq
  stamm: III
@@ -10649,8 +11289,8 @@
  trans_en: to suck (III)
 
 -lexeme
- lex: məynəq/yniq
- stem: .y.n.q.|.y.n.qq.
+ lex: minəq/iniq
+ stem: .n.q.
  gramm: V
  root: ynq
  stamm: Ip
@@ -10670,7 +11310,7 @@
 
 -lexeme
  lex: məyqəḏ/yqiḏ
- stem: .y.q.ḏ.|.y.q.ḏḏ.
+ stem: .y.q.ḏ.
  gramm: V
  root: yqḏ
  stamm: Ip
@@ -10680,7 +11320,7 @@
 
 -lexeme
  lex: mayqər/mayqalle
- stem: .y.q.r.|.y.q.
+ stem: .y.q.r.|.y.q.l.|.y.q.n.|.y.q.rr.
  gramm: V
  root: yqr
  stamm: III
@@ -10690,7 +11330,7 @@
 
 -lexeme
  lex: məyqər/yqir
- stem: .y.q.r.|.y.q.rr.
+ stem: .y.q.r.|.y.q.n.
  gramm: V
  root: yqr
  stamm: Ip
@@ -10710,7 +11350,7 @@
 
 -lexeme
  lex: məyrəm/yrim
- stem: .y.r.m.|.y.r.mm.
+ stem: .y.r.m.
  gramm: V
  root: yrm
  stamm: Ip
@@ -10730,7 +11370,7 @@
 
 -lexeme
  lex: məyrəq/yriq
- stem: .y.r.q.|.y.r.qq.
+ stem: .y.r.q.
  gramm: V
  root: yrq
  stamm: Ip
@@ -10739,8 +11379,28 @@
  trans_en: to become green (Ip)
 
 -lexeme
- lex: mayru/mayrawle
- stem: .y.r.|.y.r.w.
+ lex: mawrəṯ/mawraṯle
+ stem: .w.r.ṯ.|.r.ṯ.|.w.r.ṯṯ.|.r.ṯṯ.
+ gramm: V
+ root: yrṯ
+ stamm: III
+ paradigm: V_III_1y
+ trans_de: erben (III)
+ trans_en: to inherit (III)
+
+-lexeme
+ lex: mirəṯ/iriṯ
+ stem: .r.ṯ.
+ gramm: V
+ root: yrṯ
+ stamm: Ip
+ paradigm: V_Ip_1y
+ trans_de: erben (Ip)
+ trans_en: to inherit (Ip)
+
+-lexeme
+ lex: mayru/mayrule
+ stem: .y.r.w.|.y.r.|.y.r.ww.
  gramm: V
  root: yrw
  stamm: III
@@ -10750,7 +11410,7 @@
 
 -lexeme
  lex: məyru/yriw
- stem: .y.r.|.y.r.w.
+ stem: .y.r.w.|.y.r.
  gramm: V
  root: yrw
  stamm: Ip
@@ -10770,7 +11430,7 @@
 
 -lexeme
  lex: məyrəx/yrix
- stem: .y.r.x.|.y.r.xx.
+ stem: .y.r.x.
  gramm: V
  root: yrx
  stamm: Ip
@@ -10790,7 +11450,7 @@
 
 -lexeme
  lex: məysəq/ysiq
- stem: .y.s.q.|.y.s.qq.
+ stem: .y.s.q.
  gramm: V
  root: ysq
  stamm: Ip
@@ -10799,8 +11459,8 @@
  trans_en: to go up; to ascend (Ip)
 
 -lexeme
- lex: maytu/maytawle
- stem: .y.t.|.y.t.w.
+ lex: maytu/maytule
+ stem: .y.t.w.|.y.t.|.y.t.ww.
  gramm: V
  root: ytw
  stamm: III
@@ -10810,13 +11470,33 @@
 
 -lexeme
  lex: məytu/ytiw
- stem: .y.t.|.y.t.w.
+ stem: .y.t.w.|.y.t.
  gramm: V
  root: ytw
  stamm: Ip
  paradigm: V_Ip_3w
  trans_de: 1) sich setzen, sich niederlassen, 2) wohnen, sich niederlassen (в смысле “обосновываться”) 3) sich als Knecht, Geselle, Hirt verdingen, in Dienst eintreten, 4) sich aufs Altenteil zurückziehen, abdanken; 5) auf dem Thron sitzen, regieren (Ip)
  trans_en: to sit; to sit down; to live; to stay (Ip)
+
+-lexeme
+ lex: mazʕəb/mazʕable
+ stem: .z.ʕ.b.|.z.ʕ.bb.
+ gramm: V
+ root: zʕbr
+ stamm: III
+ paradigm: V_III
+ trans_de: schelten, ausschelten (mit ausgestossenen Worten — ʕal) (III)
+ trans_en: to scold; to berate (III)
+
+-lexeme
+ lex: məzʕəb/zʕib
+ stem: .z.ʕ.b.
+ gramm: V
+ root: zʕbr
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: schelten, ausschelten (mit ausgestossenen Worten — ʕal) (Ip)
+ trans_en: to scold; to berate (Ip)
 
 -lexeme
  lex: mazʕəf/mazʕafle
@@ -10830,7 +11510,7 @@
 
 -lexeme
  lex: məzʕəf/zʕif
- stem: .z.ʕ.f.|.z.ʕ.ff.
+ stem: .z.ʕ.f.
  gramm: V
  root: zʕf/zḥf
  stamm: Ip
@@ -10850,7 +11530,7 @@
 
 -lexeme
  lex: məzʕəb/zʕib
- stem: .z.ʕ.b.|.z.ʕ.bb.
+ stem: .z.ʕ.b.
  gramm: V
  root: zʕb
  stamm: Ip
@@ -10870,7 +11550,7 @@
 
 -lexeme
  lex: məzbəṭ/zbiṭ
- stem: .z.b.ṭ.|.z.b.ṭṭ.
+ stem: .z.b.ṭ.
  gramm: V
  root: zbṭ
  stamm: Ip
@@ -10879,8 +11559,8 @@
  trans_en: to catch; to grab; to hold; (ruḥe) to control oneself (Ip)
 
 -lexeme
- lex: maze/mazbele
- stem: .z.b.
+ lex: mazbe/mazbele
+ stem: .z.b.y.|.z.b.
  gramm: V
  root: zby
  stamm: III
@@ -10890,7 +11570,7 @@
 
 -lexeme
  lex: məzbe/zbe
- stem: .z.b.
+ stem: .z.b.y.|.z.b.
  gramm: V
  root: zby
  stamm: Ip
@@ -10900,7 +11580,7 @@
 
 -lexeme
  lex: mazġəl/mazġele
- stem: .z.ġ.
+ stem: .z.ġ.l.|.z.ġ.
  gramm: V
  root: zġl
  stamm: III
@@ -10910,13 +11590,33 @@
 
 -lexeme
  lex: məzġəl/zġil
- stem: .z.ġ.l.|.z.ġ.ll.
+ stem: .z.ġ.l.|.z.ġ.n.
  gramm: V
  root: zġl
  stamm: Ip
  paradigm: V_Ip_3l
  trans_de: durch Beimischung fälschen (Metall), panschen (Milch) (Ip)
  trans_en: to counterfeit by mixing (Ip)
+
+-lexeme
+ lex: mazləʕ/mazlaʕle
+ stem: .z.l.ʕ.|.z.l.ʕʕ.
+ gramm: V
+ root: zlʕṭ
+ stamm: III
+ paradigm: V_III
+ trans_de: aufkratzen (III)
+ trans_en: to scratch (III)
+
+-lexeme
+ lex: məzləʕ/zliʕ
+ stem: .z.l.ʕ.
+ gramm: V
+ root: zlʕṭ
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: aufkratzen (Ip)
+ trans_en: to scratch (Ip)
 
 -lexeme
  lex: mazləq/mazlaqle
@@ -10930,7 +11630,7 @@
 
 -lexeme
  lex: məzləq/zliq
- stem: .z.l.q.|.z.l.qq.
+ stem: .z.l.q.
  gramm: V
  root: zlq
  stamm: Ip
@@ -10950,7 +11650,7 @@
 
 -lexeme
  lex: məzləṭ/zliṭ
- stem: .z.l.ṭ.|.z.l.ṭṭ.
+ stem: .z.l.ṭ.
  gramm: V
  root: zlṭ
  stamm: Ip
@@ -10960,7 +11660,7 @@
 
 -lexeme
  lex: mazmər/mazmalle
- stem: .z.m.r.|.z.m.
+ stem: .z.m.r.|.z.m.l.|.z.m.n.|.z.m.rr.
  gramm: V
  root: zmr
  stamm: III
@@ -10970,7 +11670,7 @@
 
 -lexeme
  lex: məzmər/zmir
- stem: .z.m.r.|.z.m.rr.
+ stem: .z.m.r.|.z.m.n.
  gramm: V
  root: zmr
  stamm: Ip
@@ -10979,8 +11679,28 @@
  trans_en: to sing (Ip)
 
 -lexeme
- lex: maze/maznele
- stem: .z.n.
+ lex: maznəǧ/maznalle
+ stem: .z.n.ǧ.|.z.n.l.|.z.n.n.|.z.n.ǧǧ.
+ gramm: V
+ root: znǧr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: anketten (III)
+ trans_en: to chain (III)
+
+-lexeme
+ lex: məznəǧ/zniǧ
+ stem: .z.n.ǧ.|.z.n.n.
+ gramm: V
+ root: znǧr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: anketten (Ip)
+ trans_en: to chain (Ip)
+
+-lexeme
+ lex: mazne/maznele
+ stem: .z.n.y.|.z.n.
  gramm: V
  root: zny
  stamm: III
@@ -10990,7 +11710,7 @@
 
 -lexeme
  lex: məzne/zne
- stem: .z.n.
+ stem: .z.n.y.|.z.n.
  gramm: V
  root: zny
  stamm: Ip
@@ -11010,7 +11730,7 @@
 
 -lexeme
  lex: məzqəf/zqif
- stem: .z.q.f.|.z.q.ff.
+ stem: .z.q.f.
  gramm: V
  root: zqf
  stamm: Ip
@@ -11030,7 +11750,7 @@
 
 -lexeme
  lex: məzqər/zqir
- stem: .z.q.r.|.z.q.rr.
+ stem: .z.q.r.
  gramm: V
  root: zqr
  stamm: Ip
@@ -11050,7 +11770,7 @@
 
 -lexeme
  lex: məzqəṭ/zqiṭ
- stem: .z.q.ṭ.|.z.q.ṭṭ.
+ stem: .z.q.ṭ.
  gramm: V
  root: zqṭ
  stamm: Ip
@@ -11070,7 +11790,7 @@
 
 -lexeme
  lex: məzrəʕ/zriʕ
- stem: .z.r.ʕ.|.z.r.ʕʕ.
+ stem: .z.r.ʕ.
  gramm: V
  root: zrʕ
  stamm: Ip
@@ -11090,7 +11810,7 @@
 
 -lexeme
  lex: məzrəg/zrig
- stem: .z.r.g.|.z.r.gg.
+ stem: .z.r.g.
  gramm: V
  root: zrg
  stamm: Ip
@@ -11099,8 +11819,8 @@
  trans_en: to throw (Ip)
 
 -lexeme
- lex: mazwən/mazwanle
- stem: .z.w.n.|.z.w.nn.
+ lex: mazwən/mazwalle
+ stem: .z.w.n.|.z.w.l.|.z.w.nn.
  gramm: V
  root: zwn
  stamm: III
@@ -11110,7 +11830,7 @@
 
 -lexeme
  lex: məzwən/zwin
- stem: .z.w.n.|.z.w.nn.
+ stem: .z.w.n.
  gramm: V
  root: zwn
  stamm: Ip
@@ -11120,7 +11840,7 @@
 
 -lexeme
  lex: mazəʕ/mazəʕle
- stem: .z.y.|.z.ʕ.
+ stem: .z.ʕ.|.z.ʕʕ.
  gramm: V
  root: zyʕ
  stamm: III
@@ -11129,7 +11849,7 @@
  trans_en: to get scared; to become afraid (III)
 
 -lexeme
- lex: məzəʕ/ziʕ
+ lex: mizəʕ/ziʕ
  stem: .z.ʕ.
  gramm: V
  root: zyʕ
@@ -11140,7 +11860,7 @@
 
 -lexeme
  lex: mazəd/mazədle
- stem: .z.y.|.z.d.
+ stem: .z.d.|.z.dd.
  gramm: V
  root: zyd
  stamm: III
@@ -11149,7 +11869,7 @@
  trans_en: to increase (III)
 
 -lexeme
- lex: məzəd/zid
+ lex: mizəd/zid
  stem: .z.d.
  gramm: V
  root: zyd
@@ -11169,8 +11889,8 @@
  trans_en: to remove admixtures (III)
 
 -lexeme
- lex: məzəl/zil
- stem: .z.l.
+ lex: mizəl/zil
+ stem: .z.l.|.z.n.
  gramm: V
  root: zyl
  stamm: Ip
@@ -11180,7 +11900,7 @@
 
 -lexeme
  lex: mazər/mazəlle
- stem: .z.r.|.z.
+ stem: .z.r.|.z.l.|.z.n.|.z.rr.
  gramm: V
  root: zyr
  stamm: III
@@ -11189,8 +11909,8 @@
  trans_en: to visit (III)
 
 -lexeme
- lex: məzər/zir
- stem: .z.r.
+ lex: mizər/zir
+ stem: .z.r.|.z.n.
  gramm: V
  root: zyr
  stamm: Ip
@@ -11200,7 +11920,7 @@
 
 -lexeme
  lex: mazər/mazəlle
- stem: .z.r.|.z.
+ stem: .z.r.|.z.l.|.z.n.|.z.rr.
  gramm: V
  root: zyr
  stamm: III
@@ -11209,8 +11929,8 @@
  trans_en: to become fat (III)
 
 -lexeme
- lex: məzər/zir
- stem: .z.r.
+ lex: mizər/zir
+ stem: .z.r.|.z.n.
  gramm: V
  root: zyr
  stamm: Ip
@@ -11219,8 +11939,68 @@
  trans_en: to become fat (Ip)
 
 -lexeme
- lex: mame/mamtele
- stem: .m.t.
+ lex: maʔbəʕ/maʔbaʕle
+ stem: .ʔ.b.ʕ.|.ʔ.b.ʕʕ.
+ gramm: V
+ root: ʔbʕ
+ stamm: III
+ paradigm: V_III
+ trans_de: 1) wollen, haben wollen; 2) nötig sein (für l-), müssen (III)
+ trans_en: to want; to be necessary to (l-) smb. (III)
+
+-lexeme
+ lex: məʔbəʕ/ʔbiʕ
+ stem: .ʔ.b.ʕ.
+ gramm: V
+ root: ʔbʕ
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: 1) wollen, haben wollen; 2) nötig sein (für l-), müssen (Ip)
+ trans_en: to want; to be necessary to (l-) smb. (Ip)
+
+-lexeme
+ lex: maʔḏəʕ/maʔḏaʕle
+ stem: .ʔ.ḏ.ʕ.|.ʔ.ḏ.ʕʕ.
+ gramm: V
+ root: ʔḏʕ
+ stamm: III
+ paradigm: V_III
+ trans_de: 1) wissen, kennen; 2) erkennen, erfahren; 3) can, be able (III)
+ trans_en: to know; to recognize; to can, to be able (III)
+
+-lexeme
+ lex: məʔḏəʕ/ʔḏiʕ
+ stem: .ʔ.ḏ.ʕ.
+ gramm: V
+ root: ʔḏʕ
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: 1) wissen, kennen; 2) erkennen, erfahren; 3) can, be able (Ip)
+ trans_en: to know; to recognize; to can, to be able (Ip)
+
+-lexeme
+ lex: maʔṯe/maʔṯele
+ stem: .ʔ.ṯ.y.|.ʔ.ṯ.
+ gramm: V
+ root: ʔṯy
+ stamm: III
+ paradigm: V_III_3y
+ trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lə-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, məqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mən-; k-oṯe mən- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥəmto); 16) entgegengehen (l-qamuṯo) (III)
+ trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow; (III)
+
+-lexeme
+ lex: məʔṯe/ʔṯe
+ stem: .ʔ.ṯ.y.|.ʔ.ṯ.
+ gramm: V
+ root: ʔṯy
+ stamm: Ip
+ paradigm: V_Ip_3y
+ trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lə-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, məqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mən-; k-oṯe mən- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥəmto); 16) entgegengehen (l-qamuṯo) (Ip)
+ trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow; (Ip)
+
+-lexeme
+ lex: maʔṯe/maʔṯele
+ stem: .ʔ.ṯ.y.|.ʔ.ṯ.
  gramm: V
  root: ʔṯy
  stamm: III
@@ -11229,14 +12009,34 @@
  trans_en: to bring, to fetch (III)
 
 -lexeme
- lex: məmte/mte
- stem: .m.t.
+ lex: məʔṯe/ʔṯe
+ stem: .ʔ.ṯ.y.|.ʔ.ṯ.
  gramm: V
  root: ʔṯy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: bringen, mitbringen, herbringen (Ip)
  trans_en: to bring, to fetch (Ip)
+
+-lexeme
+ lex: maʔxəl/maʔxele
+ stem: .ʔ.x.l.|.ʔ.x.
+ gramm: V
+ root: ʔxl
+ stamm: III
+ paradigm: V_III_3l
+ trans_de: 1) essen; 2) (axile ruḥe) er verzehrte sich im Affekt, er wurde innerlich wütend; 3) (l-i=emo axila yalda, u=waldayḏa) es gab einen grossen Trubel, ein grosses Gedränge, Streit; 4) (axile qarʕe d-u=babo) er hat den Vater ins Grab gebracht (so sagt man etwa von einem Unglückskind, das gerade geboren wurde, als der Vater starb); 5) (k-oxəl aʕle) er passt für ihn, er verdient; er ist wert; 6) Lebensunterhalt bekommen; 7) verzehren, für das Essen ausgeben (съесть, проесть деньги, т.е. потратить их на еду) (III)
+ trans_en: to eat (III)
+
+-lexeme
+ lex: məʔxəl/ʔxil
+ stem: .ʔ.x.l.|.ʔ.x.n.
+ gramm: V
+ root: ʔxl
+ stamm: Ip
+ paradigm: V_Ip_3l
+ trans_de: 1) essen; 2) (axile ruḥe) er verzehrte sich im Affekt, er wurde innerlich wütend; 3) (l-i=emo axila yalda, u=waldayḏa) es gab einen grossen Trubel, ein grosses Gedränge, Streit; 4) (axile qarʕe d-u=babo) er hat den Vater ins Grab gebracht (so sagt man etwa von einem Unglückskind, das gerade geboren wurde, als der Vater starb); 5) (k-oxəl aʕle) er passt für ihn, er verdient; er ist wert; 6) Lebensunterhalt bekommen; 7) verzehren, für das Essen ausgeben (съесть, проесть деньги, т.е. потратить их на еду) (Ip)
+ trans_en: to eat (Ip)
 
 -lexeme
  lex: maʕbəd/maʕbadle
@@ -11250,7 +12050,7 @@
 
 -lexeme
  lex: məʕbəd/ʕbid
- stem: .ʕ.b.d.|.ʕ.b.dd.
+ stem: .ʕ.b.d.
  gramm: V
  root: ʕbd
  stamm: Ip
@@ -11260,7 +12060,7 @@
 
 -lexeme
  lex: maʕbər/maʕballe
- stem: .ʕ.b.r.|.ʕ.b.
+ stem: .ʕ.b.r.|.ʕ.b.l.|.ʕ.b.n.|.ʕ.b.rr.
  gramm: V
  root: ʕbr
  stamm: III
@@ -11270,7 +12070,7 @@
 
 -lexeme
  lex: məʕbər/ʕbir
- stem: .ʕ.b.r.|.ʕ.b.rr.
+ stem: .ʕ.b.r.|.ʕ.b.n.
  gramm: V
  root: ʕbr
  stamm: Ip
@@ -11290,7 +12090,7 @@
 
 -lexeme
  lex: məʕdəm/ʕdim
- stem: .ʕ.d.m.|.ʕ.d.mm.
+ stem: .ʕ.d.m.
  gramm: V
  root: ʕdm
  stamm: Ip
@@ -11299,8 +12099,28 @@
  trans_en: to destroy (Ip)
 
 -lexeme
- lex: maʕe/maʕfele
- stem: .ʕ.f.
+ lex: maʕfən/maʕfanle
+ stem: .ʕ.f.n.|.ʕ.f.nn.
+ gramm: V
+ root: ʕfnk
+ stamm: III
+ paradigm: V_III
+ trans_de: verfaulen, verschimmeln (III)
+ trans_en: to rot, to become rotten (III)
+
+-lexeme
+ lex: məʕfən/ʕfin
+ stem: .ʕ.f.n.
+ gramm: V
+ root: ʕfnk
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: verfaulen, verschimmeln (Ip)
+ trans_en: to rot, to become rotten (Ip)
+
+-lexeme
+ lex: maʕfe/maʕfele
+ stem: .ʕ.f.y.|.ʕ.f.
  gramm: V
  root: ʕfy
  stamm: III
@@ -11310,7 +12130,7 @@
 
 -lexeme
  lex: məʕfe/ʕfe
- stem: .ʕ.f.
+ stem: .ʕ.f.y.|.ʕ.f.
  gramm: V
  root: ʕfy
  stamm: Ip
@@ -11330,7 +12150,7 @@
 
 -lexeme
  lex: məʕǧəb/ʕǧib
- stem: .ʕ.ǧ.b.|.ʕ.ǧ.bb.
+ stem: .ʕ.ǧ.b.
  gramm: V
  root: ʕǧb
  stamm: Ip
@@ -11350,7 +12170,7 @@
 
 -lexeme
  lex: məʕǧən/ʕǧin
- stem: .ʕ.ǧ.n.|.ʕ.ǧ.nn.
+ stem: .ʕ.ǧ.n.
  gramm: V
  root: ʕǧn
  stamm: Ip
@@ -11370,7 +12190,7 @@
 
 -lexeme
  lex: məʕǧəq/ʕǧiq
- stem: .ʕ.ǧ.q.|.ʕ.ǧ.qq.
+ stem: .ʕ.ǧ.q.
  gramm: V
  root: ʕǧq
  stamm: Ip
@@ -11390,7 +12210,7 @@
 
 -lexeme
  lex: məʕǧəz/ʕǧiz
- stem: .ʕ.ǧ.z.|.ʕ.ǧ.zz.
+ stem: .ʕ.ǧ.z.
  gramm: V
  root: ʕǧz
  stamm: Ip
@@ -11399,8 +12219,28 @@
  trans_en: to be fed up with (me) smb./smth.; to be exhausted; to be annoyed; to be tired; to be angry (Ip)
 
 -lexeme
- lex: maʕe/maʕlele
- stem: .ʕ.l.
+ lex: maʕrəč/maʕračle
+ stem: .ʕ.r.č.|.ʕ.r.čč.
+ gramm: V
+ root: ʕrčz
+ stamm: III
+ paradigm: V_III
+ trans_de: aufspringen und davonlaufen (von Tieren und kleinen Kindern) (III)
+ trans_en: to jump up (about animals and small children) (III)
+
+-lexeme
+ lex: məʕrəč/ʕrič
+ stem: .ʕ.r.č.
+ gramm: V
+ root: ʕrčz
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: aufspringen und davonlaufen (von Tieren und kleinen Kindern) (Ip)
+ trans_en: to jump up (about animals and small children) (Ip)
+
+-lexeme
+ lex: maʕle/maʕlele
+ stem: .ʕ.l.y.|.ʕ.l.
  gramm: V
  root: ʕly
  stamm: III
@@ -11410,13 +12250,33 @@
 
 -lexeme
  lex: məʕle/ʕle
- stem: .ʕ.l.
+ stem: .ʕ.l.y.|.ʕ.l.
  gramm: V
  root: ʕly
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: in die Höhe steigen (Ip)
  trans_en: to rise (Ip)
+
+-lexeme
+ lex: maʕməb/maʕmalle
+ stem: .ʕ.m.b.|.ʕ.m.l.|.ʕ.m.n.|.ʕ.m.bb.
+ gramm: V
+ root: ʕmbr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: speichern (III)
+ trans_en: to store (III)
+
+-lexeme
+ lex: məʕməb/ʕmib
+ stem: .ʕ.m.b.|.ʕ.m.n.
+ gramm: V
+ root: ʕmbr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: speichern (Ip)
+ trans_en: to store (Ip)
 
 -lexeme
  lex: maʕməḏ/maʕmaḏle
@@ -11430,7 +12290,7 @@
 
 -lexeme
  lex: məʕməḏ/ʕmiḏ
- stem: .ʕ.m.ḏ.|.ʕ.m.ḏḏ.
+ stem: .ʕ.m.ḏ.
  gramm: V
  root: ʕmḏ
  stamm: Ip
@@ -11440,7 +12300,7 @@
 
 -lexeme
  lex: maʕməl/maʕmele
- stem: .ʕ.m.
+ stem: .ʕ.m.l.|.ʕ.m.
  gramm: V
  root: ʕml
  stamm: III
@@ -11450,7 +12310,7 @@
 
 -lexeme
  lex: məʕməl/ʕmil
- stem: .ʕ.m.l.|.ʕ.m.ll.
+ stem: .ʕ.m.l.|.ʕ.m.n.
  gramm: V
  root: ʕml
  stamm: Ip
@@ -11470,7 +12330,7 @@
 
 -lexeme
  lex: məʕməq/ʕmiq
- stem: .ʕ.m.q.|.ʕ.m.qq.
+ stem: .ʕ.m.q.
  gramm: V
  root: ʕmq
  stamm: Ip
@@ -11480,7 +12340,7 @@
 
 -lexeme
  lex: maʕmər/maʕmalle
- stem: .ʕ.m.r.|.ʕ.m.
+ stem: .ʕ.m.r.|.ʕ.m.l.|.ʕ.m.n.|.ʕ.m.rr.
  gramm: V
  root: ʕmr
  stamm: III
@@ -11490,7 +12350,7 @@
 
 -lexeme
  lex: məʕmər/ʕmir
- stem: .ʕ.m.r.|.ʕ.m.rr.
+ stem: .ʕ.m.r.|.ʕ.m.n.
  gramm: V
  root: ʕmr
  stamm: Ip
@@ -11500,7 +12360,7 @@
 
 -lexeme
  lex: maʕmər/maʕmalle
- stem: .ʕ.m.r.|.ʕ.m.
+ stem: .ʕ.m.r.|.ʕ.m.l.|.ʕ.m.n.|.ʕ.m.rr.
  gramm: V
  root: ʕmr
  stamm: III
@@ -11510,13 +12370,73 @@
 
 -lexeme
  lex: məʕmər/ʕmir
- stem: .ʕ.m.r.|.ʕ.m.rr.
+ stem: .ʕ.m.r.|.ʕ.m.n.
  gramm: V
  root: ʕmr
  stamm: Ip
  paradigm: V_Ip_3r
  trans_de: gebaut werden (Ip)
  trans_en: to be built (Ip)
+
+-lexeme
+ lex: maʕnəṭ/maʕnele
+ stem: .ʕ.n.ṭ.|.ʕ.n.
+ gramm: V
+ root: ʕnṭl
+ stamm: III
+ paradigm: V_III_3l
+ trans_de: liegen lassen, verschieben (Arbeit) (III)
+ trans_en: to leave unattended; to postpone (III)
+
+-lexeme
+ lex: məʕnəṭ/ʕniṭ
+ stem: .ʕ.n.ṭ.|.ʕ.n.n.
+ gramm: V
+ root: ʕnṭl
+ stamm: Ip
+ paradigm: V_Ip_3l
+ trans_de: liegen lassen, verschieben (Arbeit) (Ip)
+ trans_en: to leave unattended; to postpone (Ip)
+
+-lexeme
+ lex: maʕrəḏ/maʕraḏle
+ stem: .ʕ.r.ḏ.|.ʕ.r.ḏḏ.
+ gramm: V
+ root: ʕrḏ̣
+ stamm: III
+ paradigm: V_III
+ trans_de: vortragen (III)
+ trans_en: to present (III)
+
+-lexeme
+ lex: məʕrəḏ/ʕriḏ
+ stem: .ʕ.r.ḏ.
+ gramm: V
+ root: ʕrḏ̣
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: vortragen (Ip)
+ trans_en: to present (Ip)
+
+-lexeme
+ lex: maʕrəǧ/maʕraǧle
+ stem: .ʕ.r.ǧ.|.ʕ.r.ǧǧ.
+ gramm: V
+ root: ʕrǧq
+ stamm: III
+ paradigm: V_III
+ trans_de: zermalmen (III)
+ trans_en: to crush (III)
+
+-lexeme
+ lex: məʕrəǧ/ʕriǧ
+ stem: .ʕ.r.ǧ.
+ gramm: V
+ root: ʕrǧq
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: zermalmen (Ip)
+ trans_en: to crush (Ip)
 
 -lexeme
  lex: maʕrəq/maʕraqle
@@ -11530,7 +12450,7 @@
 
 -lexeme
  lex: məʕrəq/ʕriq
- stem: .ʕ.r.q.|.ʕ.r.qq.
+ stem: .ʕ.r.q.
  gramm: V
  root: ʕrq
  stamm: Ip
@@ -11539,8 +12459,28 @@
  trans_en: to run away (Ip)
 
 -lexeme
- lex: maʕru/maʕrawle
- stem: .ʕ.r.|.ʕ.r.w.
+ lex: maʕrəṭ/maʕraṭle
+ stem: .ʕ.r.ṭ.|.ʕ.r.ṭṭ.
+ gramm: V
+ root: ʕrṭz
+ stamm: III
+ paradigm: V_III
+ trans_de: aufspringen und davonlaufen (von Tieren und kleinen Kindern) (III)
+ trans_en: to jump up (animals and children) (III)
+
+-lexeme
+ lex: məʕrəṭ/ʕriṭ
+ stem: .ʕ.r.ṭ.
+ gramm: V
+ root: ʕrṭz
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: aufspringen und davonlaufen (von Tieren und kleinen Kindern) (Ip)
+ trans_en: to jump up (animals and children) (Ip)
+
+-lexeme
+ lex: maʕru/maʕrule
+ stem: .ʕ.r.w.|.ʕ.r.|.ʕ.r.ww.
  gramm: V
  root: ʕrw
  stamm: III
@@ -11550,7 +12490,7 @@
 
 -lexeme
  lex: məʕru/ʕriw
- stem: .ʕ.r.|.ʕ.r.w.
+ stem: .ʕ.r.w.|.ʕ.r.
  gramm: V
  root: ʕrw
  stamm: Ip
@@ -11559,8 +12499,8 @@
  trans_en: to sift (Ip)
 
 -lexeme
- lex: maʕe/maʕrele
- stem: .ʕ.r.
+ lex: maʕre/maʕrele
+ stem: .ʕ.r.y.|.ʕ.r.
  gramm: V
  root: ʕry
  stamm: III
@@ -11570,7 +12510,7 @@
 
 -lexeme
  lex: məʕre/ʕre
- stem: .ʕ.r.
+ stem: .ʕ.r.y.|.ʕ.r.
  gramm: V
  root: ʕry
  stamm: Ip
@@ -11580,7 +12520,7 @@
 
 -lexeme
  lex: maʕṣər/maʕṣalle
- stem: .ʕ.ṣ.r.|.ʕ.ṣ.
+ stem: .ʕ.ṣ.r.|.ʕ.ṣ.l.|.ʕ.ṣ.n.|.ʕ.ṣ.rr.
  gramm: V
  root: ʕṣr
  stamm: III
@@ -11590,7 +12530,7 @@
 
 -lexeme
  lex: məʕṣər/ʕṣir
- stem: .ʕ.ṣ.r.|.ʕ.ṣ.rr.
+ stem: .ʕ.ṣ.r.|.ʕ.ṣ.n.
  gramm: V
  root: ʕṣr
  stamm: Ip
@@ -11599,8 +12539,8 @@
  trans_en: to press; to squeeze; to force (Ip)
 
 -lexeme
- lex: maʕe/maʕṣele
- stem: .ʕ.ṣ.
+ lex: maʕṣe/maʕṣele
+ stem: .ʕ.ṣ.y.|.ʕ.ṣ.
  gramm: V
  root: ʕṣy
  stamm: III
@@ -11610,7 +12550,7 @@
 
 -lexeme
  lex: məʕṣe/ʕṣe
- stem: .ʕ.ṣ.
+ stem: .ʕ.ṣ.y.|.ʕ.ṣ.
  gramm: V
  root: ʕṣy
  stamm: Ip
@@ -11630,13 +12570,73 @@
 
 -lexeme
  lex: məʕǧəf/ʕǧif
- stem: .ʕ.ǧ.f.|.ʕ.ǧ.ff.
+ stem: .ʕ.ǧ.f.
  gramm: V
  root: ʕǧf
  stamm: Ip
  paradigm: V_Ip
  trans_de: jäten (Ip)
  trans_en: to weed (Ip)
+
+-lexeme
+ lex: maʕšək/maʕšakle
+ stem: .ʕ.š.k.|.ʕ.š.kk.
+ gramm: V
+ root: ʕškš
+ stamm: III
+ paradigm: V_III
+ trans_de: dunkel werden (nach Sonnenuntergang) (III)
+ trans_en: to be(come) dark (after sunset) (III)
+
+-lexeme
+ lex: məʕšək/ʕšik
+ stem: .ʕ.š.k.
+ gramm: V
+ root: ʕškš
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: dunkel werden (nach Sonnenuntergang) (Ip)
+ trans_en: to be(come) dark (after sunset) (Ip)
+
+-lexeme
+ lex: maʕtəb/maʕtable
+ stem: .ʕ.t.b.|.ʕ.t.bb.
+ gramm: V
+ root: ʕtbr
+ stamm: III
+ paradigm: V_III
+ trans_de: achten, rechnen (III)
+ trans_en: to respect, to reckon with (III)
+
+-lexeme
+ lex: məʕtəb/ʕtib
+ stem: .ʕ.t.b.
+ gramm: V
+ root: ʕtbr
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: achten, rechnen (Ip)
+ trans_en: to respect, to reckon with (Ip)
+
+-lexeme
+ lex: maʕtəḏ/maʕtalle
+ stem: .ʕ.t.ḏ.|.ʕ.t.l.|.ʕ.t.n.|.ʕ.t.ḏḏ.
+ gramm: V
+ root: ʕtḏr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: sich entschuldigen (III)
+ trans_en: to apologize (III)
+
+-lexeme
+ lex: məʕtəḏ/ʕtiḏ
+ stem: .ʕ.t.ḏ.|.ʕ.t.n.
+ gramm: V
+ root: ʕtḏr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: sich entschuldigen (Ip)
+ trans_en: to apologize (Ip)
 
 -lexeme
  lex: maʕtəm/maʕtamle
@@ -11650,13 +12650,93 @@
 
 -lexeme
  lex: məʕtəm/ʕtim
- stem: .ʕ.t.m.|.ʕ.t.mm.
+ stem: .ʕ.t.m.
  gramm: V
  root: ʕtm
  stamm: Ip
  paradigm: V_Ip
  trans_de: dunkel werden (Ip)
  trans_en: to become dark (Ip)
+
+-lexeme
+ lex: maʕtər/maʕtarle
+ stem: .ʕ.t.r.|.ʕ.t.rr.
+ gramm: V
+ root: ʕtrḏ̣
+ stamm: III
+ paradigm: V_III
+ trans_de: Einwendungen machen (III)
+ trans_en: to object (III)
+
+-lexeme
+ lex: məʕtər/ʕtir
+ stem: .ʕ.t.r.
+ gramm: V
+ root: ʕtrḏ̣
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: Einwendungen machen (Ip)
+ trans_en: to object (Ip)
+
+-lexeme
+ lex: maʕtər/maʕtarle
+ stem: .ʕ.t.r.|.ʕ.t.rr.
+ gramm: V
+ root: ʕtrf
+ stamm: III
+ paradigm: V_III
+ trans_de: bekennen, beichten, sich bekennen zu (b-) (III)
+ trans_en: to confess; to profess smb. (b-); to admit (III)
+
+-lexeme
+ lex: məʕtər/ʕtir
+ stem: .ʕ.t.r.
+ gramm: V
+ root: ʕtrf
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: bekennen, beichten, sich bekennen zu (b-) (Ip)
+ trans_en: to confess; to profess smb. (b-); to admit (Ip)
+
+-lexeme
+ lex: maʕvəǧ/maʕvaǧle
+ stem: .ʕ.v.ǧ.|.ʕ.v.ǧǧ.
+ gramm: V
+ root: ʕvǧq
+ stamm: III
+ paradigm: V_III
+ trans_de: zermalmen (III)
+ trans_en: to crush (III)
+
+-lexeme
+ lex: məʕvəǧ/ʕviǧ
+ stem: .ʕ.v.ǧ.
+ gramm: V
+ root: ʕvǧq
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: zermalmen (Ip)
+ trans_en: to crush (Ip)
+
+-lexeme
+ lex: maʕwəʕ/maʕwaʕle
+ stem: .ʕ.w.ʕ.|.ʕ.w.ʕʕ.
+ gramm: V
+ root: ʕwʕw
+ stamm: III
+ paradigm: V_III
+ trans_de: bellen, heulen (III)
+ trans_en: to howl (III)
+
+-lexeme
+ lex: məʕwəʕ/ʕwiʕ
+ stem: .ʕ.w.ʕ.
+ gramm: V
+ root: ʕwʕw
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: bellen, heulen (Ip)
+ trans_en: to howl (Ip)
 
 -lexeme
  lex: maʕwəd/maʕwadle
@@ -11670,7 +12750,7 @@
 
 -lexeme
  lex: məʕwəd/ʕwid
- stem: .ʕ.w.d.|.ʕ.w.dd.
+ stem: .ʕ.w.d.
  gramm: V
  root: ʕwd
  stamm: Ip
@@ -11690,7 +12770,7 @@
 
 -lexeme
  lex: məʕwəd/ʕwid
- stem: .ʕ.w.d.|.ʕ.w.dd.
+ stem: .ʕ.w.d.
  gramm: V
  root: ʕwd
  stamm: Ip
@@ -11710,7 +12790,7 @@
 
 -lexeme
  lex: məʕwəǧ/ʕwiǧ
- stem: .ʕ.w.ǧ.|.ʕ.w.ǧǧ.
+ stem: .ʕ.w.ǧ.
  gramm: V
  root: ʕwǧ
  stamm: Ip
@@ -11719,8 +12799,28 @@
  trans_en: to make crooked, bent (Ip)
 
 -lexeme
+ lex: maʕwəz/maʕwalle
+ stem: .ʕ.w.z.|.ʕ.w.l.|.ʕ.w.n.|.ʕ.w.zz.
+ gramm: V
+ root: ʕwzr
+ stamm: III
+ paradigm: V_III_3r
+ trans_de: zusammenpferchen, drücken (III)
+ trans_en: to pack together (III)
+
+-lexeme
+ lex: məʕwəz/ʕwiz
+ stem: .ʕ.w.z.|.ʕ.w.n.
+ gramm: V
+ root: ʕwzr
+ stamm: Ip
+ paradigm: V_Ip_3r
+ trans_de: zusammenpferchen, drücken (Ip)
+ trans_en: to pack together (Ip)
+
+-lexeme
  lex: maʕəf/maʕəfle
- stem: .ʕ.y.|.ʕ.f.
+ stem: .ʕ.f.|.ʕ.ff.
  gramm: V
  root: ʕyf
  stamm: III
@@ -11729,7 +12829,7 @@
  trans_en: to become fed up with (m-) smth.; to be tired of (m-) smth. (III)
 
 -lexeme
- lex: məʕəf/ʕif
+ lex: miʕəf/ʕif
  stem: .ʕ.f.
  gramm: V
  root: ʕyf
@@ -11740,7 +12840,7 @@
 
 -lexeme
  lex: maʕəǧ/maʕəǧle
- stem: .ʕ.y.|.ʕ.ǧ.
+ stem: .ʕ.ǧ.|.ʕ.ǧǧ.
  gramm: V
  root: ʕyǧ
  stamm: III
@@ -11749,7 +12849,7 @@
  trans_en: to spread around (intr.) (III)
 
 -lexeme
- lex: məʕəǧ/ʕiǧ
+ lex: miʕəǧ/ʕiǧ
  stem: .ʕ.ǧ.
  gramm: V
  root: ʕyǧ
@@ -11760,7 +12860,7 @@
 
 -lexeme
  lex: maʕəq/maʕəqle
- stem: .ʕ.y.|.ʕ.q.
+ stem: .ʕ.q.|.ʕ.qq.
  gramm: V
  root: ʕyq
  stamm: III
@@ -11769,7 +12869,7 @@
  trans_en: to become angry (l-); to grieve; to feel bad (l-); to become narrow (III)
 
 -lexeme
- lex: məʕəq/ʕiq
+ lex: miʕəq/ʕiq
  stem: .ʕ.q.
  gramm: V
  root: ʕyq
@@ -11780,7 +12880,7 @@
 
 -lexeme
  lex: maʕəš/maʕəšle
- stem: .ʕ.y.|.ʕ.š.
+ stem: .ʕ.š.|.ʕ.šš.
  gramm: V
  root: ʕyš
  stamm: III
@@ -11789,7 +12889,7 @@
  trans_en: to live (III)
 
 -lexeme
- lex: məʕəš/ʕiš
+ lex: miʕəš/ʕiš
  stem: .ʕ.š.
  gramm: V
  root: ʕyš
@@ -11800,7 +12900,7 @@
 
 -lexeme
  lex: maʕəz/maʕəzle
- stem: .ʕ.y.|.ʕ.z.
+ stem: .ʕ.z.|.ʕ.zz.
  gramm: V
  root: ʕyz
  stamm: III
@@ -11809,7 +12909,7 @@
  trans_en: to need (III)
 
 -lexeme
- lex: məʕəz/ʕiz
+ lex: miʕəz/ʕiz
  stem: .ʕ.z.
  gramm: V
  root: ʕyz
@@ -11820,7 +12920,7 @@
 
 -lexeme
  lex: maʕzəl/maʕzele
- stem: .ʕ.z.
+ stem: .ʕ.z.l.|.ʕ.z.
  gramm: V
  root: ʕzl
  stamm: III
@@ -11830,13 +12930,33 @@
 
 -lexeme
  lex: məʕzəl/ʕzil
- stem: .ʕ.z.l.|.ʕ.z.ll.
+ stem: .ʕ.z.l.|.ʕ.z.n.
  gramm: V
  root: ʕzl
  stamm: Ip
  paradigm: V_Ip_3l
  trans_de: spinnen (Ip)
  trans_en: to spin (Ip)
+
+-lexeme
+ lex: mabʕəb/mabʕable
+ stem: .b.ʕ.b.|.b.ʕ.bb.
+ gramm: V
+ root: bʕbk
+ stamm: III
+ paradigm: V_III
+ trans_de: im Streit Übel zurichten, zerknüllen (III)
+ trans_en: to damage smb. in a fight (III)
+
+-lexeme
+ lex: məbʕəb/bʕib
+ stem: .b.ʕ.b.
+ gramm: V
+ root: bʕbk
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: im Streit Übel zurichten, zerknüllen (Ip)
+ trans_en: to damage smb. in a fight (Ip)
 
 -lexeme
  lex: mabʕəǧ/mabʕaǧle
@@ -11850,7 +12970,7 @@
 
 -lexeme
  lex: məbʕəǧ/bʕiǧ
- stem: .b.ʕ.ǧ.|.b.ʕ.ǧǧ.
+ stem: .b.ʕ.ǧ.
  gramm: V
  root: bʕǧ
  stamm: Ip
@@ -11870,7 +12990,7 @@
 
 -lexeme
  lex: məbʕəṭ/bʕiṭ
- stem: .b.ʕ.ṭ.|.b.ʕ.ṭṭ.
+ stem: .b.ʕ.ṭ.
  gramm: V
  root: bʕṭ
  stamm: Ip
@@ -11879,8 +12999,8 @@
  trans_en: to scratch (Ip)
 
 -lexeme
- lex: mabe/mabʕele
- stem: .b.ʕ.
+ lex: mabʕe/mabʕele
+ stem: .b.ʕ.y.|.b.ʕ.
  gramm: V
  root: bʕy
  stamm: III
@@ -11890,7 +13010,7 @@
 
 -lexeme
  lex: məbʕe/bʕe
- stem: .b.ʕ.
+ stem: .b.ʕ.y.|.b.ʕ.
  gramm: V
  root: bʕy
  stamm: Ip
@@ -11910,7 +13030,7 @@
 
 -lexeme
  lex: məbčəq/bčiq
- stem: .b.č.q.|.b.č.qq.
+ stem: .b.č.q.
  gramm: V
  root: bčq
  stamm: Ip
@@ -11919,8 +13039,8 @@
  trans_en: to crush (Ip)
 
 -lexeme
- lex: mabe/mabdele
- stem: .b.d.
+ lex: mabde/mabdele
+ stem: .b.d.y.|.b.d.
  gramm: V
  root: bdy
  stamm: III
@@ -11930,7 +13050,7 @@
 
 -lexeme
  lex: məbde/bde
- stem: .b.d.
+ stem: .b.d.y.|.b.d.
  gramm: V
  root: bdy
  stamm: Ip
@@ -11940,7 +13060,7 @@
 
 -lexeme
  lex: mabḏəl/mabḏele
- stem: .b.ḏ.
+ stem: .b.ḏ.l.|.b.ḏ.
  gramm: V
  root: bḏl
  stamm: III
@@ -11950,7 +13070,7 @@
 
 -lexeme
  lex: məbḏəl/bḏil
- stem: .b.ḏ.l.|.b.ḏ.ll.
+ stem: .b.ḏ.l.|.b.ḏ.n.
  gramm: V
  root: bḏl
  stamm: Ip
@@ -11960,7 +13080,7 @@
 
 -lexeme
  lex: mabhər/mabhalle
- stem: .b.h.r.|.b.h.
+ stem: .b.h.r.|.b.h.l.|.b.h.n.|.b.h.rr.
  gramm: V
  root: bhr
  stamm: III
@@ -11970,7 +13090,7 @@
 
 -lexeme
  lex: məbhər/bhir
- stem: .b.h.r.|.b.h.rr.
+ stem: .b.h.r.|.b.h.n.
  gramm: V
  root: bhr
  stamm: Ip
@@ -11980,7 +13100,7 @@
 
 -lexeme
  lex: mabḥər/mabḥalle
- stem: .b.ḥ.r.|.b.ḥ.
+ stem: .b.ḥ.r.|.b.ḥ.l.|.b.ḥ.n.|.b.ḥ.rr.
  gramm: V
  root: bḥr
  stamm: III
@@ -11990,7 +13110,7 @@
 
 -lexeme
  lex: məbḥər/bḥir
- stem: .b.ḥ.r.|.b.ḥ.rr.
+ stem: .b.ḥ.r.|.b.ḥ.n.
  gramm: V
  root: bḥr
  stamm: Ip
@@ -12010,13 +13130,33 @@
 
 -lexeme
  lex: məbləʕ/bliʕ
- stem: .b.l.ʕ.|.b.l.ʕʕ.
+ stem: .b.l.ʕ.
  gramm: V
  root: blʕ
  stamm: Ip
  paradigm: V_Ip
  trans_de: (herunter)schlucken, verschlingen (Ip)
  trans_en: to swallow (Ip)
+
+-lexeme
+ lex: mabləʕ/mablaʕle
+ stem: .b.l.ʕ.|.b.l.ʕʕ.
+ gramm: V
+ root: blʕṭ
+ stamm: III
+ paradigm: V_III
+ trans_de: in Ordnung bringen (III)
+ trans_en: to fix (III)
+
+-lexeme
+ lex: məbləʕ/bliʕ
+ stem: .b.l.ʕ.
+ gramm: V
+ root: blʕṭ
+ stamm: Ip
+ paradigm: V_Ip
+ trans_de: in Ordnung bringen (Ip)
+ trans_en: to fix (Ip)
 
 -lexeme
  lex: mabləq/mablaqle
@@ -12030,7 +13170,7 @@
 
 -lexeme
  lex: məbləq/bliq
- stem: .b.l.q.|.b.l.qq.
+ stem: .b.l.q.
  gramm: V
  root: blq
  stamm: Ip
@@ -12050,7 +13190,7 @@
 
 -lexeme
  lex: məbləš/bliš
- stem: .b.l.š.|.b.l.šš.
+ stem: .b.l.š.
  gramm: V
  root: blš
  stamm: Ip
@@ -12059,8 +13199,8 @@
  trans_en: to touch (Ip)
 
 -lexeme
- lex: mabe/mabnele
- stem: .b.n.
+ lex: mabne/mabnele
+ stem: .b.n.y.|.b.n.
  gramm: V
  root: bny
  stamm: III
@@ -12070,7 +13210,7 @@
 
 -lexeme
  lex: məbne/bne
- stem: .b.n.
+ stem: .b.n.y.|.b.n.
  gramm: V
  root: bny
  stamm: Ip
@@ -12079,8 +13219,8 @@
  trans_en: to build (Ip)
 
 -lexeme
- lex: mabe/mabnele
- stem: .b.n.
+ lex: mabne/mabnele
+ stem: .b.n.y.|.b.n.
  gramm: V
  root: bny
  stamm: III
@@ -12090,7 +13230,7 @@
 
 -lexeme
  lex: məbne/bne
- stem: .b.n.
+ stem: .b.n.y.|.b.n.
  gramm: V
  root: bny
  stamm: Ip
@@ -12110,7 +13250,7 @@
 
 -lexeme
  lex: məbrəd/brid
- stem: .b.r.d.|.b.r.dd.
+ stem: .b.r.d.
  gramm: V
  root: brd
  stamm: Ip
@@ -12130,7 +13270,7 @@
 
 -lexeme
  lex: məbrəd/brid
- stem: .b.r.d.|.b.r.dd.
+ stem: .b.r.d.
  gramm: V
  root: brd
  stamm: Ip
@@ -12150,7 +13290,7 @@
 
 -lexeme
  lex: məbrək/brik
- stem: .b.r.k.|.b.r.kk.
+ stem: .b.r.k.
  gramm: V
  root: brk
  stamm: Ip
@@ -12170,7 +13310,7 @@
 
 -lexeme
  lex: məbrəm/brim
- stem: .b.r.m.|.b.r.mm.
+ stem: .b.r.m.
  gramm: V
  root: brm
  stamm: Ip
@@ -12190,7 +13330,7 @@
 
 -lexeme
  lex: məbrəq/briq
- stem: .b.r.q.|.b.r.qq.
+ stem: .b.r.q.
  gramm: V
  root: brq
  stamm: Ip
@@ -12210,7 +13350,7 @@
 
 -lexeme
  lex: məbrəz/briz
- stem: .b.r.z.|.b.r.zz.
+ stem: .b.r.z.
  gramm: V
  root: brz
  stamm: Ip
@@ -12230,7 +13370,7 @@
 
 -lexeme
  lex: məbsəm/bsim
- stem: .b.s.m.|.b.s.mm.
+ stem: .b.s.m.
  gramm: V
  root: bsm
  stamm: Ip
@@ -12250,7 +13390,7 @@
 
 -lexeme
  lex: məbšəl/bšil
- stem: .b.š.l.|.b.š.ll.
+ stem: .b.š.l.
  gramm: V
  root: bšl
  stamm: Ip
@@ -12260,7 +13400,7 @@
 
 -lexeme
  lex: mabṭəl/mabṭele
- stem: .b.ṭ.
+ stem: .b.ṭ.l.|.b.ṭ.
  gramm: V
  root: bṭl
  stamm: III
@@ -12270,7 +13410,7 @@
 
 -lexeme
  lex: məbṭəl/bṭil
- stem: .b.ṭ.l.|.b.ṭ.ll.
+ stem: .b.ṭ.l.|.b.ṭ.n.
  gramm: V
  root: bṭl
  stamm: Ip
@@ -12279,8 +13419,8 @@
  trans_en: to stope, to cease; to become tired (Ip)
 
 -lexeme
- lex: mabe/mabxele
- stem: .b.x.
+ lex: mabxe/mabxele
+ stem: .b.x.y.|.b.x.
  gramm: V
  root: bxy
  stamm: III
@@ -12290,7 +13430,7 @@
 
 -lexeme
  lex: məbxe/bxe
- stem: .b.x.
+ stem: .b.x.y.|.b.x.
  gramm: V
  root: bxy
  stamm: Ip
@@ -12300,7 +13440,7 @@
 
 -lexeme
  lex: mabəq/mabəqle
- stem: .b.y.|.b.q.
+ stem: .b.q.|.b.qq.
  gramm: V
  root: byq
  stamm: III
@@ -12309,7 +13449,7 @@
  trans_en: to rot; to become mouldy (III)
 
 -lexeme
- lex: məbəq/biq
+ lex: mibəq/biq
  stem: .b.q.
  gramm: V
  root: byq
@@ -12320,7 +13460,7 @@
 
 -lexeme
  lex: mabər/mabərle
- stem: .b.y.|.b.r.
+ stem: .b.r.|.b.rr.
  gramm: V
  root: byr
  stamm: III
@@ -12329,7 +13469,7 @@
  trans_en: to lose (taste, color) (III)
 
 -lexeme
- lex: məbər/bir
+ lex: mibər/bir
  stem: .b.r.
  gramm: V
  root: byr
@@ -12340,7 +13480,7 @@
 
 -lexeme
  lex: mabəṭ/mabəṭle
- stem: .b.y.|.b.ṭ.
+ stem: .b.ṭ.|.b.ṭṭ.
  gramm: V
  root: byṭ
  stamm: III
@@ -12349,7 +13489,7 @@
  trans_en: to burst open (tr.), to rip (III)
 
 -lexeme
- lex: məbəṭ/biṭ
+ lex: mibəṭ/biṭ
  stem: .b.ṭ.
  gramm: V
  root: byṭ
@@ -12360,7 +13500,7 @@
 
 -lexeme
  lex: mabəz/mabəzle
- stem: .b.y.|.b.z.
+ stem: .b.z.|.b.zz.
  gramm: V
  root: byz
  stamm: III
@@ -12369,7 +13509,7 @@
  trans_en: to pour; to pour out; to spill (III)
 
 -lexeme
- lex: məbəz/biz
+ lex: mibəz/biz
  stem: .b.z.
  gramm: V
  root: byz
@@ -12380,7 +13520,7 @@
 
 -lexeme
  lex: mabzər/mabzalle
- stem: .b.z.r.|.b.z.
+ stem: .b.z.r.|.b.z.l.|.b.z.n.|.b.z.rr.
  gramm: V
  root: bzr
  stamm: III
@@ -12390,7 +13530,7 @@
 
 -lexeme
  lex: məbzər/bzir
- stem: .b.z.r.|.b.z.rr.
+ stem: .b.z.r.|.b.z.n.
  gramm: V
  root: bzr
  stamm: Ip
@@ -12410,7 +13550,7 @@
 
 -lexeme
  lex: məčfəx/čfix
- stem: .č.f.x.|.č.f.xx.
+ stem: .č.f.x.
  gramm: V
  root: čfx
  stamm: Ip
@@ -12430,7 +13570,7 @@
 
 -lexeme
  lex: məčləp/člip
- stem: .č.l.p.|.č.l.pp.
+ stem: .č.l.p.
  gramm: V
  root: člp
  stamm: Ip
@@ -12450,7 +13590,7 @@
 
 -lexeme
  lex: məčləq/čliq
- stem: .č.l.q.|.č.l.qq.
+ stem: .č.l.q.
  gramm: V
  root: člq
  stamm: Ip
@@ -12470,7 +13610,7 @@
 
 -lexeme
  lex: məčməz/čmiz
- stem: .č.m.z.|.č.m.zz.
+ stem: .č.m.z.
  gramm: V
  root: čmz
  stamm: Ip
@@ -12490,7 +13630,7 @@
 
 -lexeme
  lex: məčrəf/črif
- stem: .č.r.f.|.č.r.ff.
+ stem: .č.r.f.
  gramm: V
  root: črf
  stamm: Ip
@@ -12510,7 +13650,7 @@
 
 -lexeme
  lex: məčrəx/črix
- stem: .č.r.x.|.č.r.xx.
+ stem: .č.r.x.
  gramm: V
  root: črx
  stamm: Ip
@@ -12520,7 +13660,7 @@
 
 -lexeme
  lex: mačək/mačəkle
- stem: .č.y.|.č.k.
+ stem: .č.k.|.č.kk.
  gramm: V
  root: čyk
  stamm: III
@@ -12529,7 +13669,7 @@
  trans_en: to insert; to stick into; to slip, to get into (with ruḥ-) (III)
 
 -lexeme
- lex: məčək/čik
+ lex: mičək/čik
  stem: .č.k.
  gramm: V
  root: čyk

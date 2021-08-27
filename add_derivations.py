@@ -30,8 +30,7 @@ def add_reduplicated_stem(m):
         stemsNew += '|' + stemNew
     return 'stem: ' + stems + stemsNew
 
-
-def make_lexeme(lex, stem, gramm, root, paradigm, transDe, transEn, stamm):
+def make_lexeme(lex, stem, gramm ,root, paradigm, trans_de, trans_en, stamm):
     return '-lexeme\n' \
            ' lex: ' + lex + '\n' \
            ' stem: ' + stem + '\n' \
@@ -39,133 +38,90 @@ def make_lexeme(lex, stem, gramm, root, paradigm, transDe, transEn, stamm):
            ' root: ' + root + '\n' \
            ' stamm: ' + stamm + '\n' \
            ' paradigm: V_' + paradigm + '\n' \
-           ' trans_de: ' + transDe + '\n' \
-           ' trans_en: ' + transEn + '\n'
+           ' trans_de: ' + trans_de + '\n' \
+           ' trans_en: ' + trans_en + '\n'
 
 
-def generate_derivations(lex, stem, gramm, root, paradigm,
-                         transDe, transEn, existingLemmata):
-    stem = stem.replace('.', '')
-    mPara = re.search('^([IQ]+)_*(.*)', paradigm)
-    paraBase = mPara.group(1)
-    paraDeviation = mPara.group(2)
-    if paraBase == 'I':
-        paradigmNew = 'III'
+def read_patterns(root, paradigm):
+    with open('derived_patterns.txt', 'r', encoding='utf-8') as patterns_file:
+        patterns = {}
+        for line in patterns_file:
+            patterns[line.split()[0]] = line.split()[1:]
+        return patterns
+
+
+def generate_derivations(lex, stem, gramm, root, paradigm, trans_de, trans_en, existing_lemmata):
+    clean_stem = stem.replace('.', '')
+    paradigm_label = re.search('^([IQ]+)_*(.*)', paradigm)
+    paradigm_base = paradigm_label.group(1)
+    paradigm_deviation = paradigm_label.group(2)
+    if paradigm_base == 'I':
+        paradigm_new = 'III'
         stamm = 'III'
-        if len(paraDeviation) > 0:
-            paradigmNew += '_' + paraDeviation
-        if len(stem) == 3:
-            stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
-            # Lemma consists of two parts: prs and pst
-            # Present form
-            if paraDeviation == '3y':
-                lexPrs = 'ma' + stem[0] + 'e'
-            elif paraDeviation == '3w':
-                lexPrs = 'ma' + stem[:2] + 'u'
-                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + '.'.join(stem) + '.'
-            elif paraDeviation in ('2y', '2y_3l', '2y_3r', '2y_3n'):
-                lexPrs = 'ma' + stem[0] + 'ə' + stem[2]
-            elif paraDeviation == '2y_3w':
-                lexPrs = 'ma' + stem[0] + 'u'
-            else:
-                lexPrs = 'ma' + stem[:2] + 'ə' + stem[2]
+        if paradigm_deviation:
+            paradigm_new += '_' + paradigm_deviation
+        
+        patterns = read_patterns(root, paradigm_new)
+        lex_pattern = patterns[paradigm_new][0]
+        stem_pattern = patterns[paradigm_new][1]
 
-            if paraDeviation == '2y':
-                lexPst = 'ma' + stem[0] + 'ə' + stem[2] + 'le'
-                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + stem[0] + '.' + stem[2] + '.'
-            elif paraDeviation in ('3y', '3l'):
-                lexPst = 'ma' + stem[:2] + 'ele'
-                stemNew = '.' + stem[0] + '.' + stem[1] + '.'
-            elif paraDeviation in ('3r', '3n'):
-                lexPst = 'ma' + stem[:2] + 'alle'
-                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.'
-            elif paraDeviation == '3l':
-                lexPst = 'ma' + stem[:2] + 'ele'
-                stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.'
-            elif paraDeviation == '2y_3l':
-                lexPst = 'ma' + stem[0] + 'ile'
-                stemNew = '.' + stem[0] + '.' + stem[2] + '.|.' + stem[0] + '.'
-            elif paraDeviation in ('2y_3r', '2y_3n'):
-                lexPst = 'ma' + stem[0] + 'əlle'
-                stemNew = '.' + stem[0] + '.' + stem[2] + '.|.' + stem[0] + '.'
-            elif paraDeviation == '2y_3w':
-                lexPst = 'ma' + stem[0] + 'ule'
-                stemNew = '.' + stem[0] + '.'
-            else:
-                lexPst = 'ma' + stem[:2] + 'a' + stem[2] + 'le'
+        new_lex = re.sub('C[1-3]', lambda x: {'C1': root[0], 'C2': root[1], 'C3': root[2]}[x.group(0)], lex_pattern)
+        new_stem = re.sub('C[1-3]', lambda x: {'C1': root[0], 'C2': root[1], 'C3': root[2]}[x.group(0)], stem_pattern)
 
-            lexNew = lexPrs + '/' + lexPst
-            if lexNew not in existingLemmata:
-                transEnNew = transEn + ' (III)'
-                transDeNew = transDe + ' (III)'
-                yield make_lexeme(lexNew, stemNew, gramm, root, paradigmNew,
-                                  transDeNew, transEnNew, stamm)
+        if new_lex not in existing_lemmata:
+            trans_en_new = trans_en + ' (III)'
+            trans_de_new = trans_de + ' (III)'
 
-        paradigmNew = 'Ip'
+            yield make_lexeme(new_lex, new_stem, gramm, root, paradigm_new, trans_de_new, trans_en_new, stamm)
+
+        paradigm_new = 'Ip'
         stamm = 'Ip'
-        if len(paraDeviation) > 0:
-            paradigmNew += '_' + paraDeviation
-        if len(stem) == 3:
-            stemNew = '.' + '.'.join(stem) + '.|.' + stem[0] + '.' + stem[1] + '.' + stem[2] * 2 + '.'
-            if paraDeviation.startswith('2y'):
-                lexPrs = 'mə' + stem[0] + 'ə' + stem[2]
-                stemNew = '.' + stem[0] + '.' + stem[2] + '.'
-            elif paraDeviation == '3w':
-                lexPrs = 'mə' + stem[:2] + 'u'
-                stemNew = '.' + stem[0] + '.' + stem[1] + '.|.' + '.'.join(stem) + '.'
-            elif paraDeviation == '3y':
-                lexPrs = 'mə' + stem[:2] + 'e'
-                stemNew = '.' + stem[0] + '.' + stem[1] + '.'
-            else:
-                lexPrs = 'mə' + stem[:2] + 'ə' + stem[2]
+        if paradigm_deviation:
+            paradigm_new += '_' + paradigm_deviation
+        
+        patterns = read_patterns(root, paradigm_new)
+        lex_pattern = patterns[paradigm_new][0]
+        stem_pattern = patterns[paradigm_new][1]
 
-            if paraDeviation.startswith('2y'):
-                lexPst = stem[0] + 'i' + stem[2]
-            elif paraDeviation == '3y':
-                lexPst = stem[:2] + 'e'
-            else:
-                lexPst = stem[:2] + 'i' + stem[2]
-            lexNew = lexPrs + '/' + lexPst
-            if lexNew not in existingLemmata:
-                transEnNew = transEn + ' (Ip)'
-                transDeNew = transDe + ' (Ip)'
-                yield make_lexeme(lexNew, stemNew, gramm, root, paradigmNew,
-                                  transDeNew, transEnNew, stamm)
+        new_lex = re.sub('C[1-3]', lambda x: {'C1': root[0], 'C2': root[1], 'C3': root[2]}[x.group(0)], lex_pattern)
+        new_stem = re.sub('C[1-3]', lambda x: {'C1': root[0], 'C2': root[1], 'C3': root[2]}[x.group(0)], stem_pattern)
+
+        if new_lex not in existing_lemmata:
+            trans_en_new = trans_en + ' (Ip)'
+            trans_de_new = trans_de + ' (Ip)'
+            yield make_lexeme(new_lex, new_stem, gramm, root, paradigm_new, trans_de_new, trans_en_new, stamm)
 
 
-fIn = open('lexemes-V.txt', 'r', encoding='utf-8-sig')
-text = fIn.read()
-fIn.close()
-lexemes = re.findall('-lexeme\n(?: [^\r\n]+\n)+', text, flags=re.DOTALL)
-lemmata = set()
-for l in lexemes:
-    m = re.search('lex: *([^\r\n]+)', l)
-    if m is None:
-        continue
-    for lex in m.group(1).split('/'):
-        lemmata.add(lex)
-
-
-fOut = open('lexemes-V-auto_derivations.txt', 'w', encoding='utf-8')
-for l in lexemes:
-    if re.search('gramm: (?:V).*?paradigm: V_', l, flags=re.DOTALL) is not None:
-        if 'stem:' not in l:
+with open('lexemes-V.txt', 'r', encoding='utf-8-sig') as input_file:
+    text = input_file.read()
+    lexemes = re.findall('-lexeme\n(?: [^\r\n]+\n)+', text, flags=re.DOTALL)
+    lemmata = set()
+    for l in lexemes:
+        m = re.search('lex: *([^\r\n]+)', l)
+        if m is None:
             continue
-        paradigm = re.search('paradigm: V_([^\r\n]*)', l).group(1)
-        stem = re.search('stem: ([^\r\n/|]+)', l).group(1)
-        lex = re.search('lex: ([^\r\n]+)', l).group(1)
-        transEn = ''
-        if 'trans_en:' in l:
-            transEn = re.search('trans_en: *([^\r\n]*)', l).group(1)
-        transDe = ''
-        if 'trans_de:' in l:
-            transDe = re.search('trans_de: *([^\r\n]*)', l).group(1)
-        gramm = re.search('gramm: ([^\r\n]+)', l).group(1)
-        root = ''
-        if 'root' in l:
-            root = re.search('root: *([^\r\n]*)', l).group(1)
-        if paradigm == 'I' or paradigm.startswith('I_'):
-            for newLemma in generate_derivations(lex, stem, gramm, root, paradigm,
-                                                 transDe, transEn, lemmata):
-                fOut.write(newLemma + '\n')
-fOut.close()
+        for lex in m.group(1).split('/'):
+            lemmata.add(lex)
+
+with open('lexemes-V-auto_derivations.txt', 'w', encoding='utf-8') as output_file:
+    for l in lexemes:
+        if re.search('gramm: (?:V).*?paradigm: V_', l, flags=re.DOTALL) is not None:
+            if 'stem:' not in l:
+                continue
+            lex = re.search('lex: ([^\r\n]+)', l).group(1)
+            stem = re.search('stem: ([^\r\n/|]+)', l).group(1)
+            gramm = re.search('gramm: ([^\r\n]+)', l).group(1)
+            paradigm = re.search('paradigm: V_([^\r\n]*)', l).group(1)
+            root = ''
+            if 'root' in l:
+                root = re.search('root: *([^\r\n]+)', l).group(1)
+            trans_en = ''
+            if 'trans_en:' in l:
+                trans_en = re.search('trans_en: *([^\r\n]*)', l).group(1)
+            trans_de = ''
+            if 'trans_de:' in l:
+                trans_de = re.search('trans_de: *([^\r\n]*)', l).group(1)
+        
+            if paradigm == 'I' or paradigm.startswith('I_'):
+                for new_lemma in generate_derivations(lex, stem, gramm, root, paradigm, trans_de, trans_en, lemmata):
+                    output_file.write(new_lemma + '\n')
