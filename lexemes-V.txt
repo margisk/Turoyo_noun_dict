@@ -13654,7 +13654,7 @@
  gramm: V
  root: ylf
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: lernen, sich gewöhnen an
  trans_en: to learn; to get accustomed to (l-) smth.
 
@@ -13714,7 +13714,7 @@
  gramm: V
  root: yqḏ
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: 1) verbrennen, brennen; 2) bedauern (lebo)
  trans_en: to burn (intr.)
 
@@ -13754,7 +13754,7 @@
  gramm: V
  root: yrm
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: anschwellen
  trans_en: to swell
 
@@ -13764,7 +13764,7 @@
  gramm: V
  root: yrq
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: grün werden
  trans_en: to become green
 
@@ -13814,7 +13814,7 @@
  gramm: V
  root: yrx
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: dauern, lang werden, strecken
  trans_en: to become long; to grab smth. (l-)
 
@@ -13834,7 +13834,7 @@
  gramm: V
  root: ysq
  stamm: I
- paradigm: V_I
+ paradigm: V_I_1y
  trans_de: hinaufsteigen
  trans_en: to go up; to ascend
 
