@@ -85,8 +85,8 @@
  root: dʕy
  stamm: II
  paradigm: V_II_3y
- trans_de: 
- trans_en: verlangen
+ trans_de: verlangen
+ trans_en: to request, to ask
 
 -lexeme
  lex: mdabaqle/mdabəq
@@ -145,8 +145,8 @@
  root: dfn
  stamm: II
  paradigm: V_II_3n
- trans_de: 
- trans_en: verlieren, begraben
+ trans_de: verlieren, begraben
+ trans_en: to bury; to lose, to make disappear
 
 -lexeme
  lex: mdagele/mdagəl
@@ -5325,8 +5325,8 @@
  root: lqf
  stamm: III
  paradigm: V_III
- trans_de: 
- trans_en: hinterbringen
+ trans_de: hinterbringen
+ trans_en: to bring back (the report)
 
 -lexeme
  lex: mlaqamle/mlaqəm
@@ -13595,8 +13595,8 @@
  root: ybl
  stamm: III
  paradigm: V_III_1y_3l
- trans_de: 
- trans_en: 
+ trans_de: wegholen, mitnehmen 
+ trans_en: to take away, to take with
 
 -lexeme
  lex: mawdele/mawde
@@ -14425,7 +14425,7 @@
  root: ʔḏy
  stamm: III
  paradigm: V_III_3y
- trans_de: 
+ trans_de: quälen
  trans_en: to hurt, to inflict pain
 
 -lexeme
@@ -15375,7 +15375,7 @@
  root: ʕyr
  stamm: 
  paradigm: V_IIp_3r
- trans_de: 
+ trans_de: to be ashamed
  trans_en: Scham empfinden wegen, sich einer Sache/jemandes schämen
 
 -lexeme
@@ -16285,7 +16285,7 @@
  root: člp
  stamm: II
  paradigm: V_II
- trans_de: 
+ trans_de: fire (a weapon), pull the trigger
  trans_en: abdrücken
 
 -lexeme
