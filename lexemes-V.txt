@@ -3249,6 +3249,15 @@
  trans_en: to scream; to call
 
 -lexeme
+ lex: hule/obe
+ stem: ..b.|.hu.|.h.w.
+ root: hwy
+ gramm: V
+ paradigm: to_give
+ trans_de: 1) geben; 2) sich aufmachen (mit foṯo); 3) j-m Furcht einjagen (mit zuḥṯo); 4) begrüssen (mit šlomo); 5) ausmachen, entscheiden (mit qărār); 6) verheiraten
+ trans_en: to give
+
+-lexeme
  lex: hawi/howe
  stem: .h.w.y.|.h.w.|.h.y.
  gramm: V
@@ -12119,11 +12128,22 @@
  trans_en: to go for a walk
 
 -lexeme
+ lex: məštaʕele/məštaʕe
+ stem: .št.ʕ.y.|.št.ʕ.
+ root: štʕy
+ stamm: X
+ gramm: V_V_3y
+ paradigm: to_play
+ trans_de: spielen
+ trans_en: to play
+
+
+-lexeme
  lex: mətšahele/mətšahe
  stem: .tš.h.y.|.tš.h.
  gramm: V
  root: tšhy
- stamm: 
+ stamm: V
  paradigm: V_V_3y
  trans_de: begehren
  trans_en: to crave for (l-) smb. or smth.
@@ -14469,6 +14489,15 @@
  trans_en: to guarantee; to trust; to create security; to provide
 
 -lexeme
+ lex: məlle/omər
+ stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
+ root: ʔmr
+ gramm: V
+ paradigm: to_say
+ trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmər) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomər zu korrigieren]
+ trans_en: to say; to name smb. or smth.; to emit a sound
+
+-lexeme
  lex: mʔamalle/mʔamər
  stem: .ʔ.m.r.|.ʔ.m.rr.
  gramm: V
@@ -14617,6 +14646,15 @@
  paradigm: V_I
  trans_de: dienen, beten
  trans_en: to serve (God), to pray
+
+-lexeme
+ lex: azze/əzze
+ stem: .azz.|.əzz.|.z.
+ root: ʔzl
+ gramm: V
+ paradigm: to_go
+ trans_de: 1) gehen, dahingehen, zu spät sein; 2) als Hilfsverb (oft mit «nicht etwa» zu übersetzen); 3) ingressiv; 4) sterben; 5) (lebo) wünschen; 6) vergehen; 7) hinsein, verloren; 8) weggehen, fortgehen
+ trans_en: to go; to get lost
 
 -lexeme
  lex: ʕabər/ʕobər
