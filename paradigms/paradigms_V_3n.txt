@@ -2066,7 +2066,7 @@
   gramm: pass,pt,pl
 
 
--paradigm: V_III_3n
+-3aradigm: V_III_3n
 
  # Present
  -flex: <0><.>ma..ə.//<0><.>ma..a.
@@ -2512,7 +2512,7 @@
  -flex: <0><.>ma..a.lalən//<0><.>ma..a.lalle//<0><.>ma..a.lalalle//<1><.>ma..a.lalən//<1><.>ma..a.lalle//<1><.>ma..a.lalalle
   gramm: pst_stem,3,sg,f,3pl.d
   paradigm: vb_prefix_perf
- -flex: <0><.>ma..a.ləxle//<0><.>ma..a.laxle//,1><.>ma..a.ləxle//<1><.>ma..a.laxle
+ -flex: <0><.>ma..a.ləxle//<0><.>ma..a.laxle//<1><.>ma..a.ləxle//<1><.>ma..a.laxle
   gramm: pst_stem,2,sg,f,3sg.m.d
   paradigm: vb_prefix_perf
  -flex: <0><.>ma..a.ləxla//<0><.>ma..a.laxla//<1><.>ma..a.ləxla//<1><.>ma..a.laxla
