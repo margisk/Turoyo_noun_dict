@@ -1760,7 +1760,7 @@
 
 -lexeme
  lex: fayər/foyər
- stem: .f.y.r.|.f.r.|.f.rr.
+ stem: .f.y.r.|.f.r.|.f.y.l|.f.l.|.f.y.n.|.f.y.rr.|.f.rr.|.f.n.
  gramm: V
  root: fyr
  stamm: I
@@ -1770,7 +1770,7 @@
 
 -lexeme
  lex: fayər/foyər
- stem: .f.y.r.|.f.r.|.f.rr.
+ stem: .f.y.r.|.f.r.|.f.y.l|.f.l.|.f.y.n.|.f.y.rr.|.f.rr.|.f.n.
  gramm: V
  root: fyr
  stamm: I
@@ -1940,7 +1940,7 @@
 
 -lexeme
  lex: mgalele/mgale
- stem: .g.l.y.|.g.l.yy.
+ stem: .g.l.y.|.g.l.
  gramm: V
  root: gly
  stamm: II
@@ -1950,7 +1950,7 @@
 
 -lexeme
  lex: mgambele/mgambəl
- stem: .g.mb.l.|.g.mb.ll.
+ stem: .g.mb.l.|.g.mb.|.g.mb.n.|.g.mb.ll.
  gramm: V
  root: gmbl
  stamm: II
@@ -1970,7 +1970,7 @@
 
 -lexeme
  lex: mgandər/migandər
- stem: .g.nd.r.
+ stem: .g.nd.r.|.g.nd.l.|.g.nd.n.
  gramm: V
  root: gndr
  stamm: Qp
@@ -2220,7 +2220,7 @@
 
 -lexeme
  lex: mgawmalle/mgawmən
- stem: .g.wm.n.|.g.wm.nn.
+ stem: .g.wm.n.|.g.wm.l.|.g.wm.nn.
  gramm: V
  root: gwmn
  stamm: II
@@ -2230,7 +2230,7 @@
 
 -lexeme
  lex: gawər/gowər
- stem: .g.w.r.|.g.r.|.g.w.rr.
+ stem: .g.w.r.|.g.r.|.g.w.l.|.g.w.n.|.g.w.rr.
  gramm: V
  root: gwr
  stamm: I
@@ -2240,7 +2240,7 @@
 
 -lexeme
  lex: mgawtalle/mgawtər
- stem: .g.wt.r.|.g.wt.rr.
+ stem: .g.wt.r.|.g.wt.l.|.g.wt.n.|.g.wt.rr.
  gramm: V
  root: gwtr
  stamm: II
@@ -2440,7 +2440,7 @@
 
 -lexeme
  lex: mġarġalle/mġarġər
- stem: .ġ.rġ.r.|.ġ.rġ.rr.
+ stem: .ġ.rġ.r.|.ġ.rġ.l.|.ġ.rġ.n.|.ġ.rġ.rr.
  gramm: V
  root: ġrġr
  stamm: II
@@ -2480,7 +2480,7 @@
 
 -lexeme
  lex: ġayər/ġoyər
- stem: .ġ.y.r.|.ġ.r.|.ġ.rr.
+ stem: .ġ.y.r.|.ġ.r.|.ġ.y.l|.ġ.l.|.ġ.y.n.|.ġ.y.rr.|.ġ.rr.|.ġ.n.
  gramm: V
  root: ġyr
  stamm: I
@@ -2520,7 +2520,7 @@
 
 -lexeme
  lex: mġažməž/miġažməž
- stem: .ġ.ž.m.
+ stem: .ġ.žm.ž.
  gramm: V
  root: ġžmž
  stamm: Qp
@@ -2580,7 +2580,7 @@
 
 -lexeme
  lex: mǧadele/mǧadəl
- stem: .ǧ.d.l.|.ǧ.d.
+ stem: .ǧ.d.l.|.ǧ.d.|.ǧ.d.n.|.ǧ.d.ll.
  gramm: V
  root: ǧdl
  stamm: II
@@ -2610,7 +2610,7 @@
 
 -lexeme
  lex: ǧġil/məǧġəl
- stem: .ǧ.ġ.l.
+ stem: .ǧ.ġ.l.|.ǧ.ġ.n.
  gramm: V
  root: ǧġl
  stamm: Ip
@@ -2620,7 +2620,7 @@
 
 -lexeme
  lex: mtaǧġəl/mitaǧġəl
- stem: .ǧ.ġ.l.
+ stem: .ǧ.ġ.l.|.ǧ.ġ.|.ǧ.ġ.n.
  gramm: V
  root: ǧġl
  stamm: IIIp
@@ -2630,7 +2630,7 @@
 
 -lexeme
  lex: maǧġele/maǧġəl
- stem: .ǧ.ġ.l.|.ǧ.ġ.ll.
+ stem: .ǧ.ġ.l.|.ǧ.ġ.
  gramm: V
  root: ǧġl
  stamm: III
@@ -2640,7 +2640,7 @@
 
 -lexeme
  lex: ǧġəlle/ǧoġər
- stem: .ǧ.ġ.r.|.ǧ.ġ.rr.
+ stem: .ǧ.ġ.r.|.ǧ.ġ.l.|.ǧ.ġ.n.|.ǧ.ġ.rr.
  gramm: V
  root: ǧġr
  stamm: I
@@ -2860,7 +2860,7 @@
 
 -lexeme
  lex: maǧrele/maǧre
- stem: .ǧ.r.y.|.ǧ.r.yy.
+ stem: .ǧ.r.y.|.ǧ.r.
  gramm: V
  root: ǧry
  stamm: III
@@ -2930,7 +2930,7 @@
 
 -lexeme
  lex: mǧawhalle/mǧawhər
- stem: .ǧ.wh.r.|.ǧ.wh.l.|.ǧ.wh.n.
+ stem: .ǧ.wh.r.|.ǧ.wh.l.|.ǧ.wh.n.|.ǧ.wh.rr.
  gramm: V
  root: ǧwhr
  stamm: Q
@@ -3130,7 +3130,7 @@
 
 -lexeme
  lex: mhardele/mhardəl
- stem: .h.rd.l.|.h.rd.ll.
+ stem: .h.rd.l.|.h.rd.|.h.rd.n.|.h.rd.ll.
  gramm: V
  root: hrdl
  stamm: II
@@ -3180,7 +3180,7 @@
 
 -lexeme
  lex: mhaškalle/mhaškər
- stem: .h.šk.r.|.h.šk.rr.
+ stem: .h.šk.r.|.h.šk.l.|.h.šk.n.|.h.šk.rr.
  gramm: V
  root: hškr
  stamm: II
@@ -3190,7 +3190,7 @@
 
 -lexeme
  lex: mhaškalle/mhaškər
- stem: .h.š.k.|.h.š.kk.
+ stem: .h.š.k.|.h.š.l.|.h.š.n.|.h.š.kk.
  gramm: V
  root: hškr
  stamm: I
@@ -3210,7 +3210,7 @@
 
 -lexeme
  lex: mhawele/mhawəl
- stem: .h.w.l.|.h.w.ll.
+ stem: .h.w.l.|.h.w.|.h.w.n.|.h.w.ll.
  gramm: V
  root: hwl
  stamm: II
@@ -3230,7 +3230,7 @@
 
 -lexeme
  lex: mhawalle/mhawən
- stem: .h.w.n.|.h.w.nn.
+ stem: .h.w.n.|.h.w.l.|.h.w.nn.
  gramm: V
  root: hwn
  stamm: II
@@ -3240,22 +3240,13 @@
 
 -lexeme
  lex: mhawalle/mhawər
- stem: .h.w.r.|.h.w.rr.
+ stem: .h.w.r.|.h.w.l.|.h.w.n.|.h.w.rr.
  gramm: V
  root: hwr
  stamm: II
  paradigm: V_II_3r
  trans_de: schreien, rufen, brüllen, dröhnen
  trans_en: to scream; to call
-
--lexeme
- lex: hule/obe
- stem: ..b.|.hu.|.h.w.
- root: hwy
- gramm: V
- paradigm: to_give
- trans_de: 1) geben; 2) sich aufmachen (mit foṯo); 3) j-m Furcht einjagen (mit zuḥṯo); 4) begrüssen (mit šlomo); 5) ausmachen, entscheiden (mit qărār); 6) verheiraten
- trans_en: to give
 
 -lexeme
  lex: hawi/howe
@@ -3299,7 +3290,7 @@
 
 -lexeme
  lex: mhaydən/mihaydən
- stem: .h.yd.n.
+ stem: .h.yd.n.|.h.yd.l.
  gramm: V
  root: hydn
  stamm: V_Qp
@@ -3629,7 +3620,7 @@
 
 -lexeme
  lex: maḥmele/maḥməl
- stem: .ḥ.m.l.|.ḥ.m.ll.
+ stem: .ḥ.m.l.|.ḥ.m.
  gramm: V
  root: ḥml
  stamm: III
@@ -3679,7 +3670,7 @@
 
 -lexeme
  lex: mḥanḥele/mḥanḥəl
- stem: .ḥ.nḥ.l.|.ḥ.nḥ.ll.
+ stem: .ḥ.nḥ.l.|.ḥ.nḥ.|.ḥ.nḥ.n.|.ḥ.nḥ.ll.
  gramm: V
  root: ḥnḥl
  stamm: II
@@ -4319,7 +4310,7 @@
 
 -lexeme
  lex: mḥayṣele/mḥayṣəl
- stem: .ḥ.yṣ.l.|.ḥ.yṣ.ll.
+ stem: .ḥ.yṣ.l.|.ḥ.yṣ.|.ḥ.yṣ.n.|.ḥ.yṣ.ll.
  gramm: V
  root: ḥyṣl
  stamm: II
@@ -4349,7 +4340,7 @@
 
 -lexeme
  lex: ḥayi/ḥoye
- stem: .ḥ.y.y.|.ḥ.y.|.ḥ.yy.
+ stem: .ḥ.y.y.|.ḥ.y.
  gramm: V
  root: ḥyy
  stamm: I
@@ -4379,7 +4370,7 @@
 
 -lexeme
  lex: mḥazən/miḥazən
- stem: .ḥ.z.n.
+ stem: .ḥ.z.n.|.ḥ.z.l.
  gramm: V
  root: ḥzn
  stamm: IIp
@@ -4409,7 +4400,7 @@
 
 -lexeme
  lex: mkadər/mikadər
- stem: .k.d.r.
+ stem: .k.d.r.|.k.d.l.|.k.d.n.
  gramm: V
  root: kdr
  stamm: IIp
@@ -4419,7 +4410,7 @@
 
 -lexeme
  lex: kfile/kofəl
- stem: .k.f.l.|.k.f.ll.
+ stem: .k.f.l.|.k.f.|.k.f.n.|.k.f.ll.
  gramm: V
  root: kfl
  stamm: I
@@ -4689,7 +4680,7 @@
 
 -lexeme
  lex: mkanfele/mkanfəl
- stem: .k.nf.l.|.k.nf.ll.
+ stem: .k.nf.l.|.k.nf.|.k.nf.n.|.k.nf.ll.
  gramm: V
  root: knfl
  stamm: II
@@ -4999,7 +4990,7 @@
 
 -lexeme
  lex: mkawzalle/mkawzər
- stem: .k.wz.r.|.k.wz.rr.
+ stem: .k.wz.r.|.k.wz.l.|.k.wz.n.|.k.wz.rr.
  gramm: V
  root: kwzr
  stamm: II
@@ -5009,7 +5000,7 @@
 
 -lexeme
  lex: kəble/koyəb
- stem: .k.wz.r.|.k.wz.rr.
+ stem: .k.wz.r.|.k.wz.l.|.k.wz.n.|.k.wz.rr.
  gramm: V
  root: kyb/kyf
  stamm: I
@@ -5019,7 +5010,7 @@
 
 -lexeme
  lex: mkayafle/mkayəf
- stem: .k.y.f.
+ stem: .k.y.f.|.k.y.ff.
  gramm: V
  root: kyf
  stamm: II
@@ -5039,7 +5030,7 @@
 
 -lexeme
  lex: kayəm/koyəm
- stem: .k.y.m.|.k.y.mm.
+ stem: .k.y.m.|.k.m.|.k.mm.
  gramm: V
  root: kym
  stamm: I
@@ -5539,7 +5530,7 @@
 
 -lexeme
  lex: lwəšle/lowəš
- stem: .l.w.š.|.l.w.šš.
+ stem: .l.w.š.|.l.š.|.l.w.šš.
  gramm: V
  root: lwš
  stamm: I
@@ -5959,7 +5950,7 @@
 
 -lexeme
  lex: mšele/moše
- stem: .m.š.y.|.m.š.yy.
+ stem: .m.š.y.|.m.š.
  gramm: V
  root: mšy
  stamm: I
@@ -6719,7 +6710,7 @@
 
 -lexeme
  lex: mnarnalle/mnarnər
- stem: .n.rn.r.|.n.rn.rr.
+ stem: .n.rn.r.|.n.rn.l.|.n.rn.n.|.n.rn.rr.
  gramm: V
  root: nrnr
  stamm: II
@@ -6849,7 +6840,7 @@
 
 -lexeme
  lex: natən/notən
- stem: .n.t.n.|.n.t.nn.
+ stem: .n.t.n.|.n.t.l.|.n.t.nn.
  gramm: V
  root: ntn
  stamm: I
@@ -6919,7 +6910,7 @@
 
 -lexeme
  lex: naṯər/noṯər
- stem: .n.ṯ.r.|.n.ṯ.rr.
+ stem: .n.ṯ.r.|.n.ṯ.l.|.n.ṯ.n.|.n.ṯ.rr.
  gramm: V
  root: nṯr
  stamm: I
@@ -6929,7 +6920,7 @@
 
 -lexeme
  lex: mnawhalle/mnawhər
- stem: .n.wh.r.|.n.wh.rr.
+ stem: .n.wh.r.|.n.wh.l.|.n.wh.n.|.n.wh.rr.
  gramm: V
  root: nwhr
  stamm: II
@@ -7329,7 +7320,7 @@
 
 -lexeme
  lex: mparxəl/miparxəl
- stem: .p.rx.l.
+ stem: .p.rx.l.|.p.rx.|.p.rx.n.
  gramm: V
  root: prxl
  stamm: Qp
@@ -7349,7 +7340,7 @@
 
 -lexeme
  lex: mpašmalle/mpašmən
- stem: .p.šm.n.|.p.šm.nn.
+ stem: .p.šm.n.|.p.šm.l.|.p.šm.nn.
  gramm: V
  root: pšmn
  stamm: II
@@ -7499,7 +7490,7 @@
 
 -lexeme
  lex: qadər/qodər
- stem: .q.d.r.|.q.d.rr.
+ stem: .q.d.r.|.q.d.l.|.q.d.n.|.q.d.rr.
  gramm: V
  root: qdr
  stamm: I
@@ -8079,7 +8070,7 @@
 
 -lexeme
  lex: qṣile/qoṣəl
- stem: .q.ṣ.l.|.q.ṣ.ll.
+ stem: .q.ṣ.l.|.q.ṣ.|.q.ṣ.n.|.q.ṣ.ll.
  gramm: V
  root: qṣl
  stamm: I
@@ -9709,7 +9700,7 @@
 
 -lexeme
  lex: msargalle/msargən
- stem: .s.r.g.|.s.r.gg.
+ stem: .s.r.g.|.s.r.l.|.s.r.gg.
  gramm: V
  root: srgn
  stamm: I
@@ -9789,7 +9780,7 @@
 
 -lexeme
  lex: məstaʔhele/məstaʔhəl
- stem: .st.ʔh.l.|.st.ʔh.ll.
+ stem: .st.ʔh.l.|.st.ʔh.|.st.ʔh.n.|.st.ʔh.ll.
  gramm: V
  root: stʔhl
  stamm: X
@@ -9809,7 +9800,7 @@
 
 -lexeme
  lex: məstaʕmele/məstaʕməl
- stem: .st.ʕm.l.|.st.ʕm.ll.
+ stem: .st.ʕm.l.|.st.ʕm.|.st.ʕm.n.|.st.ʕm.ll.
  gramm: V
  root: stʕml
  stamm: X
@@ -9889,7 +9880,7 @@
 
 -lexeme
  lex: msatər/misatər
- stem: .s.t.r.
+ stem: .s.t.r.|.s.t.l.|.s.t.n.
  gramm: V
  root: str
  stamm: IIp
@@ -10009,7 +10000,7 @@
 
 -lexeme
  lex: msayalle/msayər
- stem: .s.y.r.|.s.y.rr.
+ stem: .s.y.r.|.s.y.l.|.s.y.n.|.s.y.rr.
  gramm: V
  root: syr
  stamm: II
@@ -10119,7 +10110,7 @@
 
 -lexeme
  lex: ṣfəlle/ṣofər
- stem: .ṣ.f.r.|.ṣ.f.rr.
+ stem: .ṣ.f.r.|.ṣ.f.l.|.ṣ.f.n.|.ṣ.f.rr.
  gramm: V
  root: ṣfr
  stamm: I
@@ -10139,7 +10130,7 @@
 
 -lexeme
  lex: mṣafele/mṣafe
- stem: .ṣ.f.y.|.ṣ.f.yy.
+ stem: .ṣ.f.y.|.ṣ.f.
  gramm: V
  root: ṣfy
  stamm: II
@@ -10179,7 +10170,7 @@
 
 -lexeme
  lex: ṣhəlle/ṣohər
- stem: .ṣ.h.r.|.ṣ.h.rr.
+ stem: .ṣ.h.r.|.ṣ.h.l.|.ṣ.h.n.|.ṣ.h.rr.
  gramm: V
  root: ṣhr
  stamm: I
@@ -10319,7 +10310,7 @@
 
 -lexeme
  lex: mṣanǧər/miṣanǧər
- stem: .ṣ.nǧ.r.
+ stem: .ṣ.nǧ.r.|.ṣ.nǧ.l.|.ṣ.nǧ.n.
  gramm: V
  root: ṣnǧr
  stamm: Qp
@@ -10419,7 +10410,7 @@
 
 -lexeme
  lex: məṣtafele/məṣtafəl
- stem: .ṣt.fl.C5.|.ṣt.fl.C5C5.
+ stem: .ṣt.f.l.|.ṣt.f.l.|.ṣt.f.n.|.ṣt.f.ll.
  gramm: V
  root: ṣtfl
  stamm: VIII
@@ -10469,7 +10460,7 @@
 
 -lexeme
  lex: mṣawele/mṣawəl
- stem: .ṣ.w.l.|.ṣ.w.ll.
+ stem: .ṣ.w.l.|.ṣ.w.|.ṣ.w.n.|.ṣ.w.ll.
  gramm: V
  root: ṣwl
  stamm: II
@@ -10549,7 +10540,7 @@
 
 -lexeme
  lex: ṣayər/ṣoyər
- stem: .ṣ.y.r.|.ṣ.r.|.ṣ.rr.
+ stem: .ṣ.y.r.|.ṣ.r.|.ṣ.y.l|.ṣ.l.|.ṣ.y.n.|.ṣ.y.rr.|.ṣ.rr.|.ṣ.n.
  gramm: V
  root: ṣyr
  stamm: I
@@ -10819,7 +10810,7 @@
 
 -lexeme
  lex: maškalle/maškər
- stem: .š.k.r.|.š.k.rr.
+ stem: .š.k.r.|.š.k.l.|.š.k.n.|.š.k.rr.
  gramm: V
  root: škr
  stamm: III
@@ -10959,7 +10950,7 @@
 
 -lexeme
  lex: mšamele/mšaməl
- stem: .š.m.l.|.š.m.ll.
+ stem: .š.m.l.|.š.m.|.š.m.n.|.š.m.ll.
  gramm: V
  root: šml
  stamm: I
@@ -11499,7 +11490,7 @@
 
 -lexeme
  lex: šəlle(šayər)/šoyər
- stem: .š.y.r.|.š.r.|.š.rr.
+ stem: .š.y.r.|.š.r.|.š.y.l|.š.l.|.š.y.n.|.š.y.rr.|.š.rr.|.š.n.
  gramm: V
  root: šyr
  stamm: I
@@ -11549,7 +11540,7 @@
 
 -lexeme
  lex: mətʔahele/mətʔahəl
- stem: .tʔ.h.l.|.tʔ.h.ll.
+ stem: .tʔ.h.l.|.tʔ.h.l.|.tʔ.h.n.|.tʔ.h.ll.
  gramm: V
  root: tʔhl
  stamm: V
@@ -11569,7 +11560,7 @@
 
 -lexeme
  lex: mətʔaṯalle/mətʔaṯər
- stem: .tʔ.ṯ.r.|.tʔ.ṯ.rr.
+ stem: .tʔ.ṯ.r.|.tʔ.ṯ.l.|.tʔ.ṯ.n.|.tʔ.ṯ.rr.
  gramm: V
  root: tʔṯr
  stamm: V
@@ -11589,7 +11580,7 @@
 
 -lexeme
  lex: mətʕadele/mətʕade
- stem: .tʕ.d.y.|.tʕ.d.yy.
+ stem: .tʕ.d.y.|.tʕ.d.
  gramm: V
  root: tʕdy
  stamm: V
@@ -12019,7 +12010,7 @@
 
 -lexeme
  lex: mtarġəl/mitarġəl
- stem: .r.ġ.l.
+ stem: .r.ġ.l.|.r.ġ.|.r.ġ.n.
  gramm: V
  root: rġl
  stamm: IIIp
@@ -12128,17 +12119,6 @@
  trans_en: to go for a walk
 
 -lexeme
- lex: məštaʕele/məštaʕe
- stem: .št.ʕ.y.|.št.ʕ.
- root: štʕy
- stamm: X
- gramm: V_V_3y
- paradigm: to_play
- trans_de: spielen
- trans_en: to play
-
-
--lexeme
  lex: mətšahele/mətšahe
  stem: .tš.h.y.|.tš.h.
  gramm: V
@@ -12210,23 +12190,13 @@
 
 -lexeme
  lex: twəlle/towər
- stem: .t.w.r.|.t.r.|.t.w.rr.
+ stem: .t.w.r.|.t.r.|.t.w.l.|.t.w.n.|.t.w.rr.
  gramm: V
  root: twr
  stamm: I
  paradigm: V_I_2w_3r
  trans_de: 1) zerbrechen, zerschlagen, zerreissen, aufbrechen, aufschneiden; 2) schlagen (Heer, Feind); 3) zerschneiden (Frucht); 4) (fig.) enttäuschen, demütigen; 5) missachten, nicht respektieren, in den Wind schlagen, desavouieren (Ehre), zunichte machen
  trans_en: to break; to defeat; to cut; to disappoint; to offend; to disregard
-
--lexeme
- lex: mtawele/mtawe
- stem: .t.w.y.|.t.w.yy.
- gramm: V
- root: twy
- stamm: II
- paradigm: V_II_2y
- trans_de: etwas zerstreutes an seinen Platz bringen, einem, der nicht richtig sprechen kann (z.B. Ausländer) mit eigenen Worten heraushelfen
- trans_en: [?]
 
 -lexeme
  lex: mtaxalle/mtaxər
@@ -12690,7 +12660,7 @@
 
 -lexeme
  lex: mṭawele/mṭawəl
- stem: .ṭ.w.l.|.ṭ.w.ll.
+ stem: .ṭ.w.l.|.ṭ.w.|.ṭ.w.n.|.ṭ.w.ll.
  gramm: V
  root: ṭwl
  stamm: II
@@ -12760,7 +12730,7 @@
 
 -lexeme
  lex: ṭayər/ṭoyər
- stem: .ṭ.y.r.|.ṭ.r.|.ṭ.rr.
+ stem: .ṭ.y.r.|.ṭ.r.|.ṭ.y.l|.ṭ.l.|.ṭ.y.n.|.ṭ.y.rr.|.ṭ.rr.|.ṭ.n.
  gramm: V
  root: ṭyr
  stamm: I
@@ -13570,7 +13540,7 @@
 
 -lexeme
  lex: xayər/xoyər
- stem: .x.y.r.|.x.r.|.x.rr.
+ stem: .x.y.r.|.x.r.|.x.y.l|.x.l.|.x.y.n.|.x.y.rr.|.x.rr.|.x.n.
  gramm: V
  root: xyr
  stamm: I
@@ -13650,7 +13620,7 @@
 
 -lexeme
  lex: yaləf/yoləf
- stem: .y.l.f.|.y.l.ff.
+ stem: .y.l.f.|.l.f.|.y.l.ff.|.l.ff.
  gramm: V
  root: ylf
  stamm: I
@@ -13710,7 +13680,7 @@
 
 -lexeme
  lex: yaqəḏ/yoqəḏ
- stem: .y.q.ḏ.|.y.q.ḏḏ.
+ stem: .y.q.ḏ.|.q.ḏ.|.y.q.ḏḏ.|.q.ḏḏ.
  gramm: V
  root: yqḏ
  stamm: I
@@ -13729,16 +13699,6 @@
  trans_en: to set on fire; to burn (tr.)
 
 -lexeme
- lex: yaqər/yoqər
- stem: .y.q.r.|.y.q.l.|.y.q.n.|.y.q.rr.
- gramm: V
- root: yqr
- stamm: I
- paradigm: V_I_1y_3r
- trans_de: 1) schwerfällig werden, schwerer werden; 2) (i=aḏno) schwerhörig werden
- trans_en: to become heavy; to become slow
-
--lexeme
  lex: moqalle/moqər
  stem: .w.q.r.|.w.q.
  gramm: V
@@ -13750,7 +13710,7 @@
 
 -lexeme
  lex: yarəm/yorəm
- stem: .y.r.m.|.y.r.mm.
+ stem: .y.r.m.|.r.m.|.y.r.mm.|.r.mm.
  gramm: V
  root: yrm
  stamm: I
@@ -13760,7 +13720,7 @@
 
 -lexeme
  lex: yarəq/yorəq
- stem: .y.r.q.|.y.r.qq.
+ stem: .y.r.q.|.r.q.|.y.r.qq.|.r.qq.
  gramm: V
  root: yrq
  stamm: I
@@ -13789,16 +13749,6 @@
  trans_en: to inherit
 
 -lexeme
- lex: yaru/yoru
- stem: .y.w.w.|.y.r.|.y.r.ww.
- gramm: V
- root: yrw
- stamm: I
- paradigm: V_I_1y_3w
- trans_de: heranwachsen
- trans_en: to grow
-
--lexeme
  lex: morawle/moru
  stem: .w.r.w.|.r.w.|.w.r.ww.|.r.ww.
  gramm: V
@@ -13810,7 +13760,7 @@
 
 -lexeme
  lex: yarəx/yorəx
- stem: .y.r.x.|.y.r.xx.
+ stem: .y.r.x.|.r.x.|.y.r.xx.|.r.xx.
  gramm: V
  root: yrx
  stamm: I
@@ -13830,7 +13780,7 @@
 
 -lexeme
  lex: yasəq/yosəq
- stem: .y.s.q.|.y.s.qq.
+ stem: .y.s.q.|.s.q.|.y.s.qq.|.s.qq.
  gramm: V
  root: ysq
  stamm: I
@@ -13857,16 +13807,6 @@
  paradigm: V_II_3r
  trans_de: gefangen setzen, gefangen nehmen
  trans_en: to take prisoner, to capture
-
--lexeme
- lex: yatu/yotu
- stem: .y.w.w.|.y.t.|.y.t.ww.
- gramm: V
- root: ytw
- stamm: I
- paradigm: V_I_1y_3w
- trans_de: 1) sich setzen, sich niederlassen, 2) wohnen, sich niederlassen (в смысле “обосновываться”) 3) sich als Knecht, Geselle, Hirt verdingen, in Dienst eintreten, 4) sich aufs Altenteil zurückziehen, abdanken; 5) auf dem Thron sitzen, regieren
- trans_en: to sit; to sit down; to live; to stay
 
 -lexeme
  lex: motawle/motu
@@ -13900,7 +13840,7 @@
 
 -lexeme
  lex: mzaʕballe/mzaʕbər
- stem: .z.ʕ.b.|.z.ʕ.bb.
+ stem: .z.ʕb.r.|.z.ʕb.l.|.z.ʕb.n.|.z.ʕb.rr.
  gramm: V
  root: zʕbr
  stamm: I
@@ -13910,7 +13850,7 @@
 
 -lexeme
  lex: zʕəfle/zoʕəf
- stem: .z.ʕ.b.|.z.ʕ.bb.
+ stem: .z.ʕb.r.|.z.ʕb.l.|.z.ʕb.n.|.z.ʕb.rr.
  gramm: V
  root: zʕf/zḥf
  stamm: I
@@ -14200,7 +14140,7 @@
 
 -lexeme
  lex: zqəlle/zoqər
- stem: .z.q.r.|.z.q.rr.
+ stem: .z.q.r.|.z.q.l.|.z.q.n.|.z.q.rr.
  gramm: V
  root: zqr
  stamm: I
@@ -14480,7 +14420,7 @@
 
 -lexeme
  lex: mʔamalle/mʔamən
- stem: .ʔ.m.n.|.ʔ.m.nn.
+ stem: .ʔ.m.n.|.ʔ.m.l.|.ʔ.m.nn.
  gramm: V
  root: ʔmn
  stamm: II
@@ -14489,17 +14429,8 @@
  trans_en: to guarantee; to trust; to create security; to provide
 
 -lexeme
- lex: məlle/omər
- stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
- root: ʔmr
- gramm: V
- paradigm: to_say
- trans_de: 1) sprechen, sagen, erzählen, denken, fordern ???; 2) (l-) nennen; 3) a) (ōmər) wird zur Einleitung der direkten Rede gebraucht; b) used before the sounds of non-human origin; 4) (ein Musikinstrument) spielen [entweder ad hoc gebildet oder zu k-zomər zu korrigieren]
- trans_en: to say; to name smb. or smth.; to emit a sound
-
--lexeme
  lex: mʔamalle/mʔamər
- stem: .ʔ.m.r.|.ʔ.m.rr.
+ stem: .ʔ.m.r.|.ʔ.m.l.|.ʔ.m.n.|.ʔ.m.rr.
  gramm: V
  root: ʔmr
  stamm: II
@@ -14529,7 +14460,7 @@
 
 -lexeme
  lex: maṣəlle/maṣər
- stem: .ʔ.ṣ.r.|.ʔ.ṣ.rr.
+ stem: .ʔ.ṣ.r.|.ʔ.ṣ.l.|.ʔ.ṣ.n.|.ʔ.ṣ.rr.
  gramm: V
  root: ʔṣr
  stamm: III
@@ -14539,7 +14470,7 @@
 
 -lexeme
  lex: mʔašalle/mʔašər
- stem: .ʔ.š.r.|.ʔ.š.rr.
+ stem: .ʔ.š.r.|.ʔ.š.l.|.ʔ.š.n.|.ʔ.š.rr.
  gramm: V
  root: ʔšr
  stamm: II
@@ -14559,7 +14490,7 @@
 
 -lexeme
  lex: mʔaṯalle/mʔaṯər
- stem: .ʔ.ṯ.r.|.ʔ.ṯ.rr.
+ stem: .ʔ.ṯ.r.|.ʔ.ṯ.l.|.ʔ.ṯ.n.|.ʔ.ṯ.rr.
  gramm: V
  root: ʔṯr
  stamm: II
@@ -14629,7 +14560,7 @@
 
 -lexeme
  lex: mʔaxər/miʔaxər
- stem: .ʔ.x.r.|.ʔ.x.rr.
+ stem: .ʔ.x.r.|.ʔ.x.l.|.ʔ.x.n.|.ʔ.x.rr.
  gramm: V
  root: ʔxr
  stamm: II
@@ -14646,15 +14577,6 @@
  paradigm: V_I
  trans_de: dienen, beten
  trans_en: to serve (God), to pray
-
--lexeme
- lex: azze/əzze
- stem: .azz.|.əzz.|.z.
- root: ʔzl
- gramm: V
- paradigm: to_go
- trans_de: 1) gehen, dahingehen, zu spät sein; 2) als Hilfsverb (oft mit «nicht etwa» zu übersetzen); 3) ingressiv; 4) sterben; 5) (lebo) wünschen; 6) vergehen; 7) hinsein, verloren; 8) weggehen, fortgehen
- trans_en: to go; to get lost
 
 -lexeme
  lex: ʕabər/ʕobər
@@ -14768,7 +14690,7 @@
 
 -lexeme
  lex: ʕǧəlle/ʕoǧən
- stem: .ʕ.ǧ.n.|.ʕ.ǧ.nn.
+ stem: .ʕ.ǧ.n.|.ʕ.ǧ.l.|.ʕ.ǧ.nn.
  gramm: V
  root: ʕǧn
  stamm: I
@@ -14948,7 +14870,7 @@
 
 -lexeme
  lex: mʕangər/miʕangər
- stem: .ʕ.n.g.
+ stem: .ʕ.n.g.|.ʕ.n.n.
  gramm: V
  root: ʕngr
  stamm: Ip
@@ -15148,7 +15070,7 @@
 
 -lexeme
  lex: məʕtaballe/məʕtabər
- stem: .ʕ.t.b.|.ʕ.t.bb.
+ stem: .ʕ.t.b.|.ʕ.t.l.|.ʕ.t.n.|.ʕ.t.bb.
  gramm: V
  root: ʕtbr
  stamm: Q
@@ -15317,16 +15239,6 @@
  trans_en: to pack together
 
 -lexeme
- lex: mʕayaḏle/mʕayəḏ
- stem: .ʕ.y.ḏ.|.ʕ.y.ḏḏ.
- gramm: V
- root: ʕyḏ
- stamm: II
- paradigm: V_II_2y
- trans_de: feiern
- trans_en: to celebrate
-
--lexeme
  lex: ʕayəf/ʕoyəf
  stem: .ʕ.y.f.|.ʕ.f.|.ʕ.ff.
  gramm: V
@@ -15338,7 +15250,7 @@
 
 -lexeme
  lex: mʕayfən/miʕayfən
- stem: .ʕ.y.f.
+ stem: .ʕ.yf.n.|.ʕ.yf.l.
  gramm: V
  root: ʕyfn
  stamm: Qp
@@ -16028,7 +15940,7 @@
 
 -lexeme
  lex: mbasmalle/mbasmər
- stem: .b.sm.r.|.b.sm.rr.
+ stem: .b.sm.r.|.b.sm.l.|.b.sm.n.|.b.sm.rr.
  gramm: V
  root: bsmr
  stamm: II
@@ -16068,7 +15980,7 @@
 
 -lexeme
  lex: bašəl/bošəl
- stem: .b.š.l.|.b.š.ll.
+ stem: .b.š.l.|.b.š.|.b.š.n.|.b.š.ll.
  gramm: V
  root: bšl
  stamm: I
@@ -16138,7 +16050,7 @@
 
 -lexeme
  lex: mbaxəl/mibaxəl
- stem: .b.x.l.
+ stem: .b.x.l.|.b.x.n.
  gramm: V
  root: bxl
  stamm: IIp
@@ -16188,7 +16100,7 @@
 
 -lexeme
  lex: mbayalle/mbayən
- stem: .b.y.n.|.b.y.nn.
+ stem: .b.y.n.|.b.y.l.|.b.y.nn.
  gramm: V
  root: byn
  stamm: II
@@ -16198,7 +16110,7 @@
 
 -lexeme
  lex: mbayən/mibayən
- stem: .b.y.n.
+ stem: .b.y.n.|.b.y.l.
  gramm: V
  root: byn
  stamm: IIp
@@ -16218,7 +16130,7 @@
 
 -lexeme
  lex: bayər/boyər
- stem: .b.y.r.|.b.r.|.b.rr.
+ stem: .b.y.r.|.b.r.|.b.y.l|.b.l.|.b.y.n.|.b.y.rr.|.b.rr.|.b.n.
  gramm: V
  root: byr
  stamm: I
@@ -16378,7 +16290,7 @@
 
 -lexeme
  lex: mčančalle/mčančər
- stem: .č.nč.r.|.č.nč.rr.
+ stem: .č.nč.r.|.č.nč.l.|.č.nč.n.|.č.nč.rr.
  gramm: V
  root: čnčr
  stamm: II

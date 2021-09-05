@@ -22,7 +22,7 @@ def check_paradigm(root, paradigm):
         paradigm_base = ''
         paradigm_deviation = ''
     else:
-        paradigm_label = re.search('_([VIQX]+)_*(.*)', paradigm)
+        paradigm_label = re.search('V_((?:I|II|III|Q|V|X)+p?)_*(.*)', paradigm)
         paradigm_base = paradigm_label.group(1)
         paradigm_deviation = paradigm_label.group(2)
 
@@ -55,7 +55,7 @@ def check_paradigm(root, paradigm):
         if root[1] == 'y':
             root_type = '2y_3l'
         elif root[1] == 'w':
-            root_type = '2w_3r'
+            root_type = '2w_3l'
         else:
             root_type = '3l'
     elif root[1] == 'y':
@@ -94,8 +94,8 @@ def check_paradigm(root, paradigm):
         else:
             root_type = '1y'
 
-        if root_type != paradigm_deviation:
-            print('Expected {0} but got {1} for root {2}.'.format(root_type, paradigm_deviation, root))
+    if root_type != paradigm_deviation:
+        print('Expected {0} but got {1} for root {2}.'.format(root_type, paradigm_deviation, root))
 
 
 stem_order_templates = read_stem_order('correct_stem_order.txt')
@@ -113,8 +113,8 @@ with open('lexemes_order_test.txt', 'w', encoding = 'utf-8') as out_file:
             if 'root:' in l:
                 root = re.search('root: *([^\r\n]+)', l).group(1)
             stamm = ''
-            stamm_match = re.compile(r'stamm:\s[^\r\n]+')
-            if 'stamm:' in l and re.match(stamm_match, l):
+            stamm_match = re.compile('stamm:\s[^\r\n]+')
+            if 'stamm:' in l: # and re.match(stamm_match, l):
                 stamm = re.search('stamm: ([^\r\n]+)', l).group(1)
             trans_de = ''
             if 'trans_de:' in l:
