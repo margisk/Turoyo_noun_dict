@@ -2,11 +2,11 @@
  -flex: .
   gramm: subj
  -flex: k.
-  gramm: prs_stem
+  gramm: prs
  -flex: ko.
-  gramm: prs_stem
+  gramm: prs
  -flex: kə.
-  gramm: prs_stem
+  gramm: prs
  -flex: gə.
   gramm: fut
  -flex: gd.
