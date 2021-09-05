@@ -213,7 +213,7 @@
  stem: .d.h.b.
  gramm: V
  root: dhb
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (Detrans.) zerstreuen, verloren gehen lassen
  trans_en: to get lost
@@ -373,7 +373,7 @@
  stem: .d.m.r.|.d.m.l.|.d.m.n.
  gramm: V
  root: dmr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: staunen
  trans_en: to be astonished
@@ -383,7 +383,7 @@
  stem: .d.m.š.
  gramm: V
  root: dmš
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (Detrans.) klebrig werden
  trans_en: to become sticky
@@ -473,7 +473,7 @@
  stem: .d.r.d.
  gramm: V
  root: drd
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (Detrans.) sich abquälen
  trans_en: [?]
@@ -603,7 +603,7 @@
  stem: .d.šd.š.|.d.šd.šš.
  gramm: V
  root: dwdḥ/twtḥ/ṭwṭḥ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: [?]
  trans_en: to go down; to fall down; to hang down
@@ -613,7 +613,7 @@
  stem: .d.wd.l.|.d.wd.|.d.wd.n.
  gramm: V
  root: dwdl
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3l
  trans_de: (Detrans.) baumeln, pendeln
  trans_en: to dangle
@@ -673,7 +673,7 @@
  stem: .d.wm.r.|.d.wm.l.|.d.wm.n.
  gramm: V
  root: dwmr
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3r
  trans_de: (Detrans.) auf's höchste Erstaunt, verblüfft sein
  trans_en: to be astonished, to be amazed
@@ -793,7 +793,7 @@
  stem: .d.y.n.|.d.y.l.
  gramm: V
  root: dyn
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3n
  trans_de: sich anlehnen
  trans_en: to borrow
@@ -1143,7 +1143,7 @@
  stem: .f.k.r.|.f.k.l.|.f.k.n.
  gramm: V
  root: fkr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: stecken, eingeklemmt bleiben
  trans_en: to get stuck
@@ -1213,7 +1213,7 @@
  stem: .f.nf.l.|.f.nf.|.f.nf.n.
  gramm: V
  root: fnfl
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3l
  trans_de: in einzelnen Flocken fallen
  trans_en: to fall apart in separate flakes (e.g. bulghur)
@@ -1333,7 +1333,7 @@
  stem: .f.rf.ṭ.
  gramm: V
  root: frfṭ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: röcheln, schnaufen, die Bewegungen eines sterbenden, krepierenden machen, sterben, krepieren
  trans_en: to pant, to wheeze; to have the fits of a dying person
@@ -1603,7 +1603,7 @@
  stem: .ft.k.r.|.ft.k.l.|.ft.k.n.|.ft.k.rr.
  gramm: V
  root: ftkr
- stamm: 
+ stamm: VIII
  paradigm: V_V_3r
  trans_de: 1) denken, nachdenken, überlegen, sich Gedanken machen, grübeln; bei sich überlegen (mit ruḥo); 2) to contrive, to think of something (with acc.)
  trans_en: to think, to ponder; to contrive; to think of something
@@ -1764,7 +1764,7 @@
  gramm: V
  root: fyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: fliegen
  trans_en: to fly
 
@@ -1774,7 +1774,7 @@
  gramm: V
  root: fyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: 1) verdampfen; 2) rasen
  trans_en: to evaporate (intr.); to race
 
@@ -1813,7 +1813,7 @@
  stem: .g.ʕg.s.
  gramm: V
  root: gʕgs
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: [?]
  trans_en: to become intertwined; to become wrinkled
@@ -1944,7 +1944,7 @@
  gramm: V
  root: gly
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3y
  trans_de: entblössen, aufdecken
  trans_en: to uncover, to expose
 
@@ -1954,7 +1954,7 @@
  gramm: V
  root: gmbl
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3l
  trans_de: [?]
  trans_en: to stain; to dirty
 
@@ -1973,8 +1973,8 @@
  stem: .g.nd.r.
  gramm: V
  root: gndr
- stamm: 
- paradigm: V_Qp
+ stamm: Qp
+ paradigm: V_Qp_3r
  trans_de: rollen
  trans_en: to roll (intr.)
 
@@ -2093,7 +2093,7 @@
  stem: .g.rm.z.
  gramm: V
  root: grmz
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: hart, knusprig werden (Schnee, Brot, das beim Kauen ein Geräusch von sich gibt)
  trans_en: to become hard, crunchy
@@ -2173,7 +2173,7 @@
  stem: .g.wh.r.|.g.wh.l.|.g.wh.n.
  gramm: V
  root: gwhr
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3r
  trans_de: im Sehen unsicher werden
  trans_en: to get worse (eyes)
@@ -2203,7 +2203,7 @@
  stem: .g.wl.ʕ.
  gramm: V
  root: gwlʕ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: sich ekeln (lebe)
  trans_en: to be repulsed by (m-) smth.
@@ -2224,7 +2224,7 @@
  gramm: V
  root: gwmn
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3n
  trans_de: denken, glauben, vermuten
  trans_en: to think; to believe; to suppose
 
@@ -2234,7 +2234,7 @@
  gramm: V
  root: gwr
  stamm: I
- paradigm: V_I_2w
+ paradigm: V_I_2w_3r
  trans_de: heiraten, die Ehe vollziehen
  trans_en: to marry
 
@@ -2244,7 +2244,7 @@
  gramm: V
  root: gwtr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: 1) laut erklingen lassen (Stimme); 2) (Detrans.) laut klingen
  trans_en: to raise (voice)
 
@@ -2383,7 +2383,7 @@
  stem: .ġ.m.m.
  gramm: V
  root: ġmm
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: [?]
  trans_en: to become covered by clouds
@@ -2444,7 +2444,7 @@
  gramm: V
  root: ġrġr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: gurgeln
  trans_en: to gargle
 
@@ -2484,7 +2484,7 @@
  gramm: V
  root: ġyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: versinken
  trans_en: to sink (intr.)
 
@@ -2523,8 +2523,8 @@
  stem: .ġ.ž.m.
  gramm: V
  root: ġžmž
- stamm: 
- paradigm: V_IIp
+ stamm: Qp
+ paradigm: V_Qp
  trans_de: hin und herlaufen (wie Ameisen), wimmeln
  trans_en: to run to and fro (like ants); to swarm
 
@@ -2573,7 +2573,7 @@
  stem: .ǧ.d.d.
  gramm: V
  root: ǧdd
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: erneuern, von neuem machen
  trans_en: to be made one more time
@@ -2584,7 +2584,7 @@
  gramm: V
  root: ǧdl
  stamm: II
- paradigm: V_II_3y
+ paradigm: V_II_3l
  trans_de: streiten
  trans_en: to quarrel, to argue; to fight
 
@@ -2603,7 +2603,7 @@
  stem: .ǧ.gǧ.g.
  gramm: V
  root: ǧgǧg
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: anflehen
  trans_en: to implore smb. (qum-)
@@ -2614,7 +2614,7 @@
  gramm: V
  root: ǧġl
  stamm: Ip
- paradigm: V_Ip
+ paradigm: V_Ip_3l
  trans_de: sprechen; erzählen
  trans_en: to talk; to tell
 
@@ -2623,8 +2623,8 @@
  stem: .ǧ.ġ.l.
  gramm: V
  root: ǧġl
- stamm: 
- paradigm: V_IIIp
+ stamm: IIIp
+ paradigm: V_IIIp_3l
  trans_de: [?]
  trans_en: to be told, to be related
 
@@ -2634,7 +2634,7 @@
  gramm: V
  root: ǧġl
  stamm: III
- paradigm: V_III
+ paradigm: V_III_3l
  trans_de: beschäftigen, um abzulenken (z.B. unruhiges Kind)
  trans_en: to occupy, to employ
 
@@ -2644,7 +2644,7 @@
  gramm: V
  root: ǧġr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: anheizen, anzünden, schüren
  trans_en: 
 
@@ -2864,7 +2864,7 @@
  gramm: V
  root: ǧry
  stamm: III
- paradigm: V_III
+ paradigm: V_III_3y
  trans_de: sich trauen, wagen
  trans_en: to have courage; to dare
 
@@ -2903,7 +2903,7 @@
  stem: .ǧt.m.ʕ.|.ǧt.m.ʕʕ.
  gramm: V
  root: ǧtmʕ
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sich versammeln
  trans_en: to gather (intr.)
@@ -2923,7 +2923,7 @@
  stem: .ǧ.wǧ.q.
  gramm: V
  root: ǧwǧq
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: von der Stelle bewegen
  trans_en: to be moved from the place
@@ -2933,8 +2933,8 @@
  stem: .ǧ.wh.r.|.ǧ.wh.l.|.ǧ.wh.n.
  gramm: V
  root: ǧwhr
- stamm: 
- paradigm: V_Qp_3r
+ stamm: Q
+ paradigm: V_Q_3r
  trans_de: mit Gold oder Silber überziehen
  trans_en: to cover with cold and silver
 
@@ -3134,7 +3134,7 @@
  gramm: V
  root: hrdl
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3l
  trans_de: hin und her bewegen aus Eidelkeit
  trans_en: [?]
 
@@ -3184,7 +3184,7 @@
  gramm: V
  root: hškr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: offenbaren, bekannt machen
  trans_en: to ma
 
@@ -3194,7 +3194,7 @@
  gramm: V
  root: hškr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: danken
  trans_en: 
 
@@ -3214,7 +3214,7 @@
  gramm: V
  root: hwl
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3l
  trans_de: zum Schlagen ausholen, drohend die Hand erheben
  trans_en: to lift one's arm against smb. (ʕal)
 
@@ -3234,7 +3234,7 @@
  gramm: V
  root: hwn
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3n
  trans_de: es leicht machen, helfen (Gott)
  trans_en: to make easy; to help
 
@@ -3244,7 +3244,7 @@
  gramm: V
  root: hwr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: schreien, rufen, brüllen, dröhnen
  trans_en: to scream; to call
 
@@ -3302,8 +3302,8 @@
  stem: .h.yd.n.
  gramm: V
  root: hydn
- stamm: 
- paradigm: V_Qp
+ stamm: V_Qp
+ paradigm: V_Qp_3n
  trans_de: sich beruhigen
  trans_en: to calm oneself
 
@@ -3433,7 +3433,7 @@
  gramm: V
  root: ḥfr/ʕfr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: graben, aushauen
  trans_en: to dig
 
@@ -3462,7 +3462,7 @@
  stem: .ḥ.ǧ.m.
  gramm: V
  root: ḥǧm
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: hineingehen, Platz finden
  trans_en: to pass in; to fit
@@ -3633,7 +3633,7 @@
  gramm: V
  root: ḥml
  stamm: III
- paradigm: V_III
+ paradigm: V_III_3l
  trans_de: ertragen
  trans_en: to carry; to bear
 
@@ -3683,7 +3683,7 @@
  gramm: V
  root: ḥnḥl
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3l
  trans_de: hin und herschütteln auf einem Siebe oder dergl.
  trans_en: [?]
 
@@ -3942,7 +3942,7 @@
  stem: .ḥ.s.y.|.ḥ.s.
  gramm: V
  root: ḥsy
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3y
  trans_de: selig werden; sterben
  trans_en: to pass away; to rest in peace
@@ -3992,7 +3992,7 @@
  stem: .ḥ.ṣ.r.|.ḥ.ṣ.l.|.ḥ.ṣ.n.
  gramm: V
  root: ḥṣr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: eingesperrt werden
  trans_en: to be locked up
@@ -4122,7 +4122,7 @@
  stem: .ḥ.w.l.|.ḥ.w.n.
  gramm: V
  root: ḥwl
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3l
  trans_de: [?]
  trans_en: to marry
@@ -4292,7 +4292,7 @@
  stem: .ḥ.y.r.
  gramm: V
  root: ḥyr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: bestürzt sein, ratlos sein
  trans_en: to be at a loss; to be in need
@@ -4323,7 +4323,7 @@
  gramm: V
  root: ḥyṣl
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3l
  trans_de: zu fassen kriegen, erwischen, seiner Habhaft werden, treffen, erjagen, gewinnen
  trans_en: to get; to obtain; to catch
 
@@ -4353,7 +4353,7 @@
  gramm: V
  root: ḥyy
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_3y
  trans_de: leben
  trans_en: to live
 
@@ -4373,7 +4373,7 @@
  gramm: V
  root: ḥzn
  stamm: Ip
- paradigm: V_Ip
+ paradigm: V_Ip_3n
  trans_de: traurig werden
  trans_en: to become sad, grieving
 
@@ -4382,8 +4382,8 @@
  stem: .ḥ.z.n.
  gramm: V
  root: ḥzn
- stamm: 
- paradigm: V_IIp
+ stamm: IIp
+ paradigm: V_IIp_3n
  trans_de: traurig werden
  trans_en: to become sad, grieving
 
@@ -4412,8 +4412,8 @@
  stem: .k.d.r.
  gramm: V
  root: kdr
- stamm: 
- paradigm: V_IIp
+ stamm: IIp
+ paradigm: V_IIp_3r
  trans_de: betrübt werden
  trans_en: to become sad
 
@@ -4423,7 +4423,7 @@
  gramm: V
  root: kfl
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: bürgen
  trans_en: to vouch for; to guarantee
 
@@ -4572,7 +4572,7 @@
  stem: .k.lp.t.
  gramm: V
  root: klpt
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: halb entschälen
  trans_en: [?]
@@ -4693,7 +4693,7 @@
  gramm: V
  root: knfl
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3l
  trans_de: einhüllen, einwickeln
  trans_en: to wrap, to swathe
 
@@ -4732,7 +4732,7 @@
  stem: .k.r.b.
  gramm: V
  root: krb
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: [?]
  trans_en: 
@@ -4922,7 +4922,7 @@
  stem: .kt.f.y.|.kt.f.
  gramm: V
  root: ktfy
- stamm: 
+ stamm: VIII
  paradigm: V_V_3y
  trans_de: sich begnügen
  trans_en: to content oneself with (b-) smth.
@@ -4982,7 +4982,7 @@
  stem: .k.w.t.
  gramm: V
  root: kwt
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: halb gekocht werden
  trans_en: to become half-cooked
@@ -5003,7 +5003,7 @@
  gramm: V
  root: kwzr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: versengen, absengen (Haare eines geschalteten Tieres), anbrennen lassen (Milch), in heisse Asche legen (Ei)
  trans_en: to singe; to scorch
 
@@ -5022,8 +5022,8 @@
  stem: .k.y.f.
  gramm: V
  root: kyf
- stamm: 
- paradigm: V_IIp
+ stamm: II
+ paradigm: V_II
  trans_de: sich vergnügen, sich amusieren, es sich wohl sein lassen, vergnügt werden
  trans_en: to entertain oneself; to become entertained
 
@@ -5043,7 +5043,7 @@
  gramm: V
  root: kym
  stamm: I
- paradigm: V_I
+ paradigm: V_I_2y
  trans_de: schwarz werden
  trans_en: to become black
 
@@ -5132,10 +5132,10 @@
  stem: .l.ʕ.y.|.l.ʕ.
  gramm: V
  root: lʕy
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3y
- trans_de: to beg; to beseech; to crave
- trans_en: 
+ trans_de: 
+ trans_en: to beg; to beseech; to crave
 
 -lexeme
  lex: lbəkle/lobək
@@ -5182,7 +5182,7 @@
  stem: .l.bl.b.
  gramm: V
  root: lblb
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: bitten, flehen
  trans_en: to ask, to beg
@@ -5543,7 +5543,7 @@
  gramm: V
  root: lwš
  stamm: I
- paradigm: V_I
+ paradigm: V_I_2w
  trans_de: anziehen, anlegen (Kleider, Waffen), tragen
  trans_en: to wear; to put on clothes
 
@@ -5872,7 +5872,7 @@
  stem: .m.n.ʕ.
  gramm: V
  root: mnʕ
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: mager werden
  trans_en: to become thin, emaciated
@@ -5963,7 +5963,7 @@
  gramm: V
  root: mšy
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3y
  trans_de: geschtrichen voll machen
  trans_en: [?]
 
@@ -6132,7 +6132,7 @@
  stem: .n.ʕn.ʕ.
  gramm: V
  root: nʕnʕ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: zu Schanden schlagen, als ob man ihm die Knochen im Leibe zerschlüge
  trans_en: to become broken (bones)
@@ -6142,10 +6142,10 @@
  stem: .n.ʕ.r.|.n.ʕ.l.|.n.ʕ.n.|.n.ʕ.rr.
  gramm: V
  root: nʕr
- stamm: 
+ stamm: I
  paradigm: V_I_3r
  trans_de: dröhnen
- trans_en: 
+ trans_en: to roar
 
 -lexeme
  lex: naʕəs/noʕəs
@@ -6532,7 +6532,7 @@
  stem: .n.k.f.
  gramm: V
  root: nkf
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: sich schämen
  trans_en: to feel ashamed; to feel shy
@@ -6723,7 +6723,7 @@
  gramm: V
  root: nrnr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: schnurren wie ein Kater, nuscheln, undeutlich reden
  trans_en: to purr like a cat; to mumble; to speak unclearly
 
@@ -6853,7 +6853,7 @@
  gramm: V
  root: ntn
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3n
  trans_de: stinken
  trans_en: to stink
 
@@ -6923,7 +6923,7 @@
  gramm: V
  root: nṯr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: (aus)fallen
  trans_en: to fall out (hair)
 
@@ -6933,7 +6933,7 @@
  gramm: V
  root: nwhr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: traurig leise singen, summen, in den Schlaf singen
  trans_en: to sing in a soft and sad manner
 
@@ -7052,7 +7052,7 @@
  stem: .n.ys.n.|.n.ys.l.
  gramm: V
  root: nysn
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3n
  trans_de: [?]
  trans_en: to rise (about dough)
@@ -7122,7 +7122,7 @@
  stem: .p.čp.č.
  gramm: V
  root: pčpč
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: sauer, ungeniessbar werden
  trans_en: to become sour
@@ -7172,7 +7172,7 @@
  stem: .p.l.k.
  gramm: V
  root: plk
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: Angst haben
  trans_en: to be afraid
@@ -7192,7 +7192,7 @@
  stem: .p.xp.x.
  gramm: V
  root: pxpx
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: [?]
  trans_en: to burst, to split open; to break
@@ -7202,7 +7202,7 @@
  stem: .p.l.š.
  gramm: V
  root: plš
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: zerschellen
  trans_en: [?]
@@ -7292,7 +7292,7 @@
  stem: .p.rq.ʕ.
  gramm: V
  root: prqʕ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: aufplatzen
  trans_en: to burst (intr.)
@@ -7332,8 +7332,8 @@
  stem: .p.rx.l.
  gramm: V
  root: prxl
- stamm: 
- paradigm: V_Qp
+ stamm: Qp
+ paradigm: V_Qp_3l
  trans_de: Sprünge, Risse bekommen, zertrümmen
  trans_en: [?]
 
@@ -7353,7 +7353,7 @@
  gramm: V
  root: pšmn
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3n
  trans_de: bereuen
  trans_en: to regret
 
@@ -7362,7 +7362,7 @@
  stem: .p.šp.š.
  gramm: V
  root: pšpš
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: ungeniessbar werden
  trans_en: to become inedible
@@ -7392,7 +7392,7 @@
  stem: .p.tp.t.
  gramm: V
  root: ptpt
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: einen Ton von sich geben, aus dem man schliessen kann, dass der Stein nicht fest ist
  trans_en: to emit a sound from which one can conclude that a stone is not firm
@@ -7503,7 +7503,7 @@
  gramm: V
  root: qdr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: 1) können, vermögen, fertig bringen (mit nacktem Imperfekt oder d-); 2) (ʕal) bezwingen, überwältigen, fertig werden mit, die Überhand gewinnen über, etwas anhaben können, hereinlegen, (ʕal ruḥe) sich beherrschen können)
  trans_en: to be able; to overcome smb. (ʕal)
 
@@ -7802,7 +7802,7 @@
  stem: .q.r.f.
  gramm: V
  root: qrf
- stamm: 
+ stamm: IIIp
  paradigm: V_IIIp
  trans_de: übel werden
  trans_en: [?]
@@ -7822,7 +7822,7 @@
  stem: .q.r.m.
  gramm: V
  root: qrm
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: sich überanstrengen, vorübergehend Schmerz empfinden
  trans_en: to become tired (body parts)
@@ -7832,7 +7832,7 @@
  stem: .q.r.m.
  gramm: V
  root: qrm
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: brüten
  trans_en: to breed
@@ -7922,7 +7922,7 @@
  stem: .q.rṣ.f.
  gramm: V
  root: qrṣf
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: im Wuchs zurückbleiben
  trans_en: to fall behind in growth
@@ -8062,7 +8062,7 @@
  stem: .q.ṣ.d.
  gramm: V
  root: qṣd
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (ʕal) aufsuchen
  trans_en: to visit smb. (ʕal)
@@ -8083,7 +8083,7 @@
  gramm: V
  root: qṣl
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: abschneiden
  trans_en: to cut
 
@@ -8142,7 +8142,7 @@
  stem: .q.š.f.
  gramm: V
  root: qšf
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: schwielig werden, aufplatzen, verschmutzen
  trans_en: to become callous (skin)
@@ -8302,7 +8302,7 @@
  stem: .q.wl.ǧ.
  gramm: V
  root: qwlǧ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: Kolik bekommen
  trans_en: to suffer from a colic
@@ -8322,7 +8322,7 @@
  stem: .q.w.m.
  gramm: V
  root: qwm
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: passieren, geschehen, zustossen
  trans_en: to occur, to happen
@@ -8702,7 +8702,7 @@
  stem: .r.f.y.|.r.f.
  gramm: V
  root: rfy
- stamm: 
+ stamm: III
  paradigm: V_III_3y
  trans_de: lassen, verlassen, durchlassen; setzen; werfen; loslassen; befreien; scheiden; schicken; (mit ruḥo) sich lassen, sich setzen; anfangen, beginnen; to issue; to pay attention
  trans_en: to let go; to let out; to leave; to put; to throw; to free; to send; to begin; to issue
@@ -9012,7 +9012,7 @@
  stem: .r.st.q.
  gramm: V
  root: rstq
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: [?]
  trans_en: to come across (ʕal) smb. or smth.
@@ -9322,7 +9322,7 @@
  stem: .r.z.l.|.r.z.|.r.z.n.
  gramm: V
  root: rzl
- stamm: 
+ stamm: IIIp
  paradigm: V_IIIp_3l
  trans_de: in Elend und Schande geraten
  trans_en: to bring shame on oneself
@@ -9552,7 +9552,7 @@
  stem: .s.lp.x.
  gramm: V
  root: slpx
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: hinaufklettern
  trans_en: to climb up, to jump up
@@ -9702,7 +9702,7 @@
  stem: .s.rg.l.|.s.rg.|.s.rg.n.
  gramm: V
  root: srgl
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3l
  trans_de: gut vorwärts gehen
  trans_en: to advance
@@ -9713,7 +9713,7 @@
  gramm: V
  root: srgn
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3n
  trans_de: verbannen
  trans_en: to banish; to exile
 
@@ -9752,7 +9752,7 @@
  stem: .s.rs.m.
  gramm: V
  root: srsm
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: dösig, blöde werden
  trans_en: [?]
@@ -9762,7 +9762,7 @@
  stem: .s.rs.q.
  gramm: V
  root: srsq
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: sich verwirren, durcheinandergeraten (Knäuel)
  trans_en: to tangle (intr.)
@@ -9782,7 +9782,7 @@
  stem: .st.ʔǧ.r.|.st.ʔǧ.l.|.st.ʔǧ.n.|.st.ʔǧ.rr.
  gramm: V
  root: stʔǧr
- stamm: 
+ stamm: X
  paradigm: V_X_3r
  trans_de: mieten
  trans_en: to rent
@@ -9792,8 +9792,8 @@
  stem: .st.ʔh.l.|.st.ʔh.ll.
  gramm: V
  root: stʔhl
- stamm: 
- paradigm: V_X
+ stamm: X
+ paradigm: V_X_3l
  trans_de: in negativen Sätzen: nicht verdienen, zu Schade sein für
  trans_en: in negative sentences: not deserve
 
@@ -9802,7 +9802,7 @@
  stem: .st.ʕf.w.|.st.ʕf.|.st.ʕf.ww.
  gramm: V
  root: stʕfw
- stamm: 
+ stamm: X
  paradigm: V_X_3w
  trans_de: sich entschuldigen, sich drücken
  trans_en: 
@@ -9812,8 +9812,8 @@
  stem: .st.ʕm.l.|.st.ʕm.ll.
  gramm: V
  root: stʕml
- stamm: 
- paradigm: V_X
+ stamm: X
+ paradigm: V_X_3l
  trans_de: gebrauchen, (geschlechtlich) verkehren mit
  trans_en: to use; to copulate with smb.
 
@@ -9822,7 +9822,7 @@
  stem: .st.ʕr.f.|.st.ʕr.ff.
  gramm: V
  root: stʕrf
- stamm: 
+ stamm: X
  paradigm: V_X
  trans_de: beichten
  trans_en: to confess
@@ -9832,7 +9832,7 @@
  stem: .st.f.d.|.st.f.dd.
  gramm: V
  root: stfyd
- stamm: 
+ stamm: X
  paradigm: V_X_2y
  trans_de: ausnutzen
  trans_en: to take advantage of (m-) smth.
@@ -9852,7 +9852,7 @@
  stem: .st.l.m.|.st.l.mm.
  gramm: V
  root: stlm
- stamm: 
+ stamm: VIII
  paradigm: V_V
  trans_de: übernehmen
  trans_en: to take on, to take over
@@ -9862,7 +9862,7 @@
  stem: .st.l.m.|.st.l.mm.
  gramm: V
  root: stnḏ̣r
- stamm: 
+ stamm: X
  paradigm: V_X_3r
  trans_de: warten
  trans_en: to wait; to expect
@@ -9872,7 +9872,7 @@
  stem: .st.qb.l.|.st.qb.|.st.qb.n.|.st.qb.ll.
  gramm: V
  root: stqbl
- stamm: 
+ stamm: X
  paradigm: V_X_3l
  trans_de: empfangen
  trans_en: to receive, to welcome
@@ -9892,8 +9892,8 @@
  stem: .s.t.r.
  gramm: V
  root: str
- stamm: 
- paradigm: V_IIp
+ stamm: IIp
+ paradigm: V_IIp_3r
  trans_de: Schutz finden, Zuflucht finden
  trans_en: to find refuge
 
@@ -10013,7 +10013,7 @@
  gramm: V
  root: syr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: reisen machen, vergehen lassen (Zeit)
  trans_en: [?]
 
@@ -10123,7 +10123,7 @@
  gramm: V
  root: ṣfr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: pfeifen
  trans_en: to whistle
 
@@ -10143,7 +10143,7 @@
  gramm: V
  root: ṣfy
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3y
  trans_de: erledigen, zustande bringen, ausrichten, begleichen; säubern
  trans_en: to finish, to complete; to settle; to clean
 
@@ -10183,7 +10183,7 @@
  gramm: V
  root: ṣhr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: verzaubern
  trans_en: to enchant
 
@@ -10322,8 +10322,8 @@
  stem: .ṣ.nǧ.r.
  gramm: V
  root: ṣnǧr
- stamm: 
- paradigm: V_Qp
+ stamm: Qp
+ paradigm: V_Qp_3r
  trans_de: glühend heiss werden
  trans_en: to become scorching hot
 
@@ -10422,8 +10422,8 @@
  stem: .ṣt.fl.C5.|.ṣt.fl.C5C5.
  gramm: V
  root: ṣtfl
- stamm: 
- paradigm: V_X
+ stamm: VIII
+ paradigm: V_V_3l
  trans_de: «tun, was man will» in etwas ärgerlichen imperativischen Ausdrücken
  trans_en: [?]
 
@@ -10473,7 +10473,7 @@
  gramm: V
  root: ṣwl
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3l
  trans_de: Waschen der Linsen auf Sieb mit Wasserbecken darunter
  trans_en: [?]
 
@@ -10553,7 +10553,7 @@
  gramm: V
  root: ṣyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: überheizen
  trans_en: to overheat (intr.)
 
@@ -10622,7 +10622,7 @@
  stem: .š.b.h.
  gramm: V
  root: šbh
- stamm: 
+ stamm: IIIp
  paradigm: V_IIIp
  trans_de: ähnlich sehen
  trans_en: to look similar
@@ -10823,7 +10823,7 @@
  gramm: V
  root: škr
  stamm: III
- paradigm: V_III
+ paradigm: V_III_3r
  trans_de: (be)danken
  trans_en: to thank smb. (l-)
 
@@ -10958,12 +10958,12 @@
  trans_en: to burn incense
 
 -lexeme
- lex: mšamlele/mšamle
+ lex: mšamele/mšaməl
  stem: .š.m.l.|.š.m.ll.
  gramm: V
- root: šmly
+ root: šml
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: räuchern (in der Kirche)
  trans_en: to burn incense
 
@@ -11272,7 +11272,7 @@
  stem: .št.h.y.|.št.h.
  gramm: V
  root: šthy
- stamm: 
+ stamm: VIII
  paradigm: V_V_3y
  trans_de: begehren
  trans_en: to desire
@@ -11292,7 +11292,7 @@
  stem: .št.m.ʕ.|.št.m.ʕʕ.
  gramm: V
  root: štmʕ
- stamm: 
+ stamm: VIII
  paradigm: V_V
  trans_de: sich versammeln
  trans_en: to gather (intr.)
@@ -11342,7 +11342,7 @@
  stem: .š.wd.ʕ.
  gramm: V
  root: šwdʕ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: sich ekeln, dem Erbrechen nahe kommen (lēbe)
  trans_en: to feel disgusted
@@ -11352,7 +11352,7 @@
  stem: .š.wl.q.
  gramm: V
  root: šwlq
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: entzündete Haut bekommen (Shabo, Ritter: eine neue Haut bekommen, wenn die Alte von der Sonne verbrannt ist, gelb werden).
  trans_en: to get sunburnt and get a new skin as the result
@@ -11503,7 +11503,7 @@
  gramm: V
  root: šyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: ausgleiten, Ski laufen
  trans_en: to slip
 
@@ -11532,7 +11532,7 @@
  stem: .š.yr.z.
  gramm: V
  root: šyrz
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: kleben, kleistern
  trans_en: to be glued
@@ -11552,8 +11552,8 @@
  stem: .tʔ.h.l.|.tʔ.h.ll.
  gramm: V
  root: tʔhl
- stamm: 
- paradigm: V_V
+ stamm: V
+ paradigm: V_V_3l
  trans_de: willkommen heissen, (ahlan wa sahlan) sagen
  trans_en: to welcome
 
@@ -11562,7 +11562,7 @@
  stem: .tʔ.s.f.|.tʔ.s.ff.
  gramm: V
  root: tʔsf
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: bedauern
  trans_en: to regret
@@ -11572,8 +11572,8 @@
  stem: .tʔ.ṯ.r.|.tʔ.ṯ.rr.
  gramm: V
  root: tʔṯr
- stamm: 
- paradigm: V_V
+ stamm: V
+ paradigm: V_V_3r
  trans_de: bekümmern
  trans_en: to become sad, worried
 
@@ -11592,8 +11592,8 @@
  stem: .tʕ.d.y.|.tʕ.d.yy.
  gramm: V
  root: tʕdy
- stamm: 
- paradigm: V_V
+ stamm: V
+ paradigm: V_V_3y
  trans_de: sich vergreifen an, sich vergehen an, zu nahe treten, schaden
  trans_en: to misappropriate; to harm
 
@@ -11602,7 +11602,7 @@
  stem: .tʕ.ǧ.b.|.tʕ.ǧ.bb.
  gramm: V
  root: tʕǧb
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sich wundern
  trans_en: to be surprised; to wonder
@@ -11622,7 +11622,7 @@
  stem: .t.ʕ.n.|.t.ʕ.l.
  gramm: V
  root: tʕn
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3n
  trans_de: sich zu Herzen nehmen, im Ehrgefühl getroffen sein
  trans_en: take smth. to heart
@@ -11662,7 +11662,7 @@
  stem: .tb.r.ʕ.|.tb.r.ʕʕ.
  gramm: V
  root: tbrʕ
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sich lossagen
  trans_en: to break away
@@ -11672,7 +11672,7 @@
  stem: .t.b.t.
  gramm: V
  root: tbt
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: Ruhe haben, Ruhe halten, Geduld haben
  trans_en: to have peace; to rest
@@ -11682,7 +11682,7 @@
  stem: .tf.h.m.|.tf.h.mm.
  gramm: V
  root: tfhm
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sich verständigen
  trans_en: to communicate; to agree
@@ -11702,7 +11702,7 @@
  stem: .tf.k.r.|.tf.k.l.|.tf.k.n.|.tf.k.rr.
  gramm: V
  root: tfkr
- stamm: 
+ stamm: V
  paradigm: V_V_3r
  trans_de: denken, nachdenken, überlegen, sich Gedanken machen, grübeln
  trans_en: to think; to ponder
@@ -11732,7 +11732,7 @@
  stem: .tǧ.b.r.|.tǧ.b.l.|.tǧ.b.n.|.tǧ.b.rr.
  gramm: V
  root: tǧbr
- stamm: 
+ stamm: V
  paradigm: V_V_3r
  trans_de: hoffärtig werden
  trans_en: to become arrogant
@@ -11782,7 +11782,7 @@
  stem: .t.ḥs.d.
  gramm: V
  root: tḥsd
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: scharf, neidisch sein
  trans_en: to become envious of (m-) smb. or smth.
@@ -11792,7 +11792,7 @@
  stem: .tḥ.w.y.|.tḥ.w.
  gramm: V
  root: tḥwy
- stamm: 
+ stamm: V
  paradigm: V_V_3y
  trans_de: (wieder) nach Hause kommen (z.B. Sommerfrischler)
  trans_en: to come back home
@@ -11802,7 +11802,7 @@
  stem: .tḥ.y.f.|.tḥ.y.ff.
  gramm: V
  root: tḥyf
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sehr bedauern, sehr enttäuscht sein
  trans_en: to regret very much; to be very disappointed
@@ -11812,7 +11812,7 @@
  stem: .tk.b.r.|.tk.b.l.|.tk.b.n.|.tk.b.rr.
  gramm: V
  root: tkbr
- stamm: 
+ stamm: V
  paradigm: V_V_3r
  trans_de: hochmütig werden
  trans_en: to become arrogant
@@ -11832,7 +11832,7 @@
  stem: .tk.r.b.|.tk.r.bb.
  gramm: V
  root: tkrb
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: sich grämen
  trans_en: to grieve
@@ -11842,7 +11842,7 @@
  stem: .tk.r.m.|.tk.r.mm.
  gramm: V
  root: tkrm
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: ehren
  trans_en: to honour
@@ -11862,7 +11862,7 @@
  stem: .tk.y.f.|.tk.y.ff.
  gramm: V
  root: tkyf
- stamm: 
+ stamm: V
  paradigm: V_V
  trans_de: Vergnügen haben
  trans_en: to have fun  
@@ -11952,7 +11952,7 @@
  stem: .tm.n.y.|.tm.n.
  gramm: V
  root: tmny
- stamm: 
+ stamm: V
  paradigm: V_V_3y
  trans_de: sehnlichst wünschen
  trans_en: to wish; to hope
@@ -11962,7 +11962,7 @@
  stem: .t.n.q.
  gramm: V
  root: tnq
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: nicht gut sprechen, singen können
  trans_en: to be unable to talk
@@ -11982,7 +11982,7 @@
  stem: .tn.z.l.|.tn.z.l.|.tn.z.n.|.tn.z.ll.
  gramm: V
  root: tnzl
- stamm: 
+ stamm: V
  paradigm: V_V_3l
  trans_de: sich herablassen
  trans_en: to deign
@@ -12012,7 +12012,7 @@
  stem: .t.q.n.|.t.q.l.
  gramm: V
  root: tqn
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3n
  trans_de: stecken
  trans_en: to be stuck
@@ -12022,8 +12022,8 @@
  stem: .r.ġ.l.
  gramm: V
  root: rġl
- stamm: 
- paradigm: V_IIIp
+ stamm: IIIp
+ paradigm: V_IIIp_3l
  trans_de: stottern
  trans_en: to stutter
 
@@ -12042,7 +12042,7 @@
  stem: .tr.ǧ.y.|.tr.ǧ.
  gramm: V
  root: trǧy
- stamm: 
+ stamm: V_V
  paradigm: V_V_3y
  trans_de: bitten (me-)
  trans_en: to ask from (m-) smb.
@@ -12163,7 +12163,7 @@
  stem: .t.w.g.
  gramm: V
  root: twg
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: nach einer Verletzung beschädigt bleiben
  trans_en: to remain damaged after an injury
@@ -12183,7 +12183,7 @@
  stem: .tw.k.l.|.tw.k.l.|.tw.k.n.|.tw.k.ll.
  gramm: V
  root: twkl
- stamm: 
+ stamm: V
  paradigm: V_V_3l
  trans_de: sich verlassen auf (ʕal)
  trans_en: 
@@ -12214,7 +12214,7 @@
  gramm: V
  root: twr
  stamm: I
- paradigm: V_I_2w
+ paradigm: V_I_2w_3r
  trans_de: 1) zerbrechen, zerschlagen, zerreissen, aufbrechen, aufschneiden; 2) schlagen (Heer, Feind); 3) zerschneiden (Frucht); 4) (fig.) enttäuschen, demütigen; 5) missachten, nicht respektieren, in den Wind schlagen, desavouieren (Ehre), zunichte machen
  trans_en: to break; to defeat; to cut; to disappoint; to offend; to disregard
 
@@ -12224,7 +12224,7 @@
  gramm: V
  root: twy
  stamm: II
- paradigm: V_II
+ paradigm: V_II_2y
  trans_de: etwas zerstreutes an seinen Platz bringen, einem, der nicht richtig sprechen kann (z.B. Ausländer) mit eigenen Worten heraushelfen
  trans_en: [?]
 
@@ -12293,7 +12293,7 @@
  stem: .ty.q.n.|.ty.q.l.|.ty.q.nn.
  gramm: V
  root: tyqn
- stamm: 
+ stamm: V
  paradigm: V_V_3n
  trans_de: glauben
  trans_en: to believe
@@ -12483,7 +12483,7 @@
  stem: .ṭ.m.ʕ.
  gramm: V
  root: ṭmʕ
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: gierig werden
  trans_en: to become lustful; to become greedy
@@ -12694,7 +12694,7 @@
  gramm: V
  root: ṭwl
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3l
  trans_de: auf die lange Bank schieben, hinausschieben (Arbeit aus Faulheit)
  trans_en: 
 
@@ -12764,7 +12764,7 @@
  gramm: V
  root: ṭyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: fliegen, fliegen lassen; 2) fliegen, davonfliegen (übertragen)
  trans_en: to fly, to fly up
 
@@ -12923,7 +12923,7 @@
  stem: .w.f.q.
  gramm: V
  root: wfq
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: Glück, Erfolg haben
  trans_en: to have success, to have suppport
@@ -12963,7 +12963,7 @@
  stem: .w.l.d.
  gramm: V
  root: wld
- stamm: 
+ stamm: IIIp
  paradigm: V_IIIp
  trans_de: [?]
  trans_en: to be born
@@ -13063,7 +13063,7 @@
  stem: .tt.f.q.|.tt.f.qq.
  gramm: V
  root: ttfq
- stamm: 
+ stamm: VIII
  paradigm: V_V
  trans_de: sich einigen
  trans_en: to reach an agreement
@@ -13073,7 +13073,7 @@
  stem: .w.x.r.|.w.x.l.|.w.x.n.
  gramm: V
  root: wxr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: sich verspäten
  trans_en: to be late
@@ -13363,7 +13363,7 @@
  stem: .x.r.ǧ.
  gramm: V
  root: xrǧ
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: [?]
  trans_en: to become exhausted; to be spent
@@ -13493,7 +13493,7 @@
  stem: .xt.l.f.|.xt.l.ff.
  gramm: V
  root: xtlf
- stamm: 
+ stamm: VIII
  paradigm: V_V
  trans_de: uneins werden, sich nicht einigen können, sich entzweien über (ʕal)
  trans_en: to fall out with smb. about (ʕal) smth.
@@ -13503,7 +13503,7 @@
  stem: .xt.r.ʕ.|.xt.r.ʕʕ.
  gramm: V
  root: xtrʕ
- stamm: 
+ stamm: VIII
  paradigm: V_V
  trans_de: erfinden
  trans_en: to invent
@@ -13574,7 +13574,7 @@
  gramm: V
  root: xyr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: (aus)fliessen
  trans_en: to flow
 
@@ -13734,7 +13734,7 @@
  gramm: V
  root: yqr
  stamm: I
- paradigm: V_I_3r
+ paradigm: V_I_1y_3r
  trans_de: 1) schwerfällig werden, schwerer werden; 2) (i=aḏno) schwerhörig werden
  trans_en: to become heavy; to become slow
 
@@ -13794,7 +13794,7 @@
  gramm: V
  root: yrw
  stamm: I
- paradigm: V_I_3w
+ paradigm: V_I_1y_3w
  trans_de: heranwachsen
  trans_en: to grow
 
@@ -13864,7 +13864,7 @@
  gramm: V
  root: ytw
  stamm: I
- paradigm: V_I_3w
+ paradigm: V_I_1y_3w
  trans_de: 1) sich setzen, sich niederlassen, 2) wohnen, sich niederlassen (в смысле “обосновываться”) 3) sich als Knecht, Geselle, Hirt verdingen, in Dienst eintreten, 4) sich aufs Altenteil zurückziehen, abdanken; 5) auf dem Thron sitzen, regieren
  trans_en: to sit; to sit down; to live; to stay
 
@@ -13904,7 +13904,7 @@
  gramm: V
  root: zʕbr
  stamm: I
- paradigm: V_I
+ paradigm: V_Q_3r
  trans_de: schelten, ausschelten (mit ausgestossenen Worten — ʕal)
  trans_en: to scold; to berate
 
@@ -13953,7 +13953,7 @@
  stem: .z.ʕz.ʕ.
  gramm: V
  root: zʕzʕ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: erschüttern, erbeben lassen
  trans_en: to shake (intr.)
@@ -14103,7 +14103,7 @@
  stem: .z.lz.q.
  gramm: V
  root: zlzq
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: baumeln, pendeln, schaukeln
  trans_en: to dangle, to swing
@@ -14133,7 +14133,7 @@
  stem: .z.ng.r.|.z.ng.l.|.z.ng.n.
  gramm: V
  root: zngr
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3r
  trans_de: rosten, einrosten
  trans_en: to rust
@@ -14163,7 +14163,7 @@
  stem: .z.n.z.|.z.n.n.
  gramm: V
  root: znzl
- stamm: 
+ stamm: Qp
  paradigm: V_IIp_3l
  trans_de: abgiessen, umgiessen
  trans_en: [?]
@@ -14204,7 +14204,7 @@
  gramm: V
  root: zqr
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3r
  trans_de: weben
  trans_en: to weave
 
@@ -14263,7 +14263,7 @@
  stem: .z.rz.l.|.z.rz.|.z.rz.n.
  gramm: V
  root: zrzl
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3l
  trans_de: zerlumpen
  trans_en: to tatter
@@ -14484,7 +14484,7 @@
  gramm: V
  root: ʔmn
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3n
  trans_de: 1) Sicherheit herstellen; 2) garantieren; 3) trauen; 4) verschaffen
  trans_en: to guarantee; to trust; to create security; to provide
 
@@ -14503,7 +14503,7 @@
  gramm: V
  root: ʔmr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: befehlen
  trans_en: to order
 
@@ -14533,7 +14533,7 @@
  gramm: V
  root: ʔṣr
  stamm: III
- paradigm: V_III
+ paradigm: V_III_3r
  trans_de: binden
  trans_en: to tie, to bind
 
@@ -14543,7 +14543,7 @@
  gramm: V
  root: ʔšr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: Zeichen machen
  trans_en: to make a sign
 
@@ -14563,7 +14563,7 @@
  gramm: V
  root: ʔṯr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: Eindruck machen
  trans_en: to make an impression
 
@@ -14633,7 +14633,7 @@
  gramm: V
  root: ʔxr
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3r
  trans_de: (Detrans.) sich verspäten
  trans_en: to come late
 
@@ -14751,7 +14751,7 @@
  stem: .ʕ.ǧ.b.
  gramm: V
  root: ʕǧb
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: sich wundern
  trans_en: to be suprised
@@ -14772,7 +14772,7 @@
  gramm: V
  root: ʕǧn
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3n
  trans_de: stampfen
  trans_en: to stamp
 
@@ -14801,7 +14801,7 @@
  stem: .ʕ.k.s.
  gramm: V
  root: ʕks
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (Detrans.) im Gegensatz kommen, sträuben; sich ärgern (über)
  trans_en: to be stubborn; to disagree; to be(come) angry
@@ -14952,7 +14952,7 @@
  gramm: V
  root: ʕngr
  stamm: Ip
- paradigm: V_Ip
+ paradigm: V_Ip_3r
  trans_de: (Detrans.) ärgerlich und eigensinnig sich irgendwo aufpflanzen, stehen bleiben
  trans_en: to disagree, to behave stubbornly
 
@@ -14991,7 +14991,7 @@
  stem: .ʕ.r.f.
  gramm: V
  root: ʕrf
- stamm: 
+ stamm: IIp
  paradigm: V_IIp
  trans_de: (Detrans.) kennenlernen
  trans_en: to get acquainted
@@ -15151,8 +15151,8 @@
  stem: .ʕ.t.b.|.ʕ.t.bb.
  gramm: V
  root: ʕtbr
- stamm: I
- paradigm: V_I
+ stamm: Q
+ paradigm: V_I_3r
  trans_de: achten, rechnen
  trans_en: to respect, to reckon with
 
@@ -15161,7 +15161,7 @@
  stem: .ʕt.d.y.|.ʕt.d.
  gramm: V
  root: ʕtdy
- stamm: 
+ stamm: V
  paradigm: V_V_3y
  trans_de: vergreifen
  trans_en: to lay hands on (ʕal) smb.
@@ -15322,7 +15322,7 @@
  gramm: V
  root: ʕyḏ
  stamm: II
- paradigm: V_II
+ paradigm: V_II_2y
  trans_de: feiern
  trans_en: to celebrate
 
@@ -15341,8 +15341,8 @@
  stem: .ʕ.y.f.
  gramm: V
  root: ʕyfn
- stamm: 
- paradigm: V_IIp
+ stamm: Qp
+ paradigm: V_Qp_3n
  trans_de: (Detrans.) schimmelig werden
  trans_en: to become mouldy
 
@@ -15411,7 +15411,7 @@
  stem: .ʕ.y.r.|.ʕ.y.l.|.ʕ.y.n.
  gramm: V
  root: ʕyr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: to be ashamed
  trans_en: Scham empfinden wegen, sich einer Sache/jemandes schämen
@@ -15751,7 +15751,7 @@
  stem: .b.lb.l.|.b.lb.|.b.lb.n.
  gramm: V
  root: blbl
- stamm: 
+ stamm: Qp
  paradigm: V_Qp_3l
  trans_de: von einander trennen
  trans_en: to part with (m-) smb.
@@ -15771,7 +15771,7 @@
  stem: .b.lh.ḏ.
  gramm: V
  root: blhḏ
- stamm: 
+ stamm: Qp
  paradigm: V_Qp
  trans_de: ärgerlich, nervös werden, die Fassung verlieren
  trans_en: to become angry at (ʕal) smb.
@@ -16032,7 +16032,7 @@
  gramm: V
  root: bsmr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: nageln
  trans_en: to nail
 
@@ -16072,7 +16072,7 @@
  gramm: V
  root: bšl
  stamm: I
- paradigm: V_I
+ paradigm: V_I_3l
  trans_de: kochen
  trans_en: to boil; to be cooked
 
@@ -16141,8 +16141,8 @@
  stem: .b.x.l.
  gramm: V
  root: bxl
- stamm: 
- paradigm: V_IIp
+ stamm: IIp
+ paradigm: V_IIp_3l
  trans_de: nicht gönnen
  trans_en: to become envious of (m-) smb./smth.
 
@@ -16151,7 +16151,7 @@
  stem: .b.x.r.|.b.x.l.|.b.x.n.
  gramm: V
  root: bxr
- stamm: 
+ stamm: IIp
  paradigm: V_IIp_3r
  trans_de: voll Rauch werden
  trans_en: to become filled with smoke
@@ -16192,7 +16192,7 @@
  gramm: V
  root: byn
  stamm: II
- paradigm: V_II
+ paradigm: V_II_3n
  trans_de: sich zu erkennen geben (ruḥe)
  trans_en: to reveal oneself (with ruḥ-); to present oneself (with ruḥ-)
 
@@ -16201,8 +16201,8 @@
  stem: .b.y.n.
  gramm: V
  root: byn
- stamm: 
- paradigm: V_IIp
+ stamm: IIp
+ paradigm: V_IIp_3n
  trans_de: zum Vorschein, an den Tag kommen, zu erkennen, zu sehen sein, sich herausstellen, offenbar, klar werden, erscheinen
  trans_en: to appear; to become visible; to become evident;
 
@@ -16222,7 +16222,7 @@
  gramm: V
  root: byr
  stamm: I
- paradigm: V_I_2y
+ paradigm: V_I_2y_3r
  trans_de: einbüssen (Geschmack, Farbe u.a.)
  trans_en: to lose (taste, color)
 
@@ -16382,7 +16382,7 @@
  gramm: V
  root: čnčr
  stamm: II
- paradigm: V_Q
+ paradigm: V_Q_3r
  trans_de: lumpen, zerreissen, zerfetzen (Kleider)
  trans_en: to tear (clothes)
 
