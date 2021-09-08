@@ -3,7 +3,7 @@
  stem: .č.yl.š.|.č.yl.šš.
  gramm: V
  root: čylš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: studieren, arbeiten
  trans_en: to study; to work
@@ -23,7 +23,7 @@
  stem: .d.ʕd.k.|.d.ʕd.kk.
  gramm: V
  root: dʕdk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: niedertreten, zertrampeln, zerknittern
  trans_en: to trample down
@@ -183,7 +183,7 @@
  stem: .d.ġd.ġ.|.d.ġd.ġġ.
  gramm: V
  root: dġdġ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: kitzeln
  trans_en: to tingle
@@ -223,7 +223,7 @@
  stem: .d.hd.r.|.d.hd.l.|.d.hd.n.|.d.hd.rr.
  gramm: V
  root: dhdr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: auseinandertreiben
  trans_en: to drive apart
@@ -273,7 +273,7 @@
  stem: .d.ld.š.|.d.ld.šš.
  gramm: V
  root: dldš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mit den Füssen zertreten
  trans_en: to trample
@@ -333,7 +333,7 @@
  stem: .d.md.m.|.d.md.mm.
  gramm: V
  root: dmdm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) murmeln, murren; 2) (Detrans.) glühend heiss werden (voller Ofen)
  trans_en: murmur, mutter
@@ -433,7 +433,7 @@
  stem: .d.pd.p.|.d.pd.pp.
  gramm: V
  root: dpdp
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: stark heizen
  trans_en: to heat strongly
@@ -443,7 +443,7 @@
  stem: .d.qd.q.|.d.qd.qq.
  gramm: V
  root: dqdq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: verprügeln, begatten
  trans_en: to beat, to strike
@@ -463,7 +463,7 @@
  stem: .d.rb.s.|.d.rb.ss.
  gramm: V
  root: drbs
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: ordentlich, gründlich machen (Arbeit)
  trans_en: to make thoroughly (work)
@@ -483,7 +483,7 @@
  stem: .d.rd.m.|.d.rd.mm.
  gramm: V
  root: drdm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mit Bitten quälen
  trans_en: to trouble smb. with requests
@@ -503,7 +503,7 @@
  stem: .d.rk.m.|.d.rk.mm.
  gramm: V
  root: drkm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mit Fäusten schlagen, kämpfen
  trans_en: to hit with fists; to fight
@@ -513,7 +513,7 @@
  stem: .d.rm.n.|.d.rm.l.|.d.rm.nn.
  gramm: V
  root: drmn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: mit Heilmitteln behandeln, beimischen (einer Flüssigkeit), sie versetzen mit
  trans_en: to treat with medicine; to add (to a liquid)
@@ -583,7 +583,7 @@
  stem: .d.šd.š.|.d.šd.šš.
  gramm: V
  root: dšdš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: herumtrampeln, drängen, stossen
  trans_en: to stamp around, to trample, to push
@@ -643,7 +643,7 @@
  stem: .d.wh.r.|.d.wh.l.|.d.wh.n.|.d.wh.rr.
  gramm: V
  root: dwhr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: verloren gehen lassen
  trans_en: to dispose of smb.
@@ -843,7 +843,7 @@
  stem: .d.yš.n.|.d.yš.l.|.d.yš.nn.
  gramm: V
  root: dyšn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: anfangen (zu — ʕal, b-, l-)
  trans_en: to begin doing smth. (b-, l-)
@@ -853,7 +853,7 @@
  stem: .d.yw.n.|.d.yw.l.|.d.yw.nn.
  gramm: V
  root: dywn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: 1) wahnsinnig, rasend machen, (Intrans.) wahnsinnig werden; 2) (Detrans.) wahnsinnig, rasend werden
  trans_en: to become mad, to go crazy
@@ -1133,7 +1133,7 @@
  stem: .f.kf.k.|.f.kf.kk.
  gramm: V
  root: fkfk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: lösen, losmachen; bissen, Stück Brot brocken
  trans_en: to loosen, to detach
@@ -1233,7 +1233,7 @@
  stem: .f.qf.q.|.f.qf.qq.
  gramm: V
  root: fqfq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zerbrechen
  trans_en: to break
@@ -1313,7 +1313,7 @@
  stem: .f.rf.ʕ.|.f.rf.ʕʕ.
  gramm: V
  root: frfʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: Wasser in Gläser schütten und dann ausgiessen, ausspülen
  trans_en: to sluice
@@ -1323,7 +1323,7 @@
  stem: .f.rf.r.|.f.rf.l.|.f.rf.n.|.f.rf.rr.
  gramm: V
  root: frfr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: flattern, mit den Flügeln schlagen
  trans_en: to flutter
@@ -1383,7 +1383,7 @@
  stem: .f.rq.ʕ.|.f.rq.ʕʕ.
  gramm: V
  root: frqʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: in Stücke zerplatzen
  trans_en: to tear in pieces
@@ -1523,7 +1523,7 @@
  stem: .f.šf.š.|.f.šf.šš.
  gramm: V
  root: fšfš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schnaufen
  trans_en: [?]
@@ -1753,7 +1753,7 @@
  stem: .f.yk.s.|.f.yk.ss.
  gramm: V
  root: fyks
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: eine Abhaltung haben
  trans_en: to be late for (m-) smth.
@@ -1853,7 +1853,7 @@
  stem: .g.ġg.ġ.|.g.ġg.ġġ.
  gramm: V
  root: gġgġ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: kitzeln
  trans_en: [?]
@@ -1923,7 +1923,7 @@
  stem: .g.lv.č.|.g.lv.čč.
  gramm: V
  root: glvč
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mit der Hand schmutzig machen, das Essen schmutzig zubereiten
  trans_en: to mess up smth.
@@ -1953,7 +1953,7 @@
  stem: .g.mb.l.|.g.mb.|.g.mb.n.|.g.mb.ll.
  gramm: V
  root: gmbl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: [?]
  trans_en: to stain; to dirty
@@ -1963,7 +1963,7 @@
  stem: .g.mr.k.|.g.mr.kk.
  gramm: V
  root: gmrk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: verzollen
  trans_en: to declare (goods)
@@ -1983,7 +1983,7 @@
  stem: .g.ng.l.|.g.ng.|.g.ng.n.|.g.ng.ll.
  gramm: V
  root: gngl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: 1) schwankend gehen, wie ein müder Mensch; 2) die kleinen Teilchen, Steinchen u.a. aus einem Haufen herauslesen)
  trans_en: [?]
@@ -2053,7 +2053,7 @@
  stem: .g.rg.ḥ.|.g.rg.ḥḥ.
  gramm: V
  root: grgḥ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auf der Erde schleifen
  trans_en: to drag oneself (ruḥ-) on the ground
@@ -2063,7 +2063,7 @@
  stem: .g.rg.m.|.g.rg.mm.
  gramm: V
  root: grgm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mümmeln, ohne Zähne kauen
  trans_en: [?]
@@ -2073,7 +2073,7 @@
  stem: .g.rg.š.|.g.rg.šš.
  gramm: V
  root: grgš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schleppen, hinter sich herziehen
  trans_en: to drag
@@ -2123,7 +2123,7 @@
  stem: .g.rv.n.|.g.rv.l.|.g.rv.nn.
  gramm: V
  root: grvn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: rund machen
  trans_en: to make round
@@ -2133,7 +2133,7 @@
  stem: .g.rw.n.|.g.rw.l.|.g.rw.nn.
  gramm: V
  root: grwn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: [?]
  trans_en: to become mangy
@@ -2153,7 +2153,7 @@
  stem: .g.ṣg.ṣ.|.g.ṣg.ṣṣ.
  gramm: V
  root: gṣgṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: leise, allein, ohne Lust essen
  trans_en: to eat without appetite
@@ -2223,7 +2223,7 @@
  stem: .g.wm.n.|.g.wm.l.|.g.wm.nn.
  gramm: V
  root: gwmn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: denken, glauben, vermuten
  trans_en: to think; to believe; to suppose
@@ -2243,7 +2243,7 @@
  stem: .g.wt.r.|.g.wt.l.|.g.wt.n.|.g.wt.rr.
  gramm: V
  root: gwtr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: 1) laut erklingen lassen (Stimme); 2) (Detrans.) laut klingen
  trans_en: to raise (voice)
@@ -2443,7 +2443,7 @@
  stem: .ġ.rġ.r.|.ġ.rġ.l.|.ġ.rġ.n.|.ġ.rġ.rr.
  gramm: V
  root: ġrġr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: gurgeln
  trans_en: to gargle
@@ -2533,7 +2533,7 @@
  stem: .ǧ.ʕǧ.k.|.ǧ.ʕǧ.kk.
  gramm: V
  root: ǧʕǧk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auf dem Boden kriechen (Kind, Schildkröte)
  trans_en: to crawl on the floor, on the ground (children, turtles)
@@ -2673,7 +2673,7 @@
  stem: .ǧ.kǧ.k.|.ǧ.kǧ.kk.
  gramm: V
  root: ǧkǧk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: kriechen
  trans_en: to crepp, to crawl
@@ -2683,7 +2683,7 @@
  stem: .ǧ.lʕ.ṭ.|.ǧ.lʕ.ṭṭ.
  gramm: V
  root: ǧlʕṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: aufkratzen (auch verharschte Wunde), zerkratzen
  trans_en: to scratch
@@ -2703,7 +2703,7 @@
  stem: .ǧ.lǧ.ʕ.|.ǧ.lǧ.ʕʕ.
  gramm: V
  root: ǧlǧʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) herumzerren, herummachen (an Maschine oder Kind), lange heftig feilschen; 2) (Detrans.) vom Knochen abreissen lassen
  trans_en: [?]
@@ -2813,7 +2813,7 @@
  stem: .ǧ.rǧ.f.|.ǧ.rǧ.ff.
  gramm: V
  root: ǧrǧf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auf den Boden schleifen lassen, schieben
  trans_en: to let smth. drag on the ground
@@ -2873,7 +2873,7 @@
  stem: .ǧ.sǧ.s.|.ǧ.sǧ.ss.
  gramm: V
  root: ǧsǧs
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: befühlen
  trans_en: touch (a body, a corpse)
@@ -3043,7 +3043,7 @@
  stem: .h.lh.l.|.h.lh.|.h.lh.n.|.h.lh.ll.
  gramm: V
  root: hlhl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: den Freudentriller, das Jubelgeschrei ertönen lassen, heulen (Klageweiber)
  trans_en: to produce a trill of joy, excitement
@@ -3083,7 +3083,7 @@
  stem: .h.mh.m.|.h.mh.mm.
  gramm: V
  root: hmhm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: dröhnen (Hohlraum)
  trans_en: to drone (intr.)
@@ -3103,7 +3103,7 @@
  stem: .h.nd.s.|.h.nd.ss.
  gramm: V
  root: hnds
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zurechtmachen, herausputzen, den Platz (zum Bauen) bereiten, passend finden
  trans_en: to prepare; to put in order
@@ -3133,7 +3133,7 @@
  stem: .h.rd.l.|.h.rd.|.h.rd.n.|.h.rd.ll.
  gramm: V
  root: hrdl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: hin und her bewegen aus Eidelkeit
  trans_en: [?]
@@ -3153,7 +3153,7 @@
  stem: .h.rh.z.|.h.rh.zz.
  gramm: V
  root: hrhz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: ins Wackeln bringen
  trans_en: to rock, to swing
@@ -3163,7 +3163,7 @@
  stem: .h.rk.š.|.h.rk.šš.
  gramm: V
  root: hrkš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: (den Hund) auf einen hetzen
  trans_en: to set a dog on (ʕal) smb.
@@ -3173,7 +3173,7 @@
  stem: .h.rm.z.|.h.rm.zz.
  gramm: V
  root: hrmz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: heimlich wünschen, zweifeln, ob man tun soll
  trans_en: to have a secret intention; to have doubts about doing smth.
@@ -3183,7 +3183,7 @@
  stem: .h.šk.r.|.h.šk.l.|.h.šk.n.|.h.šk.rr.
  gramm: V
  root: hškr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: offenbaren, bekannt machen
  trans_en: to ma
@@ -3223,7 +3223,7 @@
  stem: .h.wl.b.|.h.wl.bb.
  gramm: V
  root: hwlb
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zum Schlagen mit der Hand ausholen
  trans_en: to lift one's arm against smb. (ʕal)
@@ -3322,7 +3322,7 @@
  stem: .h.ym.n.|.h.ym.l.|.h.ym.nn.
  gramm: V
  root: hymn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: gläubig werden, glauben
  trans_en: to believe; to come to believe
@@ -3682,7 +3682,7 @@
  stem: .ḥ.nḥ.l.|.ḥ.nḥ.|.ḥ.nḥ.n.|.ḥ.nḥ.ll.
  gramm: V
  root: ḥnḥl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: hin und herschütteln auf einem Siebe oder dergl.
  trans_en: [?]
@@ -3772,7 +3772,7 @@
  stem: .ḥ.rk.š.|.ḥ.rk.šš.
  gramm: V
  root: ḥrkš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: verdreschen
  trans_en: to beat up
@@ -3832,7 +3832,7 @@
  stem: .ḥ.rm.ṣ.|.ḥ.rm.ṣṣ.
  gramm: V
  root: ḥrmṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zornig, aufgeregt werden, wenn einer jn. schlägt
  trans_en: to become angry
@@ -4032,7 +4032,7 @@
  stem: .ḥ.šk.š.|.ḥ.šk.šš.
  gramm: V
  root: ḥškš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: dunkel werden
  trans_en: to become dark
@@ -4102,7 +4102,7 @@
  stem: .ḥ.wd.l.|.ḥ.wd.|.ḥ.wd.n.|.ḥ.wd.ll.
  gramm: V
  root: ḥwdl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: 1) trüben (Füssigkeiten); 2) (Detrans.) sich trüben
  trans_en: to muddle (liquids)
@@ -4142,7 +4142,7 @@
  stem: .ḥ.wr.b.|.ḥ.wr.bb.
  gramm: V
  root: ḥwrb
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: kämpfen
  trans_en: to fight
@@ -4212,7 +4212,7 @@
  stem: .ḥ.yḏ.̣.|.ḥ.yḏ.l.|.ḥ.yḏ.n.|.ḥ.yḏ.̣̣.
  gramm: V
  root: ḥyḏ̣r
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: bereitmachen, bereitstellen, zurechtmachen
  trans_en: to prepare
@@ -4252,7 +4252,7 @@
  stem: .ḥ.yk.m.|.ḥ.yk.mm.
  gramm: V
  root: ḥykm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) einen Streich anbringen, ein Glied im Kampfe treffen; 2) schimpfen
  trans_en: to berate (ruḥ-) smb. (m-); [?]
@@ -4322,7 +4322,7 @@
  stem: .ḥ.yṣ.l.|.ḥ.yṣ.|.ḥ.yṣ.n.|.ḥ.yṣ.ll.
  gramm: V
  root: ḥyṣl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: zu fassen kriegen, erwischen, seiner Habhaft werden, treffen, erjagen, gewinnen
  trans_en: to get; to obtain; to catch
@@ -4562,7 +4562,7 @@
  stem: .k.lp.š.|.k.lp.šš.
  gramm: V
  root: klpš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: offene stellen Lücken ausfüllen (in einer Mauer, einem Bücher gestellt)
  trans_en: [?]
@@ -4692,7 +4692,7 @@
  stem: .k.nf.l.|.k.nf.|.k.nf.n.|.k.nf.ll.
  gramm: V
  root: knfl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: einhüllen, einwickeln
  trans_en: to wrap, to swathe
@@ -4742,7 +4742,7 @@
  stem: .k.rf.ṣ.|.k.rf.ṣṣ.
  gramm: V
  root: krfṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) mit einem Schlage zur Erde werfen, sich auf einen davonlaufenden Stürzen; 2) vergewaltigen
  trans_en: to throw to the ground with one blow; to rape
@@ -4782,7 +4782,7 @@
  stem: .k.rs.ḥ.|.k.rs.ḥḥ.
  gramm: V
  root: krsḥ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auslichten (Weinberg), (fig.) zerhauen, zusammenhauen, abhauen
  trans_en: to thin (a vineyard); to chop up
@@ -4882,7 +4882,7 @@
  stem: .k.sm.s.|.k.sm.ss.
  gramm: V
  root: ksms
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: augen-, lidkrank werden
  trans_en: [?]
@@ -4942,7 +4942,7 @@
  stem: .k.wk.z.|.k.wk.zz.
  gramm: V
  root: kwkz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: sich über einen Notstand beklagen und um Abhilfe bitten
  trans_en: to complain about a difficult situations and ask for help
@@ -4962,7 +4962,7 @@
  stem: .k.wr.s.|.k.wr.ss.
  gramm: V
  root: kwrs
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: mit der Axt kurze Zweige abschneiden, einen Baum stutzen, (fig.) schlecht Haare schneiden)
  trans_en: to cut off short branches with an axe; to prune
@@ -5002,7 +5002,7 @@
  stem: .k.wz.r.|.k.wz.l.|.k.wz.n.|.k.wz.rr.
  gramm: V
  root: kwzr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: versengen, absengen (Haare eines geschalteten Tieres), anbrennen lassen (Milch), in heisse Asche legen (Ei)
  trans_en: to singe; to scorch
@@ -5402,7 +5402,7 @@
  stem: .l.ṣ.l.|.l.ṣ.ll.
  gramm: V
  root: lṣlṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: begierig blicken
  trans_en: [?]
@@ -5472,7 +5472,7 @@
  stem: .l.vl.v.|.l.vl.vv.
  gramm: V
  root: lvlv
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: inständig bitten, flehen
  trans_en: to ask imploringly, to plea
@@ -5512,7 +5512,7 @@
  stem: .l.wl.b.|.l.wl.bb.
  gramm: V
  root: lwlb
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: etwas schwingen (etwa im Kreis) um damit zu treffen, zu schlagen, hin- und herpendeln lassen (etwa angebunden)
  trans_en: [?]
@@ -5522,7 +5522,7 @@
  stem: .l.wl.ḥ.|.l.wl.ḥḥ.
  gramm: V
  root: lwlḥ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: durch einen Faustschlag niederstrecken (weil der Gegner kraftlos ist)
  trans_en: [?]
@@ -6162,7 +6162,7 @@
  stem: .n.ʕw.ṣ.|.n.ʕw.ṣṣ.
  gramm: V
  root: nʕwṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: winseln, heulen
  trans_en: to yelp
@@ -6592,7 +6592,7 @@
  stem: .n.mn.m.|.n.mn.mm.
  gramm: V
  root: nmnm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: undeutlich und ängstlich sprechen, murmeln, muscheln, eine Melodie vor sich hinbrummen
  trans_en: [?]
@@ -6692,7 +6692,7 @@
  stem: .n.qw.r.|.n.qw.l.|.n.qw.n.|.n.qw.rr.|.n.q.r.
  gramm: V
  root: nqwr
- stamm: II
+ stamm: Q
  paradigm: V_II_2w_3r
  trans_de: aushöhlen
  trans_en: to hollow out
@@ -6722,7 +6722,7 @@
  stem: .n.rn.r.|.n.rn.l.|.n.rn.n.|.n.rn.rr.
  gramm: V
  root: nrnr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: schnurren wie ein Kater, nuscheln, undeutlich reden
  trans_en: to purr like a cat; to mumble; to speak unclearly
@@ -6772,7 +6772,7 @@
  stem: .n.ṣn.ṣ.|.n.ṣn.ṣṣ.
  gramm: V
  root: nṣnṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: kläglich winseln, heulen
  trans_en: to yelp
@@ -6932,7 +6932,7 @@
  stem: .n.wh.r.|.n.wh.l.|.n.wh.n.|.n.wh.rr.
  gramm: V
  root: nwhr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: traurig leise singen, summen, in den Schlaf singen
  trans_en: to sing in a soft and sad manner
@@ -7062,7 +7062,7 @@
  stem: .n.yš.n.|.n.yš.l.|.n.yš.nn.
  gramm: V
  root: nyšn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: bezeichnen, ein Zeichen machen; (sich) verloben
  trans_en: to make a sign; to get engaged to
@@ -7092,7 +7092,7 @@
  stem: .n.zn.z.|.n.zn.zz.
  gramm: V
  root: nznz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: sich zieren
  trans_en: to make a fuss
@@ -7182,7 +7182,7 @@
  stem: .p.lp.x.|.p.lp.xx.
  gramm: V
  root: plpx
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: Übel zurichten (mit Fusstritten, Steinen und drgl.)
  trans_en: to strike, to beat
@@ -7222,7 +7222,7 @@
  stem: .p.rč.q.|.p.rč.qq.
  gramm: V
  root: prčq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zermalmen, zerschmettern (ohne auseinanderzutretten), breit, platt schlagen
  trans_en: to crush; to smash; to shatter
@@ -7232,7 +7232,7 @@
  stem: .p.rg.l.|.p.rg.|.p.rg.n.|.p.rg.ll.
  gramm: V
  root: prgl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: mit dem Zirkel ausmessen
  trans_en: [?]
@@ -7242,7 +7242,7 @@
  stem: .p.rp.r.|.p.rp.l.|.p.rp.n.|.p.rp.rr.
  gramm: V
  root: prpr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: flattern, mit den Flügeln schlagen
  trans_en: to flutter
@@ -7252,7 +7252,7 @@
  stem: .p.rp.s.|.p.rp.ss.
  gramm: V
  root: prps
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: durcheinanderwerfen
  trans_en: [?]
@@ -7282,7 +7282,7 @@
  stem: .p.rq.ʕ.|.p.rq.ʕʕ.
  gramm: V
  root: prqʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: in Stücke zerplatzen
  trans_en: to burst in pieces (intr.)
@@ -7342,7 +7342,7 @@
  stem: .p.sp.s.|.p.sp.ss.
  gramm: V
  root: psps
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: füstern
  trans_en: [?]
@@ -7352,7 +7352,7 @@
  stem: .p.šm.n.|.p.šm.l.|.p.šm.nn.
  gramm: V
  root: pšmn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: bereuen
  trans_en: to regret
@@ -7382,7 +7382,7 @@
  stem: .p.tp.t.|.p.tp.tt.
  gramm: V
  root: ptpt
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) vor sich hinreden, auf jn. einreden, ohrenblasen;
  trans_en: [?]
@@ -7752,7 +7752,7 @@
  stem: .q.nd.ġ.|.q.nd.ġġ.
  gramm: V
  root: qndġ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: wickeln (Kind)
  trans_en: to wrap (a child)
@@ -7762,7 +7762,7 @@
  stem: .q.nq.l.|.q.nq.|.q.nq.n.|.q.nq.ll.
  gramm: V
  root: qnql
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: einem die Ohren voll reden
  trans_en: [?]
@@ -7852,7 +7852,7 @@
  stem: .q.rm.ǧ.|.q.rm.ǧǧ.
  gramm: V
  root: qrmǧ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: faltig, runzelig machen
  trans_en: to make creased, wrinkled
@@ -7862,7 +7862,7 @@
  stem: .q.rm.ṭ.|.q.rm.ṭṭ.
  gramm: V
  root: qrmṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: eine Pflanze so ausreissen, dass die Wurzel stecken bleibt, (fig.) abschneiden, ruinieren
  trans_en: to ruin
@@ -7872,7 +7872,7 @@
  stem: .q.rp.l.|.q.rp.|.q.rp.n.|.q.rp.ll.
  gramm: V
  root: qrpl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: verlegen (einen Gegestand)
  trans_en: to move (an object)
@@ -8092,7 +8092,7 @@
  stem: .q.ṣq.ṣ.|.q.ṣq.ṣṣ.
  gramm: V
  root: qṣqṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zerstückeln, zerlegen, (geschlachtetes Tier) in Stücke schneiden, brechen (Getreidehalme)
  trans_en: to cut into pieces
@@ -8332,7 +8332,7 @@
  stem: .q.wq.š.|.q.wq.šš.
  gramm: V
  root: qwqš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zusammenraffen, zusammentreiben
  trans_en: to bundle together; to round up
@@ -8522,7 +8522,7 @@
  stem: .q.yz.n.|.q.yz.l.|.q.yz.nn.
  gramm: V
  root: qyzn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: gewinnen
  trans_en: to win
@@ -8672,7 +8672,7 @@
  stem: .r.fr.f.|.r.fr.ff.
  gramm: V
  root: rfrf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: die Augenlider öffnen und schliessen
  trans_en: to open and close eyelids
@@ -9002,7 +9002,7 @@
  stem: .r.st.q.|.r.st.qq.
  gramm: V
  root: rstq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) gerade vorwärts schicken, auf etwas zu stürmen lassen, auf etwas ausrichten, schicken; 2) (Detrans.) geraden Weges gehen
  trans_en: to send; to direct
@@ -9312,7 +9312,7 @@
  stem: .r.yz.l.|.r.yz.|.r.yz.n.|.r.yz.ll.
  gramm: V
  root: ryzl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: in Schimpf und Schande bringen
  trans_en: to bring to shame
@@ -9502,7 +9502,7 @@
  stem: .s.kt.r.|.s.kt.l.|.s.kt.n.|.s.kt.rr.
  gramm: V
  root: sktr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: mit groben Beschimpfungen fortjagen
  trans_en: to drive smb. away with curses
@@ -9912,7 +9912,7 @@
  stem: .s.wg.r.|.s.wg.l.|.s.wg.n.|.s.wg.rr.
  gramm: V
  root: swgr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: sicherstellen, verschaffen
  trans_en: to ensure, to guarantee
@@ -10192,7 +10192,7 @@
  stem: .ṣ.ḥṣ.ḥ.|.ṣ.ḥṣ.ḥḥ.
  gramm: V
  root: ṣḥṣḥ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: genau kapieren, genau feststellen, korrigieren
  trans_en: to understand exactly; to correct
@@ -10332,7 +10332,7 @@
  stem: .ṣ.nṣ.l.|.ṣ.nṣ.|.ṣ.nṣ.n.|.ṣ.nṣ.ll.
  gramm: V
  root: ṣnṣl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: 1) abtraufen lassen; 2) (Detrans.) traufen; 3) (Detrans.) (fig.) immer mehr nachkommen
  trans_en: to distil
@@ -10402,7 +10402,7 @@
  stem: .ṣ.rṣ.ʕ.|.ṣ.rṣ.ʕʕ.
  gramm: V
  root: ṣrṣʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: [?]
  trans_en: to cry, to shriek
@@ -10752,7 +10752,7 @@
  stem: .š.ḥl.f.|.š.ḥl.ff.
  gramm: V
  root: šḥlf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: wechseln, versetzen, verlegen, verwandeln
  trans_en: to change; to turn into
@@ -10832,7 +10832,7 @@
  stem: .š.kš.k.|.š.kš.kk.
  gramm: V
  root: škšk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: glatt machen, streicheln (ein Kind)
  trans_en: to make smooth; to grind smooth
@@ -10882,7 +10882,7 @@
  stem: .š.lk.ḥ.|.š.lk.ḥḥ.
  gramm: V
  root: šlkḥ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) belecken, ablecken; 2) vom Knochen ablösen, abhangen (Fleisch)
  trans_en: to lick smb.; to gnaw
@@ -11022,7 +11022,7 @@
  stem: .š.nt.r.|.š.nt.l.|.š.nt.n.|.š.nt.rr.
  gramm: V
  root: šntr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: schleudern
  trans_en: [?]
@@ -11082,7 +11082,7 @@
  stem: .š.qš.q.|.š.qš.qq.
  gramm: V
  root: šqšq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) knattern lassen, klappern mit den Zähnen; 2) (Detrans.) aufplatzen
  trans_en: [?]
@@ -11132,7 +11132,7 @@
  stem: .š.rb.ṭ.|.š.rb.ṭṭ.
  gramm: V
  root: šrbṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: tünchen, weissen, mit Farbe bestreichen
  trans_en: to whitewash
@@ -11182,7 +11182,7 @@
  stem: .š.rm.ṭ.|.š.rm.ṭṭ.
  gramm: V
  root: šrmṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: abreissen ohne Wurzeln, abschürfen (Haut), (fig.) so verhauen, dass der betreffende Striemen bekommt
  trans_en: to tear off without the root; abrade
@@ -11202,7 +11202,7 @@
  stem: .š.rq.m.|.š.rq.mm.
  gramm: V
  root: šrqm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: ohrfeigen
  trans_en: to slap
@@ -11612,7 +11612,7 @@
  stem: .t.ʕm.ž.|.t.ʕm.žž.
  gramm: V
  root: tʕmž
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) taʕmīž sagen, d.h. im Spiel das Schleuderhorn zu seiner «Mutter» erklären; 2) (Detrans.) Geschmack an etwa kriegen
  trans_en: to say "taʕmiž" in a game
@@ -11742,7 +11742,7 @@
  stem: .t.ht.h.|.t.ht.hh.
  gramm: V
  root: thth
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auseinandertreiben
  trans_en: to drive apart
@@ -11752,7 +11752,7 @@
  stem: .t.ḥm.l.|.t.ḥm.|.t.ḥm.n.|.t.ḥm.ll.
  gramm: V
  root: tḥml
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: aushalten, ertragen
  trans_en: to withstand; to tolerate; to endure
@@ -11762,7 +11762,7 @@
  stem: .t.ḥq.b.|.t.ḥq.bb.
  gramm: V
  root: tḥqb
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: beobachten; verfolgen, folgen
  trans_en: to follow; to watch; to observe
@@ -11772,7 +11772,7 @@
  stem: .t.ḥq.r.|.t.ḥq.l.|.t.ḥq.n.|.t.ḥq.rr.
  gramm: V
  root: tḥqr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: beleidigen
  trans_en: to insult
@@ -11932,7 +11932,7 @@
  stem: .t.mb.h.|.t.mb.hh.
  gramm: V
  root: tmbh
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: instruieren
  trans_en: 
@@ -12032,7 +12032,7 @@
  stem: .t.rǧ.m.|.t.rǧ.mm.
  gramm: V
  root: trǧm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: übersetzen
  trans_en: to translate
@@ -12072,7 +12072,7 @@
  stem: .t.rp.l.|.t.rp.|.t.rp.n.|.t.rp.ll.
  gramm: V
  root: trpl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: stolpern
  trans_en: to stumble
@@ -12112,7 +12112,7 @@
  stem: .t.sl.m.|.t.sl.mm.
  gramm: V
  root: tslm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: sich ergeben
  trans_en: to hand over; to transfer
@@ -12122,7 +12122,7 @@
  stem: .t.sy.r.|.t.sy.l.|.t.sy.n.|.t.sy.rr.
  gramm: V
  root: tsyr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: spazieren gehen
  trans_en: to go for a walk
@@ -12192,7 +12192,7 @@
  stem: .t.wl.ʕ.|.t.wl.ʕʕ.
  gramm: V
  root: twlʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: Würmer bekommen (in die Wunden, in den Darm)
  trans_en: to become filled with worms
@@ -12202,7 +12202,7 @@
  stem: .t.wl.f.|.t.wl.ff.
  gramm: V
  root: twlf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: vernichten, ausrotten
  trans_en: to destroy
@@ -12312,7 +12312,7 @@
  stem: .t.zb.ṭ.|.t.zb.ṭṭ.
  gramm: V
  root: tzbṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: fangen lassen; sicher stellen
  trans_en: [?]
@@ -12402,7 +12402,7 @@
  stem: .ṭ.ġm.ġ.|.ṭ.ġm.ġġ.
  gramm: V
  root: ṭġmġ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: ausweichende Antwort geben
  trans_en: to give an evasive answer
@@ -12462,7 +12462,7 @@
  stem: .ṭ.lṭ.š.|.ṭ.lṭ.šš.
  gramm: V
  root: ṭlṭš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: ausstreichen
  trans_en: to spread out
@@ -12542,7 +12542,7 @@
  stem: .ṭ.qṭ.q.|.ṭ.qṭ.qq.
  gramm: V
  root: ṭqṭq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: klopfen, pochen
  trans_en: to knock
@@ -12612,7 +12612,7 @@
  stem: .ṭ.rp.ž.|.ṭ.rp.žž.
  gramm: V
  root: ṭrpž
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schlagen, hauen
  trans_en: to hit; to strike
@@ -12642,7 +12642,7 @@
  stem: .ṭ.rṭ.m.|.ṭ.rṭ.mm.
  gramm: V
  root: ṭrṭm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: anschreien mit lauter Stimme; НЕТ ПРИМЕРОВ
  trans_en: [?]
@@ -12852,7 +12852,7 @@
  stem: .v.rv.n.|.v.rv.l.|.v.rv.nn.
  gramm: V
  root: vrvn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: werfen
  trans_en: to throw
@@ -12972,7 +12972,7 @@
  stem: .w.lw.l.|.w.lw.|.w.lw.n.|.w.lw.ll.
  gramm: V
  root: wlwl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: jammern
  trans_en: to lament
@@ -13052,7 +13052,7 @@
  stem: .w.šw.š.|.w.šw.šš.
  gramm: V
  root: wšwš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: [?]
  trans_en: to whisper
@@ -13202,7 +13202,7 @@
  stem: .x.lx.l.|.x.lx.|.x.lx.n.|.x.lx.ll.
  gramm: V
  root: xlxl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: 1) sich beim Gehen hin- und herwiegen; 2) (Detrans.) vor Müdigkeit sich hinschleppen (wenn z.B.einer Schlange das Rückgrat zerschlagen ist, bewegt sie sich so)
  trans_en: to rock
@@ -13242,7 +13242,7 @@
  stem: .x.mx.m.|.x.mx.mm.
  gramm: V
  root: xmxm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: spielen (Radio)
  trans_en: [?]
@@ -13252,7 +13252,7 @@
  stem: .x.nǧ.r.|.x.nǧ.l.|.x.nǧ.n.|.x.nǧ.rr.
  gramm: V
  root: xnǧr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: erdolchen
  trans_en: to stab
@@ -13262,7 +13262,7 @@
  stem: .x.nx.l.|.x.nx.|.x.nx.n.|.x.nx.ll.
  gramm: V
  root: xnxl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: kaputt machen, zu Schanden halbtot schlagen
  trans_en: to destroy
@@ -13272,7 +13272,7 @@
  stem: .x.nz.r.|.x.nz.l.|.x.nz.n.|.x.nz.rr.
  gramm: V
  root: xnzr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: schwellen
  trans_en: to swell
@@ -13312,7 +13312,7 @@
  stem: .x.rb.q.|.x.rb.qq.
  gramm: V
  root: xrbq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) durcheinanderbringen, verhättern (Bindfäden); 2) einen Knoten, eine Schleife machen; 3) (Detrans.) stolpern
  trans_en: to disarrange; to mix up; to tie a knot
@@ -13322,7 +13322,7 @@
  stem: .x.rb.ṭ.|.x.rb.ṭṭ.
  gramm: V
  root: xrbṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: durcheinanderbringen
  trans_en: to disarrange; to mix up
@@ -13342,7 +13342,7 @@
  stem: .x.rf.š.|.x.rf.šš.
  gramm: V
  root: xrfš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zerkratzen
  trans_en: to scratch
@@ -13392,7 +13392,7 @@
  stem: .x.rm.š.|.x.rm.šš.
  gramm: V
  root: xrmš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: zerkratzen
  trans_en: to scratch
@@ -13432,7 +13432,7 @@
  stem: .x.rx.r.|.x.rx.l.|.x.rx.n.|.x.rx.rr.
  gramm: V
  root: xrxr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: schnarchen, röcheln; Значения корня не соответствуют тому, что в примере
  trans_en: to snore
@@ -13442,7 +13442,7 @@
  stem: .x.rx.ṭ.|.x.rx.ṭṭ.
  gramm: V
  root: xrxṭ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) beim Maschinennähen, Ackern, Schreiben keine geraden Linien machen; 2) kritzeln
  trans_en: [?]
@@ -13522,7 +13522,7 @@
  stem: .x.wx.ḏ.|.x.wx.ḏḏ.
  gramm: V
  root: xwxḏ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: spülen, eine ruhige Flüssigkeit, ein stehendes Wasser bewegen, im Glase schütteln, damit die Pille sich auflöst
  trans_en: to stir up; to shake
@@ -13532,7 +13532,7 @@
  stem: .x.wz.q.|.x.wz.qq.
  gramm: V
  root: xwzq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: notzüchtigen
  trans_en: [?]
@@ -13882,7 +13882,7 @@
  stem: .y.yṣ.r.|.y.yṣ.l.|.y.yṣ.n.|.y.yṣ.rr.
  gramm: V
  root: yyṣr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: gefangen halten
  trans_en: to take prisoner; to capture
@@ -13942,7 +13942,7 @@
  stem: .z.ʕw.q.|.z.ʕw.qq.
  gramm: V
  root: zʕwq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schreien
  trans_en: to scream
@@ -14052,7 +14052,7 @@
  stem: .z.kz.k.|.z.kz.kk.
  gramm: V
  root: zkzk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: vollstopfen
  trans_en: to stuff
@@ -14092,7 +14092,7 @@
  stem: .z.lṭ.n.|.z.lṭ.l.|.z.lṭ.nn.
  gramm: V
  root: zlṭn
- stamm: II
+ stamm: Q
  paradigm: V_II_3n
  trans_de: nackt ausziehen, entblössen
  trans_en: to strip nacked
@@ -14122,7 +14122,7 @@
  stem: .z.nʕ.r.|.z.nʕ.l.|.z.nʕ.n.|.z.nʕ.rr.
  gramm: V
  root: znʕr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: i-a machen
  trans_en: to make a hee-haw sound
@@ -14172,7 +14172,7 @@
  stem: .z.pz.p.|.z.pz.pp.
  gramm: V
  root: zpzp
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: übervoll machen
  trans_en: to fill up, to make overflow
@@ -14302,7 +14302,7 @@
  stem: .z.wz.q.|.z.wz.qq.
  gramm: V
  root: zwzq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: anhängen
  trans_en: to attach
@@ -14322,7 +14322,7 @@
  stem: .z.yʕ.f.|.z.yʕ.ff.
  gramm: V
  root: zyʕf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schwach, mager werden
  trans_en: to become weak; to become thin
@@ -15660,7 +15660,7 @@
  stem: .b.hd.l.|.b.hd.|.b.hd.n.|.b.hd.ll.
  gramm: V
  root: bhdl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: blossstellen, in Schande bringen, entehren
  trans_en: to dishonour; to put to shame
@@ -15720,7 +15720,7 @@
  stem: .b.lʕ.k.|.b.lʕ.kk.
  gramm: V
  root: blʕk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: im Streit Übel zurichten, zerknüllen
  trans_en: to damage smb. in a fight
@@ -15740,7 +15740,7 @@
  stem: .b.lʕ.z.|.b.lʕ.zz.
  gramm: V
  root: blʕz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: (b-) ein Kind durch Unterhaltung ablenken, sich mit etwas zu schaffen machen, Zärtlichkeiten erweisen, spielen, schäkern, seinen Scherz treiben mit, schlechte Spässe machen mit
  trans_en: to distract smb. (b-) by playing with him; to play with smb. (b-); to show affection towards (b-) smb.
@@ -15830,7 +15830,7 @@
  stem: .b.mx.r.|.b.mx.l.|.b.mx.n.|.b.mx.rr.
  gramm: V
  root: bmxr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: bedecken, bedeicken
  trans_en: to cover
@@ -15870,7 +15870,7 @@
  stem: .b.rb.ʕ.|.b.rb.ʕʕ.
  gramm: V
  root: brbʕ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: anbellen und Angst machen
  trans_en: to bark at smb. and scare him
@@ -15880,7 +15880,7 @@
  stem: .b.rb.z.|.b.rb.zz.
  gramm: V
  root: brbz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: auseinandertreiben, auseinanderstieben lassen, verteilen
  trans_en: to disperse smb. or smth.; to spread smth.
@@ -15950,7 +15950,7 @@
  stem: .b.rṭ.l.|.b.rṭ.|.b.rṭ.n.|.b.rṭ.ll.
  gramm: V
  root: brṭl
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: bestechen
  trans_en: to bribe
@@ -15960,7 +15960,7 @@
  stem: .b.rṭ.m.|.b.rṭ.mm.
  gramm: V
  root: brṭm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: Knospen ansetzen
  trans_en: to develop buds
@@ -16010,7 +16010,7 @@
  stem: .b.rz.q.|.b.rz.qq.
  gramm: V
  root: brzq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: herausspritzen
  trans_en: [?]
@@ -16030,7 +16030,7 @@
  stem: .b.sm.r.|.b.sm.l.|.b.sm.n.|.b.sm.rr.
  gramm: V
  root: bsmr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: nageln
  trans_en: to nail
@@ -16040,7 +16040,7 @@
  stem: .b.ṣb.ṣ.|.b.ṣb.ṣṣ.
  gramm: V
  root: bṣbṣ
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: funkeln
  trans_en: 
@@ -16060,7 +16060,7 @@
  stem: .b.šb.š.|.b.šb.šš.
  gramm: V
  root: bšbš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: sich aufheitern, ein freundliches Gesicht machen
  trans_en: to lighten up; to make a pleasant face
@@ -16130,7 +16130,7 @@
  stem: .b.xb.š.|.b.xb.šš.
  gramm: V
  root: bxbš
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: schenken, bestechen
  trans_en: to give as a gift; to bribe
@@ -16260,7 +16260,7 @@
  stem: .b.yz.r.|.b.yz.l.|.b.yz.n.|.b.yz.rr.
  gramm: V
  root: byzr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: (b-) um etwas feilschen, verhandeln
  trans_en: to bargain for (b-) something; to negotiate for (b-) something;
@@ -16290,7 +16290,7 @@
  stem: .č.kč.k.|.č.kč.kk.
  gramm: V
  root: čkčk
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) aufkrempeln, aufschürzen; 2) durchlöchern
  trans_en: to roll up (the sleeves); to pierce
@@ -16340,7 +16340,7 @@
  stem: .č.lq.z.|.č.lq.zz.
  gramm: V
  root: člqz
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: in der Luft parieren, (fig.) einem Angriff dadurch abwehren, dass man ihm zuvorkommt
  trans_en: [?]
@@ -16380,7 +16380,7 @@
  stem: .č.nč.r.|.č.nč.l.|.č.nč.n.|.č.nč.rr.
  gramm: V
  root: čnčr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: lumpen, zerreissen, zerfetzen (Kleider)
  trans_en: to tear (clothes)
@@ -16390,7 +16390,7 @@
  stem: .č.nq.l.|.č.nq.|.č.nq.n.|.č.nq.ll.
  gramm: V
  root: čnql
- stamm: II
+ stamm: Q
  paradigm: V_II_3l
  trans_de: einhaken, mit dem Haken schliessen
  trans_en: to latch with a hook
@@ -16410,7 +16410,7 @@
  stem: .č.qč.q.|.č.qč.qq.
  gramm: V
  root: čqčq
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: brodelnd heiss machen und zum Knistern bringen (z.B. durch die Luftblassen in glühendem Fett)
  trans_en: to heat smth. so much that it starts sizzling
@@ -16420,7 +16420,7 @@
  stem: .č.ql.b.|.č.ql.bb.
  gramm: V
  root: čqlb
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: 1) ein Gefäss umdrehen, so dass der Inhalt ausläuft 
  trans_en: to turn a vessel over so that the contents run out
@@ -16440,7 +16440,7 @@
  stem: .č.rč.f.|.č.rč.ff.
  gramm: V
  root: črčf
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: den Frauenumhang überwerfen, um auf die Strasse zu gehen
  trans_en: to throw over a ladies' shawl
@@ -16450,7 +16450,7 @@
  stem: .č.rč.r.|.č.rč.l.|.č.rč.n.|.č.rč.rr.
  gramm: V
  root: črčr
- stamm: II
+ stamm: Q
  paradigm: V_II_3r
  trans_de: zerreissen, zerfetzen
  trans_en: to tear
@@ -16490,7 +16490,7 @@
  stem: .č.wr.m.|.č.wr.mm.
  gramm: V
  root: čwrm
- stamm: II
+ stamm: Q
  paradigm: V_II
  trans_de: umdrehen, Kehrt machen
  trans_en: to turn around
