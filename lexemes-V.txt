@@ -14399,7 +14399,7 @@
 
 -lexeme
  lex: abəʕ/obəʕ
- stem: .ʔ.b.ʕ.|.ʔ.b.ʕʕ.
+ stem: ..b.ʕ.|..b.ʕʕ.
  gramm: V
  root: ʔbʕ
  stamm: I
@@ -14419,7 +14419,7 @@
 
 -lexeme
  lex: aḏəʕ/oḏəʕ
- stem: .ʔ.ḏ.ʕ.|.ʔ.ḏ.ʕʕ.
+ stem: ..ḏ.ʕ.|..ḏ.ʕʕ.
  gramm: V
  root: ʔḏʕ
  stamm: I
@@ -14568,7 +14568,7 @@
 
 -lexeme
  lex: aṯi/oṯe
- stem: .ʔ.ṯ.y.|.ʔ.ṯ.
+ stem: ..ṯ.y.|..ṯ.
  gramm: V
  root: ʔṯy
  stamm: I
