@@ -16158,7 +16158,7 @@
  trans_en: she-folly
 -lexeme
  lex: ha
- stem: ha.//h.
+ stem: ha.
  root: h
  gramm: INTERJ
  paradigm: unchangeable
@@ -17142,7 +17142,7 @@
  trans_en: then; anew
 -lexeme
  lex: hə
- stem: hə.//h.
+ stem: hə.
  root: h
  gramm: INTERJ
  paradigm: unchangeable
@@ -17414,7 +17414,7 @@
  trans_en: filler word which a person needs when the right word does not come to mind
 -lexeme
  lex: ho
- stem: ho.//h.
+ stem: ho.
  root: h
  gramm: INTERJ
  paradigm: unchangeable
@@ -17430,7 +17430,7 @@
  trans_en: there
 -lexeme
  lex: ho
- stem: ho.//h.
+ stem: ho.
  root: h
  gramm: INTERJ
  paradigm: unchangeable
@@ -17438,7 +17438,7 @@
  trans_en: noise of a fart
 -lexeme
  lex: ho
- stem: ho.//h.
+ stem: ho.
  root: h
  gramm: INTERJ
  paradigm: unchangeable
@@ -40165,8 +40165,8 @@
  trans_de: ungezogener Bengel
  trans_en: naughty rascal
 -lexeme
- lex: staḏ̣
- stem: staḍ.|steḏ̣in.
+ lex: staḏ̣/stad
+ stem: staḏ̣.//stad.|steḏ̣in.//stedin.
  root: stḍ
  gramm: N,m
  paradigm: N2
@@ -41045,8 +41045,8 @@
  trans_de: Handwerk, Kunst
  trans_en: craft, art
 -lexeme
- lex: ṣənʕatkar/ṣanʕatkar
- stem: ṣənʕatkar.//ṣanʕatkar.
+ lex: ṣənʕatkar/ṣanʕatkar/sənʕatkar/sanʕatkar
+ stem: ṣənʕatkar.//ṣanʕatkar.//sənʕatkar.//sanʕatkar.
  root: ṣnʕ
  gramm: N,m
  paradigm: unchangeable

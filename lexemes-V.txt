@@ -3302,7 +3302,7 @@
  stem: .h.yd.n.|.h.yd.l.
  gramm: V
  root: hydn
- stamm: V_Qp
+ stamm: Qp
  paradigm: V_IIp_3n
  trans_de: sich beruhigen
  trans_en: to calm oneself
@@ -13863,7 +13863,7 @@
  gramm: V
  root: ytw
  stamm: I
- paradigm: V_I_1y_3w
+ paradigm: V_I_3w
  trans_de: 1) sich setzen, sich niederlassen, 2) wohnen, sich niederlassen (в смысле “обосновываться”) 3) sich als Knecht, Geselle, Hirt verdingen, in Dienst eintreten, 4) sich aufs Altenteil zurückziehen, abdanken; 5) auf dem Thron sitzen, regieren
  trans_en: to sit; to sit down; to live; to stay
 
@@ -14278,8 +14278,8 @@
  trans_en: to buy
 
 -lexeme
- lex: mzawalle/mzawən
- stem: .z.w.n.|.z.w.l.|.z.w.nn.
+ lex: mzaballe/mzabən
+ stem: .z.b.n.|.z.b.l.|.z.b.nn.
  gramm: V
  root: zwn
  stamm: II
@@ -14608,7 +14608,7 @@
 
 -lexeme
  lex: xile/oxəl
- stem: .ʔ.x.l.|.ʔ.x.|.ʔ.x.n.|.ʔ.x.ll.
+ stem: ..x.l.|..x.|..x.n.|..x.ll.
  gramm: V
  root: ʔxl
  stamm: I
