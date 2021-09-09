@@ -33,7 +33,7 @@
  # 1st person sgm bare + suffixes
  -flex: <0><.>.o.a.nolux//<0><.>.o.a.nux//<2><.>.o.a.nolux//<2><.>.o.a.nux//<0><.>.o.a.nolox//<0><.>.o.a.nox//<2><.>.o.a.nolox//<2><.>.o.a.nox//<0><.>.u.a.nolox//<0><.>.u.a.nox//<0><.>.ə.a.nolox//<0><.>.ə.a.nox//<2><.>.u.a.nolox//<2><.>.u.a.nox//<2><.>.ə.a.nolox//<2><.>.ə.a.nox
  gramm: prs_stem,1,sg,m,2.o,sg.o,m.o
- paradigm: vb_prefix_pres_fut
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.anolax//<0><.>.o.a.nax//<2><.>.o.a.nolax//<2><.>.o.a.nax//<0><.>.o.a.noləx//<0><.>.o.a.nəx//<2><.>.o.a.noləx//<2><.>.o.a.nəx//<0><.>.u.a.noləx//<0><.>.u.a.nəx//<0><.>.ə.a.noləx//<0><.>.ə.a.nəx//<2><.>.u.a.noləx//<2><.>.u.a.nəx//<2><.>.ə.a.noləx//<2><.>.ə.a.nəx
   gramm: prs_stem,1,sg,m,2.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
@@ -221,7 +221,7 @@
  -flex: <3><.>.ə.lux//<3><.>.ə.lox//<4><.>.ə.lux//<4><.>.ə.lox
   gramm: pst_stem,2,sg,m
   paradigm: vb_prefix_perf
- -flex: <3.ə.lax//<3><.>.ə.ləx//<4><.>.ə.lax//<4><.>.ə.ləx
+ -flex: <3>.ə.lax//<3><.>.ə.ləx//<4><.>.ə.lax//<4><.>.ə.ləx
   gramm: pst_stem,2,sg,f
   paradigm: vb_prefix_perf
  -flex: <3><.>.ə.le//<4><.>.ə.le

@@ -71,7 +71,7 @@ def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
 
     # m.verbose = 1
     # m.parse('doməx', printOut=True)
-    # m.parse('фаеу', printOut=True)
+    # m.parse('mərralle', printOut=True)
     # m.parse('ипащэу', printOut=True)
     # m.parse('дэсшӏагъэшъ', printOut=True)
     # m.parse('зэхащэщт', printOut=True)
