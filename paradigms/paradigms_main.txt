@@ -1187,7 +1187,20 @@
   gramm: imv,pl,1.o,sg.o
  -flex: <0>..a.ullan//<0>..a.lan
   gramm: imv,pl,1.o,pl.o
-  
+
+  # Infinitive
+ -flex: <0>..o.o
+  gramm: inf,sg
+ 
+ # Nomen agentis
+ -flex: <0>.a.o.
+  gramm: nom_agent,sg,m
+ -flex: <0>.a.a.to
+  gramm: nom_agent,sg,f
+ -flex: <0>.a.o.e
+  gramm: nom_agent,pl
+
+
 -paradigm: V_Ip
 
  # Preterite
@@ -1318,7 +1331,7 @@
  -flex: <0>..i.e
   gramm: pass,pt,pl 
 
-
+ 
 -paradigm: V_II
  # Present
  -flex: <0><.>m.a.ə.
@@ -2038,6 +2051,18 @@
   gramm: imv,pl,1.o,sg.o
  -flex: <0>m.a.e.ullan//<0>.a.e.ullan//<0>m.a.e.lan//<0>.a.e.lan
   gramm: imv,pl,1.o,pl.o
+ 
+ # Infinitive
+ -flex: <0>.e.o.o//<0>.ə.o.o//<0>.i.o.o
+  gramm: inf,sg
+ 
+ # Nomen agentis
+ -flex: <0>m.a..ono
+  gramm: nom_agent,sg,m
+ -flex: <0>m.a..oniṯo
+  gramm: nom_agent,sg,f
+ -flex: <0>m.a..one
+  gramm: nom_agent,pl
   
 -paradigm: V_IIp
 
@@ -2925,7 +2950,19 @@
   gramm: imv,pl,1.o,sg.o
  -flex: <0><.>ma..e.ullan//<0><.>a..e.ullan
   gramm: imv,pl,1.o,pl.o
-  
+ 
+ # Infinitive
+ -flex: <0>te..o.o//<0>te..i.o//<0>te..u.o
+  gramm: inf,sg
+ 
+ # Nomen agentis
+ -flex: <0>ma.a..ono//<0>ma.ə..ono//<0>ma...ono//<0>ma..ə.ono
+  gramm: nom_agent,sg,m
+ -flex: <0>ma.a..oniṯo//<0>ma.ə..oniṯo//<0>ma...oniṯo//<0>ma..ə.oniṯo
+  gramm: nom_agent,sg,f
+ -flex: <0>ma.a..one//<0>ma.ə..one//<0>ma...one//<0>ma..ə.one
+  gramm: nom_agent,pl
+
 -paradigm: V_IIIp
 
  # Preterite

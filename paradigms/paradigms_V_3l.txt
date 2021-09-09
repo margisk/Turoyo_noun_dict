@@ -1352,54 +1352,54 @@
   paradigm: vb_prefix_perf
  
 # Preterite Transitive 3fs inner object
- -flex: m.a..ole
+ -flex: <0><.>m.a..ole
   gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..olox//m.a..olux
+ -flex: <0><.>m.a..olox//m.a..olux
   gramm: pst_stem,2,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..ola
+ -flex: <0><.>m.a..ola
   gramm: pst_stem,3,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..oləx//m.a..olax
+ -flex: <0><.>m.a..oləx//m.a..olax
   gramm: pst_stem,2,sg,f,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..oli
+ -flex: <0><.>m.a..oli
   gramm: pst_stem,1,sg,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..olən//m.a..ulle//m.a..alle
+ -flex: <0><.>m.a..olən//m.a..ulle//m.a..alle
   gramm: pst_stem,3,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..ulxu//m.a..alxu
+ -flex: <0><.>m.a..ulxu//m.a..alxu
   gramm: pst_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
- -flex: m.a..olan
+ -flex: <0><.>m.a..olan
   gramm: pst_stem,1,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
 
 # Preterite Transitive inner object 3pl
- -flex: m.a..ile
+ -flex: <0><.>m.a..ile
   gramm: pst_stem,3,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ilox//m.a..ilux
+ -flex: <0><.>m.a..ilox//m.a..ilux
   gramm: pst_stem,2,sg,m,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ila
+ -flex: <0><.>m.a..ila
   gramm: pst_stem,3,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..iləx//m.a..ilax
+ -flex: <0><.>m.a..iləx//m.a..ilax
   gramm: pst_stem,2,sg,f,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ili
+ -flex: <0><.>m.a..ili
   gramm: pst_stem,1,sg,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ənne
+ -flex: <0><.>m.a..ənne
   gramm: pst_stem,3,pl,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ənxu
+ -flex: <0><.>m.a..ənxu
   gramm: pst_stem,2,pl,3.o,pl.o
   paradigm: vb_prefix_perf
- -flex: m.a..ilan
+ -flex: <0><.>m.a..ilan
   gramm: pst_stem,1,pl,3.o,pl.o
   paradigm: vb_prefix_perf
  
