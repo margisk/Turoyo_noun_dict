@@ -27,12 +27,12 @@ dictDiacritics = {
 def collect_lemmata():
     lemmata = ''
     lexrules = ''
-    for fname in os.listdir('.'):
+    for fname in os.listdir('./lexemes'):
         if fname.endswith('.txt') and fname.startswith('lexemes-'):
-            with open(fname, 'r', encoding='utf-8-sig') as fIn:
+            with open(os.path.join('./lexemes', fname), 'r', encoding='utf-8-sig') as fIn:
                 lemmata += fIn.read() + '\n'
         elif fname.endswith('.txt') and fname.startswith('lexrules-'):
-            with open(fname, 'r', encoding='utf-8-sig') as fIn:
+            with open(os.path.join('./lexemes', fname), 'r', encoding='utf-8-sig') as fIn:
                 lexrules += fIn.read() + '\n'
     lemmataSet = set(re.findall('-lexeme\n(?: [^\r\n]*\n)+', lemmata, flags=re.DOTALL))
     # lemmata = '\n'.join(sorted(list(lemmataSet),
