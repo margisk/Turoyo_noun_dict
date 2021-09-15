@@ -40,6 +40,12 @@ analyses = a.analyze_words(['koroḥamnux', [['laḥmawo'], ['ʕəbarwo', 'lab',
 
 Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
 
+If you want to quickly check an analysis for one particular word, you can also use the command-line interface. Here is an example for the word *koroḥamnux*:
+
+```
+py -m uniparser_turoyo koroḥamnux
+```
+
 <!---
 ### Disambiguation
 Apart from the analyzer, this repository contains a set of [Constraint Grammar](https://visl.sdu.dk/constraint_grammar.html) rules that can be used for partial disambiguation of analyzed Turoyo texts. If you want to use them, set ``disambiguation=True`` when calling ``analyze_words``:
