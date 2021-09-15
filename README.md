@@ -43,7 +43,7 @@ Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs
 If you want to quickly check an analysis for one particular word, you can also use the command-line interface. Here is an example for the word *koroḥamnux*:
 
 ```
-py -m uniparser_turoyo koroḥamnux
+python3 -m uniparser_turoyo koroḥamnux
 ```
 
 <!---
