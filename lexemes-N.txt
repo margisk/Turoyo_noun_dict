@@ -304,7 +304,7 @@
  trans_en: [?]; something unusual
 -lexeme
  lex: ʕaǧaba
- ste: ʕaǧaba.
+ stem: ʕaǧaba.
  root: ʕǧb
  gramm: PRTCL
  paradigm: unchangeable
@@ -2343,14 +2343,6 @@
  trans_de: Lebensweise
  trans_en: way of life
 -lexeme
- lex: a
- stem: a.
- root: ʔ
- gramm: art,pl
- paradigm: unchangeable
- trans_de:
- trans_en:
--lexeme
  lex: aaa
  stem: aaa.//aa.
  root: a
@@ -2366,14 +2358,6 @@
  paradigm: unchangeable
  trans_de: Ausruf der Überraschung und des Erstaunens, etwa: Alle Wetter!
  trans_en: exclamation of surprise and astonishment, “damn it!”
--lexeme
- lex: a/ann/aʕ/ab/ad/aḏ/af/ag/aġ/aǧ/ah/aḥ/ak/al/am/an/ap/aq/ar/as/aṣ/aš/at/aṭ/av/aw/ax/ay/az/až
- stem: a.//ann.//aʕ.//ab.//ad.//aḏ.//aḏ̣.//af.//ag.//aġ.//aǧ.//ah.//aḥ.//ak.//al.//am.//an.//ap.//aq.//ar.//as.//aṣ.//aš.//at.//aṭ.//av.//aw.//ax.//ay.//az.//až.
- root: art,pl
- paradigm: def_art_free
- trans_de:
- trans_en:
- gramm: 
 -lexeme
  lex: aʕka
  stem: aʕka.//aʕk.
@@ -2813,7 +2797,6 @@
  paradigm: unchangeable
  trans_de: die Meisten
  trans_en: most (of)
- lex: a
 -lexeme
  lex: aġro
  stem: aġro.//aġr.|UNKNOWN.
@@ -7703,10 +7686,10 @@
  trans_en: shank
 -lexeme
  lex: čaqačaq
- stem: čaqačaq.
+ stem: čaqačaq.|UNKNOWN.
  root: čq
  gramm: N
- paradigm: [?]
+ paradigm: N2
  trans_de: zischendes Geräusch von kochendem Fett, besonders wenn ein Ei hineingeworfen wird
  trans_en: sizzling noise of fried fat, especially when an egg is thrown into it
 -lexeme
@@ -9833,8 +9816,8 @@
  lex: dawšono
  stem: dawšono.//dawšon.|dawšone.//dawšon.
  root: dbš
- gramm: N,m
- paradigm: ADJ
+ gramm: ADJ
+ paradigm: N2
  trans_de: honigfarben, braun
  trans_en: honey-coloured, brown
 -lexeme
@@ -10217,8 +10200,8 @@
  lex: dəlme
  stem: dəlme.
  root: dlm
- gramm: [?]
- paradigm: [?]
+ gramm: N
+ paradigm: unchangeable
  trans_de: weichgekochtes Ei (bəḥto dəlme)
  trans_en: soft boiled egg (bəḥto dəlme)
 -lexeme
@@ -15974,7 +15957,8 @@
  trans_de: kleine Grube, mit der die Kinder spielen
  trans_en: small pit in which children play
 -lexeme
- lex: ǧorǧis.//ǧərǧis.//Ǧorǧis.//Ǧərǧis.
+ lex: Ǧorǧis.//Ǧərǧis.
+ stem: ǧorǧis.//ǧərǧis.
  root: ǧrǧ
  gramm: N
  paradigm: unchangeable
@@ -18032,8 +18016,8 @@
  lex: ḥalal
  stem: ḥalal.
  root: ḥll
- gramm: N,m
- paradigm: ADJ
+ gramm: ADJ
+ paradigm: unchangeable
  trans_de: gesetzlich, erlaubt
  trans_en: lawful, allowed
 -lexeme
@@ -20216,8 +20200,8 @@
  lex: ḥzino
  stem: ḥzino.//ḥzin.|ḥzine.//ḥzin.
  root: ḥzn
- gramm: N,m
- paradigm: ADJ
+ gramm: ADJ
+ paradigm: N2
  trans_de: traurig
  trans_en: sad
 -lexeme
@@ -23469,7 +23453,7 @@
  trans_de: stotternd
  trans_en: stammering
 -lexeme
- lex: laʔannahu/laʔinnahu/laʔinno/liʔannu//liʔanno
+ lex: laʔannahu/laʔinnahu/laʔinno/liʔannu/liʔanno
  stem: laʔannahu.//laʔinnahu.//laʔinno.//liʔannu.//laʔannah.//laʔinnah.//liʔanno.
  root: lʔn
  gramm: CONJ
@@ -27712,8 +27696,8 @@
  lex: məḥteǧ/muḥteǧ
  stem: məḥteǧ.//muḥteǧ.|məḥteǧin.
  root: ḥwǧ
- gramm: N,m
- paradigm: ADJ
+ gramm: ADJ
+ paradigm: N2
  trans_de: bedürftig
  trans_en: in need
 -lexeme
@@ -30644,7 +30628,7 @@
  paradigm: N2
  trans_de: Fingernagel
  trans_en: finger nail
--lexeme 
+-lexeme
  lex: naysa
  stem: naysa.//nayse.
  root: nys
@@ -45308,7 +45292,7 @@
  paradigm: N2
  trans_de:
  trans_en: merchant, trader
--lexeme-lexeme
+-lexeme
  lex: təǧǧar
  stem: təǧǧar.|təǧǧar.
  root: tǧr
@@ -45316,6 +45300,7 @@
  paradigm: N2
  trans_de:
  trans_en: merchant, trader
+-lexeme
  lex: təḥatəḥ
  stem: təḥatəḥ.
  root: tḥtḥ

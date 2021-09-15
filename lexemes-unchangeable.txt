@@ -1,0 +1,26 @@
+-lexeme
+ lex: i
+ stem: i.
+ root: ʔ
+ gramm: art,sg,f
+ paradigm: unchangeable
+ trans_de: die
+ trans_en: the
+
+-lexeme
+ lex: a
+ stem: a.
+ root: ʔ
+ gramm: art,pl
+ paradigm: unchangeable
+ trans_de: die
+ trans_en: the
+
+-lexeme
+ lex: a/ann/aʕ/ab/ad/aḏ/af/ag/aġ/aǧ/ah/aḥ/ak/al/am/an/ap/aq/ar/as/aṣ/aš/at/aṭ/av/aw/ax/ay/az/až
+ stem: a.//ann.//aʕ.//ab.//ad.//aḏ.//aḏ̣.//af.//ag.//aġ.//aǧ.//ah.//aḥ.//ak.//al.//am.//an.//ap.//aq.//ar.//as.//aṣ.//aš.//at.//aṭ.//av.//aw.//ax.//ay.//az.//až.
+ gramm: art,pl
+ root: ʔ
+ paradigm: def_art_free
+ trans_de: die
+ trans_en: the

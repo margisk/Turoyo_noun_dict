@@ -198,7 +198,7 @@
  paradigm: unchangeable
  trans_de: wegen jemandem, um einer willen (žboyi d-)
  trans_en: because of someone, for one's sake (žboyi d-)
- -lexeme
+-lexeme
  lex: žġayni/žġeni
  stem: žġayni.//žġeni.
  root: žġn

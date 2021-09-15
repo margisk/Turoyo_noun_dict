@@ -1313,10 +1313,10 @@
  -flex: <0><.>ma..ə.itulle//<0><.>ma..ə.utulle//<0><.>ma..ə.utle//<1><.>mə..itulle//<1><.>mə..utulle//<1><.>mə..utle//<1><.>mu..itulle//<1><.>mu..utulle//<1><.>mu..utle
   gramm: prs_stem,2,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_pres_fut
-  -flex: <0><.>ma..ə.itulla//<0><.>ma..ə.utulla//<0><.>ma..ə.utla//<1><.>mə..itulla//<1><.>mə..utulla//<1><.>mə..utla//<1><.>mu..itulla//<1><.>mu..utulla//<1><.>mu..utla
+ -flex: <0><.>ma..ə.itulla//<0><.>ma..ə.utulla//<0><.>ma..ə.utla//<1><.>mə..itulla//<1><.>mə..utulla//<1><.>mə..utla//<1><.>mu..itulla//<1><.>mu..utulla//<1><.>mu..utla
   gramm: prs_stem,2,pl,3.o,sg.o,f.o
   paradigm: vb_prefix_pres_fut
-  -flex: <0><.>ma..ə.itulli//<0><.>ma..ə.utulli//<0><.>ma..ə.utli//<1><.>mə..itulli//<1><.>mə..utulli//<1><.>mə..utli//<1><.>mu..itulli//<1><.>mu..utulli//<1><.>mu..utli
+ -flex: <0><.>ma..ə.itulli//<0><.>ma..ə.utulli//<0><.>ma..ə.utli//<1><.>mə..itulli//<1><.>mə..utulli//<1><.>mə..utli//<1><.>mu..itulli//<1><.>mu..utulli//<1><.>mu..utli
   gramm: prs_stem,2,pl,1.o,sg.o
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>ma..ə.itunne//<0><.>ma..ə.utunne//<0><.>ma..ə.utne//<1><.>mə..itunne//<1><.>mə..utunne//<1><.>mə..utne//<1><.>mu..itunne//<1><.>mu..utunne//<1><.>mu..utne
