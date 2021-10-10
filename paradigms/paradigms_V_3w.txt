@@ -807,6 +807,13 @@
  -flex: <0>..a.ullan//<0>..a.əllan
   gramm: imv,pl,1.o,pl.o
 
+# Participle
+ -flex: <0>.a.i.o
+  gramm: pt,sg,m
+ -flex: <1>.a.uto
+  gramm: pt,sg,f
+ -flex: <0>.a.i.e
+  gramm: pt,pl
 
 -paradigm: V_Ip_3w 
  # Preterite
@@ -913,7 +920,7 @@
  -flex: <0>..i.e
   gramm: pass,pt,pl 
 
--paradigm: V_II_3w
+  -paradigm: V_II_3w
  # Presence
  -flex: <1><.>m.a.u
   gramm: prs_stem,3,sg,m

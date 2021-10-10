@@ -1193,7 +1193,7 @@
   gramm: inf,sg
  
  # Nomen agentis
- -flex: <0>.a.o.
+ -flex: <0>.a.o.o
   gramm: nom_agent,sg,m
  -flex: <0>.a.a.to
   gramm: nom_agent,sg,f

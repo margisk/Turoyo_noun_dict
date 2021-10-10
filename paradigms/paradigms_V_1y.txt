@@ -1091,6 +1091,26 @@
   gramm: imv,pl,1.o,sg.o
  -flex: <1>i.a.ullan//<1>i.a.lan
   gramm: imv,pl,1.o,pl.o
+
+ # Participle
+ -flex: <0>.a.i.o
+  gramm: pt,sg,m
+ -flex: <0>.a.ə.to
+  gramm: pt,sg,f
+ -flex: <0>.a.i.e
+  gramm: pt,pl
+ 
+ # Infinitive
+ -flex: <0>..o.o
+  gramm: inf,sg
+ 
+ # Nomen agentis
+ -flex: <0>.a.o.o
+  gramm: nom_agent,sg,m
+ -flex: <0>.a.a.to
+  gramm: nom_agent,sg,f
+ -flex: <0>.a.o.e
+  gramm: nom_agent,pl
  
 -paradigm: V_III_1y
  # Present
