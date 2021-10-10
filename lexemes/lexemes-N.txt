@@ -1502,6 +1502,14 @@
  paradigm: N2_lim
  trans_de: Auge; Knospenansatz; Quelle, Brunnen, Wasserhahn
  trans_en: eye; shoot; spring, well
+-lexeme:
+ lex: ʕAyšane/ʕayšane
+ stem: ʕAyšane.//ʕayšane.
+ root: ʕyšn
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional female character
 -lexeme
  lex: ʕaza
  stem: ʕaza.//ʕaz.|ʕazawat.//ʕazaw.
@@ -3070,6 +3078,14 @@
  trans_de: Gott ist groß (allahu akbar)
  trans_en: God is great (allahu akbar)
 -lexeme
+ lex: Aliki
+ stem: Aliki.//aliki.
+ root: lk
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character
+-lexeme
  lex: alman
  stem: alman.
  root: ʔlmn
@@ -4407,7 +4423,7 @@
  trans_en: aluminium
 -lexeme
  lex: bag
- stem: bag.//bage.//bag.|bagawiye.//bagawiy.
+ stem: bag.//bage.|bagawiye.//bagawiy.
  root: bg
  gramm: N,m
  paradigm: N2
@@ -4581,6 +4597,14 @@
  paradigm: N2
  trans_de: Garten
  trans_en: garden
+-lexeme
+ lex: bakko/Bakko
+ stem: bakko.//Bakko.
+ root: bk
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character
 -lexeme
  lex: bal
  stem: bal.//bale.//bal.
@@ -11062,7 +11086,7 @@
  trans_en: cruelty
 -lexeme
  lex: ḏ̣olumo/ḏ̣əlumo/ḏ̣lumo/ḏ̣ulumo/ḏolumo/ḏəlumo/ḏlumo/ḏulumo
- stem: ḏ̣olumo.//ḏ̣əlumo.//ḏ̣lumo.//ḏ̣ulumo.//ḏolumo.//ḏəlumo.//ḏlumo.//ḏulumo.//olum.//əlum.//lum.//ulum.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.|ḏ̣olume.//ḏ̣əlume.//ḏ̣lume.//ḏ̣ulume.//ḏolume.//ḏəlume.//ḏlume.//ḏulume.//olum.//əlum.//lum.//ulum.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.
+ stem: ḏ̣olumo.//ḏ̣əlumo.//ḏ̣lumo.//ḏ̣ulumo.//ḏolumo.//ḏəlumo.//ḏlumo.//ḏulumo.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.|ḏ̣olume.//ḏ̣əlume.//ḏ̣lume.//ḏ̣ulume.//ḏolume.//ḏəlume.//ḏlume.//ḏulume.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.
  root: ẓlm
  gramm: N,m
  paradigm: N2
@@ -11070,7 +11094,7 @@
  trans_en: tyran; violent
 -lexeme
  lex: e
- stem: e.//.
+ stem: e.//eee.
  root: ʔ
  gramm: INTERJ
  paradigm: unchangeable
@@ -21253,6 +21277,14 @@
  trans_de: Höhe
  trans_en: height
 -lexeme
+ lex: kandar/Kandar
+ stem: kandar.//Kandar.
+ root: kandar.//Kandar.
+ gramm: kndr
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male hero
+-lexeme
  lex: kandil/kandir/kandilo
  stem: kandil.//kandir.//kandilo.|kandile.//kandire.//kandil.//kandir.
  root: kndl
@@ -30158,7 +30190,7 @@
  trans_en: embroidery, jewellery, ornament
 -lexeme
  lex: naqla
- stem: naqla.//naqqa.//naql.//naqq.|naqlat.//naqlawoṯe.//naqlawat.//naqlawoṯo.//naqqawoṯe.//naqqawat.//naql.//naqlawoṯ.//naqlaw.//naqlawoṯ.//naqqawoṯ.//naqqaw.//naqqawoṯo.//naqqat.
+ stem: naqla.//naqqa.//naqqe.//naql.//naqq.|naqlat.//naqlawoṯe.//naqlawat.//naqlawoṯo.//naqqawoṯe.//naqqawat.//naql.//naqlawoṯ.//naqlaw.//naqlawoṯ.//naqqawoṯ.//naqqaw.//naqqawoṯo.//naqqat.
  root: nql
  gramm: N,f
  paradigm: N2
@@ -34036,6 +34068,14 @@
  paradigm: N_mf
  trans_de: barhäuptig
  trans_en: bare-headed
+-lexeme
+ lex: qara/Qara
+ stem: qara.//Qara.
+ root: qr
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character (Qara Taždin)
 -lexeme
  lex: qarač
  stem: qarač.|qarač.
@@ -41493,6 +41533,14 @@
  trans_de: Männername, (eigentl Ḥušabo – Sonntagskind)
  trans_en: boy’s name, (originally, Ḥušabo - Sunday`s child)
 -lexeme
+ lex: šaboko
+ stem: šaboko.//šabok.|šəbebək.//šabebək.
+ root: šbk
+ gramm: N,m
+ paradigm: N2
+ trans_de: Fenster
+ trans_en: window
+-lexeme
  lex: šabṭo
  stem: šabṭo.//šabṭ.|UNKNOWN.
  root: šbṭ
@@ -42662,7 +42710,7 @@
  trans_en: poem, poetry
 -lexeme
  lex: šəbbak
- stem: šəbbak.//šubbak.//šaboko.//šobak.//šabok.|šəbabək.//šəbebək.
+ stem: šəbbak.//šubbak.|šəbabək.//šəbebək.
  root: šbk
  gramm: N,m
  paradigm: N2
@@ -45157,6 +45205,14 @@
  trans_de: Abgangszeugnis
  trans_en: leaving certificate
 -lexeme
+ lex: taždin/Taždin
+ stem: taždin.//Taždin.
+ root: tždn
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character (Qara Taždin)
+-lexeme
  lex: tedəmroṯo
  stem: tedəmroṯo.//tedəmroṯe.//tedəmroṯ.//tedəmroṯ.
  root: dmr
@@ -46292,6 +46348,14 @@
  paradigm: N2
  trans_de: Pfanne mit Stiel
  trans_en: pan with handle
+-lexeme
+ lex: ṭahər/Ṭahər
+ stem: ṭahər.//Ṭahər.
+ root: ṭhr
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character (Ṭahər Bage)
 -lexeme
  lex: ṭaḥina
  stem: ṭaḥina.//ṭaḥin.|UNKNOWN.
@@ -50021,8 +50085,8 @@
  trans_de: rechts
  trans_en: right
 -lexeme
- lex: yamuniye
- stem: yamuniye.
+ lex: yamuniye/yammuniye
+ stem: yamuniye.//yammuniye.
  root: ymn
  gramm: ADJ
  paradigm: unchangeable
@@ -50364,6 +50428,14 @@
  paradigm: N2
  trans_de: Hauptmann
  trans_en: captain
+-lexeme
+ lex: va
+ stem: va.
+ root: v
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de:
+ trans_en: directional/locative postpositional clitic
 -lexeme
  lex: zʕifo
  stem: zʕifo.//zʕif.|zʕəfto.//zʕəft.|zʕife.//zʕif.
@@ -50996,6 +51068,14 @@
  paradigm: unchangeable
  trans_de: sehr lange und dünne Traubenart (wird zur Herstellung von Rosinen gebraucht)
  trans_en: very long and thin grape (used to make raisin)
+-lexeme
+ lex: zaynal/Zaynal
+ stem: zaynal.//Zaynal.
+ root: zynl
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: name of a fictional male character (Zaynal Bage)
 -lexeme
  lex: zayoro
  stem: zayoro.//zayor.|zayore.//zayor.

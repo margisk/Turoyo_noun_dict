@@ -6339,11 +6339,11 @@
 
 -lexeme
  lex: mawfaqle/mawfəq
- stem: .n.f.q.|.n.f.qq.
+ stem: .w.f.q.|.f.q.|.w.f.qq.|.f.qq.
  gramm: V
  root: nfq
  stamm: III
- paradigm: V_III
+ paradigm: V_III_1y
  trans_de: hinausgehen lassen, herausbringen; (b-) etwas merken, herausfinden; verdienen; vermitteln
  trans_en: to bring out; to find out (b-) smth.; to earn; to transmit, to communicate
 
@@ -13609,7 +13609,7 @@
 
 -lexeme
  lex: mobəl/mbele
- stem: .w.b.l.|.b.l.|.w.b.n.|.b.n.|.w.b.|.b.|.b.n.|.w.b.ll.|.b.ll.
+ stem: .w.b.l.|.b.l.|.w.b.n.|.b.n.|.w.b.|.b.|.w.b.ll.|.b.ll.|.m.b.|.m.b.l.|.m.b.ll.
  gramm: V
  root: ybl
  stamm: III
@@ -14568,11 +14568,11 @@
 
 -lexeme
  lex: aṯi/oṯe
- stem: ..ṯ.y.|..ṯ.
+ stem: ..ṯ.y.|..ṯ.|.t.
  gramm: V
  root: ʔṯy
  stamm: I
- paradigm: V_I_3y
+ paradigm: to_come
  trans_de: 1) kommen; 2) als ziemlich blasses Ingressivverbum, «etwa»; 3) nahe herankommen, nahe daran sein; 4) (lə-ḥḏoḏe) zusammenpassen, sich vertragen, übereinkommen; 5) passen, sich anpassen, sich fügen, sich einrichten lassen, nach einem Elternteil schlagen (Kind); 6) (kul, məqqa d-k-oṯe) immer mehr, so oft; 7) atmosfärische Erscheinungen; 8) (k-oṯe b-kēr d-) er taugt für, ist zu gebrauchen für, versteht etwas davon; 9) (qīm d-) akzeptieren; 10) (aṯi qm-) eingestehen, zugeben, herausrücken; 11) (ba ʕal aloho l-oṯe zaḥme) das (dieser Anblick) war zu viel; 12) (qm-) bewachen; 13) (u=mede d-oṯe mən-; k-oṯe mən- смысловой глагол) (machen etwas) so gut können - ПЕРЕНЕСЕНО В ИДИОМЫ; 14) to come = to be brought; 15) come, begin (about state, condition) (e.g. šamṯo, ḥəmto); 16) entgegengehen (l-qamuṯo)
  trans_en: to come; to approach; to fit to or for smb. or smth. (ʕal); to rain; to snow;
 
