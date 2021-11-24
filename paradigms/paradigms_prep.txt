@@ -38,9 +38,9 @@
   gramm: 3,sg,f
  -flex: <3>.an//<3>.ayna//<4>.an//<4>.ayna//<5>.an//<5>.ayna
   gramm: 1,pl
- -flex: <3>.ayxu//<5>.ayxu//<4>.ayxu//<4>.xu
+ -flex: <3>.ayxu//<5>.ayxu//<4>.ayxu//<4>.xu//<6>.xu
   gramm: 2,pl
- -flex: <3>.ayye//<5>.ayye//<4>.ayye//<4>.ne
+ -flex: <3>.ayye//<5>.ayye//<4>.ayye//<4>.ne//<6>.ne
   gramm: 3,pl
 
  # Definite article

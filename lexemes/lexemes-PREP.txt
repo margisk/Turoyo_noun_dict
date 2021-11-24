@@ -24,7 +24,7 @@
  trans_en: in; with the help of
 -lexeme
  lex: me/mə/m
- stem: mə.|me.|m.|min.|mən.|men.
+ stem: mə.|me.|m.|min.|mən.|men.|man.
  root: m
  gramm: PREP
  paradigm: PREP_me

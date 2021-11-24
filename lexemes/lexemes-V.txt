@@ -10419,7 +10419,7 @@
 
 -lexeme
  lex: məṣtafele/məṣtafəl
- stem: .ṣt.f.l.|.ṣt.f.l.|.ṣt.f.n.|.ṣt.f.ll.
+ stem: .ṣt.f.l.|.ṣt.f.|.ṣt.f.n.|.ṣt.f.ll.
  gramm: V
  root: ṣtfl
  stamm: VIII
@@ -11549,7 +11549,7 @@
 
 -lexeme
  lex: mətʔahele/mətʔahəl
- stem: .tʔ.h.l.|.tʔ.h.l.|.tʔ.h.n.|.tʔ.h.ll.
+ stem: .tʔ.h.l.|.tʔ.h.|.tʔ.h.n.|.tʔ.h.ll.
  gramm: V
  root: tʔhl
  stamm: V
@@ -11979,7 +11979,7 @@
 
 -lexeme
  lex: mətnazele/mətnazəl
- stem: .tn.z.l.|.tn.z.l.|.tn.z.n.|.tn.z.ll.
+ stem: .tn.z.l.|.tn.z.|.tn.z.n.|.tn.z.ll.
  gramm: V
  root: tnzl
  stamm: V
@@ -12179,7 +12179,7 @@
 
 -lexeme
  lex: mətwakele/mətwakəl
- stem: .tw.k.l.|.tw.k.l.|.tw.k.n.|.tw.k.ll.
+ stem: .tw.k.l.|.tw.k.|.tw.k.n.|.tw.k.ll.
  gramm: V
  root: twkl
  stamm: V
@@ -14489,7 +14489,7 @@
 
 -lexeme
  lex: məlle/omər
- stem: ..m.r.|..mm.|..m.n.|.m.r.|.m.l.
+ stem: ..m.r.|..mm.|..m.n.|.m.r.|..m.l.
  root: ʔmr
  gramm: V
  paradigm: to_say
@@ -14608,11 +14608,11 @@
 
 -lexeme
  lex: xile/oxəl
- stem: ..x.l.|..x.|..x.n.|..x.ll.
+ stem: ..x.l.|.x.|..x.n.|.x.ll.
  gramm: V
  root: ʔxl
  stamm: I
- paradigm: V_I_3l
+ paradigm: to_eat
  trans_de: 1) essen; 2) (axile ruḥe) er verzehrte sich im Affekt, er wurde innerlich wütend; 3) (l-i=emo axila yalda, u=waldayḏa) es gab einen grossen Trubel, ein grosses Gedränge, Streit; 4) (axile qarʕe d-u=babo) er hat den Vater ins Grab gebracht (so sagt man etwa von einem Unglückskind, das gerade geboren wurde, als der Vater starb); 5) (k-oxəl aʕle) er passt für ihn, er verdient; er ist wert; 6) Lebensunterhalt bekommen; 7) verzehren, für das Essen ausgeben (съесть, проесть деньги, т.е. потратить их на еду)
  trans_en: to eat
 

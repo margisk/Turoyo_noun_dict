@@ -696,3 +696,13 @@
   gramm: imv,sg
  -flex: <3>.a.u//<0>.a.e.u
   gramm: imv,pl
+
+ # Imperative with suffixes
+ -flex: <0>.a.a.li//<4>.a.a.li
+  gramm: imv,sg,1.d,sg.d
+ -flex: <0>.a.a.le//<4>.a.a.le
+  gramm: imv,sg,3.d,sg.d,m.d
+ -flex: <0>.a.a.la//<4>.a.a.la
+  gramm: imv,sg,3.d,sg.d,f.d
+ -flex: <0>.a.a.lan//<4>.a.a.lan
+  gramm: imv,sg,1.d,pl.d

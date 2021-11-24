@@ -20942,7 +20942,7 @@
  trans_en: paper
 -lexeme
  lex: kal
- stem: kal.//kəl.//kəll.//kl.
+ stem: kal.//kəl.//kəll.//kl.//kil.
  root: kl
  gramm: PRTCL
  paradigm: PRTCL_1
@@ -30789,6 +30789,14 @@
  trans_de: Gottesgabe
  trans_en: God's gift
 -lexeme
+ lex: nəč
+ stem: nəč.
+ root: nč
+ gramm: PRTCL
+ paradigm: unchangeable
+ trans_de:
+ trans_en: not at all
+-lexeme
  lex: nəčnəč
  stem: nəčnəč.|UNKNOWN.
  root: nčnč
@@ -37891,7 +37899,15 @@
  gramm: prn,refl
  paradigm: PRTCL_REFL
  trans_de: [?]
- trans_en:
+ trans_en: oneself, him-/her-/itself
+-lexeme
+ lex: ruḥonoyo
+ stem: ruḥonoyo.//ruḥonoy.|ruḥonoye.//ruḥonoy.
+ root: rwḥ
+ gramm: ADJ
+ paradigm: N2
+ trans_de:
+ trans_en: spiritual
 -lexeme
  lex: ruḥqo
  stem: ruḥqo.//ruḥq.
@@ -39069,13 +39085,13 @@
  trans_de: Geehrter
  trans_en: honoured
 -lexeme
- lex: sayfo
- stem: sayfo.//sayf.|sayfe.//sayf.
+ lex: sayfo/Sayfo
+ stem: sayfo.//sayf.//Sayfo.//Sayf.|sayfe.//sayf.//Sayfe.//Sayf.
  root: syf
  gramm: N,m
  paradigm: N2
  trans_de: Schwert; Gemetzel; Handhabe des Hakenpfluges. Hat oben ein Querholz und steckt mit dem unteren Ende in der Pflugschar (sakṯo)
- trans_en: sword; slaughter; hook plow handle. Has a crossbeam at the top and sticks with the lower end in the plowshare (sakṯo)
+ trans_en: sword; slaughter, genocide; hook plow handle
 -lexeme
  lex: sayran
  stem: sayran.|UNKNOWN.
@@ -39444,6 +39460,14 @@
  paradigm: N2
  trans_de: Ohrfeige
  trans_en: slap
+-lexeme
+ lex: səlo/Səlo
+ stem: səlo.//Səlo.
+ root: sl
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: male name, short form of Slayman
 -lexeme
  lex: səlteniye
  stem: səlteniye.//səlteniy.
@@ -51652,6 +51676,14 @@
  paradigm: N2
  trans_de: Furcht, Angst
  trans_en: fear, dread
+-lexeme
+ lex: zumoro
+ stem: zumoro.//zumor.|zumore.//zumor.
+ root: zmr
+ gramm: N,m
+ paradigm: N2
+ trans_de:
+ trans_en: singer
 -lexeme
  lex: zuqqum
  stem: zuqqum.
