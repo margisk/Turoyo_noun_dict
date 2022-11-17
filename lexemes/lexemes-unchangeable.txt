@@ -8,6 +8,15 @@
  trans_en: the
 
 -lexeme
+ lex: u
+ stem: u.
+ root: ʔ
+ gramm: art,sg,m
+ paradigm: unchangeable
+ trans_de: der
+ trans_en: the
+
+-lexeme
  lex: a
  stem: a.
  root: ʔ
