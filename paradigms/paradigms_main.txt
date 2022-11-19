@@ -96,7 +96,7 @@
 
 -paradigm: V_I
  # Present
- -flex: <0><.>.o.ə.
+ -flex: <0><.>.o.ə.//<0><.>.o.a.
   gramm: prs_stem,3,sg,m
   paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..ət//<0><.>.u..ət//<0><.>.ə..at//<0><.>.u..at
