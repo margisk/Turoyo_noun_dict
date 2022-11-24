@@ -183,8 +183,8 @@
  trans_de: Qual, Quälerei
  trans_en: torture, pain, suffering
 -lexeme
- lex: ʕaḏ̣im
- stem: ʕaḏ̣im
+ lex: ʕaẓim
+ stem: ʕaẓim
  root: ʕḏm
  gramm: ADJ
  paradigm: unchangeable
@@ -1024,7 +1024,7 @@
  trans_en: flat plane, ground; go to hell (bin ʕard, bin ʕardo, bin ʕarde)
 -lexeme
  lex: ʕarḏali
- stem: ʕarḏali.//ʕarḏ̣ali.
+ stem: ʕarḏali.//ʕarẓali.
  root: ʕrḏl
  gramm: ADJ
  paradigm: unchangeable
@@ -1104,7 +1104,7 @@
  trans_en: concubine
 -lexeme
  lex: ʕarz
- stem: ʕarz.//ʕarḏ̣.//ʕərḏ̣
+ stem: ʕarz.//ʕarẓ.//ʕərẓ
  root: ʕrḍ
  gramm: N,m
  paradigm: unchangeable
@@ -1367,8 +1367,8 @@
  trans_de: Bummler, ohne Beschäftigung
  trans_en: idler
 -lexeme
- lex: ʕawḏ̣iye
- stem: ʕawḏ̣iye.//ʕawḏiye.//iy.//ʕawḏiy.|ʕawḏ̣iyat.//ʕawḏiyat.//iy.//ʕawḏiy.
+ lex: ʕawẓiye
+ stem: ʕawẓiye.//ʕawḏiye.//iy.//ʕawḏiy.|ʕawẓiyat.//ʕawḏiyat.//iy.//ʕawḏiy.
  root: ʕwḍ
  gramm: N,f
  paradigm: N2
@@ -2703,9 +2703,9 @@
  trans_de: dieses Mal
  trans_en: this time
 -lexeme
- lex: aḏ̣rab
- stem: aḏ̣rab.
- root: ḏ̣rb
+ lex: aẓrab
+ stem: aẓrab.
+ root: ẓrb
  gramm: ADJ
  paradigm: unchangeable
  trans_de: tüchtiger, stärker, tüchtiger im Lernen
@@ -2759,9 +2759,9 @@
  trans_de: unzüchtiger
  trans_en: lewder
 -lexeme
- lex: afraḏ̣
- stem: afraḏ̣.
- root: frḏ̣
+ lex: afraẓ
+ stem: afraẓ.
+ root: frẓ
  gramm: ADJ
  paradigm: unchangeable
  trans_de: dem Rechte nach näher stened
@@ -3254,9 +3254,9 @@
  trans_de:
  trans_en: America
 -lexeme
- lex: amḏ̣a/imḏ̣a
- stem: amḏ̣a.//imḏ̣a.//.//.|amḏ̣at.//imḏ̣at.//.//.
- root: mḏ̣y
+ lex: amẓa/imẓa
+ stem: amẓa.//imẓa.//.//.|amẓat.//imẓat.//.//.
+ root: mẓy
  gramm: N,f
  paradigm: N2
  trans_de: Unterschrift
@@ -3558,8 +3558,8 @@
  trans_de:
  trans_en: Arbo (name of a village)
 -lexeme
- lex: arḏ̣iye
- stem: arḏ̣iye.//iy.
+ lex: arẓiye
+ stem: arẓiye.//iy.
  root: rḍy
  gramm: N,f
  paradigm: unchangeable
@@ -5923,8 +5923,8 @@
  root: bxt
  gramm: N,m
  paradigm: unchangeable
- trans_de: Ehrenwort, Ehr und Gewissen, Treu und Glauben; gut Glück (ḥaḏ̣ w baxt)
- trans_en: honest word, honesty and conscience (?); good faith; good luck (ḥaḏ̣ w baxt)
+ trans_de: Ehrenwort, Ehr und Gewissen, Treu und Glauben; gut Glück (ḥaẓ w baxt)
+ trans_en: honest word, honesty and conscience (?); good faith; good luck (ḥaẓ w baxt)
 -lexeme
  lex: baxyo
  stem: baxyo.//baxy.|UNKNOWN.
@@ -6166,9 +6166,9 @@
  trans_de: guter, stattlicher Wuchs, gut aussehend
  trans_en: (?)
 -lexeme
- lex: bḏ̣aʕa
- stem: bḏ̣aʕa.//aʕ.|UNKNOWN.
- root: bḏ̣ʕ
+ lex: bẓaʕa
+ stem: bẓaʕa.//aʕ.|UNKNOWN.
+ root: bẓʕ
  gramm: N,f
  paradigm: N2
  trans_de: Ware
@@ -9349,8 +9349,8 @@
  trans_de: spät
  trans_en: late
 -lexeme
- lex: darbo/ḏ̣arbo
- stem: darbo.//ḏ̣arbo.//ḍarbo.//darb.//arb.//ḍarb.|darbat.//ḏ̣arbat.//ḍarbat.//darb.//arb.//ḍarb.
+ lex: darbo/ẓarbo
+ stem: darbo.//ẓarbo.//ḍarbo.//darb.//arb.//ḍarb.|darbat.//ẓarbat.//ḍarbat.//darb.//arb.//ḍarb.
  root: ḍrb
  gramm: N,f
  paradigm: N2_lim
@@ -11013,136 +11013,136 @@
  trans_de: elender, niedriger Zustand
  trans_en: miserable condition
 -lexeme
- lex: ḏ̣aʕif/ḏaʕif/zaʕif/daʕif
- stem: ḏ̣aʕif.//ḏaʕif.//zaʕif.//daʕif.//ḍaʕif.
- root: ḏʕf/ḏ̣ʕf/zʕf
+ lex: ẓaʕif/ḏaʕif/zaʕif/daʕif
+ stem: ẓaʕif.//ḏaʕif.//zaʕif.//daʕif.//ḍaʕif.
+ root: ḏʕf/ẓʕf/zʕf
  gramm: ADJ
  paradigm: unchangeable
  trans_de: abgemagert, schwach
  trans_en: thin, emaciated, weak
 -lexeme
- lex: ḏ̣abʕo/ḏabʕo
- stem: ḏ̣abʕo.//ḏabʕo.//abʕ.//ḏabʕ.|ḏ̣abʕe.//ḏabʕe.//abʕ.//ḏabʕ.
- root: ḏ̣bʕ/ḏbʕ
+ lex: ẓabʕo/ḏabʕo
+ stem: ẓabʕo.//ḏabʕo.//abʕ.//ḏabʕ.|ẓabʕe.//ḏabʕe.//abʕ.//ḏabʕ.
+ root: ẓbʕ/ḏbʕ
  gramm: N,f
  paradigm: N2
  trans_de: Hyäne
  trans_en: hyena
 -lexeme
- lex: ḏ̣abəṭ/ḏabəṭ/ḏabət/zabəṭ
- stem: ḏ̣abəṭ.//ḏabəṭ.//ḏabət.//zabəṭ.|ḏ̣əbbat.//ḏəbbaṭ.//ḏəbbat.//zəbbaṭ//ḏ̣abəṭe.//ḏabəṭe.//ḏabəte.//zabəṭe.//əbb.//ḏəbb.//abəṭ.//ḏabəṭ.//ḏabət.//zabəṭ.
+ lex: ẓabəṭ/ḏabəṭ/ḏabət/zabəṭ
+ stem: ẓabəṭ.//ḏabəṭ.//ḏabət.//zabəṭ.|ẓəbbat.//ḏəbbaṭ.//ḏəbbat.//zəbbaṭ//ẓabəṭe.//ḏabəṭe.//ḏabəte.//zabəṭe.//əbb.//ḏəbb.//abəṭ.//ḏabəṭ.//ḏabət.//zabəṭ.
  root: ḍbṭ
  gramm: N,m
  paradigm: N2
  trans_de: Offizier
  trans_en: officer
 -lexeme
- lex: ḏ̣abṭi/ḏabṭi/zabṭi
- stem: ḏ̣abṭi.//ḏabṭi.//zabṭi.//abṭ.//ḏabṭ.//zabṭ.|ḏ̣abṭiye.//ḏabṭiye.//zabṭiye.//abṭiy.//ḏabṭiy.//zabṭiy.
- root: ḏ̣bṭ/ḏbṭ/zbṭ
+ lex: ẓabṭi/ḏabṭi/zabṭi
+ stem: ẓabṭi.//ḏabṭi.//zabṭi.//abṭ.//ḏabṭ.//zabṭ.|ẓabṭiye.//ḏabṭiye.//zabṭiye.//abṭiy.//ḏabṭiy.//zabṭiy.
+ root: ẓbṭ/ḏbṭ/zbṭ
  gramm: N,m
  paradigm: N2
  trans_de: Gendarm
  trans_en: gendarme
 -lexeme
- lex: ḏ̣ayfuṯo/ḏayfuṯo
- stem: ḏ̣ayfuṯo.//ḏayfuṯo.//ayfuṯ.//ḏayfuṯ.
- root: ḏ̣yf/ḏyf
+ lex: ẓayfuṯo/ḏayfuṯo
+ stem: ẓayfuṯo.//ḏayfuṯo.//ayfuṯ.//ḏayfuṯ.
+ root: ẓyf/ḏyf
  gramm: N,f
  paradigm: unchangeable
  trans_de: zu Gast sein
  trans_en: be on a visit
 -lexeme
- lex: ḏayfo/ḏ̣ayfo/ḍayfo
- stem: ḏayfo.//ḏ̣ayfo.//ḏayf.//ḍayf//ayf.|ḏayfe.//ḏ̣ayfe.//ḏayf.//ḍayf.//ayf.
- root: ḏ̣yf/ḏyf/ḍyf
+ lex: ḏayfo/ẓayfo/ḍayfo
+ stem: ḏayfo.//ẓayfo.//ḏayf.//ḍayf//ayf.|ḏayfe.//ẓayfe.//ḏayf.//ḍayf.//ayf.
+ root: ẓyf/ḏyf/ḍyf
  gramm: N,m
  paradigm: N2
  trans_de: Gast
  trans_en: guest
 -lexeme
- lex: ḏ̣aman/ḏaman
- stem: ḏ̣aman.//ḏaman.|UNKNOWN.
+ lex: ẓaman/ḏaman
+ stem: ẓaman.//ḏaman.|UNKNOWN.
  root: ḍmn
  gramm: N,m
  paradigm: N2
  trans_de: Garantie
  trans_en: guaranty
 -lexeme
- lex: ḏ̣amir/ḏamir
- stem: ḏ̣amir.//ḏamir.
- root: ḏ̣mr/ḏmr
+ lex: ẓamir/ḏamir
+ stem: ẓamir.//ḏamir.
+ root: ẓmr/ḏmr
  gramm: N,m
  paradigm: unchangeable
  trans_de: Gewissen, Gemüt
  trans_en: conscience; temper
 -lexeme
- lex: ḏ̣arbo/ḏ̣arbo
- stem: ḏ̣arbo.//ḏarbo.//arb.//ḏarb.|ḏ̣arbe.//ḏarbe.//ḏ̣arbat.//ḏarbat.//arb.//ḏarb.//arb.//ḏarb.
- root: ḏrb/ḏ̣rb
+ lex: ẓarbo/ẓarbo
+ stem: ẓarbo.//ḏarbo.//arb.//ḏarb.|ẓarbe.//ḏarbe.//ẓarbat.//ḏarbat.//arb.//ḏarb.//arb.//ḏarb.
+ root: ḏrb/ẓrb
  gramm: N,f
  paradigm: N2
  trans_de: Schlag, Streich
  trans_en: strike, hit
 -lexeme
- lex: ḏ̣arar/ḏarar
- stem: ḏ̣arar.//ḏarar.
- root: ḏ̣rr/ḏrr
+ lex: ẓarar/ḏarar
+ stem: ẓarar.//ḏarar.
+ root: ẓrr/ḏrr
  gramm: N,m
  paradigm: unchangeable
  trans_de: Schaden
  trans_en: damage
 -lexeme
- lex: ḏ̣aruri/ḏ̣ruri/ḏaruri/ḏruri
- stem: ḏ̣aruri.//ḏ̣ruri.//ḏaruri.//ḏruri.
+ lex: ẓaruri/ẓruri/ḏaruri/ḏruri
+ stem: ẓaruri.//ẓruri.//ḏaruri.//ḏruri.
  root: ḍrr
  gramm: ADJ
  paradigm: unchangeable
  trans_de: notwendig
  trans_en: necessary
 -lexeme
- lex: ḏ̣iʕan/ḏiʕan
- stem: ḏ̣iʕan.//ḏiʕan.//diʕan.
- root: ḏ̣ʕn/ḏʕn
+ lex: ẓiʕan/ḏiʕan
+ stem: ẓiʕan.//ḏiʕan.//diʕan.
+ root: ẓʕn/ḏʕn
  gramm: [?]
  paradigm: unchangeable
  trans_de: schade um
  trans_en: [?]
 -lexeme
- lex: ḏ̣əlmiye/ḏəlmiye/ḏ̣ulmiye/ḏulmiye
- stem: ḏ̣əlmiye.//ḏəlmiye.//ḏulmiye.//ḏ̣ulmiye.//əlmiy.//ḏəlmiy.//ḏulmiy.//ulmiy.|UNKNOWN.
- root: ḏ̣lm/ḏlm
+ lex: ẓəlmiye/ḏəlmiye/ẓulmiye/ḏulmiye
+ stem: ẓəlmiye.//ḏəlmiye.//ḏulmiye.//ẓulmiye.//əlmiy.//ḏəlmiy.//ḏulmiy.//ulmiy.|UNKNOWN.
+ root: ẓlm/ḏlm
  gramm: N,f
  paradigm: N2
  trans_de: Tyrannei, Unterdrückung
  trans_en: tyranny, oppression
 -lexeme
- lex: ḏ̣iqa/ḏiqa
- stem: ḏ̣iqa.//ḏiqa.//iq.//ḏiq.|UNKNOWN.
+ lex: ẓiqa/ḏiqa
+ stem: ẓiqa.//ḏiqa.//iq.//ḏiq.|UNKNOWN.
  root: ḍyq
  gramm: N,f
  paradigm: N2
  trans_de: Bedrängnis, Not
  trans_en: distress, need
 -lexeme
- lex: ḏ̣limo/ḏlimo
- stem: ḏ̣limo.//ḏlimo.|ḏ̣lime.//ḏlime.
+ lex: ẓlimo/ḏlimo
+ stem: ẓlimo.//ḏlimo.|ẓlime.//ḏlime.
  root: ẓlm
  gramm: ADJ
  paradigm: N2
  trans_de: dem Unrecht geschehen ist
  trans_en: to whom an injustice happened
 -lexeme
- lex: ḏ̣lomo/ḏlomo
- stem: ḏ̣lomo.//ḏlomo.//lom.//ḏlom.
+ lex: ẓlomo/ḏlomo
+ stem: ẓlomo.//ḏlomo.//lom.//ḏlom.
  root: ẓlm
  gramm: N,m
  paradigm: unchangeable
  trans_de: Grausamkeit
  trans_en: cruelty
 -lexeme
- lex: ḏ̣olumo/ḏ̣əlumo/ḏ̣lumo/ḏ̣ulumo/ḏolumo/ḏəlumo/ḏlumo/ḏulumo
- stem: ḏ̣olumo.//ḏ̣əlumo.//ḏ̣lumo.//ḏ̣ulumo.//ḏolumo.//ḏəlumo.//ḏlumo.//ḏulumo.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.|ḏ̣olume.//ḏ̣əlume.//ḏ̣lume.//ḏ̣ulume.//ḏolume.//ḏəlume.//ḏlume.//ḏulume.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.
+ lex: ẓolumo/ẓəlumo/ẓlumo/ẓulumo/ḏolumo/ḏəlumo/ḏlumo/ḏulumo
+ stem: ẓolumo.//ẓəlumo.//ẓlumo.//ẓulumo.//ḏolumo.//ḏəlumo.//ḏlumo.//ḏulumo.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.|ẓolume.//ẓəlume.//ẓlume.//ẓulume.//ḏolume.//ḏəlume.//ḏlume.//ḏulume.//ḏolum.//ḏəlum.//ḏlum.//ḏulum.
  root: ẓlm
  gramm: N,m
  paradigm: N2
@@ -11501,32 +11501,32 @@
  trans_de: Ochsengespann; die Fläche, die ein Ochsengespann auf einmal, an einem Tage durchackert, Tagwerk
  trans_en: team of oxen; space which one team of oxen plows at one go, during a single day; one day's work
 -lexeme
- lex: faḏ̣a/faḏa/feza
- stem: faḏ̣a.//faḏa.//feza.//.//faḏ.//fez.|UNKNOWN.
+ lex: faẓa/faḏa/feza
+ stem: faẓa.//faḏa.//feza.//.//faḏ.//fez.|UNKNOWN.
  root: fḍw
  gramm: N
  paradigm: N2
  trans_de: Weltraum
  trans_en: space
 -lexeme
- lex: faḏ̣iḥa
- stem: faḏ̣iḥa.//faḏiḥa.//iḥ.//faḏiḥ.|faḏ̣aʔəḥ.//faḏ̣ayəḥ.//faḏaʔəḥ.//faḏayəḥ.
+ lex: faẓiḥa
+ stem: faẓiḥa.//faḏiḥa.//iḥ.//faḏiḥ.|faẓaʔəḥ.//faẓayəḥ.//faḏaʔəḥ.//faḏayəḥ.
  root: fḍḥ
  gramm: N,f
  paradigm: N2
  trans_de: Schande
  trans_en: shame
 -lexeme
- lex: faḏ̣əl/faḏəl
- stem: faḏ̣əl.//faḏəl.|faḏ̣ayəl.//faḏayəl.
+ lex: faẓəl/faḏəl
+ stem: faẓəl.//faḏəl.|faẓayəl.//faḏayəl.
  root: fḏl
  gramm: ADJ
  paradigm: N2
  trans_de: wundertätig (Heiligengrab)
  trans_en: virtuous, decent, miracle-working (grave of a saint)
 -lexeme
- lex: faḏ̣əl/faḏəl
- stem: faḏ̣əl.//faḏəl.//faḏ̣l.//faḏl.|faḏayəl.//faḏ̣ayəl.//faḏ̣aʔəl.//faḏaʔəl.
+ lex: faẓəl/faḏəl
+ stem: faẓəl.//faḏəl.//faẓl.//faḏl.|faḏayəl.//faẓayəl.//faẓaʔəl.//faḏaʔəl.
  root: fḍl
  gramm: N,m
  paradigm: N2
@@ -13013,9 +13013,9 @@
  trans_de: Zuckermelone, Honigmelone
  trans_en: melon
 -lexeme
- lex: fuḏ̣uli/fuḏuli/fəḏ̣uli/fəḏuli
- stem: fuḏ̣ulo.//fuḏuli.//fəḏ̣uli.//fəḏuli.//ul.//fuḏul.//ul.//fəḏul.
- root: fḏ̣l/fḏl
+ lex: fuẓuli/fuḏuli/fəẓuli/fəḏuli
+ stem: fuẓulo.//fuḏuli.//fəẓuli.//fəḏuli.//ul.//fuḏul.//ul.//fəḏul.
+ root: fẓl/fḏl
  gramm: N
  paradigm: unchangeable
  trans_de: überflüssiges Tun
@@ -14613,9 +14613,9 @@
  trans_de: tödlich
  trans_en: deadly
 -lexeme
- lex: ġaḏ̣ab/ġaḏab
- stem: ġaḏ̣ab.//ġaḏab.|ġaḏ̣abat.//ġaḏabat.//ab.//ġaḏab.
- root: ġḏ̣b/ġḏb
+ lex: ġaẓab/ġaḏab
+ stem: ġaẓab.//ġaḏab.|ġaẓabat.//ġaḏabat.//ab.//ġaḏab.
+ root: ġẓb/ġḏb
  gramm: N,m
  paradigm: N2
  trans_de: Zorn, Grimm
@@ -17933,41 +17933,41 @@
  trans_de: Schmied
  trans_en: blacksmith
 -lexeme
- lex: ḥaḏ̣
- stem: ḥaḏ̣
- root: ḥḏ̣
+ lex: ḥaẓ
+ stem: ḥaẓ
+ root: ḥẓ
  gramm: N,m
  paradigm: unchangeable
- trans_de: gut Glück (ḥaḏ̣ w baxt)
- trans_en: good luck (ḥaḏ̣ w baxt)
+ trans_de: gut Glück (ḥaẓ w baxt)
+ trans_en: good luck (ḥaẓ w baxt)
 -lexeme
- lex: ḥaḏ̣aʔər/ḥaḏ̣ayər/ḥaḏaʔər/ḥaḏayər
- stem: ḥaḏ̣aʔər.//ḥaḏ̣ayər.//ḥaḏaʔər.//ḥaḏayər.|UNKNOWN.
- root: ḥḏ̣r/ḥḏr
+ lex: ḥaẓaʔər/ḥaẓayər/ḥaḏaʔər/ḥaḏayər
+ stem: ḥaẓaʔər.//ḥaẓayər.//ḥaḏaʔər.//ḥaḏayər.|UNKNOWN.
+ root: ḥẓr/ḥḏr
  gramm: N,pl
  paradigm: N2
  trans_de: Anwesende
  trans_en: present
 -lexeme
- lex: ḥaḏ̣ar/ḥaḏar
- stem: ḥaḏ̣ar.//ḥaḏar.|UNKNOWN.
- root: ḥḏ̣r/ḥḏr
+ lex: ḥaẓar/ḥaḏar
+ stem: ḥaẓar.//ḥaḏar.|UNKNOWN.
+ root: ḥẓr/ḥḏr
  gramm: N,pl
  paradigm: N2
  trans_de: Anwesende
  trans_en: present
 -lexeme
- lex: ḥaḏ̣ər/ḥaḏər
- stem: ḥaḏ̣ər.//ḥaḏər.|ḥəḏ̣ḏ̣ar.//ḥəḏḏar.
- root: ḥḏ̣r/ḥḏr
+ lex: ḥaẓər/ḥaḏər
+ stem: ḥaẓər.//ḥaḏər.|ḥəẓẓar.//ḥəḏḏar.
+ root: ḥẓr/ḥḏr
  gramm: N,m
  paradigm: N2
  trans_de: zugegen, anwesend
  trans_en: present
 -lexeme
- lex: ḥaḏiro/ḥaḏ̣iro
- stem: ḥaḏ̣iro.//ḥaḏiro.//ḥaḏ̣ir.//ḥaḏir.|ḥaḏ̣ərto.//ḥaḏərto.//ḥaḏ̣ərt.//ḥaḏərt.|ḥaḏ̣ire.//ḥaḏire.//ḥaḏ̣ir.//ḥaḏir.
- root: ḥḏr/ḥḏ̣r
+ lex: ḥaḏiro/ḥaẓiro
+ stem: ḥaẓiro.//ḥaḏiro.//ḥaẓir.//ḥaḏir.|ḥaẓərto.//ḥaḏərto.//ḥaẓərt.//ḥaḏərt.|ḥaẓire.//ḥaḏire.//ḥaẓir.//ḥaḏir.
+ root: ḥḏr/ḥẓr
  gramm: ADJ
  paradigm: N_mf
  trans_de: anwesend
@@ -19381,9 +19381,9 @@
  trans_de: dünner Pfeffer
  trans_en: slim pepper
 -lexeme
- lex: ḥəḏ̣ur/ḥuḏ̣ur
- stem: ḥəḏ̣ur.//ḥəḏur.//ḥuḏ̣ur.//ḥuḏur.
- root: ḥḏ̣r/ḥḏr
+ lex: ḥəẓur/ḥuẓur
+ stem: ḥəẓur.//ḥəḏur.//ḥuẓur.//ḥuḏur.
+ root: ḥẓr/ḥḏr
  gramm: N
  paradigm: unchangeable
  trans_de: Gegenwart
@@ -19762,8 +19762,8 @@
  root: ḥsn
  gramm: N
  paradigm: unchangeable
- trans_de: im Guten, auf freundliche Weise (b ḥəsn w rəḏ̣ḏ̣a)
- trans_en: amicably, in a friendly manner (b ḥəsn w rəḏ̣ḏ̣a)
+ trans_de: im Guten, auf freundliche Weise (b ḥəsn w rəẓẓa)
+ trans_en: amicably, in a friendly manner (b ḥəsn w rəẓẓa)
 -lexeme
  lex: ḥəssasiye
  stem: ḥəssasiye.//ḥəssasiy.
@@ -20029,8 +20029,8 @@
  trans_de: Mitgefühl, Zärtlichkeit
  trans_en: compassion, tenderness
 -lexeme
- lex: ḥoḏ̣uro/ḥoḏuro
- stem: ḥoḏ̣uro.//ḥoḏuro.//ur.//ḥoḏur.|ḥoḏ̣ure.//ḥoḏure.//ur.//ḥoḏur.
+ lex: ḥoẓuro/ḥoḏuro
+ stem: ḥoẓuro.//ḥoḏuro.//ur.//ḥoḏur.|ḥoẓure.//ḥoḏure.//ur.//ḥoḏur.
  root: ḥḍr
  gramm: N,m
  paradigm: N2
@@ -20549,8 +20549,8 @@
  trans_de: Glauben; Eid
  trans_en: belief; oath
 -lexeme
- lex: imḏ̣a/imḏa/amḏ̣a/amḏa
- stem: imḏ̣a.//imḏa.//amḏ̣a.//amḏa.//əmḏ̣a.//əmḏa.//.//imḏ.//.//amḏ.//.//əmḏ.|imḏ̣at.//imḏat.//amḏ̣at.//amḏ̣at.//əmḏ̣at.//əmḏat.//.//imḏ.//.//.//.//əmḏ.
+ lex: imẓa/imḏa/amẓa/amḏa
+ stem: imẓa.//imḏa.//amẓa.//amḏa.//əmẓa.//əmḏa.//.//imḏ.//.//amḏ.//.//əmḏ.|imẓat.//imḏat.//amẓat.//amẓat.//əmẓat.//əmḏat.//.//imḏ.//.//.//.//əmḏ.
  root: mḍʔ
  gramm: N,f
  paradigm: N2
@@ -24429,9 +24429,9 @@
  trans_de: Fingerspitze voll
  trans_en: pinch
 -lexeme
- lex: ləvḏ̣/ləvz
- stem: ləvḏ̣.//ləvz.
- root: lvḏ̣/lvz
+ lex: ləvẓ/ləvz
+ stem: ləvẓ.//ləvz.
+ root: lvẓ/lvz
  gramm: N
  paradigm: unchangeable
  trans_de: [?]
@@ -25181,16 +25181,16 @@
  trans_de:
  trans_en: knowledge; facts
 -lexeme
- lex: maḏ̣baṭa
- stem: maḏ̣baṭa.//maḏbaṭa.//mazbaṭa.//mazbaṭiye.//baṭ.//maḏbaṭ.//mazbaṭ.//mazbaṭiy.|maḏ̣baṭat.//maḏbaṭat.//mazbaṭat.//baṭ.//maḏbaṭ.//mazbaṭ.
+ lex: maẓbaṭa
+ stem: maẓbaṭa.//maḏbaṭa.//mazbaṭa.//mazbaṭiye.//baṭ.//maḏbaṭ.//mazbaṭ.//mazbaṭiy.|maẓbaṭat.//maḏbaṭat.//mazbaṭat.//baṭ.//maḏbaṭ.//mazbaṭ.
  root: ḍbṭ
  gramm: N,f
  paradigm: N2
  trans_de: Urkunde mit mehreren Unterschriften
  trans_en: document with a few signatures
 -lexeme
- lex: maḏ̣buṭ
- stem: maḏ̣buṭ.//maḏbuṭ.
+ lex: maẓbuṭ
+ stem: maẓbuṭ.//maḏbuṭ.
  root: ḍbṭ
  gramm: ADJ
  paradigm: unchangeable
@@ -25517,9 +25517,9 @@
  trans_de: Grube, Ausgrabung
  trans_en: pit; excavation
 -lexeme
- lex: maḥfuḏ̣/maḥfuḏ
- stem: maḥfuḏ̣.//maḥfuḏ.
- root: ḥfḏ̣/ḥfḏ
+ lex: maḥfuẓ/maḥfuḏ
+ stem: maḥfuẓ.//maḥfuḏ.
+ root: ḥfẓ/ḥfḏ
  gramm: ADJ
  paradigm: unchangeable
  trans_de: wohlbewahrt
@@ -27741,8 +27741,8 @@
  trans_de: Mann aus Miḏyad
  trans_en: person from Midyat
 -lexeme
- lex: məḏ̣ḏ̣ara/məḏḏara
- stem: məḏ̣ḏ̣ara.//məḏḏara.//ar.//məḏḏar.|məḏ̣ḏ̣arat.//məḏḏarat.//ar.//məḏḏar.
+ lex: məẓẓara/məḏḏara
+ stem: məẓẓara.//məḏḏara.//ar.//məḏḏar.|məẓẓarat.//məḏḏarat.//ar.//məḏḏar.
  root: mḍr
  gramm: N,f
  paradigm: N2
@@ -29501,8 +29501,8 @@
  trans_de: was?
  trans_en: what?
 -lexeme
- lex: muntaḏ̣am/muntaḏam
- stem: muntaḏam.//muntaḏ̣am.
+ lex: muntaẓam/muntaḏam
+ stem: muntaḏam.//muntaẓam.
  root: nẓm
  gramm: ADJ
  paradigm: unchangeable
@@ -29933,25 +29933,25 @@
  trans_de: Gelübde
  trans_en: promise, pledge
 -lexeme
- lex: naḏafa/naḏ̣afa
- stem: naḏafa.//naḏ̣afa.//naḏaf.//af.
+ lex: naḏafa/naẓafa
+ stem: naḏafa.//naẓafa.//naḏaf.//af.
  root: nẓf
  gramm: N,f
  paradigm: unchangeable
  trans_de: Sauberkeit
  trans_en: cleanness
 -lexeme
- lex: naḏar/naḏ̣ar
- stem: naḏar.//naḏ̣ar.
+ lex: naḏar/naẓar
+ stem: naḏar.//naẓar.
  root: nẓr
  gramm: N,m
  paradigm: unchangeable
  trans_de: Sehkraft
  trans_en: vision, sight
 -lexeme
- lex: naḏifo/naḏ̣ifo
- stem: naḏifo.//naḏ̣ifo.//naḏ̣if.//naḏif.|naḏ̣əfto.//naḏəfto.//naḏ̣əft.//naḏəft.|naḏ̣ife.//naḏife.//naḏ̣if.//naḏif.
- root: nḏ̣f
+ lex: naḏifo/naẓifo
+ stem: naḏifo.//naẓifo.//naẓif.//naḏif.|naẓəfto.//naḏəfto.//naẓəft.//naḏəft.|naẓife.//naḏife.//naẓif.//naḏif.
+ root: nẓf
  gramm: N
  paradigm: N_mf
  trans_de: sauber, rein
@@ -31261,8 +31261,8 @@
  trans_de: Belagerung
  trans_en: siege
 -lexeme
- lex: nifaḏa/nifaḏ̣a
- stem: nifaḏa.//nifaḏ̣a.//nifaḏ.//.|nifaḏat.//nifaḏ̣at.//nifaḏ.//.
+ lex: nifaḏa/nifaẓa
+ stem: nifaḏa.//nifaẓa.//nifaḏ.//.|nifaḏat.//nifaẓat.//nifaḏ.//.
  root: nfḍ
  gramm: N,f
  paradigm: N2
@@ -33605,33 +33605,33 @@
  trans_de: der Heilige Geist (ruḥo qadəšto)
  trans_en: the Holy Spirit (ruḥo qadəšto)
 -lexeme
- lex: qaḏ̣a/qaḏa
- stem: qaḏ̣a.//qaḏa.//.//qaḏ.|qaḏ̣awat.//qaḏawat.//aw.//qaḏaw.
+ lex: qaẓa/qaḏa
+ stem: qaẓa.//qaḏa.//.//qaḏ.|qaẓawat.//qaḏawat.//aw.//qaḏaw.
  root: qḍy
  gramm: N,m
  paradigm: N2
  trans_de: Kreis(stadt)
  trans_en: district town
 -lexeme
- lex: qaḏ̣ame/qaḏame
- stem: qaḏ̣ame.//qaḏame.//am.//qaḏam.
+ lex: qaẓame/qaḏame
+ stem: qaẓame.//qaḏame.//am.//qaḏam.
  root: qḍm
  gramm: N,f
  paradigm: unchangeable
  trans_de: aus Kichererbsen gemachtes Gericht mit Schalen
  trans_en: dish made from chick peas, with shells
 -lexeme
- lex: qaḏ̣i/qaḏi/qazi
- stem: qaḏ̣i.//qaḏi.//qazi.//.//qaḏ.//qaz.|UNKNOWN.
- root: qḏ̣y/qḏy
+ lex: qaẓi/qaḏi/qazi
+ stem: qaẓi.//qaḏi.//qazi.//.//qaḏ.//qaz.|UNKNOWN.
+ root: qẓy/qḏy
  gramm: N,m
  paradigm: N2
  trans_de: Richter, Kadi
  trans_en: judge
 -lexeme
- lex: qaḏ̣iye/qaḏiye
- stem: qaḏ̣iye.//qaḏiye.//iy.//qaḏiy.|UNKNOWN.
- root: qḏ̣y/qḏy
+ lex: qaẓiye/qaḏiye
+ stem: qaẓiye.//qaḏiye.//iy.//qaḏiy.|UNKNOWN.
+ root: qẓy/qḏy
  gramm: N,f
  paradigm: N2
  trans_de: Geschehnis, Angelegenheit
@@ -35757,9 +35757,9 @@
  trans_de: grösste Traubenart
  trans_en: the largest type of grapes
 -lexeme
- lex: qoḏ̣e/qoḏe
- stem: qoḏ̣e.//qoḏe.//.//qoḏ.|UNKNOWN.
- root: qḏ̣y/qḏy
+ lex: qoẓe/qoḏe
+ stem: qoẓe.//qoḏe.//.//qoḏ.|UNKNOWN.
+ root: qẓy/qḏy
  gramm: N,m
  paradigm: N2
  trans_de: Richter
@@ -37677,16 +37677,16 @@
  trans_de: zu tausenden, viele Tausend (reb w rəbwoṯo)
  trans_en: in thousands, many thounsands (reb w rəbwoṯo)
 -lexeme
- lex: rəḏ̣a
- stem: rəḏ̣a.//.|UNKNOWN.
+ lex: rəẓa
+ stem: rəẓa.//.|UNKNOWN.
  root: rḍy
  gramm: N,m
  paradigm: N2
  trans_de: Einverständnis, gutes Einvernehmen
  trans_en: agreement, good understanding
 -lexeme
- lex: rəḏ̣a
- stem: rəḏ̣a.
+ lex: rəẓa
+ stem: rəẓa.
  root: rḍy
  gramm: ADJ
  paradigm: unchangeable
@@ -39994,7 +39994,7 @@
  gramm: N,f
  paradigm: N2
  trans_de: etwa 21-25 cm lange Keile, die in die mit dem šawko geschlagene durch einen Strich vorgezeichnete und mit Schutzblechen geschützte Rinne des zu lösenden Steines geschoben werden. Sie werden dann mit einem Großhammer (maḍraba) in den Stein getrieben, bis er sich plötzlich löst
- trans_en: wedges about 21-25 cm long that are pushed with the šawko, marked with a line and ... . Then they are driven into the stone with a big hammer (maḏ̣raba), ...
+ trans_en: wedges about 21-25 cm long that are pushed with the šawko, marked with a line and ... . Then they are driven into the stone with a big hammer (maẓraba), ...
 -lexeme
  lex: sfarglo/sfargilo/sparglo
  stem: sfarglo.//sfargilo.//sparglo.//sfargl.//sfargil.//spargl.|sfargle.//sfargile.//spargle.//sfargl.//sfargil.//spargl.
@@ -40444,8 +40444,8 @@
  trans_de: ungezogener Bengel
  trans_en: naughty rascal
 -lexeme
- lex: staḏ̣/stad
- stem: staḏ̣.//stad.|steḏ̣in.//stedin.
+ lex: staẓ/stad
+ stem: staẓ.//stad.|steẓin.//stedin.
  root: stḍ
  gramm: N,m
  paradigm: N2
@@ -44490,9 +44490,9 @@
  trans_de: Untersuchungspolizei
  trans_en: investigation police
 -lexeme
- lex: taḥḏ̣ir
- stem: taḥḏ̣ir.|UNKNOWN.
- root: ḥḏ̣r
+ lex: taḥẓir
+ stem: taḥẓir.|UNKNOWN.
+ root: ḥẓr
  gramm: N,m
  paradigm: N2
  trans_de: Vorbereitung
@@ -45914,9 +45914,9 @@
  trans_de: Ziege, die auch im 2. oder 3. Jahr nicht geworfen hat (bzad tištire)
  trans_en: goat which did not give birth in her second or third year (bzad tištire)
 -lexeme
- lex: tfaḏ̣ḏ̣al
- stem: tfaḏ̣ḏ̣al.
- root: fḏ̣l
+ lex: tfaẓẓal
+ stem: tfaẓẓal.
+ root: fẓl
  gramm: INTERJ
  paradigm: unchangeable
  trans_de: Bitteschön!
@@ -47905,16 +47905,16 @@
  trans_de: Versprechen, Gelöbnis
  trans_en: promise, pledge
 -lexeme
- lex: waḏ̣ʕiye
- stem: waḏ̣ʕiye.//wazʕiye.//ʕiy.//wazʕiy.|UNKNOWN.
- root: wḏ̣ʕ
+ lex: waẓʕiye
+ stem: waẓʕiye.//wazʕiye.//ʕiy.//wazʕiy.|UNKNOWN.
+ root: wẓʕ
  gramm: N,f
  paradigm: N2
  trans_de: geographische Lage; Lage, Zustand
  trans_en: geographical location; location, condition
 -lexeme
- lex: waḏ̣ifa
- stem: waḏ̣ifa.//if.|waḏ̣ifat.//if.
+ lex: waẓifa
+ stem: waẓifa.//if.|waẓifat.//if.
  root: wḍf
  gramm: N,f
  paradigm: N2
@@ -51537,8 +51537,8 @@
  trans_de: sehr bitter 
  trans_en: very bitter
 -lexeme
- lex: zəlmiye/ḏ̣əlmiye/ḏ̣ulmiye
- stem: zəlmiye.//ḏ̣əlmiye.//ḏ̣ulmiye.//zəlmiy.//əlmiy.//ulmiy.|UNKNOWN.
+ lex: zəlmiye/ẓəlmiye/ẓulmiye
+ stem: zəlmiye.//ẓəlmiye.//ẓulmiye.//zəlmiy.//əlmiy.//ulmiy.|UNKNOWN.
  root: ẓlm
  gramm: N,f
  paradigm: N2
@@ -51849,8 +51849,8 @@
  trans_de: Hahn
  trans_en: rooster
 -lexeme
- lex: zolumo/ḏ̣olumo
- stem: zolumo.//ḏ̣olumo.//zolum.//ḏ̣olum.|zolumto.//ḏ̣olumto.//zolumt.//ḏ̣olumt.|zolume//ḏ̣olume.//zolum.//ḏ̣olum.
+ lex: zolumo/ẓolumo
+ stem: zolumo.//ẓolumo.//zolum.//ẓolum.|zolumto.//ẓolumto.//zolumt.//ẓolumt.|zolume//ẓolume.//zolum.//ẓolum.
  root: ẓlm
  gramm: N
  paradigm: N_mf

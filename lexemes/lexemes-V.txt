@@ -949,20 +949,20 @@
  trans_en: to stay as a guest
 
 -lexeme
- lex: mḏ̣ayafle/mḏ̣ayəf
+ lex: mẓayafle/mẓayəf
  stem: .ḏ.̣.y.|.ḏ.̣.yy.
  gramm: V
- root: ḏ̣yf
+ root: ẓyf
  stamm: II
  paradigm: V_II
  trans_de: dem Gast darreichen, kredenzen
  trans_en: to serve smth.
 
 -lexeme
- lex: maḏ̣əfle/maḏ̣əf
+ lex: maẓəfle/maẓəf
  stem: .ḏ.y.|.ḏ.yy.
  gramm: V
- root: ḏ̣yf
+ root: ẓyf
  stamm: III
  paradigm: V_III_2y
  trans_de: [?]
@@ -1039,10 +1039,10 @@
  trans_en: to abound; to be left over
 
 -lexeme
- lex: mfaḏ̣ele/mfaḏ̣əl
+ lex: mfaẓele/mfaẓəl
  stem: .f.ḏ.̣.|.f.ḏ.|.f.ḏ.n.|.f.ḏ.̣̣.
  gramm: V
- root: fḏ̣l
+ root: fẓl
  stamm: II
  paradigm: V_II_3l
  trans_de: vorziehen; hereinbitten
@@ -1722,7 +1722,7 @@
  lex: fayəd̞/foyəd̞
  stem: .f.y.ʕ.|.f.y.ʕʕ.
  gramm: V
- root: fyḏ̣/pyḏ̣
+ root: fyẓ/pyẓ
  stamm: I
  paradigm: V_I_2y
  trans_de: strömen (Licht)
@@ -2319,7 +2319,7 @@
  trans_en: to ambush
 
 -lexeme
- lex: ġaḏ̣əb/ġod̞əb
+ lex: ġaẓəb/ġod̞əb
  stem: .ġ.d.̞.|.ġ.d.̞̞.
  gramm: V
  root: ġd̞b
@@ -3388,20 +3388,20 @@
  trans_en: to hug
 
 -lexeme
- lex: ḥaḏ̣ər/ḥoḏ̣ər
+ lex: ḥaẓər/ḥoẓər
  stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
  gramm: V
- root: ḥḏ̣r
+ root: ḥẓr
  stamm: I
  paradigm: V_I_3r
  trans_de: sich einstellen, zugegen sein, erscheinen, anwesend sein, bereit werden;
  trans_en: to be present; to be ready; to appear
 
 -lexeme
- lex: mḥaḏ̣alle/mḥaḏ̣ər
+ lex: mḥaẓalle/mḥaẓər
  stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
  gramm: V
- root: ḥḏ̣r
+ root: ḥẓr
  stamm: II
  paradigm: V_II_3r
  trans_de: bereit machen
@@ -3418,10 +3418,10 @@
  trans_en: to protect
 
 -lexeme
- lex: maḥfaḏ̣le/maḥfəḏ̣
+ lex: maḥfaẓle/maḥfəẓ
  stem: .ḥ.f.ḏ.|.ḥ.f.ḏḏ.
  gramm: V
- root: ḥfḏ̣
+ root: ḥfẓ
  stamm: III
  paradigm: V_III
  trans_de: bewahren
@@ -4208,10 +4208,10 @@
  trans_en: to show (tr.); to show oneself; to appear (intr.)
 
 -lexeme
- lex: mḥayḏ̣ər/mḥayḏ̣alle
+ lex: mḥayẓər/mḥayẓalle
  stem: .ḥ.yḏ.̣.|.ḥ.yḏ.l.|.ḥ.yḏ.n.|.ḥ.yḏ.̣̣.
  gramm: V
- root: ḥyḏ̣r
+ root: ḥyẓr
  stamm: Q
  paradigm: V_II_3r
  trans_de: bereitmachen, bereitstellen, zurechtmachen
@@ -5218,10 +5218,10 @@
  trans_en: to daub
 
 -lexeme
- lex: malḏ̣ele/malḏ̣e
+ lex: malẓele/malẓe
  stem: .l.ḏ.̣.|.l.ḏ.
  gramm: V
- root: lḏ̣y
+ root: lẓy
  stamm: III
  paradigm: V_III_3y
  trans_de: leuchten
@@ -5698,10 +5698,10 @@
  trans_en: have no desire
 
 -lexeme
- lex: mḏ̣ele/moḏ̣e
+ lex: mẓele/moẓe
  stem: .m.ḏ.̣.|.m.ḏ.
  gramm: V
- root: mḏ̣y
+ root: mẓy
  stamm: I
  paradigm: V_I_3y
  trans_de: unterschreiben
@@ -6248,50 +6248,50 @@
  trans_en: to vow
 
 -lexeme
- lex: naḏ̣əf/noḏ̣əf
+ lex: naẓəf/noẓəf
  stem: .n.ḏ.̣.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣f
+ root: nẓf
  stamm: I
  paradigm: V_I
  trans_de: sauber werden
  trans_en: to become clean
 
 -lexeme
- lex: mnaḏ̣afle/mnaḏ̣əf
+ lex: mnaẓafle/mnaẓəf
  stem: .n.ḏ.̣.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣f
+ root: nẓf
  stamm: II
  paradigm: V_II
  trans_de: säubern
  trans_en: to clean
 
 -lexeme
- lex: manḏ̣afle/manḏ̣əf
+ lex: manẓafle/manẓəf
  stem: .n.ḏ.̣.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣f
+ root: nẓf
  stamm: III
  paradigm: V_III
  trans_de: säubern
  trans_en: to clean
 
 -lexeme
- lex: naḏ̣ər/noḏ̣ər
+ lex: naẓər/noẓər
  stem: .n.ḏ.̣.|.n.ḏ.l.|.n.ḏ.n.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣r
+ root: nẓr
  stamm: I
  paradigm: V_I_3r
  trans_de: erblicken, sehen, anschauen
  trans_en: to look
 
 -lexeme
- lex: mnaḏ̣ele/mnaḏ̣e
+ lex: mnaẓele/mnaẓe
  stem: .n.ḏ.̣.|.n.ḏ.
  gramm: V
- root: nḏ̣y
+ root: nẓy
  stamm: II
  paradigm: V_II_3y
  trans_de: beten (Muslime); zum Gebet rufen (Muslime)
@@ -7538,20 +7538,20 @@
  trans_en: 
 
 -lexeme
- lex: qaḏ̣i/qoḏ̣e
+ lex: qaẓi/qoẓe
  stem: .q.ḏ.̣.|.q.ḏ.
  gramm: V
- root: qḏ̣y
+ root: qẓy
  stamm: I
  paradigm: V_I_3y
  trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden
  trans_en: to come to an end; to be finished; to pass
 
 -lexeme
- lex: mqaḏ̣ele/mqaḏ̣e
+ lex: mqaẓele/mqaẓe
  stem: .q.ḏ.̣.|.q.ḏ.
  gramm: V
- root: qḏ̣y
+ root: qẓy
  stamm: II
  paradigm: V_II_3y
  trans_de: verbringen
@@ -8418,10 +8418,10 @@
  trans_en: to chain, to shackle; to register; to make a record about smb.
 
 -lexeme
- lex: mqayaḏ̣le/mqayəḏ̣
+ lex: mqayaẓle/mqayəẓ
  stem: .q.y.ḏ.|.q.y.ḏḏ.
  gramm: V
- root: qyḏ̣
+ root: qyẓ
  stamm: II
  paradigm: V_II
  trans_de: tauschen, vertauschen (akk. und b-)
@@ -8638,10 +8638,10 @@
  trans_en: to grow (tr.); to bring up
 
 -lexeme
- lex: raḏ̣i/roḏ̣e
+ lex: raẓi/roẓe
  stem: .r.ḏ.̣.|.r.ḏ.
  gramm: V
- root: rḏ̣y
+ root: rẓy
  stamm: I
  paradigm: V_I_3y
  trans_de: 1) gefallen (mit b-); 2) einverstanden werden; 3) aussuchen
@@ -8928,10 +8928,10 @@
  trans_en: to tread down
 
 -lexeme
- lex: raqəḏ̣/roqəḏ̣
+ lex: raqəẓ/roqəẓ
  stem: .r.p.ṣ.|.r.p.ṣṣ.
  gramm: V
- root: rqḏ/rqḏ̣
+ root: rqḏ/rqẓ
  stamm: I
  paradigm: V_I
  trans_de: tanzen
@@ -9858,10 +9858,10 @@
  trans_en: to take on, to take over
 
 -lexeme
- lex: məstanḏ̣alle/məstanḏ̣ər
+ lex: məstanẓalle/məstanẓər
  stem: .st.l.m.|.st.l.mm.
  gramm: V
- root: stnḏ̣r
+ root: stnẓr
  stamm: X
  paradigm: V_X_3r
  trans_de: warten
@@ -14976,10 +14976,10 @@
  trans_en: to leave unattended; to postpone
 
 -lexeme
- lex: ʕrəḏ̣le/ʕorəḏ̣
+ lex: ʕrəẓle/ʕorəẓ
  stem: .ʕ.r.ḏ.|.ʕ.r.ḏḏ.
  gramm: V
- root: ʕrḏ̣
+ root: ʕrẓ
  stamm: I
  paradigm: V_I
  trans_de: vortragen
@@ -15186,10 +15186,10 @@
  trans_en: to become dark
 
 -lexeme
- lex: məʕtaraḏ̣le/məʕtarəḏ̣
+ lex: məʕtaraẓle/məʕtarəẓ
  stem: .ʕ.t.r.|.ʕ.t.rr.
  gramm: V
- root: ʕtrḏ̣
+ root: ʕtrẓ
  stamm: I
  paradigm: V_I
  trans_de: Einwendungen machen

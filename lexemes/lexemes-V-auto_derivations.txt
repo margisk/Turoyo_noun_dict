@@ -1322,7 +1322,7 @@
  lex: mafəḏ/mafəḏle
  stem: .f.ḏ.|.f.ḏḏ.
  gramm: V
- root: fyḏ̣/pyḏ̣
+ root: fyẓ/pyẓ
  stamm: III
  paradigm: V_III_2y
  trans_de: strömen (Licht) (III)
@@ -1332,7 +1332,7 @@
  lex: mifəḏ/fiḏ
  stem: .f.ḏ.
  gramm: V
- root: fyḏ̣/pyḏ̣
+ root: fyẓ/pyẓ
  stamm: Ip
  paradigm: V_Ip_2y
  trans_de: strömen (Licht) (Ip)
@@ -2722,7 +2722,7 @@
  lex: maḥḏə̣/maḥḏalle
  stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
  gramm: V
- root: ḥḏ̣r
+ root: ḥẓr
  stamm: III
  paradigm: V_III_3r
  trans_de: sich einstellen, zugegen sein, erscheinen, anwesend sein, bereit werden; (III)
@@ -2732,7 +2732,7 @@
  lex: məḥḏə̣/ḥḏị
  stem: .ḥ.ḏ.̣.|.ḥ.ḏ.n.
  gramm: V
- root: ḥḏ̣r
+ root: ḥẓr
  stamm: Ip
  paradigm: V_Ip_3r
  trans_de: sich einstellen, zugegen sein, erscheinen, anwesend sein, bereit werden; (Ip)
@@ -4742,7 +4742,7 @@
  lex: mamḏe/mamḏele
  stem: .m.ḏ.̣.|.m.ḏ.
  gramm: V
- root: mḏ̣y
+ root: mẓy
  stamm: III
  paradigm: V_III_3y
  trans_de: unterschreiben (III)
@@ -4752,7 +4752,7 @@
  lex: məmḏe/mḏe
  stem: .m.ḏ.̣.|.m.ḏ.
  gramm: V
- root: mḏ̣y
+ root: mẓy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: unterschreiben (Ip)
@@ -5222,7 +5222,7 @@
  lex: manḏə̣/manḏạle
  stem: .n.ḏ.̣.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣f
+ root: nẓf
  stamm: III
  paradigm: V_III
  trans_de: sauber werden (III)
@@ -5232,7 +5232,7 @@
  lex: mənḏə̣/nḏị
  stem: .n.ḏ.̣.
  gramm: V
- root: nḏ̣f
+ root: nẓf
  stamm: Ip
  paradigm: V_Ip
  trans_de: sauber werden (Ip)
@@ -5242,7 +5242,7 @@
  lex: manḏə̣/manḏalle
  stem: .n.ḏ.̣.|.n.ḏ.l.|.n.ḏ.n.|.n.ḏ.̣̣.
  gramm: V
- root: nḏ̣r
+ root: nẓr
  stamm: III
  paradigm: V_III_3r
  trans_de: erblicken, sehen, anschauen (III)
@@ -5252,7 +5252,7 @@
  lex: mənḏə̣/nḏị
  stem: .n.ḏ.̣.|.n.ḏ.n.
  gramm: V
- root: nḏ̣r
+ root: nẓr
  stamm: Ip
  paradigm: V_Ip_3r
  trans_de: erblicken, sehen, anschauen (Ip)
@@ -6382,7 +6382,7 @@
  lex: maqḏe/maqḏele
  stem: .q.ḏ.̣.|.q.ḏ.
  gramm: V
- root: qḏ̣y
+ root: qẓy
  stamm: III
  paradigm: V_III_3y
  trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden (III)
@@ -6392,7 +6392,7 @@
  lex: məqḏe/qḏe
  stem: .q.ḏ.̣.|.q.ḏ.
  gramm: V
- root: qḏ̣y
+ root: qẓy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: erledigt werden, zu Ende gehen, vergehen, vorübergehen, ausrichten, verrichten, fertig werden (Ip)
@@ -7362,7 +7362,7 @@
  lex: marḏe/marḏele
  stem: .r.ḏ.̣.|.r.ḏ.
  gramm: V
- root: rḏ̣y
+ root: rẓy
  stamm: III
  paradigm: V_III_3y
  trans_de: 1) gefallen (mit b-); 2) einverstanden werden; 3) aussuchen (III)
@@ -7372,7 +7372,7 @@
  lex: mərḏe/rḏe
  stem: .r.ḏ.̣.|.r.ḏ.
  gramm: V
- root: rḏ̣y
+ root: rẓy
  stamm: Ip
  paradigm: V_Ip_3y
  trans_de: 1) gefallen (mit b-); 2) einverstanden werden; 3) aussuchen (Ip)
@@ -7662,7 +7662,7 @@
  lex: marqəḏ/marqaḏle
  stem: .r.q.ḏ.|.r.q.ḏḏ.
  gramm: V
- root: rqḏ/rqḏ̣
+ root: rqḏ/rqẓ
  stamm: III
  paradigm: V_III
  trans_de: tanzen (III)
@@ -7672,7 +7672,7 @@
  lex: mərqəḏ/rqiḏ
  stem: .r.q.ḏ.
  gramm: V
- root: rqḏ/rqḏ̣
+ root: rqḏ/rqẓ
  stamm: Ip
  paradigm: V_Ip
  trans_de: tanzen (Ip)
@@ -12402,7 +12402,7 @@
  lex: maʕrəḏ/maʕraḏle
  stem: .ʕ.r.ḏ.|.ʕ.r.ḏḏ.
  gramm: V
- root: ʕrḏ̣
+ root: ʕrẓ
  stamm: III
  paradigm: V_III
  trans_de: vortragen (III)
@@ -12412,7 +12412,7 @@
  lex: məʕrəḏ/ʕriḏ
  stem: .ʕ.r.ḏ.
  gramm: V
- root: ʕrḏ̣
+ root: ʕrẓ
  stamm: Ip
  paradigm: V_Ip
  trans_de: vortragen (Ip)
@@ -12662,7 +12662,7 @@
  lex: maʕtər/maʕtarle
  stem: .ʕ.t.r.|.ʕ.t.rr.
  gramm: V
- root: ʕtrḏ̣
+ root: ʕtrẓ
  stamm: III
  paradigm: V_III
  trans_de: Einwendungen machen (III)
@@ -12672,7 +12672,7 @@
  lex: məʕtər/ʕtir
  stem: .ʕ.t.r.
  gramm: V
- root: ʕtrḏ̣
+ root: ʕtrẓ
  stamm: Ip
  paradigm: V_Ip
  trans_de: Einwendungen machen (Ip)

@@ -82,7 +82,7 @@
   gramm: art,sg,m
  -flex: .i
   gramm: art,sg,f
- -flex: .a//.ann//.aʕ//.ab//.ač//.ad//.aḏ//.aḏ̣//.af//.ag//.aġ//.aǧ//.ah//.aḥ//.ak//.al//.am//.an//.ap//.aq//.ar//.as//.aṣ//.aš//.at//.aṭ//.av//.aw//.ax//.ay//.az//.až
+ -flex: .a//.ann//.aʕ//.ab//.ač//.ad//.aḏ//.aẓ//.af//.ag//.aġ//.aǧ//.ah//.aḥ//.ak//.al//.am//.an//.ap//.aq//.ar//.as//.aṣ//.aš//.at//.aṭ//.av//.aw//.ax//.ay//.az//.až
   gramm: art,pl
 
 -paradigm: def_art_free

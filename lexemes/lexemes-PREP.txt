@@ -135,9 +135,9 @@
  trans_de: außer; außer (ġayr me); außer, es sei denn, dass (əlla ġayr m-)
  trans_en: beside; beside (ġayr me); beside, unless (əlla ġayr m-)
 -lexeme
- lex: ḥḏ̣or/ḥeḏ̣ar/ḥeḏ̣ər/ḥeḏ̣or
- stem: ḥḏ̣or.//ḥḏor.//ḥeḏ̣ar.//ḥeḏar.//ḥeḏ̣ər.//ḥeḏər.//ḥeḏ̣or.//ḥeḏor.
- root: ḥḏ̣r
+ lex: ḥẓor/ḥeẓar/ḥeẓər/ḥeẓor
+ stem: ḥẓor.//ḥḏor.//ḥeẓar.//ḥeḏar.//ḥeẓər.//ḥeḏər.//ḥeẓor.//ḥeḏor.
+ root: ḥẓr
  gramm: PREP
  paradigm: PREP_3
  trans_de: um ... herum
