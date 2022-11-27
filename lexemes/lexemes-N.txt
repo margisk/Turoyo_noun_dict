@@ -47504,6 +47504,14 @@
  paradigm: N2
  trans_de: aufsuchen
  trans_en: visiting
+-lexeme 
+ lex: ṭurʕabdin
+ stem: ṭurʕabdin.//Ṭurʕabdin.
+ root: ṭwrʕbdn
+ gramm: N
+ paradigm: unchangeable
+ trans_de: Tur Abdin
+ trans_en: Tur Abdin 
 -lexeme
  lex: ṭuro
  stem: ṭuro.//ṭur.|ṭurone.//ṭuron.
