@@ -3863,7 +3863,7 @@
  trans_en: things
 -lexeme
  lex: atatərk/aṭatərk
- stem: atatərk.//aṭatərk.//ataturk.//aṭaturk.
+ stem: atatərk.//aṭatərk.//ataturk.//aṭaturk.//atatürk.
  root: ʔttrk
  gramm: N
  paradigm: unchangeable
@@ -4413,6 +4413,14 @@
  paradigm: N2
  trans_de: Anzug
  trans_en: costume, clothes
+-lexeme
+ lex: badrxan
+ stem: badrxan.//Badrxan.
+ root: bdrxn
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: masculine name
 -lexeme
  lex: badoyo
  stem: badoyo.//badoy.|badoye.//badoy.
@@ -13564,6 +13572,14 @@
  paradigm: N2
  trans_de: skin (to keep liquids)
  trans_en: hose
+-lexeme 
+ lex: gawiro
+ stem: gawiro.//gawir.|gawərto.//gawərt.|gawire.//gawir.
+ root: gwr
+ gramm: ADJ
+ paradigm: N_mf
+ trans_de: verheiratet
+ trans_en: married
 -lexeme
  lex: gawno
  stem: gawno.//gawn.|gawne.//gawn.
@@ -20685,6 +20701,14 @@
  trans_de: Würde
  trans_en: honour; dignity
 -lexeme
+ lex: iran
+ stem: iran.//Iran.
+ root: yrn
+ gramm: N
+ paradigm: unchangeable
+ trans_de:
+ trans_en: Iran
+-lexeme
  lex: iris
  stem: iris.|UNKNOWN.
  root: rs
@@ -21044,6 +21068,14 @@
  paradigm: unchangeable
  trans_de:
  trans_en: hunger
+-lexeme 
+ lex: kafino
+ stem: kafino.//kafin.|kafənto.//kafənt.|kafine.//kafin.
+ root: kfn
+ gramm: ADJ
+ paradigm: N_mf
+ trans_de: hungrig
+ trans_en: hungry
 -lexeme
  lex: kaftare
  stem: kaftare.|kaftarat.
@@ -22492,6 +22524,14 @@
  paradigm: unchangeable
  trans_de:
  trans_en: Kfarze (geographical name)
+-lexeme 
+ lex: kfarzoyo
+ stem: kfarzoyo.|kfarzoye.
+ root: kfrz
+ gramm: ADJ
+ paradigm: N2
+ trans_de: Mann aus Kfarze
+ trans_en: person from Kfarze
 -lexeme
  lex: kfaye
  stem: kfaye.//kfay.|UNKNOWN.
@@ -26653,6 +26693,14 @@
  trans_de: Zentrum, Mittelpunkt
  trans_en: centre
 -lexeme
+ lex: marke
+ stem: marke.//mark.
+ root: mrk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de: von hier
+ trans_en: from here
+-lexeme
  lex: marmar
  stem: marmar.
  root: mrmr
@@ -27148,6 +27196,14 @@
  paradigm: N2
  trans_de: Gabe, Geschenk
  trans_en: gift, present
+-lexeme 
+ lex: mawxa
+ stem: mawxa.//mawx.
+ root: mhwk
+ gramm: CONJ
+ paradigm: unchangeable
+ tras_de: folglich
+ trans_en: consequently, therefore
 -lexeme
  lex: mawlodo
  stem: mawlodo.//mawlod.|UNKNOWN.
@@ -27308,6 +27364,14 @@
  paradigm: N2
  trans_de: Mine, Bombe
  trans_en: mine, bomb
+-lexeme
+ lex: mayko
+ stem: mayko.//mayk.
+ root: myk
+ gramm: ADV
+ paradigm: unchangeable
+ trans_de:
+ trans_en: from where, where from?
 -lexeme
  lex: mayle
  stem: mayle.//mayl.|UNKNOWN.
@@ -31678,7 +31742,7 @@
  trans_en: engaged
 -lexeme
  lex: o
- stem: o
+ stem: o.//ooo.//ooooooo.//oooooooo.//ooooooooo.//ooooooooooo.
  root: o
  gramm: INTERJ
  paradigm: unchangeable
@@ -31726,7 +31790,7 @@
  trans_en: honest friend
 -lexeme
  lex: oda
- stem: oda.//od.//awda.|odat.//owad.//od.//awdat.
+ stem: oda.//od.//awda.//oḏa.//oḏ.|odat.//owad.//od.//awdat.//oḏat.
  root: d
  gramm: N,f
  paradigm: N2
@@ -31950,7 +32014,7 @@
  trans_en: woe!
 -lexeme
  lex: oox!
- stem: oox!
+ stem: oox!//ooox.
  root: x
  gramm: INTERJ
  paradigm: unchangeable
@@ -32014,7 +32078,7 @@
  trans_en: packet, parcel
 -lexeme
  lex: paki
- stem: paki.//pak.
+ stem: paki.//pak.//paaaakk.
  root: pk
  gramm: INTERJ
  paradigm: unchangeable
@@ -39971,6 +40035,14 @@
  paradigm: N2
  trans_de: Herrin
  trans_en: lady, mistress
+-lexeme
+ lex: səttəlbudur
+ stem: səttəlbudur.//Səttəlbudur.
+ root: sttlbdr
+ gramm: N 
+ paradigm: unchangeable
+ trans_de:
+ trans_en: masculine name
 -lexeme
  lex: səxənṭiye
  stem: səxənṭiye.//səxənṭiy.|UNKNOWN.
