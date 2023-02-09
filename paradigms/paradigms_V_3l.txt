@@ -1609,7 +1609,7 @@
  # Presence
  -flex: <0><.>mi.a.ə.
   gramm: pass,prs_stem,3,sg,m
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>mi.a..o
   gramm: pass,prs_stem,3,sg,f
   paradigm: vb_prefix_pres_fut

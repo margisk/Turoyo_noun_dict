@@ -1,0 +1,177 @@
+# THIS IS AN INCOMPLETE STUB AND HAS TO BE CHECKED AND EXPANDED
+
+-paradigm: V_I_2y_3l
+ # Present
+ -flex: <0>.o.ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>.i.e
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2y_3l
+ # Present
+ -flex: <0>ma.ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <0>ma.i.e
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2w
+ # Present
+ -flex: <0>ma..ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <0>ma..a.le
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2w_3r
+ # Present
+ -flex: <0>ma..ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <0,1>ma..a.le
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2w_3y
+ # Present
+ -flex: <1>ma..e
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>ma..ele
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2w_3l
+ # Present
+ -flex: <0>ma..ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <0>ma..e.e
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_2y_3w
+ # Present
+ -flex: <0>ma.u
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <0>ma.ule
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_1y_3y
+ # Present
+ -flex: <1>ma..e
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>ma..ele
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_III_1y_3w
+ # Present
+ -flex: <3>mo.u
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <2>mo.a.le
+  gramm: pst_stem,3,sg,m
+
+
+
+
+-paradigm: V_III_2y_3n
+ # Present
+ -flex: <0>ma.ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>ma.ə.le
+  gramm: pst_stem,3,sg,m
+
+
+
+
+-paradigm: V_III_2w_3n
+ # Present
+ -flex: <0>ma..ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>ma..a.le
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_II_2w_3r
+ # Present
+ -flex: <0>m.a.ə.
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>m.a.a.le
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_II_3y
+ # Present
+ -flex: <1>m.a.e
+  gramm: prs_stem,3,sg,m
+ 
+ # Intransitive preterite
+ -flex: <1>m.a.ele
+  gramm: pst_stem,3,sg,m
+
+
+
+-paradigm: V_IIp_3r
+ # Present
+ -flex: <1>m.a.ə.
+  gramm: prs_stem,3,sg,m
+
+
+-paradigm: V_Ip_2y_3w
+ # Present
+ -flex: <1>mi.u
+  gramm: prs_stem,3,sg,m
+
+
+-paradigm: V_Ip_1y
+ # Present
+ -flex: <2>mi.e
+  gramm: prs_stem,3,sg,m
+
+
+-paradigm: V_Ip_2y_3r
+ # Present
+ -flex: <0>mi.ə.
+  gramm: prs_stem,3,sg,m
+
+
+-paradigm: V_Ip_2y_3l
+ # Present
+ -flex: <0>mi.ə.
+  gramm: prs_stem,3,sg,m
+
+

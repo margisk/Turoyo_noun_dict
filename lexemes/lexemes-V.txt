@@ -4269,7 +4269,7 @@
 
 -lexeme
  lex: maḥəlle/maḥən
- stem: .ḥ.n.|.ḥ.n.|.ḥ.nn.
+ stem: .ḥ.n.|.ḥ.l.|.ḥ.nn.
  gramm: V
  root: ḥyn
  stamm: III
@@ -9989,7 +9989,7 @@
 
 -lexeme
  lex: sile/soyəl
- stem: .s.y.l.|.s.|.s.ll.|.s.y.n.|.s.n.
+ stem: .s.y.l.|.s.l.|.s.ll.|.s.y.n.|.s.n.
  gramm: V
  root: syl
  stamm: I
@@ -13559,7 +13559,7 @@
 
 -lexeme
  lex: maxəlle/maxən
- stem: .x.n.|.x.n.|.x.nn.
+ stem: .x.n.|.x.l.|.x.nn.
  gramm: V
  root: xyn
  stamm: III
@@ -14349,7 +14349,7 @@
 
 -lexeme
  lex: zile/zoyəl
- stem: .z.y.l.|.z.|.z.ll.|.z.y.n.|.z.n.
+ stem: .z.y.l.|.z.l.|.z.ll.|.z.y.n.|.z.n.
  gramm: V
  root: zyl
  stamm: I
@@ -15377,7 +15377,7 @@
 
 -lexeme
  lex: maʕəlle/maʕən
- stem: .ʕ.n.|.ʕ.n.|.ʕ.nn.
+ stem: .ʕ.n.|.ʕ.l.|.ʕ.nn.
  gramm: V
  root: ʕyn
  stamm: III

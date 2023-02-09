@@ -11270,7 +11270,7 @@
 
 -lexeme
  lex: mime/ime
- stem: .m.y.|.y.m.
+ stem: .m.y.|.y.m.|.m.
  gramm: V
  root: ymy
  stamm: Ip

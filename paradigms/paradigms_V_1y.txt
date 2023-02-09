@@ -1396,7 +1396,7 @@
   gramm: pst_stem,1,pl,3.o,sg.o,m.o
   paradigm: vb_prefix_perf
 
--flex: <0><.>ma..ə.ole//<1><.>mə..ole//<1><.>mu..ole
+ -flex: <0><.>ma..ə.ole//<1><.>mə..ole//<1><.>mu..ole
   gramm: pst_stem,3,sg,m,3.o,sg.o,f.o
   paradigm: vb_prefix_perf
  -flex: <0><.>ma..ə.olox//<0><.>ma..ə.olux//<1><.>mə..olox//<1><.>mu..olox//<1><.>mə..olux//<1><.>mu..olux

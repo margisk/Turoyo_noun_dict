@@ -1,0 +1,27 @@
+# THIS IS AN INCOMPLETE STUB AND HAS TO BE CHECKED AND EXPANDED
+
+-paradigm: V_I_1y_3y
+ # Present
+ -flex: <1>.o.e
+  gramm: prs_stem,3,sg,m
+
+ # Intransitive preterite
+ -flex: <1>.a.e
+  gramm: pst_stem,3,sg,m
+
+
+ # Preterite
+ -flex: <2>i.ele
+  gramm: pst_stem,3,sg,m,3.o,sg.o,m.o
+ -flex: <2>i.eləx
+  gramm: pst_stem,2,sg,m,3.o,sg.o,m.o
+ -flex: <2>i.ela
+  gramm: pst_stem,3,sg,f,3.o,sg.o,m.o
+ -flex: <2>i.elax
+  gramm: pst_stem,2,sg,f,3.o,sg.o,m.o
+ -flex: <2>i.eli
+  gramm: pst_stem,1,sg,3.o,sg.o,m.o
+ -flex: <2>i.exu
+  gramm: pst_stem,2,pl,3.o,sg.o,m.o
+ -flex: <2>i.elan
+  gramm: pst_stem,1,pl,3.o,sg.o,m.o

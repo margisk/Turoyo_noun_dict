@@ -2,31 +2,31 @@
  # Present
  -flex: <1><.>.o.u
   gramm: prs_stem,3,sg,m
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..ət//<0><.>.u..ət
   gramm: prs_stem,2,sg,m
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.o.a.no
   gramm: prs_stem,1,sg,m
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..o//<0><.>.u..o
   gramm: prs_stem,3,sg,f
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..at//<0><.>.u..at
   gramm: prs_stem,2,sg,f
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..ono//<0><.>.u..ono
   gramm: prs_stem,1,sg,f
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..i//<0><.>.u..i
   gramm: prs_stem,3,pl
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..utu//<0><.>.u..utu//<0><.>.ə..itu//<0><.>.u..itu
   gramm: prs_stem,2,pl
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
  -flex: <0><.>.ə..ina//<0><.>.u..ina
   gramm: prs_stem,1,pl
-  paradigm: vb_prefix_pres
+  paradigm: vb_prefix_pres_fut
 
  # Present + obj./dat. suffixes
  -flex: <0><.>.u.a.le//<0><.>.o.a.le//<0><.>.ə.a.le

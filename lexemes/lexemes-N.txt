@@ -38269,8 +38269,9 @@
  trans_de: Russland, Russen
  trans_en: Russia, Russians
 -lexeme
- stem: rusya.//Rusya.
- root:rsy 
+ lex: Rusya
+ stem: rusya.//rusiya.
+ root: rsy 
  gramm: N,f 
  paradigm: unchangeable
  trans_de: Russland
@@ -38283,14 +38284,6 @@
  paradigm: unchangeable
  trans_de:
  trans_en: masculine name
--lexeme
- lex: rusya/rusiya
- stem: Rusiya.//Rusya.
- root: rsy
- gramm: N
- paradigm: unchangeable
- trans_de:
- trans_en: Russia
 -lexeme
  lex: rut
  stem: rut.
@@ -49925,9 +49918,9 @@
  stem: xurbaqəlxaniq.
  root: xrbqlxnq
  gramm: INTERJ
- paradigm: sagt man zu einem, den man nicht leiden kann
- trans_de: one says to a person he cannot tolerate
- trans_en:
+ paradigm: unchangeable
+ trans_de: sagt man zu einem, den man nicht leiden kann
+ trans_en: one says to a person he cannot tolerate
 -lexeme
  lex: xurčke/xurčəke
  stem: xurčke.//xurčəke.//xurčk.//xurčək.|xurčkat.//xurčəkat.//xurčk.//xurčək.
@@ -51277,7 +51270,7 @@
  stem: zarke.//zark.
  root: zr
  gramm: N
- paradigm: unchangeable;
+ paradigm: unchangeable
  trans_de: Sonnwend-Flockenblume, Centaurea solstitialis L. (tir w zarke)
  trans_en: golden starthistle, centaurea solstitialis l. (tir w zarke)
 -lexeme

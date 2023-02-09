@@ -1,0 +1,12 @@
+# THIS IS AN INCOMPLETE STUB AND HAS TO BE CHECKED AND EXPANDED
+
+-paradigm: V_I_1y_3w
+ # Present
+ -flex: <1><.>.o.u
+  gramm: prs_stem,3,sg,m
+  paradigm: vb_prefix_pres_fut
+ 
+ # Intransitive preterite
+ -flex: <1><.>.a.u
+  gramm: pst_stem,3,sg,m
+  paradigm: vb_prefix_perf
