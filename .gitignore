@@ -38,3 +38,4 @@ pip-delete-this-directory.txt
 venv/
 ENV/
 tags
+.DS_Store
