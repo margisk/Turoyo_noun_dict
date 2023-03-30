@@ -679,40 +679,40 @@
  trans_en: to taste (Ip)
 
 -lexeme
- lex: mad̞əʕ/mad̞aʕle
- stem: .d.̞.ʕ.|.d.̞.ʕʕ.
+ lex: maẓəʕ/maẓaʕle
+ stem: .ẓ.ʕ.|.ẓ.ʕʕ.
  gramm: V
- root: d̞ʕf
+ root: ẓʕf
  stamm: III
  paradigm: V_III
  trans_de: schwach werden, abmagern (III)
  trans_en: to become weak, emaciated (III)
 
 -lexeme
- lex: məd̞əʕ/d̞iʕ
- stem: .d.̞.ʕ.
+ lex: məẓəʕ/ẓiʕ
+ stem: .ẓ.ʕ.
  gramm: V
- root: d̞ʕf
+ root: ẓʕf
  stamm: Ip
  paradigm: V_Ip
  trans_de: schwach werden, abmagern (Ip)
  trans_en: to become weak, emaciated (Ip)
 
 -lexeme
- lex: mad̞əl/mad̞alle
- stem: .d.̞.l.|.d.̞.ll.
+ lex: maẓəl/maẓalle
+ stem: .ẓ.l.|.ẓ.ll.
  gramm: V
- root: d̞lm
+ root: ẓlm
  stamm: III
  paradigm: V_III
  trans_de: Unrecht tun (III)
  trans_en: to do wrong (III)
 
 -lexeme
- lex: məd̞əl/d̞il
- stem: .d.̞.l.
+ lex: məẓəl/ẓil
+ stem: .ẓ.l.
  gramm: V
- root: d̞lm
+ root: ẓlm
  stamm: Ip
  paradigm: V_Ip
  trans_de: Unrecht tun (Ip)
@@ -722,7 +722,7 @@
  lex: madəy/madəyle
  stem: .d.y.|.d.yy.
  gramm: V
- root: d̞yf
+ root: ẓyf
  stamm: III
  paradigm: V_III_2y
  trans_de: zu Gaste sein (III)
@@ -732,7 +732,7 @@
  lex: midəy/diy
  stem: .d.y.
  gramm: V
- root: d̞yf
+ root: ẓyf
  stamm: Ip
  paradigm: V_Ip_2y
  trans_de: zu Gaste sein (Ip)
@@ -799,20 +799,20 @@
  trans_en: to sacrifice (Ip)
 
 -lexeme
- lex: mafdə̞/mafdele
- stem: .f.d.̞.|.f.d.
+ lex: mafẓə/mafẓele
+ stem: .f.ẓ.|.f.ẓ.l.
  gramm: V
- root: fd̞l
+ root: fẓl
  stamm: III
  paradigm: V_III_3l
  trans_de: reichlich vorhanden (III)
  trans_en: to abound; to be left over (III)
 
 -lexeme
- lex: məfdə̞/fdi̞
- stem: .f.d.̞.|.f.d.n.
+ lex: məfẓə/fẓi
+ stem: .f.ẓ.|.f.ẓ.n.
  gramm: V
- root: fd̞l
+ root: fẓl
  stamm: Ip
  paradigm: V_Ip_3l
  trans_de: reichlich vorhanden (Ip)
@@ -1002,7 +1002,7 @@
  lex: mafrəd/mafradle
  stem: .f.r.d.|.f.r.dd.
  gramm: V
- root: frd̞
+ root: frẓ
  stamm: III
  paradigm: V_III
  trans_de: von Rechtswegen gehören (III)
@@ -1012,7 +1012,7 @@
  lex: məfrəd/frid
  stem: .f.r.d.
  gramm: V
- root: frd̞
+ root: frẓ
  stamm: Ip
  paradigm: V_Ip
  trans_de: von Rechtswegen gehören (Ip)
@@ -1942,7 +1942,7 @@
  lex: maġdə̞/maġda̞le
  stem: .ġ.d.̞.|.ġ.d.̞̞.
  gramm: V
- root: ġd̞b
+ root: ġẓb
  stamm: III
  paradigm: V_III
  trans_de: zornig werden (III)
@@ -1952,7 +1952,7 @@
  lex: məġdə̞/ġdi̞
  stem: .ġ.d.̞.
  gramm: V
- root: ġd̞b
+ root: ġẓb
  stamm: Ip
  paradigm: V_Ip
  trans_de: zornig werden (Ip)
@@ -2702,7 +2702,7 @@
  lex: maḥdə̞/maḥdalle
  stem: .ḥ.d.̞.|.ḥ.d.l.|.ḥ.d.̞̞.
  gramm: V
- root: ḥd̞n
+ root: ḥẓn
  stamm: III
  paradigm: V_III_3n
  trans_de: umarmen (III)
@@ -2712,7 +2712,7 @@
  lex: məḥdə̞/ḥdi̞
  stem: .ḥ.d.̞.
  gramm: V
- root: ḥd̞n
+ root: ḥẓn
  stamm: Ip
  paradigm: V_Ip_3n
  trans_de: umarmen (Ip)
@@ -7402,7 +7402,7 @@
  lex: marfəd/marfadle
  stem: .r.f.d.|.r.f.dd.
  gramm: V
- root: rfd̞
+ root: rfẓ
  stamm: III
  paradigm: V_III
  trans_de: ablehnen, zurückweisen (III)
@@ -7412,7 +7412,7 @@
  lex: mərfəd/rfid
  stem: .r.f.d.
  gramm: V
- root: rfd̞
+ root: rfẓ
  stamm: Ip
  paradigm: V_Ip
  trans_de: ablehnen, zurückweisen (Ip)

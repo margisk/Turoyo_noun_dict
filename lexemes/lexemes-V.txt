@@ -899,50 +899,50 @@
  trans_en: to taste
 
 -lexeme
- lex: d̞aʕəf/d̞oʕəf
- stem: .d.̞.ʕ.|.d.̞.ʕʕ.
+ lex: ẓaʕəf/ẓoʕəf
+ stem: .ẓ.ʕ.f.|.ẓ.ʕ.ff.
  gramm: V
- root: d̞ʕf
+ root: ẓʕf
  stamm: I
  paradigm: V_I
  trans_de: schwach werden, abmagern
  trans_en: to become weak, emaciated
 
 -lexeme
- lex: md̞aḥele/md̞aḥe
- stem: .d.̞.ḥ.|.d.̞.
+ lex: mẓaḥele/mẓaḥe
+ stem: .ẓ.ḥ.y|.ẓ.ḥ.
  gramm: V
- root: d̞ḥy
+ root: ẓḥy
  stamm: II
  paradigm: V_II_3y
  trans_de: aufopfern
  trans_en: to sacrifice
 
 -lexeme
- lex: d̞ləmle/d̞oləm
- stem: .d.̞.l.|.d.̞.ll.
+ lex: ẓləmle/ẓoləm
+ stem: .ẓ.l.m.|.ẓ.l.mm.
  gramm: V
- root: d̞lm
+ root: ẓlm
  stamm: I
  paradigm: V_I
  trans_de: Unrecht tun
  trans_en: to do wrong
 
 -lexeme
- lex: md̞ayaʕle/md̞ayəʕ
- stem: .d.̞.y.|.d.̞.yy.
+ lex: mẓayaʕle/mẓayəʕ
+ stem: .ẓ.y.ʕ.|.ẓ.ʕ.
  gramm: V
- root: d̞yʕ
+ root: ẓyʕ
  stamm: II
- paradigm: V_II
+ paradigm: V_II_2y
  trans_de: verlieren, zum Verschwinden bringen, vernichten, vertuschen, in Vergessenheit geraten lassen
  trans_en: to lose; to destroy; to obliterate
 
 -lexeme
- lex: d̞ayəf/d̞oyəf
- stem: .d.̞.y.|.d.y.|.d.yy.
+ lex: ẓayəf/ẓoyəf
+ stem: .ẓ.y.f.|.ẓ.f.|.ẓ.y.ff.
  gramm: V
- root: d̞yf
+ root: ẓyf
  stamm: I
  paradigm: V_I_2y
  trans_de: zu Gaste sein
@@ -950,17 +950,17 @@
 
 -lexeme
  lex: mẓayafle/mẓayəf
- stem: .ḏ.̣.y.|.ḏ.̣.yy.
+ stem: .ẓ.y.f.|.ẓ.f.
  gramm: V
  root: ẓyf
  stamm: II
- paradigm: V_II
+ paradigm: V_II_2y
  trans_de: dem Gast darreichen, kredenzen
  trans_en: to serve smth.
 
 -lexeme
  lex: maẓəfle/maẓəf
- stem: .ḏ.y.|.ḏ.yy.
+ stem: .ẓ.f.|.ẓ.ff.
  gramm: V
  root: ẓyf
  stamm: III
@@ -969,20 +969,20 @@
  trans_en: to stay as a guest
 
 -lexeme
- lex: mad̞əlle/mad̞ər
- stem: .ḏ.y.|.ḏ.yy.
+ lex: maẓəlle/maẓər
+ stem: .ẓ.y.|.ẓ.yy.
  gramm: V
- root: d̞yr/ḏyr
+ root: ẓyr/ḏyr
  stamm: III
  paradigm: V_III_2y_3r
  trans_de: das Junge zum Saugen unter das Muttertier stellen, damit es Milch gibt
  trans_en: to put an animal kid under its mother, so that the mother gives milk
 
 -lexeme
- lex: mad̞əlle/mad̞ər
- stem: .ḏ.y.|.ḏ.yy.
+ lex: maẓəlle/maẓər
+ stem: .ẓ.y.|.ẓ.yy.
  gramm: V
- root: d̞yr/ḏyr
+ root: ẓyr/ḏyr
  stamm: III
  paradigm: V_III
  trans_de: schaden
@@ -1019,20 +1019,20 @@
  trans_en: to sacrifice
 
 -lexeme
- lex: mafd̞aḥle/mafd̞əḥ
- stem: .f.d.̞.|.f.d.̞̞.
+ lex: mafẓaḥle/mafẓəḥ
+ stem: .f.ẓ.ḥ.|.f.ẓ.ḥḥ.
  gramm: V
- root: fd̞ḥ
+ root: fẓḥ
  stamm: III
  paradigm: V_III
  trans_de: beschämen
  trans_en: to put to shame
 
 -lexeme
- lex: fad̞əl/fod̞əl
- stem: .f.d.̞.|.f.d.|.f.d.n.|.f.d.̞̞.
+ lex: faẓəl/foẓəl
+ stem: .f.ẓ.l.|.f.ẓ.|.f.ẓ.n.|.f.ẓ.ll.
  gramm: V
- root: fd̞l
+ root: fẓl
  stamm: I
  paradigm: V_I_3l
  trans_de: reichlich vorhanden
@@ -1040,7 +1040,7 @@
 
 -lexeme
  lex: mfaẓele/mfaẓəl
- stem: .f.ḏ.̣.|.f.ḏ.|.f.ḏ.n.|.f.ḏ.̣̣.
+ stem: .f.ẓ.l.|.f.ẓ.|.f.ẓ.n.|.f.ẓ.ll.
  gramm: V
  root: fẓl
  stamm: II
@@ -1299,10 +1299,10 @@
  trans_en: to crumble (tr.); to change (money); to take out
 
 -lexeme
- lex: frəd̞le/forəd̞
- stem: .f.r.d.|.f.r.dd.
+ lex: frəẓle/forəẓ
+ stem: .f.r.ẓ.|.f.r.ẓẓ.
  gramm: V
- root: frd̞
+ root: frẓ
  stamm: I
  paradigm: V_I
  trans_de: von Rechtswegen gehören
@@ -1719,8 +1719,8 @@
  trans_en: to find; to get, to acquire
 
 -lexeme
- lex: fayəd̞/foyəd̞
- stem: .f.y.ʕ.|.f.y.ʕʕ.
+ lex: fayəẓ/foyəẓ
+ stem: .f.y.ẓ.|.f.y.ẓẓ.
  gramm: V
  root: fyẓ/pyẓ
  stamm: I
@@ -2319,10 +2319,10 @@
  trans_en: to ambush
 
 -lexeme
- lex: ġaẓəb/ġod̞əb
- stem: .ġ.d.̞.|.ġ.d.̞̞.
+ lex: ġaẓəb/ġoẓəb
+ stem: .ġ.ẓ.b.|.ġ.ẓ.bb.
  gramm: V
- root: ġd̞b
+ root: ġẓb
  stamm: I
  paradigm: V_I
  trans_de: zornig werden
@@ -3378,10 +3378,10 @@
  trans_en: to dig out
 
 -lexeme
- lex: ḥd̞əlle/ḥod̞ən
- stem: .ḥ.d.̞.|.ḥ.d.l.|.ḥ.d.̞̞.
+ lex: ḥẓəlle/ḥoẓən
+ stem: .ḥ.ẓ.n.|.ḥ.ẓ.l.|.ḥ.ẓ.nn.
  gramm: V
- root: ḥd̞n
+ root: ḥẓn
  stamm: I
  paradigm: V_I_3n
  trans_de: umarmen
@@ -3389,7 +3389,7 @@
 
 -lexeme
  lex: ḥaẓər/ḥoẓər
- stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
+ stem: .ḥ.ẓ.r.|.ḥ.ẓ.l.|.ḥ.ẓ.n.|.ḥ.ẓ.rr.
  gramm: V
  root: ḥẓr
  stamm: I
@@ -3399,7 +3399,7 @@
 
 -lexeme
  lex: mḥaẓalle/mḥaẓər
- stem: .ḥ.ḏ.̣.|.ḥ.ḏ.l.|.ḥ.ḏ.n.|.ḥ.ḏ.̣̣.
+ stem: .ḥ.ẓ.r.|.ḥ.ẓ.l.|.ḥ.ẓ.n.|.ḥ.ẓ.rr.
  gramm: V
  root: ḥẓr
  stamm: II
@@ -3408,10 +3408,10 @@
  trans_en: to prepare
 
 -lexeme
- lex: mḥafad̞le/mḥafəd̞
- stem: .ḥ.f.d.|.ḥ.f.dd.
+ lex: mḥafaẓle/mḥafəẓ
+ stem: .ḥ.f.ẓ.|.ḥ.f.ẓẓ.
  gramm: V
- root: ḥfd̞
+ root: ḥfẓ
  stamm: II
  paradigm: V_II
  trans_de: (be)schützen, verteidigen
@@ -3419,7 +3419,7 @@
 
 -lexeme
  lex: maḥfaẓle/maḥfəẓ
- stem: .ḥ.f.ḏ.|.ḥ.f.ḏḏ.
+ stem: .ḥ.f.ẓ.|.ḥ.f.ẓẓ.
  gramm: V
  root: ḥfẓ
  stamm: III
@@ -3429,7 +3429,7 @@
 
 -lexeme
  lex: ḥfəlle/ḥofər
- stem: .ḥ.f.ḏ.|.ḥ.f.ḏḏ.
+ stem: .ḥ.f.r.|.ḥ.f.rr.
  gramm: V
  root: ḥfr/ʕfr
  stamm: I
@@ -4209,7 +4209,7 @@
 
 -lexeme
  lex: mḥayẓər/mḥayẓalle
- stem: .ḥ.yḏ.̣.|.ḥ.yḏ.l.|.ḥ.yḏ.n.|.ḥ.yḏ.̣̣.
+ stem: .ḥ.yẓ.r.|.ḥ.yẓ.l.|.ḥ.yẓ.n.|.ḥ.yẓ.rr.
  gramm: V
  root: ḥyẓr
  stamm: Q
@@ -5219,7 +5219,7 @@
 
 -lexeme
  lex: malẓele/malẓe
- stem: .l.ḏ.̣.|.l.ḏ.
+ stem: .l.ẓ.y.|.l.ẓ.
  gramm: V
  root: lẓy
  stamm: III
@@ -5699,7 +5699,7 @@
 
 -lexeme
  lex: mẓele/moẓe
- stem: .m.ḏ.̣.|.m.ḏ.
+ stem: .m.ẓ.y.|.m.ẓ.
  gramm: V
  root: mẓy
  stamm: I
@@ -6249,7 +6249,7 @@
 
 -lexeme
  lex: naẓəf/noẓəf
- stem: .n.ḏ.̣.|.n.ḏ.̣̣.
+ stem: .n.ẓ.f.|.n.̣ẓ.ff.
  gramm: V
  root: nẓf
  stamm: I
@@ -6259,7 +6259,7 @@
 
 -lexeme
  lex: mnaẓafle/mnaẓəf
- stem: .n.ḏ.̣.|.n.ḏ.̣̣.
+ stem: .n.ẓ.f.|.n.ẓ.ff.
  gramm: V
  root: nẓf
  stamm: II
@@ -6269,7 +6269,7 @@
 
 -lexeme
  lex: manẓafle/manẓəf
- stem: .n.ḏ.̣.|.n.ḏ.̣̣.
+ stem: .n.ẓ.f.|.n.ẓ.ff.
  gramm: V
  root: nẓf
  stamm: III
@@ -6279,7 +6279,7 @@
 
 -lexeme
  lex: naẓər/noẓər
- stem: .n.ḏ.̣.|.n.ḏ.l.|.n.ḏ.n.|.n.ḏ.̣̣.
+ stem: .n.ẓ.r.|.n.ẓ.l.|.n.ẓ.n.|.n.ẓ.rr.
  gramm: V
  root: nẓr
  stamm: I
@@ -6289,7 +6289,7 @@
 
 -lexeme
  lex: mnaẓele/mnaẓe
- stem: .n.ḏ.̣.|.n.ḏ.
+ stem: .n.ẓ.y.|.n.ẓ.
  gramm: V
  root: nẓy
  stamm: II
@@ -7539,7 +7539,7 @@
 
 -lexeme
  lex: qaẓi/qoẓe
- stem: .q.ḏ.̣.|.q.ḏ.
+ stem: .q.ẓ.y.|.q.ẓ.
  gramm: V
  root: qẓy
  stamm: I
@@ -7549,7 +7549,7 @@
 
 -lexeme
  lex: mqaẓele/mqaẓe
- stem: .q.ḏ.̣.|.q.ḏ.
+ stem: .q.ẓ.y.|.q.ẓ.
  gramm: V
  root: qẓy
  stamm: II
@@ -8419,7 +8419,7 @@
 
 -lexeme
  lex: mqayaẓle/mqayəẓ
- stem: .q.y.ḏ.|.q.y.ḏḏ.
+ stem: .q.y.ẓ.|.q.y.ẓẓ.
  gramm: V
  root: qyẓ
  stamm: II
@@ -8639,7 +8639,7 @@
 
 -lexeme
  lex: raẓi/roẓe
- stem: .r.ḏ.̣.|.r.ḏ.
+ stem: .r.ẓ.y.|.r.ẓ.
  gramm: V
  root: rẓy
  stamm: I
@@ -8658,10 +8658,10 @@
  trans_en: to become thin
 
 -lexeme
- lex: rfəd̞le/rofəd̞
- stem: .r.f.d.|.r.f.dd.
+ lex: rfəẓle/rofəẓ
+ stem: .r.f.ẓ.|.r.f.ẓẓ.
  gramm: V
- root: rfd̞
+ root: rfẓ
  stamm: I
  paradigm: V_I
  trans_de: ablehnen, zurückweisen
@@ -8929,7 +8929,7 @@
 
 -lexeme
  lex: raqəẓ/roqəẓ
- stem: .r.p.ṣ.|.r.p.ṣṣ.
+ stem: .r.q.ẓ.|.r.q.ẓẓ.
  gramm: V
  root: rqḏ/rqẓ
  stamm: I
@@ -9859,7 +9859,7 @@
 
 -lexeme
  lex: məstanẓalle/məstanẓər
- stem: .st.l.m.|.st.l.mm.
+ stem: .st.nẓ.r.|.st.nẓ.l.|.st.nẓ.n.|.st.nẓ.rr.
  gramm: V
  root: stnẓr
  stamm: X
@@ -12898,10 +12898,10 @@
  trans_en: to say goodbye; to see off
 
 -lexeme
- lex: mwad̞aḥle/mwad̞əḥ
- stem: .w.d.̞.|.w.d.̞̞.
+ lex: mwaẓaḥle/mwaẓəḥ
+ stem: .w.ẓ.ḥ.|.w.ẓ.ḥḥ.
  gramm: V
- root: wd̞ḥ
+ root: wẓḥ
  stamm: II
  paradigm: V_II
  trans_de: erklären
@@ -14977,7 +14977,7 @@
 
 -lexeme
  lex: ʕrəẓle/ʕorəẓ
- stem: .ʕ.r.ḏ.|.ʕ.r.ḏḏ.
+ stem: .ʕ.r.ẓ.|.ʕ.r.ẓẓ.
  gramm: V
  root: ʕrẓ
  stamm: I
@@ -15187,7 +15187,7 @@
 
 -lexeme
  lex: məʕtaraẓle/məʕtarəẓ
- stem: .ʕ.t.r.|.ʕ.t.rr.
+ stem: .ʕt.r.ẓ.|.ʕr.r.ẓẓ.
  gramm: V
  root: ʕtrẓ
  stamm: I
@@ -15197,7 +15197,7 @@
 
 -lexeme
  lex: məʕtarafle/məʕtarəf
- stem: .ʕ.t.r.|.ʕ.t.rr.
+ stem: .ʕt.r.f.|.ʕt.r.ff.
  gramm: V
  root: ʕtrf
  stamm: I
@@ -15266,12 +15266,12 @@
  trans_en: scharf werden
 
 -lexeme
- lex: mʕawad̞le/mʕawəd̞
- stem: .ʕ.w.d.|.ʕ.w.dd.
+ lex: mʕawaẓle/mʕawəẓ
+ stem: .ʕ.w.ẓ.|.ʕ.ẓ.|.ʕ.w.ẓẓ.
  gramm: V
- root: ʕwd̞
+ root: ʕwẓ
  stamm: II
- paradigm: V_II
+ paradigm: V_II_2w
  trans_de: ersetzen, entgelten
  trans_en: to recompense; to substitute
 
@@ -16166,10 +16166,10 @@
  trans_en: to cry
 
 -lexeme
- lex: mbayad̞le/mbayəd̞
- stem: .b.y.d.|.b.y.dd.
+ lex: mbayaẓle/mbayəẓ
+ stem: .b.y.ẓ.|.b.y.ẓẓ.
  gramm: V
- root: byd̞
+ root: byẓ
  stamm: II
  paradigm: V_II
  trans_de: 1) verzinnen, weissen; 2) (fig.) (i=foṯo) das Gesicht weiss machen, die Ehre wiederherstellen, das Gesicht wahren

@@ -2,7 +2,7 @@ import re
 import os
 import shutil
 
-rxDiacritics = re.compile('[ġǧḏžḥṭḍṣščṯʔʕ]')
+rxDiacritics = re.compile('[ġǧḏžḥṭḍṣščẓṯʔʕ]')
 rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
 rxDiaPartsFlex = re.compile('(-flex:)( *[^\r\n]+)')
 rxStemVariants = re.compile('[^ |/]+')
@@ -18,6 +18,7 @@ dictDiacritics = {
     'ṣ': 's',
     'š': 's',
     'č': 'c',
+    'ẓ': 'z',
     'ṯ': 't',
     'ʔ': "'",
     'ʕ': 'c',
@@ -119,7 +120,7 @@ def prepare_files():
     if os.path.exists('bad_analyses.txt'):
         shutil.copy2('bad_analyses.txt', 'uniparser_turoyo/data_strict/')
         shutil.copy2('bad_analyses.txt', 'uniparser_turoyo/data_nodiacritics/')
-    if os.path.exists('turoyo_disambiguation.txt'):
+    if os.path.exists('turoyo_disambiguation.cg3'):
         shutil.copy2('turoyo_disambiguation.cg3', 'uniparser_turoyo/data_strict/')
         shutil.copy2('turoyo_disambiguation.cg3', 'uniparser_turoyo/data_nodiacritics/')
 

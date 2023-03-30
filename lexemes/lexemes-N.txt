@@ -1368,7 +1368,7 @@
  trans_en: idler
 -lexeme
  lex: ʕawẓiye
- stem: ʕawẓiye.//ʕawḏiye.//iy.//ʕawḏiy.|ʕawẓiyat.//ʕawḏiyat.//iy.//ʕawḏiy.
+ stem: ʕawẓiye.//ʕawḏiye.//ʕawẓiy.//ʕawḏiy.|ʕawẓiyat.//ʕawḏiyat.//ʕawẓiy.//ʕawḏiy.
  root: ʕwḍ
  gramm: N,f
  paradigm: N2
@@ -2999,7 +2999,7 @@
  trans_en: rib (with meat)
 -lexeme
  lex: ala
- stem: ala./hala.//al.//hal.
+ stem: ala.//hala.//al.//hal.
  root: lh
  gramm: INTERJ
  paradigm: unchangeable
@@ -3007,7 +3007,7 @@
  trans_en: particle used for correcting oneself
 -lexeme
  lex: ala/alo
- stem: ala./alo./alah.//al.//al.
+ stem: ala.//alo.//alah.//al.
  root: ʔlh
  gramm: N,m
  paradigm: unchangeable
@@ -3255,7 +3255,7 @@
  trans_en: America
 -lexeme
  lex: amẓa/imẓa
- stem: amẓa.//imẓa.//.//.|amẓat.//imẓat.//.//.
+ stem: amẓa.//imẓa.|amẓat.//imẓat.
  root: mẓy
  gramm: N,f
  paradigm: N2
@@ -3559,7 +3559,7 @@
  trans_en: Arbo (name of a village)
 -lexeme
  lex: arẓiye
- stem: arẓiye.//iy.
+ stem: arẓiye.//arẓiy.
  root: rḍy
  gramm: N,f
  paradigm: unchangeable
@@ -6175,7 +6175,7 @@
  trans_en: (?)
 -lexeme
  lex: bẓaʕa
- stem: bẓaʕa.//aʕ.|UNKNOWN.
+ stem: bẓaʕa.//bẓaʕ.|UNKNOWN.
  root: bẓʕ
  gramm: N,f
  paradigm: N2
@@ -6183,7 +6183,7 @@
  trans_en: goods
 -lexeme
  lex: be/bə
- stem: be.//bə.//b.//b.|be.//bə.//b.//b.
+ stem: be.//bə.//b.|be.//bə.//b.
  root: b
  gramm: N,f
  paradigm: N2
@@ -11030,7 +11030,7 @@
  trans_en: thin, emaciated, weak
 -lexeme
  lex: ẓabʕo/ḏabʕo
- stem: ẓabʕo.//ḏabʕo.//abʕ.//ḏabʕ.|ẓabʕe.//ḏabʕe.//abʕ.//ḏabʕ.
+ stem: ẓabʕo.//ḏabʕo.//ẓabʕ.//ḏabʕ.|ẓabʕe.//ḏabʕe.//ẓabʕ.//ḏabʕ.
  root: ẓbʕ/ḏbʕ
  gramm: N,f
  paradigm: N2
@@ -11126,7 +11126,7 @@
  trans_en: tyranny, oppression
 -lexeme
  lex: ẓiqa/ḏiqa
- stem: ẓiqa.//ḏiqa.//iq.//ḏiq.|UNKNOWN.
+ stem: ẓiqa.//ḏiqa.//ẓiq.//ḏiq.|UNKNOWN.
  root: ḍyq
  gramm: N,f
  paradigm: N2
@@ -11510,7 +11510,7 @@
  trans_en: team of oxen; space which one team of oxen plows at one go, during a single day; one day's work
 -lexeme
  lex: faẓa/faḏa/feza
- stem: faẓa.//faḏa.//feza.//.//faḏ.//fez.|UNKNOWN.
+ stem: faẓa.//faḏa.//feza.//faḏ.//fez.|UNKNOWN.
  root: fḍw
  gramm: N
  paradigm: N2
@@ -11518,7 +11518,7 @@
  trans_en: space
 -lexeme
  lex: faẓiḥa
- stem: faẓiḥa.//faḏiḥa.//iḥ.//faḏiḥ.|faẓaʔəḥ.//faẓayəḥ.//faḏaʔəḥ.//faḏayəḥ.
+ stem: faẓiḥa.//faḏiḥa.//faẓiḥ.//faḏiḥ.|faẓaʔəḥ.//faẓayəḥ.//faḏaʔəḥ.//faḏayəḥ.
  root: fḍḥ
  gramm: N,f
  paradigm: N2
@@ -13022,7 +13022,7 @@
  trans_en: melon
 -lexeme
  lex: fuẓuli/fuḏuli/fəẓuli/fəḏuli
- stem: fuẓulo.//fuḏuli.//fəẓuli.//fəḏuli.//ul.//fuḏul.//ul.//fəḏul.
+ stem: fuẓulo.//fuḏuli.//fəẓuli.//fəḏuli.//fuẓul.//fuḏul.//fəẓul.//fəḏul.
  root: fẓl/fḏl
  gramm: N
  paradigm: unchangeable
@@ -13966,7 +13966,7 @@
  trans_en: weaver's loom
 -lexeme
  lex: gəmušo/gumušo/gomušo
- stem: gəmušo//.gumušo.//gomušo.//gumuš.//gomuš.|gəmušo.//gumuše.//gomuše.//gəmuš.//gumuš.//gomuš.
+ stem: gəmušo.//gumušo.//gomušo.//gumuš.//gomuš.|gəmušo.//gumuše.//gomuše.//gəmuš.//gumuš.//gomuš.
  root: gmš/gmš
  gramm: N,m
  paradigm: N2
@@ -14630,7 +14630,7 @@
  trans_en: deadly
 -lexeme
  lex: ġaẓab/ġaḏab
- stem: ġaẓab.//ġaḏab.|ġaẓabat.//ġaḏabat.//ab.//ġaḏab.
+ stem: ġaẓab.//ġaḏab.|ġaẓabat.//ġaḏabat.//ġaẓab.//ġaḏab.
  root: ġẓb/ġḏb
  gramm: N,m
  paradigm: N2
@@ -20046,7 +20046,7 @@
  trans_en: compassion, tenderness
 -lexeme
  lex: ḥoẓuro/ḥoḏuro
- stem: ḥoẓuro.//ḥoḏuro.//ur.//ḥoḏur.|ḥoẓure.//ḥoḏure.//ur.//ḥoḏur.
+ stem: ḥoẓuro.//ḥoḏuro.//ḥoẓur.//ḥoḏur.|ḥoẓure.//ḥoḏure.//ḥoẓur.//ḥoḏur.
  root: ḥḍr
  gramm: N,m
  paradigm: N2
@@ -20566,7 +20566,7 @@
  trans_en: belief; oath
 -lexeme
  lex: imẓa/imḏa/amẓa/amḏa
- stem: imẓa.//imḏa.//amẓa.//amḏa.//əmẓa.//əmḏa.//.//imḏ.//.//amḏ.//.//əmḏ.|imẓat.//imḏat.//amẓat.//amẓat.//əmẓat.//əmḏat.//.//imḏ.//.//.//.//əmḏ.
+ stem: imẓa.//imḏa.//amẓa.//amḏa.//əmẓa.//əmḏa.//imḏ.//amḏ.//əmḏ.|imẓat.//imḏat.//amẓat.//amẓat.//əmẓat.//əmḏat.//imḏ.//əmḏ.
  root: mḍʔ
  gramm: N,f
  paradigm: N2
@@ -27702,7 +27702,7 @@
  trans_en: blowfly
 -lexeme
  lex: mə/mən/mu
- stem: mə.//mən.//mu.//m.//m.
+ stem: mə.//mən.//mu.//m.
  root: mn
  gramm: PRN
  paradigm: unchangeable
@@ -27806,7 +27806,7 @@
  trans_en: person from Midyat
 -lexeme
  lex: məẓẓara/məḏḏara
- stem: məẓẓara.//məḏḏara.//ar.//məḏḏar.|məẓẓarat.//məḏḏarat.//ar.//məḏḏar.
+ stem: məẓẓara.//məḏḏara.//məẓẓar.//məḏḏar.|məẓẓarat.//məḏḏarat.//məẓẓar.//məḏḏar.
  root: mḍr
  gramm: N,f
  paradigm: N2
@@ -29998,7 +29998,7 @@
  trans_en: promise, pledge
 -lexeme
  lex: naḏafa/naẓafa
- stem: naḏafa.//naẓafa.//naḏaf.//af.
+ stem: naḏafa.//naẓafa.//naḏaf.//naẓaf.
  root: nẓf
  gramm: N,f
  paradigm: unchangeable
@@ -31326,7 +31326,7 @@
  trans_en: siege
 -lexeme
  lex: nifaḏa/nifaẓa
- stem: nifaḏa.//nifaẓa.//nifaḏ.//.|nifaḏat.//nifaẓat.//nifaḏ.//.
+ stem: nifaḏa.//nifaẓa.//nifaḏ.|nifaḏat.//nifaẓat.//nifaḏ.
  root: nfḍ
  gramm: N,f
  paradigm: N2
@@ -33670,7 +33670,7 @@
  trans_en: the Holy Spirit (ruḥo qadəšto)
 -lexeme
  lex: qaẓa/qaḏa
- stem: qaẓa.//qaḏa.//.//qaḏ.|qaẓawat.//qaḏawat.//aw.//qaḏaw.
+ stem: qaẓa.//qaḏa.//qaḏ.|qaẓawat.//qaḏawat.//qaẓaw.//qaḏaw.
  root: qḍy
  gramm: N,m
  paradigm: N2
@@ -33678,7 +33678,7 @@
  trans_en: district town
 -lexeme
  lex: qaẓame/qaḏame
- stem: qaẓame.//qaḏame.//am.//qaḏam.
+ stem: qaẓame.//qaḏame.//qaẓam.//qaḏam.
  root: qḍm
  gramm: N,f
  paradigm: unchangeable
@@ -33686,7 +33686,7 @@
  trans_en: dish made from chick peas, with shells
 -lexeme
  lex: qaẓi/qaḏi/qazi
- stem: qaẓi.//qaḏi.//qazi.//.//qaḏ.//qaz.|UNKNOWN.
+ stem: qaẓi.//qaḏi.//qazi.//qaḏ.//qaz.|UNKNOWN.
  root: qẓy/qḏy
  gramm: N,m
  paradigm: N2
@@ -33694,7 +33694,7 @@
  trans_en: judge
 -lexeme
  lex: qaẓiye/qaḏiye
- stem: qaẓiye.//qaḏiye.//iy.//qaḏiy.|UNKNOWN.
+ stem: qaẓiye.//qaḏiye.//qaẓiy.//qaḏiy.|UNKNOWN.
  root: qẓy/qḏy
  gramm: N,f
  paradigm: N2
@@ -35822,7 +35822,7 @@
  trans_en: the largest type of grapes
 -lexeme
  lex: qoẓe/qoḏe
- stem: qoẓe.//qoḏe.//.//qoḏ.|UNKNOWN.
+ stem: qoẓe.//qoḏe.//qoḏ.|UNKNOWN.
  root: qẓy/qḏy
  gramm: N,m
  paradigm: N2
@@ -37742,7 +37742,7 @@
  trans_en: in thousands, many thounsands (reb w rəbwoṯo)
 -lexeme
  lex: rəẓa
- stem: rəẓa.//.|UNKNOWN.
+ stem: rəẓa.|UNKNOWN.
  root: rḍy
  gramm: N,m
  paradigm: N2
@@ -40542,7 +40542,7 @@
  trans_en: maize (daḥno sṭambuli)
 -lexeme
  lex: ste/sti/stine/iste/isti
- stem: ste.//sti.//stine.//stene.//iste.//isti.//st.//st.//stin.//sten.//ist.//ist.//ze.
+ stem: ste.//sti.//stine.//stene.//iste.//isti.//st.//stin.//sten.//ist.//ist.//ze.
  root: st
  gramm: CONJ
  paradigm: unchangeable
@@ -45636,7 +45636,7 @@
  trans_en: spicy water
 -lexeme
  lex: tə/tu
- stem: tə.//tu.//t.//t.
+ stem: tə.//tu.//t.
  root: t
  gramm: PRN
  paradigm: unchangeable
@@ -47691,7 +47691,7 @@
  trans_en: Monday after Easter
 -lexeme
  lex: u
- stem: u.//.
+ stem: u.
  root: ʔ
  gramm: INTERJ
  paradigm: unchangeable
@@ -47979,7 +47979,7 @@
  trans_en: promise, pledge
 -lexeme
  lex: waẓʕiye
- stem: waẓʕiye.//wazʕiye.//ʕiy.//wazʕiy.|UNKNOWN.
+ stem: waẓʕiye.//wazʕiye.//waẓʕiy.//wazʕiy.|UNKNOWN.
  root: wẓʕ
  gramm: N,f
  paradigm: N2
@@ -47987,7 +47987,7 @@
  trans_en: geographical location; location, condition
 -lexeme
  lex: waẓifa
- stem: waẓifa.//if.|waẓifat.//if.
+ stem: waẓifa.//waẓif.|waẓifat.//waẓif.
  root: wḍf
  gramm: N,f
  paradigm: N2
@@ -49568,7 +49568,7 @@
  gramm: N,f
  paradigm: unchangeable
  trans_de: Todesröcheln, Röcheln; Krahn
- trans_en: death rattle, rattle; ...
+ trans_en: death rattle, rattle
 -lexeme
  lex: xərxərke
  stem: xərxərke.//xərxərk.
